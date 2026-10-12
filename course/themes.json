@@ -1,6 +1,8 @@
 {
   "_rules": "Independent theme ledger for Behavioral Neuroscience 392. White title slide; image left, instructor information right; Arial. No yellow, orange, gold, purple or green themes.",
-  "used": {},
+  "used": {
+    "1": "smoked steel blue / paper white"
+  },
   "palettes": {
     "midnight-silver": {
       "label": "midnight navy / silver",

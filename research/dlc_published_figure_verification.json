@@ -1,0 +1,15 @@
+{
+  "doi": "10.1038/s41593-018-0209-y",
+  "publisher_article": "https://www.nature.com/articles/s41593-018-0209-y",
+  "checked_from": "Retrieved publisher article HTML figure entries",
+  "published_figures": {
+    "1": "Procedure for using the DeepLabCut Toolbox",
+    "2": "Evaluation during odor trail tracking",
+    "3": "A trail-tracking mouse",
+    "4": "Generalization",
+    "5": "End-to-end training",
+    "6": "Markerless tracking of Drosophila",
+    "7": "Markerless tracking of digits"
+  },
+  "crop_source": "Authors\u2019 article PDF at https://arxiv.org/pdf/1804.03142; manuscript version is explicitly identified in captions and notes. Figure identifiers and topics match the peer-reviewed publisher entries."
+}

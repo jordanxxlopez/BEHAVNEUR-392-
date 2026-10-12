@@ -1,0 +1,93 @@
+[
+  {
+    "pdf": "hemi_verified.pdf",
+    "page": 22,
+    "box": [
+      0.18,
+      0.075,
+      0.92,
+      0.455
+    ],
+    "path": "figures/hemi_f1.png",
+    "caption": "Kliemann et al. (2019), Fig. 1. Anatomy after childhood hemispherectomy.",
+    "source_url": "https://doi.org/10.1016/j.celrep.2019.10.067"
+  },
+  {
+    "pdf": "hemi_verified.pdf",
+    "page": 23,
+    "box": [
+      0.15,
+      0.075,
+      0.93,
+      0.38
+    ],
+    "path": "figures/hemi_f2.png",
+    "caption": "Kliemann et al. (2019), Fig. 2A\u2013B. Networks and regional parcellation.",
+    "source_url": "https://doi.org/10.1016/j.celrep.2019.10.067"
+  },
+  {
+    "pdf": "hemi_verified.pdf",
+    "page": 26,
+    "box": [
+      0.13,
+      0.075,
+      0.925,
+      0.455
+    ],
+    "path": "figures/hemi_f4.png",
+    "caption": "Kliemann et al. (2019), Fig. 4A\u2013B. Within-network and between-network connectivity.",
+    "source_url": "https://doi.org/10.1016/j.celrep.2019.10.067"
+  },
+  {
+    "pdf": "dlc_arxiv.pdf",
+    "page": 2,
+    "box": [
+      0.07,
+      0.065,
+      0.93,
+      0.466
+    ],
+    "path": "figures/dlc_f1.png",
+    "caption": "Mathis et al. (2018), Fig. 1 (author preprint). Labeling, training, and markerless pose estimation.",
+    "source_url": "https://doi.org/10.1038/s41593-018-0209-y"
+  },
+  {
+    "pdf": "dlc_arxiv.pdf",
+    "page": 3,
+    "box": [
+      0.07,
+      0.062,
+      0.93,
+      0.492
+    ],
+    "path": "figures/dlc_f2.png",
+    "caption": "Mathis et al. (2018), Fig. 2A\u2013G (author preprint). Tracking precision and training examples.",
+    "source_url": "https://doi.org/10.1038/s41593-018-0209-y"
+  },
+  {
+    "pdf": "dlc_arxiv.pdf",
+    "page": 4,
+    "box": [
+      0.55,
+      0.062,
+      0.925,
+      0.665
+    ],
+    "path": "figures/dlc_f3.png",
+    "caption": "Mathis et al. (2018), Fig. 3 (author preprint). Snout and body trajectories during odor tracking.",
+    "source_url": "https://doi.org/10.1038/s41593-018-0209-y"
+  },
+  {
+    "pdf": "dlc_arxiv.pdf",
+    "page": 6,
+    "box": [
+      0.07,
+      0.067,
+      0.935,
+      0.433
+    ],
+    "path": "figures/dlc_f6.png",
+    "caption": "Mathis et al. (2018), Fig. 6A\u2013D (author preprint). Tracking fly body parts and proboscis extension.",
+    "source_url": "https://doi.org/10.1038/s41593-018-0209-y"
+  }
+]

@@ -35,6 +35,66 @@
       "credit": "Santiago Ram\u00f3n y Cajal; Science Source, as credited in the textbook.",
       "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
       "isbn": "9781292430256"
+    },
+    {
+      "path": "figures/textbook_f1_2_mindbody.png",
+      "figure_id": "1.2",
+      "pdf_page": 20,
+      "printed_page": 19,
+      "box": [
+        0.18,
+        0.13,
+        0.86,
+        0.405
+      ],
+      "kind": "textbook",
+      "isbn": "9781292430256",
+      "source_url": "https://books.google.com/books?vid=ISBN9781292430256"
+    },
+    {
+      "path": "figures/textbook_f1_7_adaptation.png",
+      "figure_id": "1.7",
+      "pdf_page": 25,
+      "printed_page": 24,
+      "box": [
+        0.18,
+        0.184,
+        0.77,
+        0.535
+      ],
+      "kind": "textbook",
+      "isbn": "9781292430256",
+      "source_url": "https://books.google.com/books?vid=ISBN9781292430256"
+    },
+    {
+      "path": "figures/textbook_f1_8_primate_tree.png",
+      "figure_id": "1.8",
+      "pdf_page": 27,
+      "printed_page": 26,
+      "box": [
+        0.1,
+        0.15,
+        0.88,
+        0.48
+      ],
+      "kind": "textbook",
+      "isbn": "9781292430256",
+      "source_url": "https://books.google.com/books?vid=ISBN9781292430256"
+    },
+    {
+      "path": "figures/textbook_f1_10_brain_counts.png",
+      "figure_id": "1.10",
+      "pdf_page": 28,
+      "printed_page": 27,
+      "box": [
+        0.54,
+        0.52,
+        0.895,
+        0.955
+      ],
+      "kind": "textbook",
+      "isbn": "9781292430256",
+      "source_url": "https://books.google.com/books?vid=ISBN9781292430256"
     }
   ]
 }

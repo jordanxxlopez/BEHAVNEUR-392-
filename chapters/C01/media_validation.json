@@ -1,0 +1,167 @@
+{
+  "results": [
+    {
+      "file": "media/lancaster_video_2.mp4",
+      "slide": 3,
+      "decode_pass": true,
+      "decoder_error": "",
+      "source_sha256_match": true,
+      "purpose": "aesthetic"
+    },
+    {
+      "file": "media/MBARI_barreleye.mp4",
+      "slide": 10,
+      "decode_pass": true,
+      "decoder_error": "",
+      "source_sha256_match": true,
+      "purpose": "aesthetic"
+    },
+    {
+      "file": "media/MBARI_dragonfish.mp4",
+      "slide": 15,
+      "decode_pass": true,
+      "decoder_error": "",
+      "source_sha256_match": true,
+      "purpose": "aesthetic"
+    },
+    {
+      "file": "media/MBARI_vampire_squid.mp4",
+      "slide": 17,
+      "decode_pass": true,
+      "decoder_error": "",
+      "source_sha256_match": true,
+      "purpose": "aesthetic"
+    },
+    {
+      "file": "media/Bimbo_balance.mp4",
+      "slide": 21,
+      "decode_pass": true,
+      "decoder_error": "",
+      "source_sha256_match": true,
+      "purpose": "aesthetic"
+    },
+    {
+      "file": "media/mont_622.mp4",
+      "slide": 34,
+      "decode_pass": true,
+      "decoder_error": "",
+      "source_sha256_match": true,
+      "purpose": "academic"
+    },
+    {
+      "file": "media/mont_621.mp4",
+      "slide": 36,
+      "decode_pass": true,
+      "decoder_error": "",
+      "source_sha256_match": true,
+      "purpose": "academic"
+    },
+    {
+      "file": "media/dlc_video_1.mp4",
+      "slide": 43,
+      "decode_pass": true,
+      "decoder_error": "",
+      "source_sha256_match": true,
+      "purpose": "academic"
+    },
+    {
+      "file": "media/dlc_video_2.mp4",
+      "slide": 45,
+      "decode_pass": true,
+      "decoder_error": "",
+      "source_sha256_match": true,
+      "purpose": "academic"
+    },
+    {
+      "file": "media/dlc_video_3.mp4",
+      "slide": 47,
+      "decode_pass": true,
+      "decoder_error": "",
+      "source_sha256_match": true,
+      "purpose": "academic"
+    },
+    {
+      "file": "media/EVE_slide9_excerpt.mp4",
+      "slide": 54,
+      "decode_pass": true,
+      "decoder_error": "",
+      "source_sha256_match": true,
+      "purpose": "academic"
+    },
+    {
+      "file": "media/upload_excerpt_4_slide22.mp4",
+      "slide": 55,
+      "decode_pass": true,
+      "decoder_error": "",
+      "source_sha256_match": true,
+      "purpose": "academic"
+    },
+    {
+      "file": "media/upload_excerpt_2_slide6.mp4",
+      "slide": 56,
+      "decode_pass": true,
+      "decoder_error": "",
+      "source_sha256_match": true,
+      "purpose": "academic"
+    },
+    {
+      "file": "media/upload_excerpt_3_slide21.mp4",
+      "slide": 59,
+      "decode_pass": true,
+      "decoder_error": "",
+      "source_sha256_match": true,
+      "purpose": "academic"
+    },
+    {
+      "file": "media/kagan_video_s1.mp4",
+      "slide": 66,
+      "decode_pass": true,
+      "decoder_error": "",
+      "source_sha256_match": true,
+      "purpose": "academic"
+    },
+    {
+      "file": "media/kagan_video_s2.mp4",
+      "slide": 67,
+      "decode_pass": true,
+      "decoder_error": "",
+      "source_sha256_match": true,
+      "purpose": "academic"
+    },
+    {
+      "file": "media/cai_video_2.mp4",
+      "slide": 68,
+      "decode_pass": true,
+      "decoder_error": "",
+      "source_sha256_match": true,
+      "purpose": "academic"
+    },
+    {
+      "file": "media/cai_video_1.mp4",
+      "slide": 69,
+      "decode_pass": true,
+      "decoder_error": "",
+      "source_sha256_match": true,
+      "purpose": "academic"
+    },
+    {
+      "file": "media/NIHMS73580-supplement-Supplementary_Video_13.mp4",
+      "slide": 73,
+      "decode_pass": true,
+      "decoder_error": "",
+      "source_sha256_match": true,
+      "purpose": "academic"
+    },
+    {
+      "file": "media/NIHMS73580-supplement-Supplementary_Video_8.mp4",
+      "slide": 74,
+      "decode_pass": true,
+      "decoder_error": "",
+      "source_sha256_match": true,
+      "purpose": "academic"
+    }
+  ],
+  "all_decoded": true,
+  "all_hashes_match": true,
+  "desktop_powerpoint_playback_tested": false
+}

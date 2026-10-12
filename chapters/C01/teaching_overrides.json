@@ -1,0 +1,70 @@
+{
+  "23": {
+    "last": "A truncated version containing the first 315 amino acids retained channel function. Amino acids are the building blocks of proteins. The light-gated conductance remained within the membrane-spanning part of ChR2, linking illumination directly to an ion pathway across the cell membrane."
+  },
+  "24": {
+    "last": "At pH 9, the small current remaining in a solution containing the bulky cation N-methyl-D-glucamine disappeared. A **proton** is a positively charged hydrogen ion, and **pH** describes acidity. The result identified a proton contribution at lower pH, connecting the composition of the surrounding solution with the ions carrying the light-evoked current."
+  },
+  "25": {
+    "last": "The channel continued to respond rapidly in an excised membrane patch. The light-sensitive protein and its membrane environment therefore retained the machinery needed for gating. Different opening and closing times gave the electrical response a time course that extended across the illumination period and its termination."
+  },
+  "27": {
+    "last": "Continuous illumination produced a well-timed initial spike followed by activity with less precise timing. Brief repeated light pulses organized firing more closely around the stimulus times. In a later wireless experiment, Montgomery and colleagues delivered 20-Hz, 5-ms light pulses near premotor cortex. Illumination increased circling from approximately 0.40 to 2.5 turns per minute in mice expressing ChR2."
+  },
+  "28": {
+    "last": "The currents changed when chloride availability changed. Chloride movement therefore supplied the charge passing through the activated channels. The recorded current’s direction depended on both the chloride gradient and membrane voltage, connecting an ion’s distribution with the electrical response to light."
+  },
+  "29": {
+    "last": "During illumination, the anion channels conducted chloride across the neuronal membrane. Under the study’s recording conditions, this current suppressed the generation of spikes. Turning the light on and off controlled the periods of reduced electrical activity, giving optical inhibition a measurable time course."
+  },
+  "30": {
+    "last": "ReaChR also recruited behavioral responses through central neurons. Light first had to pass through the body covering and reach cells expressing the protein. Delivery of the opsin to the cell membrane then linked red illumination with electrical activity and the coordinated movement of the feeding or courtship system."
+  },
+  "31": {
+    "last": "The housing effect appeared when P1 neurons were activated, while activation of pIP10 output neurons produced a different sensitivity pattern. These functional comparisons placed the experience-related change within the pathway preceding the pIP10-dependent output. Social experience therefore changed how particular stages of the courtship system responded to an imposed neural input."
+  },
+  "32": {
+    "last": "**Calcium imaging** follows activity-related changes in a fluorescent indicator inside cells. Two-photon microscopy uses focused light to excite that indicator within the tissue. Recording neural fluorescence together with eye and tail movement connected a moving visual stimulus with both the brain’s response and the coordinated onset of hunting."
+  },
+  "33": {
+    "last": "A single-cell intervention could recruit eye convergence, directed swim movements, and a sustained hunting-like sequence. **Sufficiency** means that activating the tested element can produce the measured response under the experimental conditions. The preparation linked activity in an identified neuron with the initiation of several coordinated movement components."
+  },
+  "34": {
+    "last": "The implanted receiver converted incoming radio-frequency energy into electrical power for a light-emitting diode. The diode delivered light near the selected neural target. Separating the external power source from the internal optical output enabled stimulation while the mouse moved through the arena."
+  },
+  "35": {
+    "last": "**Duty cycle** is the fraction of time that stimulation is on. Increasing duty increased the measured heating, with a rise exceeding 1 °C near the tested 40% condition. Pulse timing therefore changed both the pattern of delivered illumination and the average energy deposited around the device."
+  },
+  "36": {
+    "last": "Wireless illumination changed the mouse’s trajectory during stimulation of the premotor region. The animal could move without a light-delivery cable attached to the external apparatus. A radio-powered optical input therefore produced a temporally controlled change in movement through neurons expressing the light-sensitive channel."
+  },
+  "37": {
+    "body": [
+      "**Descending neurons** carry signals from the fly’s brain toward motor regions in its ventral nerve cord. Cande and colleagues activated selected groups using a red-light-sensitive protein. Video measurements recorded the resulting movements in the experimental arena.",
+      "The movements were classified into coordinated behavioral patterns. A **motor module** is a coordinated component of behavior. During 15-second illumination periods, many activated groups shifted the animal’s activity toward a particular behavioral region, changing which pattern occupied most of its time.",
+      "Different targeted groups produced different distributions of movement. Many effective groups predominantly favored one region of the measured behavioral repertoire. The experiment connected genetically identified neural populations with shifts in the coordinated components of ongoing behavior."
+    ]
+  },
+  "38": {
+    "last": "The head-mounted amplifier increased the small electrical signals measured by implanted electrodes. Electronics converted the measurements into a stream transmitted by the animal-borne radio. The external receiver reconstructed and stored that stream, connecting activity recorded during movement with measurements analyzed on a computer."
+  },
+  "39": {
+    "last": "**Extracellular spikes** are brief voltage changes measured near active neurons. The selected filter range retained frequencies useful for identifying those changes. Repeated sampling and synchronization markers preserved the timing and ordering needed to reconstruct each electrode’s signal after transmission."
+  },
+  "40": {
+    "last": "Recording a population allowed the researchers to compare the order in which different cells became active during a flight. Spatially selective neurons discharged at different locations along the trajectories. Their combined activity provided a changing representation that could be compared with the bat’s measured position and movement."
+  },
+  "41": {
+    "last": "Decoded replay trajectories frequently represented locations away from the bat’s resting position. The animal’s body could remain stationary while its hippocampal activity passed through an ordered representation of another trajectory. Brief rest events therefore contained structured spatial information associated with flight-related activity sequences."
+  },
+  "42": {
+    "body": [
+      "Forli and colleagues recorded hippocampal activity alongside the movements of freely flying bats. **Place cells** have firing patterns that vary with the animal’s position. Accelerometers recorded the repeated body movements associated with wing beats during flight.",
+      "The wing-beat rhythm was prominent near 8 Hz. Many place cells fired preferentially during particular parts of that cycle. **Phase** describes a point within a repeating cycle, allowing neuronal firing times to be compared with the timing of movement.",
+      "**Decoding** uses patterns of neural activity to estimate the information represented by the population. Decoded position swept ahead of the bat’s current location in repeated cycles. These **representational sweeps** changed in relation to the ongoing rhythm of the animal’s movement."
+    ]
+  },
+  "26": {
+    "last": "Inward current **depolarized** the neuron, making its internal voltage less negative. Reaching firing threshold triggered an **action potential**, a rapid regenerative change in membrane voltage. A **synapse** is a contact that transmits signals between cells. Optical stimulation provided control of neuronal firing and synaptic communication within the culture."
+  }
+}

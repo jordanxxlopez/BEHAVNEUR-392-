@@ -30,7 +30,7 @@ Embed PowerPoint-compatible MP4s. Preserve native resolution, timing, audio, asp
 
 ## Access
 
-If a paper is blocked, find an accessible primary paper teaching the same necessary concept. Request the paper upload only if that particular source is indispensable. If a selected necessary VIDEO is blocked, stop final delivery and give an exact numbered upload list with original URL, source/paper DOI, movie identifier, and teaching purpose. Continue independent preparation. Never claim an inaccessible PDF, book, prior deck, or video was reviewed. Current uploaded textbook cannot be transferred because the tool limit is 32 MiB; obtain Chapter 1 and contents as smaller files before claiming chapter alignment.
+If a paper is blocked, find an accessible primary paper teaching the same necessary concept. Request the paper upload only if that particular source is indispensable. If a selected necessary VIDEO is blocked, stop final delivery and give an exact numbered upload list with original URL, source/paper DOI, movie identifier, and teaching purpose. Continue independent preparation. Never claim an inaccessible PDF, book, prior deck, or video was reviewed. The full book was too large to transfer, but all six split PDFs have now been downloaded. The contents and Introduction chapter were read directly; keep the full source PDFs private and ignored.
 
 ## Chapter 1 frontier section
 

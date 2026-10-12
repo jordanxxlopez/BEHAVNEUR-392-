@@ -2,11 +2,11 @@
   "course": "BEHAVIORAL NEUROSCIENCE 392",
   "instructor": "Jordan Lopez, Ph.D.",
   "instructor_title": "Professor of Neurobiology & Biomedical Engineering",
-  "_note": "Chapter count follows instructor request. Exact chapter titles await direct verification against the uploaded 13th edition. Dates must be supplied by the instructor. Do not build a final deck from pending titles.",
+  "_note": "Instructor-approved descriptive lecture titles are preserved exactly. The first deck covers the verified Introduction chapter. Fall 2026 is the session\u2019s teaching semester, not an invented meeting date. Future chapter titles await verification.",
   "lectures": [
     {
       "n": 1,
-      "date": "Date TBD",
+      "date": "Fall 2026",
       "title": "From Brain to Behavior: Foundations and Frontiers of Behavioral Neuroscience",
       "verified": true,
       "book_chapter_title": "Introduction",
