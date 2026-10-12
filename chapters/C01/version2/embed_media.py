@@ -1,11 +1,11 @@
 """Embed verified MP4s while retaining all source figures, without changing pixels."""
 from pathlib import Path
-import json,hashlib,zipfile,posixpath
+import json,hashlib,zipfile,posixpath,sys
 from lxml import etree as E
 from pptx import Presentation
 from pptx.util import Inches,Pt
 from pptx.dml.color import RGBColor
-HERE=Path(__file__).resolve().parent;spec=json.loads((HERE/'lecture.json').read_text());media=json.loads((HERE/'media_sources.json').read_text());deck=HERE/spec['output_filename'];prs=Presentation(deck)
+HERE=Path(__file__).resolve().parent;spec=json.loads((HERE/(sys.argv[1] if len(sys.argv)>1 else 'lecture.json')).read_text());media=json.loads((HERE/'media_sources.json').read_text());deck=HERE/spec['output_filename'];prs=Presentation(deck)
 assert len(prs.slides)==75
 assert not any(x.shape_type==16 for s in prs.slides for x in s.shapes),'Rebuild the base deck before embedding.'
 for m in media['sources']:

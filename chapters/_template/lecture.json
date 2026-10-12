@@ -10,5 +10,9 @@
     "refs": []
   },
   "_status": "Template only. Not a chapter spec or a finished deck. Source title, body, figures, transcripts, citations, and videos await verification.",
-  "output_filename": "From_Brain_to_Behavior_Foundations_and_Frontiers.pptx"
+  "output_filename": "From_Brain_to_Behavior_Foundations_and_Frontiers.pptx",
+  "paragraph_line_requirement": [
+    5,
+    7
+  ]
 }

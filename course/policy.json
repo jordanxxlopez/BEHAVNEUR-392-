@@ -41,5 +41,11 @@
   "preferred_academic_videos": 20,
   "preferred_aesthetic_videos": 10,
   "interleave_foundations_and_research": true,
-  "no_textbook_metacommentary": true
+  "no_textbook_metacommentary": true,
+  "content_paragraph_rendered_lines": [
+    5,
+    7
+  ],
+  "require_actual_rendered_line_check": true,
+  "body_word_target": "Superseded by actual 5\u20137 rendered lines per teaching paragraph."
 }

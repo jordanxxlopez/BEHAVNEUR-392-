@@ -17,3 +17,5 @@ All six split textbook parts are available in private source storage. Chapter 1 
 - `soffice --headless --convert-to pdf chapter.pptx` for static visual QA.
 
 The blank template intentionally cannot build a final chapter. The generic checker is necessary but insufficient: the course checker also verifies the chapter title’s verified status, total slides, teaching-source balance, imagery, distinct video quotas, and embedded hashes. Actual desktop PowerPoint playback still needs checking after final media integration.
+
+The expanded Version 2 retains the same slide order, study figures and 30 embedded videos. Every content paragraph now has 5–7 actual rendered lines, verified individually by tools/check_paragraph_lines.py. Use chapters/C01/version2/lecture_expanded.json to rebuild this revision, then embed with `python chapters/C01/version2/embed_media.py lecture_expanded.json`. See PARAGRAPH_LINE_CHECK.md in that folder for all 219 counts.

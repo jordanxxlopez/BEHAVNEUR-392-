@@ -149,27 +149,41 @@ def title_width_in(text, pt):
     return _TITLE_FONT.getlength(plain(text)) / 300 * pt / 72
 
 
+_BODY_METRIC_FONTS = {}
+
 def lines_needed(paras, width_in, pt):
-    """Rough Arial line count: average glyph ≈ 0.5 em."""
-    chars_per_line = max(1, int(width_in * 72 / (pt * 0.5)))
-    total = 0
-    for p in paras:
-        words = plain(p).split()
-        line, n = 0, 1
-        for w in words:
-            add = len(w) + (1 if line else 0)
-            if line + add > chars_per_line:
-                n, line = n + 1, len(w)
-            else:
-                line += add
-        total += n
+    """Estimate actual Arial wraps using metric-compatible fonts, not average glyphs."""
+    from PIL import ImageFont
+    if not _BODY_METRIC_FONTS:
+        regular = list(Path('/usr/share/fonts').rglob('LiberationSans-Regular.ttf'))
+        bold = list(Path('/usr/share/fonts').rglob('LiberationSans-Bold.ttf'))
+        if regular and bold:
+            _BODY_METRIC_FONTS.update({False:ImageFont.truetype(str(regular[0]),300),True:ImageFont.truetype(str(bold[0]),300)})
+    limit=width_in*72;total=0
+    for paragraph in paras:
+        words=[];segments=[]
+        for chunk,is_bold,_ in inline_runs(paragraph):
+            for part in re.split(r'(\s+)',chunk):
+                if not part:continue
+                if part.isspace():
+                    if segments:words.append(segments);segments=[]
+                else:segments.append((part,is_bold))
+        if segments:words.append(segments)
+        line=0;n=1
+        space=_BODY_METRIC_FONTS[False].getlength(' ')/300*pt if _BODY_METRIC_FONTS else pt*.28
+        for word in words:
+            w=sum(_BODY_METRIC_FONTS[bold].getlength(t)/300*pt for t,bold in word) if _BODY_METRIC_FONTS else sum(len(t)*pt*.5 for t,_ in word)
+            add=w+(space if line else 0)
+            if line+add>limit:n+=1;line=w
+            else:line+=add
+        total+=n
     return total
 
 
 def fit_size(paras, width_in, height_in, max_pt=BODY_MAX_PT, min_pt=BODY_MIN_PT, where=""):
     for pt in range(max_pt, min_pt - 1, -1):
         n_lines = lines_needed(paras, width_in, pt)
-        need = n_lines * pt * 1.18 / 72 + (len(paras) - 1) * pt * 0.6 / 72
+        need = n_lines * pt * 1.30 / 72 + (len(paras) - 1) * pt * 0.6 / 72
         if need <= height_in * 0.97:
             return pt, need
     raise SpecError(

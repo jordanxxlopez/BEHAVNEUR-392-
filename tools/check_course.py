@@ -15,7 +15,7 @@ def check(spec,deck,manifest):
  if n and not .30<=roles.count('foundation')/n<=.40:errors.append('Foundation slide share must be 30–40%.')
  if n and not .60<=roles.count('research')/n<=.70:errors.append('Research slide share must be 60–70%.')
  if any(not s.get('figure') and not s.get('figures') for s in slides):errors.append('Every content slide needs source imagery.')
- if spec.get('version')==2 and any(len(' '.join(x.get('body',[])).split())>120 for x in slides):errors.append('Version 2 body text exceeds 120 words on a slide.')
+ if spec.get('version')==2 and not spec.get('paragraph_line_requirement') and any(len(' '.join(x.get('body',[])).split())>120 for x in slides):errors.append('Version 2 body text exceeds 120 words on a slide.')
  if spec.get('version')==2 and any(__import__('re').search(r'\b(?:connected|linked|supported|relationship)\b',b,__import__('re').I) for x in slides for b in x.get('body',[])):errors.append('Vague summary wording in Version 2 teaching text.')
  if any('textbook' in b.lower() for x in slides for b in x.get('body',[])):errors.append('Visible teaching text must not contain textbook metacommentary.')
  sources=manifest.get('sources',[]);
@@ -37,6 +37,14 @@ if __name__=='__main__':
  if len(sys.argv)!=4:sys.exit(__doc__)
  sp=Path(sys.argv[1]);spec=json.loads(sp.read_text());sched=json.loads((Path(__file__).resolve().parent.parent/'course/schedule.json').read_text());meta=next(x for x in sched['lectures'] if x['n']==spec['lecture'])
  errors=check(spec,sys.argv[2],json.loads(Path(sys.argv[3]).read_text()))
+ if spec.get('paragraph_line_requirement'):
+  report_path=sp.parent/'paragraph_line_check.json'
+  if not report_path.exists():errors.append('Required actual-render paragraph line audit is missing.')
+  else:
+   audit=json.loads(report_path.read_text())
+   if audit.get('paragraphs')!=sum(len(x['body']) for x in spec['slides']) or audit.get('failures') or audit.get('passing')!=audit.get('paragraphs'):errors.append('Every content paragraph must pass the 5–7-line rendered audit.')
+   if audit.get('spec_sha256')!=hashlib.sha256(sp.read_bytes()).hexdigest():errors.append('Line audit does not match the final spec.')
+   if audit.get('pptx_sha256')!=hashlib.sha256(Path(sys.argv[2]).read_bytes()).hexdigest():errors.append('Line audit does not match the final PPTX.')
  if not meta.get('verified'):errors.append('Exact chapter title has not been verified against the textbook.')
  for e in errors:print('FAIL:',e)
  print(f'{len(errors)} course-specific failures.')
