@@ -8,7 +8,8 @@ from pptx import Presentation
 
 def check(spec,deck,manifest):
  errors=[];slides=spec.get('slides',[]);n=len(slides);total=len(Presentation(deck).slides)
- if not 75<=total<=85:errors.append(f'Total slides {total}; require 75–85.')
+ allowed=spec.get('authorized_total_slide_range',[75,85])
+ if not allowed[0]<=total<=allowed[1]:errors.append(f'Total slides {total}; require {allowed}.')
  if total!=n+2:errors.append('Spec/deck slide counts differ.')
  roles=[s.get('instructional_role') for s in slides]
  if any(r not in ('foundation','research') for r in roles):errors.append('Each content slide needs instructional_role foundation or research.')

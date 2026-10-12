@@ -47,5 +47,14 @@
     7
   ],
   "require_actual_rendered_line_check": true,
-  "body_word_target": "Superseded by actual 5\u20137 rendered lines per teaching paragraph."
+  "body_word_target": "Superseded by actual 5\u20137 rendered lines per teaching paragraph.",
+  "chapter_overrides": {
+    "1": {
+      "authorized_history_expansion_total_slides": [
+        85,
+        90
+      ],
+      "preserve_existing_content_and_media": true
+    }
+  }
 }

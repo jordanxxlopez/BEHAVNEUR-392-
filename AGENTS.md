@@ -39,3 +39,7 @@ Replace Careers in Neuroscience and Strategies for Learning with source-supporte
 ## Build and validation
 
 Use tools/build_lecture.py with the verified chapter spec, then embed media and run tools/check_lecture.py and tools/check_course.py. course/policy.json records the explicit course overrides. Generic builder passes do not establish that final video quotas or 40%/60% balance are satisfied. Render all slides, inspect figures, captions, body fit, and video placement. Save the editable PPTX and a clearly labeled static PDF preview. Deliver a working direct download. Publish into BEHAVNEUR-392-; do not push course materials into the Neuroethology repository.
+
+## Instructor-authorized Introduction history expansion
+
+For this lecture only, 85–90 total slides are authorized. Preserve the existing 73 content slides and 30 embedded videos while reorganizing them to pair historical methods with related experiments. Add Müller, Galvani/Helmholtz, Flourens before Broca, Fritsch/Hitzig, Purkinje, the original Nobel table, and the verified 2026 optogenetics laureates with their contributions. All new paragraphs still require 5–7 actual rendered lines. Distinguish experimental ablation from clinical observation and stimulation; cardiac Purkinje fibers are specialized cardiomyocytes. The Givon vehicle study does not establish lesion effects.
