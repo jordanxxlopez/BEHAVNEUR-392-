@@ -1,0 +1,21 @@
+{
+  "pages": 75,
+  "verified_body_paragraphs": 219,
+  "missing_body_paragraphs": 0,
+  "all_figure_captions_present": true,
+  "all_slide_titles_present": true,
+  "content_slides": 73,
+  "foundation_slides": 29,
+  "research_slides": 44,
+  "foundation_share": 0.3972602739726027,
+  "research_share": 0.6027397260273972,
+  "longest_foundation_run": 6,
+  "distinct_embedded_videos": 30,
+  "academic_videos": 20,
+  "visual_context_videos": 10,
+  "original_figures_preserved": 65,
+  "additional_source_image_placements": 8,
+  "mean_body_words": 81.5,
+  "whole_deck_visual_review": "All 75 slides reviewed in contact sheets; five final title changes verified in rendered text.",
+  "desktop_powerpoint_playback": "Not tested; not available in this environment."
+}

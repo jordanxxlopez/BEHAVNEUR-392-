@@ -1,0 +1,98 @@
+[
+  {
+    "original_slide": 2,
+    "figure": {
+      "path": "figures/neuron_anatomy.png",
+      "kind": "textbook",
+      "isbn": "9781292430256",
+      "pdf_page": 41,
+      "printed_page": 40,
+      "figure_id": "2.4",
+      "caption": "Carlson and Birkett (2022), Fig. 2.4, p. 40. Labeled cell body, dendrites, axon, and terminals.",
+      "source_url": "https://books.google.com/books?vid=ISBN9781292430256"
+    }
+  },
+  {
+    "original_slide": 4,
+    "figure": {
+      "path": "figures/central_peripheral.png",
+      "kind": "textbook",
+      "isbn": "9781292430256",
+      "pdf_page": 39,
+      "printed_page": 38,
+      "figure_id": "2.1",
+      "caption": "Carlson and Birkett (2022), Fig. 2.1, p. 38. Brain, spinal cord, and peripheral nerves.",
+      "source_url": "https://books.google.com/books?vid=ISBN9781292430256"
+    }
+  },
+  {
+    "original_slide": 9,
+    "figure": {
+      "path": "figures/astrocyte_anatomy.png",
+      "kind": "textbook",
+      "isbn": "9781292430256",
+      "pdf_page": 45,
+      "printed_page": 44,
+      "figure_id": "2.10",
+      "caption": "Carlson and Birkett (2022), Fig. 2.10, p. 44. Astrocytes, neurons, and metabolic support.",
+      "source_url": "https://books.google.com/books?vid=ISBN9781292430256"
+    }
+  },
+  {
+    "original_slide": 14,
+    "figure": {
+      "path": "figures/neuron_anatomy.png",
+      "kind": "textbook",
+      "isbn": "9781292430256",
+      "pdf_page": 41,
+      "printed_page": 40,
+      "figure_id": "2.4",
+      "caption": "Carlson and Birkett (2022), Fig. 2.4, p. 40. Labeled cell body, dendrites, axon, and terminals.",
+      "source_url": "https://books.google.com/books?vid=ISBN9781292430256"
+    }
+  },
+  {
+    "original_slide": 26,
+    "figure": {
+      "path": "figures/neuron_anatomy.png",
+      "kind": "textbook",
+      "isbn": "9781292430256",
+      "pdf_page": 41,
+      "printed_page": 40,
+      "figure_id": "2.4",
+      "caption": "Carlson and Birkett (2022), Fig. 2.4, p. 40. Labeled cell body, dendrites, axon, and terminals.",
+      "source_url": "https://books.google.com/books?vid=ISBN9781292430256"
+    }
+  },
+  {
+    "original_slide": 62,
+    "figure": {
+      "path": "figures/astrocyte_micrograph.png",
+      "kind": "article",
+      "caption": "Navarrete et al. (2012), Fig. 1A. Fluorescently labeled astrocytes and calcium-indicator signal; original 20 µm scale bar.",
+      "source_url": "https://doi.org/10.1371/journal.pbio.1001259"
+    }
+  },
+  {
+    "original_slide": 63,
+    "figure": {
+      "path": "figures/neuron_anatomy.png",
+      "kind": "textbook",
+      "isbn": "9781292430256",
+      "pdf_page": 41,
+      "printed_page": 40,
+      "figure_id": "2.4",
+      "caption": "Carlson and Birkett (2022), Fig. 2.4, p. 40. Labeled cell body, dendrites, axon, and terminals.",
+      "source_url": "https://books.google.com/books?vid=ISBN9781292430256"
+    }
+  },
+  {
+    "original_slide": 3,
+    "figure": {
+      "path": "figures/seizure_calcium.png",
+      "kind": "article",
+      "caption": "Dogra et al. (2025), Fig. 6A–C. Calcium-event measurements and a single-neuron trace in a zebrafish epilepsy model.",
+      "source_url": "https://doi.org/10.1371/journal.pbio.3002499"
+    }
+  }
+]

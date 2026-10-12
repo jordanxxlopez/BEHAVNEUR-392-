@@ -1,0 +1,85 @@
+{
+  "distinct_embedded_videos": 30,
+  "new_or_replaced_video_decode_checks": [
+    {
+      "slide": 15,
+      "file": "media/seizure_movie.mp4",
+      "sha256": "43688ca18eb40ac44993460e61a7904c03442a90597ea8cc3a61dec8bef75272",
+      "full_decode_pass": true,
+      "error": ""
+    },
+    {
+      "slide": 24,
+      "file": "media/antinucci_anatomy.mp4",
+      "sha256": "dbb7e9c0c5beaeea76dd7b7d9d0fa49a632aad75c5c257c725f69098986103f7",
+      "full_decode_pass": true,
+      "error": ""
+    },
+    {
+      "slide": 28,
+      "file": "media/lancaster_nuclei.mp4",
+      "sha256": "02291932bf7256aa25827ec94c3808b8fbb179321120893459785c7dfb95cdfc",
+      "full_decode_pass": true,
+      "error": ""
+    },
+    {
+      "slide": 48,
+      "file": "media/inagaki_feeding.mp4",
+      "sha256": "ed9ae274629beb98147b79f90e57696ded836a2269d711886be4d2179761e98d",
+      "full_decode_pass": true,
+      "error": ""
+    },
+    {
+      "slide": 49,
+      "file": "media/inagaki_courtship.mp4",
+      "sha256": "19ba21a532e8de9cd067df1297cab1b0e6a3ddd16e29e1b2f60956d145b6021e",
+      "full_decode_pass": true,
+      "error": ""
+    },
+    {
+      "slide": 50,
+      "file": "media/inagaki_motor.mp4",
+      "sha256": "c49c83909c5be9ba632e1a1f626009edc107a95b05e422be4af550b260ce17cf",
+      "full_decode_pass": true,
+      "error": ""
+    },
+    {
+      "slide": 59,
+      "file": "media/vr_mouse_tracking.mp4",
+      "sha256": "cab905880612f2a688f22e415b025669109e8e5841a8ab96a08b66a2b089b780",
+      "full_decode_pass": true,
+      "error": ""
+    },
+    {
+      "slide": 67,
+      "file": "media/vr_fish_scene.mp4",
+      "sha256": "75f4a8815fd68fed42f4b0074a7614f753250d4f36525b20451d3a571fb3099b",
+      "full_decode_pass": true,
+      "error": ""
+    },
+    {
+      "slide": 70,
+      "file": "media/vr_fly_optomotor.mp4",
+      "sha256": "b999fc48a8567ea0d0e6e767ee4f54899c7edaa1c5d9d5573c277ed6ef4dec73",
+      "full_decode_pass": true,
+      "error": ""
+    },
+    {
+      "slide": 71,
+      "file": "media/vr_perspective.mp4",
+      "sha256": "ac2e3a468b4d06b54af9ca2fd7dfea9863d4f0ca3605cae31ddfd5fc7ec3127b",
+      "full_decode_pass": true,
+      "error": ""
+    },
+    {
+      "slide": 72,
+      "file": "media/vr_social_feedback.mp4",
+      "sha256": "9dad92908efb104de7aed36c9391d7466b246c047bfcd17db24c607ca2da1813",
+      "full_decode_pass": true,
+      "error": ""
+    }
+  ],
+  "unchanged_videos": 19,
+  "unchanged_source_validation": "The 19 retained movies are byte-identical to Version 1 clips with prior full-decode checks. Embedding reverified all 30 package hashes and relationships.",
+  "desktop_powerpoint_playback": "Not available in this environment."
+}

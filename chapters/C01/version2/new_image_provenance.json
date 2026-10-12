@@ -1,0 +1,132 @@
+{
+  "crop_tool": "tools/crop_figure.py",
+  "new_original_source_images": {
+    "figures/astrocyte_micrograph.png": {
+      "pdf": "Navarrete et al. 2012 PLoS Biology PDF",
+      "pdf_page": 3,
+      "box": [
+        0.1,
+        0.08,
+        0.596,
+        0.175
+      ],
+      "doi": "10.1371/journal.pbio.1001259"
+    },
+    "figures/neuron_anatomy.png": {
+      "pdf": "Uploaded Part1of6 PDF",
+      "pdf_page": 41,
+      "printed_page": 40,
+      "box": [
+        0.25,
+        0.094,
+        0.77,
+        0.346
+      ],
+      "isbn": "9781292430256"
+    },
+    "figures/astrocyte_anatomy.png": {
+      "pdf": "Uploaded Part1of6 PDF",
+      "pdf_page": 45,
+      "printed_page": 44,
+      "box": [
+        0.15,
+        0.59,
+        0.8,
+        0.969
+      ],
+      "isbn": "9781292430256"
+    },
+    "figures/central_peripheral.png": {
+      "pdf": "Uploaded Part1of6 PDF",
+      "pdf_page": 39,
+      "printed_page": 38,
+      "box": [
+        0.53,
+        0.177,
+        0.8,
+        0.575
+      ],
+      "isbn": "9781292430256"
+    },
+    "figures/seizure_calcium.png": {
+      "pdf": "Dogra et al. 2025 PLoS Biology PDF",
+      "pdf_page": 12,
+      "box": [
+        0.078,
+        0.129,
+        0.395,
+        0.221
+      ],
+      "doi": "10.1371/journal.pbio.3002499"
+    }
+  },
+  "original_figure_hashes_verified": {
+    "figures/textbook_f1_5_cajal.png": "eee92853ed0568d98dd95e0eb6dd0b96a51d4540382e230c854a34bab800a650",
+    "figures/textbook_f1_4_broca.png": "9d098c1d1289ba80708a304085e19b62242955dca2af5b0ee92a72ae1fabd90d",
+    "figures/hemi_f1.png": "17364541f4d322816bb42a8411f21cffcac8ef6661c163d47dd01b6d18480647",
+    "figures/hemi_f2.png": "6ba3d5ef34bfef25732f989a269f762bcba65cd6b97a91f769823afe0405c10f",
+    "figures/hemi_f4.png": "48818909e9c44f6fce8178e47c2bbede66e20b527f1c015ebf85c2ea384d145c",
+    "figures/textbook_f1_7_adaptation.png": "478111a49cbcee0786ed8c6498c43c6dd432afc837fcea0b5974f7606abbde56",
+    "figures/textbook_f1_2_mindbody.png": "f3b3ead53460ca63be37ea5f5e5ebff2523f808aaff67156315d267f7f9d6755",
+    "figures/textbook_f1_8_primate_tree.png": "f901977adc799fb612b7583305603416064623ab9435b6029604d17ef54490bc",
+    "figures/textbook_f1_10_brain_counts.png": "9a1e25f06a46d29d907704ecf86970c0941420cb8d0aa77e5d1109deda5f7966",
+    "figures/L40_nagel1.png": "eb03d3a003acdee3efc2780e2806ea976af15f15c93d717cc86570f22800cb58",
+    "figures/L40_nagel1b.png": "eb03d3a003acdee3efc2780e2806ea976af15f15c93d717cc86570f22800cb58",
+    "figures/L40_nagel3.png": "19d833f2b8cd2795dc32151ba6ad0d25bae0acef83c92e95af6fb3ba2fda911c",
+    "figures/L40_boyden1.png": "68c5ca631f977da6c5cef59fa93503572228787343ebcec3ee7cc444f8a376f2",
+    "figures/L40_boyden2.png": "a6252bcad0255236d0d2b16219679618fd063bffd0c295093044cd2319dcaf06",
+    "figures/L40_boyden1a.png": "495a5741dacf2b8c77514dadd21331849ff6103f35bebe40b554b1476ef0c61b",
+    "figures/L40_gov2.png": "cb6a4f7d37865b23dd4cfac7d9432f425e5494d6c86c9ecccab83ec569462a30",
+    "figures/L40_gov3.png": "4e536e7d5d2bdfed6bc9927a97af98bba567dc63817253efbcc8b575d19bdcd4",
+    "figures/L40_gov4.png": "446e32d07616fb59c69714f5eefb6ce06bb6dfe0f210e8a94b7bec0a8fe97be8",
+    "figures/L40_inag1.png": "68900aa2d88fa983a15b99a9ce3336ead26c8a89fce07ca067f030dfe14ba8da",
+    "figures/L40_gro1c.png": "7bdc28fadd88a9ac1bb031878016e9a40042f03669bd23482bbef9b0e0aa03e4",
+    "figures/L40_inag4.png": "89762647587ae879b6de771c8c0cf3bed42afecf1a7a6a6c123af6303a35ead1",
+    "figures/L40_inag3b.png": "92e06b4454cbf7640043ef354268c89da00b3a8ba642853196aa8ed26705efe8",
+    "figures/L40_ant1.png": "1a0dbe3cbd60f54e0853617e44e291ccfb2f89e5ee20687cdce9aac91426e7c4",
+    "figures/L40_ant5.png": "e541108d98956c2f48774151e5ab09d4789ab1baec902af3321390573f893aec",
+    "figures/L40_ant3.png": "53d2dfd944c1d735acba676454f306a9d5ce5c5c90c11d74696502d98ae91e70",
+    "figures/L40_mon1.png": "29be4efa7738b0c6be081a6eaba69ac544c1e3633b8cd7cc6a3e465750c8734c",
+    "figures/L40_mon2.png": "5f1c76cc9eb5d0f4db349c34a0b8e089f5a14e5e1e8a5d58560eb6d233cf30f2",
+    "figures/L40_mon3.png": "aaf9f99c997bf7eb99ec409009caa58311ea7829123d2e8a4c829001c24218b0",
+    "figures/L40_cande3.png": "aa18f3b52004eb9df8415bdb4a25ccd6147651fa8d763b25b1ce70b09a3747ee",
+    "figures/L40_sz1.png": "a3ee4f38a62229907064cf6f81704473932c09d0d55fbfccf2caaf6061a08972",
+    "figures/L40_sz2.png": "9b97dfe8260aa4112a8b377901a0fada0f456152e74f706bfcc1548475ef3414",
+    "figures/L40_for1.png": "00840fd43d74369a76de4c069d1193e09e5bbd791279492f40fd1e2cbea9b910",
+    "figures/L40_for2.png": "617cbf42f9926b22dfc853734ec062c7a3fd43c15055419d11e51b2383746f83",
+    "figures/L40_sny1d.png": "38dddaed112e8edb9ca910657b4402eb98351fe697dfaf5adca85a4d05ebe83c",
+    "figures/L40_for3.png": "55ec5a6a649c6d7c552ffc94801298046166574fb37e1d93305cfc9671c3ab4d",
+    "figures/dlc_f1.png": "78ccefff812e1d6b79f0fab4f4f38778f9220ff0aaf1cd121f1e3cd3ebfec874",
+    "figures/dlc_f2.png": "84f36c8d6f0ef3e0a8053014acea8a15a29f15d7d2daecaaa4ad71269b0cd595",
+    "figures/dlc_f3.png": "23be235c55e23b22db33298ea94eded83118b0f321fbca13421ab1d6d019b1ce",
+    "figures/L74_vehicle_setup.png": "ca23a50c8a60282b8e9a64b8315ad148ae23e7c3182b9349fa1fe817740e127b",
+    "figures/L74_vehicle_response.png": "3309dae34406c67dff10dc35a4c4a0122fbaa6e2a736744147c83b9da3d7051f",
+    "figures/L74_vehicle_paths.png": "b96dfe4c0154007a14e9ff14d0f78cce5221b45f956cfc7fad5d33b4313c4abd",
+    "figures/L74_vehicle_learning.png": "368c4840fc482c5571acece5a176d6c0e6f5ed9437ada1f48b8f9a4fdb3e6dd0",
+    "figures/L74_vehicle_controls.png": "6bd2203bed762aafb2fdf2cce6d34cc4e76c9c56cb22d70e235c9bd00286296e",
+    "figures/L94_intro_7.png": "bf8db3b28d913462123f081217f2875a6258a50dab9d455b9205335564f0d921",
+    "figures/L94_intro_1.png": "472b217a0d503a9f0c3aea606e67cd07cd716d9182747ef07b11f43cb28b7f35",
+    "figures/L94_intro_2.png": "b1d83c994ac903a1fbb65ec720b4d8ceded93434dbf0b584ef9ae133a88f3b12",
+    "figures/L94_intro_4.png": "e6078ded05ec95d7dffc297378465dda622f347c53e3fb9587a67d8aa39d2139",
+    "figures/L94_failure_3.png": "e005e38e1d78c643334c200a86d643c8213bfa367940d1f120b45c079d84cd0b",
+    "figures/L94_welfare_2.png": "bd5f6ed03f23f9c5e238b711ae28ad8a9d78b44fe20eae539c5957816c577547",
+    "figures/L94_welfare_1.png": "05d4df3a0810610ebf9943ad44a4490583178152d0dfd39c94bf58fd5d29da92",
+    "figures/L94_personality_5.png": "2f0456e065ac2a12f64400e8c774a5b474378190ed7420ef376c50e49c0e14fa",
+    "figures/L94_personality_1.png": "1e04dd9a15e4112e84381b0ab52d90e8e30c054325ba16e3438d7e8eb1fea4bb",
+    "figures/L71_culture_cells.png": "ec0ede7c40ad76ed48066005ac311141eb208c61d7770ef771f08a82ac86266b",
+    "figures/L71_culture_sem.png": "33ac9e31d04a11cda998948abe98574a0b768234597cd49a341bc42d9398b725",
+    "figures/L71_dish_layout.png": "0f479e0b6a4c4876505b33ff68dc7f639b01feecd6304e076fe92098a39fe412",
+    "figures/L71_dish_pilot.png": "80e1aac1a2acb5f631ecce521748a2fe403f316bdfd682874a11809cd9c01d88",
+    "figures/L71_dish_software.png": "3804b756075603d11af8e049398e7da390294896c64df8180409be78aea06509",
+    "figures/L71_dish_performance.png": "3ecc21919dc05d489d8025362aff76a81eef08507f7e9b085c84bfda12d67f3c",
+    "figures/Cai2023_source_slide35.png": "888eec412552a6ea9557972f528eb9b98cad81b0cfd884cf7235e058e9a89bd0",
+    "figures/Cai2023_source_slide38.png": "5b01905ff1162502fdaf752c23dca6db2e719c980adcbf1e74fc966ee24ba747",
+    "figures/L83_stowers_world.png": "6803a914ed265a90a8ddc2b3ac5990477f3d59429cda388e497d3582eb868254",
+    "figures/L83_stowers_perspective.png": "1be66eefd4a09c63d285b6ab4b803bc739ed6e1d24cdadfab9bfbfc5d6b87e5f",
+    "figures/L83_stowers_social.png": "d102f07e15be1130ba803e9cdc8893601ddbcc67f50bb9b240b342c99dcd2fdf",
+    "figures/L83_stowers_portals.png": "1bbc9fca34e05b01743bd5f92a4578dc2923389a4a54a0ab5a57a630752e8a89",
+    "figures/L83_stowers_mouse.png": "5832db24d9cd2aaefe4f3837c63b78975a540581689b0146385bdf46a74feed6"
+  },
+  "new_image_placements": 8,
+  "source_pixels": "No recoloring, redrawing, or figure reconstruction."
+}

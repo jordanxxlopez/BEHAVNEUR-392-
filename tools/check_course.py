@@ -12,10 +12,15 @@ def check(spec,deck,manifest):
  if total!=n+2:errors.append('Spec/deck slide counts differ.')
  roles=[s.get('instructional_role') for s in slides]
  if any(r not in ('foundation','research') for r in roles):errors.append('Each content slide needs instructional_role foundation or research.')
- if n and not .20<=roles.count('foundation')/n<=.30:errors.append('Foundation slide share must be 20–30%.')
- if n and not .70<=roles.count('research')/n<=.80:errors.append('Research slide share must be 70–80%.')
+ if n and not .30<=roles.count('foundation')/n<=.40:errors.append('Foundation slide share must be 30–40%.')
+ if n and not .60<=roles.count('research')/n<=.70:errors.append('Research slide share must be 60–70%.')
  if any(not s.get('figure') and not s.get('figures') for s in slides):errors.append('Every content slide needs source imagery.')
- sources=manifest.get('sources',[]);purposes=[x.get('purpose') for x in sources]
+ if spec.get('version')==2 and any(len(' '.join(x.get('body',[])).split())>120 for x in slides):errors.append('Version 2 body text exceeds 120 words on a slide.')
+ if spec.get('version')==2 and any(__import__('re').search(r'\b(?:connected|linked|supported|relationship)\b',b,__import__('re').I) for x in slides for b in x.get('body',[])):errors.append('Vague summary wording in Version 2 teaching text.')
+ if any('textbook' in b.lower() for x in slides for b in x.get('body',[])):errors.append('Visible teaching text must not contain textbook metacommentary.')
+ sources=manifest.get('sources',[]);
+ if spec.get('version')==2 and len(sources)!=30:errors.append('Version 2 requires exactly 30 embedded videos.')
+ purposes=[x.get('purpose') for x in sources]
  if not 15<=purposes.count('academic')<=20:errors.append('Require 15–20 academic video records.')
  if not 5<=purposes.count('aesthetic')<=10:errors.append('Require 5–10 aesthetic video records.')
  if any(p not in ('academic','aesthetic') for p in purposes):errors.append('Each video needs purpose academic or aesthetic.')

@@ -1,0 +1,2561 @@
+{
+  "lecture": 1,
+  "content_slides": 73,
+  "theme": "smoked-steel-paper",
+  "output_filename": "From_Brain_to_Behavior_Foundations_and_Frontiers_V2.pptx",
+  "title_height": 2.4,
+  "title_image": {
+    "path": "figures/textbook_f1_5_cajal.png",
+    "figure_id": "1.5",
+    "pdf_page": 22,
+    "printed_page": 21,
+    "box": [
+      0.531,
+      0.147,
+      0.895,
+      0.582
+    ],
+    "kind": "textbook",
+    "caption": "Carlson and Birkett (2022), Fig. 1.5, p. 21. Cajal’s drawing of Golgi-stained neurons.",
+    "credit": "Santiago Ramón y Cajal; Science Source, as credited in the textbook.",
+    "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+    "isbn": "9781292430256"
+  },
+  "title_refs": [
+    "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition. 13th edition. Pearson. ISBN 9781292430256. Chapter 1, Introduction, pp. 15–34."
+  ],
+  "slides": [
+    {
+      "title": "Brain activity produces perception and action",
+      "body": [
+        "**Behavioral neuroscience** studies how the nervous system produces perception, movement, memory, and emotion. A **neuron** is a nerve cell. Neurons receive signals, change their electrical activity, and send signals to other cells.",
+        "Sensory systems detect events outside and inside the body. Motor systems organize actions such as reaching, walking, or speaking. Memory allows an earlier experience to change a later response.",
+        "An experiment can measure both the action and the activity of the cells involved. The scientist asks what the animal does, which cells are active, and how changing those cells changes the action."
+      ],
+      "transcript": [
+        "**Behavioral neuroscience** studies how the nervous system produces perception, movement, memory, and emotion. A **neuron** is a nerve cell. Neurons receive signals, change their electrical activity, and send signals to other cells.",
+        "Sensory systems detect events outside and inside the body. Motor systems organize actions such as reaching, walking, or speaking. Memory allows an earlier experience to change a later response.",
+        "An experiment can measure both the action and the activity of the cells involved. The scientist asks what the animal does, which cells are active, and how changing those cells changes the action."
+      ],
+      "layout": "figures-right",
+      "figure_width": 5.7,
+      "cite": "Carlson & Birkett (2022)",
+      "refs": [
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition. 13th edition. Pearson. ISBN 9781292430256. Chapter 1, Introduction, pp. 15–34.",
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition, 13th edition. Pearson. ISBN 9781292430256."
+      ],
+      "instructional_role": "foundation",
+      "figures": [
+        {
+          "path": "figures/textbook_f1_5_cajal.png",
+          "figure_id": "1.5",
+          "pdf_page": 22,
+          "printed_page": 21,
+          "box": [
+            0.531,
+            0.147,
+            0.895,
+            0.582
+          ],
+          "kind": "textbook",
+          "caption": "Carlson and Birkett (2022), Fig. 1.5, p. 21. Cajal’s drawing of Golgi-stained neurons.",
+          "credit": "Santiago Ramón y Cajal; Science Source, as credited in the textbook.",
+          "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+          "isbn": "9781292430256"
+        },
+        {
+          "path": "figures/neuron_anatomy.png",
+          "kind": "textbook",
+          "isbn": "9781292430256",
+          "pdf_page": 41,
+          "printed_page": 40,
+          "figure_id": "2.4",
+          "caption": "Carlson and Birkett (2022), Fig. 2.4, p. 40. Labeled cell body, dendrites, axon, and terminals.",
+          "source_url": "https://books.google.com/books?vid=ISBN9781292430256"
+        }
+      ],
+      "primary_figure_height": 2.3,
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Generalization identifies recurring behavioral rules",
+      "body": [
+        "**Generalization** identifies a rule that applies to several observations. Comparing the same behavior in different situations reveals which conditions reliably change it.",
+        "A mouse may build a nest when its surroundings are cold. Pregnancy can also increase nest building, even when cold is not the immediate trigger.",
+        "The movements are similar, but the conditions that start them differ. Describing those conditions gives a behavioral rule. Investigating the signals that trigger the movements explains how the rule arises."
+      ],
+      "transcript": [
+        "**Generalization** identifies a rule that applies to several observations. Comparing the same behavior in different situations reveals which conditions reliably change it.",
+        "A mouse may build a nest when its surroundings are cold. Pregnancy can also increase nest building, even when cold is not the immediate trigger.",
+        "The movements are similar, but the conditions that start them differ. Describing those conditions gives a behavioral rule. Investigating the signals that trigger the movements explains how the rule arises."
+      ],
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/textbook_f1_7_adaptation.png",
+        "figure_id": "1.7",
+        "pdf_page": 25,
+        "printed_page": 24,
+        "box": [
+          0.18,
+          0.184,
+          0.77,
+          0.535
+        ],
+        "kind": "textbook",
+        "isbn": "9781292430256",
+        "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+        "caption": "Carlson and Birkett (2022), Fig. 1.7, p. 24. Related structures with different biological functions."
+      },
+      "figure_width": 5.3,
+      "cite": "Carlson & Birkett (2022)",
+      "refs": [
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition. 13th edition. Pearson. ISBN 9781292430256. Chapter 1, Introduction, pp. 15–34."
+      ],
+      "instructional_role": "foundation",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Goldfish drive toward a terrestrial visual target",
+      "body": [
+        "Givon and colleagues placed a goldfish tank on a wheeled platform. The **fish-operated vehicle**, or FOV, moved according to the fish’s location and the direction it faced.",
+        "A pink board marked the destination in a 3 × 4 metre room. Reaching it produced a food pellet. The goldfish remained in water while its swimming actions moved the tank across the floor.",
+        "With training, arrivals became more frequent and routes more direct. The fish learned to use an unfamiliar movement system to approach a visual goal outside its tank."
+      ],
+      "transcript": [
+        "Givon and colleagues placed a goldfish tank on a wheeled platform. The **fish-operated vehicle**, or FOV, moved according to the fish’s location and the direction it faced.",
+        "A pink board marked the destination in a 3 × 4 metre room. Reaching it produced a food pellet. The goldfish remained in water while its swimming actions moved the tank across the floor.",
+        "With training, arrivals became more frequent and routes more direct. The fish learned to use an unfamiliar movement system to approach a visual goal outside its tank."
+      ],
+      "cite": "Givon et al. (2022)",
+      "refs": [
+        "Givon S, Samina M, Ben-Shahar O, Segev R (2022). From fish out of water to new insights on navigation mechanisms in animals. Behavioural brain research 419:113711. https://doi.org/10.1016/j.bbr.2021.113711"
+      ],
+      "figure_width": 5.3,
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/L74_vehicle_setup.png",
+        "kind": "article",
+        "caption": "Givon et al. (2022), Fig. 1(A–E). The fish-operated vehicle and its control mapping.",
+        "source_url": "https://doi.org/10.1016/j.bbr.2021.113711"
+      },
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Fish position determines vehicle movement",
+      "body": [
+        "A camera above the tank measured the goldfish’s position and orientation. Software identified its body outline and estimated the direction it faced.",
+        "Near a tank boundary, facing outward could command the wheels to move. Swimming to a new location inside the tank therefore changed the platform’s direction through the room.",
+        "The researchers recorded both fish position and vehicle position. The first measured the controlling action; the second measured the resulting route. These records made changes during training measurable."
+      ],
+      "transcript": [
+        "A camera above the tank measured the goldfish’s position and orientation. Software identified its body outline and estimated the direction it faced.",
+        "Near a tank boundary, facing outward could command the wheels to move. Swimming to a new location inside the tank therefore changed the platform’s direction through the room.",
+        "The researchers recorded both fish position and vehicle position. The first measured the controlling action; the second measured the resulting route. These records made changes during training measurable."
+      ],
+      "cite": "Givon et al. (2022)",
+      "refs": [
+        "Givon S, Samina M, Ben-Shahar O, Segev R (2022). From fish out of water to new insights on navigation mechanisms in animals. Behavioural brain research 419:113711. https://doi.org/10.1016/j.bbr.2021.113711"
+      ],
+      "figure_width": 5.3,
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/L74_vehicle_setup.png",
+        "kind": "article",
+        "caption": "Givon et al. (2022), Fig. 1(A–E). The fish-operated vehicle and its control mapping.",
+        "source_url": "https://doi.org/10.1016/j.bbr.2021.113711"
+      },
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Orientation and tank position control the wheels",
+      "body": [
+        "The vehicle moved when the fish approached a boundary and faced outward. Facing inward or staying near the tank center could leave the platform stationary.",
+        "Wheel movement developed over about one second after a command. The fish therefore experienced a delay between changing position and seeing the tank move through the room.",
+        "A laser-ranging system prevented movement within 20 centimetres of an obstacle. The fish’s actions, the mechanical delay, and automatic collision prevention all shaped the routes available."
+      ],
+      "transcript": [
+        "The vehicle moved when the fish approached a boundary and faced outward. Facing inward or staying near the tank center could leave the platform stationary.",
+        "Wheel movement developed over about one second after a command. The fish therefore experienced a delay between changing position and seeing the tank move through the room.",
+        "A laser-ranging system prevented movement within 20 centimetres of an obstacle. The fish’s actions, the mechanical delay, and automatic collision prevention all shaped the routes available."
+      ],
+      "cite": "Givon et al. (2022)",
+      "refs": [
+        "Givon S, Samina M, Ben-Shahar O, Segev R (2022). From fish out of water to new insights on navigation mechanisms in animals. Behavioural brain research 419:113711. https://doi.org/10.1016/j.bbr.2021.113711"
+      ],
+      "figure_width": 6.0,
+      "layout": "figures-right",
+      "figures": [
+        {
+          "path": "figures/L74_vehicle_response.png",
+          "kind": "article",
+          "caption": "Givon et al. (2022), Fig. 2(A–C). Motor delay and directional response of the vehicle.",
+          "source_url": "https://doi.org/10.1016/j.bbr.2021.113711"
+        },
+        {
+          "path": "figures/L74_vehicle_setup.png",
+          "kind": "article",
+          "caption": "Givon et al. (2022), Fig. 1(A–E). The fish-operated vehicle and its control mapping.",
+          "source_url": "https://doi.org/10.1016/j.bbr.2021.113711"
+        }
+      ],
+      "figure_arrangement": "side-by-side",
+      "primary_figure_width": 4.0,
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Rewarded training produces more direct routes",
+      "body": [
+        "**Operant learning** changes behavior through its consequences. In the vehicle task, arrival at the pink board produced food. The fish could try again after the tank returned to the start.",
+        "Early routes wandered and often missed the target. Later routes became more direct, with more successful arrivals and shorter journeys.",
+        "Reward followed successful control of the vehicle. Across repeated attempts, the fish changed its movements so the tank reached the goal more efficiently."
+      ],
+      "transcript": [
+        "**Operant learning** changes behavior through its consequences. In the vehicle task, arrival at the pink board produced food. The fish could try again after the tank returned to the start.",
+        "Early routes wandered and often missed the target. Later routes became more direct, with more successful arrivals and shorter journeys.",
+        "Reward followed successful control of the vehicle. Across repeated attempts, the fish changed its movements so the tank reached the goal more efficiently."
+      ],
+      "cite": "Givon et al. (2022)",
+      "refs": [
+        "Givon S, Samina M, Ben-Shahar O, Segev R (2022). From fish out of water to new insights on navigation mechanisms in animals. Behavioural brain research 419:113711. https://doi.org/10.1016/j.bbr.2021.113711"
+      ],
+      "figure_width": 6.0,
+      "layout": "figures-right",
+      "figures": [
+        {
+          "path": "figures/L74_vehicle_paths.png",
+          "kind": "article",
+          "caption": "Givon et al. (2022), Fig. 3(A–D). Routes become more direct with training.",
+          "source_url": "https://doi.org/10.1016/j.bbr.2021.113711"
+        },
+        {
+          "path": "figures/L74_vehicle_learning.png",
+          "kind": "article",
+          "caption": "Givon et al. (2022), Fig. 4(A–D). Training improves target arrivals, travel time, and path length.",
+          "source_url": "https://doi.org/10.1016/j.bbr.2021.113711"
+        }
+      ],
+      "figure_arrangement": "side-by-side",
+      "primary_figure_width": 4.0,
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Changed starting positions test route flexibility",
+      "body": [
+        "Givon and colleagues changed where the vehicle started. The visual target remained the destination, but the fish needed a different route to reach it.",
+        "Fish could approach the target from these new starting positions. Their actions were therefore not confined to repeating one trained path through the room.",
+        "A visible goal can guide movement when the starting point changes. The fish must select movements using its current position rather than only reproduce a fixed sequence."
+      ],
+      "transcript": [
+        "Givon and colleagues changed where the vehicle started. The visual target remained the destination, but the fish needed a different route to reach it.",
+        "Fish could approach the target from these new starting positions. Their actions were therefore not confined to repeating one trained path through the room.",
+        "A visible goal can guide movement when the starting point changes. The fish must select movements using its current position rather than only reproduce a fixed sequence."
+      ],
+      "cite": "Givon et al. (2022)",
+      "refs": [
+        "Givon S, Samina M, Ben-Shahar O, Segev R (2022). From fish out of water to new insights on navigation mechanisms in animals. Behavioural brain research 419:113711. https://doi.org/10.1016/j.bbr.2021.113711"
+      ],
+      "figure_width": 5.3,
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/L74_vehicle_controls.png",
+        "kind": "article",
+        "caption": "Givon et al. (2022), Fig. 5(A–F). Changing starts, decoys, and relocated targets tests navigation.",
+        "source_url": "https://doi.org/10.1016/j.bbr.2021.113711"
+      },
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Decoys and target relocation test visual guidance",
+      "body": [
+        "The researchers added visual decoys and relocated the target. These changes tested which visual information guided the vehicle’s movement.",
+        "Fish continued to approach the rewarded target under changed conditions. The experiments varied objects in the room while recording where the vehicle went.",
+        "Navigation required detecting the destination and choosing actions that moved the tank toward it. Changes in the scene revealed how the fish used external visual information during the task."
+      ],
+      "transcript": [
+        "The researchers added visual decoys and relocated the target. These changes tested which visual information guided the vehicle’s movement.",
+        "Fish continued to approach the rewarded target under changed conditions. The experiments varied objects in the room while recording where the vehicle went.",
+        "Navigation required detecting the destination and choosing actions that moved the tank toward it. Changes in the scene revealed how the fish used external visual information during the task."
+      ],
+      "cite": "Givon et al. (2022)",
+      "refs": [
+        "Givon S, Samina M, Ben-Shahar O, Segev R (2022). From fish out of water to new insights on navigation mechanisms in animals. Behavioural brain research 419:113711. https://doi.org/10.1016/j.bbr.2021.113711"
+      ],
+      "figure_width": 5.3,
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/L74_vehicle_controls.png",
+        "kind": "article",
+        "caption": "Givon et al. (2022), Fig. 5(A–F). Changing starts, decoys, and relocated targets tests navigation.",
+        "source_url": "https://doi.org/10.1016/j.bbr.2021.113711"
+      },
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Reduction explains behavior through its parts",
+      "body": [
+        "**Reduction** explains a complex event through its component processes. Nest building can be examined as sensory detection, internal signals, and movements that carry material into a nest.",
+        "Temperature-sensitive systems detect cooling. Pregnancy alters **hormones**, chemical messengers released within the body. These signals act on neural systems that organize the animal’s movements.",
+        "Neurons also need a stable chemical environment. **Astrocytes**, star-shaped supporting cells, help regulate this environment and supply metabolic support. Explaining a behavior can therefore involve both neurons and the cells maintaining them."
+      ],
+      "transcript": [
+        "**Reduction** explains a complex event through its component processes. Nest building can be examined as sensory detection, internal signals, and movements that carry material into a nest.",
+        "Temperature-sensitive systems detect cooling. Pregnancy alters **hormones**, chemical messengers released within the body. These signals act on neural systems that organize the animal’s movements.",
+        "Neurons also need a stable chemical environment. **Astrocytes**, star-shaped supporting cells, help regulate this environment and supply metabolic support. Explaining a behavior can therefore involve both neurons and the cells maintaining them."
+      ],
+      "layout": "figures-right",
+      "figure_width": 5.7,
+      "cite": "Carlson & Birkett (2022)",
+      "refs": [
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition. 13th edition. Pearson. ISBN 9781292430256. Chapter 1, Introduction, pp. 15–34.",
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition, 13th edition. Pearson. ISBN 9781292430256."
+      ],
+      "instructional_role": "foundation",
+      "figures": [
+        {
+          "path": "figures/textbook_f1_5_cajal.png",
+          "figure_id": "1.5",
+          "pdf_page": 22,
+          "printed_page": 21,
+          "box": [
+            0.531,
+            0.147,
+            0.895,
+            0.582
+          ],
+          "kind": "textbook",
+          "caption": "Carlson and Birkett (2022), Fig. 1.5, p. 21. Cajal’s drawing of Golgi-stained neurons.",
+          "credit": "Santiago Ramón y Cajal; Science Source, as credited in the textbook.",
+          "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+          "isbn": "9781292430256"
+        },
+        {
+          "path": "figures/astrocyte_anatomy.png",
+          "kind": "textbook",
+          "isbn": "9781292430256",
+          "pdf_page": 45,
+          "printed_page": 44,
+          "figure_id": "2.10",
+          "caption": "Carlson and Birkett (2022), Fig. 2.10, p. 44. Astrocytes, neurons, and metabolic support.",
+          "source_url": "https://books.google.com/books?vid=ISBN9781292430256"
+        }
+      ],
+      "primary_figure_height": 2.3,
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Behavior has a function and a biological mechanism",
+      "body": [
+        "A behavior’s **function** describes what it accomplishes. A nest helps maintain body temperature and shelters offspring. Its **mechanism** describes the processes that produce the construction movements.",
+        "Sensory signals, hormones, and motor circuits determine when the animal gathers material and where it places it. The completed nest then changes the animal’s surroundings.",
+        "The barreleye fish provides a sensory example. Its transparent head region and conspicuous eyes are visible in the footage. Studying an eye’s structure asks how it gathers information; studying its use asks how that information guides behavior."
+      ],
+      "transcript": [
+        "A behavior’s **function** describes what it accomplishes. A nest helps maintain body temperature and shelters offspring. Its **mechanism** describes the processes that produce the construction movements.",
+        "Sensory signals, hormones, and motor circuits determine when the animal gathers material and where it places it. The completed nest then changes the animal’s surroundings.",
+        "The barreleye fish provides a sensory example. Its transparent head region and conspicuous eyes are visible in the footage. Studying an eye’s structure asks how it gathers information; studying its use asks how that information guides behavior."
+      ],
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/textbook_f1_7_adaptation.png",
+        "figure_id": "1.7",
+        "pdf_page": 25,
+        "printed_page": 24,
+        "box": [
+          0.18,
+          0.184,
+          0.77,
+          0.535
+        ],
+        "kind": "textbook",
+        "isbn": "9781292430256",
+        "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+        "caption": "Carlson and Birkett (2022), Fig. 1.7, p. 24. Related structures with different biological functions."
+      },
+      "figure_width": 5.3,
+      "cite": "Carlson & Birkett (2022)",
+      "refs": [
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition. 13th edition. Pearson. ISBN 9781292430256. Chapter 1, Introduction, pp. 15–34.",
+        "Monterey Bay Aquarium Research Institute (MBARI)"
+      ],
+      "instructional_role": "foundation",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Brain and body systems coordinate perception and action",
+      "body": [
+        "The **central nervous system** consists of the brain and spinal cord. **Peripheral nerves** carry information between this central system and the body. Sensory information enters through nerves, and motor commands return to muscles.",
+        "The **cerebral cortex** is the outer sheet of the cerebrum. Different cortical regions contribute to vision, movement, and language. These regions exchange signals as a person sees an object and reaches for it.",
+        "Brain damage can interrupt a particular step in this process. A person may still see an object but have difficulty naming it or moving toward it. The affected behavior helps identify which brain functions have changed."
+      ],
+      "transcript": [
+        "The **central nervous system** consists of the brain and spinal cord. **Peripheral nerves** carry information between this central system and the body. Sensory information enters through nerves, and motor commands return to muscles.",
+        "The **cerebral cortex** is the outer sheet of the cerebrum. Different cortical regions contribute to vision, movement, and language. These regions exchange signals as a person sees an object and reaches for it.",
+        "Brain damage can interrupt a particular step in this process. A person may still see an object but have difficulty naming it or moving toward it. The affected behavior helps identify which brain functions have changed."
+      ],
+      "layout": "figures-right",
+      "figure_width": 5.7,
+      "cite": "Carlson & Birkett (2022)",
+      "refs": [
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition. 13th edition. Pearson. ISBN 9781292430256. Chapter 1, Introduction, pp. 15–34.",
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition, 13th edition. Pearson. ISBN 9781292430256."
+      ],
+      "instructional_role": "foundation",
+      "figures": [
+        {
+          "path": "figures/textbook_f1_4_broca.png",
+          "figure_id": "1.4",
+          "pdf_page": 22,
+          "printed_page": 21,
+          "box": [
+            0.18,
+            0.172,
+            0.505,
+            0.37
+          ],
+          "kind": "textbook",
+          "caption": "Carlson and Birkett (2022), Fig. 1.4, p. 21. Broca’s area in the left hemisphere.",
+          "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+          "isbn": "9781292430256"
+        },
+        {
+          "path": "figures/central_peripheral.png",
+          "kind": "textbook",
+          "isbn": "9781292430256",
+          "pdf_page": 39,
+          "printed_page": 38,
+          "figure_id": "2.1",
+          "caption": "Carlson and Birkett (2022), Fig. 2.1, p. 38. Brain, spinal cord, and peripheral nerves.",
+          "source_url": "https://books.google.com/books?vid=ISBN9781292430256"
+        }
+      ],
+      "primary_figure_height": 2.3,
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Anatomical observations localized speech-related function",
+      "body": [
+        "Paul Broca examined a person who had lost much of his ability to produce speech. After death, the brain contained damage in the left frontal region.",
+        "**Localization of function** means that particular regions make particular contributions to behavior. **Broca’s area** participates in processes needed for producing speech. Damage can interfere with converting intended words into spoken output.",
+        "Language also requires other regions for hearing, recognizing words, and retrieving information. Speaking depends on signals passing among these systems, not only on the activity of one location."
+      ],
+      "transcript": [
+        "Paul Broca examined a person who had lost much of his ability to produce speech. After death, the brain contained damage in the left frontal region.",
+        "**Localization of function** means that particular regions make particular contributions to behavior. **Broca’s area** participates in processes needed for producing speech. Damage can interfere with converting intended words into spoken output.",
+        "Language also requires other regions for hearing, recognizing words, and retrieving information. Speaking depends on signals passing among these systems, not only on the activity of one location."
+      ],
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/textbook_f1_4_broca.png",
+        "figure_id": "1.4",
+        "pdf_page": 22,
+        "printed_page": 21,
+        "box": [
+          0.18,
+          0.172,
+          0.505,
+          0.37
+        ],
+        "kind": "textbook",
+        "caption": "Carlson and Birkett (2022), Fig. 1.4, p. 21. Broca’s area in the left hemisphere.",
+        "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+        "isbn": "9781292430256"
+      },
+      "figure_width": 5.3,
+      "cite": "Carlson & Birkett (2022)",
+      "refs": [
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition. 13th edition. Pearson. ISBN 9781292430256. Chapter 1, Introduction, pp. 15–34."
+      ],
+      "instructional_role": "foundation",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Staining revealed the cellular organization of the brain",
+      "body": [
+        "A stain makes selected structures visible under a microscope. The **Golgi method** colors a small fraction of neurons, revealing their cell bodies and branching processes.",
+        "Santiago Ramón y Cajal examined these stained cells. He described neurons as distinct cells whose processes approach other cells. This cellular organization became central to explanations of neural signaling.",
+        "**Dendrites** receive many incoming signals. An **axon** carries outgoing electrical signals toward terminals. The labeled neuron image identifies these structures, which perform different steps in communication."
+      ],
+      "transcript": [
+        "A stain makes selected structures visible under a microscope. The **Golgi method** colors a small fraction of neurons, revealing their cell bodies and branching processes.",
+        "Santiago Ramón y Cajal examined these stained cells. He described neurons as distinct cells whose processes approach other cells. This cellular organization became central to explanations of neural signaling.",
+        "**Dendrites** receive many incoming signals. An **axon** carries outgoing electrical signals toward terminals. The labeled neuron image identifies these structures, which perform different steps in communication."
+      ],
+      "layout": "figures-right",
+      "figure_width": 5.7,
+      "cite": "Carlson & Birkett (2022)",
+      "refs": [
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition. 13th edition. Pearson. ISBN 9781292430256. Chapter 1, Introduction, pp. 15–34.",
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition, 13th edition. Pearson. ISBN 9781292430256."
+      ],
+      "instructional_role": "foundation",
+      "figures": [
+        {
+          "path": "figures/textbook_f1_5_cajal.png",
+          "figure_id": "1.5",
+          "pdf_page": 22,
+          "printed_page": 21,
+          "box": [
+            0.531,
+            0.147,
+            0.895,
+            0.582
+          ],
+          "kind": "textbook",
+          "caption": "Carlson and Birkett (2022), Fig. 1.5, p. 21. Cajal’s drawing of Golgi-stained neurons.",
+          "credit": "Santiago Ramón y Cajal; Science Source, as credited in the textbook.",
+          "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+          "isbn": "9781292430256"
+        },
+        {
+          "path": "figures/neuron_anatomy.png",
+          "kind": "textbook",
+          "isbn": "9781292430256",
+          "pdf_page": 41,
+          "printed_page": 40,
+          "figure_id": "2.4",
+          "caption": "Carlson and Birkett (2022), Fig. 2.4, p. 40. Labeled cell body, dendrites, axon, and terminals.",
+          "source_url": "https://books.google.com/books?vid=ISBN9781292430256"
+        }
+      ],
+      "primary_figure_height": 2.3,
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Abnormal neural activity and recovery reveal plasticity",
+      "body": [
+        "A **seizure** is a period of abnormal neural activity that can disrupt sensation, movement, or awareness. Rasmussen encephalitis causes brain inflammation and can produce repeated seizures in one cerebral hemisphere.",
+        "A **hemisphere** is one of the cerebrum’s two large sides. In severe childhood cases, disconnecting the affected side can reduce seizures. **Plasticity** allows remaining circuits to change as the child develops and practices skills.",
+        "Dogra and colleagues recorded a zebrafish epilepsy model using a fluorescent calcium indicator. Bright changes mark calcium events in brain cells. The fish carries altered citrate-transport genes; its neural activity provides an experimental example of abnormal excitability."
+      ],
+      "transcript": [
+        "A **seizure** is a period of abnormal neural activity that can disrupt sensation, movement, or awareness. Rasmussen encephalitis causes brain inflammation and can produce repeated seizures in one cerebral hemisphere.",
+        "A **hemisphere** is one of the cerebrum’s two large sides. In severe childhood cases, disconnecting the affected side can reduce seizures. **Plasticity** allows remaining circuits to change as the child develops and practices skills.",
+        "Dogra and colleagues recorded a zebrafish epilepsy model using a fluorescent calcium indicator. Bright changes mark calcium events in brain cells. The fish carries altered citrate-transport genes; its neural activity provides an experimental example of abnormal excitability."
+      ],
+      "layout": "figures-right",
+      "figure_width": 5.7,
+      "cite": "Carlson & Birkett (2022); Dogra et al. (2025)",
+      "refs": [
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition. 13th edition. Pearson. ISBN 9781292430256. Chapter 1, Introduction, pp. 15–34.",
+        "Dogra D, Phan VA, Zhang S, Gavrilovici C, DiMarzo N, Narang A, Ibhazehiebo K, Kurrasch DM, Kim E (2025). Modulation of NMDA receptor signaling and zinc chelation prevent seizure-like events in a zebrafish model of SLC13A5 epilepsy. PLoS Biology 23(4):e3002499. https://doi.org/10.1371/journal.pbio.3002499"
+      ],
+      "instructional_role": "foundation",
+      "figures": [
+        {
+          "path": "figures/textbook_f1_5_cajal.png",
+          "figure_id": "1.5",
+          "pdf_page": 22,
+          "printed_page": 21,
+          "box": [
+            0.531,
+            0.147,
+            0.895,
+            0.582
+          ],
+          "kind": "textbook",
+          "caption": "Carlson and Birkett (2022), Fig. 1.5, p. 21. Cajal’s drawing of Golgi-stained neurons.",
+          "credit": "Santiago Ramón y Cajal; Science Source, as credited in the textbook.",
+          "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+          "isbn": "9781292430256"
+        },
+        {
+          "path": "figures/seizure_calcium.png",
+          "kind": "article",
+          "caption": "Dogra et al. (2025), Fig. 6A–C. Calcium-event measurements and a single-neuron trace in a zebrafish epilepsy model.",
+          "source_url": "https://doi.org/10.1371/journal.pbio.3002499"
+        }
+      ],
+      "primary_figure_height": 2.3,
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs.",
+      "video_figure_weights": [
+        0.35,
+        0.65
+      ]
+    },
+    {
+      "title": "A single hemisphere retains organized brain networks",
+      "body": [
+        "Kliemann and colleagues studied adults who had undergone **hemispherectomy**, removal or disconnection of one cerebral hemisphere, during childhood. Structural magnetic resonance imaging, or **MRI**, documented the remaining brain tissue.",
+        "The adults retained recognizable networks for vision, movement, attention, and other functions. A **brain network** is a set of regions whose activity is organized together.",
+        "The remaining hemisphere contained several distinct systems. Childhood brain reorganization preserved this division of work while changing how strongly different systems interacted."
+      ],
+      "transcript": [
+        "Kliemann and colleagues studied adults who had undergone **hemispherectomy**, removal or disconnection of one cerebral hemisphere, during childhood. Structural magnetic resonance imaging, or **MRI**, documented the remaining brain tissue.",
+        "The adults retained recognizable networks for vision, movement, attention, and other functions. A **brain network** is a set of regions whose activity is organized together.",
+        "The remaining hemisphere contained several distinct systems. Childhood brain reorganization preserved this division of work while changing how strongly different systems interacted."
+      ],
+      "layout": "figure-right",
+      "figure": {
+        "kind": "article",
+        "path": "figures/hemi_f1.png",
+        "caption": "Kliemann et al. (2019), Fig. 1. Anatomy after childhood hemispherectomy.",
+        "source_url": "https://doi.org/10.1016/j.celrep.2019.10.067"
+      },
+      "figure_width": 5.3,
+      "cite": "Kliemann et al. (2019)",
+      "refs": [
+        "Kliemann D, Adolphs R, Tyszka JM, Fischl B, Yeo BTT, Nair R, Dubois J, Paul LK (2019). Intrinsic functional connectivity of the brain in adults with a single cerebral hemisphere. Cell Reports 29(8):2398–2407.e4. https://doi.org/10.1016/j.celrep.2019.10.067"
+      ],
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Brain activity can be measured through its blood supply",
+      "body": [
+        "Active brain tissue needs oxygen and nutrients. Local blood flow changes with neural activity. **Functional MRI**, or fMRI, measures a signal related to blood oxygenation across brain regions.",
+        "**Functional connectivity** describes how closely two regions’ signals fluctuate together. Similar rises and falls indicate coordinated activity over the measured period. Researchers compare many regions to identify networks.",
+        "Visual, movement-related, and attention-related areas form distinguishable groups. Comparing their fluctuations reveals how activity is organized within a hemisphere, including after childhood surgery."
+      ],
+      "transcript": [
+        "Active brain tissue needs oxygen and nutrients. Local blood flow changes with neural activity. **Functional MRI**, or fMRI, measures a signal related to blood oxygenation across brain regions.",
+        "**Functional connectivity** describes how closely two regions’ signals fluctuate together. Similar rises and falls indicate coordinated activity over the measured period. Researchers compare many regions to identify networks.",
+        "Visual, movement-related, and attention-related areas form distinguishable groups. Comparing their fluctuations reveals how activity is organized within a hemisphere, including after childhood surgery."
+      ],
+      "layout": "figure-right",
+      "figure": {
+        "kind": "article",
+        "path": "figures/hemi_f2.png",
+        "caption": "Kliemann et al. (2019), Fig. 2A–B. Networks and regional parcellation.",
+        "source_url": "https://doi.org/10.1016/j.celrep.2019.10.067"
+      },
+      "figure_width": 5.3,
+      "cite": "Carlson & Birkett (2022); Kliemann et al. (2019)",
+      "refs": [
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition, 13th edition. Pearson. ISBN 9781292430256. Introduction, pp. 15–34; brief cellular prerequisites from Structure and Functions of Cells of the Nervous System, pp. 35–69.",
+        "Kliemann D, Adolphs R, Tyszka JM, Fischl B, Yeo BTT, Nair R, Dubois J, Paul LK (2019). Intrinsic functional connectivity of the brain in adults with a single cerebral hemisphere. Cell Reports 29(8):2398–2407.e4. https://doi.org/10.1016/j.celrep.2019.10.067"
+      ],
+      "instructional_role": "foundation",
+      "foundation_basis": "Textbook concept explicitly taught; existing study figure retained as an illustration.",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Different brain networks interact more strongly after surgery",
+      "body": [
+        "Kliemann and colleagues compared activity within a network with activity between different networks. Adults with childhood hemispherectomy retained strong coordination within their remaining brain networks.",
+        "Different networks also fluctuated together more strongly than in most participants with two hemispheres. Visual, motor, and attention-related systems remained distinguishable but interacted more extensively.",
+        "The authors proposed that greater interaction among networks helps describe the brain’s reorganization after early surgery. The remaining tissue maintains several kinds of function within one hemisphere."
+      ],
+      "transcript": [
+        "Kliemann and colleagues compared activity within a network with activity between different networks. Adults with childhood hemispherectomy retained strong coordination within their remaining brain networks.",
+        "Different networks also fluctuated together more strongly than in most participants with two hemispheres. Visual, motor, and attention-related systems remained distinguishable but interacted more extensively.",
+        "The authors proposed that greater interaction among networks helps describe the brain’s reorganization after early surgery. The remaining tissue maintains several kinds of function within one hemisphere."
+      ],
+      "layout": "figure-right",
+      "figure": {
+        "kind": "article",
+        "path": "figures/hemi_f4.png",
+        "caption": "Kliemann et al. (2019), Fig. 4A–B. Within-network and between-network connectivity.",
+        "source_url": "https://doi.org/10.1016/j.celrep.2019.10.067"
+      },
+      "figure_width": 5.3,
+      "cite": "Kliemann et al. (2019)",
+      "refs": [
+        "Kliemann D, Adolphs R, Tyszka JM, Fischl B, Yeo BTT, Nair R, Dubois J, Paul LK (2019). Intrinsic functional connectivity of the brain in adults with a single cerebral hemisphere. Cell Reports 29(8):2398–2407.e4. https://doi.org/10.1016/j.celrep.2019.10.067"
+      ],
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Biological explanations replaced early heart-centered ideas",
+      "body": [
+        "Hippocrates associated thought and emotion with the brain. Aristotle assigned a major role to the heart and described the brain as a cooling organ. These accounts placed mental functions in different organs.",
+        "Galen examined nervous systems in several animals. Nerves ran between sense organs, muscles, and the brain. Their paths made a brain-centered explanation of sensation and action anatomically plausible.",
+        "Later investigators tested the effects of damaged nerves and brain tissue. A change in sensation or movement after damage helped identify the structure’s contribution to behavior."
+      ],
+      "transcript": [
+        "Hippocrates associated thought and emotion with the brain. Aristotle assigned a major role to the heart and described the brain as a cooling organ. These accounts placed mental functions in different organs.",
+        "Galen examined nervous systems in several animals. Nerves ran between sense organs, muscles, and the brain. Their paths made a brain-centered explanation of sensation and action anatomically plausible.",
+        "Later investigators tested the effects of damaged nerves and brain tissue. A change in sensation or movement after damage helped identify the structure’s contribution to behavior."
+      ],
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/textbook_f1_4_broca.png",
+        "figure_id": "1.4",
+        "pdf_page": 22,
+        "printed_page": 21,
+        "box": [
+          0.18,
+          0.172,
+          0.505,
+          0.37
+        ],
+        "kind": "textbook",
+        "caption": "Carlson and Birkett (2022), Fig. 1.4, p. 21. Broca’s area in the left hemisphere.",
+        "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+        "isbn": "9781292430256"
+      },
+      "figure_width": 5.3,
+      "cite": "Carlson & Birkett (2022)",
+      "refs": [
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition. 13th edition. Pearson. ISBN 9781292430256. Chapter 1, Introduction, pp. 15–34."
+      ],
+      "instructional_role": "foundation",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Monism treats mental activity as brain function",
+      "body": [
+        "**Dualism** treats mind and body as different kinds of entities. **Monism**, in a biological account, treats mental activity as a function of the physical brain.",
+        "Descartes proposed mechanical explanations for some nervous-system responses. He also proposed that a nonphysical mind interacted with the body through the pineal gland. This was a historical proposal about mental activity.",
+        "Neuroscience measures physical events during perception, memory, and action. It also changes a biological process and measures the resulting behavior. These experiments examine how mental functions arise from the nervous system."
+      ],
+      "transcript": [
+        "**Dualism** treats mind and body as different kinds of entities. **Monism**, in a biological account, treats mental activity as a function of the physical brain.",
+        "Descartes proposed mechanical explanations for some nervous-system responses. He also proposed that a nonphysical mind interacted with the body through the pineal gland. This was a historical proposal about mental activity.",
+        "Neuroscience measures physical events during perception, memory, and action. It also changes a biological process and measures the resulting behavior. These experiments examine how mental functions arise from the nervous system."
+      ],
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/textbook_f1_2_mindbody.png",
+        "figure_id": "1.2",
+        "pdf_page": 20,
+        "printed_page": 19,
+        "box": [
+          0.18,
+          0.13,
+          0.86,
+          0.405
+        ],
+        "kind": "textbook",
+        "isbn": "9781292430256",
+        "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+        "caption": "Carlson and Birkett (2022), Fig. 1.2, p. 19. Historical accounts of the mind–body relationship."
+      },
+      "figure_width": 5.3,
+      "cite": "Carlson & Birkett (2022)",
+      "refs": [
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition. 13th edition. Pearson. ISBN 9781292430256. Chapter 1, Introduction, pp. 15–34."
+      ],
+      "instructional_role": "foundation",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Selection changes inherited traits across generations",
+      "body": [
+        "**Natural selection** changes inherited traits across generations. When a heritable trait affects survival or reproduction, individuals carrying it may leave different numbers of offspring.",
+        "The next generation then contains a different distribution of traits. Selection acts on existing variation; individual animals do not acquire a useful inherited trait because they need it.",
+        "The dragonfish footage provides a visible example of unusual body and light-producing structures. Explaining their evolution requires evidence about inheritance and reproductive consequences. Their appearance alone identifies traits to investigate."
+      ],
+      "transcript": [
+        "**Natural selection** changes inherited traits across generations. When a heritable trait affects survival or reproduction, individuals carrying it may leave different numbers of offspring.",
+        "The next generation then contains a different distribution of traits. Selection acts on existing variation; individual animals do not acquire a useful inherited trait because they need it.",
+        "The dragonfish footage provides a visible example of unusual body and light-producing structures. Explaining their evolution requires evidence about inheritance and reproductive consequences. Their appearance alone identifies traits to investigate."
+      ],
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/textbook_f1_7_adaptation.png",
+        "figure_id": "1.7",
+        "pdf_page": 25,
+        "printed_page": 24,
+        "box": [
+          0.18,
+          0.184,
+          0.77,
+          0.535
+        ],
+        "kind": "textbook",
+        "isbn": "9781292430256",
+        "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+        "caption": "Carlson and Birkett (2022), Fig. 1.7, p. 24. Related structures with different biological functions."
+      },
+      "figure_width": 5.3,
+      "cite": "Carlson & Birkett (2022)",
+      "refs": [
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition. 13th edition. Pearson. ISBN 9781292430256. Chapter 1, Introduction, pp. 15–34.",
+        "Monterey Bay Aquarium Research Institute (MBARI)"
+      ],
+      "instructional_role": "foundation",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Functionalism relates traits to their biological roles",
+      "body": [
+        "**Functionalism** asks what a trait accomplishes for the organism. A limb used for grasping and a limb used for flight perform different tasks even when they share an evolutionary origin.",
+        "An action can be described through both its outcome and the processes producing it. Feeding obtains food; sensory detection and motor activity determine how the animal captures or collects it.",
+        "The vampire squid’s arms and fine filaments provide recognizable structures for such questions. Researchers can observe what the animal does with them and then investigate the cells and signals controlling their use."
+      ],
+      "transcript": [
+        "**Functionalism** asks what a trait accomplishes for the organism. A limb used for grasping and a limb used for flight perform different tasks even when they share an evolutionary origin.",
+        "An action can be described through both its outcome and the processes producing it. Feeding obtains food; sensory detection and motor activity determine how the animal captures or collects it.",
+        "The vampire squid’s arms and fine filaments provide recognizable structures for such questions. Researchers can observe what the animal does with them and then investigate the cells and signals controlling their use."
+      ],
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/textbook_f1_7_adaptation.png",
+        "figure_id": "1.7",
+        "pdf_page": 25,
+        "printed_page": 24,
+        "box": [
+          0.18,
+          0.184,
+          0.77,
+          0.535
+        ],
+        "kind": "textbook",
+        "isbn": "9781292430256",
+        "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+        "caption": "Carlson and Birkett (2022), Fig. 1.7, p. 24. Related structures with different biological functions."
+      },
+      "figure_width": 5.3,
+      "cite": "Carlson & Birkett (2022)",
+      "refs": [
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition. 13th edition. Pearson. ISBN 9781292430256. Chapter 1, Introduction, pp. 15–34.",
+        "Monterey Bay Aquarium Research Institute (MBARI)"
+      ],
+      "instructional_role": "foundation",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Hunting begins with coordinated eye and tail movements",
+      "body": [
+        "A hunting zebrafish turns its eyes toward a shared frontal region and moves its tail. **Eye convergence** is this inward rotation. A **saccade** is a rapid eye movement.",
+        "Antinucci and colleagues presented small moving spots to larval fish. About 92% of convergent saccades occurred with tail movement. The average eye-to-tail delay was about 12 milliseconds.",
+        "**Calcium imaging** measures activity-related fluorescence inside cells. Recording it alongside eye and tail movements identifies which neurons become active as the fish begins the hunting sequence."
+      ],
+      "cite": "Antinucci et al. (2019)",
+      "refs": [
+        "Paride Antinucci; Mónica Folgueira; Isaac H Bianco (2019). Pretectal neurons control hunting behaviour. eLife 8: e48114. https://doi.org/10.7554/elife.48114"
+      ],
+      "transcript": [
+        "A hunting zebrafish turns its eyes toward a shared frontal region and moves its tail. **Eye convergence** is this inward rotation. A **saccade** is a rapid eye movement.",
+        "Antinucci and colleagues presented small moving spots to larval fish. About 92% of convergent saccades occurred with tail movement. The average eye-to-tail delay was about 12 milliseconds.",
+        "**Calcium imaging** measures activity-related fluorescence inside cells. Recording it alongside eye and tail movements identifies which neurons become active as the fish begins the hunting sequence."
+      ],
+      "figure_width": 5.3,
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/L40_ant1.png",
+        "kind": "article",
+        "caption": "Antinucci et al. (2019), Fig. 1(A–K). Hunting-related calcium activity, eye convergence and brain anatomy.",
+        "source_url": "https://doi.org/10.7554/elife.48114"
+      },
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Activating one pretectal cell can recruit hunting",
+      "body": [
+        "The **pretectum** is a visual-processing region near the midbrain. Antinucci and colleagues placed **CoChR**, a light-sensitive channel, in individual pretectal neurons.",
+        "Blue light activated the selected cell. Some fish converged their eyes and produced directed swimming bouts even without prey. A single-cell intervention could start several parts of the hunting sequence.",
+        "The anatomy recording traverses the fluorescently labeled brain and retinal projection fields. These are places where visual inputs enter brain tissue. Identifying them helps locate the cells whose activity can recruit hunting."
+      ],
+      "cite": "Antinucci et al. (2019)",
+      "refs": [
+        "Paride Antinucci; Mónica Folgueira; Isaac H Bianco (2019). Pretectal neurons control hunting behaviour. eLife 8: e48114. https://doi.org/10.7554/elife.48114"
+      ],
+      "transcript": [
+        "The **pretectum** is a visual-processing region near the midbrain. Antinucci and colleagues placed **CoChR**, a light-sensitive channel, in individual pretectal neurons.",
+        "Blue light activated the selected cell. Some fish converged their eyes and produced directed swimming bouts even without prey. A single-cell intervention could start several parts of the hunting sequence.",
+        "The anatomy recording traverses the fluorescently labeled brain and retinal projection fields. These are places where visual inputs enter brain tissue. Identifying them helps locate the cells whose activity can recruit hunting."
+      ],
+      "figure_width": 6.0,
+      "layout": "figures-right",
+      "figures": [
+        {
+          "path": "figures/L40_ant5.png",
+          "kind": "article",
+          "caption": "Antinucci et al. (2019), Fig. 5(A–T). Single-neuron optical activation and hunting-like kinematics.",
+          "source_url": "https://doi.org/10.7554/elife.48114"
+        },
+        {
+          "path": "figures/L40_ant3.png",
+          "kind": "article",
+          "caption": "Antinucci et al. (2019), Fig. 3(A–I). Single pretectal-cell morphology and projection classes.",
+          "source_url": "https://doi.org/10.7554/elife.48114"
+        }
+      ],
+      "primary_figure_height": 2.7,
+      "figure_arrangement": "side-by-side",
+      "primary_figure_width": 4.0,
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Mutation supplies new inherited variation",
+      "body": [
+        "A **mutation** is a change in genetic information. Mutations can alter proteins, development, or the regulation of cellular processes. They provide one source of inherited variation.",
+        "A mutation can have little effect, reduce function, or change a trait in a way that matters under particular conditions. Its consequences depend on what changes and where the gene is used.",
+        "Natural selection changes the frequency of variants through differences in survival and reproduction. Mutation produces variation; selection changes its distribution across generations. These are different processes."
+      ],
+      "transcript": [
+        "A **mutation** is a change in genetic information. Mutations can alter proteins, development, or the regulation of cellular processes. They provide one source of inherited variation.",
+        "A mutation can have little effect, reduce function, or change a trait in a way that matters under particular conditions. Its consequences depend on what changes and where the gene is used.",
+        "Natural selection changes the frequency of variants through differences in survival and reproduction. Mutation produces variation; selection changes its distribution across generations. These are different processes."
+      ],
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/textbook_f1_8_primate_tree.png",
+        "figure_id": "1.8",
+        "pdf_page": 27,
+        "printed_page": 26,
+        "box": [
+          0.1,
+          0.15,
+          0.88,
+          0.48
+        ],
+        "kind": "textbook",
+        "isbn": "9781292430256",
+        "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+        "caption": "Carlson and Birkett (2022), Fig. 1.8, p. 26. Evolutionary relationships among primates."
+      },
+      "figure_width": 5.3,
+      "cite": "Carlson & Birkett (2022)",
+      "refs": [
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition. 13th edition. Pearson. ISBN 9781292430256. Chapter 1, Introduction, pp. 15–34."
+      ],
+      "instructional_role": "foundation",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Primate brains share an evolutionary ancestry",
+      "body": [
+        "**Primates** include monkeys, apes, and humans. Related species share inherited traits, while their anatomy and behavior also differ. Shared ancestry explains why some structures recur across species.",
+        "A **phylogeny** represents evolutionary ancestry as branches. Branch points mark the divergence of ancestral populations. Humans occupy one branch among other living primates.",
+        "Comparisons can separate a broadly shared ability from a specialization. Researchers can ask which vocal, motor, or learning abilities occur in several primates and which differ among their lineages."
+      ],
+      "transcript": [
+        "**Primates** include monkeys, apes, and humans. Related species share inherited traits, while their anatomy and behavior also differ. Shared ancestry explains why some structures recur across species.",
+        "A **phylogeny** represents evolutionary ancestry as branches. Branch points mark the divergence of ancestral populations. Humans occupy one branch among other living primates.",
+        "Comparisons can separate a broadly shared ability from a specialization. Researchers can ask which vocal, motor, or learning abilities occur in several primates and which differ among their lineages."
+      ],
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/textbook_f1_8_primate_tree.png",
+        "figure_id": "1.8",
+        "pdf_page": 27,
+        "printed_page": 26,
+        "box": [
+          0.1,
+          0.15,
+          0.88,
+          0.48
+        ],
+        "kind": "textbook",
+        "isbn": "9781292430256",
+        "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+        "caption": "Carlson and Birkett (2022), Fig. 1.8, p. 26. Evolutionary relationships among primates."
+      },
+      "figure_width": 5.3,
+      "cite": "Carlson & Birkett (2022)",
+      "refs": [
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition. 13th edition. Pearson. ISBN 9781292430256. Chapter 1, Introduction, pp. 15–34."
+      ],
+      "instructional_role": "foundation",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Brain mass and neuron number are different measurements",
+      "body": [
+        "Brain mass measures how much tissue an animal has. Neuron number measures how many nerve cells it contains. A larger brain does not necessarily contain a proportionally larger number of cortical neurons.",
+        "Species differ in neuron size, spacing, and the proportions of different tissues. These differences change how many cells fit within a given brain mass.",
+        "The mammalian comparison therefore uses separate measurements of size and cell number. Explaining a behavioral ability also requires examining what those cells do and how they communicate."
+      ],
+      "transcript": [
+        "Brain mass measures how much tissue an animal has. Neuron number measures how many nerve cells it contains. A larger brain does not necessarily contain a proportionally larger number of cortical neurons.",
+        "Species differ in neuron size, spacing, and the proportions of different tissues. These differences change how many cells fit within a given brain mass.",
+        "The mammalian comparison therefore uses separate measurements of size and cell number. Explaining a behavioral ability also requires examining what those cells do and how they communicate."
+      ],
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/textbook_f1_10_brain_counts.png",
+        "figure_id": "1.10",
+        "pdf_page": 28,
+        "printed_page": 27,
+        "box": [
+          0.54,
+          0.52,
+          0.895,
+          0.955
+        ],
+        "kind": "textbook",
+        "isbn": "9781292430256",
+        "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+        "caption": "Carlson and Birkett (2022), Fig. 1.10, p. 27. Cortical neuron numbers across mammals."
+      },
+      "figure_width": 5.3,
+      "cite": "Carlson & Birkett (2022)",
+      "refs": [
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition. 13th edition. Pearson. ISBN 9781292430256. Chapter 1, Introduction, pp. 15–34."
+      ],
+      "instructional_role": "foundation",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Extended development contributes to human brain growth",
+      "body": [
+        "Human brain development continues well after birth. Neurons grow processes, synapses form and change, and neural pathways mature. Experience influences which patterns of activity recur.",
+        "Developing tissue also contains **precursor cells**, cells that can divide and produce more specialized cells. Their growth and differentiation contribute to the developing nervous system.",
+        "Lancaster and colleagues recorded nuclei moving within a **cerebral organoid**, a three-dimensional culture reproducing selected features of early brain development. The arrow follows a nucleus through tissue, making one developmental process visible."
+      ],
+      "transcript": [
+        "Human brain development continues well after birth. Neurons grow processes, synapses form and change, and neural pathways mature. Experience influences which patterns of activity recur.",
+        "Developing tissue also contains **precursor cells**, cells that can divide and produce more specialized cells. Their growth and differentiation contribute to the developing nervous system.",
+        "Lancaster and colleagues recorded nuclei moving within a **cerebral organoid**, a three-dimensional culture reproducing selected features of early brain development. The arrow follows a nucleus through tissue, making one developmental process visible."
+      ],
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/textbook_f1_8_primate_tree.png",
+        "figure_id": "1.8",
+        "pdf_page": 27,
+        "printed_page": 26,
+        "box": [
+          0.1,
+          0.15,
+          0.88,
+          0.48
+        ],
+        "kind": "textbook",
+        "isbn": "9781292430256",
+        "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+        "caption": "Carlson and Birkett (2022), Fig. 1.8, p. 26. Evolutionary relationships among primates."
+      },
+      "figure_width": 5.3,
+      "cite": "Carlson & Birkett (2022)",
+      "refs": [
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition. 13th edition. Pearson. ISBN 9781292430256. Chapter 1, Introduction, pp. 15–34.",
+        "Lancaster MA, Renner M, Martin CA, Wenzel D, Bicknell LS, Hurles ME, Homfray T, Penninger JM, Jackson AP, Knoblich JA (2013). Cerebral organoids model human brain development and microcephaly. Nature 501:373–379. https://doi.org/10.1038/nature12517"
+      ],
+      "instructional_role": "foundation",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "An organoid transforms a changing electrical input",
+      "body": [
+        "Cai and colleagues placed a human brain organoid on an electrode array. A **brain organoid** is a three-dimensional culture containing cells with selected features of developing brain tissue.",
+        "Electrical inputs produced changing patterns of neural activity. This tissue served as a **reservoir**, a system that transforms an input into a pattern a separate decoder can use.",
+        "An electronic **readout** converted recorded responses into an answer. The tissue produced the response pattern; the trained decoder assigned that pattern to a category or prediction."
+      ],
+      "transcript": [
+        "Cai and colleagues placed a human brain organoid on an electrode array. A **brain organoid** is a three-dimensional culture containing cells with selected features of developing brain tissue.",
+        "Electrical inputs produced changing patterns of neural activity. This tissue served as a **reservoir**, a system that transforms an input into a pattern a separate decoder can use.",
+        "An electronic **readout** converted recorded responses into an answer. The tissue produced the response pattern; the trained decoder assigned that pattern to a category or prediction."
+      ],
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/Cai2023_source_slide35.png",
+        "kind": "article",
+        "caption": "Cai et al. (2023), Fig. 1B–C. Organoid-electrode arrangement and neuronal tissue markers.",
+        "source_url": "https://doi.org/10.1038/s41928-023-01069-w"
+      },
+      "figure_width": 5.3,
+      "cite": "Cai et al. (2023)",
+      "refs": [
+        "Cai H; Ao Z; Tian C; Wu Z; Liu H; Tchieu J; Gu M; Mackie K; Guo F (2023). Brain organoid reservoir computing for artificial intelligence. Nature Electronics 6(12):1032–1039. https://doi.org/10.1038/s41928-023-01069-w",
+        "Cai et al. (2023), Fig. 1B–C. Organoid-electrode arrangement and neuronal tissue markers. https://doi.org/10.1038/s41928-023-01069-w",
+        "Hongwei Cai, Zheng Ao, Chunhui Tian, Zhuhao Wu, Hongcheng Liu, Jason Tchieu, Mingxia Gu, Ken Mackie, and Feng Guo; original Nature Electronics Supplementary Video 2"
+      ],
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Speech classification uses a trained readout",
+      "body": [
+        "Brainoware classified recordings from eight speakers. Japanese /a/ and /e/ vowel sounds were converted into electrical stimulation patterns, which entered the organoid through electrodes.",
+        "A computer decoder learned to assign the recorded tissue responses to speaker labels. The task combined repeated tissue stimulation with training of this electronic readout.",
+        "Accuracy increased from about 51% to 78% after four **epochs**, passes through the training data, over two days. The result measured speaker classification by the tissue-and-decoder system, not spoken language produced by the organoid."
+      ],
+      "transcript": [
+        "Brainoware classified recordings from eight speakers. Japanese /a/ and /e/ vowel sounds were converted into electrical stimulation patterns, which entered the organoid through electrodes.",
+        "A computer decoder learned to assign the recorded tissue responses to speaker labels. The task combined repeated tissue stimulation with training of this electronic readout.",
+        "Accuracy increased from about 51% to 78% after four **epochs**, passes through the training data, over two days. The result measured speaker classification by the tissue-and-decoder system, not spoken language produced by the organoid."
+      ],
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/Cai2023_source_slide38.png",
+        "kind": "article",
+        "caption": "Cai et al. (2023), Fig. 3C. Speaker classification before and after training.",
+        "source_url": "https://doi.org/10.1038/s41928-023-01069-w"
+      },
+      "figure_width": 5.3,
+      "cite": "Cai et al. (2023)",
+      "refs": [
+        "Cai H; Ao Z; Tian C; Wu Z; Liu H; Tchieu J; Gu M; Mackie K; Guo F (2023). Brain organoid reservoir computing for artificial intelligence. Nature Electronics 6(12):1032–1039. https://doi.org/10.1038/s41928-023-01069-w",
+        "Cai et al. (2023), Fig. 3C. Speaker classification before and after training. https://doi.org/10.1038/s41928-023-01069-w",
+        "Cai et al. (2023), Fig. 3D. Classification accuracy across training epochs. https://doi.org/10.1038/s41928-023-01069-w",
+        "Hongwei Cai, Zheng Ao, Chunhui Tian, Zhuhao Wu, Hongcheng Liu, Jason Tchieu, Mingxia Gu, Ken Mackie, and Feng Guo; original Nature Electronics Supplementary Video 1"
+      ],
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Animal research includes care and ethical oversight",
+      "body": [
+        "Animal research requires appropriate housing, veterinary care, and ethical oversight. A proposed experiment must justify its scientific purpose and describe how the animals will be cared for.",
+        "The **three Rs** are replacement, reduction, and refinement. Replacement uses suitable alternatives; reduction avoids unnecessary animal use; refinement improves procedures and care to reduce harm.",
+        "The sea-lion footage provides an example of a trained movement in managed care. Researchers also measure feeding and voluntary participation when evaluating cognitive activities. Welfare can be examined through repeated observations of the animal’s behavior."
+      ],
+      "transcript": [
+        "Animal research requires appropriate housing, veterinary care, and ethical oversight. A proposed experiment must justify its scientific purpose and describe how the animals will be cared for.",
+        "The **three Rs** are replacement, reduction, and refinement. Replacement uses suitable alternatives; reduction avoids unnecessary animal use; refinement improves procedures and care to reduce harm.",
+        "The sea-lion footage provides an example of a trained movement in managed care. Researchers also measure feeding and voluntary participation when evaluating cognitive activities. Welfare can be examined through repeated observations of the animal’s behavior."
+      ],
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/textbook_f1_5_cajal.png",
+        "figure_id": "1.5",
+        "pdf_page": 22,
+        "printed_page": 21,
+        "box": [
+          0.531,
+          0.147,
+          0.895,
+          0.582
+        ],
+        "kind": "textbook",
+        "caption": "Carlson and Birkett (2022), Fig. 1.5, p. 21. Cajal’s drawing of Golgi-stained neurons.",
+        "credit": "Santiago Ramón y Cajal; Science Source, as credited in the textbook.",
+        "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+        "isbn": "9781292430256"
+      },
+      "figure_width": 5.3,
+      "cite": "Carlson & Birkett (2022)",
+      "refs": [
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition. 13th edition. Pearson. ISBN 9781292430256. Chapter 1, Introduction, pp. 15–34.",
+        "Blackpool Zoo; instructor-uploaded retained recording"
+      ],
+      "instructional_role": "foundation",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Sea lions learn to control a computer cursor",
+      "layout": "figure-right",
+      "body": [
+        "Winship and colleagues trained sea lions to operate EVE, an underwater computer interface. A separate display presented a cursor and targets. Directional buttons controlled cursor movement.",
+        "The sea lion contacted buttons with its muzzle. Each direction moved the cursor across the screen. Reaching a target produced a success signal and reinforcement.",
+        "Training established the button actions before presenting more complex tasks. The animal learned to watch the cursor, choose an input, and stop or change that input as the cursor approached the target."
+      ],
+      "figure": {
+        "kind": "article",
+        "path": "figures/L94_intro_7.png",
+        "caption": "Winship et al. (2023), Fig. 7. Sea lion operating the cursor task",
+        "source_url": "https://doi.org/10.1578/AM.49.1.2023.73"
+      },
+      "cite": "Winship et al. (2023)",
+      "refs": [
+        "Winship KA, Ramos A, Xitco MJ Jr (2023). The Introduction of a Novel Computerized Apparatus to California Sea Lions (Zalophus californianus). Aquatic Mammals 49(1):73–86. https://doi.org/10.1578/AM.49.1.2023.73",
+        "Winship KA, Ramos A, Xitco MJ Jr (2023), Aquatic Mammals 49(1):73–86"
+      ],
+      "transcript": [
+        "Winship and colleagues trained sea lions to operate EVE, an underwater computer interface. A separate display presented a cursor and targets. Directional buttons controlled cursor movement.",
+        "The sea lion contacted buttons with its muzzle. Each direction moved the cursor across the screen. Reaching a target produced a success signal and reinforcement.",
+        "Training established the button actions before presenting more complex tasks. The animal learned to watch the cursor, choose an input, and stop or change that input as the cursor approached the target."
+      ],
+      "instructional_role": "research",
+      "figure_width": 5.3,
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "A display and a touchscreen are different interfaces",
+      "layout": "figure-right",
+      "body": [
+        "A **touchscreen** records contact on the display itself. EVE used a separate monitor and directional controller. The sea lion moved a cursor rather than touching the target’s displayed location.",
+        "A button press changed the cursor’s direction. Contact duration affected how far it moved. The animal had to monitor movement elsewhere while operating the controller.",
+        "The input and the visual goal occupied different places. Successful performance required selecting and timing button contacts so the cursor arrived at the target."
+      ],
+      "figure": {
+        "kind": "article",
+        "path": "figures/L94_intro_1.png",
+        "caption": "Winship et al. (2023), Fig. 1. Separate monitor and directional controller",
+        "source_url": "https://doi.org/10.1578/AM.49.1.2023.73"
+      },
+      "cite": "Winship et al. (2023)",
+      "refs": [
+        "Winship KA, Ramos A, Xitco MJ Jr (2023). The Introduction of a Novel Computerized Apparatus to California Sea Lions (Zalophus californianus). Aquatic Mammals 49(1):73–86. https://doi.org/10.1578/AM.49.1.2023.73",
+        "Instructor-uploaded Meet_EVE_HD (1).mp4, identified by the instructor as the ASAB Meet EVE recording"
+      ],
+      "transcript": [
+        "A **touchscreen** records contact on the display itself. EVE used a separate monitor and directional controller. The sea lion moved a cursor rather than touching the target’s displayed location.",
+        "A button press changed the cursor’s direction. Contact duration affected how far it moved. The animal had to monitor movement elsewhere while operating the controller.",
+        "The input and the visual goal occupied different places. Successful performance required selecting and timing button contacts so the cursor arrived at the target."
+      ],
+      "instructional_role": "research",
+      "figure_width": 5.3,
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Cursor contact determines the trial consequence",
+      "layout": "figure-right",
+      "body": [
+        "A **contingency** specifies which event produces a consequence. In EVE’s cursor task, touching the target with the cursor produced a success tone and reinforcement.",
+        "A blue circle served as the cursor, with black rectangular targets on a white background. Target location and cursor size changed during training.",
+        "Software recorded button directions, contact durations, and response times. The researchers could measure both success and the sequence of actions that moved the cursor into the target."
+      ],
+      "figure": {
+        "kind": "article",
+        "path": "figures/L94_intro_2.png",
+        "caption": "Winship et al. (2023), Fig. 2. Successive cursor-training task displays",
+        "source_url": "https://doi.org/10.1578/AM.49.1.2023.73"
+      },
+      "cite": "Winship et al. (2023)",
+      "refs": [
+        "Winship KA, Ramos A, Xitco MJ Jr (2023). The Introduction of a Novel Computerized Apparatus to California Sea Lions (Zalophus californianus). Aquatic Mammals 49(1):73–86. https://doi.org/10.1578/AM.49.1.2023.73",
+        "Instructor-uploaded Meet_EVE_HD (1).mp4, identified by the instructor as the ASAB Meet EVE recording"
+      ],
+      "transcript": [
+        "A **contingency** specifies which event produces a consequence. In EVE’s cursor task, touching the target with the cursor produced a success tone and reinforcement.",
+        "A blue circle served as the cursor, with black rectangular targets on a white background. Target location and cursor size changed during training.",
+        "Software recorded button directions, contact durations, and response times. The researchers could measure both success and the sequence of actions that moved the cursor into the target."
+      ],
+      "instructional_role": "research",
+      "figure_width": 5.3,
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "A success tone becomes a conditioned reinforcer",
+      "layout": "figure-right",
+      "body": [
+        "A **conditioned reinforcer** is a signal that gains reinforcing value through pairing with other consequences. During EVE training, a success tone was paired with food and other reinforcements.",
+        "Early in training, a trainer could deliver the tone manually. Later, software generated it when the cursor touched a target. The sound marked the successful event immediately.",
+        "Food, ice, and trainer encouragement followed successful responses. The tone identified which action had earned reinforcement, helping the animal learn the task even when the trainer did not visibly signal the correct movement."
+      ],
+      "figure": {
+        "kind": "article",
+        "path": "figures/L94_intro_1.png",
+        "caption": "Winship et al. (2023), Fig. 1. Apparatus used for tone-conditioned gameplay",
+        "source_url": "https://doi.org/10.1578/AM.49.1.2023.73"
+      },
+      "cite": "Winship et al. (2023)",
+      "refs": [
+        "Winship KA, Ramos A, Xitco MJ Jr (2023). The Introduction of a Novel Computerized Apparatus to California Sea Lions (Zalophus californianus). Aquatic Mammals 49(1):73–86. https://doi.org/10.1578/AM.49.1.2023.73"
+      ],
+      "transcript": [
+        "A **conditioned reinforcer** is a signal that gains reinforcing value through pairing with other consequences. During EVE training, a success tone was paired with food and other reinforcements.",
+        "Early in training, a trainer could deliver the tone manually. Later, software generated it when the cursor touched a target. The sound marked the successful event immediately.",
+        "Food, ice, and trainer encouragement followed successful responses. The tone identified which action had earned reinforcement, helping the animal learn the task even when the trainer did not visibly signal the correct movement."
+      ],
+      "instructional_role": "research",
+      "figure_width": 5.3,
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Target-contact latency declines during training",
+      "layout": "figures-right",
+      "body": [
+        "**Latency** is the time from a defined starting event to a response. EVE measured the interval from the first button contact to cursor contact with the target.",
+        "Across later training sessions, this interval decreased for each sea lion. Animals reached the target more quickly after starting to move the cursor.",
+        "A faster trial can involve a straighter route, better-timed release, or less ineffective input. Recorded button sequences identify which actions occurred while the cursor traveled toward the target."
+      ],
+      "cite": "Winship et al. (2023)",
+      "refs": [
+        "Winship KA, Ramos A, Xitco MJ Jr (2023). The Introduction of a Novel Computerized Apparatus to California Sea Lions (Zalophus californianus). Aquatic Mammals 49(1):73–86. https://doi.org/10.1578/AM.49.1.2023.73"
+      ],
+      "transcript": [
+        "**Latency** is the time from a defined starting event to a response. EVE measured the interval from the first button contact to cursor contact with the target.",
+        "Across later training sessions, this interval decreased for each sea lion. Animals reached the target more quickly after starting to move the cursor.",
+        "A faster trial can involve a straighter route, better-timed release, or less ineffective input. Recorded button sequences identify which actions occurred while the cursor traveled toward the target."
+      ],
+      "figures": [
+        {
+          "kind": "article",
+          "path": "figures/L94_intro_4.png",
+          "caption": "Winship et al. (2023), Fig. 4. Latency across final training sessions",
+          "source_url": "https://doi.org/10.1578/AM.49.1.2023.73"
+        },
+        {
+          "kind": "article",
+          "path": "figures/L94_intro_2.png",
+          "caption": "Winship et al. (2023), Fig. 2. Single-target task underlying the latency measure",
+          "source_url": "https://doi.org/10.1578/AM.49.1.2023.73"
+        }
+      ],
+      "instructional_role": "research",
+      "figure_width": 6.0,
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Maze choices determine where the cursor falls",
+      "layout": "figure-right",
+      "body": [
+        "In EVE’s maze game, the sea lion chose left or right movements. The cursor traveled along platforms and could fall toward a target below.",
+        "A horizontal choice changed where the cursor dropped. A successful route placed it above the target; another route could send it away from the goal.",
+        "The maze made an action’s later consequence visible. Introductory trials used simpler layouts before more complex arrangements. The animal had to choose movements according to where the cursor would go next."
+      ],
+      "figure": {
+        "kind": "article",
+        "path": "figures/L94_failure_3.png",
+        "caption": "Roberts et al. (2023), Fig. 3. Maze training arrangement and matching alternatives",
+        "source_url": "https://doi.org/10.3390/jzbg4010021"
+      },
+      "cite": "Roberts et al. (2023)",
+      "refs": [
+        "Roberts DL, Eskelinen HC, Winship KA, Ramos AM, Xitco MJ (2023). Effects of Failure on California Sea Lion (Zalophus californianus) Gameplay Strategies and Interest in a Cognitive Task: Implications for Cognitive Enrichment in Pinnipeds. Journal of Zoological and Botanical Gardens 4:240–255. https://doi.org/10.3390/jzbg4010021",
+        "Instructor-uploaded Meet_EVE_HD (1).mp4, identified by the instructor as the ASAB Meet EVE recording"
+      ],
+      "transcript": [
+        "In EVE’s maze game, the sea lion chose left or right movements. The cursor traveled along platforms and could fall toward a target below.",
+        "A horizontal choice changed where the cursor dropped. A successful route placed it above the target; another route could send it away from the goal.",
+        "The maze made an action’s later consequence visible. Introductory trials used simpler layouts before more complex arrangements. The animal had to choose movements according to where the cursor would go next."
+      ],
+      "instructional_role": "research",
+      "figure_width": 5.3,
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Feeding records change after cognitive enrichment",
+      "layout": "figures-right",
+      "body": [
+        "Winship and colleagues compared feeding records before and after EVE was introduced. **Incomplete consumption** meant leaving some of the offered daily ration uneaten.",
+        "Unfinished-ration days fell from 61 to 18 for REX and from 40 to 15 for SLD. Days affected by clinical illness were treated separately in the analysis.",
+        "Average consumption rose from about 97% to 99% for REX and 98% to 99% for SLD. The enrichment period coincided with more complete feeding. Daily records measured behavior outside the computer trials."
+      ],
+      "cite": "Winship et al. (2024)",
+      "refs": [
+        "Winship K, McClain A, Ramos A, Dunham J, Xitco M Jr (2024). Health and Welfare Benefits of Computerized Cognitive Enrichment in California Sea Lions (Zalophus californianus) at the US Navy Marine Mammal Program. Animals 14:1120. https://doi.org/10.3390/ani14071120"
+      ],
+      "transcript": [
+        "Winship and colleagues compared feeding records before and after EVE was introduced. **Incomplete consumption** meant leaving some of the offered daily ration uneaten.",
+        "Unfinished-ration days fell from 61 to 18 for REX and from 40 to 15 for SLD. Days affected by clinical illness were treated separately in the analysis.",
+        "Average consumption rose from about 97% to 99% for REX and 98% to 99% for SLD. The enrichment period coincided with more complete feeding. Daily records measured behavior outside the computer trials."
+      ],
+      "figures": [
+        {
+          "kind": "article",
+          "path": "figures/L94_welfare_2.png",
+          "caption": "Winship et al. (2024), Fig. 2. Incomplete-diet-consumption days across two periods",
+          "source_url": "https://doi.org/10.3390/ani14071120"
+        },
+        {
+          "kind": "article",
+          "path": "figures/L94_welfare_1.png",
+          "caption": "Winship et al. (2024), Fig. 1. EVE session context for the feeding records",
+          "source_url": "https://doi.org/10.3390/ani14071120"
+        }
+      ],
+      "instructional_role": "research",
+      "figure_width": 6.0,
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Rated perceptiveness is associated with faster responses",
+      "layout": "figures-right",
+      "body": [
+        "Ramos and Winship asked familiar trainers to rate the sea lions’ recurring behavioral tendencies. **Personality traits** describe how an individual tends to behave across situations.",
+        "Higher Perceptiveness ratings accompanied faster target-contact responses in both initial and later sessions. Higher Dominance ratings accompanied faster initial responses and fewer initial button presses.",
+        "Speed and input count measure different aspects of performance. A sea lion can reach a target sooner, use fewer contacts, or change both. The study compared these recorded actions with the trainers’ ratings."
+      ],
+      "cite": "Ramos & Winship (2025)",
+      "refs": [
+        "Ramos A, Winship K (2025). Linking Personality and Performance in California Sea Lions (Zalophus californianus) During Computerized Cognitive Enrichment. Animals 15:3007. https://doi.org/10.3390/ani15203007"
+      ],
+      "transcript": [
+        "Ramos and Winship asked familiar trainers to rate the sea lions’ recurring behavioral tendencies. **Personality traits** describe how an individual tends to behave across situations.",
+        "Higher Perceptiveness ratings accompanied faster target-contact responses in both initial and later sessions. Higher Dominance ratings accompanied faster initial responses and fewer initial button presses.",
+        "Speed and input count measure different aspects of performance. A sea lion can reach a target sooner, use fewer contacts, or change both. The study compared these recorded actions with the trainers’ ratings."
+      ],
+      "figures": [
+        {
+          "kind": "article",
+          "path": "figures/L94_personality_5.png",
+          "caption": "Ramos & Winship (2025), Fig. 5. Trait profiles related to response measures",
+          "source_url": "https://doi.org/10.3390/ani15203007"
+        },
+        {
+          "kind": "article",
+          "path": "figures/L94_personality_1.png",
+          "caption": "Ramos & Winship (2025), Fig. 1. Computerized task used for response measurements",
+          "source_url": "https://doi.org/10.3390/ani15203007"
+        }
+      ],
+      "instructional_role": "research",
+      "figure_width": 6.0,
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Human research includes consent and privacy",
+      "body": [
+        "**Informed consent** means that a person understands the proposed research and voluntarily agrees to participate. Researchers explain the procedures, likely burdens, and the participant’s right to withdraw.",
+        "Privacy protects personal information, including clinical history and brain recordings. Researchers limit who can access identifying data and how those data are stored or shared.",
+        "Clinical research may include people with neurological injuries or conditions. Their circumstances affect how procedures are explained and what participation requires. Ethical review evaluates these demands before the study begins."
+      ],
+      "transcript": [
+        "**Informed consent** means that a person understands the proposed research and voluntarily agrees to participate. Researchers explain the procedures, likely burdens, and the participant’s right to withdraw.",
+        "Privacy protects personal information, including clinical history and brain recordings. Researchers limit who can access identifying data and how those data are stored or shared.",
+        "Clinical research may include people with neurological injuries or conditions. Their circumstances affect how procedures are explained and what participation requires. Ethical review evaluates these demands before the study begins."
+      ],
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/textbook_f1_4_broca.png",
+        "figure_id": "1.4",
+        "pdf_page": 22,
+        "printed_page": 21,
+        "box": [
+          0.18,
+          0.172,
+          0.505,
+          0.37
+        ],
+        "kind": "textbook",
+        "caption": "Carlson and Birkett (2022), Fig. 1.4, p. 21. Broca’s area in the left hemisphere.",
+        "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+        "isbn": "9781292430256"
+      },
+      "figure_width": 5.3,
+      "cite": "Carlson & Birkett (2022)",
+      "refs": [
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition. 13th edition. Pearson. ISBN 9781292430256. Chapter 1, Introduction, pp. 15–34."
+      ],
+      "instructional_role": "foundation",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Optogenetics makes selected neurons responsive to light",
+      "body": [
+        "**Optogenetics** places a light-sensitive protein in selected cells. An **ion channel** is a protein pathway through the membrane. Opening the channel allows charged particles called ions to cross.",
+        "**Channelrhodopsin-2**, or ChR2, comes from an alga. Its light-absorbing molecule, **retinal**, responds to blue light. The protein opens a channel through which positive ions can move.",
+        "Light can then change the firing of selected neurons at a chosen time. Karl Deisseroth, Peter Hegemann, and Georg Nagel received the 2026 Nobel Prize in Physiology or Medicine for optogenetics."
+      ],
+      "cite": "Carlson & Birkett (2022); Nagel et al. (2003); Graham (2026)",
+      "refs": [
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition, 13th edition. Pearson. ISBN 9781292430256. Introduction, pp. 15–34; brief cellular prerequisites from Structure and Functions of Cells of the Nervous System, pp. 35–69.",
+        "Georg Nagel; Tanjef Szellas; Wolfram Huhn; Suneel Kateriya; Nona Adeishvili; Peter Berthold; Doris Ollig; Peter Hegemann; Ernst Bamberg (2003). Channelrhodopsin-2, a directly light-gated cation-selective membrane channel. Proceedings of the National Academy of Sciences 100(24): 13940-13945. https://doi.org/10.1073/pnas.1936192100",
+        "Graham F (2026). Daily briefing: Medicine Nobel prize goes to optogenetics. Nature, 5 October 2026. https://doi.org/10.1038/d41586-026-03185-x"
+      ],
+      "transcript": [
+        "**Optogenetics** places a light-sensitive protein in selected cells. An **ion channel** is a protein pathway through the membrane. Opening the channel allows charged particles called ions to cross.",
+        "**Channelrhodopsin-2**, or ChR2, comes from an alga. Its light-absorbing molecule, **retinal**, responds to blue light. The protein opens a channel through which positive ions can move.",
+        "Light can then change the firing of selected neurons at a chosen time. Karl Deisseroth, Peter Hegemann, and Georg Nagel received the 2026 Nobel Prize in Physiology or Medicine for optogenetics."
+      ],
+      "figure_width": 5.3,
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/L40_nagel1.png",
+        "kind": "article",
+        "caption": "Nagel et al. (2003), Fig. 1(a–h). Original ChR2 currents under ion substitution and voltage clamp.",
+        "source_url": "https://doi.org/10.1073/pnas.1936192100"
+      },
+      "instructional_role": "foundation",
+      "foundation_basis": "Textbook concept explicitly taught; existing study figure retained as an illustration.",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Ion movement changes a cell’s electrical state",
+      "body": [
+        "An **ion** carries electrical charge. Sodium, potassium, and calcium ions are positive; chloride is negative. Different concentrations occur inside and outside a neuron.",
+        "An open channel allows ions to cross the membrane. Concentration differences and electrical forces determine their movement. Moving charge changes the **membrane potential**, the voltage difference across the membrane.",
+        "A channel’s **selectivity** determines which ions can pass. Changing the available ions changes the measured current. In optogenetics, light opens the channel, ions move, and the neuron’s voltage changes."
+      ],
+      "cite": "Carlson & Birkett (2022); Nagel et al. (2003)",
+      "refs": [
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition, 13th edition. Pearson. ISBN 9781292430256. Introduction, pp. 15–34; brief cellular prerequisites from Structure and Functions of Cells of the Nervous System, pp. 35–69.",
+        "Georg Nagel; Tanjef Szellas; Wolfram Huhn; Suneel Kateriya; Nona Adeishvili; Peter Berthold; Doris Ollig; Peter Hegemann; Ernst Bamberg (2003). Channelrhodopsin-2, a directly light-gated cation-selective membrane channel. Proceedings of the National Academy of Sciences 100(24): 13940-13945. https://doi.org/10.1073/pnas.1936192100"
+      ],
+      "transcript": [
+        "An **ion** carries electrical charge. Sodium, potassium, and calcium ions are positive; chloride is negative. Different concentrations occur inside and outside a neuron.",
+        "An open channel allows ions to cross the membrane. Concentration differences and electrical forces determine their movement. Moving charge changes the **membrane potential**, the voltage difference across the membrane.",
+        "A channel’s **selectivity** determines which ions can pass. Changing the available ions changes the measured current. In optogenetics, light opens the channel, ions move, and the neuron’s voltage changes."
+      ],
+      "figure_width": 5.3,
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/L40_nagel1b.png",
+        "kind": "article",
+        "caption": "Nagel et al. (2003), Fig. 1(a–h). Currents and selectivity under controlled salt solutions.",
+        "source_url": "https://doi.org/10.1073/pnas.1936192100"
+      },
+      "instructional_role": "foundation",
+      "foundation_basis": "Textbook concept explicitly taught; existing study figure retained as an illustration.",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Channel opening gives a neural signal its time course",
+      "body": [
+        "**Gating** is the opening or closing of an ion channel. Light-gated channels respond to illumination. Voltage-gated channels respond to the membrane voltage.",
+        "A flash can open a channel rapidly, while closing takes longer. The electrical current can therefore continue after the brief flash ends. Opening and closing determine the input’s time course.",
+        "A neuron receives many inputs at different times. A longer-lasting current overlaps more of those inputs. Channel timing affects whether their combined effect brings the neuron to firing threshold."
+      ],
+      "cite": "Carlson & Birkett (2022); Nagel et al. (2003)",
+      "refs": [
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition, 13th edition. Pearson. ISBN 9781292430256. Introduction, pp. 15–34; brief cellular prerequisites from Structure and Functions of Cells of the Nervous System, pp. 35–69.",
+        "Georg Nagel; Tanjef Szellas; Wolfram Huhn; Suneel Kateriya; Nona Adeishvili; Peter Berthold; Doris Ollig; Peter Hegemann; Ernst Bamberg (2003). Channelrhodopsin-2, a directly light-gated cation-selective membrane channel. Proceedings of the National Academy of Sciences 100(24): 13940-13945. https://doi.org/10.1073/pnas.1936192100"
+      ],
+      "transcript": [
+        "**Gating** is the opening or closing of an ion channel. Light-gated channels respond to illumination. Voltage-gated channels respond to the membrane voltage.",
+        "A flash can open a channel rapidly, while closing takes longer. The electrical current can therefore continue after the brief flash ends. Opening and closing determine the input’s time course.",
+        "A neuron receives many inputs at different times. A longer-lasting current overlaps more of those inputs. Channel timing affects whether their combined effect brings the neuron to firing threshold."
+      ],
+      "figure_width": 5.3,
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/L40_nagel3.png",
+        "kind": "article",
+        "caption": "Nagel et al. (2003), Fig. 3(a–g). Excised-patch responses to light and intracellular pH.",
+        "source_url": "https://doi.org/10.1073/pnas.1936192100"
+      },
+      "instructional_role": "foundation",
+      "foundation_basis": "Textbook concept explicitly taught; existing study figure retained as an illustration.",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Depolarization can trigger an action potential",
+      "body": [
+        "A resting neuron is usually more negative inside than outside. **Depolarization** makes this difference less negative. Inward movement of positive charge can bring the membrane to firing threshold.",
+        "An **action potential** is a brief electrical signal that renews itself as it travels along an axon. Voltage-gated channels open in sequence as adjacent membrane regions change voltage.",
+        "At a **synapse**, one neuron influences another cell. Many synapses release chemical messengers called **neurotransmitters**. Light-triggered firing can therefore change the activity of cells receiving the stimulated neuron’s outputs."
+      ],
+      "cite": "Carlson & Birkett (2022); Boyden et al. (2005)",
+      "refs": [
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition, 13th edition. Pearson. ISBN 9781292430256. Introduction, pp. 15–34; brief cellular prerequisites from Structure and Functions of Cells of the Nervous System, pp. 35–69.",
+        "Edward S Boyden; Feng Zhang; Ernst Bamberg; Georg Nagel; Karl Deisseroth (2005). Millisecond-timescale, genetically targeted optical control of neural activity. Nature Neuroscience 8(9): 1263-1268. https://doi.org/10.1038/nn1525",
+        "Graham F (2026). Daily briefing: Medicine Nobel prize goes to optogenetics. Nature, 5 October 2026. https://doi.org/10.1038/d41586-026-03185-x",
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition, 13th edition. Pearson. ISBN 9781292430256."
+      ],
+      "transcript": [
+        "A resting neuron is usually more negative inside than outside. **Depolarization** makes this difference less negative. Inward movement of positive charge can bring the membrane to firing threshold.",
+        "An **action potential** is a brief electrical signal that renews itself as it travels along an axon. Voltage-gated channels open in sequence as adjacent membrane regions change voltage.",
+        "At a **synapse**, one neuron influences another cell. Many synapses release chemical messengers called **neurotransmitters**. Light-triggered firing can therefore change the activity of cells receiving the stimulated neuron’s outputs."
+      ],
+      "figure_width": 5.7,
+      "layout": "figures-right",
+      "instructional_role": "foundation",
+      "foundation_basis": "Textbook concept explicitly taught; existing study figure retained as an illustration.",
+      "figures": [
+        {
+          "path": "figures/L40_boyden1.png",
+          "kind": "article",
+          "caption": "Boyden et al. (2005), Fig. 1(a–e). Membrane expression, inward current and light-evoked spikes.",
+          "source_url": "https://doi.org/10.1038/nn1525"
+        },
+        {
+          "path": "figures/neuron_anatomy.png",
+          "kind": "textbook",
+          "isbn": "9781292430256",
+          "pdf_page": 41,
+          "printed_page": 40,
+          "figure_id": "2.4",
+          "caption": "Carlson and Birkett (2022), Fig. 2.4, p. 40. Labeled cell body, dendrites, axon, and terminals.",
+          "source_url": "https://books.google.com/books?vid=ISBN9781292430256"
+        }
+      ],
+      "primary_figure_height": 2.3,
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Brief light pulses can make neurons fire",
+      "body": [
+        "Boyden and colleagues placed ChR2 in rat neurons. Blue light opened the channel, positive charge entered, and the membrane depolarized. A short pulse could trigger an action potential.",
+        "Repeating light pulses delivered a timed series of inputs. Electrical recordings measured whether the neuron fired after each pulse. The timing of stimulation determined when it could influence other cells.",
+        "Montgomery and colleagues delivered light wirelessly to a mouse premotor region. Circling rose from about 0.4 to 2.5 turns per minute. Activating selected neurons changed the animal’s direction of movement."
+      ],
+      "cite": "Boyden et al. (2005); Montgomery et al. (2015)",
+      "refs": [
+        "Edward S Boyden; Feng Zhang; Ernst Bamberg; Georg Nagel; Karl Deisseroth (2005). Millisecond-timescale, genetically targeted optical control of neural activity. Nature Neuroscience 8(9): 1263-1268. https://doi.org/10.1038/nn1525",
+        "Kate L Montgomery; Alexander J Yeh; John S Ho; Vivien Tsao; Shrivats Mohan Iyer; Logan Grosenick; Emily A Ferenczi; Yuji Tanabe; Karl Deisseroth; Scott L Delp; Ada S Y Poon (2015). Wirelessly powered, fully internal optogenetics for brain, spinal and peripheral circuits in mice. Nature Methods 12(10): 969-974. https://doi.org/10.1038/nmeth.3536",
+        "Montgomery and coauthors"
+      ],
+      "transcript": [
+        "Boyden and colleagues placed ChR2 in rat neurons. Blue light opened the channel, positive charge entered, and the membrane depolarized. A short pulse could trigger an action potential.",
+        "Repeating light pulses delivered a timed series of inputs. Electrical recordings measured whether the neuron fired after each pulse. The timing of stimulation determined when it could influence other cells.",
+        "Montgomery and colleagues delivered light wirelessly to a mouse premotor region. Circling rose from about 0.4 to 2.5 turns per minute. Activating selected neurons changed the animal’s direction of movement."
+      ],
+      "figure_width": 6.0,
+      "layout": "figures-right",
+      "figures": [
+        {
+          "path": "figures/L40_boyden2.png",
+          "kind": "article",
+          "caption": "Boyden et al. (2005), Fig. 2(a–h). Repeated pulse trains and timing of evoked spikes.",
+          "source_url": "https://doi.org/10.1038/nn1525"
+        },
+        {
+          "path": "figures/L40_boyden1a.png",
+          "kind": "article",
+          "caption": "Boyden et al. (2005), Fig. 1(a). ChR2-YFP membrane expression in a cultured hippocampal neuron.",
+          "source_url": "https://doi.org/10.1038/nn1525"
+        }
+      ],
+      "primary_figure_height": 3.3,
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Excitation and inhibition shape circuit activity",
+      "body": [
+        "**Excitation** increases a neuron’s tendency to fire. **Inhibition** reduces it. The neuron’s output depends on the combined effects of its incoming signals.",
+        "The effect of a channel depends on which ions move through it. ChR2 carries positive ions. **Anion channelrhodopsins** carry negative ions such as chloride.",
+        "Optical activation and inhibition let researchers change firing in different directions. They can measure how increasing or decreasing activity changes movement, sensation, or another behavior."
+      ],
+      "cite": "Carlson & Birkett (2022); Govorunova et al. (2015)",
+      "refs": [
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition, 13th edition. Pearson. ISBN 9781292430256. Introduction, pp. 15–34; brief cellular prerequisites from Structure and Functions of Cells of the Nervous System, pp. 35–69.",
+        "Elena G. Govorunova; Oleg A. Sineshchekov; Roger Janz; Xiaoqin Liu; John L. Spudich (2015). Natural light-gated anion channels: A family of microbial rhodopsins for advanced optogenetics. Science 349(6248): 647-650. https://doi.org/10.1126/science.aaa7484"
+      ],
+      "transcript": [
+        "**Excitation** increases a neuron’s tendency to fire. **Inhibition** reduces it. The neuron’s output depends on the combined effects of its incoming signals.",
+        "The effect of a channel depends on which ions move through it. ChR2 carries positive ions. **Anion channelrhodopsins** carry negative ions such as chloride.",
+        "Optical activation and inhibition let researchers change firing in different directions. They can measure how increasing or decreasing activity changes movement, sensation, or another behavior."
+      ],
+      "figure_width": 6.0,
+      "layout": "figures-right",
+      "figures": [
+        {
+          "path": "figures/L40_gov2.png",
+          "kind": "article",
+          "caption": "Govorunova et al. (2015), Fig. 2(A–D). Cation substitution and photocurrent reversal in GtACRs.",
+          "source_url": "https://doi.org/10.1126/science.aaa7484"
+        },
+        {
+          "path": "figures/L40_gov3.png",
+          "kind": "article",
+          "caption": "Govorunova et al. (2015), Fig. 3(A–D). Chloride substitution identifies anion selectivity.",
+          "source_url": "https://doi.org/10.1126/science.aaa7484"
+        }
+      ],
+      "primary_figure_height": 2.1,
+      "instructional_role": "foundation",
+      "foundation_basis": "Textbook concept explicitly taught; existing study figure retained as an illustration.",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Inhibitory signals change the probability of firing",
+      "body": [
+        "Inhibition can move a neuron’s voltage away from firing threshold. It can also reduce the effect of an excitatory input by opening another pathway for charge to cross the membrane.",
+        "Chloride movement depends on its concentration and the membrane voltage. Opening a chloride channel drives the voltage toward the **chloride equilibrium potential**, where the forces on chloride balance.",
+        "Govorunova and colleagues used a light-sensitive chloride channel to suppress firing. Spikes stopped during illumination and resumed afterward. Light controlled the periods in which the neuron sent fewer electrical signals."
+      ],
+      "cite": "Carlson & Birkett (2022); Govorunova et al. (2015); Boyden et al. (2005)",
+      "refs": [
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition, 13th edition. Pearson. ISBN 9781292430256. Introduction, pp. 15–34; brief cellular prerequisites from Structure and Functions of Cells of the Nervous System, pp. 35–69.",
+        "Elena G. Govorunova; Oleg A. Sineshchekov; Roger Janz; Xiaoqin Liu; John L. Spudich (2015). Natural light-gated anion channels: A family of microbial rhodopsins for advanced optogenetics. Science 349(6248): 647-650. https://doi.org/10.1126/science.aaa7484",
+        "Edward S Boyden; Feng Zhang; Ernst Bamberg; Georg Nagel; Karl Deisseroth (2005). Millisecond-timescale, genetically targeted optical control of neural activity. Nature Neuroscience 8(9): 1263-1268. https://doi.org/10.1038/nn1525"
+      ],
+      "transcript": [
+        "Inhibition can move a neuron’s voltage away from firing threshold. It can also reduce the effect of an excitatory input by opening another pathway for charge to cross the membrane.",
+        "Chloride movement depends on its concentration and the membrane voltage. Opening a chloride channel drives the voltage toward the **chloride equilibrium potential**, where the forces on chloride balance.",
+        "Govorunova and colleagues used a light-sensitive chloride channel to suppress firing. Spikes stopped during illumination and resumed afterward. Light controlled the periods in which the neuron sent fewer electrical signals."
+      ],
+      "figure_width": 6.0,
+      "layout": "figures-right",
+      "figures": [
+        {
+          "path": "figures/L40_gov4.png",
+          "kind": "article",
+          "caption": "Govorunova et al. (2015), Fig. 4(A–F). GtACR2 current reversal, spike suppression and light sensitivity.",
+          "source_url": "https://doi.org/10.1126/science.aaa7484"
+        },
+        {
+          "path": "figures/L40_boyden1a.png",
+          "kind": "article",
+          "caption": "Boyden et al. (2005), Fig. 1(a). ChR2-YFP membrane expression in a cultured hippocampal neuron.",
+          "source_url": "https://doi.org/10.1038/nn1525"
+        }
+      ],
+      "primary_figure_height": 3.1,
+      "instructional_role": "foundation",
+      "foundation_basis": "Textbook concept explicitly taught; existing study figure retained as an illustration.",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Activating fly neurons recruits specific actions",
+      "body": [
+        "Inagaki and colleagues used **ReaChR**, a channel activated by longer-wavelength light than ChR2. They placed it in selected fly neurons, allowing red light to change those cells’ activity.",
+        "Activating sugar-sensing **Gr5a neurons** triggered extension of the **proboscis**, the fly’s feeding structure. The mouthpart moved outward during illumination.",
+        "Other targeted cells produced other actions. Selecting the neuron group determines which response light can recruit. The feeding example makes the sequence concrete: activate sensory neurons, then measure the mouthpart movement."
+      ],
+      "cite": "Inagaki et al. (2014); Grover et al. (2020)",
+      "refs": [
+        "Hidehiko K Inagaki; Yonil Jung; Eric D Hoopfer; Allan M Wong; Neeli Mishra; John Y Lin; Roger Y Tsien; David J Anderson (2014). Optogenetic control of Drosophila using a red-shifted channelrhodopsin reveals experience-dependent influences on courtship. Nature Methods 11(3): 325-332. https://doi.org/10.1038/nmeth.2765",
+        "Dhruv Grover; Takeo Katsuki; Jinfang Li; Thomas J. Dawkins; Ralph J. Greenspan (2020). Imaging brain activity during complex social behaviors in Drosophila with Flyception2. Nature Communications 11(1): 623. https://doi.org/10.1038/s41467-020-14487-7"
+      ],
+      "transcript": [
+        "Inagaki and colleagues used **ReaChR**, a channel activated by longer-wavelength light than ChR2. They placed it in selected fly neurons, allowing red light to change those cells’ activity.",
+        "Activating sugar-sensing **Gr5a neurons** triggered extension of the **proboscis**, the fly’s feeding structure. The mouthpart moved outward during illumination.",
+        "Other targeted cells produced other actions. Selecting the neuron group determines which response light can recruit. The feeding example makes the sequence concrete: activate sensory neurons, then measure the mouthpart movement."
+      ],
+      "figure_width": 6.0,
+      "layout": "figures-right",
+      "figures": [
+        {
+          "path": "figures/L40_inag1.png",
+          "kind": "article",
+          "caption": "Inagaki et al. (2014), Fig. 1(a–h). Opsin comparisons, cuticle transmission and gustatory-neuron responses.",
+          "source_url": "https://doi.org/10.1038/nmeth.2765"
+        },
+        {
+          "path": "figures/L40_gro1c.png",
+          "kind": "article",
+          "caption": "Grover et al. (2020), Fig. 1(c). Head imaging window and retroreflective beads on an adult fly.",
+          "source_url": "https://doi.org/10.1038/s41467-020-14487-7"
+        }
+      ],
+      "primary_figure_height": 2.7,
+      "figure_arrangement": "side-by-side",
+      "primary_figure_width": 4.0,
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Experience changes how a fly circuit influences courtship",
+      "body": [
+        "**P1 neurons** participate in male fly courtship. Inagaki and colleagues activated them with light and measured courtship actions, including wing extension.",
+        "The response differed with the fly’s previous social experience. The same targeted activation could produce different behavior after different housing histories.",
+        "The recording also includes activation of **pIP10**, another courtship-related group. Wing and body movements identify the output. Prior experience changes the circuit’s state and therefore changes the response to activation."
+      ],
+      "cite": "Inagaki et al. (2014)",
+      "refs": [
+        "Hidehiko K Inagaki; Yonil Jung; Eric D Hoopfer; Allan M Wong; Neeli Mishra; John Y Lin; Roger Y Tsien; David J Anderson (2014). Optogenetic control of Drosophila using a red-shifted channelrhodopsin reveals experience-dependent influences on courtship. Nature Methods 11(3): 325-332. https://doi.org/10.1038/nmeth.2765"
+      ],
+      "transcript": [
+        "**P1 neurons** participate in male fly courtship. Inagaki and colleagues activated them with light and measured courtship actions, including wing extension.",
+        "The response differed with the fly’s previous social experience. The same targeted activation could produce different behavior after different housing histories.",
+        "The recording also includes activation of **pIP10**, another courtship-related group. Wing and body movements identify the output. Prior experience changes the circuit’s state and therefore changes the response to activation."
+      ],
+      "figure_width": 6.0,
+      "layout": "figures-right",
+      "figures": [
+        {
+          "path": "figures/L40_inag4.png",
+          "kind": "article",
+          "caption": "Inagaki et al. (2014), Fig. 4(a–c). Social housing changes P1-evoked wing-extension sensitivity.",
+          "source_url": "https://doi.org/10.1038/nmeth.2765"
+        },
+        {
+          "path": "figures/L40_inag3b.png",
+          "kind": "article",
+          "caption": "Inagaki et al. (2014), Fig. 3(b). Published P1 and pIP10 circuit arrangement; connectivity is proposed.",
+          "source_url": "https://doi.org/10.1038/nmeth.2765"
+        }
+      ],
+      "primary_figure_height": 3.0,
+      "figure_arrangement": "side-by-side",
+      "primary_figure_width": 4.0,
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Fly circuits recruit recognizable movement patterns",
+      "body": [
+        "**Descending neurons** carry signals from the fly brain toward movement-control circuits. Cande and colleagues activated selected neuron types and measured the actions that followed.",
+        "Different targeted types favored different movement patterns. Activation did not simply increase every action equally. The limbs and body changed their organization according to the targeted cells.",
+        "A separate Inagaki recording provides a recognizable movement example: activation with an HB9 driver produced sideways walking. The preparations differ, but both allow a specific manipulation to be compared with a visible action."
+      ],
+      "cite": "Cande et al. (2018); Inagaki et al. (2014); Inagaki et al. (2014)",
+      "refs": [
+        "Jessica Cande; Shigehiro Namiki; Jirui Qiu; Wyatt Korff; Gwyneth M Card; Joshua W Shaevitz; David L Stern; Gordon J Berman (2018). Optogenetic dissection of descending behavioral control in Drosophila. eLife 7: e34275. https://doi.org/10.7554/elife.34275",
+        "Hidehiko K Inagaki; Yonil Jung; Eric D Hoopfer; Allan M Wong; Neeli Mishra; John Y Lin; Roger Y Tsien; David J Anderson (2014). Optogenetic control of Drosophila using a red-shifted channelrhodopsin reveals experience-dependent influences on courtship. Nature Methods 11(3): 325-332. https://doi.org/10.1038/nmeth.2765",
+        "Hidehiko K Inagaki; Yonil Jung; Eric D Hoopfer; Allan M Wong; Neeli Mishra; John Y Lin; Roger Y Tsien; David J Anderson (2014). Optogenetic control of Drosophila using a red-shifted channelrhodopsin reveals experience-dependent influences on courtship. Nature Methods 11(3): 325-332. https://doi.org/10.1038/nmeth.2765"
+      ],
+      "transcript": [
+        "**Descending neurons** carry signals from the fly brain toward movement-control circuits. Cande and colleagues activated selected neuron types and measured the actions that followed.",
+        "Different targeted types favored different movement patterns. Activation did not simply increase every action equally. The limbs and body changed their organization according to the targeted cells.",
+        "A separate Inagaki recording provides a recognizable movement example: activation with an HB9 driver produced sideways walking. The preparations differ, but both allow a specific manipulation to be compared with a visible action."
+      ],
+      "figure_width": 6.0,
+      "layout": "figures-right",
+      "figures": [
+        {
+          "path": "figures/L40_cande3.png",
+          "kind": "article",
+          "caption": "Cande et al. (2018), Fig. 3(A–D). Behavioral entropy across descending-neuron lines.",
+          "source_url": "https://doi.org/10.7554/elife.34275"
+        },
+        {
+          "path": "figures/L40_inag3b.png",
+          "kind": "article",
+          "caption": "Inagaki et al. (2014), Fig. 3(b). Published P1 and pIP10 circuit arrangement; connectivity is proposed.",
+          "source_url": "https://doi.org/10.1038/nmeth.2765"
+        }
+      ],
+      "primary_figure_height": 3.3,
+      "figure_arrangement": "side-by-side",
+      "primary_figure_width": 4.0,
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "An internal implant can receive wireless optical power",
+      "body": [
+        "Montgomery and colleagues implanted a small light-delivery device in mice. A **micro-LED**, a miniature light-emitting diode, produced light near selected brain tissue.",
+        "An external radio-frequency source supplied power. A receiving coil inside the animal converted this energy into electrical power for the LED. The smallest device weighed about 20 milligrams.",
+        "The mouse could move without an external light-delivery fiber. Running, entering a tube, and interacting with another mouse remained possible while the implant delivered optical stimulation."
+      ],
+      "cite": "Montgomery et al. (2015)",
+      "refs": [
+        "Kate L Montgomery; Alexander J Yeh; John S Ho; Vivien Tsao; Shrivats Mohan Iyer; Logan Grosenick; Emily A Ferenczi; Yuji Tanabe; Karl Deisseroth; Scott L Delp; Ada S Y Poon (2015). Wirelessly powered, fully internal optogenetics for brain, spinal and peripheral circuits in mice. Nature Methods 12(10): 969-974. https://doi.org/10.1038/nmeth.3536",
+        "Montgomery and coauthors"
+      ],
+      "transcript": [
+        "Montgomery and colleagues implanted a small light-delivery device in mice. A **micro-LED**, a miniature light-emitting diode, produced light near selected brain tissue.",
+        "An external radio-frequency source supplied power. A receiving coil inside the animal converted this energy into electrical power for the LED. The smallest device weighed about 20 milligrams.",
+        "The mouse could move without an external light-delivery fiber. Running, entering a tube, and interacting with another mouse remained possible while the implant delivered optical stimulation."
+      ],
+      "figure_width": 5.3,
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/L40_mon1.png",
+        "kind": "article",
+        "caption": "Montgomery et al. (2015), Fig. 1(a–c). Wireless-power preparation and miniaturized implanted light sources.",
+        "source_url": "https://doi.org/10.1038/nmeth.3536"
+      },
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Wireless optical stimulation delivers pulsed energy",
+      "body": [
+        "A light-emitting device uses electrical energy and produces heat. Montgomery and colleagues measured its light pulses and the temperature changes around it.",
+        "**Duty cycle** is the fraction of time the light is on. Short pulses leave more time with the emitter off. Increasing duty cycle increases the average energy delivered.",
+        "At 20 mW/mm² and duty cycles up to 20%, the measured temperature rise stayed below 1 °C. Pulse timing therefore changes both neural stimulation and the energy deposited near the tissue."
+      ],
+      "cite": "Montgomery et al. (2015)",
+      "refs": [
+        "Kate L Montgomery; Alexander J Yeh; John S Ho; Vivien Tsao; Shrivats Mohan Iyer; Logan Grosenick; Emily A Ferenczi; Yuji Tanabe; Karl Deisseroth; Scott L Delp; Ada S Y Poon (2015). Wirelessly powered, fully internal optogenetics for brain, spinal and peripheral circuits in mice. Nature Methods 12(10): 969-974. https://doi.org/10.1038/nmeth.3536"
+      ],
+      "transcript": [
+        "A light-emitting device uses electrical energy and produces heat. Montgomery and colleagues measured its light pulses and the temperature changes around it.",
+        "**Duty cycle** is the fraction of time the light is on. Short pulses leave more time with the emitter off. Increasing duty cycle increases the average energy delivered.",
+        "At 20 mW/mm² and duty cycles up to 20%, the measured temperature rise stayed below 1 °C. Pulse timing therefore changes both neural stimulation and the energy deposited near the tissue."
+      ],
+      "figure_width": 5.3,
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/L40_mon2.png",
+        "kind": "article",
+        "caption": "Montgomery et al. (2015), Fig. 2(a–e). LED power, pulse fidelity, position dependence and tissue heating.",
+        "source_url": "https://doi.org/10.1038/nmeth.3536"
+      },
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Wireless cortical stimulation changes turning behavior",
+      "body": [
+        "The **premotor cortex** helps organize movement. Montgomery and colleagues placed a wireless LED near the right premotor cortex of mice expressing ChR2.",
+        "During stimulation, 5-millisecond pulses at 20 Hz increased circling from about 0.4 to 2.5 turns per minute. Average movement speed also increased by about 40%.",
+        "Mice without the light-sensitive channel did not show the corresponding change. The light acted through the expressed channel, increasing neural activity that altered the animal’s movement."
+      ],
+      "cite": "Montgomery et al. (2015)",
+      "refs": [
+        "Kate L Montgomery; Alexander J Yeh; John S Ho; Vivien Tsao; Shrivats Mohan Iyer; Logan Grosenick; Emily A Ferenczi; Yuji Tanabe; Karl Deisseroth; Scott L Delp; Ada S Y Poon (2015). Wirelessly powered, fully internal optogenetics for brain, spinal and peripheral circuits in mice. Nature Methods 12(10): 969-974. https://doi.org/10.1038/nmeth.3536"
+      ],
+      "transcript": [
+        "The **premotor cortex** helps organize movement. Montgomery and colleagues placed a wireless LED near the right premotor cortex of mice expressing ChR2.",
+        "During stimulation, 5-millisecond pulses at 20 Hz increased circling from about 0.4 to 2.5 turns per minute. Average movement speed also increased by about 40%.",
+        "Mice without the light-sensitive channel did not show the corresponding change. The light acted through the expressed channel, increasing neural activity that altered the animal’s movement."
+      ],
+      "figure_width": 5.3,
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/L40_mon3.png",
+        "kind": "article",
+        "caption": "Montgomery et al. (2015), Fig. 3(a–f). Implanted premotor-cortex stimulation and circling behavior.",
+        "source_url": "https://doi.org/10.1038/nmeth.3536"
+      },
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Wireless telemetry removes the external recording tether",
+      "body": [
+        "**Neural telemetry** sends recorded brain signals to a remote receiver. Szuts and colleagues placed electrodes and an amplifier on a rat, with a radio transmitter carried in a harness.",
+        "The amplifier increased the small voltages measured near neurons. The transmitter sent these measurements to a computer. The rat had no recording cable running to the external receiver.",
+        "The system recorded during outdoor movement and travel through tunnels. Its larger battery configuration operated for about six hours. Researchers could measure neural activity while the animal moved through these spaces."
+      ],
+      "cite": "Szuts et al. (2011)",
+      "refs": [
+        "Tobi A Szuts; Vitaliy Fadeyev; Sergei Kachiguine; Alexander Sher; Matthew V Grivich; Margarida Agrochão; Pawel Hottowy; Wladyslaw Dabrowski; Evgueniy V Lubenov; Athanassios G Siapas; Naoshige Uchida; Alan M Litke; Markus Meister (2011). A wireless multi-channel neural amplifier for freely moving animals. Nature Neuroscience 14(2): 263-269. https://doi.org/10.1038/nn.2730"
+      ],
+      "transcript": [
+        "**Neural telemetry** sends recorded brain signals to a remote receiver. Szuts and colleagues placed electrodes and an amplifier on a rat, with a radio transmitter carried in a harness.",
+        "The amplifier increased the small voltages measured near neurons. The transmitter sent these measurements to a computer. The rat had no recording cable running to the external receiver.",
+        "The system recorded during outdoor movement and travel through tunnels. Its larger battery configuration operated for about six hours. Researchers could measure neural activity while the animal moved through these spaces."
+      ],
+      "figure_width": 5.3,
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/L40_sz1.png",
+        "kind": "article",
+        "caption": "Szuts et al. (2011), Fig. 1. Published wireless headstage, harness and recording components.",
+        "source_url": "https://doi.org/10.1038/nn.2730"
+      },
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Electrodes turn neural activity into a recorded signal",
+      "body": [
+        "An **electrode** is a conducting contact that measures electrical changes. Near a neuron, it detects **extracellular signals**, small voltage changes outside the cell during neural activity.",
+        "A recording system takes repeated measurements. Its **sampling rate** is the number taken each second. Closely spaced samples capture brief spikes and preserve their timing.",
+        "Wireless transmission sends those measurements to a receiver. Comparing spike times with the animal’s movements identifies when a neuron was active during an action."
+      ],
+      "cite": "Carlson & Birkett (2022); Szuts et al. (2011)",
+      "refs": [
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition, 13th edition. Pearson. ISBN 9781292430256. Introduction, pp. 15–34; brief cellular prerequisites from Structure and Functions of Cells of the Nervous System, pp. 35–69.",
+        "Tobi A Szuts; Vitaliy Fadeyev; Sergei Kachiguine; Alexander Sher; Matthew V Grivich; Margarida Agrochão; Pawel Hottowy; Wladyslaw Dabrowski; Evgueniy V Lubenov; Athanassios G Siapas; Naoshige Uchida; Alan M Litke; Markus Meister (2011). A wireless multi-channel neural amplifier for freely moving animals. Nature Neuroscience 14(2): 263-269. https://doi.org/10.1038/nn.2730"
+      ],
+      "transcript": [
+        "An **electrode** is a conducting contact that measures electrical changes. Near a neuron, it detects **extracellular signals**, small voltage changes outside the cell during neural activity.",
+        "A recording system takes repeated measurements. Its **sampling rate** is the number taken each second. Closely spaced samples capture brief spikes and preserve their timing.",
+        "Wireless transmission sends those measurements to a receiver. Comparing spike times with the animal’s movements identifies when a neuron was active during an action."
+      ],
+      "figure_width": 5.3,
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/L40_sz2.png",
+        "kind": "article",
+        "caption": "Szuts et al. (2011), Fig. 2(a–b). Sampling, multiplexing and signal conditioning in the original device.",
+        "source_url": "https://doi.org/10.1038/nn.2730"
+      },
+      "instructional_role": "foundation",
+      "foundation_basis": "Textbook concept explicitly taught; existing study figure retained as an illustration.",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Wireless recordings follow brain activity during bat flight",
+      "body": [
+        "Forli and colleagues recorded neurons while bats flew freely. They studied the **hippocampus**, a brain region involved in memory and spatial representation. Wireless equipment allowed recording during flight.",
+        "Some neurons fired more strongly at particular locations. The researchers compared spike times with the bat’s position along a flight path.",
+        "Different cells were active in different parts of the route. Their combined activity described spatial position while the bat moved through a three-dimensional environment."
+      ],
+      "cite": "Forli et al. (2025)",
+      "refs": [
+        "Angelo Forli; Wudi Fan; Kevin K. Qi; Michael M. Yartsev (2025). Replay and representation dynamics in the hippocampus of freely flying bats. Nature 645(8082): 974-980. https://doi.org/10.1038/s41586-025-09341-z"
+      ],
+      "transcript": [
+        "Forli and colleagues recorded neurons while bats flew freely. They studied the **hippocampus**, a brain region involved in memory and spatial representation. Wireless equipment allowed recording during flight.",
+        "Some neurons fired more strongly at particular locations. The researchers compared spike times with the bat’s position along a flight path.",
+        "Different cells were active in different parts of the route. Their combined activity described spatial position while the bat moved through a three-dimensional environment."
+      ],
+      "figure_width": 5.3,
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/L40_for1.png",
+        "kind": "article",
+        "caption": "Forli et al. (2025), Fig. 1(a–j). Wireless Neuropixels recordings and flight-sequence replay.",
+        "source_url": "https://doi.org/10.1038/s41586-025-09341-z"
+      },
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Resting bats replay activity patterns from flight",
+      "body": [
+        "Forli and colleagues compared hippocampal activity during flight and rest. **Replay** is a later sequence resembling the order of activity associated with an earlier experience.",
+        "During some rest events, neurons repeated an order associated with a flight path. The later sequence occurred over a shorter time than the original movement.",
+        "Spatial experience therefore affected activity after the bat stopped flying. The hippocampus organized route-related sequences during both active navigation and subsequent rest."
+      ],
+      "cite": "Forli et al. (2025); Snyder et al. (2024)",
+      "refs": [
+        "Angelo Forli; Wudi Fan; Kevin K. Qi; Michael M. Yartsev (2025). Replay and representation dynamics in the hippocampus of freely flying bats. Nature 645(8082): 974-980. https://doi.org/10.1038/s41586-025-09341-z",
+        "Madeleine C. Snyder; Kevin K. Qi; Michael M. Yartsev (2024). Neural representation of human experimenters in the bat hippocampus. Nature Neuroscience 27(9): 1675-1679. https://doi.org/10.1038/s41593-024-01690-8"
+      ],
+      "transcript": [
+        "Forli and colleagues compared hippocampal activity during flight and rest. **Replay** is a later sequence resembling the order of activity associated with an earlier experience.",
+        "During some rest events, neurons repeated an order associated with a flight path. The later sequence occurred over a shorter time than the original movement.",
+        "Spatial experience therefore affected activity after the bat stopped flying. The hippocampus organized route-related sequences during both active navigation and subsequent rest."
+      ],
+      "figure_width": 6.0,
+      "layout": "figures-right",
+      "figures": [
+        {
+          "path": "figures/L40_for2.png",
+          "kind": "article",
+          "caption": "Forli et al. (2025), Fig. 2(a–i). Replay location, timing and scaling across flight trajectories.",
+          "source_url": "https://doi.org/10.1038/s41586-025-09341-z"
+        },
+        {
+          "path": "figures/L40_sny1d.png",
+          "kind": "article",
+          "caption": "Snyder et al. (2024), Fig. 1(d). Recorded dorsal hippocampus with electrode tracks and a 500-µm scale bar.",
+          "source_url": "https://doi.org/10.1038/s41593-024-01690-8"
+        }
+      ],
+      "primary_figure_height": 2.7,
+      "figure_arrangement": "side-by-side",
+      "primary_figure_width": 4.0,
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Neural representations change across the flight rhythm",
+      "body": [
+        "A **motor rhythm** is a repeating movement cycle. Successive wingbeats provide a rhythm during bat flight. Forli and colleagues aligned hippocampal recordings with phases of this cycle.",
+        "Spatial representations changed across the wingbeat rhythm. Activity varied with the bat’s location and with the timing of its movement.",
+        "A navigating brain processes information while the body moves. Recording the movement cycle and spike times together reveals when spatial signals occur during that action."
+      ],
+      "cite": "Forli et al. (2025); Snyder et al. (2024)",
+      "refs": [
+        "Angelo Forli; Wudi Fan; Kevin K. Qi; Michael M. Yartsev (2025). Replay and representation dynamics in the hippocampus of freely flying bats. Nature 645(8082): 974-980. https://doi.org/10.1038/s41586-025-09341-z",
+        "Madeleine C. Snyder; Kevin K. Qi; Michael M. Yartsev (2024). Neural representation of human experimenters in the bat hippocampus. Nature Neuroscience 27(9): 1675-1679. https://doi.org/10.1038/s41593-024-01690-8"
+      ],
+      "transcript": [
+        "A **motor rhythm** is a repeating movement cycle. Successive wingbeats provide a rhythm during bat flight. Forli and colleagues aligned hippocampal recordings with phases of this cycle.",
+        "Spatial representations changed across the wingbeat rhythm. Activity varied with the bat’s location and with the timing of its movement.",
+        "A navigating brain processes information while the body moves. Recording the movement cycle and spike times together reveals when spatial signals occur during that action."
+      ],
+      "figure_width": 6.0,
+      "layout": "figures-right",
+      "figures": [
+        {
+          "path": "figures/L40_for3.png",
+          "kind": "article",
+          "caption": "Forli et al. (2025), Fig. 3(a–k). Representational sweeps and wing-beat phase during flight.",
+          "source_url": "https://doi.org/10.1038/s41586-025-09341-z"
+        },
+        {
+          "path": "figures/L40_sny1d.png",
+          "kind": "article",
+          "caption": "Snyder et al. (2024), Fig. 1(d). Recorded dorsal hippocampus with electrode tracks and a 500-µm scale bar.",
+          "source_url": "https://doi.org/10.1038/s41593-024-01690-8"
+        }
+      ],
+      "primary_figure_height": 2.7,
+      "figure_arrangement": "side-by-side",
+      "primary_figure_width": 4.0,
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Body landmarks make movement measurable",
+      "body": [
+        "An **anatomical landmark** is a recognizable body feature used for measurement. Snout position describes head movement; wrist and digit positions describe a reach. Each landmark measures a particular part of an action.",
+        "A researcher marks the landmark in selected video frames. A trained computer system then locates it in more frames, producing a record of its changing position.",
+        "The Stowers demonstration marks a mouse’s head in green and its body outline and center in magenta. These measurements allow the computer to update a visual scene according to the animal’s position."
+      ],
+      "transcript": [
+        "An **anatomical landmark** is a recognizable body feature used for measurement. Snout position describes head movement; wrist and digit positions describe a reach. Each landmark measures a particular part of an action.",
+        "A researcher marks the landmark in selected video frames. A trained computer system then locates it in more frames, producing a record of its changing position.",
+        "The Stowers demonstration marks a mouse’s head in green and its body outline and center in magenta. These measurements allow the computer to update a visual scene according to the animal’s position."
+      ],
+      "layout": "figure-right",
+      "figure": {
+        "kind": "article",
+        "path": "figures/dlc_f2.png",
+        "caption": "Mathis et al. (2018), Fig. 2A–G (author preprint). Tracking precision and training examples.",
+        "source_url": "https://doi.org/10.1038/s41593-018-0209-y"
+      },
+      "figure_width": 5.3,
+      "cite": "Carlson & Birkett (2022); Mathis et al. (2018); Stowers et al. (2017)",
+      "refs": [
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition, 13th edition. Pearson. ISBN 9781292430256. Introduction, pp. 15–34; brief cellular prerequisites from Structure and Functions of Cells of the Nervous System, pp. 35–69.",
+        "Mathis A, Mamidanna P, Cury KM, Abe T, Murthy VN, Mathis MW, Bethge M (2018). DeepLabCut: Markerless pose estimation of user-defined body parts with deep learning. Nature Neuroscience 21:1281–1289. https://doi.org/10.1038/s41593-018-0209-y",
+        "Original figure crops from the authors’ manuscript, Markerless tracking of user-defined features with deep learning, arXiv:1804.03142 (2018). https://arxiv.org/abs/1804.03142 . Figure numbers explicitly refer to that version.",
+        "Stowers JR, Hofbauer M, Bastien R, Griessner J, Higgins P, Farooqui S, Fischer RM, Nowikovsky K, Haubensak W, Couzin ID, Tessmar-Raible K, Straw AD (2017). Virtual reality for freely moving animals. Nature methods 14:995-1002. https://doi.org/10.1038/nmeth.4399"
+      ],
+      "instructional_role": "foundation",
+      "foundation_basis": "Textbook concept explicitly taught; existing study figure retained as an illustration.",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Computer vision measures the position of body parts",
+      "body": [
+        "**Computer vision** extracts information from images. **Pose estimation** locates body parts such as a snout, wrist, or digit. Repeating this over video frames measures movement.",
+        "Mathis and colleagues developed DeepLabCut. A researcher marks selected body parts in example frames, and the trained system locates them in additional frames.",
+        "The method tracked mice following odor trails, flies moving in chambers, and mice reaching for food. Choosing different landmarks allowed the same software to measure different actions."
+      ],
+      "transcript": [
+        "**Computer vision** extracts information from images. **Pose estimation** locates body parts such as a snout, wrist, or digit. Repeating this over video frames measures movement.",
+        "Mathis and colleagues developed DeepLabCut. A researcher marks selected body parts in example frames, and the trained system locates them in additional frames.",
+        "The method tracked mice following odor trails, flies moving in chambers, and mice reaching for food. Choosing different landmarks allowed the same software to measure different actions."
+      ],
+      "layout": "figure-right",
+      "figure": {
+        "kind": "article",
+        "path": "figures/dlc_f1.png",
+        "caption": "Mathis et al. (2018), Fig. 1 (author preprint). Labeling, training, and markerless pose estimation.",
+        "source_url": "https://doi.org/10.1038/s41593-018-0209-y"
+      },
+      "figure_width": 5.3,
+      "cite": "Mathis et al. (2018)",
+      "refs": [
+        "Mathis A, Mamidanna P, Cury KM, Abe T, Murthy VN, Mathis MW, Bethge M (2018). DeepLabCut: Markerless pose estimation of user-defined body parts with deep learning. Nature Neuroscience 21:1281–1289. https://doi.org/10.1038/s41593-018-0209-y",
+        "Original figure crops from the authors’ manuscript, Markerless tracking of user-defined features with deep learning, arXiv:1804.03142 (2018). https://arxiv.org/abs/1804.03142 . Figure numbers explicitly refer to that version.",
+        "Mathis, Mamidanna, Cury, Abe, Murthy, Mathis, and Bethge"
+      ],
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Transfer learning adapts visual features to a new task",
+      "body": [
+        "**Transfer learning** adapts information learned for one computational task to another. DeepLabCut started with features learned from many images, then trained the system to locate selected body parts.",
+        "An **artificial neural network** is a computer system whose adjustable processing steps transform an input into an output. Here, an image enters and predicted body-part positions come out.",
+        "The software tracked both mouse and fly features. Reusing learned visual features reduced the amount of task-specific labeling needed. Researchers selected the anatomy they wanted to measure."
+      ],
+      "transcript": [
+        "**Transfer learning** adapts information learned for one computational task to another. DeepLabCut started with features learned from many images, then trained the system to locate selected body parts.",
+        "An **artificial neural network** is a computer system whose adjustable processing steps transform an input into an output. Here, an image enters and predicted body-part positions come out.",
+        "The software tracked both mouse and fly features. Reusing learned visual features reduced the amount of task-specific labeling needed. Researchers selected the anatomy they wanted to measure."
+      ],
+      "layout": "figure-right",
+      "figure": {
+        "kind": "article",
+        "path": "figures/dlc_f1.png",
+        "caption": "Mathis et al. (2018), Fig. 1 (author preprint). Labeling, training, and markerless pose estimation.",
+        "source_url": "https://doi.org/10.1038/s41593-018-0209-y"
+      },
+      "figure_width": 5.3,
+      "cite": "Mathis et al. (2018)",
+      "refs": [
+        "Mathis A, Mamidanna P, Cury KM, Abe T, Murthy VN, Mathis MW, Bethge M (2018). DeepLabCut: Markerless pose estimation of user-defined body parts with deep learning. Nature Neuroscience 21:1281–1289. https://doi.org/10.1038/s41593-018-0209-y",
+        "Original figure crops from the authors’ manuscript, Markerless tracking of user-defined features with deep learning, arXiv:1804.03142 (2018). https://arxiv.org/abs/1804.03142 . Figure numbers explicitly refer to that version.",
+        "Mathis, Mamidanna, Cury, Abe, Murthy, Mathis, and Bethge"
+      ],
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Tracking resolves head movements during odor following",
+      "body": [
+        "A mouse following an odor trail moves its snout across the trail. Mathis and colleagues tracked the snout, ears, and tail base to measure head position and body orientation.",
+        "A **trajectory** is a series of positions over time. The snout trajectory records the side-to-side movement as the mouse samples the trail.",
+        "The same method also followed fly body parts and the **proboscis**, its feeding structure. Tracking selected features separates a head movement or mouthpart extension from movement of the whole animal."
+      ],
+      "transcript": [
+        "A mouse following an odor trail moves its snout across the trail. Mathis and colleagues tracked the snout, ears, and tail base to measure head position and body orientation.",
+        "A **trajectory** is a series of positions over time. The snout trajectory records the side-to-side movement as the mouse samples the trail.",
+        "The same method also followed fly body parts and the **proboscis**, its feeding structure. Tracking selected features separates a head movement or mouthpart extension from movement of the whole animal."
+      ],
+      "layout": "figure-right",
+      "figure": {
+        "kind": "article",
+        "path": "figures/dlc_f3.png",
+        "caption": "Mathis et al. (2018), Fig. 3 (author preprint). Snout and body trajectories during odor tracking.",
+        "source_url": "https://doi.org/10.1038/s41593-018-0209-y"
+      },
+      "figure_width": 5.3,
+      "cite": "Mathis et al. (2018)",
+      "refs": [
+        "Mathis A, Mamidanna P, Cury KM, Abe T, Murthy VN, Mathis MW, Bethge M (2018). DeepLabCut: Markerless pose estimation of user-defined body parts with deep learning. Nature Neuroscience 21:1281–1289. https://doi.org/10.1038/s41593-018-0209-y",
+        "Original figure crops from the authors’ manuscript, Markerless tracking of user-defined features with deep learning, arXiv:1804.03142 (2018). https://arxiv.org/abs/1804.03142 . Figure numbers explicitly refer to that version."
+      ],
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Digit tracking resolves a skilled reaching movement",
+      "body": [
+        "A reach involves the forelimb, wrist, and digits. Mathis and colleagues tracked selected landmarks as a mouse moved its paw toward a food target.",
+        "Digit-joint positions changed as the paw approached and grasped. Several landmarks described the shape of the hand during the movement, rather than only its overall location.",
+        "The measured anatomy determines the behavioral question. A snout trajectory describes sampling during odor navigation. Digit and wrist trajectories describe how the hand performs a skilled reach."
+      ],
+      "transcript": [
+        "A reach involves the forelimb, wrist, and digits. Mathis and colleagues tracked selected landmarks as a mouse moved its paw toward a food target.",
+        "Digit-joint positions changed as the paw approached and grasped. Several landmarks described the shape of the hand during the movement, rather than only its overall location.",
+        "The measured anatomy determines the behavioral question. A snout trajectory describes sampling during odor navigation. Digit and wrist trajectories describe how the hand performs a skilled reach."
+      ],
+      "layout": "figure-right",
+      "figure": {
+        "kind": "article",
+        "path": "figures/dlc_f1.png",
+        "caption": "Mathis et al. (2018), Fig. 1 (author preprint). Labeling, training, and markerless pose estimation.",
+        "source_url": "https://doi.org/10.1038/s41593-018-0209-y"
+      },
+      "figure_width": 5.3,
+      "cite": "Mathis et al. (2018)",
+      "refs": [
+        "Mathis A, Mamidanna P, Cury KM, Abe T, Murthy VN, Mathis MW, Bethge M (2018). DeepLabCut: Markerless pose estimation of user-defined body parts with deep learning. Nature Neuroscience 21:1281–1289. https://doi.org/10.1038/s41593-018-0209-y",
+        "Original figure crops from the authors’ manuscript, Markerless tracking of user-defined features with deep learning, arXiv:1804.03142 (2018). https://arxiv.org/abs/1804.03142 . Figure numbers explicitly refer to that version.",
+        "Mathis, Mamidanna, Cury, Abe, Murthy, Mathis, and Bethge"
+      ],
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Neurons communicate through branching processes",
+      "body": [
+        "A neuron has a cell body and branching **processes**. **Dendrites** receive many incoming signals. An **axon** carries outgoing electrical activity toward other cells.",
+        "At a chemical synapse, the sending cell releases a neurotransmitter. The transmitter binds to **receptors**, proteins on the receiving cell, and changes that cell’s response.",
+        "Neuronal processes extend across the electrode array. An electrode records voltage changes nearby. Stimulation at one location can affect cells elsewhere as activity travels through the living network."
+      ],
+      "transcript": [
+        "A neuron has a cell body and branching **processes**. **Dendrites** receive many incoming signals. An **axon** carries outgoing electrical activity toward other cells.",
+        "At a chemical synapse, the sending cell releases a neurotransmitter. The transmitter binds to **receptors**, proteins on the receiving cell, and changes that cell’s response.",
+        "Neuronal processes extend across the electrode array. An electrode records voltage changes nearby. Stimulation at one location can affect cells elsewhere as activity travels through the living network."
+      ],
+      "cite": "Carlson & Birkett (2022); Kagan et al. (2022)",
+      "refs": [
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition, 13th edition. Pearson. ISBN 9781292430256. Introduction, pp. 15–34; brief cellular prerequisites from Structure and Functions of Cells of the Nervous System, pp. 35–69.",
+        "Kagan BJ, Kitchen AC, Tran NT, Habibollahi F, Khajehnejad M, Parker BJ, Bhat A, Rollo B, Razi A, Friston KJ (2022). In vitro neurons learn and exhibit sentience when embodied in a simulated game-world. Neuron 110:3952-3969.e8. https://doi.org/10.1016/j.neuron.2022.09.001",
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition, 13th edition. Pearson. ISBN 9781292430256."
+      ],
+      "figure_width": 5.7,
+      "layout": "figures-right",
+      "instructional_role": "foundation",
+      "foundation_basis": "Textbook concept explicitly taught; existing study figure retained as an illustration.",
+      "figures": [
+        {
+          "path": "figures/L71_culture_sem.png",
+          "kind": "article",
+          "caption": "Kagan et al. (2022), Fig. 2(E–H). Cultured neurons and processes span the electrode surface.",
+          "source_url": "https://doi.org/10.1016/j.neuron.2022.09.001"
+        },
+        {
+          "path": "figures/neuron_anatomy.png",
+          "kind": "textbook",
+          "isbn": "9781292430256",
+          "pdf_page": 41,
+          "printed_page": 40,
+          "figure_id": "2.4",
+          "caption": "Carlson and Birkett (2022), Fig. 2.4, p. 40. Labeled cell body, dendrites, axon, and terminals.",
+          "source_url": "https://books.google.com/books?vid=ISBN9781292430256"
+        }
+      ],
+      "primary_figure_height": 2.3,
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Living cultures contain neurons and supporting cells",
+      "body": [
+        "Kagan and colleagues grew neurons from mouse cortex and human **induced pluripotent stem cells**, adult cells reprogrammed to produce specialized cell types. The cells formed active cultures outside the body.",
+        "Cultures contain neuronal cell bodies and processes, plus supporting cells such as **astrocytes**. Astrocytes help maintain the chemical environment and supply metabolic support. The added micrograph identifies this cell type in a separate preparation.",
+        "The culture’s neurons sent electrical signals through their processes. Electrodes recorded that activity and delivered stimulation. In DishBrain, the software used the signals to move a virtual Pong paddle."
+      ],
+      "transcript": [
+        "Kagan and colleagues grew neurons from mouse cortex and human **induced pluripotent stem cells**, adult cells reprogrammed to produce specialized cell types. The cells formed active cultures outside the body.",
+        "Cultures contain neuronal cell bodies and processes, plus supporting cells such as **astrocytes**. Astrocytes help maintain the chemical environment and supply metabolic support. The added micrograph identifies this cell type in a separate preparation.",
+        "The culture’s neurons sent electrical signals through their processes. Electrodes recorded that activity and delivered stimulation. In DishBrain, the software used the signals to move a virtual Pong paddle."
+      ],
+      "cite": "Kagan et al. (2022)",
+      "refs": [
+        "Kagan BJ, Kitchen AC, Tran NT, Habibollahi F, Khajehnejad M, Parker BJ, Bhat A, Rollo B, Razi A, Friston KJ (2022). In vitro neurons learn and exhibit sentience when embodied in a simulated game-world. Neuron 110:3952-3969.e8. https://doi.org/10.1016/j.neuron.2022.09.001",
+        "Navarrete M, Perea G, Fernandez de Sevilla D, Gómez-Gonzalo M, Núñez A, Martín ED, Araque A (2012). Astrocytes mediate in vivo cholinergic-induced synaptic plasticity. PLoS Biology 10(2):e1001259. https://doi.org/10.1371/journal.pbio.1001259",
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition, 13th edition. Pearson. ISBN 9781292430256."
+      ],
+      "figure_width": 5.7,
+      "layout": "figures-right",
+      "instructional_role": "research",
+      "figures": [
+        {
+          "path": "figures/L71_culture_cells.png",
+          "kind": "article",
+          "caption": "Kagan et al. (2022), Fig. 2(A–H). Neurons, neurites, astrocytes, and glutamatergic markers in cortical cultures.",
+          "source_url": "https://doi.org/10.1016/j.neuron.2022.09.001"
+        },
+        {
+          "path": "figures/astrocyte_micrograph.png",
+          "kind": "article",
+          "caption": "Navarrete et al. (2012), Fig. 1A. Fluorescently labeled astrocytes and calcium-indicator signal; original 20 µm scale bar.",
+          "source_url": "https://doi.org/10.1371/journal.pbio.1001259"
+        }
+      ],
+      "primary_figure_height": 2.3,
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Place and rate codes convey the virtual ball position",
+      "body": [
+        "DishBrain converted the virtual ball’s position into electrical pulses. Eight sensory electrodes delivered inputs. A **place code** uses the location of stimulation to represent a variable.",
+        "A **rate code** uses how often pulses occur. The refined protocol used rates from 4 to 40 Hz, giving the culture additional information about the ball.",
+        "The neurons received timed electrical pulses rather than seeing a screen. Changing the encoding changed the information available for paddle control. Performance improved across the refined input designs."
+      ],
+      "transcript": [
+        "DishBrain converted the virtual ball’s position into electrical pulses. Eight sensory electrodes delivered inputs. A **place code** uses the location of stimulation to represent a variable.",
+        "A **rate code** uses how often pulses occur. The refined protocol used rates from 4 to 40 Hz, giving the culture additional information about the ball.",
+        "The neurons received timed electrical pulses rather than seeing a screen. Changing the encoding changed the information available for paddle control. Performance improved across the refined input designs."
+      ],
+      "cite": "Kagan et al. (2022)",
+      "refs": [
+        "Kagan BJ, Kitchen AC, Tran NT, Habibollahi F, Khajehnejad M, Parker BJ, Bhat A, Rollo B, Razi A, Friston KJ (2022). In vitro neurons learn and exhibit sentience when embodied in a simulated game-world. Neuron 110:3952-3969.e8. https://doi.org/10.1016/j.neuron.2022.09.001"
+      ],
+      "figure_width": 6.0,
+      "layout": "figures-right",
+      "figures": [
+        {
+          "path": "figures/L71_dish_layout.png",
+          "kind": "article",
+          "caption": "Kagan et al. (2022), Fig. 4(D). Electrode positions assigned to sensory and motor functions.",
+          "source_url": "https://doi.org/10.1016/j.neuron.2022.09.001"
+        },
+        {
+          "path": "figures/L71_dish_pilot.png",
+          "kind": "article",
+          "caption": "Kagan et al. (2022), Fig. 4(E). Gameplay performance changes across sensory-encoding designs.",
+          "source_url": "https://doi.org/10.1016/j.neuron.2022.09.001"
+        }
+      ],
+      "primary_figure_height": 2.25,
+      "figure_arrangement": "side-by-side",
+      "primary_figure_width": 4.0,
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "An action determines the next input in a closed loop",
+      "body": [
+        "**Feedback** means that an action’s result changes what happens next. During navigation, movement changes the visual scene. The new scene then guides another movement.",
+        "In DishBrain, the neurons move the paddle. Whether the ball is hit determines the electrical signal sent back to them. Their activity changes the next input they receive.",
+        "A **closed loop** repeats this cycle of output and input. In the virtual-aquarium example, a fish’s movement changes the displayed scene. In the culture, neural output changes the game and its subsequent stimulation."
+      ],
+      "transcript": [
+        "**Feedback** means that an action’s result changes what happens next. During navigation, movement changes the visual scene. The new scene then guides another movement.",
+        "In DishBrain, the neurons move the paddle. Whether the ball is hit determines the electrical signal sent back to them. Their activity changes the next input they receive.",
+        "A **closed loop** repeats this cycle of output and input. In the virtual-aquarium example, a fish’s movement changes the displayed scene. In the culture, neural output changes the game and its subsequent stimulation."
+      ],
+      "cite": "Carlson & Birkett (2022); Kagan et al. (2022)",
+      "refs": [
+        "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition, 13th edition. Pearson. ISBN 9781292430256. Introduction, pp. 15–34; brief cellular prerequisites from Structure and Functions of Cells of the Nervous System, pp. 35–69.",
+        "Kagan BJ, Kitchen AC, Tran NT, Habibollahi F, Khajehnejad M, Parker BJ, Bhat A, Rollo B, Razi A, Friston KJ (2022). In vitro neurons learn and exhibit sentience when embodied in a simulated game-world. Neuron 110:3952-3969.e8. https://doi.org/10.1016/j.neuron.2022.09.001",
+        "Stowers JR, Hofbauer M, Bastien R, Griessner J, Higgins P, Farooqui S, Fischer RM, Nowikovsky K, Haubensak W, Couzin ID, Tessmar-Raible K, Straw AD (2017). Virtual reality for freely moving animals. Nature methods 14:995-1002. https://doi.org/10.1038/nmeth.4399"
+      ],
+      "figure_width": 5.3,
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/L71_dish_software.png",
+        "kind": "article",
+        "caption": "Kagan et al. (2022), Fig. 4(B). Published data paths connecting neural activity and the game.",
+        "source_url": "https://doi.org/10.1016/j.neuron.2022.09.001"
+      },
+      "instructional_role": "foundation",
+      "foundation_basis": "Textbook concept explicitly taught; existing study figure retained as an illustration.",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Motor-region activity determines paddle movement",
+      "body": [
+        "DishBrain assigned two electrode groups to paddle movement. Activity in one moved the paddle up; activity in the other moved it down.",
+        "These **motor regions** were software-defined areas of the array, not an anatomical motor cortex. The computer compared their recorded activity to choose the paddle’s movement.",
+        "A hit required appropriately timed movement toward the ball. Spiking somewhere in the culture was not sufficient for effective control. The balance of activity in the assigned regions determined the action."
+      ],
+      "transcript": [
+        "DishBrain assigned two electrode groups to paddle movement. Activity in one moved the paddle up; activity in the other moved it down.",
+        "These **motor regions** were software-defined areas of the array, not an anatomical motor cortex. The computer compared their recorded activity to choose the paddle’s movement.",
+        "A hit required appropriately timed movement toward the ball. Spiking somewhere in the culture was not sufficient for effective control. The balance of activity in the assigned regions determined the action."
+      ],
+      "cite": "Kagan et al. (2022)",
+      "refs": [
+        "Kagan BJ, Kitchen AC, Tran NT, Habibollahi F, Khajehnejad M, Parker BJ, Bhat A, Rollo B, Razi A, Friston KJ (2022). In vitro neurons learn and exhibit sentience when embodied in a simulated game-world. Neuron 110:3952-3969.e8. https://doi.org/10.1016/j.neuron.2022.09.001",
+        "Brett J. Kagan, Andy C. Kitchen, Nhi T. Tran, Forough Habibollahi, Moein Khajehnejad, Bradyn J. Parker, Anjali Bhat, Ben Rollo, Adeel Razi, and Karl J. Friston; original article Video S1"
+      ],
+      "figure_width": 5.3,
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/L71_dish_layout.png",
+        "kind": "article",
+        "caption": "Kagan et al. (2022), Fig. 4(D). Electrode positions assigned to sensory and motor functions.",
+        "source_url": "https://doi.org/10.1016/j.neuron.2022.09.001"
+      },
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Mouse and human cultures improve during gameplay",
+      "body": [
+        "**Average rally length** counts how many hits occur before a miss. Kagan and colleagues compared the first five minutes of a session with minutes 6–20.",
+        "Mouse and human cultures increased rally length during feedback-enabled gameplay. They also reduced immediate misses, called **aces**, and produced longer rallies.",
+        "Improvement depended on participation in the task. The electrodes recorded neural output, the output moved the paddle, and the result changed the next stimulation. Repeated feedback allowed activity and performance to change during play."
+      ],
+      "transcript": [
+        "**Average rally length** counts how many hits occur before a miss. Kagan and colleagues compared the first five minutes of a session with minutes 6–20.",
+        "Mouse and human cultures increased rally length during feedback-enabled gameplay. They also reduced immediate misses, called **aces**, and produced longer rallies.",
+        "Improvement depended on participation in the task. The electrodes recorded neural output, the output moved the paddle, and the result changed the next stimulation. Repeated feedback allowed activity and performance to change during play."
+      ],
+      "cite": "Kagan et al. (2022)",
+      "refs": [
+        "Kagan BJ, Kitchen AC, Tran NT, Habibollahi F, Khajehnejad M, Parker BJ, Bhat A, Rollo B, Razi A, Friston KJ (2022). In vitro neurons learn and exhibit sentience when embodied in a simulated game-world. Neuron 110:3952-3969.e8. https://doi.org/10.1016/j.neuron.2022.09.001",
+        "Brett J. Kagan and coauthors; original article Video S2, interactive SpikeStream visualizer and system overview"
+      ],
+      "figure_width": 5.3,
+      "layout": "figure-right",
+      "figure": {
+        "path": "figures/L71_dish_performance.png",
+        "kind": "article",
+        "caption": "Kagan et al. (2022), Fig. 5(B–F). Gameplay improvement, paddle movement, and hit distributions in experimental and control groups.",
+        "source_url": "https://doi.org/10.1016/j.neuron.2022.09.001"
+      },
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "A virtual world changes when the animal moves",
+      "body": [
+        "Stowers and colleagues measured an animal’s position and used it to update a virtual scene. Moving through the arena changed the visual input delivered on surrounding displays.",
+        "Flies produce an **optomotor response**, turning in response to moving visual patterns. Rotating the virtual scene recruited this response and influenced free-flight direction.",
+        "The researchers guided a fly along a figure-eight path using visual feedback. Measuring movement, changing the scene, and measuring the next movement made sensory guidance experimentally controllable."
+      ],
+      "cite": "Stowers et al. (2017)",
+      "refs": [
+        "Stowers JR, Hofbauer M, Bastien R, Griessner J, Higgins P, Farooqui S, Fischer RM, Nowikovsky K, Haubensak W, Couzin ID, Tessmar-Raible K, Straw AD (2017). Virtual reality for freely moving animals. Nature methods 14:995-1002. https://doi.org/10.1038/nmeth.4399"
+      ],
+      "transcript": [
+        "Stowers and colleagues measured an animal’s position and used it to update a virtual scene. Moving through the arena changed the visual input delivered on surrounding displays.",
+        "Flies produce an **optomotor response**, turning in response to moving visual patterns. Rotating the virtual scene recruited this response and influenced free-flight direction.",
+        "The researchers guided a fly along a figure-eight path using visual feedback. Measuring movement, changing the scene, and measuring the next movement made sensory guidance experimentally controllable."
+      ],
+      "layout": "figure-right",
+      "figure_width": 5.3,
+      "figure": {
+        "path": "figures/L83_stowers_world.png",
+        "caption": "Stowers et al. (2017), Fig. 1(a–h). Free-moving arenas and responses to real and virtual posts.",
+        "source_url": "https://doi.org/10.1038/nmeth.4399",
+        "kind": "article"
+      },
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Head position determines the animal’s visual perspective",
+      "body": [
+        "An object’s appearance changes as an observer moves. Stowers and colleagues tracked position so a virtual object could be displayed from the observer’s current viewpoint.",
+        "**Perspective** describes how the scene appears from that location. Multiple screens updated together, keeping a virtual object in a consistent place in the simulated world.",
+        "Movement then supplied information about spatial layout. The observer received a different image at a different position, as occurs with real objects. The demonstration makes this viewpoint-dependent update visible."
+      ],
+      "cite": "Stowers et al. (2017)",
+      "refs": [
+        "Stowers JR, Hofbauer M, Bastien R, Griessner J, Higgins P, Farooqui S, Fischer RM, Nowikovsky K, Haubensak W, Couzin ID, Tessmar-Raible K, Straw AD (2017). Virtual reality for freely moving animals. Nature methods 14:995-1002. https://doi.org/10.1038/nmeth.4399"
+      ],
+      "transcript": [
+        "An object’s appearance changes as an observer moves. Stowers and colleagues tracked position so a virtual object could be displayed from the observer’s current viewpoint.",
+        "**Perspective** describes how the scene appears from that location. Multiple screens updated together, keeping a virtual object in a consistent place in the simulated world.",
+        "Movement then supplied information about spatial layout. The observer received a different image at a different position, as occurs with real objects. The demonstration makes this viewpoint-dependent update visible."
+      ],
+      "layout": "figure-right",
+      "figure_width": 5.3,
+      "figure": {
+        "path": "figures/L83_stowers_perspective.png",
+        "caption": "Stowers et al. (2017), Fig. 1(a–d). Perspective rendering and flight, mouse, and aquatic apparatus.",
+        "source_url": "https://doi.org/10.1038/nmeth.4399",
+        "kind": "article"
+      },
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Real and virtual fish influence each other",
+      "body": [
+        "Stowers and colleagues displayed computer-generated partners to real fish. A **virtual partner** has an appearance and movement that researchers can control.",
+        "The real fish’s position changed the virtual fish’s movement. The moving virtual fish could then influence the real animal. The two repeatedly altered one another’s visual environment.",
+        "Researchers varied the simulated partner’s tendency to follow. Measuring the real fish’s response tested how another apparent animal’s movement influenced swimming during a social interaction."
+      ],
+      "cite": "Stowers et al. (2017)",
+      "refs": [
+        "Stowers JR, Hofbauer M, Bastien R, Griessner J, Higgins P, Farooqui S, Fischer RM, Nowikovsky K, Haubensak W, Couzin ID, Tessmar-Raible K, Straw AD (2017). Virtual reality for freely moving animals. Nature methods 14:995-1002. https://doi.org/10.1038/nmeth.4399"
+      ],
+      "transcript": [
+        "Stowers and colleagues displayed computer-generated partners to real fish. A **virtual partner** has an appearance and movement that researchers can control.",
+        "The real fish’s position changed the virtual fish’s movement. The moving virtual fish could then influence the real animal. The two repeatedly altered one another’s visual environment.",
+        "Researchers varied the simulated partner’s tendency to follow. Measuring the real fish’s response tested how another apparent animal’s movement influenced swimming during a social interaction."
+      ],
+      "layout": "figure-right",
+      "figure_width": 5.3,
+      "figure": {
+        "path": "figures/L83_stowers_social.png",
+        "caption": "Stowers et al. (2017), Fig. 5(i–l). Real–virtual fish trajectories and effects of social coupling.",
+        "source_url": "https://doi.org/10.1038/nmeth.4399",
+        "kind": "article"
+      },
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Portals change a fish’s world without moving its body",
+      "body": [
+        "A **portal** was a region that changed the displayed world when a zebrafish entered it. The fish stayed in the same tank while the visual scene switched.",
+        "One scene contained a moving swarm of simulated agents. Fish stayed longer and swam more slowly in that scene. Their behavior changed after entering the environment.",
+        "Entrance choices did not favor the swarm outcome, although fish preferred magenta portals. Staying longer in a scene and choosing the entrance that leads to it are different behaviors. The task measured both."
+      ],
+      "cite": "Stowers et al. (2017)",
+      "refs": [
+        "Stowers JR, Hofbauer M, Bastien R, Griessner J, Higgins P, Farooqui S, Fischer RM, Nowikovsky K, Haubensak W, Couzin ID, Tessmar-Raible K, Straw AD (2017). Virtual reality for freely moving animals. Nature methods 14:995-1002. https://doi.org/10.1038/nmeth.4399"
+      ],
+      "transcript": [
+        "A **portal** was a region that changed the displayed world when a zebrafish entered it. The fish stayed in the same tank while the visual scene switched.",
+        "One scene contained a moving swarm of simulated agents. Fish stayed longer and swam more slowly in that scene. Their behavior changed after entering the environment.",
+        "Entrance choices did not favor the swarm outcome, although fish preferred magenta portals. Staying longer in a scene and choosing the entrance that leads to it are different behaviors. The task measured both."
+      ],
+      "layout": "figure-right",
+      "figure_width": 5.3,
+      "figure": {
+        "path": "figures/L83_stowers_portals.png",
+        "caption": "Stowers et al. (2017), Fig. 5(a–h). Portal choices, scene occupancy, and swimming with a virtual swarm.",
+        "source_url": "https://doi.org/10.1038/nmeth.4399",
+        "kind": "article"
+      },
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    },
+    {
+      "title": "Freely moving mice avoid virtual depth",
+      "body": [
+        "Stowers and colleagues placed mice on a platform above apparent shallow and deep spaces. Real surfaces were 20 and 40 centimetres below the track. Virtual scenes reproduced these views.",
+        "**Motion parallax** is the change in an object’s apparent position as the observer moves. Near and far objects shift differently. Head tracking allowed the displays to reproduce these differences.",
+        "Mice preferred the shallow side with real surfaces and perspective-correct virtual scenes. A static display lacked the same preference. Movement-dependent visual changes helped guide where the mice walked."
+      ],
+      "cite": "Stowers et al. (2017)",
+      "refs": [
+        "Stowers JR, Hofbauer M, Bastien R, Griessner J, Higgins P, Farooqui S, Fischer RM, Nowikovsky K, Haubensak W, Couzin ID, Tessmar-Raible K, Straw AD (2017). Virtual reality for freely moving animals. Nature methods 14:995-1002. https://doi.org/10.1038/nmeth.4399"
+      ],
+      "transcript": [
+        "Stowers and colleagues placed mice on a platform above apparent shallow and deep spaces. Real surfaces were 20 and 40 centimetres below the track. Virtual scenes reproduced these views.",
+        "**Motion parallax** is the change in an object’s apparent position as the observer moves. Near and far objects shift differently. Head tracking allowed the displays to reproduce these differences.",
+        "Mice preferred the shallow side with real surfaces and perspective-correct virtual scenes. A static display lacked the same preference. Movement-dependent visual changes helped guide where the mice walked."
+      ],
+      "layout": "figure-right",
+      "figure_width": 5.3,
+      "figure": {
+        "path": "figures/L83_stowers_mouse.png",
+        "caption": "Stowers et al. (2017), Fig. 2(a–i). Real, static, and perspective-correct depth conditions with occupancy measures.",
+        "source_url": "https://doi.org/10.1038/nmeth.4399",
+        "kind": "article"
+      },
+      "instructional_role": "research",
+      "writing_level": "Introductory concrete prose; three short teaching paragraphs."
+    }
+  ],
+  "takeaways": {
+    "items": [
+      {
+        "lead": "Behavior begins with neural signaling",
+        "text": "Sensory inputs change neuronal activity, and motor outputs produce actions; internal state and prior experience alter the response."
+      },
+      {
+        "lead": "Plasticity changes what circuits can do",
+        "text": "Development, practice, and recovery after early injury alter neural organization and the skills remaining tissue can perform."
+      },
+      {
+        "lead": "Mechanism and function answer different questions",
+        "text": "Mechanism explains the cells and signals producing an action; function describes what the action accomplishes."
+      },
+      {
+        "lead": "Learning depends on consequences and feedback",
+        "text": "Rewarded actions become more effective, while a closed loop makes the next input depend on the system’s own output."
+      },
+      {
+        "lead": "Neural tools test specific contributions",
+        "text": "Recording measures activity during behavior; optogenetic activation or inhibition changes selected cells so the resulting behavior can be measured."
+      },
+      {
+        "lead": "Biological interfaces require defined inputs and outputs",
+        "text": "A fish controls wheels, a sea lion controls a cursor, and cultured neurons control a paddle through explicit mappings that researchers can test."
+      }
+    ],
+    "cite": "Carlson & Birkett (2022); Kliemann et al. (2019); Boyden et al. (2005); Mathis et al. (2018); Givon et al. (2022); Kagan et al. (2022)",
+    "refs": [
+      "Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition. 13th edition. Pearson. ISBN 9781292430256. Chapter 1, Introduction, pp. 15–34.",
+      "Kliemann D, Adolphs R, Tyszka JM, Fischl B, Yeo BTT, Nair R, Dubois J, Paul LK (2019). Intrinsic functional connectivity of the brain in adults with a single cerebral hemisphere. Cell Reports 29(8):2398–2407.e4. https://doi.org/10.1016/j.celrep.2019.10.067",
+      "Georg Nagel; Tanjef Szellas; Wolfram Huhn; Suneel Kateriya; Nona Adeishvili; Peter Berthold; Doris Ollig; Peter Hegemann; Ernst Bamberg (2003). Channelrhodopsin-2, a directly light-gated cation-selective membrane channel. Proceedings of the National Academy of Sciences 100(24): 13940-13945. https://doi.org/10.1073/pnas.1936192100",
+      "Graham F (2026). Daily briefing: Medicine Nobel prize goes to optogenetics. Nature, 5 October 2026. https://doi.org/10.1038/d41586-026-03185-x",
+      "Edward S Boyden; Feng Zhang; Ernst Bamberg; Georg Nagel; Karl Deisseroth (2005). Millisecond-timescale, genetically targeted optical control of neural activity. Nature Neuroscience 8(9): 1263-1268. https://doi.org/10.1038/nn1525",
+      "Kate L Montgomery; Alexander J Yeh; John S Ho; Vivien Tsao; Shrivats Mohan Iyer; Logan Grosenick; Emily A Ferenczi; Yuji Tanabe; Karl Deisseroth; Scott L Delp; Ada S Y Poon (2015). Wirelessly powered, fully internal optogenetics for brain, spinal and peripheral circuits in mice. Nature Methods 12(10): 969-974. https://doi.org/10.1038/nmeth.3536",
+      "Elena G. Govorunova; Oleg A. Sineshchekov; Roger Janz; Xiaoqin Liu; John L. Spudich (2015). Natural light-gated anion channels: A family of microbial rhodopsins for advanced optogenetics. Science 349(6248): 647-650. https://doi.org/10.1126/science.aaa7484",
+      "Hidehiko K Inagaki; Yonil Jung; Eric D Hoopfer; Allan M Wong; Neeli Mishra; John Y Lin; Roger Y Tsien; David J Anderson (2014). Optogenetic control of Drosophila using a red-shifted channelrhodopsin reveals experience-dependent influences on courtship. Nature Methods 11(3): 325-332. https://doi.org/10.1038/nmeth.2765",
+      "Dhruv Grover; Takeo Katsuki; Jinfang Li; Thomas J. Dawkins; Ralph J. Greenspan (2020). Imaging brain activity during complex social behaviors in Drosophila with Flyception2. Nature Communications 11(1): 623. https://doi.org/10.1038/s41467-020-14487-7",
+      "Paride Antinucci; Mónica Folgueira; Isaac H Bianco (2019). Pretectal neurons control hunting behaviour. eLife 8: e48114. https://doi.org/10.7554/elife.48114",
+      "Jessica Cande; Shigehiro Namiki; Jirui Qiu; Wyatt Korff; Gwyneth M Card; Joshua W Shaevitz; David L Stern; Gordon J Berman (2018). Optogenetic dissection of descending behavioral control in Drosophila. eLife 7: e34275. https://doi.org/10.7554/elife.34275",
+      "Tobi A Szuts; Vitaliy Fadeyev; Sergei Kachiguine; Alexander Sher; Matthew V Grivich; Margarida Agrochão; Pawel Hottowy; Wladyslaw Dabrowski; Evgueniy V Lubenov; Athanassios G Siapas; Naoshige Uchida; Alan M Litke; Markus Meister (2011). A wireless multi-channel neural amplifier for freely moving animals. Nature Neuroscience 14(2): 263-269. https://doi.org/10.1038/nn.2730",
+      "Angelo Forli; Wudi Fan; Kevin K. Qi; Michael M. Yartsev (2025). Replay and representation dynamics in the hippocampus of freely flying bats. Nature 645(8082): 974-980. https://doi.org/10.1038/s41586-025-09341-z",
+      "Madeleine C. Snyder; Kevin K. Qi; Michael M. Yartsev (2024). Neural representation of human experimenters in the bat hippocampus. Nature Neuroscience 27(9): 1675-1679. https://doi.org/10.1038/s41593-024-01690-8",
+      "Mathis A, Mamidanna P, Cury KM, Abe T, Murthy VN, Mathis MW, Bethge M (2018). DeepLabCut: Markerless pose estimation of user-defined body parts with deep learning. Nature Neuroscience 21:1281–1289. https://doi.org/10.1038/s41593-018-0209-y",
+      "Original figure crops from the authors’ manuscript, Markerless tracking of user-defined features with deep learning, arXiv:1804.03142 (2018). https://arxiv.org/abs/1804.03142 . Figure numbers explicitly refer to that version.",
+      "Givon S, Samina M, Ben-Shahar O, Segev R (2022). From fish out of water to new insights on navigation mechanisms in animals. Behavioural brain research 419:113711. https://doi.org/10.1016/j.bbr.2021.113711",
+      "Winship KA, Ramos A, Xitco MJ Jr (2023). The Introduction of a Novel Computerized Apparatus to California Sea Lions (Zalophus californianus). Aquatic Mammals 49(1):73–86. https://doi.org/10.1578/AM.49.1.2023.73",
+      "Roberts DL, Eskelinen HC, Winship KA, Ramos AM, Xitco MJ (2023). Effects of Failure on California Sea Lion (Zalophus californianus) Gameplay Strategies and Interest in a Cognitive Task: Implications for Cognitive Enrichment in Pinnipeds. Journal of Zoological and Botanical Gardens 4:240–255. https://doi.org/10.3390/jzbg4010021",
+      "Winship K, McClain A, Ramos A, Dunham J, Xitco M Jr (2024). Health and Welfare Benefits of Computerized Cognitive Enrichment in California Sea Lions (Zalophus californianus) at the US Navy Marine Mammal Program. Animals 14:1120. https://doi.org/10.3390/ani14071120",
+      "Ramos A, Winship K (2025). Linking Personality and Performance in California Sea Lions (Zalophus californianus) During Computerized Cognitive Enrichment. Animals 15:3007. https://doi.org/10.3390/ani15203007",
+      "Kagan BJ, Kitchen AC, Tran NT, Habibollahi F, Khajehnejad M, Parker BJ, Bhat A, Rollo B, Razi A, Friston KJ (2022). In vitro neurons learn and exhibit sentience when embodied in a simulated game-world. Neuron 110:3952-3969.e8. https://doi.org/10.1016/j.neuron.2022.09.001",
+      "Cai H; Ao Z; Tian C; Wu Z; Liu H; Tchieu J; Gu M; Mackie K; Guo F (2023). Brain organoid reservoir computing for artificial intelligence. Nature Electronics 6(12):1032–1039. https://doi.org/10.1038/s41928-023-01069-w",
+      "Cai et al. (2023), Fig. 1B–C. Organoid-electrode arrangement and neuronal tissue markers. https://doi.org/10.1038/s41928-023-01069-w",
+      "Cai et al. (2023), Fig. 3C. Speaker classification before and after training. https://doi.org/10.1038/s41928-023-01069-w",
+      "Cai et al. (2023), Fig. 3D. Classification accuracy across training epochs. https://doi.org/10.1038/s41928-023-01069-w",
+      "Stowers JR, Hofbauer M, Bastien R, Griessner J, Higgins P, Farooqui S, Fischer RM, Nowikovsky K, Haubensak W, Couzin ID, Tessmar-Raible K, Straw AD (2017). Virtual reality for freely moving animals. Nature methods 14:995-1002. https://doi.org/10.1038/nmeth.4399"
+    ]
+  },
+  "version": 2,
+  "revision_note": "Version 2: interwoven foundations and research, clear introductory mechanisms, original scientific figures retained, concept-matched media."
+}
