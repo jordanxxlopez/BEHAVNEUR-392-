@@ -1,0 +1,38 @@
+[
+  {
+    "part": 1,
+    "path": "/workspace/attachments/d4317204-7f48-40db-a3e4-9cdd8faee750/Physiology_of_Behavior_Global_Edition_Part1of6_pp1-81.pdf",
+    "pages": 81,
+    "sha256": "3d51b7ec26daade46a3bad2c3be07f749dbbd6eabd533055b0ed5223473113eb"
+  },
+  {
+    "part": 2,
+    "path": "/workspace/attachments/76e4130a-e851-4ba9-9068-04cda6fbd604/Physiology_of_Behavior_Global_Edition_Part2of6_pp82-173.pdf",
+    "pages": 92,
+    "sha256": "f619abb4758b2a6cea7b075a6e57d356cf9c339e7b1c21e6e7cf1a3d09dd6a9e"
+  },
+  {
+    "part": 3,
+    "path": "/workspace/attachments/4c1818cc-15e6-4c9b-8af5-5855890d0ac9/Physiology_of_Behavior_Global_Edition_Part3of6_pp174-251.pdf",
+    "pages": 78,
+    "sha256": "88423f19fd07b46a1d8f1e78cd226b524eeebf150d51aa8c4fc4d6f07867a461"
+  },
+  {
+    "part": 4,
+    "path": "/workspace/attachments/bff0c565-33d6-4b52-a674-ad92e220b633/Physiology_of_Behavior_Global_Edition_Part4of6_pp252-414.pdf",
+    "pages": 163,
+    "sha256": "f89ee66541fe339bd5436d79f058b25818d1cd26403dff79f55a96b42672a0e6"
+  },
+  {
+    "part": 5,
+    "path": "/workspace/attachments/4ae8332b-482a-4f2b-8c5d-d8a1412f2b29/Physiology_of_Behavior_Global_Edition_Part5of6_pp415-521.pdf",
+    "pages": 107,
+    "sha256": "930dec2585589bfab2ed3b28b07362ddd64d7958a92bf39b03f90f25d1f8ed42"
+  },
+  {
+    "part": 6,
+    "path": "/workspace/attachments/7db16c45-bd72-48f7-b42e-a93bd29337de/Physiology_of_Behavior_Global_Edition_Part6of6_pp522-736.pdf",
+    "pages": 215,
+    "sha256": "0f588dde88c7eb03cf04a67dabfbdea996210d20a16762d3bbd3cf410d0c0f39"
+  }
+]

@@ -8,9 +8,11 @@
       "n": 1,
       "date": "Date TBD",
       "title": "From Brain to Behavior: Foundations and Frontiers of Behavioral Neuroscience",
-      "verified": false,
+      "verified": true,
       "book_chapter_title": "Introduction",
-      "display_title_authorized": true
+      "display_title_authorized": true,
+      "textbook_printed_pages": "15\u201334",
+      "book_scope_verified_from": "Uploaded Part1of6 PDF, PDF pages 16\u201335"
     },
     {
       "n": 2,

@@ -1,11 +1,7 @@
-# Sources needed before final lecture delivery
+# Source access status
 
-## Textbook extract
+All six split textbook PDFs are downloaded and readable. Chapter 1 (Introduction), printed pages 15–34, has been accessed. The career/learning-strategy sections on pages 31–34 will be replaced with the instructor-authorized technology section. No textbook upload is currently needed.
 
-The uploaded full textbook and files.zip cannot be transferred into this execution workspace because each exceeds its 32 MiB file-transfer limit. The ZIP’s contents have not been inspected. Upload the table of contents and Chapter 1 (Introduction) as individual PDFs under 32 MiB each. This is needed to verify the requested textbook alignment and extract genuine labeled textbook figures. No replacement textbook edition or unauthenticated figure will be substituted.
+Three retained excerpts from the instructor-uploaded Meet_EVE_HD (1).mp4 have been recovered from Lecture 94, Sea Lions II, and copied with SHA256 checks. They contain response/trainer reward (84–101 s), maze gameplay (53–59 s), and sample/choice display (70–84 s). The original complete 160.519-second upload is not retained in the repository. These existing excerpts are sufficient for the requested EVE interface teaching; do not request another upload merely because YouTube retrieval failed. Source identity and prior provenance are recorded in research/recovered_eve_sources.json.
 
-## Selected blocked academic recording
-
-1. **Association for the Study of Animal Behavior (ASAB), Meet EVE: The Enclosure Video Enrichment System for the Navy’s Marine Mammals** (14 January 2024). Original URL: https://www.youtube.com/watch?v=MMJB4Z7OEL0 . Source connection: explicitly cited in Ramos and Winship (2025), *Linking Personality and Performance in California Sea Lions During Computerized Cognitive Enrichment*, DOI https://doi.org/10.3390/ani15203007 . Teaching purpose: the EVE interface, sea-lion responses, and computerized enrichment. This is an academic presentation/recording, not an article supplementary movie. Retrieve and upload the original video, preserving native resolution and audio. The environment’s yt-dlp retrieval failed with a proxy HTTP 403 while obtaining YouTube API data. No clip has been downloaded or embedded.
-
-Academic and aesthetic video selection is not yet complete. This list records the currently selected blocked source; do not infer that every other required recording has been obtained. Final delivery remains pending textbook review and complete video verification.
+Selection and verification of the remaining academic/aesthetic recordings is ongoing. No unidentified uploads are requested, and no incomplete deck should be labeled final.

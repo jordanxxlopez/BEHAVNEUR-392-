@@ -1,0 +1,40 @@
+{
+  "source": "Carlson and Birkett (2022), Physiology of Behavior, Global Edition, 13th edition",
+  "isbn": "9781292430256",
+  "source_part": 1,
+  "figures": [
+    {
+      "path": "figures/textbook_f1_4_broca.png",
+      "figure_id": "1.4",
+      "pdf_page": 22,
+      "printed_page": 21,
+      "box": [
+        0.18,
+        0.172,
+        0.505,
+        0.37
+      ],
+      "kind": "textbook",
+      "caption": "Carlson and Birkett (2022), Fig. 1.4, p. 21. Broca\u2019s area in the left hemisphere.",
+      "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+      "isbn": "9781292430256"
+    },
+    {
+      "path": "figures/textbook_f1_5_cajal.png",
+      "figure_id": "1.5",
+      "pdf_page": 22,
+      "printed_page": 21,
+      "box": [
+        0.531,
+        0.147,
+        0.895,
+        0.582
+      ],
+      "kind": "textbook",
+      "caption": "Carlson and Birkett (2022), Fig. 1.5, p. 21. Cajal\u2019s drawing of Golgi-stained neurons.",
+      "credit": "Santiago Ram\u00f3n y Cajal; Science Source, as credited in the textbook.",
+      "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+      "isbn": "9781292430256"
+    }
+  ]
+}

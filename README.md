@@ -4,7 +4,7 @@ Connected repository: https://github.com/jordanxxlopez/BEHAVNEUR-392-.git. The t
 
 See AGENTS.md and course/policy.json for course-only requirements. There will be 19 chapter decks, preferably 75 slides each, at most 85; approximately 25% textbook foundations and 75% primary research; 15–20 academic and 5–10 aesthetic embedded videos. Exact contents and chapter titles are pending direct book verification. The builder retains Neuroethology content layouts and changes the title slide to white with a source image left and instructor details right.
 
-The uploaded full textbook exceeds the execution tool’s 32 MiB transfer limit. It has not been read or cropped. The former professor’s three early lectures have now been inspected; see research/prior_lectures_analysis.md. The new files.zip also exceeds the 32 MiB transfer limit. A smaller contents/Chapter 1 extract is still required before claiming direct textbook review. No final lecture PPTX has been produced.
+All six split textbook parts are available in private source storage. Chapter 1 (Introduction, printed pages 15–34) and the table of contents have been reviewed; 19 chapters are confirmed. The prior professor’s three early lectures have been inspected. Three retained EVE excerpts from Neuroethology Lecture 94 have been copied unchanged for reuse. The first deck is still in preparation.
 
 ## Commands
 

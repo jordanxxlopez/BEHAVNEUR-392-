@@ -8,9 +8,9 @@
       "original_url": "https://www.youtube.com/watch?v=MMJB4Z7OEL0",
       "doi": "10.3390/ani15203007",
       "source_relationship": "Explicit reference in Ramos and Winship (2025); not a publisher supplementary movie.",
-      "status": "blocked",
-      "error": "YouTube API retrieval failed with proxy HTTP 403.",
-      "slide": "Assign after chapter source review."
+      "status": "Resolved using retained instructor-uploaded EVE excerpts from Lecture 94",
+      "slide": "Assign after chapter source review.",
+      "recovered_provenance": "See recovered_eve_sources.json; full YouTube-upload byte identity is not established."
     }
   ]
 }
