@@ -1,0 +1,774 @@
+{
+  "status": "Provisional allocation revised after actually inspecting the three uploaded professor decks. No direct textbook access yet.",
+  "total_slides": 75,
+  "title_slide": 1,
+  "takeaways_slide": 75,
+  "foundation_slides": 18,
+  "research_slides": 55,
+  "slides": [
+    {
+      "slide": 2,
+      "module": "Biological explanations and historical approaches",
+      "instructional_role": "foundation",
+      "candidate_sources": [
+        "Textbook Introduction, pending direct access"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 3,
+      "module": "Biological explanations and historical approaches",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Textbook Introduction, pending direct access"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 4,
+      "module": "Biological explanations and historical approaches",
+      "instructional_role": "foundation",
+      "candidate_sources": [
+        "Textbook Introduction, pending direct access"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 5,
+      "module": "Biological explanations and historical approaches",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Textbook Introduction, pending direct access"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 6,
+      "module": "Biological explanations and historical approaches",
+      "instructional_role": "foundation",
+      "candidate_sources": [
+        "Textbook Introduction, pending direct access"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 7,
+      "module": "Biological explanations and historical approaches",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Textbook Introduction, pending direct access"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 8,
+      "module": "Biological explanations and historical approaches",
+      "instructional_role": "foundation",
+      "candidate_sources": [
+        "Textbook Introduction, pending direct access"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 9,
+      "module": "Biological explanations and historical approaches",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Textbook Introduction, pending direct access"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 10,
+      "module": "Biological explanations and historical approaches",
+      "instructional_role": "foundation",
+      "candidate_sources": [
+        "Textbook Introduction, pending direct access"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 11,
+      "module": "Biological explanations and historical approaches",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Textbook Introduction, pending direct access"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 12,
+      "module": "Consciousness and brain-dependent behavior",
+      "instructional_role": "foundation",
+      "candidate_sources": [
+        "Introductory primary sources to verify after book scope review"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 13,
+      "module": "Consciousness and brain-dependent behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Introductory primary sources to verify after book scope review"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 14,
+      "module": "Consciousness and brain-dependent behavior",
+      "instructional_role": "foundation",
+      "candidate_sources": [
+        "Introductory primary sources to verify after book scope review"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 15,
+      "module": "Consciousness and brain-dependent behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Introductory primary sources to verify after book scope review"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 16,
+      "module": "Consciousness and brain-dependent behavior",
+      "instructional_role": "foundation",
+      "candidate_sources": [
+        "Introductory primary sources to verify after book scope review"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 17,
+      "module": "Consciousness and brain-dependent behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Introductory primary sources to verify after book scope review"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 18,
+      "module": "Consciousness and brain-dependent behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Introductory primary sources to verify after book scope review"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 19,
+      "module": "Consciousness and brain-dependent behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Introductory primary sources to verify after book scope review"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 20,
+      "module": "Evolution and comparative behavior",
+      "instructional_role": "foundation",
+      "candidate_sources": [
+        "Baym et al. (2016), microbial evolution only",
+        "Behavioral/comparative primary studies to select"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 21,
+      "module": "Evolution and comparative behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Baym et al. (2016), microbial evolution only",
+        "Behavioral/comparative primary studies to select"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 22,
+      "module": "Evolution and comparative behavior",
+      "instructional_role": "foundation",
+      "candidate_sources": [
+        "Baym et al. (2016), microbial evolution only",
+        "Behavioral/comparative primary studies to select"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 23,
+      "module": "Evolution and comparative behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Baym et al. (2016), microbial evolution only",
+        "Behavioral/comparative primary studies to select"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 24,
+      "module": "Evolution and comparative behavior",
+      "instructional_role": "foundation",
+      "candidate_sources": [
+        "Baym et al. (2016), microbial evolution only",
+        "Behavioral/comparative primary studies to select"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 25,
+      "module": "Evolution and comparative behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Baym et al. (2016), microbial evolution only",
+        "Behavioral/comparative primary studies to select"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 26,
+      "module": "Evolution and comparative behavior",
+      "instructional_role": "foundation",
+      "candidate_sources": [
+        "Baym et al. (2016), microbial evolution only",
+        "Behavioral/comparative primary studies to select"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 27,
+      "module": "Evolution and comparative behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Baym et al. (2016), microbial evolution only",
+        "Behavioral/comparative primary studies to select"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 28,
+      "module": "Evolution and comparative behavior",
+      "instructional_role": "foundation",
+      "candidate_sources": [
+        "Baym et al. (2016), microbial evolution only",
+        "Behavioral/comparative primary studies to select"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 29,
+      "module": "Evolution and comparative behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Baym et al. (2016), microbial evolution only",
+        "Behavioral/comparative primary studies to select"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 30,
+      "module": "Evolution and comparative behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Baym et al. (2016), microbial evolution only",
+        "Behavioral/comparative primary studies to select"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 31,
+      "module": "Evolution and comparative behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Baym et al. (2016), microbial evolution only",
+        "Behavioral/comparative primary studies to select"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 32,
+      "module": "Optogenetics connects neuronal activity to behavior",
+      "instructional_role": "foundation",
+      "candidate_sources": [
+        "Nagel et al. (2003)",
+        "Boyden et al. (2005)",
+        "Govorunova et al. (2015)",
+        "Montgomery et al. (2015)"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 33,
+      "module": "Optogenetics connects neuronal activity to behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Nagel et al. (2003)",
+        "Boyden et al. (2005)",
+        "Govorunova et al. (2015)",
+        "Montgomery et al. (2015)"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 34,
+      "module": "Optogenetics connects neuronal activity to behavior",
+      "instructional_role": "foundation",
+      "candidate_sources": [
+        "Nagel et al. (2003)",
+        "Boyden et al. (2005)",
+        "Govorunova et al. (2015)",
+        "Montgomery et al. (2015)"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 35,
+      "module": "Optogenetics connects neuronal activity to behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Nagel et al. (2003)",
+        "Boyden et al. (2005)",
+        "Govorunova et al. (2015)",
+        "Montgomery et al. (2015)"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 36,
+      "module": "Optogenetics connects neuronal activity to behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Nagel et al. (2003)",
+        "Boyden et al. (2005)",
+        "Govorunova et al. (2015)",
+        "Montgomery et al. (2015)"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 37,
+      "module": "Optogenetics connects neuronal activity to behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Nagel et al. (2003)",
+        "Boyden et al. (2005)",
+        "Govorunova et al. (2015)",
+        "Montgomery et al. (2015)"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 38,
+      "module": "Optogenetics connects neuronal activity to behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Nagel et al. (2003)",
+        "Boyden et al. (2005)",
+        "Govorunova et al. (2015)",
+        "Montgomery et al. (2015)"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 39,
+      "module": "Optogenetics connects neuronal activity to behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Nagel et al. (2003)",
+        "Boyden et al. (2005)",
+        "Govorunova et al. (2015)",
+        "Montgomery et al. (2015)"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 40,
+      "module": "Optogenetics connects neuronal activity to behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Nagel et al. (2003)",
+        "Boyden et al. (2005)",
+        "Govorunova et al. (2015)",
+        "Montgomery et al. (2015)"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 41,
+      "module": "Optogenetics connects neuronal activity to behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Nagel et al. (2003)",
+        "Boyden et al. (2005)",
+        "Govorunova et al. (2015)",
+        "Montgomery et al. (2015)"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 42,
+      "module": "Optogenetics connects neuronal activity to behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Nagel et al. (2003)",
+        "Boyden et al. (2005)",
+        "Govorunova et al. (2015)",
+        "Montgomery et al. (2015)"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 43,
+      "module": "Optogenetics connects neuronal activity to behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Nagel et al. (2003)",
+        "Boyden et al. (2005)",
+        "Govorunova et al. (2015)",
+        "Montgomery et al. (2015)"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 44,
+      "module": "Optogenetics connects neuronal activity to behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Nagel et al. (2003)",
+        "Boyden et al. (2005)",
+        "Govorunova et al. (2015)",
+        "Montgomery et al. (2015)"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 45,
+      "module": "Optogenetics connects neuronal activity to behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Nagel et al. (2003)",
+        "Boyden et al. (2005)",
+        "Govorunova et al. (2015)",
+        "Montgomery et al. (2015)"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 46,
+      "module": "Optogenetics connects neuronal activity to behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Nagel et al. (2003)",
+        "Boyden et al. (2005)",
+        "Govorunova et al. (2015)",
+        "Montgomery et al. (2015)"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 47,
+      "module": "Optogenetics connects neuronal activity to behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Nagel et al. (2003)",
+        "Boyden et al. (2005)",
+        "Govorunova et al. (2015)",
+        "Montgomery et al. (2015)"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 48,
+      "module": "Neural recordings and computer vision measure behavior",
+      "instructional_role": "foundation",
+      "candidate_sources": [
+        "Forli et al. (2025)",
+        "DeepLabCut source verification pending"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 49,
+      "module": "Neural recordings and computer vision measure behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Forli et al. (2025)",
+        "DeepLabCut source verification pending"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 50,
+      "module": "Neural recordings and computer vision measure behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Forli et al. (2025)",
+        "DeepLabCut source verification pending"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 51,
+      "module": "Neural recordings and computer vision measure behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Forli et al. (2025)",
+        "DeepLabCut source verification pending"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 52,
+      "module": "Neural recordings and computer vision measure behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Forli et al. (2025)",
+        "DeepLabCut source verification pending"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 53,
+      "module": "Neural recordings and computer vision measure behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Forli et al. (2025)",
+        "DeepLabCut source verification pending"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 54,
+      "module": "Neural recordings and computer vision measure behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Forli et al. (2025)",
+        "DeepLabCut source verification pending"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 55,
+      "module": "Neural recordings and computer vision measure behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Forli et al. (2025)",
+        "DeepLabCut source verification pending"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 56,
+      "module": "Neural recordings and computer vision measure behavior",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Forli et al. (2025)",
+        "DeepLabCut source verification pending"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 57,
+      "module": "Animals learn computer control mappings",
+      "instructional_role": "foundation",
+      "candidate_sources": [
+        "Givon et al. (2022)",
+        "Winship et al. (2024)",
+        "Ramos and Winship (2025)"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 58,
+      "module": "Animals learn computer control mappings",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Givon et al. (2022)",
+        "Winship et al. (2024)",
+        "Ramos and Winship (2025)"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 59,
+      "module": "Animals learn computer control mappings",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Givon et al. (2022)",
+        "Winship et al. (2024)",
+        "Ramos and Winship (2025)"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 60,
+      "module": "Animals learn computer control mappings",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Givon et al. (2022)",
+        "Winship et al. (2024)",
+        "Ramos and Winship (2025)"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 61,
+      "module": "Animals learn computer control mappings",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Givon et al. (2022)",
+        "Winship et al. (2024)",
+        "Ramos and Winship (2025)"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 62,
+      "module": "Animals learn computer control mappings",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Givon et al. (2022)",
+        "Winship et al. (2024)",
+        "Ramos and Winship (2025)"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 63,
+      "module": "Animals learn computer control mappings",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Givon et al. (2022)",
+        "Winship et al. (2024)",
+        "Ramos and Winship (2025)"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 64,
+      "module": "Animals learn computer control mappings",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Givon et al. (2022)",
+        "Winship et al. (2024)",
+        "Ramos and Winship (2025)"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 65,
+      "module": "Animals learn computer control mappings",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Givon et al. (2022)",
+        "Winship et al. (2024)",
+        "Ramos and Winship (2025)"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 66,
+      "module": "Animals learn computer control mappings",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Givon et al. (2022)",
+        "Winship et al. (2024)",
+        "Ramos and Winship (2025)"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 67,
+      "module": "Biological learning uses sensory feedback",
+      "instructional_role": "foundation",
+      "candidate_sources": [
+        "Kagan et al. (2022)",
+        "Source-verified Biocomputing II recordings"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 68,
+      "module": "Biological learning uses sensory feedback",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Kagan et al. (2022)",
+        "Source-verified Biocomputing II recordings"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 69,
+      "module": "Biological learning uses sensory feedback",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Kagan et al. (2022)",
+        "Source-verified Biocomputing II recordings"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 70,
+      "module": "Biological learning uses sensory feedback",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Kagan et al. (2022)",
+        "Source-verified Biocomputing II recordings"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 71,
+      "module": "Biological learning uses sensory feedback",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Kagan et al. (2022)",
+        "Source-verified Biocomputing II recordings"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 72,
+      "module": "Biological learning uses sensory feedback",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Kagan et al. (2022)",
+        "Source-verified Biocomputing II recordings"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 73,
+      "module": "Biological learning uses sensory feedback",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Kagan et al. (2022)",
+        "Source-verified Biocomputing II recordings"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    },
+    {
+      "slide": 74,
+      "module": "Biological learning uses sensory feedback",
+      "instructional_role": "research",
+      "candidate_sources": [
+        "Kagan et al. (2022)",
+        "Source-verified Biocomputing II recordings"
+      ],
+      "status": "Planning slot only; verify with textbook before writing final teaching text."
+    }
+  ],
+  "academic_video_plan": {
+    "count": 15,
+    "placement": "Across selected research content slides; unique source recordings and exact IDs are pending."
+  },
+  "aesthetic_video_plan": {
+    "count": 5,
+    "placement": "Context-appropriate real footage across the chapter, separately credited; not primary evidence."
+  },
+  "display_title": "From Brain to Behavior: Foundations and Frontiers of Behavioral Neuroscience",
+  "coverage_note": "Origins deck identifies Chapter 1 Introduction and covers brain function, historical explanations, evolution, and comparative psychology. Add direct neuroscience research and the authorized frontier section; do not transplant detailed Chapter 2 physiology."
+}

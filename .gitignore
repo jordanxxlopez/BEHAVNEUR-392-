@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+chapters/*/papers/
+research/downloads/
+reference/*.pdf
+reference/*.pptx
+qa/

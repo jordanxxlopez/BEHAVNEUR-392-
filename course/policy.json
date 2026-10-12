@@ -1,0 +1,40 @@
+{
+  "course": "Behavioral Neuroscience 392",
+  "scope": "Only this course; does not change NEUR 411",
+  "chapter_decks": 19,
+  "preferred_total_slides": 75,
+  "maximum_total_slides": 85,
+  "preferred_content_slides": 73,
+  "foundation_fraction": [
+    0.2,
+    0.3
+  ],
+  "research_fraction": [
+    0.7,
+    0.8
+  ],
+  "academic_videos": [
+    15,
+    20
+  ],
+  "aesthetic_videos": [
+    5,
+    10
+  ],
+  "minimum_total_videos": 20,
+  "maximum_total_videos": 30,
+  "all_content_slides_require_image": true,
+  "primary_article_figure_minimum_fraction": 0.7,
+  "textbook_figures_permitted": true,
+  "title_layout": {
+    "background": "white",
+    "image": "left",
+    "course_title_date_instructor": "right"
+  },
+  "article_access_policy": "Replace blocked papers with accessible scientifically appropriate primary studies. Request upload only if indispensable.",
+  "video_access_policy": "If a needed selected video is blocked, stop final delivery and request the exact video upload.",
+  "source_commit": "5045962",
+  "source_branch": "claude/neuroethology-fa2026-schedule-2lgmmr",
+  "repository_access": "Connected empty GitHub repository: https://github.com/jordanxxlopez/BEHAVNEUR-392-.git",
+  "chapter_display_titles": "Instructor-approved topic titles rather than Chapter N; textbook chapter mapping remains in schedule metadata."
+}

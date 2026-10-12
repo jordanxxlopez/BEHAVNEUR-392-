@@ -1,0 +1,109 @@
+{
+  "status": "Candidate source inventory, not a verified final bibliography or completed chapter review.",
+  "sources": [
+    {
+      "id": "nagel03",
+      "title": "Channelrhodopsin-2, a directly light-gated cation-selective membrane channel",
+      "authors": "Georg Nagel; Tanjef Szellas; Wolfram Huhn; Suneel Kateriya; Nona Adeishvili; Peter Berthold; Doris Ollig; Peter Hegemann; Ernst Bamberg",
+      "year": 2003,
+      "doi": "10.1073/pnas.1936192100",
+      "reference": "Georg Nagel; Tanjef Szellas; Wolfram Huhn; Suneel Kateriya; Nona Adeishvili; Peter Berthold; Doris Ollig; Peter Hegemann; Ernst Bamberg (2003). Channelrhodopsin-2, a directly light-gated cation-selective membrane channel. Proceedings of the National Academy of Sciences 100(24): 13940-13945. https://doi.org/10.1073/pnas.1936192100",
+      "pmcid": "PMC283525"
+    },
+    {
+      "id": "govorunova15",
+      "title": "Natural light-gated anion channels: A family of microbial rhodopsins for advanced optogenetics",
+      "authors": "Elena G. Govorunova; Oleg A. Sineshchekov; Roger Janz; Xiaoqin Liu; John L. Spudich",
+      "year": 2015,
+      "doi": "10.1126/science.aaa7484",
+      "reference": "Elena G. Govorunova; Oleg A. Sineshchekov; Roger Janz; Xiaoqin Liu; John L. Spudich (2015). Natural light-gated anion channels: A family of microbial rhodopsins for advanced optogenetics. Science 349(6248): 647-650. https://doi.org/10.1126/science.aaa7484",
+      "pmcid": "PMC4764398"
+    },
+    {
+      "id": "boyden05",
+      "title": "Millisecond-timescale, genetically targeted optical control of neural activity",
+      "authors": "Edward S Boyden; Feng Zhang; Ernst Bamberg; Georg Nagel; Karl Deisseroth",
+      "year": 2005,
+      "doi": "10.1038/nn1525",
+      "reference": "Edward S Boyden; Feng Zhang; Ernst Bamberg; Georg Nagel; Karl Deisseroth (2005). Millisecond-timescale, genetically targeted optical control of neural activity. Nature Neuroscience 8(9): 1263-1268. https://doi.org/10.1038/nn1525",
+      "pmcid": null
+    },
+    {
+      "id": "montgomery15",
+      "title": "Wirelessly powered, fully internal optogenetics for brain, spinal and peripheral circuits in mice",
+      "authors": "Kate L Montgomery; Alexander J Yeh; John S Ho; Vivien Tsao; Shrivats Mohan Iyer; Logan Grosenick; Emily A Ferenczi; Yuji Tanabe; Karl Deisseroth; Scott L Delp; Ada S Y Poon",
+      "year": 2015,
+      "doi": "10.1038/nmeth.3536",
+      "reference": "Kate L Montgomery; Alexander J Yeh; John S Ho; Vivien Tsao; Shrivats Mohan Iyer; Logan Grosenick; Emily A Ferenczi; Yuji Tanabe; Karl Deisseroth; Scott L Delp; Ada S Y Poon (2015). Wirelessly powered, fully internal optogenetics for brain, spinal and peripheral circuits in mice. Nature Methods 12(10): 969-974. https://doi.org/10.1038/nmeth.3536",
+      "pmcid": "PMC5507210"
+    },
+    {
+      "id": "forli25",
+      "title": "Replay and representation dynamics in the hippocampus of freely flying bats",
+      "authors": "Angelo Forli; Wudi Fan; Kevin K. Qi; Michael M. Yartsev",
+      "year": 2025,
+      "doi": "10.1038/s41586-025-09341-z",
+      "reference": "Angelo Forli; Wudi Fan; Kevin K. Qi; Michael M. Yartsev (2025). Replay and representation dynamics in the hippocampus of freely flying bats. Nature 645(8082): 974-980. https://doi.org/10.1038/s41586-025-09341-z",
+      "pmcid": "PMC12460160"
+    },
+    {
+      "source_deck": "lectures/L71/lecture.json",
+      "references": [
+        "Kagan BJ, Kitchen AC, Tran NT, Habibollahi F, Khajehnejad M, Parker BJ, Bhat A, Rollo B, Razi A, Friston KJ (2022). In vitro neurons learn and exhibit sentience when embodied in a simulated game-world. Neuron 110:3952-3969.e8. https://doi.org/10.1016/j.neuron.2022.09.001",
+        "Bakkum DJ, Chao ZC, Potter SM (2008). Long-Term Activity-Dependent Plasticity of Action Potential Propagation Delay and Amplitude in Cortical Networks. PLoS ONE 3:e2088. https://doi.org/10.1371/journal.pone.0002088",
+        "Takahashi K, Yamanaka S (2006). Induction of Pluripotent Stem Cells from Mouse Embryonic and Adult Fibroblast Cultures by Defined Factors. Cell 126:663-676. https://doi.org/10.1016/j.cell.2006.07.024",
+        "Takahashi K, Tanabe K, Ohnuki M, Narita M, Ichisaka T, Tomoda K, Yamanaka S (2007). Induction of Pluripotent Stem Cells from Adult Human Fibroblasts by Defined Factors. Cell 131:861-872. https://doi.org/10.1016/j.cell.2007.11.019",
+        "Lancaster MA, Renner M, Martin CA, Wenzel D, Bicknell LS, Hurles ME, Homfray T, Penninger JM, Jackson AP, Knoblich JA (2013). Cerebral organoids model human brain development and microcephaly. Nature 501:373-379. https://doi.org/10.1038/nature12517",
+        "Trujillo CA, Gao R, Negraes PD, Gu J, Buchanan J, Preissl S, Wang A, Wu W, Haddad GG, Chaim IA, Domissy A, Vandenberghe M, Devor A, Yeo GW, Voytek B, Muotri AR (2019). Complex Oscillatory Waves Emerging from Cortical Organoids Model Early Human Brain Network Development. Cell Stem Cell 25:558-569.e7. https://doi.org/10.1016/j.stem.2019.08.002"
+      ],
+      "status": "Existing course bibliography; full source still needs a chapter-specific teaching and media review."
+    },
+    {
+      "source_deck": "lectures/L74/lecture.json",
+      "references": [
+        "Givon S, Samina M, Ben-Shahar O, Segev R (2022). From fish out of water to new insights on navigation mechanisms in animals. Behavioural brain research 419:113711. https://doi.org/10.1016/j.bbr.2021.113711",
+        "Sibeaux A, Karlsson C, Newport C, Burt de Perera T (2022). Distance estimation in the goldfish (Carassius auratus). Proceedings. Biological sciences 289:20221220. https://doi.org/10.1098/rspb.2022.1220",
+        "Rodríguez F, López JC, Vargas JP, Gómez Y, Broglio C, Salas C (2002). Conservation of spatial memory function in the pallial forebrain of reptiles and ray-finned fishes. The Journal of neuroscience : the official journal of the Society for Neuroscience 22:2894-2903. https://doi.org/10.1523/JNEUROSCI.22-07-02894.2002",
+        "Vinepinsky E, Cohen L, Perchik S, Ben-Shahar O, Donchin O, Segev R (2020). Representation of edges, head direction, and swimming kinematics in the brain of freely-navigating fish. Scientific reports 10:14762. https://doi.org/10.1038/s41598-020-71217-1",
+        "Cohen L, Vinepinsky E, Donchin O, Segev R (2023). Boundary vector cells in the goldfish central telencephalon encode spatial information. PLoS biology 21:e3001747. https://doi.org/10.1371/journal.pbio.3001747",
+        "Vargas JP, Portavella M, Quintero E, López JC (2011). Neural basis of the spatial navigation based on geometric cues. Behavioural brain research 225:367-372. https://doi.org/10.1016/j.bbr.2011.07.027"
+      ],
+      "status": "Existing course bibliography; full source still needs a chapter-specific teaching and media review."
+    },
+    {
+      "id": "winship24",
+      "title": "Health and Welfare Benefits of Computerized Cognitive Enrichment in California Sea Lions (Zalophus californianus) at the US Navy Marine Mammal Program.",
+      "doi": "10.3390/ani14071120",
+      "pmcid": "PMC11010985",
+      "year": 2024,
+      "status": "Europe PMC full text downloaded and inspected for computerized tasks and source-video links. Article/video selection and final teaching paragraphs still require Chapter 1 scope verification."
+    },
+    {
+      "id": "ramos_winship25",
+      "title": "Linking Personality and Performance in California Sea Lions (Zalophus californianus) During Computerized Cognitive Enrichment.",
+      "doi": "10.3390/ani15203007",
+      "pmcid": "PMC12560885",
+      "year": 2025,
+      "status": "Europe PMC full text downloaded and inspected for computerized tasks and source-video links. Article/video selection and final teaching paragraphs still require Chapter 1 scope verification."
+    },
+    {
+      "id": "deeplabcut18",
+      "doi": "10.1038/s41593-018-0209-y",
+      "status": "Candidate source; exact bibliography and footage verification pending."
+    },
+    {
+      "id": "nobel2026",
+      "title": "Daily briefing: Medicine Nobel prize goes to optogenetics",
+      "authors": "Flora Graham",
+      "date": "2026-10-05",
+      "doi": "10.1038/d41586-026-03185-x",
+      "url": "https://www.nature.com/articles/d41586-026-03185-x",
+      "verified_recipients": [
+        "Karl Deisseroth",
+        "Peter Hegemann",
+        "Georg Nagel"
+      ],
+      "status": "Full Nature report accessed and read. Official Nobel website returned 403. Award context only; scientific mechanisms come from primary papers; no news-report videos."
+    }
+  ]
+}

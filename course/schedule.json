@@ -1,0 +1,124 @@
+{
+  "course": "BEHAVIORAL NEUROSCIENCE 392",
+  "instructor": "Jordan Lopez, Ph.D.",
+  "instructor_title": "Professor of Neurobiology & Biomedical Engineering",
+  "_note": "Chapter count follows instructor request. Exact chapter titles await direct verification against the uploaded 13th edition. Dates must be supplied by the instructor. Do not build a final deck from pending titles.",
+  "lectures": [
+    {
+      "n": 1,
+      "date": "Date TBD",
+      "title": "From Brain to Behavior: Foundations and Frontiers of Behavioral Neuroscience",
+      "verified": false,
+      "book_chapter_title": "Introduction",
+      "display_title_authorized": true
+    },
+    {
+      "n": 2,
+      "date": "Date TBD",
+      "title": "Chapter 2: TITLE PENDING TEXTBOOK VERIFICATION",
+      "verified": false
+    },
+    {
+      "n": 3,
+      "date": "Date TBD",
+      "title": "Chapter 3: TITLE PENDING TEXTBOOK VERIFICATION",
+      "verified": false
+    },
+    {
+      "n": 4,
+      "date": "Date TBD",
+      "title": "Chapter 4: TITLE PENDING TEXTBOOK VERIFICATION",
+      "verified": false
+    },
+    {
+      "n": 5,
+      "date": "Date TBD",
+      "title": "Chapter 5: TITLE PENDING TEXTBOOK VERIFICATION",
+      "verified": false
+    },
+    {
+      "n": 6,
+      "date": "Date TBD",
+      "title": "Chapter 6: TITLE PENDING TEXTBOOK VERIFICATION",
+      "verified": false
+    },
+    {
+      "n": 7,
+      "date": "Date TBD",
+      "title": "Chapter 7: TITLE PENDING TEXTBOOK VERIFICATION",
+      "verified": false
+    },
+    {
+      "n": 8,
+      "date": "Date TBD",
+      "title": "Chapter 8: TITLE PENDING TEXTBOOK VERIFICATION",
+      "verified": false
+    },
+    {
+      "n": 9,
+      "date": "Date TBD",
+      "title": "Chapter 9: TITLE PENDING TEXTBOOK VERIFICATION",
+      "verified": false
+    },
+    {
+      "n": 10,
+      "date": "Date TBD",
+      "title": "Chapter 10: TITLE PENDING TEXTBOOK VERIFICATION",
+      "verified": false
+    },
+    {
+      "n": 11,
+      "date": "Date TBD",
+      "title": "Chapter 11: TITLE PENDING TEXTBOOK VERIFICATION",
+      "verified": false
+    },
+    {
+      "n": 12,
+      "date": "Date TBD",
+      "title": "Chapter 12: TITLE PENDING TEXTBOOK VERIFICATION",
+      "verified": false
+    },
+    {
+      "n": 13,
+      "date": "Date TBD",
+      "title": "Chapter 13: TITLE PENDING TEXTBOOK VERIFICATION",
+      "verified": false
+    },
+    {
+      "n": 14,
+      "date": "Date TBD",
+      "title": "Chapter 14: TITLE PENDING TEXTBOOK VERIFICATION",
+      "verified": false
+    },
+    {
+      "n": 15,
+      "date": "Date TBD",
+      "title": "Chapter 15: TITLE PENDING TEXTBOOK VERIFICATION",
+      "verified": false
+    },
+    {
+      "n": 16,
+      "date": "Date TBD",
+      "title": "Chapter 16: TITLE PENDING TEXTBOOK VERIFICATION",
+      "verified": false
+    },
+    {
+      "n": 17,
+      "date": "Date TBD",
+      "title": "Chapter 17: TITLE PENDING TEXTBOOK VERIFICATION",
+      "verified": false
+    },
+    {
+      "n": 18,
+      "date": "Date TBD",
+      "title": "Chapter 18: TITLE PENDING TEXTBOOK VERIFICATION",
+      "verified": false
+    },
+    {
+      "n": 19,
+      "date": "Date TBD",
+      "title": "Chapter 19: TITLE PENDING TEXTBOOK VERIFICATION",
+      "verified": false
+    }
+  ]
+}
