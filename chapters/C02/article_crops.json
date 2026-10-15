@@ -1,0 +1,210 @@
+{
+  "PMC4805541_fig1": {
+    "original_publisher_figure": "figures/PMC4805541_fig1.png",
+    "panels": "b",
+    "normalized_box": [
+      0,
+      0.25,
+      0.81,
+      0.4
+    ],
+    "wrapper_pdf": "/workspace/BEHAVNEUR-392-/research/downloads/C02/figure_wrappers/PMC4805541_fig1.pdf",
+    "wrapper_page": 1,
+    "note": "Original publisher raster embedded unchanged in a temporary PDF for cropping. No scientific content redrawn, recolored, or replotted."
+  },
+  "PMC4805541_fig3": {
+    "original_publisher_figure": "figures/PMC4805541_fig3.png",
+    "panels": "a",
+    "normalized_box": [
+      0,
+      0,
+      0.48,
+      0.31
+    ],
+    "wrapper_pdf": "/workspace/BEHAVNEUR-392-/research/downloads/C02/figure_wrappers/PMC4805541_fig3.pdf",
+    "wrapper_page": 1,
+    "note": "Original publisher raster embedded unchanged in a temporary PDF for cropping. No scientific content redrawn, recolored, or replotted."
+  },
+  "PMC11524473_fig1": {
+    "original_publisher_figure": "figures/PMC11524473_fig1.png",
+    "panels": "a",
+    "normalized_box": [
+      0,
+      0,
+      0.49,
+      0.27
+    ],
+    "wrapper_pdf": "/workspace/BEHAVNEUR-392-/research/downloads/C02/figure_wrappers/PMC11524473_fig1.pdf",
+    "wrapper_page": 1,
+    "note": "Original publisher raster embedded unchanged in a temporary PDF for cropping. No scientific content redrawn, recolored, or replotted."
+  },
+  "PMC11524473_fig2": {
+    "original_publisher_figure": "figures/PMC11524473_fig2.png",
+    "panels": "a\u2013b",
+    "normalized_box": [
+      0,
+      0,
+      0.65,
+      0.22
+    ],
+    "wrapper_pdf": "/workspace/BEHAVNEUR-392-/research/downloads/C02/figure_wrappers/PMC11524473_fig2.pdf",
+    "wrapper_page": 1,
+    "note": "Original publisher raster embedded unchanged in a temporary PDF for cropping. No scientific content redrawn, recolored, or replotted."
+  },
+  "PMC11524473_fig3": {
+    "original_publisher_figure": "figures/PMC11524473_fig3.png",
+    "panels": "a",
+    "normalized_box": [
+      0,
+      0,
+      1,
+      0.15
+    ],
+    "wrapper_pdf": "/workspace/BEHAVNEUR-392-/research/downloads/C02/figure_wrappers/PMC11524473_fig3.pdf",
+    "wrapper_page": 1,
+    "note": "Original publisher raster embedded unchanged in a temporary PDF for cropping. No scientific content redrawn, recolored, or replotted."
+  },
+  "PMC11524473_fig4": {
+    "original_publisher_figure": "figures/PMC11524473_fig4.png",
+    "panels": "a\u2013e",
+    "normalized_box": [
+      0,
+      0,
+      1,
+      0.31
+    ],
+    "wrapper_pdf": "/workspace/BEHAVNEUR-392-/research/downloads/C02/figure_wrappers/PMC11524473_fig4.pdf",
+    "wrapper_page": 1,
+    "note": "Original publisher raster embedded unchanged in a temporary PDF for cropping. No scientific content redrawn, recolored, or replotted."
+  },
+  "PMC10198724_fig2": {
+    "original_publisher_figure": "figures/PMC10198724_fig2.png",
+    "panels": "B",
+    "normalized_box": [
+      0,
+      0.105,
+      0.675,
+      0.31
+    ],
+    "wrapper_pdf": "/workspace/BEHAVNEUR-392-/research/downloads/C02/figure_wrappers/PMC10198724_fig2.pdf",
+    "wrapper_page": 1,
+    "note": "Original publisher raster embedded unchanged in a temporary PDF for cropping. No scientific content redrawn, recolored, or replotted."
+  },
+  "PMC10198724_fig4": {
+    "original_publisher_figure": "figures/PMC10198724_fig4.png",
+    "panels": "B\u2013C",
+    "normalized_box": [
+      0,
+      0.15,
+      1,
+      0.53
+    ],
+    "wrapper_pdf": "/workspace/BEHAVNEUR-392-/research/downloads/C02/figure_wrappers/PMC10198724_fig4.pdf",
+    "wrapper_page": 1,
+    "note": "Original publisher raster embedded unchanged in a temporary PDF for cropping. No scientific content redrawn, recolored, or replotted."
+  },
+  "PMC10198724_fig6": {
+    "original_publisher_figure": "figures/PMC10198724_fig6.png",
+    "panels": "A",
+    "normalized_box": [
+      0,
+      0,
+      1,
+      0.435
+    ],
+    "wrapper_pdf": "/workspace/BEHAVNEUR-392-/research/downloads/C02/figure_wrappers/PMC10198724_fig6.pdf",
+    "wrapper_page": 1,
+    "note": "Original publisher raster embedded unchanged in a temporary PDF for cropping. No scientific content redrawn, recolored, or replotted."
+  },
+  "PMC11838871_fig1": {
+    "original_publisher_figure": "figures/PMC11838871_fig1.png",
+    "panels": "D",
+    "normalized_box": [
+      0,
+      0.46,
+      1,
+      0.77
+    ],
+    "wrapper_pdf": "/workspace/BEHAVNEUR-392-/research/downloads/C02/figure_wrappers/PMC11838871_fig1.pdf",
+    "wrapper_page": 1,
+    "note": "Original publisher raster embedded unchanged in a temporary PDF for cropping. No scientific content redrawn, recolored, or replotted."
+  },
+  "PMC11838871_fig2": {
+    "original_publisher_figure": "figures/PMC11838871_fig2.png",
+    "panels": "A\u2013C",
+    "normalized_box": [
+      0,
+      0,
+      1,
+      0.17
+    ],
+    "wrapper_pdf": "/workspace/BEHAVNEUR-392-/research/downloads/C02/figure_wrappers/PMC11838871_fig2.pdf",
+    "wrapper_page": 1,
+    "note": "Original publisher raster embedded unchanged in a temporary PDF for cropping. No scientific content redrawn, recolored, or replotted."
+  },
+  "PMC11838871_fig3": {
+    "original_publisher_figure": "figures/PMC11838871_fig3.png",
+    "panels": "A",
+    "normalized_box": [
+      0,
+      0,
+      0.34,
+      0.28
+    ],
+    "wrapper_pdf": "/workspace/BEHAVNEUR-392-/research/downloads/C02/figure_wrappers/PMC11838871_fig3.pdf",
+    "wrapper_page": 1,
+    "note": "Original publisher raster embedded unchanged in a temporary PDF for cropping. No scientific content redrawn, recolored, or replotted."
+  },
+  "PMC11838871_fig4": {
+    "original_publisher_figure": "figures/PMC11838871_fig4.png",
+    "panels": "A\u2013C",
+    "normalized_box": [
+      0,
+      0,
+      1,
+      0.3
+    ],
+    "wrapper_pdf": "/workspace/BEHAVNEUR-392-/research/downloads/C02/figure_wrappers/PMC11838871_fig4.pdf",
+    "wrapper_page": 1,
+    "note": "Original publisher raster embedded unchanged in a temporary PDF for cropping. No scientific content redrawn, recolored, or replotted."
+  },
+  "PMC4199485_fig1": {
+    "original_publisher_figure": "figures/PMC4199485_fig1.png",
+    "panels": "A\u2013B",
+    "normalized_box": [
+      0,
+      0,
+      1,
+      0.156
+    ],
+    "wrapper_pdf": "/workspace/BEHAVNEUR-392-/research/downloads/C02/figure_wrappers/PMC4199485_fig1.pdf",
+    "wrapper_page": 1,
+    "note": "Original publisher raster embedded unchanged in a temporary PDF for cropping. No scientific content redrawn, recolored, or replotted."
+  },
+  "PMC10365837_fig1": {
+    "original_publisher_figure": "figures/PMC10365837_fig1.png",
+    "panels": "A",
+    "normalized_box": [
+      0,
+      0,
+      1,
+      0.34
+    ],
+    "wrapper_pdf": "/workspace/BEHAVNEUR-392-/research/downloads/C02/figure_wrappers/PMC10365837_fig1.pdf",
+    "wrapper_page": 1,
+    "note": "Original publisher raster embedded unchanged in a temporary PDF for cropping. No scientific content redrawn, recolored, or replotted."
+  },
+  "PMC10746140_fig2": {
+    "original_publisher_figure": "figures/PMC10746140_fig2.png",
+    "panels": "b\u2013d",
+    "normalized_box": [
+      0,
+      0.155,
+      0.61,
+      0.51
+    ],
+    "wrapper_pdf": "/workspace/BEHAVNEUR-392-/research/downloads/C02/figure_wrappers/PMC10746140_fig2.pdf",
+    "wrapper_page": 1,
+    "note": "Original publisher raster embedded unchanged in a temporary PDF for cropping. No scientific content redrawn, recolored, or replotted."
+  }
+}

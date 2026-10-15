@@ -522,7 +522,8 @@ class Deck:
         self.takeaways_slide(tk)
         n = len(self.spec["slides"])
         need_img = n
-        need_art = __import__("math").ceil(0.70 * n)
+        policy = json.loads((ROOT / "course/policy.json").read_text())
+        need_art = math.ceil(policy["primary_article_figure_minimum_fraction"] * n)
         if self.image_slides < need_img:
             raise SpecError(f"only {self.image_slides} of {n} content slides have an image; nearly all must (>= {need_img}). "
                             "Add article figures, or request the PDFs you need.")

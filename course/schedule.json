@@ -16,9 +16,14 @@
     },
     {
       "n": 2,
-      "date": "Date TBD",
-      "title": "Chapter 2: TITLE PENDING TEXTBOOK VERIFICATION",
-      "verified": false
+      "date": "Fall 2026",
+      "title": "How Nerve Cells Work: From Electrical Signals to Chemical Communication",
+      "verified": true,
+      "book_chapter_title": "Structure and Functions of Cells of the Nervous System",
+      "display_title_authorized": true,
+      "display_title_authorization": "Instructor requested a descriptive improved title; title selected for this lecture.",
+      "textbook_printed_pages": "36\u201367",
+      "book_scope_verified_from": "Reattached Part1of6 PDF, PDF pages 37\u201368; contents PDF page 6."
     },
     {
       "n": 3,

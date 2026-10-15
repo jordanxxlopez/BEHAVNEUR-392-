@@ -20,10 +20,15 @@ def check(spec,deck,manifest):
  if spec.get('version')==2 and any(__import__('re').search(r'\b(?:connected|linked|supported|relationship)\b',b,__import__('re').I) for x in slides for b in x.get('body',[])):errors.append('Vague summary wording in Version 2 teaching text.')
  if any('textbook' in b.lower() for x in slides for b in x.get('body',[])):errors.append('Visible teaching text must not contain textbook metacommentary.')
  sources=manifest.get('sources',[]);
- if spec.get('version')==2 and len(sources)!=30:errors.append('Version 2 requires exactly 30 embedded videos.')
+ policy=json.loads((Path(__file__).resolve().parent.parent/'course/policy.json').read_text())
+ policy.update(policy.get('chapter_overrides',{}).get(str(spec.get('lecture')),{}))
+ video_min=policy['minimum_total_videos'];video_max=policy['maximum_total_videos']
+ if not video_min<=len(sources)<=video_max:errors.append(f'Require {video_min}–{video_max} embedded video records.')
+ if spec.get('version')==2 and policy.get('version2_total_videos') is not None and len(sources)!=policy['version2_total_videos']:errors.append(f"Version 2 requires exactly {policy['version2_total_videos']} embedded videos.")
  purposes=[x.get('purpose') for x in sources]
- if not 15<=purposes.count('academic')<=20:errors.append('Require 15–20 academic video records.')
- if not 5<=purposes.count('aesthetic')<=10:errors.append('Require 5–10 aesthetic video records.')
+ for purpose in ('academic','aesthetic'):
+  minimum,maximum=policy[f'{purpose}_videos']
+  if not minimum<=purposes.count(purpose)<=maximum:errors.append(f'Require {minimum}–{maximum} {purpose} video records.')
  if any(p not in ('academic','aesthetic') for p in purposes):errors.append('Each video needs purpose academic or aesthetic.')
  with zipfile.ZipFile(deck) as z:
   embedded={hashlib.sha256(z.read(p)).hexdigest() for p in z.namelist() if p.startswith('ppt/media/') and p.lower().endswith(('.mp4','.mov','.m4v','.avi'))}

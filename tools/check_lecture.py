@@ -120,7 +120,8 @@ def main():
             warns.append(f"slide {i}: no DOI/URL in notes")
 
     n = a.content_slides
-    need_img, need_art = n, __import__("math").ceil(0.70 * n)
+    policy = json.loads((Path(__file__).resolve().parent.parent / "course/policy.json").read_text())
+    need_img, need_art = n, __import__("math").ceil(policy["primary_article_figure_minimum_fraction"] * n)
     if img_slides < need_img:
         errs.append(f"only {img_slides} of {n} content slides have an image; nearly all must (>= {need_img})")
     if fig_slides < need_art:
