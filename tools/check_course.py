@@ -38,6 +38,18 @@ def check(spec,deck,manifest):
   if not isinstance(x.get('slide'),int) or not 2<=x['slide']<total:errors.append('Video slide index must refer to a content slide.')
  if len(set(x.get('sha256') for x in sources))!=len(sources):errors.append('Duplicate movies cannot pad the video quota.')
  if len(embedded)!=len(sources):errors.append('Embedded movie count does not match provenance records.')
+ if spec.get('lecture',0)>=policy.get('video_distribution_from_chapter',999):
+  indices=sorted(x['slide']-2 for x in sources)
+  edges=[-1]+indices+[n]
+  if max(b-a-1 for a,b in zip(edges,edges[1:]))>policy['maximum_content_gap_between_videos']:errors.append('Videos leave a gap of more than three content slides.')
+  quarters=[sum(q*n/4<=i<(q+1)*n/4 for i in indices) for q in range(4)]
+  if quarters!=[10,10,10,10]:errors.append(f'Video distribution by quarter is {quarters}; require ten in every quarter.')
+  if sum(i>=n-10 for i in indices)<policy['minimum_videos_in_final_ten_content_slides']:errors.append('Final ten content slides require at least five videos.')
+  import re
+  for sn,sl in enumerate(Presentation(deck).slides,1):
+   visible=' '.join(sh.text for sh in sl.shapes if sh.has_text_frame)
+   if re.search(r'\baesth(?:etic|ic)\b|academic recording|context video',visible,re.I):errors.append(f'Visible media-purpose label on slide {sn}.')
+
  return errors
 if __name__=='__main__':
  if len(sys.argv)!=4:sys.exit(__doc__)

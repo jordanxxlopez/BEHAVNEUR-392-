@@ -355,7 +355,7 @@ class Deck:
         _, tf = textbox(s, x, 0.9, w, 0.45)
         write_paras(tf, [self.course["course"]], 12, "000000", space_after=0)
         _, tf = textbox(s, x, 1.75, w, 0.45)
-        write_paras(tf, ["Foundations and Frontiers"], 18, "000000", space_after=0)
+        write_paras(tf, [self.spec.get("title_kicker", "Foundations and Frontiers")], 18, "000000", space_after=0)
         title = self.meta["title"]
         _, tf = textbox(s, x, 2.4, w, 2.4, "Lecture title")
         pt, need = fit_size([title], w, 2.4, max_pt=30, min_pt=22, where="title slide")

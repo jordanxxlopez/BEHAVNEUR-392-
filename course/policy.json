@@ -67,5 +67,9 @@
       "maximum_total_videos": 30,
       "version2_total_videos": 30
     }
-  }
+  },
+  "video_distribution_from_chapter": 3,
+  "maximum_content_gap_between_videos": 3,
+  "minimum_videos_in_final_ten_content_slides": 5,
+  "visible_video_purpose_labels": false
 }

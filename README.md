@@ -25,3 +25,7 @@ The latest Chapter 1 history-expanded revision is in [chapters/C01/history_revis
 ## Chapter 2
 
 [How Nerve Cells Work: From Electrical Signals to Chemical Communication](chapters/C02/STATUS.md) contains 75 slides and 40 embedded recordings, split equally between academic and aesthetic context. All 219 teaching paragraphs pass the rendered 5–7-line audit. Download the editable PPTX with Git LFS enabled; the accompanying _Static.pdf contains source posters. See the chapter status, recording index, and slide sequence for provenance and rebuild instructions.
+
+## Chapter 3
+
+[Mapping the Nervous System: From Brain Structures to Behavior](chapters/C03/STATUS.md) contains 75 slides and 40 embedded recordings, distributed ten per quarter and five in the final ten content slides. Media-purpose labels are omitted from all slide text, captions, and teaching notes. Download the editable [PPTX](https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C03/Mapping_the_Nervous_System_Chapter_3.pptx) or its [static PDF](chapters/C03/Mapping_the_Nervous_System_Chapter_3_Static.pdf). The source index, crop records, and 219-paragraph rendered audit accompany the lecture.

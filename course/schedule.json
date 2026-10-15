@@ -2,7 +2,7 @@
   "course": "BEHAVIORAL NEUROSCIENCE 392",
   "instructor": "Jordan Lopez, Ph.D.",
   "instructor_title": "Professor of Neurobiology & Biomedical Engineering",
-  "_note": "Instructor-approved descriptive lecture titles are preserved exactly. The first deck covers the verified Introduction chapter. Fall 2026 is the session\u2019s teaching semester, not an invented meeting date. Future chapter titles await verification.",
+  "_note": "Instructor-approved descriptive lecture titles are preserved exactly. The first deck covers the verified Introduction chapter. Fall 2026 is the session’s teaching semester, not an invented meeting date. Future chapter titles await verification.",
   "lectures": [
     {
       "n": 1,
@@ -11,8 +11,8 @@
       "verified": true,
       "book_chapter_title": "Introduction",
       "display_title_authorized": true,
-      "textbook_printed_pages": "15\u201334",
-      "book_scope_verified_from": "Uploaded Part1of6 PDF, PDF pages 16\u201335"
+      "textbook_printed_pages": "15–34",
+      "book_scope_verified_from": "Uploaded Part1of6 PDF, PDF pages 16–35"
     },
     {
       "n": 2,
@@ -22,14 +22,19 @@
       "book_chapter_title": "Structure and Functions of Cells of the Nervous System",
       "display_title_authorized": true,
       "display_title_authorization": "Instructor requested a descriptive improved title; title selected for this lecture.",
-      "textbook_printed_pages": "36\u201367",
-      "book_scope_verified_from": "Reattached Part1of6 PDF, PDF pages 37\u201368; contents PDF page 6."
+      "textbook_printed_pages": "36–67",
+      "book_scope_verified_from": "Reattached Part1of6 PDF, PDF pages 37–68; contents PDF page 6."
     },
     {
       "n": 3,
-      "date": "Date TBD",
-      "title": "Chapter 3: TITLE PENDING TEXTBOOK VERIFICATION",
-      "verified": false
+      "date": "Fall 2026",
+      "title": "Mapping the Nervous System: From Brain Structures to Behavior",
+      "verified": true,
+      "book_chapter_title": "Structure of the Nervous System",
+      "display_title_authorized": true,
+      "display_title_authorization": "Instructor requested a newly descriptive title for the next chapter.",
+      "textbook_printed_pages": "68–90",
+      "book_scope_verified_from": "Uploaded Part1of6, PDF pages 69–81 and Part2of6, PDF pages 1–10. Chapter 4 begins printed page 91, Part2 PDF page 11."
     },
     {
       "n": 4,
