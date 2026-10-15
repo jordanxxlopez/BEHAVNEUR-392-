@@ -6,7 +6,7 @@ Mapping the Nervous System: From Brain Structures to Behavior.
 
 Exactly 40 distinct biological recordings are embedded. The two internal quotas each contain 20 recordings. Media-purpose classifications appear only in internal provenance records, never in slide prose, captions, or teaching notes. Every quarter of the content sequence has ten recordings, no gap exceeds three content slides, and the final ten content slides contain five. Source article figures remain on every recording slide.
 
-All delivery recordings fully decode. Native dimensions, source timing, frame rate, and audio status were checked. One necessary H.264 conversion preserves the original scientific scene and timing; its first-60-frame SSIM comparison is in media_validation.json. All other recordings retain their original H.264 bytes. Poster frames are sampled from actual recording content. Embedded hashes, internal video/media relationships, and native timing entries are verified by embed_media.py.
+All delivery recordings fully decode. Native dimensions, source timing, frame rate, and audio status were checked. All 40 recordings retain their exact original publisher H.264 bytes; no delivery re-encoding is used. Poster frames are sampled from actual recording content. Embedded hashes, internal video/media relationships, and native timing entries are verified by embed_media.py.
 
 Every teaching paragraph must pass the actual 5–7-rendered-line audit against the final static PDF, tied to the final spec and PPTX hashes. Generic and course checks include image coverage, teaching balance, media quotas, visible category labels, and video distribution. Source-panel crop boxes and original legends are retained. Source documents remain private and ignored; the full uploaded book is never published.
 
@@ -25,3 +25,5 @@ python3 tools/check_course.py chapters/C03/lecture.json chapters/C03/Mapping_the
 ```
 
 Embed only into a freshly rebuilt base deck. Chapter 1 and Chapter 2 deliverables are unchanged. The new distribution and visible-label rules apply from Chapter 3 onward.
+
+Presenton static companion PDF: https://api.presenton.ai/s/yelwXwXPn1jOTiAg2Uswi5vZ16Bsvg79. The companion and native deck use Arial; the main static PDF is the locally rendered, paragraph-audited native deck.

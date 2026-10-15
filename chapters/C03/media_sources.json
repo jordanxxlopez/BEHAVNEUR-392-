@@ -984,7 +984,7 @@
         "https://creativecommons.org/licenses/by/4.0/"
       ],
       "downloaded_file": "media/elife-91483-video1.mp4",
-      "file": "media/playable_elife-91483-video1.mp4",
+      "file": "media/elife-91483-video1.mp4",
       "slide": 51,
       "purpose": "aesthetic",
       "full_reference": "van der Heijden Meike E; Brown Amanda M; Kizek Dominic J; Sillitoe Roy V (2024). Cerebellar nuclei cells produce distinct pathogenic spike signatures in mouse models of ataxia, dystonia, and tremor. eLife. https://doi.org/10.7554/eLife.91483",
@@ -993,7 +993,7 @@
       "teaching_note": "Video 1.Examples of freely moving mouse behavior in a control mouse, an ataxic mouse, a dystonic mouse, and a tremoring mouse.",
       "original_sha256": "fabff93f6cc12331b997f5a14df868ceb497362b4d12698fc8b9f759d4830047",
       "poster": "media/playable_elife-91483-video1_poster.jpg",
-      "sha256": "0cda692d61c5bcd6cbe89e32164c86d979da934b72255ff070f657261d78eacf",
+      "sha256": "fabff93f6cc12331b997f5a14df868ceb497362b4d12698fc8b9f759d4830047",
       "width": 1280,
       "height": 720,
       "original_width": 1280,
@@ -1004,7 +1004,7 @@
       "codec": "h264",
       "frame_rate": "30/1",
       "display_aspect_ratio": "1280:720",
-      "conversion": "H.264 CRF16 at native dimensions, frame rate and timing; source audio retained.",
+      "conversion": "Original H.264 MP4 bytes retained.",
       "poster_time_seconds": 48.3333335
     },
     {

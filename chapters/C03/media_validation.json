@@ -183,12 +183,11 @@
       "quality_ssim": 1.0
     },
     {
-      "file": "media/playable_elife-91483-video1.mp4",
+      "file": "media/elife-91483-video1.mp4",
       "slide": 51,
       "full_decode_pass": true,
       "decode_error": "",
-      "quality_ssim": 0.999968,
-      "quality_frames": 60
+      "quality_ssim": 1.0
     },
     {
       "file": "media/elife-86737-video2.mp4",
@@ -283,5 +282,5 @@
     }
   ],
   "all_full_decodes_pass": true,
-  "note": "SSIM compares the first 60 decoded frames for converted recordings; original MP4 bytes retained have identity 1.0. Full decoding checks every deliverable frame. Desktop PowerPoint playback remains untested."
+  "note": "Every delivery MP4 retains the exact original publisher H.264 bytes. Full decoding checks every delivered frame. Desktop PowerPoint playback remains untested."
 }

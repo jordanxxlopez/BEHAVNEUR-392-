@@ -54,11 +54,14 @@
   "visible_category_labels": 0,
   "teaching_notes_category_labels": 0,
   "paragraph_audit": 219,
-  "pptx_sha256": "7e9d550f68c70763241fa3368caef6a7c7d3a198e3b702cd254905a69d1576f5",
+  "pptx_sha256": "3b8ba9f77be72b04ee427d121d9459d78f05b42c23742dcb00f9cc753d5229a4",
   "spec_sha256": "c82dca976798b782b87f6cbb8b0aadaf232ad018b0b6e15b658ff7dce04a3d14",
-  "static_pdf_sha256": "cdd30d28c638a6f812cffdc69bf330e145d00cc1ebd3a0f778da923d398dd3b9",
+  "static_pdf_sha256": "55417c41cfc1fcc63e95af7311b65bafd36bc277098ec8a38947a8a889528f17",
   "desktop_powerpoint_playback": "Not tested; desktop PowerPoint unavailable",
   "all_75_slides_rendered_and_visually_reviewed": true,
   "generic_qa_failures": 0,
-  "course_qa_failures": 0
+  "course_qa_failures": 0,
+  "all_40_recordings_retain_original_publisher_bytes": true,
+  "pptx_bytes": 252616076,
+  "static_pdf_bytes": 10907500
 }
