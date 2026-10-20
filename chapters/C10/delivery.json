@@ -1,0 +1,38 @@
+{
+  "commit": "1300d00ed60b91bb3d8d7841ab3823c20695d8a5",
+  "slides": 80,
+  "desktop_powerpoint_playback_tested": false,
+  "pptx": {
+    "url": "https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C10/From_Reproduction_to_Care_Chapter_10.pptx",
+    "bytes": 532166118,
+    "http_status": 206,
+    "signature_verified": true,
+    "checked_at_utc": "2026-10-20T10:35:33.707342+00:00"
+  },
+  "static_pdf": {
+    "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C10/From_Reproduction_to_Care_Chapter_10_Static.pdf",
+    "bytes": 12506448,
+    "http_status": 206,
+    "signature_verified": true,
+    "checked_at_utc": "2026-10-20T10:35:33.726152+00:00"
+  },
+  "presenton": {
+    "title": "From Reproduction to Care: Hormones, Social Circuits, and Parenting",
+    "slides": 80,
+    "format": "pdf",
+    "export": {
+      "url": "https://api.presenton.ai/s/z6ysqBN49XE0f4OtBzvsVV0IPaB63aFl",
+      "message": null,
+      "id": 19633
+    },
+    "preview": {
+      "url": "https://presenton.ai/presentation-preview?t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiaHRtbC10by1hbnktcHJldmlldyIsImh0bWxfdG9fYW55X2NyZWF0aW9uIjoxOTYzMywiZXhwIjoxNzkyNTc4NjI4fQ.QAIoWP92vy1LcHY2-l1ePWgjP7vey1eXeWUAKk26Gxk"
+    },
+    "fonts": [
+      "Arial"
+    ],
+    "native_pdf_sha256": "5db0a716d5783bce27462e8146c7dd3e162fbe810b3a75f5a3d986ad0d786231",
+    "source": "Final native static PDF pages, with original credits; full source book and article PDFs not uploaded.",
+    "expires": "Presenton export and preview links expire after 24 hours."
+  }
+}

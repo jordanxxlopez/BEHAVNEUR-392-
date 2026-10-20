@@ -1,0 +1,38 @@
+{
+  "commit": "1300d00ed60b91bb3d8d7841ab3823c20695d8a5",
+  "slides": 80,
+  "desktop_powerpoint_playback_tested": false,
+  "pptx": {
+    "url": "https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C11/Feeling_and_Acting_Emotion_Chapter_11.pptx",
+    "bytes": 213936424,
+    "http_status": 206,
+    "signature_verified": true,
+    "checked_at_utc": "2026-10-20T10:35:33.748674+00:00"
+  },
+  "static_pdf": {
+    "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C11/Feeling_and_Acting_Emotion_Chapter_11_Static.pdf",
+    "bytes": 11552860,
+    "http_status": 206,
+    "signature_verified": true,
+    "checked_at_utc": "2026-10-20T10:35:33.661102+00:00"
+  },
+  "presenton": {
+    "title": "Feeling and Acting: The Neural Systems of Emotion",
+    "slides": 80,
+    "format": "pdf",
+    "export": {
+      "url": "https://api.presenton.ai/s/d4yKaa4EMk5s7KcQYt3UmY0dg3LNMjtF",
+      "message": null,
+      "id": 19635
+    },
+    "preview": {
+      "url": "https://presenton.ai/presentation-preview?t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiaHRtbC10by1hbnktcHJldmlldyIsImh0bWxfdG9fYW55X2NyZWF0aW9uIjoxOTYzNSwiZXhwIjoxNzkyNTc4ODIzfQ.L5uiB52Abi3sTSupS6DdD7qrrqLmlfuSBbxg_an_TLE"
+    },
+    "fonts": [
+      "Arial"
+    ],
+    "native_pdf_sha256": "2f0e1535bff196fcf88bcf91a75b84852494273aa1b5cf48826fb3aac2a8df8a",
+    "source": "Final native static PDF pages, with original credits; full source book and article PDFs not uploaded.",
+    "expires": "Presenton export and preview links expire after 24 hours."
+  }
+}
