@@ -1,0 +1,39 @@
+{
+  "pptx": {
+    "url": "https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C08/From_Intention_to_Action_Control_of_Movement_Chapter_8.pptx",
+    "status": 206,
+    "content_range": "bytes 0-7/225557871",
+    "content_length": "8",
+    "signature_hex": "504b030414000000",
+    "expected_bytes": 225557871
+  },
+  "static_pdf": {
+    "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C08/From_Intention_to_Action_Control_of_Movement_Chapter_8_Static.pdf",
+    "status": 206,
+    "content_range": "bytes 0-7/10617164",
+    "content_length": "8",
+    "signature_hex": "255044462d312e37",
+    "expected_bytes": 10617164
+  },
+  "presenton": {
+    "title": "From Intention to Action: The Neural Control of Movement",
+    "slides": 75,
+    "format": "pdf",
+    "export": {
+      "url": "https://api.presenton.ai/s/_8dyzo01MFWKVfiob3TIf_o71BeNcly3",
+      "message": null,
+      "id": 19600
+    },
+    "preview": {
+      "url": "https://presenton.ai/presentation-preview?t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiaHRtbC10by1hbnktcHJldmlldyIsImh0bWxfdG9fYW55X2NyZWF0aW9uIjoxOTYwMCwiZXhwIjoxNzkyNTc1MDQyfQ.4kcr9dcF-ZomjfdgRjgKPlvkAcsMSKFbAgbZeRurveQ"
+    },
+    "fonts": [
+      "Arial"
+    ],
+    "native_pdf_sha256": "8c9167a01fdd9d1053a2d11631ddd3649fa4e8076324c17d606326d2a4f29f3f",
+    "source": "Final native static PDF pages, with original credits; full source book and article PDFs not uploaded.",
+    "expires": "Presenton export and preview links expire after 24 hours."
+  },
+  "commit": "a47a0ee",
+  "desktop_powerpoint_playback_tested": false
+}
