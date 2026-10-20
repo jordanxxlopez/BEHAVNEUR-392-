@@ -83,9 +83,15 @@
     },
     {
       "n": 8,
-      "date": "Date TBD",
-      "title": "Chapter 8: TITLE PENDING TEXTBOOK VERIFICATION",
-      "verified": false
+      "date": "Fall 2026",
+      "title": "From Intention to Action: The Neural Control of Movement",
+      "verified": true,
+      "book_chapter": 8,
+      "book_chapter_title": "Control of Movement",
+      "display_title_authorized": true,
+      "display_title_authorization": "Instructor requested Chapter 8, Control of Movement, in 75 slides with a descriptive title.",
+      "textbook_printed_pages": "235–265",
+      "book_scope_verified_from": "Uploaded Part3of6 PDF pp.63–78 and Part4of6 PDF pp.1–15; Chapter 9 begins Part4of6 PDF p.16, printed p.266."
     },
     {
       "n": 9,

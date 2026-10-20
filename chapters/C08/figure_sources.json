@@ -1,0 +1,1158 @@
+{
+  "00425:4": {
+    "path": "figures/elife_00425_fig4.png",
+    "title": "Decoding the neural mechanisms of human tool use",
+    "authors": "Jason P Gallivan; D Adam McLean; Kenneth F Valyear; Jody C Culham",
+    "first": "Gallivan",
+    "year": "2013",
+    "doi": "10.7554/eLife.00425",
+    "license": {
+      "license": "CC-BY-3.0",
+      "holder": "Gallivan et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/3.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.00425.008 Figure 4. Shared movement plans for the hand and tool decoded from frontoparietal cortex. Decoding accuracies are plotted and computed the same as in  Figure 3 . Significant across-effector decoding (purple traces) shows where and when the movement action (Grasp vs Reach) is being represented with some invariance to the acting effector (Hand vs Tool). See  Figure 3  caption for format. DOI:   http://dx.doi.org/10.7554/eLife.00425.008",
+    "original_url": "https://cdn.elifesciences.org/articles/00425/elife-00425-fig4-v1.tif",
+    "sha256": "14d2c0894a7cd6daf21c0e96e36ce90d24bcf460ef23a825641e397cc9125fc0",
+    "width": 2790,
+    "height": 4352,
+    "display_path": "figures/elife_00425_fig4_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.24
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2790,
+      4352
+    ],
+    "display_sha256": "50ea02361d712a2dc2816d6cb408a13a5099621bea5766c066f2a4a5abd6abbd"
+  },
+  "02076:3": {
+    "path": "figures/elife_02076_fig3.png",
+    "title": "Gating of neural error signals during motor learning",
+    "authors": "Rhea R Kimpo; Jacob M Rinaldi; Christina K Kim; Hannah L Payne; Jennifer L Raymond",
+    "first": "Kimpo",
+    "year": "2014",
+    "doi": "10.7554/eLife.02076",
+    "license": {
+      "license": "CC-BY-3.0",
+      "holder": "Kimpo et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/3.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.02076.006 Figure 3. Trial-by-trial effects of climbing fiber activity on Purkinje cell output. ( A ) Schematic illustrating the analysis. Isolated Purkinje cells were recorded during the VOR training paradigms illustrated in  Figure 2 . Pairs of consecutive trials were identified in which a complex spike, indicative of a spike in the climbing fiber input to the cell (•, CF), occurred 75–250 ms after stimulus onset in the first trial of the pair, but not in the subsequent trial (left, CF–No CF pair). The Purkinje cell’s simple spike firing rate during the first trial was subtracted from the second trial to calculate the change in Purkinje cell response on the trial after the climbing fiber spike (right). This analysis was performed for stimuli in the ‘on’ direction for the climbing fiber: ipsiversive vestibular stimuli during VOR-increase training, and contraversive vestibular stimuli during VOR-decrease training. ( B ) Trial-to-trial changes in Purkinje cell responses during VOR-increase training. If there was a spike in the climbing fiber on the first trial of a pair, there was a decrease in Purkinje cell firing on the subsequent trial (CF–No CF pairs, red). If there was no spike in the climbing fiber on the first trial, there was no detectable change in Purkinje cell firing on the subsequent trial (No CF–No CF pairs, black). Changes were considered significant if they lay outside the 95% confidence interval from a bootstrap distribution of the data (shown for CF–No CF data, dashed black lines, see ‘Materials and methods’). There were no significant changes in the No CF–No CF trial pairs based on their confidence interval. ( C ) The Purkinje cell firing rate (baseline subtracted) during the first (dashed lines) and second trials (solid lines) of CF–No CF (red) and No CF–No CF pairs (black) during VOR-increase training. ( D ) Trial-to-trial changes in Purkinje cell responses during VOR-decrease training. There was no reduction of Purkinje cell firing on the trial after a climbing fiber spike (CF–No CF, blue, dashed black lines are 95% confidence intervals from the bootstrap distribution). ( E ) The Purkinje cell firing rate (baseline subtracted) during the first (dashed lines) and second trials (solid lines) of CF – No CF (blue) and No CF – No CF pairs (black) during VOR-decrease training. DOI:   http://dx.doi.org/10.7554/eLife.02076.006",
+    "original_url": "https://cdn.elifesciences.org/articles/02076/elife-02076-fig3-v1.tif",
+    "sha256": "b95def6d31e58bdbf719ce563705fd925d0da01c4623a01332ea7b5173307efb",
+    "width": 2762,
+    "height": 3513,
+    "display_path": "figures/elife_02076_fig3_panels.png",
+    "panel_crop_box": [
+      0,
+      0.25,
+      1,
+      0.63
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2762,
+      3513
+    ],
+    "display_sha256": "ca237eb9bb54313e324da8b74bcbeba9815337b330480d187a6f28141b127de2"
+  },
+  "02076:6": {
+    "path": "figures/elife_02076_fig6.png",
+    "title": "Gating of neural error signals during motor learning",
+    "authors": "Rhea R Kimpo; Jacob M Rinaldi; Christina K Kim; Hannah L Payne; Jennifer L Raymond",
+    "first": "Kimpo",
+    "year": "2014",
+    "doi": "10.7554/eLife.02076",
+    "license": {
+      "license": "CC-BY-3.0",
+      "holder": "Kimpo et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/3.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.02076.010 Figure 6. Optogenetic mimicry of error signals in the climbing fibers induced VOR-increase but not VOR-decrease learning. ( A ) Optogenetic training paradigms. Left, to mimic error signals carried by climbing fibers during visual-vestibular VOR-increase or VOR-decrease training (see  Figure 2A–F ), we optogenetically activated floccular climbing fibers during the ipsiversive phase ( CF stim + Ipsi Vestibular , red) or contraversive phase ( CF stim + Contra Vestibular,  blue) of a 1 Hz sinusoidal vestibular stimulus (black). Climbing fibers were activated bilaterally using a single pulse of blue light repeated at 1 s intervals (cyan), see ‘Materials and methods’). Right, before and after each training block, the VOR gain was measured in the absence of climbing fiber stimulation. Representative eye velocity traces from the same mouse pre-training (grey) and 2 hr after optogenetic VOR-increase training (red) or 2 hr after optogenetic VOR-decrease training (blue). ( B ) Motor learning induced by pairing climbing fiber activation with a vestibular stimulus. Learning was measured as the % change in VOR gain relative to pre-training, and depended on the training condition (F (2,17)  = 3.81, p<0.05, repeated measures two-way ANOVA). When climbing fibers were activated during the ipsiversive phase of the vestibular stimulus (red), the VOR gain increased relative to control training with the vestibular stimulus in the absence of climbing fiber stimulation ( Vestibular-only , black), and relative to training with climbing fiber activation paired with the contraversive phase of the vestibular stimulus (blue, *p<0.05, Fisher’s post-hoc test). The changes in VOR gain induced by pairing climbing fiber activation with the contraversive vestibular stimulus were not significantly different from the vestibular-only control (p=0.62, Fisher’s post-hoc test). DOI:   http://dx.doi.org/10.7554/eLife.02076.010",
+    "original_url": "https://cdn.elifesciences.org/articles/02076/elife-02076-fig6-v1.tif",
+    "sha256": "3e507aa7f6e909ace16b89d9fa17ba7b99f55d8858d9819dbd6fe0b785081789",
+    "width": 3618,
+    "height": 1546
+  },
+  "04885:2": {
+    "path": "figures/elife_04885_fig2.png",
+    "title": "Bioengineered human myobundles mimic clinical responses of skeletal muscle to drugs",
+    "authors": "Lauran Madden; Mark Juhas; William E Kraus; George A Truskey; Nenad Bursac",
+    "first": "Madden",
+    "year": "2015",
+    "doi": "10.7554/eLife.04885",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Madden et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.04885.010 Figure 2. Contractile function of myobundles. ( A ) Representative contractile force traces of a 3-week myobundle showing fusion of individual twitches into a stronger tetanic contraction induced by increased stimulation frequency. ( B ) Representative increase in both contractile (active) force and passive tension with increase in myobundle length for one donor at 3 weeks in culture (n = 3 myobundles). ( C ) Twitch and tetanus forces increase over time in culture with significant enhancement at 4 weeks vs 1 week (*p < 0.05, n = 4 myobundles). ( D ) Kinetics of twitch rise and relaxation do not vary over 4 weeks in culture (n = 4 myobundles). ( E ) Specific twitch and tetanus force and tetanus-to-twitch ratio for different cell sources (D1–D9, donors 1–9; CS, commercial source, Lonza). ( F ) Kinetics of twitch response for different cell sources. DOI:   http://dx.doi.org/10.7554/eLife.04885.010",
+    "original_url": "https://cdn.elifesciences.org/articles/04885/elife-04885-fig2-v2.tif",
+    "sha256": "34b8ddeb2043652f054dbf566a989ae8591c6742fbddde9c0c4e821f01b0f931",
+    "width": 4184,
+    "height": 2155,
+    "display_path": "figures/elife_04885_fig2_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.5
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      4184,
+      2155
+    ],
+    "display_sha256": "39bbcecf657e57e2718e85aa135561a524b3e515f306784a5d672fbca266eac8"
+  },
+  "04885:3": {
+    "path": "figures/elife_04885_fig3.png",
+    "title": "Bioengineered human myobundles mimic clinical responses of skeletal muscle to drugs",
+    "authors": "Lauran Madden; Mark Juhas; William E Kraus; George A Truskey; Nenad Bursac",
+    "first": "Madden",
+    "year": "2015",
+    "doi": "10.7554/eLife.04885",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Madden et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.04885.013 Figure 3. Calcium handling of myobundles. ( A ) Myofiber-specific expression of GCaMP6 in lentivirally transduced myobundles. SAA, sarcomeric α-actinin (scale bar = 50 µm). ( B ) Time course of GCaMP6 fluorescence during a single electrically stimulated twitch (scale bar = 200 µm). ( C ) Representative fluorescence traces from 1 Hz and 10 Hz stimulations of 2-week old myobundles. ( D ) Amplitude of electrically stimulated calcium transient increases with time of culture and myobundle maturation (*p < 0.05 vs 1 week, n = 4 myobundles). ( E ) Representative fluorescence trace of acetylcholine (ACh, 100 mM bolus) stimulated calcium release in a 2-week myobundle. ( F ) ACh receptor blocker tubocurarine (25 µM) specifically and significantly reduces ACh induced calcium release without affecting electrically stimulated calcium transients (*p < 0.05, n = 5 myobundles). Note that amplitude of Ach-induced calcium release is similar to that of calcium transient induced by tetanic (10 Hz) electrical stimulation. DOI:   http://dx.doi.org/10.7554/eLife.04885.013",
+    "original_url": "https://cdn.elifesciences.org/articles/04885/elife-04885-fig3-v2.tif",
+    "sha256": "9bdc70ebef879a37eefdfadd7ff11f82ee9d878fe1277d929d123c61ffe1bda9",
+    "width": 2750,
+    "height": 3030,
+    "display_path": "figures/elife_04885_fig3_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.33
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2750,
+      3030
+    ],
+    "display_sha256": "063e75761c2421b2439f53b1f5a1b3d649e8ffb3a0ce281a5ef39583ec41d6c1"
+  },
+  "106270:5": {
+    "path": "figures/elife_106270_fig5.png",
+    "title": "Mouse sensorimotor cortex reflects complex kinematic details during reaching and grasping",
+    "authors": "Harrison A Grier; Sohrab Salimian; Matthew T Kaufman",
+    "first": "Grier",
+    "year": "2026",
+    "doi": "10.7554/eLife.106270",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Grier et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 5. Kinematic details of proximal and distal joints during reaching and grasping can be decoded from M1-fl and S1-fl population activity. ( A ) Performance of decoding models predicting joint angle kinematics from RADICaL-inferred M1-fl rates. Violins depict the distribution of variance explained over cross-validation folds for each individual joint angle. (f: flexion, a: abduction/adduction, r: rotation, d: deviation, o: opposition, s: splay, MCP: metacarpal-phalanges, PIP: proximal-interphalanges; digits indicated by number). ( B ) Reconstructed joint angle time series for 5 representative joint angles. Black traces are original and colored are reconstructed; left trials are blue and right trials are red. A vertical dashed line indicates lift time, and a horizontal dashed line indicates 0 degrees. The vertical scale bar is 30 degrees, and the horizontal scale bar is 100 ms. ( C ) Forelimb skeletal postures reconstructed from decoded joint angles for representative left and right trials (trials having median variance explained). Seven representative time points from lift time to grab time are shown. Gray postures are original data, colored postures are reconstructed as in  B . Decoded joint angles in each time step were applied to the neutralized posture of the original data, preserving the original lengths of inter-marker links ( D ). Performance of decoding models for all 5 mice. Each point is the median of the distribution of variance explained over cross-validation folds, with proximal (magenta) and distal (goldenrod) angles considered separately. The black lines indicate the median variance explained over all proximal or distal joints for an individual mouse. ( E–H ) As in  A-D  but for S1-fl data.",
+    "original_url": "https://cdn.elifesciences.org/articles/106270/elife-106270-fig5-v1.tif",
+    "sha256": "fe339dc01fec3aa572b0d4237b5096b936869b3ecab18ce9cb19d29858b2e438",
+    "width": 2456,
+    "height": 2320,
+    "display_path": "figures/elife_106270_fig5_panels.png",
+    "panel_crop_box": [
+      0,
+      0.26,
+      1,
+      0.525
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2456,
+      2320
+    ],
+    "display_sha256": "b756c15195d565a428eb52a762428a1df0a42ce72902d8fed2f60a5f784ee623"
+  },
+  "106270:6": {
+    "path": "figures/elife_106270_fig6.png",
+    "title": "Mouse sensorimotor cortex reflects complex kinematic details during reaching and grasping",
+    "authors": "Harrison A Grier; Sohrab Salimian; Matthew T Kaufman",
+    "first": "Grier",
+    "year": "2026",
+    "doi": "10.7554/eLife.106270",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Grier et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 6. M1-fl reflects target-specific information earlier and more persistently than S1-fl. ( A ) Projections of population activity from held-out single trials onto the target decoding dimension for M1-fl and S1-fl. Right trials are red and left trials are blue. Traces were normalized by the 90 th  percentile value across trials for left and right trials separately. ( B ) Distribution of threshold crossing times for projections shown in  A . Black lines indicate medians. Star indicates significantly different medians at  p <0.05, Wilcoxon ranksum. ( C ) Performance of time-generalized target decoding analysis. Each heat map depicts the performance over all model training windows (columns) and test time points (rows). Time in trial runs vertically as in  A . Both the training and testing epochs were –100 (leftmost column training, bottommost row test) to +1000 ms (rightmost column training, top row test) relative to cue. Training epochs were 100 ms non-overlapping windows and testing epochs were 10 ms bins. ( D ) Performance of movement onset prediction for M1-fl and S1-fl. The correlation coefficient r was computed between the true and predicted reaction times (RTs) across held-out trials.",
+    "original_url": "https://cdn.elifesciences.org/articles/106270/elife-106270-fig6-v1.tif",
+    "sha256": "bc855079f8c9bdef86296376ada64bd39ac7c00ea33dd3c5bdaebc38947a5081",
+    "width": 2223,
+    "height": 1765,
+    "display_path": "figures/elife_106270_fig6_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      0.68,
+      0.51
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2223,
+      1765
+    ],
+    "display_sha256": "18750bc2e15999dd93869005feb1a1b4a417d187b5da64c396fc5183f0d3f556"
+  },
+  "10774:3": {
+    "path": "figures/elife_10774_fig3.png",
+    "title": "Cortex commands the performance of skilled movement",
+    "authors": "Jian-Zhong Guo; Austin R Graves; Wendy W Guo; Jihong Zheng; Allen Lee; Juan Rodríguez-González; Nuo Li; John J Macklin; James W Phillips; Brett D Mensh; Kristin Branson; Adam W Hantman",
+    "first": "Guo",
+    "year": "2015",
+    "doi": "10.7554/eLife.10774",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Guo et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.10774.023 Figure 3. Contralateral sensorimotor cortex is required for the ongoing execution of head-fixed prehension behavior. (A1 to E1) Optogenetic activation of contralateral sensorimotor cortical inhibitory neurons of  Slc32a1- COP4*H134R/EYFP mice during the epochs of tone-cued prehension. Three example trials presented as ethograms for a representative animal. Laser duration marked by sinusoidal and dashed blue lines; behavioral components denoted by color-coded bars (abbreviations indicated). Percentage (top-right, pooled across 5 animals, rate during bracketed time period) of trials where animals reinitiated the behavior upon cessation of cortical inhibition. (A2 to E2) Hand trajectory before and during cortical inhibition of each prehension component. White line labels trajectory from trial start to the onset of inhibition. Colored line represents trajectory during the laser, blue to red color variation represents passing time. Open circles mark hand position at start of inhibition (blue) and end of inhibition (red, small red circles mark laser off position for additional trials). (A3 to E3) Histograms of epoch progression rate, averaged over 5 animals. Control trials are gray and laser trials are the color code of the epoch ongoing at laser onset. For each animal, the number of control trials plotted was equal to the number of laser trials. Control trials were selected based on achievement of at least the epoch ongoing at laser onset. X-axis defines epochs of progression, y-axis represents percent of trials where progression was successful. Progressions where number was not available were removed from the x-axis. Bars are standard deviation. Asterisks indicate statistical significance (t-test with unequal variance, *p<0.05, **p<0.01, ***p<0.001). (A4 to E4) Path deviations during cortical inhibition of a representative animal. Measurement is the median shortest distance between hand position and either the median Grab or At mouth position. Time is in reference to laser onset. Lines represent control trials (black) and trials with optogenetic cortical inhibition (blue, see Materials and methods). Shaded area surrounding the line represents the 25 th  and 75 th  percentiles. Vertical dashed line marks the time when the 25 th  and 75 th  percentiles no longer overlap. DOI:   http://dx.doi.org/10.7554/eLife.10774.023",
+    "original_url": "https://cdn.elifesciences.org/articles/10774/elife-10774-fig3-v4.tif",
+    "sha256": "6be8651674620185933faa90fb14d6fabad22fb69f587ab5e9b557041da88375",
+    "width": 1772,
+    "height": 1112,
+    "display_path": "figures/elife_10774_fig3_panels.png",
+    "panel_crop_box": [
+      0.51,
+      0,
+      0.665,
+      0.225
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1772,
+      1112
+    ],
+    "display_sha256": "31ea2fa75044753d8941c5799ab09d13515bbcb2470a1e43a32b88b9c97b863e"
+  },
+  "10774:4": {
+    "path": "figures/elife_10774_fig4.png",
+    "title": "Cortex commands the performance of skilled movement",
+    "authors": "Jian-Zhong Guo; Austin R Graves; Wendy W Guo; Jihong Zheng; Allen Lee; Juan Rodríguez-González; Nuo Li; John J Macklin; James W Phillips; Brett D Mensh; Kristin Branson; Adam W Hantman",
+    "first": "Guo",
+    "year": "2015",
+    "doi": "10.7554/eLife.10774",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Guo et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.10774.024 Figure 4. Termination of cortical inhibition is sufficient to generate normal prehension behavior. ( A ) Timing differences between control prehension behavior and prehension after laser termination (“rebound prehension”), averaged across 5  Slc32a1- COP4*H134R/EYFP animals. Values include First Lift (difference between First Lift and either the cue (control) or laser off (rebound)) and the intervals between sequential behavioral components. Within individual animals, First Lift timing (3/5 animals) and variance (5/5 animals) were also significantly different (Wilcoxon–Mann–Whitney rank sum, p<0.05). ( B  and  C ) Comparison of the trajectories of control ( B ) and rebound prehension ( C ) Trajectories (n = 20 trials) color coded by behavioral component. Top row displays trajectories from Lift to Grab, bottom row represents trajectories from Grab to At mouth. Circles represent on perch (gray), Grab (green), and At mouth (dark blue) hand position. ( D ) Rebound prehension was accurately performed from a diversity of starting positions. Control prehension from the perch (gray, n = 25 trials), rebound prehension from perch (dark blue, n = 25 trials), and rebound prehension from mid-air starting position (light blue, n = 18 trials) for a representative animal. Lines connect starting position of the reach to Grab position. Color-coded circles represent Grab position. ( E ) End-point quantification for control, rebound prehension from perch, and rebound prehension from mid-air trials for a representative animal. Box plots (whiskers mark minimum and maximum non-outliers) of Grab error: Grab error is defined as the distance between Grab position of an individual trial and median Grab position (control, success trials). No significant difference between control and rebound prehension from the perch or from midair positions (4/5 and 5/5 animals, respectively; Wilcoxon–Mann–Whitney rank sum, p>0.05). ( F ) Extinguishing the laser over contralateral sensorimotor cortex elicited rebound prehension even in the absence of a cue and pellet. ( G ) Laser-off over ipsilateral sensorimotor cortex did not generate rebound prehension. ( F ) and ( G ) Behavioral components denoted by color-coded bars. Blue sinusoidal line marks laser duration. Cumulative histogram of First Lift is shown. ( H ) Effect of laser duration on the likelihood of rebound prehension, initiation latency, and associated jitter in the absence of cue and pellet. Statistically significant (repeated-measures ANOVA, p<0.05) main effect of laser duration on rebound prehension initiation probability, delay, and jitter. ( I ) Rate of rebound prehension as a function of success and chewing status at laser off (average of 5 animals, bars are standard deviation). ( J ) Control (gray) and rebound (blue) prehension rates as a function of food deprivation (dep.) state. Animals (n = 4) were taken off food deprivation three times and the rates were averaged. Prehension rates plotted are the means of these averages, bars are standard deviation. Asterisks indicate statistical significance (t-test with unequal variance, *p<0.05, **p<0.001).  DOI:   http://dx.doi.org/10.7554/eLife.10774.024",
+    "original_url": "https://cdn.elifesciences.org/articles/10774/elife-10774-fig4-v4.tif",
+    "sha256": "7acad8af52e1167c9cb5e30214971e9d9e51636820d682a716829bef064f9c5e",
+    "width": 1772,
+    "height": 1864,
+    "display_path": "figures/elife_10774_fig4_panels.png",
+    "panel_crop_box": [
+      0.34,
+      0,
+      1,
+      0.325
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1772,
+      1864
+    ],
+    "display_sha256": "88c152c9a4bd1f5bddc08f15b1bee8630765f346c8f529625fdc540dfcf045e1"
+  },
+  "13420:4": {
+    "path": "figures/elife_13420_fig4.png",
+    "title": "A synergy-based hand control is encoded in human motor cortical areas",
+    "authors": "Andrea Leo; Giacomo Handjaras; Matteo Bianchi; Hamal Marino; Marco Gabiccini; Andrea Guidi; Enzo Pasquale Scilingo; Pietro Pietrini; Antonio Bicchi; Marco Santello; Emiliano Ricciardi",
+    "first": "Leo",
+    "year": "2016",
+    "doi": "10.7554/eLife.13420",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Leo et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.13420.011 Figure 4. This picture represents the postures obtained from the fMRI data and those originally recorded through optical tracking. The figure shows three pairs of hand plots corresponding to three postures from a representative subject, and the goodness-of-fit between the original and decoded sets of joint angles. In these plots, the two wrist angles are not rendered. DOI:   http://dx.doi.org/10.7554/eLife.13420.011 10.7554/eLife.13420.012 Figure 4—source data 1. This compressed NIfTI file in MNI152 space represents the Region of Interest chosen for RSA and posture decoding, defined on the basis of a t-test of the overall brain activity (i.e., task versus rest condition), corrected for multiple comparisons with False Discovery Rate (q<0.05). DOI:   http://dx.doi.org/10.7554/eLife.13420.012",
+    "original_url": "https://cdn.elifesciences.org/articles/13420/elife-13420-fig4-v2.tif",
+    "sha256": "95755030ada8a278340170b5dcf71056c06a77cc39a99a4852aabe2705e559c1",
+    "width": 1417,
+    "height": 1010
+  },
+  "14316:5": {
+    "path": "figures/elife_14316_fig5.png",
+    "title": "Uncertainty leads to persistent effects on reach representations in dorsal premotor cortex",
+    "authors": "Brian M Dekleva; Pavan Ramkumar; Paul A Wanda; Konrad P Kording; Lee E Miller",
+    "first": "Dekleva",
+    "year": "2016",
+    "doi": "10.7554/eLife.14316",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Dekleva et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.14316.008 Figure 5. Tuning-related changes in activity with uncertainty. ( A ) Spatiotemporal activity maps for PMd and M1. Neurons were binned on each trial by the distance between their preferred directions and the reach direction. Color indicates average change in firing rate from baseline in spikes per second. Left and right plots in each panel are aligned to target onset (T) and reach onset (R) respectively. ( B ) Average change from baseline for SD and OD neurons in the initial center-out block (zero uncertainty; top) and subsequent blocks with low (bue) and high (red) uncertainty targets (bottom). High uncertainty trials resulted in reduced early activity for both SD and OD neurons in PMd, but an increase in OD activity for the remainder of the delay and movement phases. ORTH neurons were omitted for visibility. Error bars represent bootstrapped 95% confidence bounds on the mean estimate. For all plots, PDs were calculated separately for visual, delay, and movement epochs. DOI:   http://dx.doi.org/10.7554/eLife.14316.008",
+    "original_url": "https://cdn.elifesciences.org/articles/14316/elife-14316-fig5-v1.tif",
+    "sha256": "44d53b4cd99aa33bf17f8f6027f574d76d868aeab9731a3c8f3426091913fa04",
+    "width": 1777,
+    "height": 2688,
+    "display_path": "figures/elife_14316_fig5_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.62
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1777,
+      2688
+    ],
+    "display_sha256": "d4e1923f7f22a20faa837618245eea32df013966fd0313cd47baa857e21f6682"
+  },
+  "15278:1": {
+    "path": "figures/elife_15278_fig1.png",
+    "title": "Object vision to hand action in macaque parietal, premotor, and motor cortices",
+    "authors": "Stefan Schaffelhofer; Hansjörg Scherberger",
+    "first": "Schaffelhofer",
+    "year": "2016",
+    "doi": "10.7554/eLife.15278",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Schaffelhofer et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.15278.003 Figure 1. Behavioural design and implantation details. ( a–b ) Two monkeys were trained to grasp a total of 48 objects presented on a PC-controlled turntable. In addition, monkeys were instructed to perform either precision or power grips on a handle. Each of the 50 grasping conditions was denoted with a double-digit number (ID1, ID2), a colour code, and a symbol to allow easy identification throughout this manuscript. ( c ) An instrumented glove equipped with electro-magnetic sensors allowed monitoring and recording the monkeys’ hand and arm kinematics in 27 DOF. ( d ) All grasping actions were performed as a delayed grasp-and-hold task consisting of eye-fixation, cue, planning, grasping and hold epochs. ( e–g ) Neural activity was recorded simultaneously from six floating microelectrode arrays implanted in the cortical areas AIP, F5, and M1. ( f ) Electrode placement in monkey Z (right hemisphere). Each array consisted of 2 ground and 2 reference electrodes (black), as well as 32 recording channels (white) aligned in a 4x9 matrix. Electrode length for each row increased towards the sulcus from 1.5–7.1 mm. ( g ) Same for monkey M (left hemisphere). Two arrays were implanted in each area. AIP: toward the lateral end of the intraparietal sulcus (IPS); F5: on the posterior bank of the arcuate sulcus (AS); hand area of M1: on the anterior bank of the central sulcus (CS). DOI:   http://dx.doi.org/10.7554/eLife.15278.003",
+    "original_url": "https://cdn.elifesciences.org/articles/15278/elife-15278-fig1-v1.tif",
+    "sha256": "fc2b4de421eb8d0e2fcf683c8126f6548b9380e8048e96f50b2189d4786bc211",
+    "width": 2460,
+    "height": 1829
+  },
+  "15278:8": {
+    "path": "figures/elife_15278_fig8.png",
+    "title": "Object vision to hand action in macaque parietal, premotor, and motor cortices",
+    "authors": "Stefan Schaffelhofer; Hansjörg Scherberger",
+    "first": "Schaffelhofer",
+    "year": "2016",
+    "doi": "10.7554/eLife.15278",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Schaffelhofer et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.15278.020 Figure 8. Temporal feature correlation between areas. The distance (in firing rate) between all possible trial-pairs was computed separately in the N-space of area AIP, F5 and M1. The resulting distance maps thus represent the neuronal modulations of a population (e.g. AIP) for a specific time t. (Right) Example maps show the neural modulation patterns at key times t1 (object presentation) and t2 (during hold). Warm colours: long neural distances, cool colours: short neural distances. (Left) Correlating the neuronal patterns across time (Spearman’s r) allowed visualizing the similarity between the areas for animal Z (top row) and animal M (bottom row). For computation, spiking activity was aligned to the beginning of the cue and grasping onset. For an animation of the feature code correlation see  Video 5 . DOI:   http://dx.doi.org/10.7554/eLife.15278.020",
+    "original_url": "https://cdn.elifesciences.org/articles/15278/elife-15278-fig8-v1.tif",
+    "sha256": "52fa68bb68537d41f84d8b9141b9ad36620e48e1ec2ff5ce8f511576e35a01eb",
+    "width": 1993,
+    "height": 1286
+  },
+  "21715:5": {
+    "path": "figures/elife_21715_fig5.png",
+    "title": "Spinal microcircuits comprising dI3 interneurons are necessary for motor functional recovery following spinal cord transection",
+    "authors": "Tuan V Bui; Nicolas Stifani; Turgay Akay; Robert M Brownstone",
+    "first": "Bui",
+    "year": "2016",
+    "doi": "10.7554/eLife.21715",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Bui et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.21715.023 Figure 5. dI3 INs are involved in locomotor recovery following complete spinal transection. ( A ) Experimental paradigm. Orange indicates period of treadmill training and locomotor performance assessments. Green indicates period of recovery following surgical procedures (red). Days (d) from birth are indicated. ( B ) Kinematic recording snapshots in control and dI3 OFF  mice 50 days following complete (and confirmed) lower thoracic spinal transection. Arrows depict proper paw dorsiflexion in control (cyan) and abnormal plantarflexion in dI3 OFF  (magenta) mice during stance. Cyan segment at t = 384 ms indicates toe elevation in control, which is absent in dI3 OFF  during the swing phase. Pictures at 32 ms intervals. ( C ) Hindlimb/Forelimb step ratio (S) as a function of time (T) following complete spinal transection in control (n = 6) and dI3 OFF  (n = 3) animals with non-linear sigmoidal fit, S = S max  * T h  / (k 1/2 h  + T h ) where S max  is the maximum step ratio, h is the Hill slope (recovery rate), and k 1/2  is the number of days to reach half the maximal step ratio. R 2  = 0.53 and 0.23 respectively. ( D ) Hindlimb/Forelimb step ratio 30 days following complete spinal transection (Tx) in control (n = 10), and dI3 OFF  (n = 6) animals. Mean +/− Standard Deviation. Two-tailed Student’s t-test (***p<0.0001). ( E  to  I ) Toe coordinates along X (horizontal forward-backward axis E,G) and Y (vertical elevation F, H) axes, and knee angle ( I ) in control and dI3 OFF  spinal-transected animals 40 days post-surgery on a treadmill at 7 cm/s. Dashed lines represent standard deviation. Minimum weight-support was provided when necessary to complete the task. In G, H, and I, data from intact animals are shown in dark blue (control) and dark pink (dI3 OFF ) for comparison. Multiple t-tests corrected for multiple comparison Holm-Sidak. *p<0.05.  DOI:   http://dx.doi.org/10.7554/eLife.21715.023 10.7554/eLife.21715.024 Figure 5—source data 1. Related to  Figure 5C . DOI:   http://dx.doi.org/10.7554/eLife.21715.024 10.7554/eLife.21715.025 Figure 5—source data 2. Related to  Figure 5D . DOI:   http://dx.doi.org/10.7554/eLife.21715.025 10.7554/eLife.21715.026 Figure 5—source data 3. Related to  Figure 5G . DOI:   http://dx.doi.org/10.7554/eLife.21715.026 10.7554/eLife.21715.027 Figure 5—source data 4. Related to  Figure 5H . DOI:   http://dx.doi.org/10.7554/eLife.21715.027",
+    "original_url": "https://cdn.elifesciences.org/articles/21715/elife-21715-fig5-v3.tif",
+    "sha256": "cb3de031a325f131526e634591a56172804d3a45d497ba146380186d62719255",
+    "width": 2491,
+    "height": 2228
+  },
+  "31627:4": {
+    "path": "figures/elife_31627_fig4.png",
+    "title": "A selective role for ventromedial subthalamic nucleus in inhibitory control",
+    "authors": "Benjamin Pasquereau; Robert S Turner",
+    "first": "Pasquereau",
+    "year": "2017",
+    "doi": "10.7554/eLife.31627",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Pasquereau et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.31627.005 Figure 4. Two types of STN response during stopping. ( A ) Population-averaged activities of STN neurons that showed a neural cancellation time within the SSRT. Spike density functions aligned on switch-stop signal presentation ( red ) and the equivalent time in latency-matched go trials ( black ) were normalized by subtracting the baseline activity (500 ms before the signal) and grouped according to the response pattern evoked in neuronal activity during stopping: increase or decrease in firing relative to latency-matched go trials ( Switch-stop  and  Movement  cells, respectively). The width of the spike density function line indicates the population SEM. Otherwise, these figures follow the conventions of  Figure 3 . ( B ) Topography of cell types in the STN. Two- and three-dimensional plots of cell type distributions based on coordinates from the recording chamber. AP: anterior-posterior plane.",
+    "original_url": "https://cdn.elifesciences.org/articles/31627/elife-31627-fig4-v2.tif",
+    "sha256": "cbcb7754713dfe5878dca61330b79af5fe48471c9831f4ee51452d96f54ce7dd",
+    "width": 1295,
+    "height": 1434,
+    "display_path": "figures/elife_31627_fig4_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.53
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1295,
+      1434
+    ],
+    "display_sha256": "95af03d896b6d55821192b5e5592f871e19c32ad37caa8799395f21afa6def26"
+  },
+  "31826:10": {
+    "path": "figures/elife_31826_fig10.png",
+    "title": "Conservation of preparatory neural events in monkey motor cortex regardless of how movement is initiated",
+    "authors": "Antonio H Lara; Gamaleldin F Elsayed; Andrew J Zimnik; John P Cunningham; Mark M Churchland",
+    "first": "Lara",
+    "year": "2018",
+    "doi": "10.7554/eLife.31826",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Lara et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.31826.019 Figure 10. Snapshots of neural states in the preparatory and movement subspaces. Responses for cue–initiated ( red ), self–initiated ( blue ) and quasi–automatic ( yellow ) contexts projected onto the top two preparatory dimensions ( a ) and top two movement dimensions ( b ) Trace-shading corresponds to target direction (same color scheme as in  Figure 5 ). Each snapshot shows the neural state in that subspace, for all eight directions, during a 150 ms window. Snapshots labeled ‘baseline’ begin 150 ms before target onset. Snapshots labeled ‘target’ plot data starting at target onset. For the cue–initiated and self–initiated contexts, the subsequent three snapshots show activity in 150 ms increments, still aligned to target onset. Snapshots labeled ‘move −200’ start 200 ms before movement onset, with data aligned to movement onset. Subsequent panels begin at the indicated time. Data are for monkey Ba.",
+    "original_url": "https://cdn.elifesciences.org/articles/31826/elife-31826-fig10-v2.tif",
+    "sha256": "5e268a79ef44a1133233c9e2e4c24e41cbd424d605a45f09503f297174a16988",
+    "width": 2105,
+    "height": 1919,
+    "display_path": "figures/elife_31826_fig10_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.47
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2105,
+      1919
+    ],
+    "display_sha256": "305ded7b893efcb959b25fb17b18db0b8f8df105b299cd5f6bdfe8bbd0052904"
+  },
+  "31826:8": {
+    "path": "figures/elife_31826_fig8.png",
+    "title": "Conservation of preparatory neural events in monkey motor cortex regardless of how movement is initiated",
+    "authors": "Antonio H Lara; Gamaleldin F Elsayed; Andrew J Zimnik; John P Cunningham; Mark M Churchland",
+    "first": "Lara",
+    "year": "2018",
+    "doi": "10.7554/eLife.31826",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Lara et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.31826.015 Figure 8. Preparatory and movement–subspace occupancy. ( a ) Preparatory and movement subspace occupancy for the cue–initiated context. The two columns show results for monkeys Ba and Ax. Preparatory-subspace occupancy, across all three contexts, was normalized by the highest value attained in the cue-initiated context. Movement-subspace occupancy was similarly normalized. The shaded region denotes the standard deviation of the sampling error (equivalent to the standard error of the mean) computed via bootstrap.  Gray symbols  indicate the time when target-locked data and movement-locked data were concatenated. Open circle indicates the average time of the go cue relative to movement onset. ( b,c ) Occupancy during the self-initiated and quasi-automatic contexts respectively.",
+    "original_url": "https://cdn.elifesciences.org/articles/31826/elife-31826-fig8-v2.tif",
+    "sha256": "fb0193f14b1ca9b8ec96e5e316f94618849e8bc9be0549d2db21d43adee5d19d",
+    "width": 2226,
+    "height": 1743
+  },
+  "31895:3": {
+    "path": "figures/elife_31895_fig3.png",
+    "title": "Dopamine-dependent scaling of subthalamic gamma bursts with movement velocity in patients with Parkinson’s disease",
+    "authors": "Roxanne Lofredi; Wolf-Julian Neumann; Antje Bock; Andreas Horn; Julius Huebl; Sandy Siegert; Gerd-Helge Schneider; Joachim K Krauss; Andrea A Kühn",
+    "first": "Lofredi",
+    "year": "2018",
+    "doi": "10.7554/eLife.31895",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Lofredi et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.31895.008 Figure 3. Gamma activity is strongest during maximum movement velocity and directly correlates with movement velocity on a single-trial level across patients. Averaged gamma band activity was aligned to different time points of the movement execution (A; onset – red, velocity – green, amplitude – yellow) to allow comparison of a temporal focus in gamma synchronization. ( B ) Gamma activity was significantly higher aligned to the time point of maximum velocity (green) when compared to an alignment on maximum amplitude (yellow, p<0.001) and movement onset (red, p=0.02). ( C ) Single-trial Spearman’s correlations with movement velocity across all time frequency bins aligned to maximum movement velocity (time 0 s) were conducted in all patients. ( D ) Robust positive correlations were spectrally and spatially distinct to the gamma band (p<0.05, FDR corrected) of the contralateral hemisphere. No significant time frequency bins were revealed for the ipsilateral hemisphere (data not shown).",
+    "original_url": "https://cdn.elifesciences.org/articles/31895/elife-31895-fig3-v2.tif",
+    "sha256": "0146e99e8ce5d6892148d52611b147db1ba7de036f7f47103a64e49882c9f6f9",
+    "width": 1890,
+    "height": 1434
+  },
+  "31895:6": {
+    "path": "figures/elife_31895_fig6.png",
+    "title": "Dopamine-dependent scaling of subthalamic gamma bursts with movement velocity in patients with Parkinson’s disease",
+    "authors": "Roxanne Lofredi; Wolf-Julian Neumann; Antje Bock; Andreas Horn; Julius Huebl; Sandy Siegert; Gerd-Helge Schneider; Joachim K Krauss; Andrea A Kühn",
+    "first": "Lofredi",
+    "year": "2018",
+    "doi": "10.7554/eLife.31895",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Lofredi et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.31895.011 Figure 6. Properties of gamma bursts scale during movement and indicate both the dopaminergic and the clinical state. ( A ) The raw LFP signal was filtered around the gamma range (40–90 Hz) and for all contact pairs of one electrode, the same threshold was set at the 75 th  percentile of the gamma amplitude of the entire recording. A burst was considered when the duration of threshold crossing (black line) was at least one gamma cycle long (black dot). Shown are six trials of the large movement condition from the same patient (Subject 2, right hemisphere, contact pair 1–2) and the averaged time-frequency plot across large condition trials for this patient (bottom row). After movement onset (dashed line), the rate of transient synchrony in gamma bursts increases while the overall level of gamma power appears unchanged. Gamma bursts occur at different time points within each trial leading to a seemingly continuous gamma synchronization when averaging across trials (bottom row). ( B ) When averaged across patients (n = 16, ON-state), gamma bursts show increased rate, amplitude and duration during movement (grey bar – MOV), compared to baseline (black bar – BL). ( C ) Averaged correlations of changes in gamma-power and –burst properties for each patient showed significantly higher correlation with increases in burst rate (light grey - Rate) than burst amplitude (grey - Amp) or duration (black – Dur). ( D ) Relative changes of burst rate show a stepwise increase toward the large movement condition. ( E ) Burst rate increase correlates with clinical state. UPDRS-ON scores were available in 14 patients. Across these patients, a significant negative correlation (Pearson’s r = −0.6, p=0.008) was seen between increases in burst rate during movement and the UPDRS-III motor score. ( F ) When comparing averaged increases in burst rate, amplitude and duration ON and OFF medication (n = 7), only burst rate showed a significant decrease, while movement-related increases in burst duration and amplitude seemed not associated with the dopaminergic state. * indicate p-values<0.05; **p<0.01; ***p<0.001.",
+    "original_url": "https://cdn.elifesciences.org/articles/31895/elife-31895-fig6-v2.tif",
+    "sha256": "1d80352555d40f803194cc0d9a8aa919a207ae455f221029ad06a28f37158343",
+    "width": 1890,
+    "height": 1559,
+    "display_path": "figures/elife_31895_fig6_panels.png",
+    "panel_crop_box": [
+      0.42,
+      0.6,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1890,
+      1559
+    ],
+    "display_sha256": "97a0f2b04bc4796fc6fd2ea627f0d8a56f2223ab2c81f68db7288d54996b31a2"
+  },
+  "44530:3": {
+    "path": "figures/elife_44530_fig3.png",
+    "title": "A 3D culture model of innervated human skeletal muscle enables studies of the adult neuromuscular junction",
+    "authors": "Mohsen Afshar Bakooshli; Ethan S Lippmann; Ben Mulcahy; Nisha Iyer; Christine T Nguyen; Kayee Tung; Bryan A Stewart; Hubrecht van den Dorpel; Tobias Fuehrmann; Molly Shoichet; Anne Bigot; Elena Pegoraro; Henry Ahn; Howard Ginsberg; Mei Zhen; Randolph Scott Ashton; Penney M Gilbert",
+    "first": "Afshar Bakooshli",
+    "year": "2019",
+    "doi": "10.7554/eLife.44530",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Afshar Bakooshli et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.44530.014 Figure 3. 3D neuromuscular co-cultures are functionally innervated. ( A ) Phase contrast (far left panel) and GCaMP6 epifluorescence images (right panels) of a 3D neuromuscular co-culture after treatment with phosphate buffered saline (middle left panel), glutamate (middle right panel), or ACh (far right panel). Motor neuron clusters are outlined with white dashed lines. Scale bar, 250 μm. ( B ) Bar graph indicating quantification of fluorescence signal from neuromuscular co-cultures following glutamate (Glut) and Acetylcholine (ACh) stimulations relative to treatment with phosphate buffered saline (Ctrl). n = 9 neuromuscular co-culture samples from three separate muscle patient donors.  # p<0.05 and  ### p<0.001 compared with saline stimulation (Ctrl). ( C ) Quantification of neuromuscular co-culture tissue contraction in response to ACh (10 μM) and glutamate (50 μM). ( D ) Bar graph quantification of the percent tissue area occupied by glutamate (glut, 50 μM) responsive (GCaMP6 + ) fibers in saline (Ctrl), BOTOX (BOT, 1 U/ml), and d-tubocurarine (DTC, 25 μM) treated 3D neuromuscular co-cultures.  # p<0.05 and  ### p<0.001 compared with saline treated sample. In ( C, D ) n = 8 independent neuromuscular samples from three separate muscle patient donors. In ( B–D ) each symbol represents data from one muscle patient donor. Values in ( B–D ) are mean ±SEM. ***p<0.001.",
+    "original_url": "https://cdn.elifesciences.org/articles/44530/elife-44530-fig3-v1.tif",
+    "sha256": "14aece157ee7431de0b1fddda7ed6f588087a74d14f0f3052cfc8c038c44aa77",
+    "width": 1814,
+    "height": 1082,
+    "display_path": "figures/elife_44530_fig3_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.42
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1814,
+      1082
+    ],
+    "display_sha256": "d4c947940d23dbafd1aee59cc74ce34a3ecf98edb198037b718f7f9668ecf682"
+  },
+  "44530:4": {
+    "path": "figures/elife_44530_fig4.png",
+    "title": "A 3D culture model of innervated human skeletal muscle enables studies of the adult neuromuscular junction",
+    "authors": "Mohsen Afshar Bakooshli; Ethan S Lippmann; Ben Mulcahy; Nisha Iyer; Christine T Nguyen; Kayee Tung; Bryan A Stewart; Hubrecht van den Dorpel; Tobias Fuehrmann; Molly Shoichet; Anne Bigot; Elena Pegoraro; Henry Ahn; Howard Ginsberg; Mei Zhen; Randolph Scott Ashton; Penney M Gilbert",
+    "first": "Afshar Bakooshli",
+    "year": "2019",
+    "doi": "10.7554/eLife.44530",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Afshar Bakooshli et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.44530.020 Figure 4. 3D neuromuscular co-cultures enable disease modeling of adult NMJ in vitro. ( A ) Representative western blot images of nicotinic acetylcholine receptor subunit epsilon (nAChR-ε), gamma (nAChR-γ), and beta (nAChR-β) proteins in 2D and 3D muscle-alone (-MN) and neuromuscular co-cultures (+MN) at two weeks of culture. ( B ) Bar graph quantification of nACHR subunit ε, γ, and β protein expression in 3D muscle (blue) and 3D neuromuscular (purple) cultures. Values are normalized to 3D muscle cultures. ( C ) (left panel) Representative epifluorescence images of GCAMP6 signals in response to glutamate (glut) stimulation before (top panel) and after (bottom panel) 3D neuromuscular co-culture treatment with Waglerin 1 (WTX-1). Yellow arrowheads point out fibers with dampened GCAMP6 fluorescence signal following WTX-1 treatment. White arrowheads indicate fibers that did not dampen calcium handling after WTX-1 treatment. Scale bar, 50 μm. (right panel) Bar graph indicating the percentage of 3D neuromuscular co-culture tissue area occupied by glutamate responsive fibers (GCaMP6 + ) before (-) and after (+) WTX (1 μM) treatment. ( D ) Bar graph quantifying glutamate-induced GCAMP6 signals from individual fibers before (-) and after (+) WTX-1 treatment. In ( C–D ), data is normalized to (-) WTX condition. For ( B–D ), n = 9 independent muscle or neuromuscular samples from three muscle patient donors. A minimum of 50 fibers were analyzed for data presented in ( D ). ( E ) Representative confocal images of a 3D muscle culture co-treated with Myasthenia gravis (MG) patient IgG and human complement and then immunostained for human complement component C3c (red, top) and α-bungarotoxin (BTX, green, middle). Bottom panel is a merged image of the top and middle panels. Scale bars, 10 μm. ( F ) Representative epifluorescence images of GCaMP6 signals from a glutamate stimulated 3D neuromuscular co-culture following a 72 hr treatment with 300 nM of healthy (top panel) or MG (bottom panel) patient IgG and human complement. Scale bars, 100 μm. ( G ) Bar graph indicating the percent tissue area occupied by glutamate (glut, 50 μM) responsive (GCaMP6 + ) fibers in healthy and MG patient IgG treated 3D neuromuscular co-cultures. Data normalized to the total area of ACh responsive (GCaMP6 + ) tissue in each co-culture. n = 4 independent neuromuscular tissues treated with healthy IgG and three neuromuscular tissues each treated with serum IgG from one of three separate MG patient donors. In ( B–D ) and ( G ) each symbol represents data from one patient donor. Values in ( B–D ) and ( G ) are mean ±SEM. *p<0.05 ***p<0.001.",
+    "original_url": "https://cdn.elifesciences.org/articles/44530/elife-44530-fig4-v1.tif",
+    "sha256": "ac682b4fe117f2f38614baf695dfc84ec3233ca1ee319713dc54b6f57f48a86d",
+    "width": 1701,
+    "height": 2014
+  },
+  "53565:2": {
+    "path": "figures/elife_53565_fig2.png",
+    "title": "Long ascending propriospinal neurons provide flexible, context-specific control of interlimb coordination",
+    "authors": "Amanda M Pocratsky; Courtney T Shepard; Johnny R Morehouse; Darlene A Burke; Amberley S Riegler; Josiah T Hardin; Jason E Beare; Casey Hainline; Gregory JR States; Brandon L Brown; Scott R Whittemore; David SK Magnuson",
+    "first": "Pocratsky",
+    "year": "2020",
+    "doi": "10.7554/eLife.53565",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Pocratsky et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Silencing long ascending propriospinal neurons (LAPNs) disrupts intra-girdle movements during overground stepping. ( a–c ) Representative swing-stance graphs of stepping behaviors observed at control time points. Left: orange = homolateral HL-FL movements (out-of-phase, 0.5), blue = diagonal HL-FL movements (in-phase, 0.0/1.0). Right: green = left -right forelimb, purple = left-right hindlimb, each out-of-phase. Insets = one complete stride cycle (right limb reference). ( d ) Circular 0–1 phase data are transformed into a linear scale (0.5–1.0 or 0.0–0.5). ( e ) Left: silencing LAPNs does not disrupt homolateral (\"ipsi\") HL-FL coordination (# steps beyond control variability: Control n = 19/480 [3.95%] vs Dox n = 17/600 [2.83%]; p=0.31, z = 1.01, Binomial Proportion Test; circles = individual step cycles; shaded region = values beyond control variability). Right: diagonal (\"contra\") HL-FL coordination is significantly disrupted (Control n = 17/480 [3.54%] vs Dox n = 98/600 [16.33%]; ***p<0.001, z = 7.47). ( f ) Silencing LAPNs significantly disrupts left-right forelimb and left-right hindlimb coordination, respectively (forelimbs: Control n = 26/480 [5.42%] vs Dox n = 135/600 [22.50%]; p<0.001, z = 8.57; hindlimbs: Control n = 26/480 [5.42%] vs Dox n = 177/600 [29.50%]; ***p<0.001, z = 11.31). ( g ) Silencing LAPNs disrupts left-right movements more than hindlimb-forelimb (% total altered steps: hindlimb-forelimb 26.20 ± 3.02% vs left-right 73.80 ± 3.37%; ***p<0.001, critical t = 2.17, paired t-test; bars = group mean± S.D.; circles=% total steps taken that are altered for individual animals). ( h ) The quadrupedal stepping index remained unchanged during silencing (Control: 100.78 ± 0.87 vs Dox: 100.76 ± 1.55; p=0.97, critical t = 2.17; paired t-test). Figure 2—source data 1. Contains the source data for step ratio measures. Figure 2—source data 2. Contains the source data for the magnitude of change of step ratio measures. Figure 2—source data 3. Contains the source data for the interlimb coordination measures.",
+    "original_url": "https://cdn.elifesciences.org/articles/53565/elife-53565-fig2-v2.tif",
+    "sha256": "082cd7f43286563136aa6e7299f25822c2ee6aa60f1ee86f74dd5f2010b8f7fc",
+    "width": 1959,
+    "height": 830
+  },
+  "53565:5": {
+    "path": "figures/elife_53565_fig5.png",
+    "title": "Long ascending propriospinal neurons provide flexible, context-specific control of interlimb coordination",
+    "authors": "Amanda M Pocratsky; Courtney T Shepard; Johnny R Morehouse; Darlene A Burke; Amberley S Riegler; Josiah T Hardin; Jason E Beare; Casey Hainline; Gregory JR States; Brandon L Brown; Scott R Whittemore; David SK Magnuson",
+    "first": "Pocratsky",
+    "year": "2020",
+    "doi": "10.7554/eLife.53565",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Pocratsky et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 5. Silencing-induced disruption to interlimb coordination occurs in a task-specific, context-driven manner. ( a ) Intra-girdle left-right coordination was affected to a greater extent during overground stepping as compared to treadmill during long ascending propriospinal neuron (LAPN) silencing (forelimbs, overground n = 135/600 [22.50%] vs treadmill n = 22/151 [17.05%], *p<0.05 [z = 2.38]; hindlimbs, overground n = 177/600 [29.50%] vs treadmill n = 28/151 [22.76%], **p<0.01 [z = 2.99];  Figure 5—figure supplement 1a–f ;  Supplementary file 3 ). ( b ) Silencing LAPNs does not affect interlimb coordination during exploratory-like stepping as compared to a more \"directed\" stepping mode (\"going from A to B\") (Dox On  forelimbs, non-exploratory overground n = 135/600 [22.50%] vs exploratory overground n = 13/95 [13.68%], *p<0.05 [z = 2.25]; Dox On  hindlimbs, non-exploratory overground n = 177/600 [29.50%] vs exploratory overground n = 7/95 [7.37%], **p<0.001 [z = 6.78];  Figure 5—figure supplement 1g–i ;  Supplementary file 3 ) (see Materials and methods for details). Silencing LAPNs does not affect intra-girdle left-right coordination while stepping on an uncoated plexiglass surface as compared to a Sylgard-coated base (N = 8 animals from a separate set of experiments; see methods for details; forelimbs, uncoated plexiglass n = 11/166 [6.63%] vs Sylgard-coated n = 39/170 [22.94%], ***p<0.001 [z = 4.34]; hindlimbs, uncoated plexiglass n = 12/166 [7.23%] vs Sylgard-coated n = 60/170 [35.29%], ***p<0.001 [z = 2.99];  Figure 5—figure supplement 1j–o ;  Supplementary file 3 ). ( d ) Silencing LAPNs did not affect left-right hindlimb alternation during swimming (n = 2/390 and 0/390 stroke cycles at Control and Dox, respectively; deviated beyond control variability; p>0.5 [z = 1.0];  Figure 5—figure supplement 1p ;  Supplementary file 3 ). Data shown in a,b, and d are from N = 13 animals. Data shown in c are from separate set of N = 8 animals. Circles = individual step or stroke cycles. Shaded region denotes variability beyond that observed at control time points for each condition described. Figure 5—source data 1. Contains the source data for phase during exploratory walking. Figure 5—source data 2. Contains the source data for phase during treadmill walking. Figure 5—source data 3. Contains the source data for phase on different surfaces. Figure 5—source data 4. Contains the source data for phase during swimming.",
+    "original_url": "https://cdn.elifesciences.org/articles/53565/elife-53565-fig5-v2.tif",
+    "sha256": "2ea3c49d2f26b147c544fcd50e3d9e0332ec58984d8e96cbac72179572828c6d",
+    "width": 2126,
+    "height": 521,
+    "display_path": "figures/elife_53565_fig5_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      0.81,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2126,
+      521
+    ],
+    "display_sha256": "69baf175986c5218683a84de1b00f6cbd1e4a5acc0303fa9bf68783d4bf294a1"
+  },
+  "53908:6": {
+    "path": "figures/elife_53908_fig6.png",
+    "title": "Tuning of feedforward control enables stable muscle force-length dynamics after loss of autogenic proprioceptive feedback",
+    "authors": "Joanne C Gordon; Natalie C Holt; Andrew Biewener; Monica A Daley",
+    "first": "Gordon",
+    "year": "2020",
+    "doi": "10.7554/eLife.53908",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Gordon et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 6. Phase relationship (E phase ) between length and EMG activation. ( A ) Average steady-state length and activation trajectories for iLG and rLG in level terrain, aligned in time based on peak length during the swing phase, before foot-substrate contact. Black dot and vertical dashed line indicate the time of peak fascicle length. Triangles indicate timing of foot contact. ( B ) Pairwise mean differences in E phase  (mean ±95% ci) between intact and reinnervated treatment cohorts (grey), and obstacle stride categories compared to level terrain within each cohort (colored bars). E phase  is reported in the ANOVA tables as a fraction of the stride cycle but is reported in milliseconds here.",
+    "original_url": "https://cdn.elifesciences.org/articles/53908/elife-53908-fig6-v2.tif",
+    "sha256": "46eaf5d4348bbd3e67c64d3d2ae743b4ea7c221549801d399a130ee6ad9e229c",
+    "width": 2099,
+    "height": 1314
+  },
+  "54139:9": {
+    "path": "figures/elife_54139_fig9.png",
+    "title": "Movement initiation and grasp representation in premotor and primary motor cortex mirror neurons",
+    "authors": "Steven Jack Jerjian; Maneesh Sahani; Alexander Kraskov",
+    "first": "Jerjian",
+    "year": "2020",
+    "doi": "10.7554/eLife.54139",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Jerjian et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 9. NoGo activity within an observation subspace. ( A ) Traces showing the evolution of M1-PTNs, M1-UIDs and F5 population activity during PG execution (green), observation (purple) and NoGo (orange) conditions within the first 2 dimensions of an observation subspace spanning the 100–400 ms after the Go cue. Each trajectory shows the −100 to +400 ms period around the Go/NoGo cue (green/red circles). Average HPR time (across execution and observation) is also indicated on each trajectory by the orange filled circles. The purple arrow on observation trajectories indicates the direction of time. ( B ) M1-PTNs  Left Panel:  Cumulative variance captured within the first three principal axes for execution, observation, and NoGo.  Right Panel:  Alignment indices of execution and NoGo activity in the observation subspace shown as coloured lines (Execution - green, NoGo - orange). Observation alignment index is equal to one by definition (not shown). Scattered points show alignment values from null distributions for execution and NoGo separately, and p-values denote proportion of alignment values in null distribution greater than alignment in data. ( C ) Same as B., but for M1-UIDs. ( D ) Same as B, but for F5.",
+    "original_url": "https://cdn.elifesciences.org/articles/54139/elife-54139-fig9-v2.tif",
+    "sha256": "8033229310fbcd9676feaa1dee22a730cd2ac0ba2d968afcff74be7fdd40e0de",
+    "width": 1535,
+    "height": 1123
+  },
+  "54831:10": {
+    "path": "figures/elife_54831_fig10.png",
+    "title": "Opponent regulation of action performance and timing by striatonigral and striatopallidal pathways",
+    "authors": "Konstantin I Bakhurin; Xiaoran Li; Alexander D Friedman; Nicholas A Lusk; Glenn DR Watson; Namsoo Kim; Henry H Yin",
+    "first": "Bakhurin",
+    "year": "2020",
+    "doi": "10.7554/eLife.54831",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Bakhurin et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 10. Indirect pathway stimulation pauses the internal clock. ( A )  Top : Peri-event lick raster of representative peak probe trials without laser delivery.  Middle : 25 Hz stimulation at 5 s following reward during trials in which rebound licking causes a delay and a recovery in peak licking. Both rasters reflect licking from the same mouse in the same session.  Bottom : Mean lick rate calculated from the example session shown above for peak probe trials without laser stimulation and stimulation trials showing a ‘recovery’ pattern. ( B )  Top : Peri-event lick raster diagrams of representative peak probe trials without laser delivery.  Middle : 25 Hz stimulation at 5 s following reward during trials in which rebound licking initiates peak licking. Both rasters show licking from the same mouse in the same session.  Bottom : Mean lick rate calculated from the example session shown above for peak probe trials without laser stimulation and stimulation trials showing an ‘initiation’ pattern. ( C )  Top : Peri-event lick raster of a third subject’s representative peak probe trials produced in the absence of laser delivery.  Middle : 25 Hz stimulation at 5 s following reward during trials in which no rebound licking was detected.  Bottom : Mean lick rate calculated from the example session shown above for peak probe trials without laser stimulation and stimulation trials showing a ‘no rebound’ pattern. ( D ) The three types of patterns occurred with equal probability throughout the behavioral session (n = 5 (3 female and two male); one-way RM ANOVA,  F 2,8  = 0.64, p=0.5). ( E ) Peak shifts were measured by subtracting the mean peak time of each pattern by the mean peak time without stimulation. Recovery and no rebound trials showed significant positive peak shifts (two-tailed t-tests, p<0.05), whereas initiation trials trended toward negative peak shifts (two-tailed t-test,  t 4  = 2, p=0.1). ( F ) Initiation trials showed significant increases in the duration of the peak (two-tailed t-test,  t 4  = 4.18, p<0.05). ( G ) There were no changes in skewness of licking distributions for any trial type. ( H ) Fraction of peak trials showing each pattern during the first and second halves of the behavioral session. On the whole, the recovery pattern was gradually replaced with no rebound pattern (two-way, mixed ANOVA, interaction trial type x session half,  F 1,12  = 7.38, p<0.01). Error bars show SEM.  X  symbol reflects a significant interaction between factors. Points in bar graphs reflect individual data points.",
+    "original_url": "https://cdn.elifesciences.org/articles/54831/elife-54831-fig10-v2.tif",
+    "sha256": "2304705d5df1e06a0f48835d1d5946268c914d06a2719695ac9d68cd495ff3aa",
+    "width": 1772,
+    "height": 2083
+  },
+  "54831:9": {
+    "path": "figures/elife_54831_fig9.png",
+    "title": "Opponent regulation of action performance and timing by striatonigral and striatopallidal pathways",
+    "authors": "Konstantin I Bakhurin; Xiaoran Li; Alexander D Friedman; Nicholas A Lusk; Glenn DR Watson; Namsoo Kim; Henry H Yin",
+    "first": "Bakhurin",
+    "year": "2020",
+    "doi": "10.7554/eLife.54831",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Bakhurin et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 9. Direct pathway stimulation resets the internal clock. ( A )  Left : Mean licking rate across subjects during peak probe trials with and without laser stimulation concurrent with reward delivery. Scale bars reflect the population mean peak times for probe trails with (blue) and without (green) laser stimulation.  Middle : Mean licking rate across subjects during probe trials delivered in the presence and absence of laser stimulation at 3 s post reward. Scale bars reflect the population mean peak times for probe trails with (blue) and without (green) laser stimulation.  Right : Mean licking rate across subjects during normal probe trials and peak probe trials containing laser stimulation at 5 s following reward. Scale bars reflect the population mean peak times for probe trails with (blue) and without (green) laser stimulation. ( B ) Magnitudes of peak shifts in seconds as a function of time of direct pathway stimulation. The y-axis reflects the difference between the mean peak time occurring during laser trials subtracted by the mean peak time during trials without stimulation (n = 4 female mice; One-way RM ANOVA;  F 3,9  = 21.68, p<0.001). Peak analyses were performed on the entire behavioral session to maximize statistical power. Points reflect individual data points. ( C ) Quantification of the peak duration during normal peak probe trials and those with laser stimulation. Stimulation resulted in a reduction of the peak width (n = 4; two-way mixed ANOVA; effect of stimulation,  F 1,12  = 35.49, p<0.0001).  D ) There were no changes in the skewness of the peak distributions. Error bars show SEM.",
+    "original_url": "https://cdn.elifesciences.org/articles/54831/elife-54831-fig9-v2.tif",
+    "sha256": "ce30383d99fe3b32b7a79ebb9892ed3104e17b5991391a4437508c83dd104739",
+    "width": 2053,
+    "height": 1401
+  },
+  "55177:2": {
+    "path": "figures/elife_55177_fig2.png",
+    "title": "Diverse and complex muscle spindle afferent firing properties emerge from multiscale muscle mechanics",
+    "authors": "Kyle P Blum; Kenneth S Campbell; Brian C Horslen; Paul Nardelli; Stephen N Housley; Timothy C Cope; Lena H Ting",
+    "first": "Blum",
+    "year": "2020",
+    "doi": "10.7554/eLife.55177",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Blum et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Muscle spindle driving potentials estimated from independent contributions of experimentally-derived muscle fiber force and yank. ( A ) Estimated driving potentials were derived from linear combinations of muscle fiber force and yank, half-wave rectified, and compared against recorded muscle spindle Ia afferent firing rates. Weights of each component were optimized to match recorded spiking dynamics. ( B ) Recorded muscle spindle Ia afferent firing rates (gray dots) in history-dependent conditions, having non-unique relationships to muscle length and velocity, were reproduced using muscle fiber force and yank (black lines). Notably, the initial burst and increased firing during ramp in the first stretch were attributed to increased muscle fiber yank and to greater force during the first stretch, respectively. ( C ) Likewise, muscle fiber force and yank could also account for the temporal dynamics of Ia afferent firing in response to both slow and fast stretches. ( D ) This model permits independent manipulation of the force and yank contributions to muscle spindle firing rates. As such, we can explain the altered muscle spindle Ia afferent firing patterns in ( E ) oxaliplatin chemotherapy-induced sensory neuropathy as a loss of force sensitivity, and ( F ) after antidromic electrical stimulation of the axon as loss of yank sensitivity.",
+    "original_url": "https://cdn.elifesciences.org/articles/55177/elife-55177-fig2-v2.tif",
+    "sha256": "fe386446909a91df904c610760c69a9f6d341df20c1f881a4051286effca69f8",
+    "width": 1459,
+    "height": 1944,
+    "display_path": "figures/elife_55177_fig2_panels.png",
+    "panel_crop_box": [
+      0,
+      0.22,
+      1,
+      0.56
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1459,
+      1944
+    ],
+    "display_sha256": "719abc0669f35d0610c0ee3962281c6ec79f9cb7f909a40c473e43cee7ba2019"
+  },
+  "55177:6": {
+    "path": "figures/elife_55177_fig6.png",
+    "title": "Diverse and complex muscle spindle afferent firing properties emerge from multiscale muscle mechanics",
+    "authors": "Kyle P Blum; Kenneth S Campbell; Brian C Horslen; Paul Nardelli; Stephen N Housley; Timothy C Cope; Lena H Ting",
+    "first": "Blum",
+    "year": "2020",
+    "doi": "10.7554/eLife.55177",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Blum et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 6. Emergent movement history-dependence of muscle spindle. ( A ) When repeated stretch-shorten length cycles were applied, a larger response was predicted if the length was held constant prior to stretch (bottom plot – all traces). An abolished initial burst and reduced dynamic response were predicted in the second stretch, immediately applied after the length was returned to the initial value (top plot – all traces). In the third stretch, recovery of the initial burst was dependent on the time interval between the second and third stretch, with the effect saturating between 5 and 10 s (top plot, recovery from violet to red traces). This finding predicts the results found by  Haftel et al., 2004  in rat muscle spindles. Similarly, dynamic response recovered gradually with time interval between second and third stretch (top plot, recovery from violet to red traces). This finding predicts the results found by  Proske and Stuart, 1985  in toad muscle spindles. ( B ) Sinusoidal displacement imposed from rest elicited a history-dependent initial burst in the predicted muscle spindle driving potential at the onset of stretch, resembling data from ( C ) human muscle spindles recorded during the application of sinusoidal motion to the ankle in relaxed conditions ( Day et al., 2017 ).  Figure 6C  is redrawn from  Day et al., 2017  with permission from The American Physiological Society.",
+    "original_url": "https://cdn.elifesciences.org/articles/55177/elife-55177-fig6-v2.tif",
+    "sha256": "e9c06b56419d36e6e65eb1851a899b506c2ecf8c14b4bb886618e14596ba61e1",
+    "width": 1335,
+    "height": 1997,
+    "display_path": "figures/elife_55177_fig6_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.54
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1335,
+      1997
+    ],
+    "display_sha256": "b10711118e09714ad13b90a349e627eacccb2f4beff7e43c95b23cae3e0544b9"
+  },
+  "56374:6": {
+    "path": "figures/elife_56374_fig6.png",
+    "title": "Intrinsic control of neuronal diversity and synaptic specificity in a proprioceptive circuit",
+    "authors": "Maggie M Shin; Catarina Catela; Jeremy Dasen",
+    "first": "Shin",
+    "year": "2020",
+    "doi": "10.7554/eLife.56374",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Shin et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 6. Altered central targeting of distal flexor muscle pSNs in  Hoxc8 SN∆  mice. ( a ) Cre-dependent excision of  Hoxc8  coding sequence and expression of  LacZ  reporter driven by  PLAT  promoter. Removal of the stop cassette permits expression of 2 rabies helper proteins, TVA and glycoprotein G, after Cre-recombination thus directing rabies infection in a cell type specific manner (left). Modified rabies virus labeling experimental design: Env/TVA system permits primary infection of SNs; SNs also express glycoprotein G which enables monosynaptic transfer of injected modified rabies virus (RV∆G-mCherry-EnvA) anterogradely to spinal cord MNs by secondary infection (middle). Representative spinal cord cross-section of RV∆G-mCherry-EnvA monosynaptic labeling in MNs via pSN transfer after injection into FCU muscle of  PLAT::Cre; Hoxc8 LacZ-flox/+  mice (right). ( b and c ) Dot plot showing RV∆G-mCherry-EnvA labeled MNs position of a representative spinal cord hemi-section in the caudal cervical region. Distances from the central canal are shown on x and y coordinate axes (in micrometers). Contour plots to the right depicting labeled MN density in relation to position in spinal cord. Area of greatest labeling density in yellow. Overlay of labeled MN dot plots for both control and  Hoxc8 SN∆  mice. Total number of labeled MNs in which the FCU is injected in control mice; N = 3 mice, 79 cells. Total number of labeled MNs in  Hoxc8 SN∆  mice; N = 3 mice, 66 cells ( b ). Total number of labeled MNs in which the PL is injected in control mice; N = 3 mice, 71 cells. Total number of labeled MNs in  Hoxc8 SN∆  mice; N = 3 mice, 62 cells. See also  Figure 6—figure supplement 1 .",
+    "original_url": "https://cdn.elifesciences.org/articles/56374/elife-56374-fig6-v2.tif",
+    "sha256": "a0d15b7b8d1dcfb58e867662ba8da1cf5deec4b2abdc83a6fb435374e24a45ee",
+    "width": 2345,
+    "height": 2526,
+    "display_path": "figures/elife_56374_fig6_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.3
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2345,
+      2526
+    ],
+    "display_sha256": "880e0caa6760adaafe24bf6e7446104c33bae434efe4976c50bc12b291dfe864"
+  },
+  "56374:7": {
+    "path": "figures/elife_56374_fig7.png",
+    "title": "Intrinsic control of neuronal diversity and synaptic specificity in a proprioceptive circuit",
+    "authors": "Maggie M Shin; Catarina Catela; Jeremy Dasen",
+    "first": "Shin",
+    "year": "2020",
+    "doi": "10.7554/eLife.56374",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Shin et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 7. Flexor pSNs form ectopic synapses on extensor MNs in  Hoxc8 SN∆  mice. ( a ) Schematic illustrating muscle injection of RV∆G-mCherry-EnvA (RabV). Selective infection of SNs and anterograde transsynaptic transport leads to secondary infection of MNs in the ventral spinal cord but not direct infection of MNs. CTB injected into a muscle labels directly connected MNs. In a normal condition, pSNs avoid synapsing onto antagonist MNs. In a mismatch condition, pSNs form ectopic contacts onto antagonist muscle MNs yielding colocalization of RabV (red) and CTB (green). Individual distal forelimb flexor muscles were injected with RabV and distal forelimb extensors were injected with CTB. Injections were performed at ~P6 P7 and spinal cords were collected at ~P12-13. ( b ) Colocalization of RabV, CTB, and ChAT signifying ectopic contacts in  Hoxc8 SN∆  mice where RabV was injected into the FCU and CTB was injected into the ECR and ED. ( c ) Quantification of the average percentage of RabV + CTB + ChAT +  cells over total RabV + ChAT +  cells where RabV was injected into the FCU. Lines indicate mean ± SEM. Average from control mice: N = 5 mice; 0 ± 0. Average from  Hoxc8 SN∆ : N = 4 mice; 0.26 ± 0.04. (p<0.0001, Student’s t test). ( d ) Colocalization of RabV, CTB, and ChAT signifying ectopic contacts in  Hoxc8 SN∆  mice where RabV was injected into the PL and CTB was injected into the ECR and ED. ( e ) Quantification of the average percentage of RabV + CTB + ChAT +  cells over total RabV + ChAT +  cells where RabV was injected into the PL. Lines indicate mean ± SEM. Average from control mice: N = 4 mice; 0.008 ± 0.008. Average from  Hoxc8 SN∆ : N = 3 mice; 0.37 ± 0.13. (p=0.02, Student’s t test). For both  Hoxc8 SN∆  mice and controls in which the FCU was injected, a total of ~150 RabV MNs were counted while 120 RabV MNs were counted for control mice injected in the PL and 101 RabV MNs for  Hoxc8 SN∆  mice. See also  Figure 7—figure supplement 1 . Figure 7—source data 1. Quantification of rabies labeled neurons in control and Hoxc8 mutants.",
+    "original_url": "https://cdn.elifesciences.org/articles/56374/elife-56374-fig7-v2.tif",
+    "sha256": "077bfbb2779e1574bce25c7c10f5846cbd8c9ae62ecfc548d8c304b892421ff2",
+    "width": 2088,
+    "height": 2392,
+    "display_path": "figures/elife_56374_fig7_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.25
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2088,
+      2392
+    ],
+    "display_sha256": "c7b71ab88e6457f5bd7361f469a9b85fad0a5b928bdb191541036d53a2c9e95e"
+  },
+  "62760:7": {
+    "path": "figures/elife_62760_fig7.png",
+    "title": "Beneficial impacts of neuromuscular electrical stimulation on muscle structure and function in the zebrafish model of Duchenne muscular dystrophy",
+    "authors": "Elisabeth A Kilroy; Amanda C Ignacz; Kaylee L Brann; Claire E Schaffer; Devon Varney; Sarah S Alrowaished; Kodey J Silknitter; Jordan N Miner; Ahmed Almaghasilah; Tashawna L Spellen; Alexandra D Lewis; Karissa Tilbury; Benjamin L King; Joshua B Kelley; Clarissa A Henry",
+    "first": "Kilroy",
+    "year": "2022",
+    "doi": "10.7554/eLife.62760",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Kilroy et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 7. Endurance neuromuscular electrical stimulation (eNMES) improves multiple components of muscle health. ( A ) Machine learning was used to quantify muscle health pixel-by-pixel. Green indicates healthy pixels while red indicates unhealthy pixels. ( B ) Second harmonic generation (SHG) microscopy was used to quantify sarcomere length at 8 days post-fertilization (dpf). Representative SHG images of WT sibling control ( B1 ),  dmd  mutant controls ( B2 ), and  dmd  mutants that completed eNMES training. Anterior left, dorsal top, side mounted. Scale bars are 10 µm. ( B4 ) Sarcomere length is significantly shorter in  dmd  mutant controls compared to WT sibling controls. However, eNMES significantly improves sarcomere length, bringing it closer to WT lengths. Each point represents a single sarcomere along a predetermined length of a muscle fiber. Multiple muscle fibers were measured per zebrafish. ( C ) Muscle nuclei were imaged at 8 dpf as a potential mechanism for improved muscle health. Anterior left, dorsal top, side mounted. ( C1 ) Representative image of WT sibling control demonstrates healthy ellipsoidal nuclei organized along the length of the muscle fibers. ( C2 ) Representative image of  dmd  mutant control demonstrates fragmented punctae as well as more spherical nuclei that clustering within the muscle segments. ( C3 ) Representative image of  dmd  mutant that completed eNMES training demonstrates healthier, ellipsoidal nuclei that appear more organized within the muscle segments. Quantification of nuclear size indicates that eNMES significantly increases the volume ( C4 ) and surface area ( C5 ) of muscle nuclei compared to  dmd  mutant controls. However, nuclei are still significantly smaller compared to WT sibling controls, visually appearing to have an increased number of myonuclei compared to unstimulated  dmd  mutants. ( C6 ) Filament index was used to assess circularity, specifically the departure from a circle. Filament index is significantly higher in  dmd  mutants that completed eNMES training, indicating that nuclei are more elongated compared to  dmd  mutant controls. Each point represents a single nuclei within a z-stack. ( D ) Transgenic  dmd  mutants (mylpfa:lyn-cyan [cyan], smych1:GFP [magenta]) were used to visualize changes in structural integrity of fast- and slow-twitch muscle fibers across three days. Anterior left, dorsal top, side mounted. Scale bar is 50 µm. Images were taken around the 12th myotome. ( D1 ) Representative  dmd  mutant control. ( D1a–D1b ). At 3 dpf, there is no dystrophy in the imaged myotomes. ( D1c–D1e ) At 4 dpf and the beginning of 5 dpf, dystrophy is minimal with relatively few detaching muscle fibers. ( D1f ) However, massive muscle degeneration occurs between the first found of imaging and the third round of imaging at 5 dpf. ( D1g–D1h ) Fiber degeneration is still present, suggesting that the damaged muscle fibers have not been cleared and regeneration is unlikely. ( D2 ) Representative  dmd  mutant that is undergoing eNMES training. ( D2a–D2b ) The first session of eNMES at 3 dpf does not result in immediate damage to the muscle. ( D2c–D2d ) Similarly, following the second session of eNMES at 4 dpf, there is no immediate muscle damage occurring in the imaged myotomes. ( D2e ) At 5 dpf, following the third session of eNMES, muscle fiber degeneration is evident, but by the third round of imaging ( D2f ), these damaged areas are being cleared and there is evidence of regeneration. ( D2g–D2h ) At 6 dpf, previously damaged muscle segments have new muscle fibers present. All data were analyzed using either an ordinary one-way ANOVA with Tukey’s multiple comparisons test or a Kruskal–Wallis test with Dunn’s multiple-comparison test. *p<0.05, **p<0.01, ***p<0.001, ****p<0.0001.",
+    "original_url": "https://cdn.elifesciences.org/articles/62760/elife-62760-fig7-v1.tif",
+    "sha256": "afb248bb2ba63d339f42186043fdcc8009eb5ebe2622b6054d9e834cb784ce46",
+    "width": 2491,
+    "height": 2935
+  },
+  "65906:5": {
+    "path": "figures/elife_65906_fig5.png",
+    "title": "Disrupting cortico-cerebellar communication impairs dexterity",
+    "authors": "Jian-Zhong Guo; Britton A Sauerbrei; Jeremy D Cohen; Matteo Mischiati; Austin R Graves; Ferruccio Pisanello; Kristin M Branson; Adam W Hantman",
+    "first": "Guo",
+    "year": "2021",
+    "doi": "10.7554/eLife.65906",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Guo et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 5. Effects of pontine nuclei (PN) stimulation on reaching. ( A ) Upper: experimental schematic. Lower: video frames for control and PN laser stimulation trials for sessions from three mice. Frames from the front and side cameras are shown at offsets of 50, 150, and 250 ms from lift, averaged across trials (see Materials and methods). Orange indicates higher image intensity on control trials, and blue indicates higher intensity on laser trials. For the first two mice (left panel), this visualization shows that the animals reach farther forward on laser trials than control trials. Panels labeled 1, 2, and 3 correspond to M270 (8-15-18), M282 (12-5-18), and M240 (9-22-17), respectively. ( B ) Hand trajectories for the three example mice in ( A ). Dots indicate the position of the hand at grab. ( C ) Three-dimensional position of the hand at the time of grab on control and laser trials for each of the three mice in ( A–B ). Each point corresponds to a single trial. ( D ) Upper: difference in median hand position at grab between laser and control trials. Each point corresponds to a single experimental session (n = 45). Filled blue dots correspond to sessions in which a difference between control and laser was found in at least one direction (two-sided rank sum test for each direction, q < 0.05). Lines indicate bootstrapped 95% confidence intervals. Lower: histogram of differences in hand position in each spatial dimension between laser and control conditions. ( E ) Upper: median delay from lift to grab, laser vs. control; filled dots indicate sessions where a difference between laser and control was detected (two-sided rank sum test, q < 0.05). Lower: histogram of difference between lift-to-grab duration on laser and control trials. ( F ) Upper: probability of initiating a reach, laser vs. control; filled dots represent sessions where a difference between control and laser was detected (chi-square test, q < 0.05). Lower: histogram of difference in reach probability on laser and control trials. ( G ) Upper: success rate on first reach attempt for laser vs. control; filled dots indicate a difference between laser and control (chi-square test, q < 0.05). Lower: histogram of differences between success rate on laser and control trials. ( H ) Upper: standard deviation (summed across forward, left, and up directions) in the position of the hand at grab for laser vs. control trials. Each point corresponds to one experimental session, and filled dots represent sessions where a difference between control and laser was detected in at least one direction (two-sample F-test for equal variances, two-sided, q < 0.05). Lower: histogram of differences in grab position standard deviation between laser and control trials. Note: neural activity in the motor cortex, cerebellar nuclei, or both was also recorded in these sessions.",
+    "original_url": "https://cdn.elifesciences.org/articles/65906/elife-65906-fig5-v1.tif",
+    "sha256": "75a5c0c14e5f80b976b952911d273ad3b86ff8655d20d8c9bca30f9b16d28b3e",
+    "width": 1497,
+    "height": 3233,
+    "display_path": "figures/elife_65906_fig5_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.26
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1497,
+      3233
+    ],
+    "display_sha256": "96b338a5705fa237e2a392f40aa0b9fe748fedee6c19ccc7b827ff907cd014de"
+  },
+  "65906:9": {
+    "path": "figures/elife_65906_fig9.png",
+    "title": "Disrupting cortico-cerebellar communication impairs dexterity",
+    "authors": "Jian-Zhong Guo; Britton A Sauerbrei; Jeremy D Cohen; Matteo Mischiati; Austin R Graves; Ferruccio Pisanello; Kristin M Branson; Adam W Hantman",
+    "first": "Guo",
+    "year": "2021",
+    "doi": "10.7554/eLife.65906",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Guo et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 9. Hand velocity decoding from neural activity in motor cortex and deep cerebellar nuclei (DCN). ( A ) Observed (left column) vs. decoded (center cortex, right DCN) velocity trajectories in each direction for a session with simultaneous recordings. Blue lines represent all trials with pontine nuclei (PN) perturbation (‘laser’) and their mean (thicker line). Orange lines represent all ‘test control’ trials, not used for training the decoder, and their mean. ( B ) Observed vs. decoded mean differences in velocity between laser and control test trials, for each of the sessions with cortical recordings (n = 38). In the heatmaps (left observed, center decoded) rows are sessions, ordered based on the observed mean velocity difference in the forward direction in the 100 ms following lift. Orange regions indicate time points in which the velocity is higher on control trials, and blue regions indicate points in which the velocity is higher on laser trials. The row denoted with a mark is the session shown in ( A ). Right panels show the distribution of rank correlations (Spearman’s ρ) between the observed and decoded differences in velocity over time (i.e., between corresponding rows of the heatmaps). Within each panel, individual correlations and their median (black line) are shown on top, with p-value of the two-sided sign rank test against the null hypothesis of zero median, and histogram of correlation values across sessions is shown at the bottom. ( C ) Same as ( B ), for each of the sessions with DCN recordings (n=10).",
+    "original_url": "https://cdn.elifesciences.org/articles/65906/elife-65906-fig9-v1.tif",
+    "sha256": "2a36f4226b96334148f772a38ca24ba1eac54b19986784a742c016af35473c7f",
+    "width": 1389,
+    "height": 3005,
+    "display_path": "figures/elife_65906_fig9_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.31
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1389,
+      3005
+    ],
+    "display_sha256": "38034fe57bec878dde08508640d2f3c54e46a7d4910b4a4ff1aecdd1bf2b47e7"
+  },
+  "70270:4": {
+    "path": "figures/elife_70270_fig4.png",
+    "title": "Cortico-subcortical β burst dynamics underlying movement cancellation in humans",
+    "authors": "Darcy A Diesburg; Jeremy DW Greenlee; Jan R Wessel",
+    "first": "Diesburg",
+    "year": "2021",
+    "doi": "10.7554/eLife.70270",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Diesburg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. β  burst rates in SMC increase following STN bursts. The left column of plots displays the timing of SMC bursts with respect to subcortical bursts, in 50ms time bins. The right column displays timing of subcortical bursts with respect to SMC bursts. All burst rates were calculated in the 500ms following stop-signal onset (or SSD, for matched-go trials). Each gray dot is the average burst rate per participant in the given time bin. In the STN group, the first STN burst following the stop signal (or SSD, for matched-go trials) was followed within 50ms by bursts in the SMC for stop, but not go, trials. This reliable temporal relationship between STN and SMC bursts during movement cancellation did not follow the opposite pattern – STN bursts did not reliably follow SMC bursts at a specific time point. (Significant comparison key: green stars = comparison between successful stop and go trials; * indicates uncorrected p < 0.05. Effects indicated in the figure are effects of TRIAL TYPE on burst rate at given time points.)",
+    "original_url": "https://cdn.elifesciences.org/articles/70270/elife-70270-fig4-v2.tif",
+    "sha256": "22f705c41de80030e59bac3193370107fc9059acacc39d3a4e7b0e8014210937",
+    "width": 718,
+    "height": 751,
+    "display_path": "figures/elife_70270_fig4_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.36
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      718,
+      751
+    ],
+    "display_sha256": "4253f8c516835ac8321d1b65eceefb7f6d8bff1cfa78f2f8e6b5cacafc918178"
+  },
+  "71464:4": {
+    "path": "figures/elife_71464_fig4.png",
+    "title": "Cerebellum encodes and influences the initiation, performance, and termination of discontinuous movements in mice",
+    "authors": "Michael A Gaffield; Britton A Sauerbrei; Jason M Christie",
+    "first": "Gaffield",
+    "year": "2022",
+    "doi": "10.7554/eLife.71464",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Gaffield et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Modulation of Purkinje cell (PC) simple spiking during the initiation of discontinuous movement. ( A ) Top: plot of the mean lick rate aligned to the time point of the first lick in each water-rewarded trial bout ( n  = 3164 trials of well-isolated licking bouts from 11 mice). The lick patterns for example trials of an individual mouse are also shown with licks indicated by pink tic marks and the time of water allocation indicated in blue. Bottom: histogram of lick-bout initiation times relative to water allocation. For most trials, mice began exploratory licking prior to water delivery (pre water). However, in the remaining trials, mice refrained from licking until after water allocation (post water), which immediately triggered a rapid increase in lick-bout initiations to consume the dispensed droplet. ( B ) The change in simple spiking activity relative to baseline for individual PCs sorted based on their average activity levels within ±200 ms of the first lick in each water-rewarded trial bout. ( C ) Trial-averaged change in simple spike activity for PCs, separated depending on whether mice initiated lick bouts before or after water allocation (pre and post water, respectively). Note the ramps in activity prior to licking. ( D ) Licking rates for bouts separated whether licking began before or after water allocation. ( E, F ) Same as panel C expect for Crus I (panel E) or Crus II (panel F) PCs. (G) Fraction of individual Crus I and II PCs with activity profiles that were either positively (+) or negatively (−) modulated around the time of lick-bout initiation, separated depending on whether licking began before or after water allocation (pre and post water, respectively). ( H ) Comparison of the onset times of activity ramping, relative to the first lick in trial bouts, for PCs whose activity positively modulated around lick-bout initiation. Data from each lobule were grouped together for statistical comparison (pre water:  n  = 42 PCs from 10 mice; post water:  n  = 11 PCs from 7 mice). Asterisk indicates significance (p = 0.0129, Student’s  t -test). See also  Figure 4—source data 1 . Figure 4—source data 1. Source data for  Figure 1H .",
+    "original_url": "https://cdn.elifesciences.org/articles/71464/elife-71464-fig4-v2.tif",
+    "sha256": "22ee52a33fc23a454385208e9038f3a4e7db4956d4a8745a7dea09b80922158e",
+    "width": 2300,
+    "height": 2038,
+    "display_path": "figures/elife_71464_fig4_panels.png",
+    "panel_crop_box": [
+      0.41,
+      0,
+      0.713,
+      0.65
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2300,
+      2038
+    ],
+    "display_sha256": "9b126cb3600ea0c8aeb3a87b69fc3f4a5ff3739b37ab283f77cdf0b0064f17fc"
+  },
+  "71464:7": {
+    "path": "figures/elife_71464_fig7.png",
+    "title": "Cerebellum encodes and influences the initiation, performance, and termination of discontinuous movements in mice",
+    "authors": "Michael A Gaffield; Britton A Sauerbrei; Jason M Christie",
+    "first": "Gaffield",
+    "year": "2022",
+    "doi": "10.7554/eLife.71464",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Gaffield et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 7. Optogenetic perturbation of Purkinje cell (PC) activity degrades the performance of discontinuous movements. ( A ) Left: extracellular electrophysiological measurements were obtained from ChR2-expressing PCs in response to photostimulation. Right: optogenetically induced simple spiking in a PC (light pulses indicated in blue). Red lines show the means for each epoch. ( B ) Summary plot of mean simple spike rate across PCs ( n  = 6) before, during, and after the optogenetic stimulus. Asterisk indicates significance (p < 0.0001, ANOVA with Tukey’s post-test). ( C ) In mice with ChR2-expressing PCs, Crus II was bilaterally photostimulated during the interval task. ( D ) The effect of bilateral optogenetic PC activity perturbation on lick rate (blue) in unrewarded trials ( n  = 9 sessions, 3 mice). The photostimulus was timed to the period of peak licking, as referenced by interleaved control trials (black). Only well-isolated bouts were included in the analysis. ( E ) Summary of lick rate variability during optogenetic perturbation of PC activity. The  y -axis is scaled logarithmically. Data include trials with bilateral photostimulation of Crus II ( n  = 9 sessions, 3 mice), trials with unilateral photostimulation of Crus I or II ( n  = 12 sessions, 4 mice), and trials in control mice where blue light was delivered bilaterally to the cerebellum but PCs did not express ChR2 ( n  = 6 sessions, 2 mice). Asterisks indicate significant differences during photostimulation trials (p = 0.0228 and 0.0199 for the unilateral and bilateral photostimulation conditions, respectively; ANOVA with Tukey’s post-test). ( F ) Same as panel D but with the photostimulus timed to the period of earliest lick-bout initiations. Note the absence of licking during photostimulation and the large increase in licking immediately after photostimulation ended ( n  = 11 sessions, 3 mice). ( G ) Histogram of lick-bout initiation times for control and optogenetic stimulation trials (same data as panel F). A clear increase in licking probability is apparent after photostimulus ended. Only well-separated lick bouts were included (>2 s of prior nonlicking). ( H ) Summary of the effect of optogenetic PC activity perturbation on licking behavior during task performance. Asterisks indicate a significant reduction in licking during photostimulation (On: p = 0.0079 and p = 0.0486 for unilateral and bilateral stimuli, respectively; ANOVA with Tukey’s correction for multiple comparisons) and a significant increase during the rebound period for bilateral stimulation (Rb: p = 0.0034, ANOVA with Tukey’s correction for multiple comparisons). In the control condition, light stimuli were delivered to the cerebellum of non-ChR2-expressing animals ( n  = 12 sessions, 2 mice). See also  Figure 7—source data 1 . Figure 7—source data 1. Source data for  Figure 7B, E and H .",
+    "original_url": "https://cdn.elifesciences.org/articles/71464/elife-71464-fig7-v2.tif",
+    "sha256": "883974c782bc7b13b65f2ddb150231c10bee3c7d1e777d7f4f716394444d89df",
+    "width": 1930,
+    "height": 2016,
+    "display_path": "figures/elife_71464_fig7_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.3
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1930,
+      2016
+    ],
+    "display_sha256": "ca8e39ae351d7152c584b12cfed9a16e67e3680ba1a084cc76239ed7ceca4f3e"
+  },
+  "74478:1": {
+    "path": "figures/elife_74478_fig1.png",
+    "title": "Stability of motor representations after paralysis",
+    "authors": "Charles Guan; Tyson Aflalo; Carey Y Zhang; Elena Amoruso; Emily R Rosario; Nader Pouratian; Richard A Andersen",
+    "first": "Guan",
+    "year": "2022",
+    "doi": "10.7554/eLife.74478",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Guan, Aflalo et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Robust brain–computer interface (BCI) control of individual fingers. ( a ) Main finger flexion task. When a letter was cued by the red crosshair, the participant looked at the cue and immediately attempted to flex the corresponding finger of her right (contralateral) hand. We included a null condition ‘X’, during which the participant looked at the target but did not move her fingers. Visual feedback indicated the decoded finger 1.5 s after cue presentation. To randomize the gaze location, cues were located on a grid (three rows, four columns) in a pseudorandom order. The red crosshair was jittered to minimize visual occlusion. ( b ) Confusion matrix showing robust BCI finger control (86% overall accuracy, 4016 trials aggregated over 10 sessions). Each entry ( i ,  j ) in the matrix corresponds to the ratio of movement  i  trials that were classified as movement  j . ( c–f ) Mean firing rates for four example neurons, color-coded by attempted finger movement. Shaded areas indicate 95% confidence intervals (across trials of one session). Gaussian smoothing kernel (50 ms standard deviation [SD]).",
+    "original_url": "https://cdn.elifesciences.org/articles/74478/elife-74478-fig1-v2.tif",
+    "sha256": "d71d0c8c06a9a08c24bc24880c0aa0ab4d4ca3a39911e254643b81acd2d62ff4",
+    "width": 2187,
+    "height": 2054,
+    "display_path": "figures/elife_74478_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.5
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2187,
+      2054
+    ],
+    "display_sha256": "2d7f40919f0289914ea7ad4924f88180e2bf10008b6a05a6bdc368eb0c25e6af"
+  },
+  "74478:4": {
+    "path": "figures/elife_74478_fig4.png",
+    "title": "Stability of motor representations after paralysis",
+    "authors": "Charles Guan; Tyson Aflalo; Carey Y Zhang; Elena Amoruso; Emily R Rosario; Nader Pouratian; Richard A Andersen",
+    "first": "Guan",
+    "year": "2022",
+    "doi": "10.7554/eLife.74478",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Guan, Aflalo et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Representational dynamics analysis (RDA) dissociates neural processes over time. ( a ) RDA performs representational similarity analysis (RSA) in a sliding window across time. Here, we model the measured representational structure as a non-negative linear combination of component model representational dissimilarity matrices (RDMs). ( b–d ) Hypothesized explanatory component RDMs: usage, muscle, and somatotopy ( Ejaz et al., 2015 ). Max-scaled to [0, 1]. ( e ) RDA of the measured RDM over time shows an early fit to the muscle model and a late fit to the somatotopy model. Confidence intervals indicate ± standard error of the mean (SEM) bootstrapped across 10 sessions. Gray shaded region indicates the approximate onset time of the saccade to cue (interquartile range across trials). Difference in model start time (170 ms, Methods) was significant (p = 0.002, two-sided Wilcoxon signed-rank test). RDM snapshots (bottom, each max-scaled to [0, 1]) intuitively visualize the change in representational structure over time from muscle-like to somatotopic.",
+    "original_url": "https://cdn.elifesciences.org/articles/74478/elife-74478-fig4-v2.tif",
+    "sha256": "54e858ab105f5f2c0a58716ae8bb36ae65ec1c59a8888e127d923f0d2a4d2f89",
+    "width": 2166,
+    "height": 2965
+  },
+  "77513:5": {
+    "path": "figures/elife_77513_fig5.png",
+    "title": "Non-shared coding of observed and executed actions prevails in macaque ventral premotor mirror neurons",
+    "authors": "Jörn K Pomper; Mohammad Shams; Shengjun Wen; Friedemann Bunjes; Peter Thier",
+    "first": "Pomper",
+    "year": "2023",
+    "doi": "10.7554/eLife.77513",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Pomper, Shams, Wen et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 5. Distribution of shared and non-shared codes across time bins and neurons. ( A ) The bins in which observed actions were encoded are shown for all neurons with at least one such bin (rows) across relative time (columns). Bins are classified into bins with shared code, bins with non-shared code, and bins that do not distinguish actions at all when executed (obs only). Neurons are ordered by (1) occurrence of at least one shared vs. no shared bin, (2) first occurrence of shared bin, (3) number of shared bins, (4) first occurrence of non-shared or obs only bin, (5) number of non-shared or obs only bins. Left: action preference method, Right: cross-task classification method using LDA. Numbers to the left indicate the ID of each neuron. For the abbreviations of the events, see  Figure 2 . ( B ) Count of action segments of consecutive bins with shared or non-shared (including obs only) codes separately for the two methods (top and middle). Segments indicated by light gray did not occur (bottom). ( C ) As B, but count of action segments normalized to the total number of bins of one code type. ( D ) Percentages of MNs with segments consisting of one bin with a shared code. Methods and gray bars as in  Figure 3D . ( E ) Normalized count of segments depending on starting position (left) and duration (right), separately for the two methods.",
+    "original_url": "https://cdn.elifesciences.org/articles/77513/elife-77513-fig5-v2.tif",
+    "sha256": "3074bbcab6b0b8b9d0243de5b5b91d1019e5087bf5f3b00b257fe56071871c52",
+    "width": 2175,
+    "height": 2879,
+    "display_path": "figures/elife_77513_fig5_panels.png",
+    "panel_crop_box": [
+      0.45,
+      0,
+      1,
+      0.245
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2175,
+      2879
+    ],
+    "display_sha256": "b0986a4dc4af0c814d3f2a3cdbdf0a93a7a21c23f0b0c482a782e017e647d2c7"
+  },
+  "83108:5": {
+    "path": "figures/elife_83108_fig5.png",
+    "title": "Cerebrospinal fluid-contacting neuron tracing reveals structural and functional connectivity for locomotion in the mouse spinal cord",
+    "authors": "Yuka Nakamura; Miyuki Kurabe; Mami Matsumoto; Tokiharu Sato; Satoshi Miyashita; Kana Hoshina; Yoshinori Kamiya; Kazuki Tainaka; Hitoshi Matsuzawa; Nobuhiko Ohno; Masaki Ueno",
+    "first": "Nakamura",
+    "year": "2023",
+    "doi": "10.7554/eLife.83108",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Nakamura et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 5. Electrophysiological recording with optogenetic stimulation reveals recurrent cerebrospinal fluid-contacting neuron (CSF-cN) connections. ( A ) Diagram of electrophysiological recording of  Pkd2l1 -GFP +  CSF-cNs and blue light stimulation of ChR2-mCherry +  axons of caudally located CSF-cNs in spinal slices of  Pkd2l1-Cre ;CAG-lcl-EGFP mice. ChR2-mCherry was introduced by local injection of adeno-associated virus (AAV)-Syn-DIO-ChR2-mCherry (or AAV-Syn-DIO- mCherry for controls) into the caudal thoracic cord. The right panels are images of patched  Pkd2l1 -GFP +  CSF-cNs. Scale bar, 25 µm. ( B ) Representative inhibitory postsynaptic current (IPSC) responses of two recorded  Pkd2l1 -GFP +  CSF-cNs evoked by a blue light stimulation (10 ms, blue). ( C ) Representative IPSCs of  Pkd2l1 -GFP +  CSF-cN, blocked under 20 µM bicuculline treatment. ( D ) No IPSCs were evoked in the control spinal cord injected with AAV-Syn-DIO-mCherry. Blue bars indicate blue light pulses.",
+    "original_url": "https://cdn.elifesciences.org/articles/83108/elife-83108-fig5-v2.tif",
+    "sha256": "64ee02bf355712fb59f7c5263b55f4988550f218fe29bae1a4993ff299876d78",
+    "width": 1776,
+    "height": 1065
+  },
+  "83108:7": {
+    "path": "figures/elife_83108_fig7.png",
+    "title": "Cerebrospinal fluid-contacting neuron tracing reveals structural and functional connectivity for locomotion in the mouse spinal cord",
+    "authors": "Yuka Nakamura; Miyuki Kurabe; Mami Matsumoto; Tokiharu Sato; Satoshi Miyashita; Kana Hoshina; Yoshinori Kamiya; Kazuki Tainaka; Hitoshi Matsuzawa; Nobuhiko Ohno; Masaki Ueno",
+    "first": "Nakamura",
+    "year": "2023",
+    "doi": "10.7554/eLife.83108",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Nakamura et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 7. Chemogenetic inhibition of cerebrospinal fluid-contacting neurons (CSF-cNs) impairs treadmill locomotion. ( A ) The experimental system to analyze treadmill locomotion. Trajectories of fore- and hind-paw were tracked by DeepLabCut and kinematic parameters including step and stride lengths were analyzed by KinemaTracer. ( B–F ) Analyses of treadmill locomotion pre- and post-inactivation of hM4Di +  CSF-cNs by clozapine-N-oxide (CNO) treatment.  Pkd2l1-Cre  mice were intracerebroventricularly injected with adeno-associated virus (AAV)-Syn-DIO-hM4Di-mCherry to introduce hM4Di-mCherry. ( B ) Maximum treadmill speeds in a program increasing from 8.33 to 58.33 cm/s (5.0–35 m/min). ( C–F ) Circular phase plots representing phase values of the left fore- and hind-paw contacts between two right paw contacts and r ( C ), step frequency ( D ), stride lengths ( E ), and step lengths ( F ) of the left fore- and hindlimbs at a speed of 23.3 cm/s (14 m/min). CNO-treated groups are represented in blue. ( G–K ) Analyses of treadmill locomotion of AAV-Syn-DIO-hM4Di-mCherry-injected wild-type (WT) mice pre- and post-CNO treatment. Maximum treadmill speeds ( G ), circular phase plots ( H ), step frequency ( I ), stride lengths ( J ), and step lengths ( K ) of the left fore- and hindlimbs. ( L, M ) Average number of fault placements in the ladder walk test pre- and post-CNO treatment in AAV-Syn-DIO-hM4Di-mCherry-injected  Pkd2l1-Cre  ( L ) and WT mice ( M ). ( N, O ) The number of slips in five runs of the beam walk test pre- and post-CNO treatment in AAV-Syn-DIO-hM4Di-mCherry-injected  Pkd2l1-Cre  ( N ) and WT mice ( O ). Paired t-test ( B , D–F ,  G ,  I–M ), Wilcoxon matched-pairs signed rank test ( N, O ); *p<0.05, ** p<0.01; the mean ± standard error of the mean (SEM); n=7 ( B–L, N ), n=6 ( M, O ). Figure 7—source data 1. Raw data for maximum treadmill speeds, circular phase plots, step frequency, stride lengths, step lengths, the ladder walk test, and the beam walk test.",
+    "original_url": "https://cdn.elifesciences.org/articles/83108/elife-83108-fig7-v2.tif",
+    "sha256": "86bca65b080a1b9df7837d8f442d4049a4ff957885a261a848c148bad2a94779",
+    "width": 2353,
+    "height": 2300,
+    "display_path": "figures/elife_83108_fig7_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.165
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2353,
+      2300
+    ],
+    "display_sha256": "0a97ad564642fd2cf1694d868aeb9012ba039f43d7901c3b26d4e9d9764ad6e5"
+  },
+  "91483:1": {
+    "path": "figures/elife_91483_fig1.png",
+    "title": "Cerebellar nuclei cells produce distinct pathogenic spike signatures in mouse models of ataxia, dystonia, and tremor",
+    "authors": "Meike E van der Heijden; Amanda M Brown; Dominic J Kizek; Roy V Sillitoe",
+    "first": "van der Heijden",
+    "year": "2024",
+    "doi": "10.7554/eLife.91483",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "van der Heijden, Brown et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Supervised classifier model predicts mouse phenotype based on spike signatures. ( A ) Schematic of network changes causing motor impairments in mouse models for ataxia, dystonia, and tremor. Dotted lines indicate lack of neurotransmission. Color-coded lines indicate primary affected cell type. ( B ) Example of spike firing rate averaged over previous 50 ms at each occurring spike for the 5 s spike train in ( B’ ). ( B’’ ) 1 s spike train for the duration indicated in the square box in ( B’ ). ( C ) Histograms of instantaneous firing rate (ISI –1 ) of the full 30 s spike train used in the classification model. We indicate the firing rate (spikes/s), median ISI –1 , skewness, and ISI >25  for all for example cells. ( D ) Classifier model based on training data set (control: n = 25 cells; ataxia: n = 20; dystonia: n = 20; tremor: n = 20). ( E ) Assigned spike signature based on spike properties in complete data set (control: n = 33 cells, N = 9 mice; ataxia: n = 24, N = 5; dystonia: n = 24, N = 9; tremor: n = 24, N = 6). Categories on x-axis indicate the origin of the recorded neurons. ( F, G ) Scatterplot of spike train parameters used to classify neural signatures. Colored boxes indicate the predicted phenotype, colors of circles indicate the origin of the recorded neurons. PC = Purkinje cell; CN = cerebellar nuclei; IO/CF = inferior olive/climbing fiber. Figure 1—source data 1. Source data for the graphs in  Figure 1  and its figure supplements.",
+    "original_url": "https://cdn.elifesciences.org/articles/91483/elife-91483-fig1-v1.tif",
+    "sha256": "076f47f62917a49343ba42f1f719b6f242d2631493a2141eeb631a329a35b8c6",
+    "width": 2830,
+    "height": 3323,
+    "display_path": "figures/elife_91483_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.27
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2830,
+      3323
+    ],
+    "display_sha256": "5b8ebf394f8233c6231a89819ce2a47c4f6b6b94f08a5cf0059daca052642fee"
+  },
+  "91483:6": {
+    "path": "figures/elife_91483_fig6.png",
+    "title": "Cerebellar nuclei cells produce distinct pathogenic spike signatures in mouse models of ataxia, dystonia, and tremor",
+    "authors": "Meike E van der Heijden; Amanda M Brown; Dominic J Kizek; Roy V Sillitoe",
+    "first": "van der Heijden",
+    "year": "2024",
+    "doi": "10.7554/eLife.91483",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "van der Heijden, Brown et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 6. Induced spike signatures elicit distinct cerebellar phenotypes. ( A ) Schematic of external view of bilateral optical fiber implant. ( B ) Schematic of a coronal section from a mouse cerebellum with bilateral optic fiber implants directed towards the cerebellar nuclei. FN = fastigial nucleus; IN = interposed nucleus; DN = dentate nucleus. ( C ) Photomicrograph of a Nissl-stained coronal section from a mouse cerebellum that had been implanted with optic fibers. Arrows = optic fiber tracks. Dotted lines surround the cerebellar nuclei indicated in ( B ). Scale = 1 cm. ( D ) Schematic of a mouse with bilateral optic fiber implants freely moving in a tremor monitor. ( E–K ) Data associated with gait measurements. ( E–H ) Example footprints from a single mouse before stimulation (baseline,  E ) and during ataxia ( F ), dystonia ( G ), and tremor stimulation ( H ). Scale = 1 cm. ( I–K ) Measurements of gait including the length of the hindpaw stride ( I ), forepaw stride ( J ), and distance between the hind and forepaws ( K ). N = 8 mice. * = p≤0.05; ** = p≤0.01. ( L ) Example images of phenotypes associated with dystonia. 1 = erect tail; 2 = high stepping; 3 = kinked tail; 4 = hyperextension of the limbs; 5 = splayed toes. ( M ) Dystonia rating of mice before stimulation and during stimulation with each paradigm. N = 8 mice. * = p≤0.05. ( N ) Tremor signals detected via tremor monitor from a mouse before and during stimulation with each paradigm. Horizontal scale = 1 s. Vertical scale = 50 mV. ( O ) Population average power spectrums of tremor. Solid line = mean power. Shaded region = SEM. ( P ) Peak tremor power of mice before and during stimulation with each paradigm. N = 8 mice. * = p≤0.05; ** = p≤0.01. ( Q–S ) 2-dimensional comparisons of gait (hind to fore distance), dystonia (rating), and tremor (peak power) measurements from all mice. N = 8 mice. ( T ) 3-dimensional plot of data in ( Q–S ). Figure 6—source data 1. Source data for the graphs in  Figure 6 .",
+    "original_url": "https://cdn.elifesciences.org/articles/91483/elife-91483-fig6-v1.tif",
+    "sha256": "328abf225a45b9182cfd1075e461b9b1eb00d55f61fda4d357fc30f64ad8a6e7",
+    "width": 2409,
+    "height": 2599,
+    "display_path": "figures/elife_91483_fig6_panels.png",
+    "panel_crop_box": [
+      0.57,
+      0.18,
+      0.772,
+      0.59
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2409,
+      2599
+    ],
+    "display_sha256": "bd0eb420aca94d3a7e450f0efe11a074e87454bf688ff9872b279a1b95d31677"
+  }
+}

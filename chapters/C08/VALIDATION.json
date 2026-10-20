@@ -1,0 +1,46 @@
+{
+  "slides": 75,
+  "content_slides": 73,
+  "book_chapter": 8,
+  "foundation_slides": 29,
+  "research_slides": 44,
+  "primary_figure_slides": 44,
+  "embedded_distinct_mp4s": 40,
+  "academic_recordings": 20,
+  "visual_recordings": 20,
+  "recordings_per_content_quarter": [
+    10,
+    10,
+    10,
+    10
+  ],
+  "maximum_video_free_content_gap": 1,
+  "recordings_in_final_ten_content_slides": 6,
+  "paragraphs": 219,
+  "rendered_paragraphs_passing": 219,
+  "generic_failures": 0,
+  "course_failures": 0,
+  "full_recording_decodes_passed": 40,
+  "original_movie_bytes_retained": 40,
+  "compatibility_conversions": 0,
+  "source_hashes_and_native_resolution_frame_rate_audio_verified": true,
+  "embedded_hashes_relationships_and_timing_verified": true,
+  "all_slides_visually_reviewed": true,
+  "source_figure_panels_reviewed": true,
+  "fonts": [
+    "BAAAAA+ArialMT",
+    "CAAAAA+Arial-BoldMT"
+  ],
+  "static_pdf_multimedia_annotations": 0,
+  "desktop_powerpoint_playback_tested": false,
+  "pptx": {
+    "filename": "From_Intention_to_Action_Control_of_Movement_Chapter_8.pptx",
+    "bytes": 225557871,
+    "sha256": "863290770a0694b5759bcf86880e3ef6f9e624365bbd83bb6fced209903b46e8"
+  },
+  "static_pdf": {
+    "filename": "From_Intention_to_Action_Control_of_Movement_Chapter_8_Static.pdf",
+    "bytes": 10617164,
+    "sha256": "8c9167a01fdd9d1053a2d11631ddd3649fa4e8076324c17d606326d2a4f29f3f"
+  }
+}

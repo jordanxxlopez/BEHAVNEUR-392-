@@ -1,0 +1,586 @@
+[
+  {
+    "title": "Movement requires force, coordination, and a goal",
+    "body": [
+      "**Motor control** is the organization of muscle activity to produce useful actions. Reaching for a cup requires more than activating the arm. The nervous system must position the body, move the hand toward the target, shape the fingers, and regulate grip force as contact changes the mechanical load.",
+      "The same muscle can contribute to different actions depending on which other muscles contract and how the joints are positioned. Motor commands therefore act on a moving mechanical system. Tendons, bones, muscle elasticity, and gravity influence the movement produced by a particular pattern of neural activity.",
+      "**Sensory feedback** provides information about the movement as it occurs, while predictive commands begin adjusting the body before that feedback returns. A rapid reach combines both processes. Early commands launch the limb, and later sensory information helps correct its trajectory, stabilize contact, and determine when the action is complete."
+    ]
+  },
+  {
+    "title": "Muscles pull across joints to produce movement",
+    "body": [
+      "Skeletal muscles transmit force to bones through **tendons**, strong bands of connective tissue. When a muscle develops tension, the force can rotate a joint or oppose an external load. Muscles actively pull rather than push, so opposing groups are needed to control movement in different directions.",
+      "**Flexion** generally decreases the angle at a joint, while **extension** increases it. At the elbow, flexor and extensor muscles produce opposing rotations. The muscle producing the intended action is an agonist; a muscle capable of opposing that action is an antagonist, with their roles changing across the task.",
+      "Simultaneously activating opposing muscles can increase joint stiffness without producing a large net movement. This **co-contraction** helps resist unexpected disturbances but consumes energy. Moving efficiently requires adjusting both the net force that moves the limb and the background activation that stabilizes it against external forces."
+    ]
+  },
+  {
+    "title": "Muscle contains force-producing fibers and sensory organs",
+    "body": [
+      "A skeletal muscle contains many **muscle fibers**, long cells specialized for contraction. Most are extrafusal fibers, which generate the muscle’s useful pulling force. Axons of **alpha motor neurons** activate these fibers, carrying the final neural commands from the spinal cord or brainstem to the muscle tissue.",
+      "**Muscle spindles** are sensory organs containing smaller intrafusal fibers within a capsule. They lie among the force-producing fibers and detect mechanical changes as the muscle is stretched. Their sensory axons carry information toward the spinal cord, providing feedback that differs from the outgoing command carried by a motor axon.",
+      "Gamma motor neurons innervate the contractile ends of intrafusal fibers. Their action changes how the spindle’s sensory region is stretched, regulating its sensitivity during movement. The muscle therefore contains separate neural routes for generating external force, measuring its changing mechanical state, and adjusting the sensitivity of that measurement."
+    ]
+  },
+  {
+    "title": "Myosin moves actin through repeated ATP-driven cycles",
+    "body": [
+      "Each muscle fiber contains **myofibrils**, bundles of contractile machinery organized into repeating units called sarcomeres. Within a sarcomere, thin actin filaments overlap with thicker myosin filaments. Muscle shortening occurs when these filaments slide past one another, increasing their overlap rather than requiring each filament to become shorter.",
+      "Myosin heads attach to actin and change their orientation to generate force. Binding **ATP**, the cell’s transferable energy carrier, allows a head to detach. ATP breakdown then prepares the head for another cycle, so repeated attachment and movement can sustain tension while the muscle is activated.",
+      "Calcium controls access to the binding sites on actin through regulatory proteins, including troponin and tropomyosin. When cytoplasmic calcium rises, these proteins permit myosin to interact with actin. When calcium is removed, the sites become less available and active force decreases, even though the contractile filaments remain present."
+    ]
+  },
+  {
+    "title": "Acetylcholine activates the muscle at the motor endplate",
+    "body": [
+      "The **neuromuscular junction** is the synapse between a motor axon and a skeletal muscle fiber. An arriving nerve impulse opens presynaptic calcium channels and triggers release of **acetylcholine**. The transmitter crosses a narrow cleft and binds receptors concentrated in the muscle’s motor endplate membrane.",
+      "These **nicotinic acetylcholine receptors** are ion channels that open when transmitter binds. Their current depolarizes the muscle membrane, producing an endplate potential. In a healthy junction, this response normally reaches the threshold for a muscle action potential that propagates away from the endplate along the fiber.",
+      "**Acetylcholinesterase** breaks down acetylcholine in the cleft, helping terminate receptor activation between motor impulses. The muscle’s response therefore depends on release, receptor availability, and transmitter removal. A defect at this synapse can weaken contraction even when the motor neuron fires and the muscle’s internal contractile proteins remain intact."
+    ]
+  },
+  {
+    "title": "Human muscle and motor neurons form working junctions",
+    "body": [
+      "Afshar Bakooshli and colleagues combined human muscle progenitor cells with motor neurons derived from pluripotent stem cells. **Pluripotent** cells can be directed toward several cell identities under controlled culture conditions. In a three-dimensional arrangement, the muscle cells and neuronal endings developed functional neuromuscular contacts.",
+      "The researchers stimulated the motor neurons with glutamate and measured calcium responses in the muscle fibers. Glutamate activates the cultured neurons, which then communicate with muscle through acetylcholine. This sequence distinguishes indirect activation through a neuromuscular junction from simply applying acetylcholine directly to the muscle membrane.",
+      "Electrical measurements and microscopy complemented the calcium recordings. The three-dimensional co-cultures also developed activity associated with the adult epsilon-containing acetylcholine receptor. Culturing the two cell types together therefore altered both functional transmission and receptor maturation, rather than merely placing a nerve-shaped process near a muscle-shaped cell."
+    ]
+  },
+  {
+    "title": "Blocking release or receptors interrupts the same pathway",
+    "body": [
+      "The human neuromuscular co-culture provides two places where a treatment can interrupt transmission. **Botulinum toxin** interferes with the presynaptic machinery needed for acetylcholine release. **Tubocurarine** blocks nicotinic receptors on the muscle side, preventing released acetylcholine from producing its normal endplate current.",
+      "In the co-culture experiments, both treatments blocked muscle contractions normally evoked by stimulating the motor neurons with glutamate. The same visible loss of contraction could therefore arise before or after transmitter release. The treatment’s known target identifies which step of the neuron-to-muscle sequence was interrupted.",
+      "The investigators also applied patient antibodies to examine myasthenia-related dysfunction in the system. **Antibodies** are proteins that recognize particular molecular targets, and some can disrupt neuromuscular transmission. Comparing neuronal stimulation with direct muscle stimulation helps determine whether a reduced response reflects impaired communication or a broader failure of the muscle itself."
+    ]
+  },
+  {
+    "title": "A muscle action potential releases stored calcium",
+    "body": [
+      "The muscle action potential travels along the surface membrane and into **transverse tubules**, membrane invaginations that carry voltage changes deep into the fiber. This arrangement brings an electrical signal close to the contractile machinery throughout a large cell, rather than leaving activation restricted to its outer surface.",
+      "In skeletal muscle, voltage-sensing proteins in these tubules activate calcium-release channels in the **sarcoplasmic reticulum**, an internal calcium store. Calcium is released into the cytoplasm and allows actin–myosin interaction. The main rapid source is this intracellular store; it should not be confused with calcium entry triggering transmitter release from the motor neuron.",
+      "After activation, ATP-dependent pumps return calcium to the sarcoplasmic reticulum. Cytoplasmic calcium falls, regulatory proteins again limit actin access, and the fiber relaxes. Both generating force and restoring the resting state therefore require energy, with electrical excitation, calcium release, and filament movement representing distinct steps."
+    ]
+  },
+  {
+    "title": "Engineered myobundles turn electrical input into force",
+    "body": [
+      "Madden and colleagues built **myobundles**, three-dimensional human muscle tissues containing aligned, multinucleated fibers. The alignment allows the fibers to pull in a common direction. The resulting construct can generate measurable force, allowing investigators to compare its mechanical behavior with the calcium signals accompanying electrical activation.",
+      "Electrical stimulation produced individual twitches at lower repetition rates and more sustained contractions at higher rates. A **twitch** is the mechanical response to a brief activation. Repeated activation before complete relaxation allows the responses to overlap, increasing force without requiring the muscle fibers to be replaced or enlarged between successive stimuli.",
+      "The investigators measured force and fluorescence from a genetically encoded calcium indicator in the same type of tissue. Larger calcium responses were associated with greater contractile output. The indicator reports intracellular calcium rather than force directly, so the mechanical measurement is needed to establish how strongly the construct actually pulls."
+    ]
+  },
+  {
+    "title": "Caffeine tests calcium release within surviving muscle",
+    "body": [
+      "The myobundle experiments separated membrane receptor activation from release of calcium inside the muscle. **Caffeine** can promote calcium release through ryanodine receptors in the internal store. Applying it therefore probes a different part of the excitation–contraction sequence from applying acetylcholine to receptors at the cell surface.",
+      "Caffeine increased calcium-indicator fluorescence in the engineered human tissues. Acetylcholine also produced calcium responses, while tubocurarine reduced the receptor-dependent response. Comparing these manipulations helps identify whether a treatment acts on surface excitation, internal calcium handling, or the later machinery that converts activation into mechanical force.",
+      "The cultured fibers matured over time, developing stronger force generation and improved calcium handling. The study also examined responses to drugs with different effects on muscle growth and injury. Maintaining both receptor responses and contractile measurements makes it possible to detect dysfunction that would be missed by counting surviving cells alone."
+    ]
+  },
+  {
+    "title": "Motor units regulate how much muscle is recruited",
+    "body": [
+      "A **motor unit** consists of one alpha motor neuron and all the muscle fibers it innervates. When that neuron fires, its associated fibers receive neuromuscular input together. A muscle contains many units, so recruiting additional motor neurons increases the amount of muscle tissue contributing to the contraction.",
+      "Force also changes when active motor neurons fire more frequently. Because a twitch lasts longer than the electrical impulse that initiated it, repeated inputs can produce overlapping mechanical responses. Recruitment of more units and changes in their firing rates are therefore separate ways to increase the muscle’s total tension.",
+      "Motor units differ in the force and fatigue properties of their fibers. Units recruited for low-force sustained actions are not interchangeable with units contributing powerful brief contractions. The nervous system adjusts the active population and its discharge patterns to match a task’s force, duration, and precision requirements."
+    ]
+  },
+  {
+    "title": "Electrical stimulation can improve dystrophic muscle",
+    "body": [
+      "**Duchenne muscular dystrophy** results from loss of normal dystrophin function, weakening the mechanical stability of muscle fibers. Kilroy and colleagues used zebrafish carrying a dystrophin mutation to examine whether repeated neuromuscular electrical stimulation could improve the condition of already vulnerable muscle tissue.",
+      "They compared several stimulation schedules rather than assuming that more activation was always beneficial. An endurance-oriented schedule improved muscle structure, neuromuscular junction morphology, swimming performance, and survival in the tested fish. Other stimulation patterns did not produce the same combined benefit across the measured outcomes.",
+      "The improvement required heme oxygenase and integrin alpha7, proteins involved in cellular stress responses and attachment to surrounding tissue. Altering these components prevented the benefit under the tested conditions. The pattern of activity therefore acted through specific biological processes in the diseased muscle rather than merely increasing visible movement during stimulation."
+    ]
+  },
+  {
+    "title": "Predictive commands compensate for lost local feedback",
+    "body": [
+      "A moving animal combines **feedforward control**, commands prepared before the immediate sensory consequence arrives, with ongoing feedback. Gordon and colleagues examined guinea fowl after a leg muscle was self-reinnervated. This procedure restored motor activation while disrupting the muscle’s normal local proprioceptive feedback route.",
+      "The reinnervated muscle generated broadly similar steady-running mechanical output and adjusted its work when the birds encountered obstacles. Its activation began earlier than in the intact condition. Earlier activation can prepare the muscle’s force before foot contact, partially compensating for information that can no longer arrive through its original reflex pathway.",
+      "The duration of activation was less normally adjusted after feedback loss. Preserved overall performance therefore did not mean that every component of control was unchanged. Predictive timing, the muscle’s intrinsic mechanics, and remaining sensory pathways could maintain important aspects of locomotion while the regulation of force duration remained impaired."
+    ]
+  },
+  {
+    "title": "Spindles sense length; tendon organs sense tension",
+    "body": [
+      "**Muscle spindle afferents** respond when their sensory region is stretched, providing information influenced by muscle length and its rate of change. Their response also depends on the muscle’s activation and recent mechanical history. A spindle is therefore part of a mechanically coupled sensory organ rather than a simple ruler attached to a joint.",
+      "**Golgi tendon organs** lie within tendons and respond to tension transmitted by the muscle. This force-related signal differs from measuring the muscle’s length. Holding a weight can increase tendon-organ activity even when the limb angle stays nearly constant, because opposing the load requires the muscle to develop additional tension.",
+      "The two receptor systems can change differently during passive stretching and active contraction. A contracting muscle may shorten while its tendon carries increasing force. The spinal cord receives both signals, allowing it to regulate activation using information about the muscle’s mechanical state and the load transmitted to the skeleton."
+    ]
+  },
+  {
+    "title": "Spindle signals emerge from the mechanics of their fibers",
+    "body": [
+      "Blum and colleagues developed a **biophysical model** of muscle spindle signaling, using known contractile and mechanical properties rather than assigning a fixed response to each movement. The model connects force within the intrafusal fibers to the activity expected from the primary spindle afferent.",
+      "The modeled receptor reproduced several response patterns observed in experiments, including sensitivity to stretch velocity and dependence on earlier movements. Different mechanical conditions produced signals that resembled length, force, or rapid changes in force. A single afferent’s activity therefore need not correspond to the same isolated movement variable under every condition.",
+      "This is a model-based explanation tested against physiological behavior, rather than a demonstration that a receptor consciously selects which quantity to encode. The underlying muscle mechanics change the force reaching its sensory ending. Interpreting a spindle response requires knowing the imposed movement, activation, and recent history of the preparation."
+    ]
+  },
+  {
+    "title": "Recent movement changes the next spindle response",
+    "body": [
+      "A spindle’s response to a stretch can depend on whether the muscle recently shortened, remained still, or experienced another stretch. This **history dependence** arises because the mechanical state of its contractile elements changes over time. The same joint displacement can therefore reach the receptor through a different internal mechanical state.",
+      "The spindle model reproduced response changes associated with the attachment and detachment of contractile cross-bridges. These attachments alter the force generated during a later stretch. A large initial response after a pause can emerge from the tissue’s mechanics rather than requiring a separate neural instruction for each burst of afferent firing.",
+      "Alpha and gamma activation also change how forces are distributed between the whole muscle and the spindle. During active contraction, the receptor’s output can diverge from what its response to passive stretch would predict. A sensory signal recorded during walking must therefore be interpreted within the actively contracting muscle that generates it."
+    ]
+  },
+  {
+    "title": "Sensory identity helps establish the correct spinal contacts",
+    "body": [
+      "Shin and colleagues examined how muscle sensory neurons make appropriate connections with spinal motor neurons. They studied **Hox transcription factors**, proteins that regulate gene expression and help specify neuronal identity. Different proprioceptive neuron groups expressed different Hox profiles associated with the muscles they supplied.",
+      "The gene **Hoxc8** was expressed in sensory and motor neurons associated with distal forelimb muscles. Removing it selectively from sensory neurons disrupted their pattern of spinal synaptic contacts. The affected sensory cells survived and still reached their peripheral muscle targets, separating incorrect central wiring from the loss of the receptor population.",
+      "Appropriate feedback therefore requires both detecting a muscle’s mechanical state and delivering that information to suitable spinal partners. A surviving sensory neuron can provide the wrong pattern of central input if its synaptic identity is altered. The experiment identifies a developmental gene-regulation mechanism that contributes to the assembly of a usable proprioceptive circuit."
+    ]
+  },
+  {
+    "title": "A stretch reflex rapidly opposes unexpected lengthening",
+    "body": [
+      "The **monosynaptic stretch reflex** begins when muscle stretch increases activity in spindle afferents. A primary afferent excites alpha motor neurons supplying the stretched muscle through a direct spinal synapse. Increased motor output then activates extrafusal fibers, producing force that opposes the imposed lengthening.",
+      "In the knee-jerk response, a tendon tap briefly stretches the quadriceps muscle and activates its spindles. The resulting contraction extends the lower leg. The tendon is where the mechanical disturbance is applied; the sensory receptor initiating the main response is the muscle spindle rather than a Golgi tendon organ.",
+      "This short pathway can respond before a detailed conscious assessment of the disturbance is available. Its strength still depends on the state of the spinal and descending systems. A reflex is a specific stimulus-to-response circuit whose gain can be adjusted, rather than an unchangeable movement produced identically in every behavioral context."
+    ]
+  },
+  {
+    "title": "Gamma drive maintains sensitivity as muscles shorten",
+    "body": [
+      "When extrafusal fibers shorten the muscle, a passive spindle could become slack and reduce its sensory output. **Gamma motor neurons** contract the ends of the intrafusal fibers, stretching their central sensory region. This maintains useful sensitivity while the muscle’s overall length changes during an intended action.",
+      "**Alpha–gamma coactivation** means recruiting force-producing and spindle-adjusting motor pathways together. Alpha drive generates external muscle force, while gamma drive helps preserve the sensory measurement during that contraction. The two outputs therefore act on different fibers even when both contribute to controlling the same limb movement.",
+      "Changing gamma activity can alter the afferent response to a given stretch without producing much external force itself. The nervous system can thereby adjust how strongly spindle input influences a reflex. Increased spindle sensitivity and increased force-producing motor output are related adjustments, but they should not be treated as the same physiological event."
+    ]
+  },
+  {
+    "title": "Correct target selection is separate from receptor survival",
+    "body": [
+      "The Hoxc8 experiment removed a regulatory protein from proprioceptive sensory neurons while leaving the motor-neuron population genetically distinct. This cell-type-specific manipulation tested whether sensory identity contributes to the selection of central partners, rather than attributing every wiring change to a simultaneous alteration of the receiving motor neurons.",
+      "Sensory neurons lacking normal Hoxc8 still innervated the relevant peripheral muscles, but their spinal contacts were less appropriately matched. The result separates reaching the correct muscle from building the correct reflex connection within the cord. Peripheral target contact alone was insufficient to guarantee a fully appropriate sensorimotor circuit.",
+      "The sensory and motor populations share developmental regulators, providing a mechanism for matching neurons that control and monitor related muscles. Such matching is established before the mature animal repeatedly uses the limb. Subsequent movement-dependent feedback acts through a circuit whose basic partner selection has already been constrained by neuronal identity."
+    ]
+  },
+  {
+    "title": "Spinal interneurons support recovery after cord injury",
+    "body": [
+      "**Interneurons** are neurons that communicate within a circuit rather than directly innervating muscle. Bui and colleagues examined spinal **dI3 interneurons**, which receive sensory input and can influence locomotor networks. They tested whether these cells contributed differently to intact locomotion and recovery following spinal cord transection in mice.",
+      "Preventing dI3 neurons from transmitting at their synapses left much ordinary locomotion relatively preserved before injury. After transection and training, however, the manipulated mice failed to show the recovery seen in controls. A circuit component that is partly dispensable for established behavior can therefore be necessary when the spinal network must adapt.",
+      "The recovery recordings include supported treadmill stepping under defined experimental conditions. This is different from restoring every voluntary descending command across the transection. The cellular result concerns the contribution of surviving spinal microcircuits and sensory input to the motor function that can re-emerge after injury and repeated training."
+    ]
+  },
+  {
+    "title": "Reciprocal inhibition reduces opposition from antagonists",
+    "body": [
+      "When a flexor contracts to bend a joint, strong contraction of the opposing extensor can resist the intended movement. **Reciprocal inhibition** reduces activation of the antagonist through spinal interneurons. A sensory or descending signal can therefore excite one motor pool while recruiting inhibition of a competing pool.",
+      "This inhibitory route is **polysynaptic** because an interneuron lies between the initiating input and the motor neuron being inhibited. Inhibitory transmitters such as glycine reduce the receiving motor neuron’s probability of firing. The effect changes muscle activation through the neuron’s membrane response rather than directly relaxing the muscle’s contractile filaments.",
+      "Antagonists are not always switched completely off. Maintaining posture or resisting a disturbance can require co-contraction, with both groups active. Descending commands and sensory inputs regulate the balance, allowing the same muscles to alternate during one task and contribute simultaneous stabilizing force during another."
+    ]
+  },
+  {
+    "title": "Withdrawal recruits several coordinated spinal responses",
+    "body": [
+      "A potentially damaging stimulus can activate a **withdrawal reflex**, drawing the affected limb away. The response uses several interneurons and motor pools, allowing multiple joints to change together. The muscles recruited depend on where the stimulus occurs and which combination of movements can move that body region away from it.",
+      "In a standing animal, withdrawing one leg can require support from the opposite leg. A **crossed-extension response** can increase extensor activity on the supporting side while flexors withdraw the stimulated limb. Spinal processing therefore coordinates a response across sides rather than treating each muscle as an independent one-synapse reflex.",
+      "These responses are modified by posture and ongoing behavior. An identical peripheral input can produce different muscle activity when the limb is bearing weight or moving through a step. Local spinal circuitry combines the incoming sensory event with the current motor state before distributing output across the relevant muscles."
+    ]
+  },
+  {
+    "title": "Spinal fluid-contacting neurons influence stepping speed",
+    "body": [
+      "Nakamura and colleagues examined neurons whose sensory endings contact **cerebrospinal fluid** near the spinal central canal. These cells are positioned to detect aspects of the local fluid and mechanical environment. The study traced their axons and tested their contribution to locomotion in mice.",
+      "The labeled neurons sent long projections toward more rostral spinal regions and contacted other fluid-contacting neurons, premotor interneurons, and axial motor neurons. Their location within the cord therefore did not confine them to isolated local sensing. Their projections provided routes through which their activity could influence wider motor networks.",
+      "Chemogenetic inactivation reduced running speed and step frequency during treadmill locomotion. **Chemogenetics** uses an engineered receptor activated by an administered compound to change selected neurons’ activity. Comparing the same preparation before and after receptor activation tested the contribution of these spinal cells to the organization of ongoing stepping."
+    ]
+  },
+  {
+    "title": "Anatomy and physiology identify recurrent spinal circuits",
+    "body": [
+      "The fluid-contacting-neuron study used sparse labeling to follow individual cells rather than inferring every projection from a dense population image. Their axons traveled rostrally in unmyelinated bundles. A cell’s sensory position near the central canal was therefore associated with a long output route within the spinal cord.",
+      "Electron microscopy identified contacts among the labeled neurons, and physiological recordings tested synaptic communication. These methods answer different questions: an anatomical contact suggests a possible route, while a recorded postsynaptic response tests whether activity can be transmitted along it. Together they supported a recurrent circuit among the fluid-contacting neurons.",
+      "The cells also contacted motor-related targets, providing an output route beyond recurrence within their own population. Silencing changed locomotor frequency rather than simply removing a visible anatomical structure. The circuit therefore combines an unusual sensory interface with connections capable of modifying the motor pattern produced by the cord."
+    ]
+  },
+  {
+    "title": "Spinal networks can generate a locomotor rhythm",
+    "body": [
+      "A **central pattern generator** is a neural circuit capable of producing a repeating output pattern without requiring a separate sensory trigger for every cycle. Spinal locomotor networks can generate alternating motor activity, providing a rhythmic foundation for stepping. Their output still depends on the state and excitation of the circuit.",
+      "Sensory signals adjust this rhythm to the body and environment. Contact with the ground, muscle loading, and limb position help regulate transitions between stance and swing. A rhythm generated inside the cord therefore becomes useful locomotion through interaction with the moving limbs rather than operating independently of their mechanics.",
+      "Descending pathways help start, stop, and adjust locomotor activity. Their influence can change the drive supplied to the spinal network without specifying every individual muscle twitch. The resulting behavior combines rhythm generation, coordination among limbs, and feedback-driven adjustment to the terrain encountered during each step."
+    ]
+  },
+  {
+    "title": "Long spinal projections coordinate different limb pairs",
+    "body": [
+      "**Propriospinal neurons** project between spinal levels rather than sending their main output directly to a muscle. Pocratsky and colleagues examined long ascending neurons linking lumbar regions associated with hindlimbs to cervical regions associated with forelimbs. These pathways provide communication between the networks controlling different limb pairs.",
+      "The researchers conditionally silenced the identified neurons in adult rats. During overground walking on a high-friction surface, the normal relationships between left and right limbs became disrupted. The stepping rhythm and coordination within individual limbs remained comparatively preserved, separating interlimb organization from the production of each limb’s movement.",
+      "The perturbation therefore did not simply prevent muscles from contracting or remove the spinal rhythm entirely. It altered how existing rhythms were coordinated across the body. Recording several limbs together exposed a deficit that could be missed by examining only the trajectory or cycle duration of one isolated leg."
+    ]
+  },
+  {
+    "title": "The same spinal perturbation has task-dependent effects",
+    "body": [
+      "Silencing the long ascending propriospinal neurons did not disrupt coordination equally in every locomotor setting. The rats showed a clear impairment during ordinary overground stepping on the coated surface, but a much smaller or absent corresponding phenotype during treadmill stepping, swimming, or exploratory movements.",
+      "The surface also mattered: coordination was less disrupted on a smooth, uncoated walkway. These comparisons changed the demands placed on the moving body while keeping the targeted neuronal population the same. The contribution of a spinal pathway therefore depended on the behavioral setting in which its output was tested.",
+      "An intact step rhythm can be distributed through more than one effective pattern of network interactions. Sensory input, contact mechanics, and descending state differ across walking and swimming. Those remaining routes can support coordination under some conditions even when the silenced ascending pathway is needed for the normal pattern under another condition."
+    ]
+  },
+  {
+    "title": "Descending lateral pathways support skilled limb actions",
+    "body": [
+      "The **corticospinal tract** carries axons from cortical neurons toward spinal circuits. Many fibers cross near the lower medulla and descend in the lateral spinal cord. Their targets include interneurons and, especially in primates, direct connections that contribute to precise control of distal muscles in the hand and fingers.",
+      "The **corticobulbar pathways** reach motor-related circuits in the brainstem, including those controlling the face and tongue. These pathways help distribute cortical influence beyond the limbs. Cortical control therefore reaches different motor populations through several routes rather than through one undivided cable terminating at every skeletal muscle.",
+      "The rubrospinal pathway arises from the red nucleus and contributes to limb control with a prominence that differs across species. A pathway’s role in a rodent should not automatically be assigned unchanged to a human hand. Species differ in how strongly different descending routes participate in skilled movement and recovery after injury."
+    ]
+  },
+  {
+    "title": "Ventromedial pathways organize posture and body support",
+    "body": [
+      "**Reticulospinal pathways** arise from brainstem reticular regions and influence spinal networks controlling posture and movement. Their broad projections can coordinate activity across several muscles. Such organization helps position the trunk and proximal limbs so that a more focused action, such as reaching with one hand, can occur without losing support.",
+      "**Vestibulospinal pathways** use information about head motion and orientation to influence postural muscles. The **tectospinal pathway** contributes to orienting the head and neck toward relevant events. These routes act alongside cortical commands, supplying adjustments that concern body support and orientation rather than only an isolated finger movement.",
+      "A voluntary action therefore recruits both the movement itself and its postural setting. Before the arm moves, other muscles may change their activation to counter the expected disturbance. Feedback then adjusts support as the movement develops, allowing the nervous system to maintain balance while the body’s mass is being redistributed."
+    ]
+  },
+  {
+    "title": "Reversible cortical inhibition interrupts a learned reach",
+    "body": [
+      "Guo and colleagues trained head-fixed mice to reach for, grasp, and eat a food pellet. They used **optogenetic inhibition**, a method in which light activates inhibitory circuitry to reduce activity in a targeted cortical region. Applying the manipulation at different moments tested cortical contributions during the action itself.",
+      "Sudden inhibition of contralateral sensorimotor cortex could prevent reach initiation or interrupt progression through the learned sequence. The effect depended on when the light was applied. Interrupting an ongoing action therefore revealed a continuing cortical requirement rather than showing only that cortical activity had been associated with the start of a trial.",
+      "Untrained forelimb movements were less affected than the learned pellet-retrieval action under the tested conditions. The mouse was not simply unable to activate any muscle. The manipulation particularly disrupted the organized skilled behavior, separating the cortical contribution to the learned sequence from the capacity to make every possible movement."
+    ]
+  },
+  {
+    "title": "Release from inhibition can trigger a stored action",
+    "body": [
+      "When the cortical inhibition ended, trained mice sometimes began a new pellet-retrieval sequence immediately. This **rebound prehension** occurred even on some trials without the usual cue or a pellet. Prehension means the coordinated process of reaching for and taking hold of an object.",
+      "The rebound action depended on prior training and the animal’s motivational state. It was not simply a universal reflex caused by turning off a light. The observed dependence indicates that the perturbation interacted with a learned motor organization available in the trained, food-motivated animal.",
+      "Inhibition during later phases also had different effects: interrupting the reach or grasp could prevent delivery to the mouth, while chewing was less disrupted. A complex action therefore contains components with different immediate cortical requirements. Measuring whether the animal completed the whole task alone would conceal those phase-dependent effects."
+    ]
+  },
+  {
+    "title": "Motor cortex contains an overlapping body organization",
+    "body": [
+      "**Primary motor cortex**, or M1, lies mainly in the precentral gyrus in humans. Different regions preferentially influence different body parts, producing a broad **somatotopic organization**. The representation is uneven: structures requiring fine control, such as the hand, occupy substantial cortical territory relative to their physical size.",
+      "This map is not a collection of isolated keys, each commanding one muscle in every situation. Neurons can influence coordinated patterns involving several muscles, and neighboring representations overlap. The movement produced by stimulation depends on the location, timing, and duration of the stimulation as well as the state of the body.",
+      "M1 also receives sensory and motor-related input from other brain regions. Its activity changes as a movement is prepared, executed, and corrected. An anatomical body map therefore describes an important organization of output, while the moment-to-moment computation still depends on interactions among neurons and the wider sensorimotor network."
+    ]
+  },
+  {
+    "title": "Cortical activity contains detailed joint information",
+    "body": [
+      "Grier and colleagues combined markerless movement tracking with two-photon calcium imaging during mouse reaching and grasping. **Markerless tracking** estimates body positions from video without attaching a sensor to every joint. **Two-photon imaging** measures activity-related fluorescence in selected neurons while the animal performs the task.",
+      "They examined forelimb primary motor and primary somatosensory cortex. Activity in both regions contained information that could be used to predict proximal and distal joint angles. Detailed limb configuration was therefore represented beyond a single cortical area traditionally described as the main source of motor commands.",
+      "A **decoder** is an analysis that predicts a measured behavioral variable from neural activity. Successful joint-angle decoding establishes that information is present in the recorded population. It does not by itself establish that every recorded neuron directly causes the predicted joint movement; that question requires an appropriate manipulation of the circuit."
+    ]
+  },
+  {
+    "title": "Motor and sensory cortex share detail but differ in timing",
+    "body": [
+      "The mouse reaching study found comparable access to low-level joint information in the two cortical regions, but their target-related activity had different timing. M1 represented target-specific information earlier and maintained it longer, while the somatosensory response was more transient around the beginning of limb lifting.",
+      "A joint angle and a target identity describe different levels of the same behavior. The joint angle specifies the limb’s current configuration; the target identifies the action being directed toward a particular location. A cortical population can carry both kinds of information without representing them through identical neurons or identical time courses.",
+      "The temporal distinction helps separate preparation from feedback about an unfolding movement. Early target information can be available before the hand lifts, whereas later activity can include the consequences of motion and contact. Following the whole trial exposes differences that would disappear if activity were averaged into a single overall movement response."
+    ]
+  },
+  {
+    "title": "Motor association areas prepare actions from context",
+    "body": [
+      "**Premotor cortex** and the **supplementary motor area** contribute to selecting and organizing actions before and during execution. They receive information about goals, sensory cues, and the current state of the body. Their interactions with M1 help transform that information into a movement appropriate to the situation.",
+      "A delayed-reaching task separates an instruction from permission to move. The animal first learns the target, then waits for a go cue. Neural activity during the waiting interval can therefore be examined separately from the activity accompanying actual motion, allowing preparation to be studied without equating every active neuron with muscle contraction.",
+      "Internally chosen actions and externally triggered actions place different demands on these regions. A person can prepare to move after a signal or decide when to begin without one. The relevant motor network must organize a suitable action state while also preventing premature movement during any interval in which withholding is required."
+    ]
+  },
+  {
+    "title": "Preparation can occur without a long waiting interval",
+    "body": [
+      "Lara and colleagues recorded monkey motor cortical populations during reaches initiated after an imposed delay, at a self-chosen time, or reactively with little delay. The comparison tested whether preparatory activity was a property of voluntary reaching or merely a consequence of laboratory tasks that force an animal to wait.",
+      "The analysis separated population components associated with preparation from components associated with movement. Preparatory events appeared across all three initiation conditions. Their occurrence was therefore not restricted to trials containing a long visible interval between the instruction and the start of the hand’s movement.",
+      "Reactive reaches compressed the preparatory process into a short period. A long sustained delay response was unnecessary even though an appropriate pre-movement population state still emerged. The time consumed by preparation therefore depended on task conditions rather than requiring the same extended waiting stage before every successful action."
+    ]
+  },
+  {
+    "title": "Population activity separates preparation from movement",
+    "body": [
+      "When many motor cortical neurons are recorded together, their activity can be described as a point in a **population state space**. Each dimension summarizes part of the changing activity pattern. Following its trajectory helps distinguish a preparatory configuration from the later activity associated with generating the reach.",
+      "The monkey study used this separation to identify related preparatory events across different initiation contexts. A neuron’s individual firing rate alone could mix preparation and movement-related contributions. Population analysis can reveal a common organization even when the visible timing and individual neural responses differ between the task conditions.",
+      "The preparatory state does not itself require that the hand already move. The subsequent change in population activity can carry the network toward its movement-generating pattern. Comparing behavior with this changing neural trajectory therefore helps distinguish readiness to act from the execution of the action once it begins."
+    ]
+  },
+  {
+    "title": "Premotor cortex retains information about uncertain options",
+    "body": [
+      "Dekleva and colleagues asked monkeys to reach using noisy information about the target. **Uncertainty** meant that the available evidence did not specify one direction with complete reliability. The experiment tested how dorsal premotor cortex and M1 represented possible actions while the animal selected and executed a reach.",
+      "As uncertainty increased, dorsal premotor neurons strengthened their representation of less likely movement directions. These alternative representations persisted during planning and execution. The corresponding pattern was not found in M1, separating the representation of available options from the more immediate cortical activity associated with the selected movement.",
+      "The size of the premotor effect varied with behavioral measures of uncertainty across sessions. Neural activity therefore reflected the ambiguity experienced during the task rather than simply the physical direction ultimately traveled. A completed reach can coexist with a broader premotor representation of alternatives that were plausible when the action was chosen."
+    ]
+  },
+  {
+    "title": "Basal ganglia regulate output through inhibitory circuits",
+    "body": [
+      "The **basal ganglia** include the striatum, pallidal nuclei, and closely associated structures involved in regulating actions. The striatum receives extensive cortical input. Its inhibitory projection neurons influence output nuclei whose own inhibitory activity regulates targets in the thalamus and brainstem.",
+      "An important operation is **disinhibition**, reducing inhibition of a target. If striatal activity suppresses an inhibitory output neuron, the receiving thalamic or brainstem neuron can become more active. Two successive inhibitory connections can therefore facilitate downstream activity without changing either connection into an excitatory synapse.",
+      "These circuits influence which actions are expressed, how strongly they are performed, and how they unfold over time. Their output acts through wider motor systems rather than directly releasing acetylcholine onto muscle. A basal-ganglia disorder can therefore impair action initiation or control even when the peripheral neuromuscular junction remains functional."
+    ]
+  },
+  {
+    "title": "Direct and indirect pathways alter inhibitory output",
+    "body": [
+      "The **direct pathway** carries striatal inhibition toward basal-ganglia output nuclei. Reducing their ongoing inhibitory activity can permit selected downstream motor circuits to become more active. The effect is a change in the pattern of inhibition reaching targets rather than a direct excitatory instruction delivered to the muscle.",
+      "The **indirect pathway** influences output through additional relays, including the external pallidum and subthalamic nucleus. In the simplified circuit, its recruitment increases inhibitory output and restrains movement-related activity. The subthalamic nucleus supplies an excitatory step within this otherwise extensively inhibitory network.",
+      "The pathways operate in organized populations rather than functioning as one global accelerator and one global brake. Different actions and phases can recruit different groups, and both pathways can participate during behavior. Experiments that selectively change one population test particular contributions without establishing that every neuron in that pathway always performs one identical function."
+    ]
+  },
+  {
+    "title": "Direct-pathway stimulation can initiate a timed action",
+    "body": [
+      "Bakhurin and colleagues studied mice making licking movements on a fixed-time reward schedule. They expressed a light-sensitive excitatory protein in direct-pathway neurons of the ventrolateral striatum. This allowed the experimenters to increase activity in a defined population while observing the timing and pattern of the animal’s licking.",
+      "Stimulating the direct pathway could evoke licking during a period when the mice were otherwise unlikely to lick. The manipulation therefore changed the probability of expressing the action, rather than merely producing a neural response measured after spontaneous movement. Stimulation timing and the reward schedule were controlled separately.",
+      "Direct-pathway activation also altered the timing of later licking bouts. The investigators described an effect resembling a reset of the timing process rather than only an increase in ongoing movement. The same neuronal manipulation therefore affected both whether the action appeared and when the next organized bout occurred."
+    ]
+  },
+  {
+    "title": "Indirect-pathway stimulation suppresses and delays licking",
+    "body": [
+      "The same study stimulated an indirect-pathway population identified by its receptor expression. Increasing its activity suppressed licking during stimulation. When the light ended, a rebound bout could appear, revealing different effects during the period of imposed activity and after the population returned toward its unstimulated condition.",
+      "Indirect-pathway stimulation delayed the next expected licking bout in a manner consistent with pausing the timing process. This differed from the direct-pathway manipulation’s resetting effect. The two pathways therefore influenced the organization of a timed behavior in distinguishable ways beyond simply changing its total number of movements.",
+      "The experiment targeted a specific striatal region and a particular reward-guided action. Within that preparation, observing the onset, suppression, rebound, and later timing separated several components of control. Counting licking only across the whole session would combine these effects and obscure how the behavior changed around each stimulation interval."
+    ]
+  },
+  {
+    "title": "Dopamine loss changes the regulation of movement",
+    "body": [
+      "**Parkinson’s disease** commonly involves degeneration of dopamine-producing neurons in the substantia nigra. Their projections normally modulate striatal neurons through receptors with different cellular actions. Loss of that input changes activity and coordination within basal-ganglia circuits, contributing to impaired movement initiation and reduced movement speed.",
+      "**Bradykinesia** means slowness of movement, often accompanied by a reduction in movement amplitude during repeated actions. Rigidity and resting tremor are additional features that can occur. These symptoms reflect altered regulation across a motor network rather than a simple failure of the muscle to receive any peripheral electrical input.",
+      "Dopamine replacement can improve important symptoms, and deep-brain stimulation can alter activity in selected circuit targets. Neither intervention should be described as merely making every neuron fire faster. Their useful effects depend on changing patterns and interactions within a system whose motor output is abnormally regulated after dopamine loss."
+    ]
+  },
+  {
+    "title": "Subthalamic gamma bursts scale with movement speed",
+    "body": [
+      "Lofredi and colleagues recorded activity from the **subthalamic nucleus** in people with Parkinson’s disease undergoing deep-brain stimulation procedures. Participants made movements with different velocities. The recordings tested how local population activity changed with movement and with the participants’ dopamine-medication state.",
+      "**Gamma activity** describes relatively fast rhythmic fluctuations in the recorded signal. Rather than increasing smoothly and continuously throughout a movement, it often appeared in brief bursts. Higher movement velocity was associated with stronger gamma activity and a greater rate of these transient events in the tested recordings.",
+      "The association concerned a physiological measurement and an observed movement parameter, not a demonstration that each burst directly commanded a particular muscle contraction. Local field activity reflects coordinated population processes. Relating it to behavior can identify a candidate circuit state associated with more vigorous movement and altered disease severity."
+    ]
+  },
+  {
+    "title": "Medication changes burst recruitment more than burst size",
+    "body": [
+      "The Parkinson’s study compared recordings obtained in different dopamine-medication conditions. In the dopamine-depleted state, movement-related gamma power and burst rate were reduced, particularly when movements were slower. The change linked a clinically relevant treatment condition with a specific feature of motor-related population activity.",
+      "Burst amplitude and duration did not show the same medication-dependent change. The main difference was how often these brief events were recruited. A change in average signal power can therefore arise from a change in event frequency rather than from every individual event becoming larger or lasting longer.",
+      "Measuring the distribution of bursts separates these possibilities. Two recordings with different average power can contain similar-looking events but different numbers of them. This distinction helps identify what changed in the neural activity associated with bradykinesia instead of treating an averaged rhythm measurement as a complete cellular explanation."
+    ]
+  },
+  {
+    "title": "A fast cortical route can increase movement restraint",
+    "body": [
+      "The **hyperdirect pathway** carries cortical excitation to the subthalamic nucleus, which can excite basal-ganglia output neurons. Their increased inhibitory output can restrain downstream motor activity. This route reaches output through fewer relays than the classic indirect pathway and can contribute to rapid changes in action control.",
+      "**Reactive stopping** means canceling an action after a stop signal appears. **Proactive control** means adjusting readiness in advance because stopping may become necessary. These demands can recruit overlapping networks but differ in their timing, so a task must distinguish preparing to stop from actually responding to a stop cue.",
+      "An increased delay before moving does not automatically identify a successful stop mechanism. The person may have changed their initial strategy or become uncertain about the go signal. Measuring the action, cue timing, and neural response together is needed to determine which stage of restraint the observed activity accompanies."
+    ]
+  },
+  {
+    "title": "Brief beta events accompany successful action cancellation",
+    "body": [
+      "Diesburg and colleagues recorded simultaneously from sensorimotor cortex and subcortical sites in humans performing a stop-signal task. Participants began a response after a go cue but sometimes received a later instruction to cancel it. The design separated successfully stopped trials from trials on which the movement was expressed.",
+      "**Beta bursts** are brief increases in rhythmic activity within the beta frequency range. Subcortical beta events increased during successful stopping, and subthalamic events preceded a later increase in cortical beta activity. The sequence provided timing information about how different parts of the inhibitory-control network participated during the task.",
+      "In recordings allowing comparison with motor thalamus, subthalamic beta events also occurred earlier than thalamic events. The data therefore constrained the order of activity across the sampled structures. Temporal precedence supports a possible route for coordination, while direct causal transmission requires evidence beyond the order of the measured bursts alone."
+    ]
+  },
+  {
+    "title": "Stopping-related activity is not uniform across the STN",
+    "body": [
+      "Pasquereau and Turner recorded individual subthalamic neurons in monkeys performing a task that separated reactive stopping, switching actions, and preparation to inhibit. This approach tested whether stopping-related responses were distributed uniformly across the nucleus or concentrated within a particular anatomical region.",
+      "Neurons with responses consistent with rapid stopping and switching were concentrated in a ventromedial subdivision. Other subdivisions contained stronger representations of movement itself or proactive control. The subthalamic nucleus therefore contained functionally different populations rather than one undifferentiated signal that always meant the animal should stop.",
+      "A whole-structure measurement can mix these populations and conceal their distinct timing or task sensitivity. Recording location therefore matters when comparing studies or interpreting stimulation of the nucleus. The results identify an anatomical specialization for reactive control, while the recording experiment itself does not selectively silence every identified stopping-related neuron."
+    ]
+  },
+  {
+    "title": "Huntington’s disease disrupts restraint and coordination",
+    "body": [
+      "**Huntington’s disease** is an inherited neurodegenerative disorder that progressively affects motor, cognitive, and emotional functions. Damage within the striatum alters basal-ganglia circuitry. Early prominent movement abnormalities can include **chorea**, irregular involuntary movements that interrupt posture and intended actions rather than following a stable repeating rhythm.",
+      "The simplified circuit model relates early loss of vulnerable indirect-pathway neurons to reduced restraint of downstream motor activity. As the disease progresses, the affected circuitry becomes broader and the movement profile can change. The later disorder cannot be explained completely by removing one connection from an otherwise unchanged schematic.",
+      "Parkinsonian slowness and Huntington-related excess movement illustrate different consequences of disturbed motor regulation. Both can occur with substantial muscle strength still present, separating circuit control from the muscle’s ability to develop force. Clinical assessment must consider the timing, pattern, and context of abnormal movement rather than counting movement alone."
+    ]
+  },
+  {
+    "title": "The cerebellum integrates intended and ongoing movement",
+    "body": [
+      "The **cerebellum** receives information about motor commands and the changing state of the body. Its circuits contribute to coordination, timing, and learning. It influences movement through outputs to other motor regions rather than through a direct projection from its cortex to the skeletal neuromuscular junction.",
+      "**Purkinje cells** are the main output neurons of cerebellar cortex and inhibit their target nuclei. Cerebellar nuclei integrate that inhibition with excitatory inputs and send output toward thalamic and brainstem targets. Altering Purkinje-cell firing can therefore change downstream motor activity by changing the inhibition reaching those nuclei.",
+      "Different cerebellar regions participate in different aspects of movement, including gaze stabilization, balance, and skilled limb control. Their connections provide access to both sensory and motor-related signals. Damage can impair the smooth coordination of an action even when the person can still initiate movement and produce substantial muscular force."
+    ]
+  },
+  {
+    "title": "Prediction coordinates movement before feedback returns",
+    "body": [
+      "A fast movement can change the limb before delayed sensory feedback has fully described its consequences. **Prediction** uses information about the command and the body to estimate what will happen next. Cerebellar interactions with cortical and brainstem circuits help make appropriately timed adjustments during this interval.",
+      "A **motor error** is a difference between the intended and observed result, such as overshooting a target. Climbing-fiber input to Purkinje cells can carry error-related signals. Changing synaptic strength within cerebellar circuits allows later output to be adjusted, altering the response when a similar situation is encountered again.",
+      "Learning depends on the task and circuit state as well as the occurrence of an error-related response. A robust climbing-fiber signal does not guarantee the same change in every training condition. The effective teaching signal must arrive in a circuit whose current inputs and plasticity rules can modify the behavior being learned."
+    ]
+  },
+  {
+    "title": "Cortico-cerebellar signals support precise reaching",
+    "body": [
+      "Guo and colleagues perturbed the **pontine nuclei**, which relay cortical information toward the cerebellum, while mice performed a cued reach. Optogenetic stimulation disrupted the normal communication pattern. The experiment tested a particular cortical output route rather than suppressing all motor cortical activity at once.",
+      "The manipulation usually allowed the reach to begin but reduced aspects of its precision, accuracy, duration, or success. The hand could move toward the target while making less effective adjustments along the way. This separated the ability to launch an action from the circuit contributions needed to complete it dexterously.",
+      "Neural activity in motor cortex and cerebellum remained substantially movement-related during the perturbation. Changes in the recorded activity predicted differences in hand velocity between conditions. The loop therefore contributed to the detailed execution of the reach without requiring the entire movement-related population pattern to disappear when communication was disturbed."
+    ]
+  },
+  {
+    "title": "A relay perturbation changes several movement features",
+    "body": [
+      "The pontine-nucleus study measured several features of the same reach rather than classifying behavior only as movement or no movement. A mouse could initiate a reach yet take longer, follow a less accurate trajectory, or fail to retrieve the target. These outcomes identify different consequences of disrupting communication within a motor loop.",
+      "An example animal showed a stronger effect on initiation, indicating that the perturbation did not produce one identical outcome across all preparations. Examining individual trajectories preserved this variation. The study’s overall finding emphasized impaired dexterity, while the detailed observations identified cases in which starting the movement was also disrupted.",
+      "Cortical commands travel through several output routes, including pathways toward spinal and brainstem circuits. Perturbing the route through the pons leaves other routes available. Surviving large-scale movement alongside degraded accuracy can therefore reflect the remaining drive to move combined with the loss of a contribution needed for precise adjustment."
+    ]
+  },
+  {
+    "title": "The same error activity can produce different learning",
+    "body": [
+      "Kimpo and colleagues studied changes in the **vestibulo-ocular reflex**, the eye movement that compensates for head motion. Training can increase or decrease the reflex’s gain, the size of the eye response relative to head movement. These two training conditions allowed learning-related signals to be compared within the same cerebellar system.",
+      "Climbing fibers carried robust error-related activity during both gain-increase and gain-decrease training. During gain-increase training, their activity on one trial predicted changes in cerebellar output on the following trial. The same trial-to-trial relationship was absent during gain-decrease training, despite the presence of clear climbing-fiber responses.",
+      "An error-related response therefore did not operate as an identical teaching command in both conditions. The result separated the detection or representation of an error from the plasticity that changes subsequent behavior. The circuit’s current state can determine whether a measured error signal effectively modifies the output on the next trial."
+    ]
+  },
+  {
+    "title": "Optogenetic error signals reveal a gate on learning",
+    "body": [
+      "The vestibulo-ocular learning study also activated climbing fibers optogenetically to mimic an error-related input. Introducing a controlled signal tested causality beyond recording the responses that happened naturally. The experiment asked whether an imposed climbing-fiber event could produce an appropriate change in the learned reflex.",
+      "The stimulation could implant a memory corresponding to gain-increase learning, but did not produce the corresponding gain-decrease learning under the tested condition. An imposed signal therefore had different consequences depending on the learning context. The difference could not be explained simply by claiming that climbing fibers were inactive during the ineffective condition.",
+      "The result identifies **gating of plasticity**, a condition-dependent change in whether an input produces lasting circuit modification. Effective motor teaching requires more than transmitting an error event. The synapses and surrounding activity must be in a state that can convert that event into a useful change in later motor output."
+    ]
+  },
+  {
+    "title": "Purkinje cells represent the boundaries of movement bouts",
+    "body": [
+      "Gaffield and colleagues trained mice to produce bouts of licking around regularly available water rewards. A **movement bout** is a group of related actions separated from the next group by a pause. The task allowed individual tongue movements to be distinguished from the beginning and ending of the larger sequence.",
+      "Purkinje-cell activity changed with tongue protrusions and retractions, but also ramped around bout initiation and termination. These signals concerned different time scales within the same behavior. A neuron could participate in the organization of an overall action interval rather than merely responding once to each visible tongue movement.",
+      "The timing of the ramp differed between exploratory licking before water availability and licking reactive to water delivery. The neural response therefore depended on how the bout began, not only on its muscle movement. A shared action can be embedded in different anticipatory or externally triggered motor states."
+    ]
+  },
+  {
+    "title": "Cerebellar activity changes movement organization",
+    "body": [
+      "The licking-bout study manipulated Purkinje-cell activity while monitoring behavior. Perturbation changed the rhythm of licking and could influence the initiation or termination of a bout. The experiment therefore provided causal evidence that the recorded cerebellar population contributed to the organization of the movement sequence.",
+      "Climbing-fiber-evoked responses increased around the start of bouts in a subset of cells, but did not show the same pattern at bout termination. Different input and output features therefore represented different events. A signal marking the start of a sequence should not be assumed to provide an identical instruction for ending it.",
+      "The cerebellum’s contribution extended beyond correcting an already visible error after each movement. Its activity participated in when a repeated action began, how regularly it continued, and when it stopped. Separating these events makes it possible to identify a timing deficit that an average count of movements would obscure."
+    ]
+  },
+  {
+    "title": "Reaching and grasping transform different information",
+    "body": [
+      "**Reaching** positions the hand near a target, while **grasping** shapes the hand and applies force to the object. These components must be coordinated, but they use partly different information. Target location helps determine the arm trajectory, while object size and geometry help determine the configuration of the fingers.",
+      "Posterior parietal regions combine visual information with estimates of limb position. Premotor and motor regions contribute to selecting and executing the corresponding action. The hand must be oriented relative to the object as well as transported toward it, requiring transformations between visual location and the body’s joint configuration.",
+      "Contact introduces new sensory information about friction, weight, and whether the fingers have secured the object. Grip force must be sufficient to prevent slipping without unnecessarily crushing or deforming it. Planning therefore continues into feedback-guided control as an initially visual action becomes a mechanically constrained interaction with the object."
+    ]
+  },
+  {
+    "title": "Parietal and premotor cells transform object information",
+    "body": [
+      "Schaffelhofer and Scherberger recorded from macaque parietal area AIP, premotor area F5, and primary motor cortex during grasping of varied objects. The objects required different hand shapes. Simultaneous behavioral measurements allowed the neural response to visual geometry to be compared with the hand movement used to grasp it.",
+      "AIP population activity strongly represented object shape, including geometric distinctions useful for selecting a grasp. F5 initially shared aspects of this visual representation, then developed stronger motor-related signals during planning and execution. The areas therefore contributed different stages of the transformation rather than duplicating the same code throughout the trial.",
+      "M1 activity more closely reflected the movement of the grasping hand. Tracking changes across the trial showed how visual distinctions became related to an executed configuration. The study measured a cooperative network whose different regions emphasized different information as the animal moved from viewing an object to taking hold of it."
+    ]
+  },
+  {
+    "title": "Joint tracking separates object shape from hand posture",
+    "body": [
+      "Two objects can differ visually yet be grasped with similar joint configurations, while similar objects can be taken with different grips. Distinguishing these cases requires measuring the hand itself. The macaque grasping study tracked joints and used those measurements to characterize the configurations produced during the different object-directed actions.",
+      "Comparing neural similarity with object similarity and hand-configuration similarity identified what each population represented most strongly. Parietal responses emphasized visual object features, whereas motor-related populations increasingly reflected the hand action. The analysis therefore tested a transformation between measured variables rather than assigning a region’s function solely from its name.",
+      "The fingers changed together in coordinated patterns as the hand closed around each object. A useful representation of grasping must therefore describe relationships among joints rather than only the position of one fingertip. Recording the hand and neurons together allowed the study to relate these coordinated configurations to population activity during action execution."
+    ]
+  },
+  {
+    "title": "Hand synergies describe coordinated patterns across joints",
+    "body": [
+      "A **synergy** describes a coordinated pattern involving several muscles or joints. Leo and colleagues measured human hand kinematics, muscle activity, and functional MRI responses during actions toward virtual objects. They tested whether combinations of joint movements captured cortical information better than models based only on isolated muscles or body-part locations.",
+      "Patterns based on hand-posture synergies distinguished grasping movements in motor-related cortical areas. Activity in M1 could also predict aspects of the coordinated hand configuration. The result supports a representation of relationships among joints in addition to the broad somatotopic map of which body parts an area influences.",
+      "A statistical synergy does not require a completely fixed module that the brain must always activate as one indivisible unit. The measured patterns summarize how several variables change together across the tested actions. Their usefulness comes from explaining structured coordination while leaving room for adjustment when a different object or task requires it."
+    ]
+  },
+  {
+    "title": "Mirror responses occur during action and observation",
+    "body": [
+      "A **mirror neuron** responds when an animal performs an action and when it observes a related action performed by another individual. Such responses were identified in macaque premotor cortex and related networks. The observation response occurs without requiring the observer to execute the visible movement at that moment.",
+      "This provides a way for action-related circuits to participate while another individual acts. It does not establish that a single neuron directly reads another person’s intention or explains every component of social understanding. The relevant experiment must distinguish the observed movement, its context, the observer’s own behavior, and the neuron’s response.",
+      "An observation response and an execution response can also differ in their detailed tuning. The same neuron may be active in both situations while representing different distinctions between actions. Comparing complete response patterns is therefore necessary before concluding that watching and performing use an identical neural code."
+    ]
+  },
+  {
+    "title": "Observed and executed actions can use different codes",
+    "body": [
+      "Pomper and colleagues recorded macaque F5 neurons while animals executed or observed actions involving the same objects but different goals. This design separated object identity from the way it was manipulated. The investigators tested whether an action could be identified across observation and execution using the same pattern of neural responses.",
+      "For much of the recorded activity, the code for observed actions did not match the code for executed actions. Some neurons did show periods of shared coding, but this was not the dominant pattern across all times and cells. A response in both conditions therefore did not guarantee equivalent action representations.",
+      "The timing of the comparison mattered because shared coding appeared during particular intervals rather than continuously. Averaging a neuron’s activity across the whole action could conceal these brief similarities or differences. The data favor a dynamic organization in which observation recruits action-related neurons without simply reproducing the entire execution pattern."
+    ]
+  },
+  {
+    "title": "Observation-related M1 activity differs from execution",
+    "body": [
+      "Jerjian and colleagues recorded neurons in macaque premotor F5 and M1 during action execution, observation, and a condition requiring the animal to withhold movement. Some recorded cells were identified as **pyramidal tract neurons**, cortical neurons with descending output that can influence spinal motor circuits.",
+      "F5 maintained a more similar grasp representation across execution and observation, while M1 population activity during observation was distinct from execution. The M1 observation pattern was more closely aligned with the withholding condition. Activity in a descending neuron therefore did not automatically mean that the observer was issuing the same movement command.",
+      "The population distinction provides a possible mechanism for representing an action while preventing its immediate imitation. Action-related information can remain available in the network as the pattern reaching motor output changes. The experiment separates which grasp is represented from whether the animal actually initiates its own corresponding movement."
+    ]
+  },
+  {
+    "title": "Tool actions recruit shared and specialized representations",
+    "body": [
+      "Gallivan and colleagues used functional MRI while human participants prepared actions with their hand or a tool. **Functional MRI** measures blood-oxygenation changes associated with local neural activity. Pattern classification tested whether the planned action could be identified from the distributed activity within selected cortical regions.",
+      "Some frontoparietal regions contained representations shared across hand-related and tool-related actions. Other parietal and occipitotemporal regions more selectively represented the upcoming hand or tool action. Tool use therefore involved both an action organization that generalized across effectors and representations tied more closely to the particular means of acting.",
+      "A tool changes how a hand movement affects an external object: closing the fingers on a handle may open or close the tool’s working end. Effective planning must account for this altered mechanical relationship. Neural representations of the intended action can therefore differ from a simple description of the muscles contracted by the hand."
+    ]
+  },
+  {
+    "title": "Apraxia affects skilled action beyond simple weakness",
+    "body": [
+      "**Apraxia** is an acquired difficulty performing learned skilled actions that cannot be explained solely by weakness, elementary sensory loss, or failure to understand the task. A person may retain the ability to move individual joints while making errors when asked to organize those movements into a familiar purposeful action.",
+      "Assessment can compare imitation, pantomime, and actual object use. A patient may struggle to demonstrate brushing the teeth without a toothbrush yet perform differently when the real object is supplied. The comparison tests access to action knowledge and the transformation of a goal into an appropriate movement pattern under different cueing conditions.",
+      "Errors can involve the chosen body part, the movement’s spatial arrangement, or the order of its components. These distinctions help separate a deficit in planning a familiar action from a peripheral inability to contract the required muscles. Lesions in distributed parietal and frontal networks can impair different parts of this skilled-action organization."
+    ]
+  },
+  {
+    "title": "Constructional difficulty concerns spatial organization",
+    "body": [
+      "**Constructional apraxia** is a traditional term for difficulty copying drawings or assembling spatial arrangements after brain damage. A person may produce a distorted copy of a cube despite being able to hold and move a pencil. The difficulty concerns organizing the parts within an appropriate spatial representation.",
+      "Right parietal damage is often associated with constructional problems, although the clinical pattern depends on the lesion and task. Tests may compare copying, drawing from memory, and assembling objects. Each condition places different demands on visual analysis, spatial relationships, planning, and the motor execution needed to produce the final arrangement.",
+      "Failing to grasp an object is not sufficient to identify this syndrome. Constructional assessment examines how parts are organized into a spatial whole, whereas a reaching error can arise from a trajectory, strength, or sensory problem. Comparing tasks helps determine whether the main difficulty lies in construction, elementary movement, or another component of performance."
+    ]
+  },
+  {
+    "title": "Developmental coordination difficulties need assessment",
+    "body": [
+      "**Developmental coordination disorder**, often discussed alongside developmental dyspraxia, involves persistent difficulty acquiring and performing coordinated motor skills. The difficulty begins during development and interferes with everyday activities. It differs from an acquired apraxia that appears after a previously established skilled-action system is damaged by a lesion.",
+      "Children may struggle with handwriting, fastening clothes, using utensils, or learning coordinated sports movements. Performance can vary across tasks because they require different combinations of timing, sensory estimation, sequence organization, and practice. Difficulty with one activity should therefore be evaluated alongside broader motor development and its effect on daily participation.",
+      "Assessment considers whether another neurological, visual, or muscular condition better explains the problem. Coordinated action depends on several interacting systems, so a diagnostic label does not identify one missing neuron or one universal motor mechanism. The observed pattern and developmental history guide which functions require support and further investigation."
+    ]
+  },
+  {
+    "title": "Finger representations can persist after paralysis",
+    "body": [
+      "Guan and colleagues recorded from posterior parietal cortex in a participant with tetraplegia while she attempted finger movements. **Tetraplegia** affects movement of all four limbs following disruption of the relevant motor pathways. The experiment asked whether useful action representations persisted despite the loss of normal physical movement and feedback.",
+      "A **brain–computer interface** translated the recorded activity into control of individual fingers on a virtual hand. The participant could use attempted movements to drive the corresponding virtual fingers. This restored an output channel for an intended action without demonstrating that the original descending connection to the muscles had been repaired.",
+      "The neural population retained a structured representation of different fingers across recording sessions. Its organization resembled relationships associated with normal finger usage rather than becoming entirely arbitrary after paralysis. Preserved cortical structure can therefore provide information that a decoder uses to operate an external representation of the intended action."
+    ]
+  },
+  {
+    "title": "Stable representations help and constrain decoding",
+    "body": [
+      "The finger representations were not equally distinct from one another. Some patterns remained similar in ways related to typical finger use, which contributed to predictable classification errors. A decoder therefore encounters both useful information and correlations among actions that make certain distinctions harder than others.",
+      "Within a trial, the representational structure also changed over time. Earlier activity more closely resembled muscle-activation relationships, while later activity resembled anticipated sensory consequences. A stable overall organization therefore coexisted with a changing sequence of action-related information during the attempted movement.",
+      "The useful decoding window depends on which part of that evolving signal is being read. Combining information across neurons and time can support external control while preserving distinctions between intention, predicted sensation, and actual muscle contraction. The demonstrated outcome was control of a virtual hand, rather than recovery of independent physical finger movement."
+    ]
+  },
+  {
+    "title": "Cerebellar disorders have different neural spike signatures",
+    "body": [
+      "Van der Heijden and colleagues compared cerebellar output activity in mouse models showing **ataxia**, poorly coordinated movement; **dystonia**, abnormal sustained or patterned muscle contractions; and **tremor**, rhythmic oscillatory movement. The study asked whether these different motor phenotypes were associated with distinguishable patterns of neuronal firing.",
+      "Recordings from cerebellar nuclei showed different combinations of spike-pattern features across the models. A trained classifier could identify the movement phenotype from single-neuron signatures. Similar motor phenotypes also shared aspects of their firing pattern across models with different underlying biological causes.",
+      "This comparison separated the form of the neural output from the gene or disease mechanism used to generate the model. Distinct causes could converge on related output patterns and related behavior. The classifier established predictive information in the recordings; a separate manipulation was needed to test whether reproducing the patterns could cause the corresponding impairment."
+    ]
+  },
+  {
+    "title": "Imposing abnormal spike patterns can alter movement",
+    "body": [
+      "The cerebellar study used optogenetic stimulation to impose firing patterns resembling the disease-associated signatures in otherwise healthy mice. This tested whether an abnormal output pattern could produce a predicted motor phenotype rather than merely accompany a pre-existing disorder. The manipulated variable was the temporal organization of cerebellar activity.",
+      "Different imposed signatures produced different movement abnormalities, including features corresponding to ataxia, dystonia, and tremor. The researchers recorded behavior and neural activity together, allowing the stimulation-induced firing pattern to be related to the movement that followed. The outcome depended on which temporal signature was imposed.",
+      "The experiments extend beyond a simple distinction between an active and inactive cerebellum. Abnormal timing and patterning of surviving output neurons can disrupt behavior even when the tissue is still present. Motor function therefore depends on how neurons fire together over time as well as whether they remain capable of generating spikes."
+    ]
+  }
+]

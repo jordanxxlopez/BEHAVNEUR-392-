@@ -1,0 +1,25 @@
+"""Assemble the authorized 75-slide Chapter 8 lecture."""
+import json,re
+from pathlib import Path
+from write_content import CONTENT
+D=Path(__file__).resolve().parent;ROOT=D.parents[1]
+F=[0,1,2,3,4,7,10,13,17,18,21,22,25,28,29,32,35,39,40,43,46,49,50,51,58,62,66,67,68]
+book=json.loads((D/'textbook_crops.json').read_text());figs=json.loads((D/'figure_sources.json').read_text());assign=json.loads((D/'figure_assignments.json').read_text())
+bm={0: '8.1', 1: '8.1', 2: '8.2', 3: '8.5', 4: '8.4', 7: '8.3', 10: '8.4', 13: '8.6', 17: '8.7', 18: '8.7', 21: '8.8', 22: '8.8', 25: '8.7', 28: '8.18', 29: '8.19', 32: '8.9', 35: '8.11', 39: '8.16', 40: '8.16', 43: '8.16', 46: '8.16', 49: '8.16', 50: '8.14', 51: '8.15', 58: '8.20', 62: '8.21', 66: '8.20', 67: '8.24', 68: '8.20'}
+bookref='Carlson NR, Birkett MA (2022). Physiology of Behavior, Global Edition. 13th ed. Pearson. ISBN 9781292430256. Chapter 8: Control of Movement, printed pp. 235–265. Uploaded Part3of6 PDF pp.63–78 and Part4of6 PDF pp.1–15.'
+slides=[]
+for i,c in enumerate(CONTENT):
+ s={k:v for k,v in c.items() if k in ['title','body']};s.update(transcript=list(c['body']),layout='figure-right',figure_width=5.7,instructional_role='foundation' if i in F else 'research')
+ if i in F:s.update(figure=book[bm[i]],cite='Carlson & Birkett (2022)',refs=[bookref],primary_source='book')
+ else:
+  id,n=assign[str(i)];a=figs[f'{id}:{n}'];s.update(figure={'path':a.get('display_path',a['path']),'kind':'article','source_url':'https://doi.org/'+a['doi'],'caption':f"{a['first']} et al. ({a['year']}), Fig. {n}.",'credit':a['authors'],'license':a['license']['license']},cite=f"{a['first']} et al. ({a['year']})",refs=[f"{a['authors']} ({a['year']}). {re.sub('<[^>]+>','',a['title'])}. eLife. https://doi.org/{a['doi']}",'Original figure legend: '+a['legend'],'Figure provenance: '+json.dumps(a,ensure_ascii=False)],primary_source='eLife.'+id)
+ if c.get('recording_context_note'):s['refs'].append('Recording identification and context: '+c['recording_context_note'])
+ slides.append(s)
+TK=[('Muscle force begins at the neuromuscular junction.','Acetylcholine starts a muscle action potential; calcium released inside the fiber permits actin–myosin cross-bridges to generate force.'),('Spinal circuits combine feedback with rhythm.','Muscle spindles report muscle length and its change, tendon organs report tension, and spinal networks coordinate reciprocal activity and locomotor timing.'),('Cortical populations prepare and execute actions.','Motor and premotor neurons participate in distributed activity patterns; corticospinal and brainstem pathways carry commands to spinal circuits.'),('Basal ganglia regulate action and timing.','Inhibitory pathways, dopamine, and subthalamic signals influence movement initiation, vigor, sequencing, and stopping.'),('Cerebellar circuits coordinate and adapt movement.','Purkinje cells inhibit cerebellar nuclei, while sensory and cortical inputs support predictions, corrections, and learning under specific circuit conditions.'),('Skilled action requires coordinated representations.','Parietal and frontal networks transform object information into reaching and grasping; neural interfaces can decode movement signals when muscles cannot execute them.')]
+spec={'lecture':8,'book_chapter':8,'content_slides':73,'authorized_total_slide_range':[75,75],'theme':'carbon-paper','output_filename':'From_Intention_to_Action_Control_of_Movement_Chapter_8.pptx','title_kicker':'Muscles, Spinal Circuits, Motor Planning, and Skilled Action','title_image':book['8.4'],'title_refs':[bookref],'slides':slides,'paragraph_line_requirement':[5,7],'chapter_scope':'Chapter 8: Control of Movement, printed pp.235–265. Muscle physiology, proprioception, spinal reflexes and locomotion, descending pathways, motor cortex, basal ganglia, cerebellum, skilled action, and movement disorders.','takeaways':{'cite':'Carlson & Birkett (2022); primary studies in notes','refs':[bookref],'items':[{'lead':a,'text':b} for a,b in TK]}}
+(D/'lecture.json').write_text(json.dumps(spec,indent=2,ensure_ascii=False)+'\n')
+(D/'SLIDE_SPINE.md').write_text('# From Intention to Action: The Neural Control of Movement\n\n75 slides.\n\n1. Title\n'+'\n'.join(f'{i+2}. {s["title"]}' for i,s in enumerate(slides))+'\n75. Key takeaways\n')
+p=ROOT/'course/schedule.json';j=json.loads(p.read_text());m=next(x for x in j['lectures'] if x['n']==8)
+m.update(date='Fall 2026',title='From Intention to Action: The Neural Control of Movement',verified=True,book_chapter=8,book_chapter_title='Control of Movement',display_title_authorized=True,display_title_authorization='Instructor requested Chapter 8, Control of Movement, in 75 slides with a descriptive title.',textbook_printed_pages='235–265',book_scope_verified_from='Uploaded Part3of6 PDF pp.63–78 and Part4of6 PDF pp.1–15; Chapter 9 begins Part4of6 PDF p.16, printed p.266.')
+p.write_text(json.dumps(j,indent=2,ensure_ascii=False)+'\n')
+print('Assembled',len(slides),'teaching slides;',len(F),'foundation;',len(slides)-len(F),'research.')
