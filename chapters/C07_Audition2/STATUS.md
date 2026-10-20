@@ -4,8 +4,8 @@ Completed **Audition II: Central Auditory Processing** for Behavioral Neuroscien
 
 ## Downloads
 
-- [Editable PowerPoint with 50 embedded recordings](https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C07_Audition2/The_Listening_Brain_Central_Auditory_System.pptx), 563.3 MB.
-- [Static PDF with recording posters](https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C07_Audition2/The_Listening_Brain_Central_Auditory_System_Static.pdf), 13.0 MB.
+- [Editable PowerPoint with 50 embedded recordings](https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/b4185fe877330e8f00c25466fa3d303f4e5ba4c1/chapters/C07_Audition2/The_Listening_Brain_Central_Auditory_System.pptx), 563.3 MB.
+- [Static PDF with recording posters](https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b4185fe877330e8f00c25466fa3d303f4e5ba4c1/chapters/C07_Audition2/The_Listening_Brain_Central_Auditory_System_Static.pdf), 13.0 MB.
 - [Presenton static PDF companion](https://api.presenton.ai/s/ToIURk-X4y6Wyfg9Pnlc4qQRCxGCu-AI).
 - [Presenton browser preview](https://presenton.ai/presentation-preview?t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiaHRtbC10by1hbnktcHJldmlldyIsImh0bWxfdG9fYW55X2NyZWF0aW9uIjoxOTU4OCwiZXhwIjoxNzkyNTczOTc3fQ.YtB59_RoBx3Y0t0HoDYofq8LQmMl3Xft96UlG3khq0U), available for 24 hours after creation.
 

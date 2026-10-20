@@ -1,0 +1,32 @@
+{
+  "content_commit": "b4185fe877330e8f00c25466fa3d303f4e5ba4c1",
+  "verified_utc": "2026-10-20T09:17:08.265376+00:00",
+  "downloads": [
+    {
+      "kind": "pptx",
+      "url": "https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/b4185fe877330e8f00c25466fa3d303f4e5ba4c1/chapters/C07_Audition2/The_Listening_Brain_Central_Auditory_System.pptx",
+      "status": 206,
+      "first_256_bytes_match": true,
+      "content_range": "bytes 0-255/563301809",
+      "expected_bytes": 563301809,
+      "sha256": "99d7460e96f572fc3232f47fd5cf32f1dde615fb7fba6dcc18266d45cc94668e"
+    },
+    {
+      "kind": "static_pdf",
+      "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b4185fe877330e8f00c25466fa3d303f4e5ba4c1/chapters/C07_Audition2/The_Listening_Brain_Central_Auditory_System_Static.pdf",
+      "status": 206,
+      "first_256_bytes_match": true,
+      "content_range": "bytes 0-255/13032681",
+      "expected_bytes": 13032681,
+      "sha256": "93acf84e4666984e52a91efd3cbcb54fb0ee8d407dccae30b239f0b651b421ab"
+    }
+  ],
+  "presenton_pdf": {
+    "url": "https://api.presenton.ai/s/ToIURk-X4y6Wyfg9Pnlc4qQRCxGCu-AI",
+    "message": null,
+    "id": 19588
+  },
+  "presenton_preview": {
+    "url": "https://presenton.ai/presentation-preview?t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiaHRtbC10by1hbnktcHJldmlldyIsImh0bWxfdG9fYW55X2NyZWF0aW9uIjoxOTU4OCwiZXhwIjoxNzkyNTczOTc3fQ.YtB59_RoBx3Y0t0HoDYofq8LQmMl3Xft96UlG3khq0U"
+  }
+}
