@@ -49,9 +49,14 @@
     },
     {
       "n": 5,
-      "date": "Date TBD",
-      "title": "Chapter 5: TITLE PENDING TEXTBOOK VERIFICATION",
-      "verified": false
+      "date": "Fall 2026",
+      "title": "Reading and Rewriting the Brain: Tools of Discovery and Neuroengineering",
+      "verified": true,
+      "book_chapter_title": "Methods and Strategies of Research",
+      "display_title_authorized": true,
+      "display_title_authorization": "Instructor requested a descriptive renamed Chapter 5 emphasizing neuroengineering and newer methods, with 80–90 total slides.",
+      "textbook_printed_pages": "119–152",
+      "book_scope_verified_from": "Uploaded Part2of6 PDF pages 39–72. Chapter 6 begins printed p.153, PDF page73."
     },
     {
       "n": 6,

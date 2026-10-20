@@ -51,3 +51,7 @@ Use tools/build_lecture.py with the verified chapter spec, then embed media and 
 ## Instructor-authorized Introduction history expansion
 
 For this lecture only, 85–90 total slides are authorized. Preserve the existing 73 content slides and 30 embedded videos while reorganizing them to pair historical methods with related experiments. Add Müller, Galvani/Helmholtz, Flourens before Broca, Fritsch/Hitzig, Purkinje, the original Nobel table, and the verified 2026 optogenetics laureates with their contributions. All new paragraphs still require 5–7 actual rendered lines. Distinguish experimental ablation from clinical observation and stimulation; cardiac Purkinje fibers are specialized cardiomyocytes. The Givon vehicle study does not establish lesion effects.
+
+## Instructor-authorized Chapter 5 expansion
+
+For Chapter 5, the instructor requests 80–90 total slides and expanded coverage of newer methods and neuroengineering. Use 86 total slides (84 teaching slides, title, takeaways). Retain all writing, source-image, 40-video, distribution, and validation requirements above. This exception does not change other chapters' slide-count limits.

@@ -1,0 +1,42 @@
+{
+  "slides": 86,
+  "content_slides": 84,
+  "foundation_slides": 31,
+  "research_slides": 53,
+  "article_figure_slides": 61,
+  "embedded_distinct_mp4s": 40,
+  "academic_recordings": 20,
+  "visual_recordings": 20,
+  "recordings_per_content_quarter": [
+    10,
+    10,
+    10,
+    10
+  ],
+  "recordings_in_final_ten_content_slides": 6,
+  "paragraphs": 252,
+  "rendered_paragraph_audit": "252/252 pass 5\u20137 lines; report hashes identify final files",
+  "all_source_and_embedded_video_hashes_match": true,
+  "all_package_relationships_resolve": true,
+  "native_video_timing_entries": true,
+  "full_video_decode_pass": true,
+  "source_dimensions_frame_rates_and_audio_presence_preserved": true,
+  "converted_videos": 5,
+  "original_movie_bytes_retained": 35,
+  "minimum_conversion_first_60_frames_ssim": 0.990579,
+  "manual_review": "All 86 rendered slides, source-figure sheets, recording frames, and teaching prose reviewed. Necessary measurement distinctions retained; generic study-importance wrap-ups removed.",
+  "fonts": [
+    "Arial"
+  ],
+  "desktop_powerpoint_playback_tested": false,
+  "pptx": {
+    "filename": "Reading_and_Rewriting_the_Brain_Chapter_5.pptx",
+    "bytes": 876147833,
+    "sha256": "58a7686f043125d740dd1b52d9636c107492a862f9d86f9995f3d7d49823972d"
+  },
+  "static_pdf": {
+    "filename": "Reading_and_Rewriting_the_Brain_Chapter_5_Static.pdf",
+    "bytes": 13287972,
+    "sha256": "4a61e1e22bf959a8f981a385f4133889eb1a9c06ee92381692f8314b395976de"
+  }
+}

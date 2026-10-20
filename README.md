@@ -35,3 +35,7 @@ The latest Chapter 1 history-expanded revision is in [chapters/C01/history_revis
 ## Chapter 4
 
 [Chemical Control of Behavior: Drugs and Neural Signaling](chapters/C04/STATUS.md) covers Psychopharmacology and Neurotransmitters, printed pp. 91–118. The 75-slide lecture includes teaching notes, credited original figures, and 40 embedded recordings, with ten in each content quarter and five in the final ten content slides. Download the editable [PPTX](https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C04/Chemical_Control_of_Behavior_Chapter_4.pptx) or [static PDF](chapters/C04/Chemical_Control_of_Behavior_Chapter_4_Static.pdf). All 219 teaching paragraphs pass the rendered 5–7-line audit. Recording classifications remain in internal provenance records.
+
+## Chapter 5
+
+[Reading and Rewriting the Brain: Tools of Discovery and Neuroengineering](chapters/C05/STATUS.md) expands the verified research-methods chapter into 86 slides, with newer measurement, targeting, analysis, and neural-interface methods. Download the [editable PPTX](https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C05/Reading_and_Rewriting_the_Brain_Chapter_5.pptx) or [static PDF](chapters/C05/Reading_and_Rewriting_the_Brain_Chapter_5_Static.pdf). All 252 teaching paragraphs pass the rendered 5–7-line check. The 40 embedded recordings are distributed ten per quarter, with six in the final ten teaching slides. Source figures, teaching transcripts, recording provenance, and validation accompany the files.

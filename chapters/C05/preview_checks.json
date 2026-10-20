@@ -1,0 +1,14 @@
+[
+  {
+    "kind": "presenton_export.json",
+    "url": "https://api.presenton.ai/s/gVv6O6WEmWy1tuvCpAjP5uvFL90sT8UR",
+    "status": 200,
+    "content_type": "application/pdf"
+  },
+  {
+    "kind": "presenton_preview.json",
+    "url": "https://presenton.ai/presentation-preview?t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiaHRtbC10by1hbnktcHJldmlldyIsImh0bWxfdG9fYW55X2NyZWF0aW9uIjoxOTQ3NCwiZXhwIjoxNzkyNTYzMjg5fQ.uMU0FmYtIEo4Jh3WXsgASyCxn9nXofETr5NEnPs8VUg",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8"
+  }
+]

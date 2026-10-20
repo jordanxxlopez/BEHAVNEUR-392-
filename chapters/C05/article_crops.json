@@ -1,0 +1,917 @@
+{
+  "2": {
+    "figure": "figures/slide_02.png",
+    "original_publisher_figure": "figures/PMC12055000_fig1.jpg",
+    "original_sha256": "14c6aa18511187a5887ad36a58a1c2b10d179f87a7cf79b1b022c094de1889cd",
+    "source_url": "https://cdn.elifesciences.org/articles/95709/elife-95709-fig1-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.224
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 1.Anti-drift pose tracker (ADPT).(A) Three examples of drifts in deep learning-based animal behavioral analysis. Similar object disturbance means that the object similar to a specific body part misleads the deep learning-based methods. Inexplicable keypoint drift is caused by the high confidence score predicted on the wrong place by the network. Failure to detect the keypoint is probably caused by the predicted low confidence score. (B) The anti-drift effects of ADPT. (C) The general workflow of ADPT. The network is trained to predict confidence heatmap, low-resolution semantic segmentation (LRSS), and location refinement. (D) The network architecture of ADPT."
+  },
+  "4": {
+    "figure": "figures/slide_04.png",
+    "original_publisher_figure": "figures/PMC9345604_fig5.jpg",
+    "original_sha256": "85e40fc2287815d669bedff070e4156f8d4fe8f4f8b9aa6ea551dc89d2b603e7",
+    "source_url": "https://cdn.elifesciences.org/articles/76254/elife-76254-fig5-v2.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.63
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 5.Brain clearing and registration quantifies region-specific sparing across a range of spinal injury severities.(A–G) Animals received thoracic crush injuries of controlled widths, followed 8 weeks later by injection of AAV2-retro-H2B-mGL to L4 spinal cord. Horizontal spinal cord sections show mild (B, C), moderate (D, E), or severe (F, G) injury, with GFAP in red and viral transduction in green. (H–M) Horizontal views of the brains from the same animals of the spinal cord sections above, showing progressive reduction in the number of retrogradely labeled neurons as injury severity increases. (H–J) show brainrender depictions of whole brain, (K–M) show one 2D cellfinder plane output with brain regions outlined and detected mGL in green on the right panels. (N) Quantification of percent sparing in identified brain regions, with the average value from uninjured animals set as 100. N = 3 mild, 6 moderate, and 3 severely injured animals. GRN, gigantocellular reticular nucleus. Scale bars are 1 mm.Figure 5—figure supplement 1.Horizontal spinal sections with GFAP labeling for all injured animals.Adult mice received crush injuries to T11 spinal cord using forceps with stoppers of defined width to control the severity. Then, 7 weeks later, AAV2-retro-H2B-mGL was injected to L4 spinal cord, and 2 weeks post-injection animals were sacrificed and a complete series of 100 µm horizontal sections of spinal cord prepared. Immunohistochemistry for the astrocytic marker GFAP (red) defines the site of injury, and H2B-mGL signal (green) indicates neurons that took up the virus. Note that after mild injury the GFAP signal is largely continuous across the crush site, whereas after severe injuries a GFAP-negative region is evident, indicating the absence of astrocytic bridges. Scale bars are 1 mm.Figure 5—figure supplement 2.Graded spinal injuries reduce astrocytic continuity across the injury site.Adult mice received crush injuries to T11 spinal cord using forceps with stoppers of defined width to control the severity. Then, 7 weeks later AAV2-retro-H2B-mGL was injected to L4 spinal cord, and 2 weeks post-injection animals were sacrificed and a complete series of 100 µm horizontal sections of spinal cord prepared. Immunohistochemistry for GFAP identifies astrocytes, and H2B-mGL signal (green) indicates neurons that took up the virus. (A) In four sections from each animal, the linear width of residual astrocyte connectivity was measured (arrow) (A) and then normalized to total spinal width. (B) Moderate and severe injuries resulted in a significant reduction in astrocyte bridging (p<0.001, one-way ANOVA with post-hoc Sidak’s). Scale bar is 1 mm."
+  },
+  "6": {
+    "figure": "figures/slide_06.png",
+    "original_publisher_figure": "figures/PMC9345604_fig1.jpg",
+    "original_sha256": "02da424b558b48043cc11ce2ddc00e7e4aec1e9d30c03e8b14983ee7dcb2038d",
+    "source_url": "https://cdn.elifesciences.org/articles/76254/elife-76254-fig1-v2.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.325
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 1.A pipeline and web resource for the detection and spatial registration of supraspinal projection neurons.(A) Tissue preparation and initial imaging. AAV2-retro-H2B-mGL is injected to the spinal cord, followed by perfusion, tissue clearing, light sheet imaging, and 3D processing using Imaris software. (B) Image registration. A complete series of background and fluorescent nuclei images are exported for registration to standard 3D space by brainreg and cell nuclei detection by cellfinder. (C) An example of cellfinder output, showing horizontal brain sections with brain regions outlined and detected cell nuclei indicated in green. (D) Example output available at https://3Dmousebrain.com/. On the left are quantitative nuclei counts for identified brain regions, and on the right is 3D visualization of supraspinal locations generated by brainrender, an interactive Python-based tool.Figure 1—figure supplement 1.Nuclear localization of retrograde fluorophores enhances detection of supraspinal neurons in cleared brain tissue.Whole brains were cleared using 3DISCO and imaged by light sheet fluorescence microscopy (LSFM) 2 weeks after lumbar injection of AAV2-retro-mScarlet or H2B-mScarlet. (A, B) Horizontal views of whole brains with cytoplasmic (A) and nuclear-localized mScarlet (B). (C, D) High-magnification views of cerebral cortex showing corticospinal tract neurons with cytoplasmic or nuclear label. Insets in (C) and (D) reveal more clearly the difference in labeling between cytoplasmic and nuclear-localized mScarlet (E, H) Horizontal views of midbrain (E, G) and brainstem (F, H). Nuclear-localized signal in (G, H) shows no interference from axon tracts and increases the number of visible cells (arrows). (I) Higher magnification of cerebral cortex neurons labeled with nuclear-localized mScarlet. (J) Yellow dots corresponding to the labeled nuclei in (I). (K) Merged (I) and (J) images. (L), Quantification of cells expressing the cytoplasmic and nuclear-localized mScarlet in cerebral cortex, red nucleus, and brainstem. Scale bar (A, B), 1000 μm; (C, D) 200 μm; (E, H), 500 μm. OB, olfactory bulb; PT, pyramidal tract; BP, basilar pons; SC, spinal cord; CST, corticospinal tract; RN, red nucleus; PNN/PB, pedunculopontine and parabrachial nuclei. **p<0.01, two-way ANOVA with post-hoc Sidak’s, N = 4 animals per group.Figure 1—figure supplement 2.Comparison of supraspinal labeling by nuclear-localized mScarlet and mGreenLantern.Whole brains were cleared using 3DISCO and imaged by light sheet fluorescence microscopy (LSFM) 2 weeks after lumbar co-injection of mixed AAV2-retro-H2B-mScarlet and H2B-mGreenLantern. (A) 3D lateral view of a mouse brain with the plane of image for (B) and (C) indicated. (B, C) Horizontal view of CST neurons labeled with H2B-mSc (B) or H2B-mGL (C). (D) Horizontal view of a mouse brain, with hypothalamic nuclei outlined by yellow inset. (E–H) Dorsal and coronal views of the hypothalamus with supraspinal neurons labeled by H2B-mSc (E, F) or H2B-mGL (G, H). (I) Laterodorsal view of the brain with midbrain and rostral pons outlined (yellow box). (J, K) Horizontal view of the midbrain and pons with supraspinal neurons labeled by H2B-mSc (J) or H2B-mGL (K) (L–N) Lateral view of the mouse brain with an inset outlining the brainstem and cerebellum and shown as higher magnification images in (M) for H2BmSc and (N) for H2BmGL. (O) Quantification of cells expressing nuclear-localized mSc and mGL in six identified brain regions. Detection of mGL was significantly higher in cortex, pons, and the medullary reticular formation (**p<0.01, two-wAY ANOVA with post-hoc Sidak’s). N = 7 animals. Scale bar (E, G) 700 μm; (J, K) 400 μm; (M, N) 400 μm. HYP, hypothalamus; PVH, paraventricular hyp. nucleus; PVHd, paraventricular hyp. descending; LH, lateral hypothalamus; VMH, ventromedial hyp. nucleus; RN, red nucleus; PR, pons reticular formation; PAG, periaqueductal gray; MRN, midbrain reticular nucleus; EW, Edinger–Westphal nucleus; INC, interstitial nucleus of Cajal; ND, nucleus of Darkschewitsch; IP, interposed nucleus; FG, fastigial nucleus; LAV, lateral vestibular nucleus; NST, nucleus of solitary tract; SC, spinal cord. Scale bars are 1 mm.Figure 1—figure supplement 3.Detection of supraspinal neurons is similar across the midline and maximal by 2 weeks post-injection.(A) Adult mice received lumbar injection of AAV2-Retro-H2B-mGL, followed 2 weeks later by brain tissue clearing, light sheet fluorescence microscopy (LSFM) imaging, and spot detection in Imaris software. The number of detected nuclei did not differ significantly on the right versus left side in any of the analyzed brain regions (p>0.05, paired t-test; N = 7 animals). (B) Adult mice received lumbar injection of AAV2-retro-H2B-mGL and survived either 2 or 4 weeks, followed by brain tissue clearing, LSFM imaging, and spot detection in Imaris software. The number of detected nuclei was not significantly elevated in any of the analyzed brain regions at 4 weeks compared to 2 weeks (p>0.05, one-tailed t-test; N = 7 at 2 weeks, 4 at 4 weeks).Figure 1—figure supplement 4.3D imaging followed by image registration and nuclei detection by cellfinder and brainreg identifies brain regions containing supraspinal projection neurons.(A) Brainrender visualization of a mouse brain after lumbar injection of AAV2-retro-H2B-mGL, 3D imaging, registration, and nuclei detection. Detected nuclei are shown in green and selected brain regions indicated by color. Horizontal lines indicate the planes of images presented in (B). (B) Horizontal sections produced by cellfinder, with detected nuclei shown in green, identified brain regions outlined in white, and supraspinal regions coded by colors and numbers corresponding to the key shown in (C). Section 1 is most dorsal and section 10 most ventral. (C) A key that links color and number to the full name and abbreviation of 69 identified supraspinal brain regions. (D) A list of summary regions, in which adjacent supraspinal regions are combined for simplified analysis.Figure 1—figure supplement 5.Registration of mouse brains injected at T10, L1, and L3-4 shows a similar pattern of labeled supraspinal neurons.(A) AAV2-retro-H2B-mGL was injected into the SC at the indicated levels (red arrows). Two weeks later, animals were sacrificed and horizontal sections of spinal cord prepared, with green nuclear-localized label confirming appropriate targeting of injections. (B) 3D horizontal views of cleared and imaged brains of the same animals as in (A), showing qualitatively similar distribution of supraspinal neurons (green label). (C) Quantitative assessment of defined supraspinal regions using cellfinder shows similar counts in all but three regions. Green text marks significant elevation and red significant reduction (p<0.05, two-way ANOVA with Tukey’s multiple comparison, N = 4 animals). (D) An example of nuclei localization and counts within subregions of the brain using brainreg and cellfinder, highlighting the hypothalamic lateral zone and medial zone. Scale bars are 1 mm.Figure 1—video 1.A video illustrating the improvement in the detection of supraspinal cells by retrograde labeling using nuclear-localized mGreenLantern versus cytoplasmic mScarlet."
+  },
+  "8": {
+    "figure": "figures/slide_08.png",
+    "original_publisher_figure": "figures/PMC11835385_fig1.jpg",
+    "original_sha256": "5da94be972b1d2f8bd1b1df5e0f7f8522266e607df6f5a81ea4cab92f299dec4",
+    "source_url": "https://cdn.elifesciences.org/articles/98522/elife-98522-fig1-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 1.The Apollo implant and its flexible design.(A) Exploded view of the implant showing the two modules: the payload module, which accommodates up to two Neuropixels probes (protected by two lids), and the docking module. Zoom-in: scaled illustration of the tip of a 4-shank Neuropixels 2.0α probe. Each shank is 75 μm wide, with 250 μm center–center distance between shanks and 15/32 μm vertical/horizonal distance between electrode sites on each shank. (B) Assembled view of the implant, for 2.0α and 2.0 (top) and 1.0 (bottom) probes. (C) Illustration of implant flexibility. Compared with the standard model (left), the length of exposed probes (middle-left), spacing between probes (middle-right), and implantation angle (right) can all be adjusted with preset parameter changes in the software files (Video 1). (D) Constructor for the assembly of the payload and docking modules. The docking holder slides along the posts of the constructor, and optimally aligns with the payload module being held by the payload holder. This effectively eliminates the risk of breaking the shanks when combining modules."
+  },
+  "10": {
+    "figure": "figures/slide_10.png",
+    "original_publisher_figure": "figures/PMC9651950_fig1.jpg",
+    "original_sha256": "224dd7da27bc02c3a9cab48d48e248a212c2bf20eb2dbd0518e9916b971831e4",
+    "source_url": "https://cdn.elifesciences.org/articles/81248/elife-81248-fig1-v2.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 1.Features of traditional light microscopy, electron microscopy, and expansion microscopy and lattice light sheet imaging (ExLLSM).ExLLSM combines the synaptic resolution connectivity of electron microscopy with the cell-type specificity, protein specificity, and speed of light microscopy to allow the structural connectivity between targeted neurons to be quantified across many individual animals."
+  },
+  "12": {
+    "figure": "figures/slide_12.png",
+    "original_publisher_figure": "figures/PMC9651950_fig3.jpg",
+    "original_sha256": "990ab9213c802d889a874e1b0eaff0a2e7b60070703671dc0c67e593701789c7",
+    "source_url": "https://cdn.elifesciences.org/articles/81248/elife-81248-fig3-v2.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.32
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 3.Automatic presynaptic site classification and neuron assignment.(A, B, D–G) Representative examples of quantifying presynaptic sites in L2 neurons via ubiquitous BRP labeling. (A) Unexpanded female brain with BRP (magenta) and the membrane of L2 neurons (white) labeled. (B) Representative 8× view of L2 neurons from rectangle region in (A), with two individual L2 neurons segmented. (C) Quantification of L2 presynaptic sites detected by ExLLSM using either ubiquitous (nc82) or restricted (STaR-BRP) labeling (n = 10 neurons, in each of the three samples for both) and by the presence of T-bars in EM (n = 7 neurons in adjacent columns). (D) Group of L2 neurons and BRP. (E) Mask of single segmented L2 neuron from (D) with automatically identified L2 presynaptic sites. (F) Zoom in on five z-slices from (D) with analyses overlaid (G). (H–J) Representative example of quantifying presynaptic sites in L2 via STaR-BRP labeling. (G) STaR-BRP expression in a group of L2 neurons. BRP is only labeled in L2 neurons. (I) Zoom in on five z-slices from (H) with individual L2 mask and automatically identified L2 presynaptic sites overlaid (J). (K, L, N–P) Representative example of quantifying presynaptic sites in DA1-IPN neurons via ubiquitous BRP labeling by the nc82 antibody. (K) Unexpanded female brain with BRP and the membrane of DA1-IPN neurons labeled. (L) 8× view of segmented DA1-IPN neurons in the lateral horn, approximately from rectangle region in (K) with automatically detected DA1-IPN presynaptic sites labeled. (M) Quantification of DA1-IPN lateral horn presynaptic sites. Neuron cluster grouped across 11 female and 10 male ExLLSM samples, and 2 electron microscopy (EM) samples (FIB-SEM in black, left and right TEM in gray). (N) Zoom in on raw signal of two DA1-IPN presynaptic boutons from rectangle region in (L). Inset shows a single z-slice. (O) Analyzed data from (N). (P) Overlay of raw data from (N) and analyzed data from (O). (Q, R) Representative example of quantifying presynaptic sites in SAG neurons via ubiquitous BRP labeling by the nc82 antibody. (Q) Unexpanded female brain with BRP and the membrane of SAG (and off-target) neurons labeled. (R) 8× view of segmented SAG neurons from rectangle region in (Q) with automatically detected SAG presynaptic sites labeled. (S) Quantification of SAG presynaptic sites in 18 ExLLSM samples and 1 FIB-SEM sample. (C, M, S) Individual samples and mean ± SD are plotted."
+  },
+  "14": {
+    "figure": "figures/slide_14.png",
+    "original_publisher_figure": "figures/PMC9345604_fig3.jpg",
+    "original_sha256": "3a7b4ebba51cef8dccef9e15aedb03bb9903a932397c8ad9d9d068d7c7f3cc1d",
+    "source_url": "https://cdn.elifesciences.org/articles/76254/elife-76254-fig3-v2.jpg",
+    "box": [
+      0,
+      0.44,
+      0.53,
+      0.72
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 3.3D confocal microscopy reveals rates of dual cervical/lumbar targeting in various supraspinal regions.(A, B) Experimental approach. AAV2-retro-H2B-mSc and mGL were delivered to C4 and L1 SC, respectively, followed 3 weeks later by preparation of 1.5 mm sections, tissue clearing, imaging by spinning disk confocal microscopy, spot detection, and quantification. Dotted lines show the approximate locations of slice preparation. (C) Coronal views of the corresponding sections imaged by confocal microscopy. Insets indicate higher magnifications in (D). (D) Higher magnification of specific regions from sections 1, 2, 4, and 5. Left panels show H2B-mSC-positive nuclei, middle panels show H2B-mGL nuclei, and the right panel shows merged images. (E) Quantification of the percent of lumbar projecting (H2B-mGL+) nuclei that co-express H2B-mSc in selected brain regions compared to control animals that receive co-injection of H2B-mSc and H2B-mGL to lumbar spinal cord. OB, olfactory bulb; CC, cerebral cortex; M1, motor area 1; HYP, hypothalamus; RN, red nucleus; Cb, cerebellum; Sol, solitary nucleus; Pons, pons; LHA, lateral hypothalamus; PVH, paraventricular hypothalamus. **** p<0.0001, one-way ANOVA with post-hoc Sidak’s. N = 4 biological replicates per group. Scale bars (C) 800 μm; (D) 300 μm.Figure 3—figure supplement 1.Selection of supralumbar regions for quantification of dual lumbar/cervical innervation.Adult mice received lumbar (L1) injection of AAV2-retro-H2B-mGL and cervical (C4) injection of AAV2-retro-H2B-mSc, followed 3 weeks later by perfusion and preparation of 1.5-mm-thick brain sections in the transverse plane. (A) Horizontal and lateral brainrender mouse brains with dotted lines indicating the approximate cuts of sections 1–6. (B) The six brain sections were cleared with 3DISCO and imaged by confocal fluorescent microscopy. Boxes with numbers indicate the specific brain regions in (C) in which the numbers of cell nuclei that expressed H2B-mGL, H2B-mSc, or both were counted.Figure 3—figure supplement 2.Quantification of retrograde co-expression of AAV2-Retro injected to the same spinal level.(A) Adult mice received lumbar (L1) injection of both AAV2-retro-H2B-mGL and AAV2-retro-H2B-mSc, followed 2 weeks later by perfusion and 3D imaging of 2-mm-thick brain sections. (C–E) show individual CST nuclei retrogradely labeled with H2B-mGL, H2B-mSc, or both. (D) Spot detection and co-localization analyses in Imaris detect single-labeled (green or red) and double-labeled (yellow) nuclei. Note that H2B-mGL labels a greater number of nuclei than H2B-mSc. (G) Quantification of the percent of nuclei that express H2B-mGL that also express H2B-mSc (left bar) and the percent of H2B-mSc+ nuclei that also express H2B-mGL. (H) Quantification reveals similar average intensity in nuclei in which only H2B-mGL is detected compared to nuclei in which both H2B-mGL and H2B-mSc are detected. (I) Regression analysis reveals a significant positive correlation in the average signal intensity (linear regression, N = 3997 cells).Figure 3—figure supplement 3.Retrograde signal from cervical spinal cord is dimmer in cells that are co-labeled from lumbar spinal cord.(A) Adult mice received lumbar (L1) injection of AAV2-retro-mGL and cervical injection (C4) of AAV2-retro-mSc, followed 2 weeks later by perfusion and 3D imaging of 2-mm-thick brain sections. A black box indicates the approximate location shown in (C). (B) shows a region of cortex retrogradely labeled from lumbar spinal cord (green,H2B-mGL) with cervically derived H2B-mSc surrounding and also intermixed. (C) At higher magnification, cells that are labeled only with cervically injected H2B-mSc have bright label (arrows), whereas cells co-labeled with both fluorophores (dotted circles) show only dim H2B-mSc signal. (D) Starting from all cells in which H2B-mSc was detected by the Imaris Spot function, cells were divided according to detection of H2B-mGL and mSc signal intensity measured in each set. Dual-labeled cells showed significantly lower levels of H2B-mSc than single-labeled cells (N = 2664 single-labeled, 1710 dual-labeled, p<0.0001, paired t-test). (E) Signal intensity of H2B-mGL is modestly higher in cells with co-detected H2B-mSc than in cells in which only H2B-mGL is detected. (F) Cells with co-detected H2B-mSc and H2B-mGL show a significant negative correlation in signal intensity of the two fluorophores (linear regression, N = 7979 cells).Figure 3—video 1.A video illustrating confocal whole-slice imaging, selection of supraspinal regions of interest, and detection of single- and double-labeled cell nuclei.Figure 3—video 2.A video illustrating relatively dim retrograde label from cervical spinal cord in lumbar-projecting corticospinal neurons."
+  },
+  "16": {
+    "figure": "figures/slide_16.png",
+    "original_publisher_figure": "figures/PMC9651950_fig4.jpg",
+    "original_sha256": "967ffb457781bf287a31605024745cc6da670eb02c97c1983ad8c1c209fa297a",
+    "source_url": "https://cdn.elifesciences.org/articles/81248/elife-81248-fig4-v2.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.399
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 4.Quantifying connectivity using ExLLSM.(A) Unexpanded female brain with SAG (and off-target) neurons (magenta), pC1 (green) neurons, and BRP presynaptic sites (nc82, gray) labeled. (B–F) Representative examples of quantifying connectivity via pC1 postsynaptic site contact with SAG presynaptic sites. (B) Segmented SAG mask and the automatically detected pre- (cyan) and postsynaptic sites (green) of SAG to pC1 connections. (C) Max intensity projection of 200 z-slices from region approximately in the rectangle in (B). (D–F) Single z-slice of region in the rectangle from (C). (G) Quantification of SAG to pC1 connections. SAG to pC1 connections as quantified by the number of pC1 postsynaptic sites that contact SAG presynaptic sites in 11 ExLLSM samples (post ExLLSM) and the number of pC1 postsynaptic sites that connect to SAG presynaptic sites in one electron microscopy (EM) sample (connections, post EM). SAG presynaptic sites that make connections to pC1 as quantified by the number of SAG presynaptic sites that contact pC1 postsynaptic sites in 11 ExLLSM samples (pre recep. ExLLSM), number of SAG presynaptic sites that contact the pC1 membrane in six ExLLSM samples (pre mem. ExLLSM), and number of SAG presynaptic sites that make connections to pC1 postsynaptic sites in one EM sample (pre EM). (H) Quantification of SAG presynaptic sites and SAG to pC1 connections in virgin and mated female ExLLSM samples. Number of SAG presynaptic sites in five virgin samples (SAG pre virgin) and six mated samples (SAG pre mated). SAG to pC1 connections as quantified by the number of pC1 postsynaptic sites that contact SAG presynaptic sites in five virgin samples (SAG to pC1 post virgin) and in six mated samples (SAG to pC1 post mated). SAG presynaptic sites that make connections to pC1 as quantified by the number of SAG presynaptic sites that contact pC1 postsynaptic sites in five virgin samples (SAG to pC1 pre virgin) and six mated samples (SAG to pC1 pre mated). Virgin pre- and postsynaptic ExLLSM counts are significantly different from mated pre- and postsynaptic ExLLSM counts (t-tests). Individuals and mean ± SD plotted in (G, H). (I–O) Quantifying connectivity via pC1 membrane contact with SAG presynaptic sites. (I) Segmented masks of SAG and pC1 and SAG to pC1 connections approximately in rectangle in (A). (J–L) 100 z-slices of region approximately in the rectangle in (I). (M–O) Single z-slice of data from (J–L). Mask outlines shown."
+  },
+  "17": {
+    "figure": "figures/slide_17.png",
+    "original_publisher_figure": "figures/PMC9651950_fig6.jpg",
+    "original_sha256": "5d118f09251758a88627966119681228925c451619074339419023d3c3d85f60",
+    "source_url": "https://cdn.elifesciences.org/articles/81248/elife-81248-fig6-v2.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.62
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 6.Correlating individual variability in structural connectivity, functional connectivity, and behavior.(A) Unexpanded brain of a male fly with presynaptic sites (BRP, gray), GCaMP6f (green) in pIP10, and CsChrimson (magenta) in pC2l(and off-target neurons) labeled (B) Representative example of optogenetic activation of pC2l (red bar), resulting in the acute production of pulse and sine song. (C) Representative example of song produced by the male during a courtship bout with a female. (D) Representative example of a GCaMP6f response (black trace) in pIP10 induced by optogenetic activation of pC2l (red bar). (E) Representative 8× view of a segmented pC2l, segmented pIP10, pC2l presynaptic sites, and the pC2l to pIP10 connections as measured by pIP10 contact with pC2l presynaptic sites. (F) Zoom in on region in the rectangle from (E). (G, H) ExLLSM connections plotted against (G) the strength of the functional connection between pC2l and pIP10 (as in D), and (H) song seconds/minute elicited by optogenetic pC2l activation (magenta, as in B) and by a female fly (green, as in C). Linear regression and associated Pearson’s correlation coefficient (r) plotted for each relationship.Figure 6—figure supplement 1.Quantification of courtship song features, correlating individual variability in optogenetically induced pulse and sine song with structural connectivity, correlating individual variability in song with functional connectivity, and correlating individual variability in GCaMP fluorescence with structural connectivity.(A) Inter-pulse interval of pulse trains produced during male–female courtship and during optogenetic pC2l activation (t-test, two-tailed p=0.64). For optogenetic pC2l activation, two flies produced isolated pulses without forming pulse trains. (B) Sine song frequency produced during male–female courtship and during optogenetic pC2l activation (t-test, two-tailed p=0.23). For optogenetic pC2l activation, three flies produced no sine song. (A, B) Individual animals and mean ± SD shown. (C) ExLLSM connections plotted against pulses/minute (magenta; extrapolated from 5 s of pC2l activation) and the sine seconds/minute (green; extrapolated from 5 s of pC2l activation) as in Figure 5B and H. (D) Functional pC2l>pIP10 connectivity plotted against song seconds/minute produced during optogenetic pC2l activation (magenta; extrapolated from 5 s of pC2l activation) as in Figure 5B and H and the song seconds/minute produced during a 10 min pairing with a female fly (green) as in Figure 6C and H. (E) Baseline GCaMP6f fluorescence (measured using identical parameters in each fly) plotted against the number of ExLLSM connections. (C–E) Linear regression and associated Pearson’s correlation coefficient (r) values plotted for each relationship."
+  },
+  "18": {
+    "figure": "figures/slide_18.png",
+    "original_publisher_figure": "figures/PMC12055000_fig4.jpg",
+    "original_sha256": "651a920f622a509a2be00ebb3d9ba7729b4471d6fc7eb7e9e3dc5c4471917855",
+    "source_url": "https://cdn.elifesciences.org/articles/95709/elife-95709-fig4-v1.jpg",
+    "box": [
+      0,
+      0.26,
+      1,
+      0.66
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 4.Analysis of anti-drift pose trackers (ADPT’s) anti-drift performance on monkey data, showing the cross species anti-drift ability.(A) The time course of the y-axis position of sixteen body parts extracted from a 1 min video using ADPT, DeepLabCut, and SLEAP tools. It showed that ADPT successfully detected all 17 body parts of a monkey, while the other two methods encountered tracking drift because of the appearance of humans. (B) DeepLabCut and SLEAP both mistakenly located the monkey’s eyes on humans when they appeared, while ADPT can achieve robust tracking. (C, D) The percentage of frames with tracking drift and failing to detect (miss). The occurrence of drift was mainly concentrated in the limbs, because the appearance of humans.Figure 4—video 1.Video file containing a clip of monkey behavior video."
+  },
+  "20": {
+    "figure": "figures/slide_20.png",
+    "original_publisher_figure": "figures/PMC11717365_fig2.jpg",
+    "original_sha256": "aaa3abe32150dcb2fc55a673252b15182f58c3c3752cae206c9607719ba767e5",
+    "source_url": "https://cdn.elifesciences.org/articles/95528/elife-95528-fig2-v1.jpg",
+    "box": [
+      0,
+      0,
+      0.33,
+      0.29
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 2.High-resolution awake mouse functional magnetic resonance imaging (fMRI) at 14 T.(A). The awake mouse setup with head-fixed position in a custom-built cradle for visual and vibrissa stimulation. (B) The representative fMRI time course of an awake mouse based on raw image data acquired from high-resolution echo planar imaging (EPI), enabling the trace of motion-induced artifacts. (C) The anatomical MRI images (fast low angle shot [FLASH]) acquired from one representative awake mouse, showing minimal susceptibility and whole brain coverage from the implanted surface coil. (D) The raw EPI fMRI image with same spatial resolution as the anatomical FLASH image. (E) The snapshot of the distorted images due to motion of the awake mouse during scanning. Video 2 shows the video of motion-induced artifacts throughout the fMRI trial.Figure 2—figure supplement 1.Results of acclimation training on animals.(A) Box-and-whisker plot showing eye movements over 10 min duration of training days showing an increase in eye movements over the training duration indicating the animals are becoming more relaxed in the holder while being exposed to MRI sounds. The drop in eye movements at Phase 4 Training Day 1 is caused by putting the animals into the MRI for the final training. The following day at Phase 4 Training Day 2, the eye movements have increased back to the level before being inserted into the scanner. Phase 2 incorporated the 2 days animals were put in the holder without the mock-MRI environment. Phase 3 includes each day of training in a mock-MRI environment. Phase 4 showcases eye movements acquired inside the MRI during resting-state data acquisition. (B) Box-and-whisker plot of the ratio of detectable motion during scanning +1 or 2 days after training (train) and after 1 month of scanning (real) showing a non-significant decrease in the detectable motion indicating the effectiveness of the training. (C) Graph of the normalized power spectrum density (PSD) showing the increase of low-frequency pupil oscillations from eye in each phase. (D) Box-and-whisker plot showing the averaged normalized PSD of pupil oscillation frequencies below 0.02 Hz as maximally indicated in (C) showing late stage increases in mock-MRI and EPI-MRI phases, e.g., Phase 3 and Phase 4. Circle with black dot represents the median of each data group.Figure 2—figure supplement 2.Figure showing motion data (.MOT file) of a representative mouse immediately following training (A) and after 1 month of scanning (B) indicating the amount of struggling the animal is doing during scanning.Struggling-induced spikes are already substantially minimized following the training with only 5 volumes (2%) censored. After 1 month of scanning there was only one single repetition (repetition 204) at the end of the scan that was censored."
+  },
+  "22": {
+    "figure": "figures/slide_22.png",
+    "original_publisher_figure": "figures/PMC11717365_fig3.jpg",
+    "original_sha256": "a6037313d1177b824dfcb0b4af02f216a17e3b02cfbc0066c1b5eeeb88a26b87",
+    "source_url": "https://cdn.elifesciences.org/articles/95528/elife-95528-fig3-v1.jpg",
+    "box": [
+      0.77,
+      0,
+      1,
+      1
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 3.Visual stimulation-evoked high-resolution functional magnetic resonance imaging (fMRI) of awake mice.(A) The brain-wide functional maps of awake mice show strong positive blood oxygen level-dependent (BOLD) activation in the visual cortex (VC), lateral geniculate nucleus (LGN), superior colliculus (SC), and anterior cingulate area (ACA) based on the group analysis. Highlighted brain regions are statistically generated using a one-way T-test with p<0.0001 (B) The averaged time course of the ROIs derived from the Allen Brain Atlas, demonstrating an evoked positive BOLD signal changes upon the 8 s visual stimulation (5 Hz 530 nm and 5.1 Hz 490 nm 20 ms light pluses). Each graph displays the average of 162 sets of 3 stimulation epochs. Shaded regions represent standard error. Red lines represent the 8 s stimulation duration. (C) Functional maps overlain with the brain atlas to highlight the activated brains regions: VC, SC, LGN, and ACA (N=13 (6F/7M)).Figure 3—figure supplement 1.Figure showing stimulation paradigm in blue.Each ‘TR period’ is 2 s. The stimulation is repeated 10 times over the 410 s acquisition period which includes a 10 s baseline acquisition period before the first stimulation. This paradigm results in 4 ‘TR periods’ occurring during the stim on phase and 16 ‘TR periods’ occurring during the stim off phase. Any stimulation design can be used for the ‘on’ duration. TR, repetition time.Figure 3—figure supplement 2.The processing pipeline of the awake mouse functional magnetic resonance imaging (fMRI) datasets.The workflow diagram is described through the following steps: raw data registration, outlier removal, volume registration-based motion file estimation, motion removal, linear regression with the censoring function, functional map demonstration.Figure 3—figure supplement 3.Time course from single experiment showing strong blood oxygen level-dependent (BOLD) activations during stimulation paradigm.(Left) BOLD activation map highlighting positive activation in the barrel cortex (BC) and selection of a 3×3 voxel display of time course data (green box). (Right) Time course data taken from 3×3 voxel selection clearly showing 10 stimulations in each of the voxels shown."
+  },
+  "24": {
+    "figure": "figures/slide_24.png",
+    "original_publisher_figure": "figures/PMC12055000_fig5.jpg",
+    "original_sha256": "566c26031c2c9e3ddce73d774d0a0741c615b3418b8eeac937e9a067ed866e33",
+    "source_url": "https://cdn.elifesciences.org/articles/95709/elife-95709-fig5-v1.jpg",
+    "box": [
+      0,
+      0.52,
+      1,
+      0.7
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 5.Results of public datasets evaluation.(A) Samples of prediction on single fly dataset. (B) Mean average precision (mAP) on fly dataset, where anti-drift pose tracker (ADPT) achieved average of 92.8% accuracy (the best model achieved 93.27%). (C) Low-resolution semantic segmentation (LRSS) improved the average accuracy by 0.3% on a single fly dataset. (D) Relationship between annotated image and accuracy of ADPT on fly dataset where ADPT achieved acceptable performance with only 350 annotated images in a simple laboratory environment. Points indicate the validation accuracy of model training on specific number of labels dataset. (E) Transformer improved the average accuracy by 0.4% on a single fly dataset. (F) Samples of prediction on OMS_Dataset. (G) Root mean square error (RMSE) on OMS_Dataset, where ADPT achieved smaller root square mean error (RMSE) than SLEAP when threshold = 0.2, and smaller than DeepLabCut when threshold = 0.6. p-value, **: 0.001862, ns.: 0.243472, ***8.700e-06. (H) RMSE comparison on hip and tail of OMS_Dataset. p-value, ***0.000561, Hip ns.:0.023766, Tail ns.:0.336642, *: 0.035782.Figure 5—figure supplement 1.Picture examples of dog pose estimation.Figure 5—video 1.Video examples of dog pose estimation."
+  },
+  "26": {
+    "figure": "figures/slide_26.png",
+    "original_publisher_figure": "figures/PMC6707768_fig3.jpg",
+    "original_sha256": "f83ab1c7e3fef78b92817d565b4027927f7a38de61332fa5e9f9ecebbb638951",
+    "source_url": "https://cdn.elifesciences.org/articles/47188/elife-47188-fig3-v2.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.268
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "10.7554/eLife.47188.006Figure 3.Behavior in implanted mice is comparable to naive mice.(A) Behavioral testing arena, with a camera to track the position of the mouse and a monitor on top to present visual stimuli. (B) Snapshot of mouse with implant in arena. (C) Sample tracking of 2 min of open field behavior in an implanted mouse. Color of the line indicates the velocity of the mouse. (D) Open field behavior of implanted vs. naive mice. Random 30–180 s exerpts of behavior (N = 8 videos per group, two videos from each mouse) in the open field were used to calculate a percent time moving (>5 cm/s), max velocity, and max acceleration. (E) Visual-looming evoked behavior of implanted vs. naive mice (N = 10 trials, two videos per mouse). A dark dot of linearly increasing diameter (40 cm/s) was presented over the mouse’s head to evoke an escape response. The mean velocity, max velocity, and max acceleration during these responses is presented here. In all panels, orange line indicates the group mean, blue line indicates the median. p-Values (as computed by a two-sided Wilcoxon Rank Sum test) as well as effect sizes (computed by a Cohen’s d) are reported on each panel. Outliers (defined as 1.5*IQR) are marked as light gray points.10.7554/eLife.47188.007Figure 3—source data 1.Behavioral data for implanted and naive mice in an open field and in response to a looming stimulus."
+  },
+  "28": {
+    "figure": "figures/slide_28.png",
+    "original_publisher_figure": "figures/PMC6989121_fig3.jpg",
+    "original_sha256": "3e38015055ec1ca2c241306eac2884c5a8585e331d1068c373bece373eed2cb0",
+    "source_url": "https://cdn.elifesciences.org/articles/49987/elife-49987-fig3-v2.jpg",
+    "box": [
+      0,
+      0,
+      0.155,
+      0.27
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 3.Dual-region imaging with NINscope.(A) A mouse with two NINscopes mounted over cerebellum and cortex. (B) Behavior was unimpaired as quantified by counting the number of rearings and their duration in mice wearing single or dual miniscopes (rearings/minute, p=0.7864, n.s.; rearing duration, p=0.4244, n.s.; N = 4 mice). (C) Mouse skull with red circles indicating the recording configuration (craniotomy positions). For other possible configurations see Figure 3—figure supplement 1 and Figure 3—figure supplement 2. (D) CAD rendering showing the rostro-caudal placement of two NINscopes to image from cerebellum an cortex concurrently (~8 mm inter-baseplate distance at angles of 15–20°). (E) GCaMP6f was transduced selectively in cerebellar Purkinje cells (lobule VI or simplex lobule) and in neurons of motor cortex. (F) Dual site recordings from cerebellar lobule VI and motor cortex showing responses of segmented neurons (spatial footprints, A) in each region with the Z-mean scored signal, number of co-active Purkinje cell dendrites and compound acceleration signal (axyz, √(x2+y2+z2)). Cyan lines represent epochs where synchronous patterns (SPs) were found across cerebellum and cortex. (G) Combined arc plots for this dataset visualizing intra-cerebellar, intra-cerebral (within) and cerebello-cerebral (across) SPs. Node radii scale by the number of cells that a node connects to. In this example cerebellar neurons with high within SPs also displayed significant SPs across regions. (H) SPs were used to trigger the compound acceleration signal. Behavioral acceleration could be assigned to four categories consisting of no change (no Δ, 64%, sorted by peak response), behavioral acceleration post-SP (31%), pre-SP (4%), or around-SP (1%, not shown). (I) Across-regions SPs are associated with significant deviations from baseline in the accelerometer compound signal. Responsive cells are shown in cerebellum (lobule VI) and cortex, triggered off of the SP. A mouse resting prior to an SP that made a (left, upward) movement around SP onset. Animal movement visualized with optic flow is color-coded. (J) Population averaged responses triggered around detected SPs reveal responses in cerebellum and cortex during accelerometer upslope. (K) Example showing neurons in the cerebellum and cortex that participated in an SP (red) and cells that did not (cyan).Figure 3—source data 1.Dual-region imaging with NINscope.Figure 3—figure supplement 1.Tested dual NINscope configurations.(A) Different mice were fitted with two miniscopes above cerebellum and cortex (CBL-CTX, N = 4 mice), two over left and right cortex (CTX-CTX, N = 1 mouse) or two above the left and right (CBL-CBL, N = 1) cerebellar hemispheres. Colored circles denote craniotomy positions for the two miniscopes and the center-to-center distance between the locations (in mm) is indicated. Photographs are shown of mice wearing dual miniscopes in the three conditions. Mice were grooming, eating and rearing. (B) To assess the impact of dual scope recordings on rearing for the (CBL-CTX, CTX-CTX and CBL-CBL) configurations shown, we counted the number and duration of rearings. A comparable number of rearings and rear durations were found for all three conditions.Figure 3—figure supplement 1—source data 1.Data pertaining to rearing behavior with various configurations of NINscope.Figure 3—figure supplement 2.Possible dual NINscope configurations.Colored circles (diameter of 1.8 mm GRIN objective) denote craniotomy positions. Connecting lines indicate a selection of possible rostro-caudal and bihemispheric (bold text) configurations.Figure 3—figure supplement 3.Bead imaging to assess motion artifacts with dual miniscopes.(A) Injection of 6 µm diameter fluorescent beads into the cerebellum using a Nanoject II. (B) Imaged fields with beads in cortex (CTX) and cerebellum (CBL) in a mouse wearing two NINscopes one mounted above CTX, one above CBL. (C) Violin plots showing the distribution of x and y-shifts in µm after running NorMCorre on the data (N = 2 mice). Figure 3—video 2 shows fluorescent beads imaged in the two regions before and after motion correction.Figure 3—figure supplement 3—source data 1.Data related to x and y shifts for beads injected in cerebellum and cortex.Figure 3—video 1.A jumping mouse wearing two NINscopes.A jumping mouse wearing two NINscopes.. Acquisition rate 30 Hz, video speed 0.33x.Figure 3—video 2.Motion correction and segmentation in mice wearing dual miniscopes.Raw data, motion corrected (NoRMCorre) data and the demixed signal (A*C obtained after running CNMF-E) representing activity in spatial footprints of Purkinje cell dendrites are shown together with video and accelerometer data. Acquisition rate 30 Hz, video speed 1x.Figure 3—video 3.Bead imaging with dual NINscopes to assess motion artifacts.We injected 6 µm diameter fluorescent beads in the cerebellum (CBL) and cerebral cortex (CTX) and imaged them using two mounted NINscopes. We applied motion correction (NoRMCorre) to the two datasets (CBL mc, CTX mc). Raw and motion corrected data are shown together with a concurrent webcam recording of a mouse in its home cage and the accelerometer signals acquired during the same session. Acquisition rate 30 Hz, video speed 1x.Figure 3—video 4.Dual-region imaging with NINscope.Purkinje cells in the cerebellar cortex (lobule VI) and neurons in the motor cortex were transduced with GCaMP6f and concurrently imaged with dual miniscopes. The video shows the (NorMCorre) motion-corrected miniscope data, demixed signals (top: cerebellum; bottom: cortex) and webcam video data with deconvoluted calcium transients of a subset of cells from cerebellum (blue) and cortex (ocre) plotted over the course of the recording. Acquisition rate 30 Hz, video speed 3x."
+  },
+  "29": {
+    "figure": "figures/slide_29.png",
+    "original_publisher_figure": "figures/PMC11835385_fig5.jpg",
+    "original_sha256": "119d979041198bd6c517c2f285d22f596642f929a4966a4bc22dc5e2e6d37153",
+    "source_url": "https://cdn.elifesciences.org/articles/98522/elife-98522-fig5-v1.jpg",
+    "box": [
+      0.36,
+      0.255,
+      1,
+      0.615
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 5.Neurons recorded across days and months.(A) Unit presence across all recordings (left). Only the units present in at least one of the first 3 days are shown for ease of visualization. Units are ordered by the number of recordings in which their presence was detected (right). (B) Spatial layout of the population of neurons tracked across days. In this example, the recording sites were spanning two shanks of a 4-shank 2.0α probe (green rectangle in Figure 3E). (C) Average waveforms of four example tracked units, computed for 7 days across a 13-week period. (D) As in C, but showing the inter-spike interval (ISI) histogram of each unit on each day. (E) Probability of tracking a unit as a function of days between recordings, for individual mice (gray), including example from A to D (orange), or the average across all mice (black, mean ± SEM across datasets). (F) The average AUC values when comparing the ISI histogram correlations of tracked versus non-tracked neurons. Colors same as (E)."
+  },
+  "30": {
+    "figure": "figures/slide_30.png",
+    "original_publisher_figure": "figures/PMC6989121_fig3.jpg",
+    "original_sha256": "3e38015055ec1ca2c241306eac2884c5a8585e331d1068c373bece373eed2cb0",
+    "source_url": "https://cdn.elifesciences.org/articles/49987/elife-49987-fig3-v2.jpg",
+    "box": [
+      0.787,
+      0,
+      1,
+      0.27
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 3.Dual-region imaging with NINscope.(A) A mouse with two NINscopes mounted over cerebellum and cortex. (B) Behavior was unimpaired as quantified by counting the number of rearings and their duration in mice wearing single or dual miniscopes (rearings/minute, p=0.7864, n.s.; rearing duration, p=0.4244, n.s.; N = 4 mice). (C) Mouse skull with red circles indicating the recording configuration (craniotomy positions). For other possible configurations see Figure 3—figure supplement 1 and Figure 3—figure supplement 2. (D) CAD rendering showing the rostro-caudal placement of two NINscopes to image from cerebellum an cortex concurrently (~8 mm inter-baseplate distance at angles of 15–20°). (E) GCaMP6f was transduced selectively in cerebellar Purkinje cells (lobule VI or simplex lobule) and in neurons of motor cortex. (F) Dual site recordings from cerebellar lobule VI and motor cortex showing responses of segmented neurons (spatial footprints, A) in each region with the Z-mean scored signal, number of co-active Purkinje cell dendrites and compound acceleration signal (axyz, √(x2+y2+z2)). Cyan lines represent epochs where synchronous patterns (SPs) were found across cerebellum and cortex. (G) Combined arc plots for this dataset visualizing intra-cerebellar, intra-cerebral (within) and cerebello-cerebral (across) SPs. Node radii scale by the number of cells that a node connects to. In this example cerebellar neurons with high within SPs also displayed significant SPs across regions. (H) SPs were used to trigger the compound acceleration signal. Behavioral acceleration could be assigned to four categories consisting of no change (no Δ, 64%, sorted by peak response), behavioral acceleration post-SP (31%), pre-SP (4%), or around-SP (1%, not shown). (I) Across-regions SPs are associated with significant deviations from baseline in the accelerometer compound signal. Responsive cells are shown in cerebellum (lobule VI) and cortex, triggered off of the SP. A mouse resting prior to an SP that made a (left, upward) movement around SP onset. Animal movement visualized with optic flow is color-coded. (J) Population averaged responses triggered around detected SPs reveal responses in cerebellum and cortex during accelerometer upslope. (K) Example showing neurons in the cerebellum and cortex that participated in an SP (red) and cells that did not (cyan).Figure 3—source data 1.Dual-region imaging with NINscope.Figure 3—figure supplement 1.Tested dual NINscope configurations.(A) Different mice were fitted with two miniscopes above cerebellum and cortex (CBL-CTX, N = 4 mice), two over left and right cortex (CTX-CTX, N = 1 mouse) or two above the left and right (CBL-CBL, N = 1) cerebellar hemispheres. Colored circles denote craniotomy positions for the two miniscopes and the center-to-center distance between the locations (in mm) is indicated. Photographs are shown of mice wearing dual miniscopes in the three conditions. Mice were grooming, eating and rearing. (B) To assess the impact of dual scope recordings on rearing for the (CBL-CTX, CTX-CTX and CBL-CBL) configurations shown, we counted the number and duration of rearings. A comparable number of rearings and rear durations were found for all three conditions.Figure 3—figure supplement 1—source data 1.Data pertaining to rearing behavior with various configurations of NINscope.Figure 3—figure supplement 2.Possible dual NINscope configurations.Colored circles (diameter of 1.8 mm GRIN objective) denote craniotomy positions. Connecting lines indicate a selection of possible rostro-caudal and bihemispheric (bold text) configurations.Figure 3—figure supplement 3.Bead imaging to assess motion artifacts with dual miniscopes.(A) Injection of 6 µm diameter fluorescent beads into the cerebellum using a Nanoject II. (B) Imaged fields with beads in cortex (CTX) and cerebellum (CBL) in a mouse wearing two NINscopes one mounted above CTX, one above CBL. (C) Violin plots showing the distribution of x and y-shifts in µm after running NorMCorre on the data (N = 2 mice). Figure 3—video 2 shows fluorescent beads imaged in the two regions before and after motion correction.Figure 3—figure supplement 3—source data 1.Data related to x and y shifts for beads injected in cerebellum and cortex.Figure 3—video 1.A jumping mouse wearing two NINscopes.A jumping mouse wearing two NINscopes.. Acquisition rate 30 Hz, video speed 0.33x.Figure 3—video 2.Motion correction and segmentation in mice wearing dual miniscopes.Raw data, motion corrected (NoRMCorre) data and the demixed signal (A*C obtained after running CNMF-E) representing activity in spatial footprints of Purkinje cell dendrites are shown together with video and accelerometer data. Acquisition rate 30 Hz, video speed 1x.Figure 3—video 3.Bead imaging with dual NINscopes to assess motion artifacts.We injected 6 µm diameter fluorescent beads in the cerebellum (CBL) and cerebral cortex (CTX) and imaged them using two mounted NINscopes. We applied motion correction (NoRMCorre) to the two datasets (CBL mc, CTX mc). Raw and motion corrected data are shown together with a concurrent webcam recording of a mouse in its home cage and the accelerometer signals acquired during the same session. Acquisition rate 30 Hz, video speed 1x.Figure 3—video 4.Dual-region imaging with NINscope.Purkinje cells in the cerebellar cortex (lobule VI) and neurons in the motor cortex were transduced with GCaMP6f and concurrently imaged with dual miniscopes. The video shows the (NorMCorre) motion-corrected miniscope data, demixed signals (top: cerebellum; bottom: cortex) and webcam video data with deconvoluted calcium transients of a subset of cells from cerebellum (blue) and cortex (ocre) plotted over the course of the recording. Acquisition rate 30 Hz, video speed 3x."
+  },
+  "32": {
+    "figure": "figures/slide_32.png",
+    "original_publisher_figure": "figures/PMC6989121_fig1.jpg",
+    "original_sha256": "3f54cf5864d8a27aff118f3499f36b76a98f361438a8525481bb15fb7e632740",
+    "source_url": "https://cdn.elifesciences.org/articles/49987/elife-49987-fig1-v2.jpg",
+    "box": [
+      0,
+      0.5,
+      0.49,
+      1
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 1.NINscope, a compact, light-weight and versatile miniscope.(A) Schematics of the NINscope with dimensions in mm. Two 10 by 10 mm HDI printed circuit boards (PCBs), one for interfacing with the data acquisition box (Interface PCB), the other containing the CMOS imaging sensor (Sensor PCB), are stacked and mounted in a 3D printed enclosure. Excitation light from an LED is collimated with a half ball lens, passes through an excitation filter and is reflected by the dichroic mirror onto the specimen. The emitted fluorescence is collected through the GRIN objective lens, and passes the dichroic and a plano-convex lens, which focuses an image onto the CMOS sensor. An emission filter is glued onto the plano-convex lens with optical bonding glue. (B) KiCad renders of the custom-built interface and sensor PCBs with top and bottom views. The interface PCB contains an inertial measurement unit (IMU) for measuring head acceleration and orientation, three LED drivers including one for optogenetic (strobe) control and two for excitation LEDs (one used), as well as a red tracking LED, the serializer, and the IO expander. The sensor PCB contains the PYTHON480 CMOS sensor, clock oscillator and a power sequencer, which provides the image sensor with the necessary voltages as well as their timing and sequence. (C) Photograph of NINscope with coax and strain cables, excitation LED and optogenetic LED cables. (D) Custom-built implantable LED probe for optogenetic stimulation that is connected to NINscope using the optogenetic LED cable. (E) The UCLA Miniscope DAQ card v3.2 was used with minor modifications including a 256 kB x 8-bit I2C EEPROM (STMicroelectronics) and a wired connection bridging general purpose input/output 2 (GPIO2) with test point 4 (TP4). The serial peripheral interface (SPI) signals: master output slave input (MOSI), serial clk (SCK) and slave select (SSN) are connected to GPIO0, GPIO1 and GPIO3 through jumpers.Figure 1—figure supplement 1.NINscope optical design.(A) Ray tracing diagram. (B) Spot diagram. Both diagrams were obtained in Zemax Optic Studio.Figure 1—figure supplement 2.NINscope baseplate.NINscope is secured in a custom designed baseplate using a hexagonal set screw (M1.6 × 3, 0.7 Hex, part # 913000100016003, Jeveka). The lower half of the NINscope housing has a protrusion that fits in the baseplate notch to add stability. Numbers indicated are in mm.Figure 1—figure supplement 3.NINscope software.(A) Acquisition and control software: 1. Access settings panel for optogenetic stimulus parameters, input trigger settings 2. Update the list of connected devices (UVC cameras and serial ports) 3. Switch to dual or single cam mode 4. Name of saved settings file 5. Save: save the current settings in a file 6. Load: load a previously stored settings file 7. Display connected device 8. Serial port selection for device connection 9. Connect or disconnect from a device 10. Initiate manual optogenetic stimulus if enabled 11. Start and stop a recording (disabled in input trigger mode) 12. Take a snapshot 13. Expand camera view 14. Detect which miniscope is connected (tracking LED blinks 5x) 15. Excitation LED current 16. CMOS sensor exposure 17. CMOS gain setting 18. Black level setting (default: auto-calibration) 19. Displays frame rate, number of buffer frames, frame drops and number of frames recorded 20. Text field to add notes, written to disk after pressing the append button. 21. Turn G-sensor logging and display on 22. Turn G-sensor logging and display off 23. Console displays hardware checks upon startup and after a HW scan (see 2.) (B) Zoomed window: opened after hitting the expand camera view icon (see 13 in A). 1. Live histogram showing the distribution of pixel intensity values. 2. Box for panning the region of the sensor to record from with re-centering button. 3. A region-of interest (ROI) can be selected (yellow box) by clicking and dragging the mouse cursor down and to the right in the zoomed window after selecting the 'ROI Average Graph' checkbox. The mean value within this ROI can be plotted live. (C) Settings panel: 1. Optogenetic pulse on duration 2. Optogenetic pulse off duration 3. Optogenetic burst count 4. Optogenetic pulse start delay 5. Optogenetic pulse pause time 6. Optogenetic pulse loop count 7. Start optogenetic stimulation automatically upon record 8. Start optogenetic stimulation upon manual trigger (see 10.) 9. Set current to optogenetic LED 10. Turn on/off trigger input (active high 3.3 V) 11. Set number of frames to record for a trigger input (if not set hold voltage at 3.3 V to keep recording) 12. Read CMOS sensor temperature 13. Record a fixed number of frames for each recording (overrules setting 10). For more information please visit https://github.com/ninscope/Software/wiki/Software-Usage, which has videos demonstrating software usage."
+  },
+  "34": {
+    "figure": "figures/slide_34.png",
+    "original_publisher_figure": "figures/PMC4951199_fig7.jpg",
+    "original_sha256": "5aac69893b88ca9f93546f3d37b0b8d0f847d82913b350649987811a60e3d6ed",
+    "source_url": "https://cdn.elifesciences.org/articles/14472/elife-14472-fig7-v2.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.34
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "10.7554/eLife.14472.015Figure 7.Imaging fluorescent proteins in anesthetized transgenic mice.(A) Low magnification image (one section, 120 µm below the dura). The mouse expressed GCaMP6f under the thy-1 promoter (GP 5.17 line). Scanning parameters as in Figure 1Di. Field curvature correction was enabled. Average of 30 scans; power 120 mW. (B) Higher magnification image (dashed box in A). Scanning parameters as in Figure 1Dii. (C) Low magnification image (one section, 200 µm below the dura). The mouse expressed GCaMP6s under the thy-1 promoter (GP 4.3 line). Scanning parameters as in Fig. 1Di. Field curvature correction was enabled. Average of 30 scans; power 120 mW. Data corresponds to Video 1. (D) Higher magnification image (dashed box in C). Single neurons with nuclear excluded GCaMP are clearly visible. (E) Low magnification image at a deeper focal plane (one section, 450 µm below the dura). Same mouse and scanning parameters as C); power 175 mW. (F) Higher magnification image (dashed box in E) showing major somatosensory areas in layer 4. These areas appear as regions with reduced fluorescence since GCaMP6s expression is minimal in layer 4 stellate cells.DOI: http://dx.doi.org/10.7554/eLife.14472.01510.7554/eLife.14472.016Figure 7—figure supplement 1.Overlay of a typical field of view with the reference atlas. (A) Overlay of the image from Figure 7E with the mouse cortex (from Allen Brain Atlas, Brain Explorer 2). MOp: primary somatomotor, MOs: secondary somatomotor, SSp-ul: primary somatosensory upper limb, SSp-ll: primary somatosensory lower limb, SSp-un: primary somatosensory unassigned, SSp-tr: primary somatosensory trunk, SSp-bfd: primary somatosensory barrel field, PTLp: posterior parietal association, RSP: retrosplenial, VISam: anteromedial visual, VISpm: posteromedial visual, VISp: primary visual.DOI: http://dx.doi.org/10.7554/eLife.14472.01610.7554/eLife.14472.017Figure 7—figure supplement 2.Counting nuclei.(A) Max projection, 100 µm to 200 µm deep, imaged in a mouse expressing GFP in the nuclei of excitatory neurons (emx1-cre x lsl-h2b-GFP). The image was locally contrast enhanced with a contrast-limited adaptive histogram equalization (CLAHE, scikit-image). (B) Blow-up of a single section showing automatically detected nuclei in red. Nuclei were detected in 3D using a local peak finding algorithm (peak_local_max, scikit-image) after median filtering. (C) Number of detected nuclei per 2 µm thick slice, smoothed with a length 3 median filter.DOI: http://dx.doi.org/10.7554/eLife.14472.01710.7554/eLife.14472.018Figure 7—figure supplement 3.Dendritic images.(A) One slice through a mouse expressing YFP in a subset of neurons. (B) Zoom in over a dendrite with clearly visible spines.DOI: http://dx.doi.org/10.7554/eLife.14472.018"
+  },
+  "35": {
+    "figure": "figures/slide_35.png",
+    "original_publisher_figure": "figures/PMC6989121_fig2.jpg",
+    "original_sha256": "ae259d50d133d0db56540901803fd78a717852b2ce0bbd5e464b9413ebde64e0",
+    "source_url": "https://cdn.elifesciences.org/articles/49987/elife-49987-fig2-v2.jpg",
+    "box": [
+      0,
+      0.52,
+      0.175,
+      1
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 2.Cerebellar imaging with NINscope.(A) A mouse wearing a single NINscope mounted over lobule V of cerebellum, where Purkinje cells were selectively transduced with GCaMP6f. (B) Animal position can be extracted from the tracking LED when combined with concurrent webcam recordings. Colors represent the time from the start of recording and the track represents cage exploration over the course of ~2 min. (C) Spatial footprints of Purkinje cell dendrites (A) raw (C_raw) and deconvoluted signals (C) were extracted using CNMF-E (Zhou et al., 2018) after motion correction using NoRMCorre (Pnevmatikakis and Giovannucci, 2017). Event times (Events) were extracted from the deconvolved signals. Signal shown is depicted in the boxed region in D. (D) Spatial footprints of 15 Purkinje cell dendrite arbors (A) and their corresponding calcium transients (C_raw), event raster across all (168) extracted signals, the x, y, z accelerometer channels, as well as the mean raw signal (C_raw mean) and sum of all events (Event sum). (E) Purkinje cell dendrite transients were aligned to acceleration onset in the red shaded area in D. In this example a reflexive movement (twitch) was triggered by a loud clap. (F) Spontaneous behaviors monitored with a webcam can be associated with distinct signatures in the accelerometer data such as during rearing. In this recording a subset of Purkinje cells showed a significant response during animal rearing with transient elevations associated with the lifting and falling phase of the mouse (average of 4 rearings, mean ± SEM, N = 1 mouse). The dashed lines indicate the time points at which the webcam images were captured.Figure 2—source data 1.Cerebellar imaging with NINscope.Figure 2—figure supplement 1.Excitation LED light power as a function of current supplied before and after the GRIN objective and relay lenses.Excitation LED light power measured as a function of supplied current without or with GRIN lenses. measured directly below the miniscope without a lens (No GRIN), after the GRIN objective (GRIN objective) or after a GRIN objective and a relay lens (GRIN objective + relay). Imaging was performed at current settings ranging from 2.38 to 9.38 mA, which resulted in light output powers of 100–200 µW for regions imaged with a GRIN objective only such as cerebellum (CBL) and cortex (CTX) or with both a GRIN objective and relay such as dorsal striatum (DS).Figure 2—figure supplement 1—source data 1.Excitation LED light power as a function of current supplied measured before and after the GRIN objective and relay lenses.Figure 2—video 1.Cerebellar imaging with NINscope.Purkinje cell dendrites of cerebellar lobule V were transduced with GCaMP6f and imaged with NINscope. The raw data after motion correction (NoRMCorrre) are shown together with the demixed signal (A*C), which represents activity in spatial footprints of Purkinje cell dendrites (blue) obtained after segmentation with CNMF-E. Simultaneously acquired webcam data are also shown. Acquisition rate 30 Hz, video speed 3x."
+  },
+  "36": {
+    "figure": "figures/slide_36.png",
+    "original_publisher_figure": "figures/PMC6989121_fig2.jpg",
+    "original_sha256": "ae259d50d133d0db56540901803fd78a717852b2ce0bbd5e464b9413ebde64e0",
+    "source_url": "https://cdn.elifesciences.org/articles/49987/elife-49987-fig2-v2.jpg",
+    "box": [
+      0.775,
+      0.06,
+      0.98,
+      0.27
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 2.Cerebellar imaging with NINscope.(A) A mouse wearing a single NINscope mounted over lobule V of cerebellum, where Purkinje cells were selectively transduced with GCaMP6f. (B) Animal position can be extracted from the tracking LED when combined with concurrent webcam recordings. Colors represent the time from the start of recording and the track represents cage exploration over the course of ~2 min. (C) Spatial footprints of Purkinje cell dendrites (A) raw (C_raw) and deconvoluted signals (C) were extracted using CNMF-E (Zhou et al., 2018) after motion correction using NoRMCorre (Pnevmatikakis and Giovannucci, 2017). Event times (Events) were extracted from the deconvolved signals. Signal shown is depicted in the boxed region in D. (D) Spatial footprints of 15 Purkinje cell dendrite arbors (A) and their corresponding calcium transients (C_raw), event raster across all (168) extracted signals, the x, y, z accelerometer channels, as well as the mean raw signal (C_raw mean) and sum of all events (Event sum). (E) Purkinje cell dendrite transients were aligned to acceleration onset in the red shaded area in D. In this example a reflexive movement (twitch) was triggered by a loud clap. (F) Spontaneous behaviors monitored with a webcam can be associated with distinct signatures in the accelerometer data such as during rearing. In this recording a subset of Purkinje cells showed a significant response during animal rearing with transient elevations associated with the lifting and falling phase of the mouse (average of 4 rearings, mean ± SEM, N = 1 mouse). The dashed lines indicate the time points at which the webcam images were captured.Figure 2—source data 1.Cerebellar imaging with NINscope.Figure 2—figure supplement 1.Excitation LED light power as a function of current supplied before and after the GRIN objective and relay lenses.Excitation LED light power measured as a function of supplied current without or with GRIN lenses. measured directly below the miniscope without a lens (No GRIN), after the GRIN objective (GRIN objective) or after a GRIN objective and a relay lens (GRIN objective + relay). Imaging was performed at current settings ranging from 2.38 to 9.38 mA, which resulted in light output powers of 100–200 µW for regions imaged with a GRIN objective only such as cerebellum (CBL) and cortex (CTX) or with both a GRIN objective and relay such as dorsal striatum (DS).Figure 2—figure supplement 1—source data 1.Excitation LED light power as a function of current supplied measured before and after the GRIN objective and relay lenses.Figure 2—video 1.Cerebellar imaging with NINscope.Purkinje cell dendrites of cerebellar lobule V were transduced with GCaMP6f and imaged with NINscope. The raw data after motion correction (NoRMCorrre) are shown together with the demixed signal (A*C), which represents activity in spatial footprints of Purkinje cell dendrites (blue) obtained after segmentation with CNMF-E. Simultaneously acquired webcam data are also shown. Acquisition rate 30 Hz, video speed 3x."
+  },
+  "37": {
+    "figure": "figures/slide_37.png",
+    "original_publisher_figure": "figures/PMC12246236_fig2.jpg",
+    "original_sha256": "410a3953b198991c5d84b1e5d57d27b0e6b90b2018186c34af3d74ad80c2ef35",
+    "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-61774-2/MediaObjects/41467_2025_61774_Fig2_HTML.png",
+    "box": [
+      0,
+      0,
+      1,
+      0.43
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Fig. 2In vivo optical recording of mechanically (brush or von Frey)-induced neuronal activity in intact DRG neurons.a Optical voltage recordings of primary sensory neurons in response to the indicated stimuli in naïve, CFA, or SN-CCI animals. Purple bars indicate the timing of the stimulus application. Inset, images of DRG cell bodies (white dotted lines) expressing ASAP4.4-Kv. Yellow lines indicate 1.1 kHz line scan regions where ASAP4.4-Kv fluorescent signals were acquired. Red arrow marks one of action potentials and red box indicates action potential burst. Scale bar: 5 μm. b In vivo intact DRG Ca2+ imaging from naïve or CFA-treated Pirt-GCaMP3 mice. (left) Averaged images before brush stimulus was applied. (right) Averaged images after brush stimulus was applied. White arrowheads indicate spontaneously activated neurons without application of stimulus. Yellow arrowheads indicate DRG neurons activated by brush stimulus. Scale bar: 100 μm. c GCaMP3 Ca2+ transients from individual DRG neurons (grey traces) and averaged Ca2+ transients (black or orange) from naive or CFA animals. d Mean area under the curve (AUC) of ASAP4.4-Kv z-score signals and GCaMP3 Ca2+ transients in stimulated L5 DRG neurons. Brush (GCaMP3): violin plot with median (solid line) and quartiles (dashed lines); number of cells = 21 and 19 for naïve and CFA groups, respectively, from three biologically independent mice per group; two-tailed Mann-Whitney U-test. Brush and 0.4 g von Frey (ASAP4.4-Kv): each dot represents an individual recorded neuron (number of cells = 4 from three biologically independent mice per group; Kruskal-Wallis test with Dunn’s post-hoc test). 2 g von Frey (ASAP4.4-Kv): each dot represents an individual recorded neuron (number of cells = 5 from three biologically independent mice per group; Kruskal-Wallis test with Dunn’s post-hoc test). All data are presented as mean values ± SEM."
+  },
+  "38": {
+    "figure": "figures/slide_38.png",
+    "original_publisher_figure": "figures/PMC4951199_fig8.jpg",
+    "original_sha256": "5231e8ba74682885f25d9938bb382d3cc9687fc114703a2848a4d96b6127c71e",
+    "source_url": "https://cdn.elifesciences.org/articles/14472/elife-14472-fig8-v2.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.49
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "10.7554/eLife.14472.021Figure 8.In vivo imaging of neural activity.(A) Low magnification image from a mouse expressing GCaMP6f under the thy-1 promoter (GP 5.17 line) (parameters described in Figure 1Div; 120 mW average laser power). Sampling rate, 4.3 Hz. (B) Cross-correlation map of the mean activity in region 1 with the activity in all pixels after smoothing with a 5x5 pixel boxcar filter. A highly correlated spot of activity is visible around region 1. (C) Four fields of view (corresponding to boxes in A) that were acquired at high resolution and frame rate (scan parameters describe in Figure 1Dv; power, 120 mW; sampling rate, 9.6 Hz). Regions of interest (orange) were manually drawn around individual neurons. (D) Each neuron from the four fields of view colored according to its correlation value with the average activity in region 1. The average activity in region 1 was computed by taking the maximum values across all the Δ F / F traces in that region. (E) Δ F / F traces for 16 neurons extracted from the four separate regions (four per region) colored according to their correlation coefficient shown in D. Sampling rate, 9.6 Hz. Data corresponds to Video 3. (F) Histograms of the correlation coefficients for the neurons in D in the four separate regions.DOI: http://dx.doi.org/10.7554/eLife.14472.02110.7554/eLife.14472.022Figure 8—figure supplement 1.Neural activity in a large field of view.(A) Image from a mouse expressing GCaMP6s under the thy-1 promoter (GP 4.3 line) (parameters described in Figure 1Diii, FOV 4.4 mm x 4.2 mm; 120 mW average laser power; sampling rate 1.9 Hz).Image corresponds to Video 3. (B) Local correlation image, showing the result of cross-correlating each pixel with a 4-pixel neighborhood around it. (C) 3179 regions of interest were manually drawn around active neurons, using the local correlation image as a reference. (D) Δ F / F traces for 100 neurons. The neurons were selected based on having high skewness during that time period.DOI: http://dx.doi.org/10.7554/eLife.14472.022"
+  },
+  "39": {
+    "figure": "figures/slide_39.png",
+    "original_publisher_figure": "figures/PMC4951199_fig1.jpg",
+    "original_sha256": "a18fd2392ac60761131fdffa49a961334720e1ec65f017084f2c09e59e8addb4",
+    "source_url": "https://cdn.elifesciences.org/articles/14472/elife-14472-fig1-v2.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "10.7554/eLife.14472.002Figure 1.Specifications for the 2p-RAM.(A) Schematic of the dorsal surface of the mouse cortex (from Allen Brain Atlas, Brain Explorer 2). The overlaid circle corresponds to the specified FOV (∅ 5 mm). MOp: primary somatomotor, MOs: secondary somatomotor, SSp-ul: primary somatosensory upper limb, SSp-ll: primary somatosensory lower limb, SSp-un: primary somatosensory unassigned, SSp-tr: primary somatosensory trunk, SSp-bfd: primary somatosensory barrel field, PTLp: posterior parietal association, RSP: retrosplenial, VISam: anteromedial visual, VISpm: posteromedial visual, VISp: primary visual. (B) Schematic of a neuron (approximate soma diameter, 10 μm), and a diffraction limited point spread function (PSF) corresponding to NA 0.6 and 970 nm. Subcellular resolution implies that the PSF must be contained within a single neuron. (C) Key specifications for the mesoscope. (D) Imaging parameters used in the experiments. In all cases a fast resonant scan (time per scan line, 42 µs; 24 kHz line rate) is made over patches 608 µm wide. The time per patch is 42 µs x number of lines. The entire FOV can be covered in nine stripes. A slow (0.7 Hz), high-resolution scan with 3500 lines per stripe was used to cover a large portion the FOV (i). A fast (4.3 Hz), low-resolution scan across the entire scan range has up to 500 lines per stripe (iv). More typical scans will involve sampling multiple smaller patches at high resolution and frame rates (v). See implementation for discussion of the scanning patterns. (E) Schematic showing a typical use-case. The entire imaging volume is a cylinder with a 5 mm diameter and 1 mm depth. The fast scan is made over patches in different parts of the volume.DOI: http://dx.doi.org/10.7554/eLife.14472.002"
+  },
+  "40": {
+    "figure": "figures/slide_40.png",
+    "original_publisher_figure": "figures/PMC4951199_fig8.jpg",
+    "original_sha256": "5231e8ba74682885f25d9938bb382d3cc9687fc114703a2848a4d96b6127c71e",
+    "source_url": "https://cdn.elifesciences.org/articles/14472/elife-14472-fig8-v2.jpg",
+    "box": [
+      0,
+      0.53,
+      0.697,
+      1
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "10.7554/eLife.14472.021Figure 8.In vivo imaging of neural activity.(A) Low magnification image from a mouse expressing GCaMP6f under the thy-1 promoter (GP 5.17 line) (parameters described in Figure 1Div; 120 mW average laser power). Sampling rate, 4.3 Hz. (B) Cross-correlation map of the mean activity in region 1 with the activity in all pixels after smoothing with a 5x5 pixel boxcar filter. A highly correlated spot of activity is visible around region 1. (C) Four fields of view (corresponding to boxes in A) that were acquired at high resolution and frame rate (scan parameters describe in Figure 1Dv; power, 120 mW; sampling rate, 9.6 Hz). Regions of interest (orange) were manually drawn around individual neurons. (D) Each neuron from the four fields of view colored according to its correlation value with the average activity in region 1. The average activity in region 1 was computed by taking the maximum values across all the Δ F / F traces in that region. (E) Δ F / F traces for 16 neurons extracted from the four separate regions (four per region) colored according to their correlation coefficient shown in D. Sampling rate, 9.6 Hz. Data corresponds to Video 3. (F) Histograms of the correlation coefficients for the neurons in D in the four separate regions.DOI: http://dx.doi.org/10.7554/eLife.14472.02110.7554/eLife.14472.022Figure 8—figure supplement 1.Neural activity in a large field of view.(A) Image from a mouse expressing GCaMP6s under the thy-1 promoter (GP 4.3 line) (parameters described in Figure 1Diii, FOV 4.4 mm x 4.2 mm; 120 mW average laser power; sampling rate 1.9 Hz).Image corresponds to Video 3. (B) Local correlation image, showing the result of cross-correlating each pixel with a 4-pixel neighborhood around it. (C) 3179 regions of interest were manually drawn around active neurons, using the local correlation image as a reference. (D) Δ F / F traces for 100 neurons. The neurons were selected based on having high skewness during that time period.DOI: http://dx.doi.org/10.7554/eLife.14472.022"
+  },
+  "41": {
+    "figure": "figures/slide_41.png",
+    "original_publisher_figure": "figures/PMC12246236_fig1.jpg",
+    "original_sha256": "1bdceb66ca5deaddaa0ec4dfc5b64a84a170f5c862a9c0ad579e428b49779ab3",
+    "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-61774-2/MediaObjects/41467_2025_61774_Fig1_HTML.png",
+    "box": [
+      0,
+      0,
+      0.49,
+      0.185
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Fig. 1In vivo optical detection of electrically synchronous, spontaneous neuronal activity using ASAP4.4-Kv voltage imaging in intact DRG neurons.Paired optical recordings of two DRG somata (white dotted lines) expressing ASAP4.4-Kv in naïve (a), CFA (b), or SN-CCI (c) animals. Yellow lines indicate 1.1 kHz line scan regions where ASAP4.4-Kv fluorescent signals were acquired. In b, representative traces show electrical de-synchronization between a pair of adjacent DRG neurons approximately 1 hr after systemic injection of gap junction blocker, CBX (100 mg/kg, i.p.). The subthreshold voltage dynamics from recording neurons were gradually diminished following de-synchronization by gap junction blocker. The red arrow marks one of action potentials and red box indicates action potential burst. d Mean area under the curve (AUC) of ASAP4.4-Kv z-score signals in L5 DRG neurons from naïve, CFA, or SN-CCI animals (each dot represents an individual recorded neuron; number of cells = 10 from three biologically independent mice per group; Kruskal-Wallis test with Dunn’s post-hoc test). e Percentage of synchronous pairs in total DRG neuron pairs recorded from CFA mice without (control) and with systemic CBX injection (each dot represents an individual CFA-treated animal; number of biologically independent CFA mice = 7 and 4 for control (without CBX treatment) and CBX-treated groups, respectively; two-tailed Mann-Whitney U-test). f Correlation coefficients were calculated from DRG neuron pairs recorded from CFA mice without (control) and with systemic CBX injection (each dot represents one pair of DRG neurons; number of DRG pairs = 5 and 10 for control (without CBX treatment) and CBX-treated groups, respectively, from three biologically independent mice per group; two-tailed Mann-Whitney U-test). Neuron pairs exhibit electrical correlation, whereas the correlation is dissociated by gap junction blocker. Fluorescence traces showing respiratory motion or heartbeat-like rhythmic events, or digital artifacts were not considered as electrical synchronization in the analysis. g Optical ASAP4.4-Kv signals from DRG neurons of different size reveal various action potential shapes, in agreement with Aβ, Αδ and C-type nociceptor properties. Grey box on the line scan image indicates regions of interest (ROI). Red arrow marks one of action potentials recorded from ROIs, with expanded view on the right. Scale bar in inset image: a–c: 10 μm. g: 10 μm. All data are presented as mean values ± SEM."
+  },
+  "42": {
+    "figure": "figures/slide_42.png",
+    "original_publisher_figure": "figures/PMC6989121_fig5.jpg",
+    "original_sha256": "ad6206dbd53756126fdfa2402f3f418b6419bc1dd47ed5d1269f8cd4fc279686",
+    "source_url": "https://cdn.elifesciences.org/articles/49987/elife-49987-fig5-v2.jpg",
+    "box": [
+      0,
+      0,
+      0.23,
+      0.38
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 5.Deep-brain imaging and behavioral parsing with NINscope.(A) Schematic of the NINscope configuration, which combines a GRIN objective with a GRIN relay lens (600 µm) to image from the dorsal striatum (DS) of the right hemisphere. (B) Coronal section showing the GRIN relay lens track and neurons in right DS expressing GCaMP6f (yellow). (C) Left- and right-turns were quantified by combining video observations or tracking LED with analysis of G-sensor data. Shown on top are examples of a mouse making a left and right turn in an open-field arena and the path obtained from the NINscope tracking LED where time progression over a duration of one second is color-coded. Below this the spatial components (A) and transients (C_raw) of 15 neurons extracted with CNMF-E are shown, the onset times of all events extracted from C as well as the x channel of the accelerometer. The vertical bars indicate that the animal first turned right (yellow) and then left (blue), with activity modulation in the right DS coinciding with contraversive movements. (D) Accelerometer data showing mean left and right acceleration of the x channel around movement onset (mean ± SEM). Dashed gray lines represent contraversive acceleration. (E) Mean calcium transient responses one second before and after movement onset (N = 5 mice) reveal a clear modulation of activity during left turns (mean ± SEM) when imaging right DS. (F) Quantification of calcium transient responses before and after movement onset for left and right turns, respectively. Right DS only displayed a significant calcium-transient increase for left turns (p<0.05).Figure 5—source data 1.Deep-brain imaging and behavioral parsing with NINscope.Figure 5—video 1.Deep imaging with NINscope.Neurons in dorsal striatum were transduced with GCaMP6f and imaged with NINscope through a GRIN objective and relay lens. Shown are the demixed signals representing activity in neurons of dorsal striatum together with webcam recording of the animal in an open-field and the accelerometer signals. Acquisition rate 30 Hz, video speed 1x."
+  },
+  "44": {
+    "figure": "figures/slide_44.png",
+    "original_publisher_figure": "figures/PMC6989121_fig4.jpg",
+    "original_sha256": "e00ad96fcfe6eb164d63c5511662635f63b050613d9fdad31c1571d0b4627e4b",
+    "source_url": "https://cdn.elifesciences.org/articles/49987/elife-49987-fig4-v2.jpg",
+    "box": [
+      0,
+      0,
+      0.47,
+      0.26
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 4.Multi-site optogenetic stimulation with NINscope.(A) Pcp2-Cre Jdhu mice were crossed with Ai32 mice to obtain selective expression of ChR2(H134R) in cerebellar Purkinje cells. Neurons of the motor cortex were transduced in these mice with GCaMP6f. (B) Experimental configuration to combine optogenetic stimulation of cerebellum with imaging in cortex. (C) Mouse with a baseplate above the cortex and four LED probes mounted above the cerebellum (1: Crus II ipsi, 2: lobule VI, 3: Crus II contra, 4: Simplex lobule). The connector pins were used to connect the NINscope LED driver to each of the four probes. (D) Mouse with a NINscope and connection to one of the four stimulation sites. (E) Optogenetic stimulation of Purkinje cells (50 ms, 22 mA, 2.3 mW) evoked clearly discernible increases in both mean response (C_raw mean) and number of co-active cells (spatial footprints, A) in motor cortex (All Events, Event Sum). Repeated stimulation induced ramp-like activity in cortex. (F) In this example a large fraction of cells responded (responders) to optogenetic stimulation of the contralateral cerebellar hemisphere (Crus II). Color merge shows spatial localization of responders (red) and non-responders (cyan). Responsive cells were selected using the criterion that the post-stimulus signal had to exceed mean+2σ of the pre-stimulus baseline. (G) Calcium transients (gray: individual transients, black: mean) and change of summed events (Δ Events) triggered to stimulus onset at four different locations over the cerebellar surface and corresponding x (red), y (green) and z (blue) channel accelerometer data. Stimulation of the cerebellar hemispheres reveals lateralization of the behavioral response with stimulation on the left or right eliciting leftward and rightward head movements, respectively. Evoked behavioral reflexes generally commenced prior to calcium transient onsets in the cerebral cortex.Figure 4—source data 1.Multi-site optogenetic stimulation with NINscope.Figure 4—figure supplement 1.Light stimulation in absence of ChR2 neither evokes cerebral cortical nor behavioral responses.(A) Extracted spatial components (A) and corresponding transients (C_raw), all onset events (All Events) extracted from the deconvoluted transients (C), the mean response of C_raw (C_raw mean), the sum of event onsets (Event sum) and the x, y and z accelerometer channels (ax, ay, az). Note the apparent lack of modulation of cortical activity by stimulating with light (blue dashes, CBL stim.) in the absence of ChR2. B, Schematic showing the stimulus configuration with NINscope and LED probe as well as the stimulation locations used for stimulation in a C57BlL/6 wildtype mouse (N = 1 mouse). No change was observed for the number of events triggered off of the stimulation (Δ Events). The accelerometer channels lacked stimulus-triggered deflections.Figure 4—figure supplement 1—source data 1.Control experiment data in which optogenetic stimulation and imaging was performed in a wildtype mouse lacking ChR2(H134R).Figure 4—video 1.Combining remote optogenetic stimulation with cortical imaging using NINscope.Neurons of motor cortex were transduced with GCaMP6f in transgenic mice that were obtained after crossing the Pcp2-Cre Jdhu and the Ai32 mouse lines to drive expression of ChR2(H134R) in cerebellar Purkinje cells. The video shows the demixed signal representing activity in spatial footprints of cortical neurons during optogenetic stimulation of the cerebellum (here 50 ms stimulation of contralateral Crus II) indicated by a blue bar together with the video and accelerometer data. Acquisition rate 30 Hz, video speed 1x."
+  },
+  "45": {
+    "figure": "figures/slide_45.png",
+    "original_publisher_figure": "figures/PMC6989121_fig4.jpg",
+    "original_sha256": "e00ad96fcfe6eb164d63c5511662635f63b050613d9fdad31c1571d0b4627e4b",
+    "source_url": "https://cdn.elifesciences.org/articles/49987/elife-49987-fig4-v2.jpg",
+    "box": [
+      0,
+      0,
+      0.47,
+      0.26
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 4.Multi-site optogenetic stimulation with NINscope.(A) Pcp2-Cre Jdhu mice were crossed with Ai32 mice to obtain selective expression of ChR2(H134R) in cerebellar Purkinje cells. Neurons of the motor cortex were transduced in these mice with GCaMP6f. (B) Experimental configuration to combine optogenetic stimulation of cerebellum with imaging in cortex. (C) Mouse with a baseplate above the cortex and four LED probes mounted above the cerebellum (1: Crus II ipsi, 2: lobule VI, 3: Crus II contra, 4: Simplex lobule). The connector pins were used to connect the NINscope LED driver to each of the four probes. (D) Mouse with a NINscope and connection to one of the four stimulation sites. (E) Optogenetic stimulation of Purkinje cells (50 ms, 22 mA, 2.3 mW) evoked clearly discernible increases in both mean response (C_raw mean) and number of co-active cells (spatial footprints, A) in motor cortex (All Events, Event Sum). Repeated stimulation induced ramp-like activity in cortex. (F) In this example a large fraction of cells responded (responders) to optogenetic stimulation of the contralateral cerebellar hemisphere (Crus II). Color merge shows spatial localization of responders (red) and non-responders (cyan). Responsive cells were selected using the criterion that the post-stimulus signal had to exceed mean+2σ of the pre-stimulus baseline. (G) Calcium transients (gray: individual transients, black: mean) and change of summed events (Δ Events) triggered to stimulus onset at four different locations over the cerebellar surface and corresponding x (red), y (green) and z (blue) channel accelerometer data. Stimulation of the cerebellar hemispheres reveals lateralization of the behavioral response with stimulation on the left or right eliciting leftward and rightward head movements, respectively. Evoked behavioral reflexes generally commenced prior to calcium transient onsets in the cerebral cortex.Figure 4—source data 1.Multi-site optogenetic stimulation with NINscope.Figure 4—figure supplement 1.Light stimulation in absence of ChR2 neither evokes cerebral cortical nor behavioral responses.(A) Extracted spatial components (A) and corresponding transients (C_raw), all onset events (All Events) extracted from the deconvoluted transients (C), the mean response of C_raw (C_raw mean), the sum of event onsets (Event sum) and the x, y and z accelerometer channels (ax, ay, az). Note the apparent lack of modulation of cortical activity by stimulating with light (blue dashes, CBL stim.) in the absence of ChR2. B, Schematic showing the stimulus configuration with NINscope and LED probe as well as the stimulation locations used for stimulation in a C57BlL/6 wildtype mouse (N = 1 mouse). No change was observed for the number of events triggered off of the stimulation (Δ Events). The accelerometer channels lacked stimulus-triggered deflections.Figure 4—figure supplement 1—source data 1.Control experiment data in which optogenetic stimulation and imaging was performed in a wildtype mouse lacking ChR2(H134R).Figure 4—video 1.Combining remote optogenetic stimulation with cortical imaging using NINscope.Neurons of motor cortex were transduced with GCaMP6f in transgenic mice that were obtained after crossing the Pcp2-Cre Jdhu and the Ai32 mouse lines to drive expression of ChR2(H134R) in cerebellar Purkinje cells. The video shows the demixed signal representing activity in spatial footprints of cortical neurons during optogenetic stimulation of the cerebellum (here 50 ms stimulation of contralateral Crus II) indicated by a blue bar together with the video and accelerometer data. Acquisition rate 30 Hz, video speed 1x."
+  },
+  "46": {
+    "figure": "figures/slide_46.png",
+    "original_publisher_figure": "figures/PMC10945554_fig3.jpg",
+    "original_sha256": "c7cd8b86a95bed9ccbc9e1d1665a09e16b26367af6577287a2d2ba827357ab22",
+    "source_url": "https://cdn.elifesciences.org/articles/86737/elife-86737-fig3-v1.jpg",
+    "box": [
+      0,
+      0,
+      0.5,
+      0.22
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 3.Optogenetic activation of hypothalamic Foxb1+ terminals in the rostral dlPAG induces freezing-like behavior.(a) A representative example of track visualizations with underlying density maps for a ChR2-expressing Foxb1-Cre mouse belonging to the ‘OnTarget_antPAG’ group during 3 min of baseline (left) and 3 min of optogenetic stimulation (right). Note that the mouse remained immobile for the entire duration of the stimulation period. The color coding scales are not fixed between the two conditions. Open field arena dimensions are 40x40cm. Track visualization with underlying density maps for all other mice can be found in Supplementary file 3. (b) A representative example of a zone visit diagram taken from the same recording as the track visualizations in (a). Note, that the zone transitions stop completely after the onset of optogenetic stimulation. Zone visit diagrams for all other mice can be found in Supplementary file 4. (c) A visual representation of the arena partitioning into the different zones (i.e. arena, periphery, center, and four corners). (d-h) Comparison of multiple parameters extracted from the open field experiments. Optogenetic activation of parvafoxFoxb1 terminals in the PAG reduces distance moved (d), speed.moving (e), and time in center (h), while time spent immobile (f) and time in periphery (g) increases. Optogenetic silencing of parvafoxFoxb1 terminals in the PAG induces opposing effects."
+  },
+  "47": {
+    "figure": "figures/slide_47.png",
+    "original_publisher_figure": "figures/PMC10945554_fig6.jpg",
+    "original_sha256": "4e4fbe5ecc82605236a0eac1eed08280b8cc48c83536ca224c3f46542ceee97f",
+    "source_url": "https://cdn.elifesciences.org/articles/86737/elife-86737-fig6-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 6.Optogenetic activation of Foxb1+ terminals in the rostral dlPAG alters heart rate.(a) Telemetric recording of heart rate of mouse 34-21/10 in an open field. Average every 10 s, 40 min long recording. Heart rate increases from 700 to 740 during the first few minutes and remain at this level until the start of the optogenetic activation of the Foxb1 endings in the dlPAG. During the 2 min of flashing blue light, heart rate drops to under 640 but has an initial, short recovery to 690. During the following 10 min of baseline recording, the cardiovascular system is slightly dysregulated, with an increased variability in heart rate. During the second photo-stimulation, the drop in heartbeats has an amplitude comparable to the one during the first stimulation. (b) Telemetric recording of heart rate (blue curve) and movements (red curve) of mouse 106-21/10 in an open field. Average every 10 s, 20 min long recording. Heart rate values are around 740 during the first minutes (baseline condition), while the mouse is continuously moving around in the open field. Shortly after the beginning of the optogenetic activation of the Foxb1 endings in the dlPAG, the heartbeat drops massively (by ~40 %) from 740 to 450 bpm and remains around this value during the 2 min of blue light flashing (photo-stimulation). Notice the complete immobility of the mouse during this period. At the end of the optogenetic activation, heart rate rapidly returns to the baseline level of approximately 740 bpm."
+  },
+  "48": {
+    "figure": "figures/slide_48.png",
+    "original_publisher_figure": "figures/PMC10945554_fig7.jpg",
+    "original_sha256": "7eea13b5e8a84a6bfe1c9e82b9319783bfba130a43fed010d3de1333af784996",
+    "source_url": "https://cdn.elifesciences.org/articles/86737/elife-86737-fig7-v1.jpg",
+    "box": [
+      0,
+      0.63,
+      1,
+      1
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 7.Localization of the glass fibers during optogenetic activation of axon terminals in the PAG leading to immobility (a), and bradycardia (b), respectively.The effects were achieved by inserting the fibers in the rostral part of the dlPAG (Bregma −3.28, –4.04) Glass fibers colored in yellow, with their tip located over the dlPAG (a), provoked immobility. Glass fibers colored in black had their tip below the dlPAG and did not evoke changes in mobility. Glass fibers indicated by a green arrow, with their tips over the dlPAG, provoked bradycardia. Glass fibers indicated by black arrows, with their tip below dlPAG or distal to bregma –4.04., did not affect the cardiovascular system (b). (c) Cross-sections of the rostral PAG with eYFP-labelled Foxb1-terminals located in the dlPAG (mouse 106-21/10). The position of the obliquely inserted glass cannula is indicated with a large white arrow and the flat tip of the cannula is positioned over the dlPAG on the right at bregma –3.40 (left image), and on the left at bregma –3.64 (right image). Aq: Aqueductus cerebri; Dk: Darkschewitsch Nucleus; dlPAG: dorsolateral periaqueductal gray; EW: Edigener-Westphal nucleus; lPAG: lateral PAG; Ma3: medial accessory oculomotor nucleus; PrEW: pre-Edinger-Westphal nucleus."
+  },
+  "49": {
+    "figure": "figures/slide_49.png",
+    "original_publisher_figure": "figures/PMC10945554_fig1.jpg",
+    "original_sha256": "3a78636b6b5e81de5c92c6ce2e956674ae5b1f7a6e3d41e800838ed2292dbc0e",
+    "source_url": "https://cdn.elifesciences.org/articles/86737/elife-86737-fig1-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 1.Left part: Schematic drawing of a horizontal section of the hypothalamus in which the Foxb1-neurons of the parvafox and of the PMd are located (modified after Alvarez-Bolado et al., 2000).Their chemogenetic (DREADD) stimulation leads to an increase in breaths / minutes. Right part: dorsolateral PAG (dlPAG), seen in a cross-section of the midbrain. Axon terminals of parvafoxFoxb1 and PMdFoxb1 converge in the rostral part of the dlPAG. Optogenetic activation of these terminals lead to immobility and bradycardia."
+  },
+  "50": {
+    "figure": "figures/slide_50.png",
+    "original_publisher_figure": "figures/PMC11446842_fig1.jpg",
+    "original_sha256": "97223f8f282db4a12eb77df1ffcd9195b9996079e9eab4cd89d3e9df56b0f387",
+    "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-024-07558-y/MediaObjects/41586_2024_7558_Fig1_HTML.png",
+    "box": [
+      0,
+      0,
+      0.575,
+      0.47
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Fig. 1A connectomic reconstruction of a whole fly brain.a, All neuron morphologies reconstructed with FlyWire. All neurons in the central brain and both optic lobes were segmented and proofread. Note that image and dataset are mirror inverted relative to the native fly brain. b, An overview of many of the FlyWire resources that are being made available. FlyWire leverages existing resources for electron microscopy imagery by Zheng et al.9, synapse predictions by Buhmann et al.7 and Heinrich et al.118, and neurotransmitter predictions by Eckstein et al.10. Annotations of the FlyWire brain dataset such as hemilineages, nerves and hierarchical classes are established in the accompanying paper12. c, FlyWire uses CAVE50 for proofreading, data management and analysis back end. The data can be accessed programmatically through CAVEclient, navis, fafbseg and natverse119, and through the browser in Codex, Catmaid Spaces and braincircuits.io. Static exports of the data are also available. d, The Drosophila brain can be divided into spatially defined regions based on neuropils80 (Extended Data Fig. 1). Neuropils for the lamina are not shown. D, dorsal; L, lateral; P, posterior. e, Synaptic boutons in the fly brain are often polyadic such that there are multiple postsynaptic partners per presynaptic bouton. Each link between a pre- and a postsynaptic location is a synapse. f, Neuron tracts, trachea, neuropil and cell bodies can be readily identified from the electron microscopy data acquired by Zheng et al.9. Scale bar, 10 μm."
+  },
+  "52": {
+    "figure": "figures/slide_52.png",
+    "original_publisher_figure": "figures/PMC6989121_fig3.jpg",
+    "original_sha256": "3e38015055ec1ca2c241306eac2884c5a8585e331d1068c373bece373eed2cb0",
+    "source_url": "https://cdn.elifesciences.org/articles/49987/elife-49987-fig3-v2.jpg",
+    "box": [
+      0.69,
+      0.685,
+      1,
+      0.94
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 3.Dual-region imaging with NINscope.(A) A mouse with two NINscopes mounted over cerebellum and cortex. (B) Behavior was unimpaired as quantified by counting the number of rearings and their duration in mice wearing single or dual miniscopes (rearings/minute, p=0.7864, n.s.; rearing duration, p=0.4244, n.s.; N = 4 mice). (C) Mouse skull with red circles indicating the recording configuration (craniotomy positions). For other possible configurations see Figure 3—figure supplement 1 and Figure 3—figure supplement 2. (D) CAD rendering showing the rostro-caudal placement of two NINscopes to image from cerebellum an cortex concurrently (~8 mm inter-baseplate distance at angles of 15–20°). (E) GCaMP6f was transduced selectively in cerebellar Purkinje cells (lobule VI or simplex lobule) and in neurons of motor cortex. (F) Dual site recordings from cerebellar lobule VI and motor cortex showing responses of segmented neurons (spatial footprints, A) in each region with the Z-mean scored signal, number of co-active Purkinje cell dendrites and compound acceleration signal (axyz, √(x2+y2+z2)). Cyan lines represent epochs where synchronous patterns (SPs) were found across cerebellum and cortex. (G) Combined arc plots for this dataset visualizing intra-cerebellar, intra-cerebral (within) and cerebello-cerebral (across) SPs. Node radii scale by the number of cells that a node connects to. In this example cerebellar neurons with high within SPs also displayed significant SPs across regions. (H) SPs were used to trigger the compound acceleration signal. Behavioral acceleration could be assigned to four categories consisting of no change (no Δ, 64%, sorted by peak response), behavioral acceleration post-SP (31%), pre-SP (4%), or around-SP (1%, not shown). (I) Across-regions SPs are associated with significant deviations from baseline in the accelerometer compound signal. Responsive cells are shown in cerebellum (lobule VI) and cortex, triggered off of the SP. A mouse resting prior to an SP that made a (left, upward) movement around SP onset. Animal movement visualized with optic flow is color-coded. (J) Population averaged responses triggered around detected SPs reveal responses in cerebellum and cortex during accelerometer upslope. (K) Example showing neurons in the cerebellum and cortex that participated in an SP (red) and cells that did not (cyan).Figure 3—source data 1.Dual-region imaging with NINscope.Figure 3—figure supplement 1.Tested dual NINscope configurations.(A) Different mice were fitted with two miniscopes above cerebellum and cortex (CBL-CTX, N = 4 mice), two over left and right cortex (CTX-CTX, N = 1 mouse) or two above the left and right (CBL-CBL, N = 1) cerebellar hemispheres. Colored circles denote craniotomy positions for the two miniscopes and the center-to-center distance between the locations (in mm) is indicated. Photographs are shown of mice wearing dual miniscopes in the three conditions. Mice were grooming, eating and rearing. (B) To assess the impact of dual scope recordings on rearing for the (CBL-CTX, CTX-CTX and CBL-CBL) configurations shown, we counted the number and duration of rearings. A comparable number of rearings and rear durations were found for all three conditions.Figure 3—figure supplement 1—source data 1.Data pertaining to rearing behavior with various configurations of NINscope.Figure 3—figure supplement 2.Possible dual NINscope configurations.Colored circles (diameter of 1.8 mm GRIN objective) denote craniotomy positions. Connecting lines indicate a selection of possible rostro-caudal and bihemispheric (bold text) configurations.Figure 3—figure supplement 3.Bead imaging to assess motion artifacts with dual miniscopes.(A) Injection of 6 µm diameter fluorescent beads into the cerebellum using a Nanoject II. (B) Imaged fields with beads in cortex (CTX) and cerebellum (CBL) in a mouse wearing two NINscopes one mounted above CTX, one above CBL. (C) Violin plots showing the distribution of x and y-shifts in µm after running NorMCorre on the data (N = 2 mice). Figure 3—video 2 shows fluorescent beads imaged in the two regions before and after motion correction.Figure 3—figure supplement 3—source data 1.Data related to x and y shifts for beads injected in cerebellum and cortex.Figure 3—video 1.A jumping mouse wearing two NINscopes.A jumping mouse wearing two NINscopes.. Acquisition rate 30 Hz, video speed 0.33x.Figure 3—video 2.Motion correction and segmentation in mice wearing dual miniscopes.Raw data, motion corrected (NoRMCorre) data and the demixed signal (A*C obtained after running CNMF-E) representing activity in spatial footprints of Purkinje cell dendrites are shown together with video and accelerometer data. Acquisition rate 30 Hz, video speed 1x.Figure 3—video 3.Bead imaging with dual NINscopes to assess motion artifacts.We injected 6 µm diameter fluorescent beads in the cerebellum (CBL) and cerebral cortex (CTX) and imaged them using two mounted NINscopes. We applied motion correction (NoRMCorre) to the two datasets (CBL mc, CTX mc). Raw and motion corrected data are shown together with a concurrent webcam recording of a mouse in its home cage and the accelerometer signals acquired during the same session. Acquisition rate 30 Hz, video speed 1x.Figure 3—video 4.Dual-region imaging with NINscope.Purkinje cells in the cerebellar cortex (lobule VI) and neurons in the motor cortex were transduced with GCaMP6f and concurrently imaged with dual miniscopes. The video shows the (NorMCorre) motion-corrected miniscope data, demixed signals (top: cerebellum; bottom: cortex) and webcam video data with deconvoluted calcium transients of a subset of cells from cerebellum (blue) and cortex (ocre) plotted over the course of the recording. Acquisition rate 30 Hz, video speed 3x."
+  },
+  "54": {
+    "figure": "figures/slide_54.png",
+    "original_publisher_figure": "figures/PMC9908073_fig1.jpg",
+    "original_sha256": "6a9642e8401731dabd5d2f0e78dce772cde54ada4179f484ffe2f0720caf06b9",
+    "source_url": "https://cdn.elifesciences.org/articles/78344/elife-78344-fig1-v2.jpg",
+    "box": [
+      0,
+      0,
+      0.49,
+      1
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 1.Real-time imaging protocol and system hardware.(A) Sequence of steps for a real-time imaging and decoding session. (B) Miniscope connects to DAQ via coax cable, DAQ connects to Ultra96 via flywires, host PC connects to Ultra96 via Ethernet and to DAQ via USB 3.0; TTL pinouts from Ultra96 can drive closed-loop feedback stimulation from external devices."
+  },
+  "56": {
+    "figure": "figures/slide_56.png",
+    "original_publisher_figure": "figures/PMC9908073_fig4.jpg",
+    "original_sha256": "36b1ea7155b359d049fcf934ab85ffdca896fda3577fdf54f08a39185147dd2f",
+    "source_url": "https://cdn.elifesciences.org/articles/78344/elife-78344-fig4-v2.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 4.Improvement of place cell decoding by online motion correction.(A) Session-averaged performance of decoding from CB and CF traces is compared with (mc+) versus without (mc−) online motion correction; filled symbols ‘●’ and ‘▲’ mark data from example sessions shown in panel ‘C’. (B) Scatter plots compare motion artifact scores with (Wmc+) versus without (Wmc−) online motion correction (see main text for explanation of shaded regions); insets show that points lie significantly nearer to the vertical (DV) than horizontal (DH) midline indicating a significant benefit of online motion correction. (C) Displacement of sensor image against reference alignment plotted over all frames in the session (x-axis) for Rat #1 (‘●’) which accumulated a large (~10 pixels) shift alignment error over the session, and Rat #12 (‘▲’) which exhibited transient jitter error but did not accumulate a large shift error; bottom graphs show signed horizontal (Δx) and vertical (Δy) displacement from the reference alignment, middle graphs show distance (d) from reference alignment. And top graphs show absolute value of time derivative of distance (|Δd|) from the reference alignment. *p<.05; **p<.01."
+  },
+  "58": {
+    "figure": "figures/slide_58.png",
+    "original_publisher_figure": "figures/PMC12055000_fig7.jpg",
+    "original_sha256": "be3e1edbf355db61daf5f85c43b1c3d2657385a325fd6e95cc3beac80fb59cc3",
+    "source_url": "https://cdn.elifesciences.org/articles/95709/elife-95709-fig7-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.515
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 7.Applications of anti-drift pose tracker (ADPT) for multi-animal pose tracking.(A) Left: The pipeline for the multi-animal identity-pose tracking task. (B) Confusion matrix of the 10 mice classification (accuracy = 93.16%). (C) Social mice tracking pipeline with identification accuracy of 99.72%.Figure 7—video 1.Video file demonstrating single animal pose estimation and identity synchronized tracking.Figure 7—video 2.Video file demonstrating social animal pose estimation and identity synchronized tracking."
+  },
+  "60": {
+    "figure": "figures/slide_60.png",
+    "original_publisher_figure": "figures/PMC12055000_fig7.jpg",
+    "original_sha256": "be3e1edbf355db61daf5f85c43b1c3d2657385a325fd6e95cc3beac80fb59cc3",
+    "source_url": "https://cdn.elifesciences.org/articles/95709/elife-95709-fig7-v1.jpg",
+    "box": [
+      0,
+      0.535,
+      1,
+      1
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 7.Applications of anti-drift pose tracker (ADPT) for multi-animal pose tracking.(A) Left: The pipeline for the multi-animal identity-pose tracking task. (B) Confusion matrix of the 10 mice classification (accuracy = 93.16%). (C) Social mice tracking pipeline with identification accuracy of 99.72%.Figure 7—video 1.Video file demonstrating single animal pose estimation and identity synchronized tracking.Figure 7—video 2.Video file demonstrating social animal pose estimation and identity synchronized tracking."
+  },
+  "61": {
+    "figure": "figures/slide_61.png",
+    "original_publisher_figure": "figures/PMC10719114_fig3.jpg",
+    "original_sha256": "a902fe8d708711156353212de97d557c75f325a0f9cbf948d8601e2ea2f523f3",
+    "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06812-z/MediaObjects/41586_2023_6812_Fig3_HTML.png",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Fig. 3Modulatory neurotransmitter types and their distribution throughout the brain.a,b, Neuronal subclasses containing clusters that release modulatory neurotransmitters and their various co-release combinations with glutamate and/or GABA. UMAPs are coloured by subclass (a) and neurotransmitter type (b). c, Representative MERFISH sections showing the location of neuronal types expressing modulatory neurotransmitters. Cells are coloured by neurotransmitter type and labelled by subclass ID. See Supplementary Table 7 for detailed neurotransmitter assignment for each cluster. ADP, anterodorsal preoptic nucleus; AHN, anterior hypothalamic nucleus; ARH, arcuate hypothalamic nucleus; CLI, central linear nucleus raphe; CUN, cuneiform nucleus; DMH, dorsomedial nucleus of the hypothalamus; DMX, dorsal motor nucleus of the vagus nerve; IF, interfascicular nucleus raphe; LHA, lateral hypothalamic area; MDRN, medullary reticular nucleus; MPN, medial preoptic nucleus; MPO, medial preoptic area; MV, medial vestibular nucleus; NTS, nucleus of the solitary tract; PAG, periaqueductal grey; PARN, parvicellular reticular nucleus; PB, parabrachial nucleus; PBG, parabigeminal nucleus; PGRN, paragigantocellular reticular nucleus; PGRNd, paragigantocellular reticular nucleus, dorsal part; PH, posterior hypothalamic nucleus; PMv, ventral premammillary nucleus; PPN, pedunculopontine nucleus; PVa, periventricular hypothalamic nucleus, anterior part; PVHd, paraventricular hypothalamic nucleus, descending division; PVi, periventricular hypothalamic nucleus, intermediate part; PVpo, periventricular hypothalamic nucleus, preoptic part; PVR, periventricular region; RAmb, midbrain raphe nuclei; RL, rostral linear nucleus raphe; SBPV, subparaventricular zone; SNc, substantia nigra, compact part; SPIV, spinal vestibular nucleus; TMv, tuberomammillary nucleus, ventral part; VII, facial motor nucleus; VMPO, ventromedial preoptic nucleus; VTA, ventral tegmental area; ZI, zona incerta."
+  },
+  "62": {
+    "figure": "figures/slide_62.png",
+    "original_publisher_figure": "figures/PMC9651950_fig4.jpg",
+    "original_sha256": "967ffb457781bf287a31605024745cc6da670eb02c97c1983ad8c1c209fa297a",
+    "source_url": "https://cdn.elifesciences.org/articles/81248/elife-81248-fig4-v2.jpg",
+    "box": [
+      0,
+      0.6005,
+      1,
+      0.802
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 4.Quantifying connectivity using ExLLSM.(A) Unexpanded female brain with SAG (and off-target) neurons (magenta), pC1 (green) neurons, and BRP presynaptic sites (nc82, gray) labeled. (B–F) Representative examples of quantifying connectivity via pC1 postsynaptic site contact with SAG presynaptic sites. (B) Segmented SAG mask and the automatically detected pre- (cyan) and postsynaptic sites (green) of SAG to pC1 connections. (C) Max intensity projection of 200 z-slices from region approximately in the rectangle in (B). (D–F) Single z-slice of region in the rectangle from (C). (G) Quantification of SAG to pC1 connections. SAG to pC1 connections as quantified by the number of pC1 postsynaptic sites that contact SAG presynaptic sites in 11 ExLLSM samples (post ExLLSM) and the number of pC1 postsynaptic sites that connect to SAG presynaptic sites in one electron microscopy (EM) sample (connections, post EM). SAG presynaptic sites that make connections to pC1 as quantified by the number of SAG presynaptic sites that contact pC1 postsynaptic sites in 11 ExLLSM samples (pre recep. ExLLSM), number of SAG presynaptic sites that contact the pC1 membrane in six ExLLSM samples (pre mem. ExLLSM), and number of SAG presynaptic sites that make connections to pC1 postsynaptic sites in one EM sample (pre EM). (H) Quantification of SAG presynaptic sites and SAG to pC1 connections in virgin and mated female ExLLSM samples. Number of SAG presynaptic sites in five virgin samples (SAG pre virgin) and six mated samples (SAG pre mated). SAG to pC1 connections as quantified by the number of pC1 postsynaptic sites that contact SAG presynaptic sites in five virgin samples (SAG to pC1 post virgin) and in six mated samples (SAG to pC1 post mated). SAG presynaptic sites that make connections to pC1 as quantified by the number of SAG presynaptic sites that contact pC1 postsynaptic sites in five virgin samples (SAG to pC1 pre virgin) and six mated samples (SAG to pC1 pre mated). Virgin pre- and postsynaptic ExLLSM counts are significantly different from mated pre- and postsynaptic ExLLSM counts (t-tests). Individuals and mean ± SD plotted in (G, H). (I–O) Quantifying connectivity via pC1 membrane contact with SAG presynaptic sites. (I) Segmented masks of SAG and pC1 and SAG to pC1 connections approximately in rectangle in (A). (J–L) 100 z-slices of region approximately in the rectangle in (I). (M–O) Single z-slice of data from (J–L). Mask outlines shown."
+  },
+  "63": {
+    "figure": "figures/slide_63.png",
+    "original_publisher_figure": "figures/PMC10719114_fig1.jpg",
+    "original_sha256": "a20ce24a64791f21423175697d0d38326c6fa261a22b777b115a9d4a44341f0d",
+    "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06812-z/MediaObjects/41586_2023_6812_Fig1_HTML.png",
+    "box": [
+      0.39,
+      0,
+      0.7,
+      0.35
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Fig. 1Transcriptomic cell-type taxonomy of the whole mouse brain.a, Left, the transcriptomic taxonomy tree of 338 subclasses organized in a dendrogram (10xv2: n = 1,699,939 cells; 10xv3: n = 2,341,350 cells; 10x Multiome: n = 1,687 nuclei). The neighbourhood and class levels are marked on the taxonomy tree. Classes marked with asterisks are included in the NN–IMN-GC neighbourhood. The IDs of every third subclass are shown to the right of the dendrogram. Full subclass names are provided in Supplementary Table 7. Following subclass IDs, bar plots represent (left to right): major neurotransmitter type, region distribution of profiled cells, number of clusters per subclass, number of RNA-seq cells analysed per subclass, and number of cells analysed by MERFISH per subclass. Subclasses marked with grey dots contain sex-dominant clusters. Sex-dominant clusters within a subclass are identified by calculating the odds and log P value for male/female distribution per cluster. Clusters with odds < 0.2 and log10(P value) < −10 are considered to be sex-dominant. b–e, UMAP representation of all cell types coloured by class (b), subclass (c), brain region (d) and major neurotransmitter type (e). Colour schemes for a–e are shown in the key at the bottom right of the figure. Astro, astrocyte; CB, cerebellum; CGE, caudal ganglionic eminence; CNU, cerebral nuclei; CR, Cajal–Retzius; CT, corticothalamic; CTX, cerebral cortex; CTXsp, cortical subplate; DG, dentate gyrus; EA, extended amygdala; Epen, ependymal; EPI, epithalamus; ET, extratelencephalic; GC, granule cell; HB, hindbrain; HPF, hippocampal formation; HY, hypothalamus; HYa, anterior hypothalamic; IMN, immature neurons; IT, intratelencephalic; L6b, layer 6b; LGE, lateral ganglionic eminence; LH, lateral habenula; LSX, lateral septal complex; MB, midbrain; MGE, medial ganglionic eminence; MH, medial habenula; MM, medial mammillary nucleus; MY, medulla; NN, non-neuronal; NP, near-projecting; OB, olfactory bulb; OEC, olfactory ensheathing cells; OLF, olfactory areas; Oligo, oligodendrocytes; OPC, oligodendrocyte precursor cells; P, pons; PAL, pallidum; STR, striatum; TH, thalamus. Neurotransmitter types: Chol, cholinergic; Dopa, dopaminergic; GABA, GABAergic; Glut, glutamatergic; Glyc, glycinergic; Hist, histaminergic; Nora, noradrenergic; Sero, serotonergic; NA, not applicable (no neurotransmitter detected)."
+  },
+  "64": {
+    "figure": "figures/slide_64.png",
+    "original_publisher_figure": "figures/PMC6342523_fig6.jpg",
+    "original_sha256": "aeaf5bf1511c362b76e03680dbbc40e2af9ffeeb390525891e8cfa558bb030c8",
+    "source_url": "https://cdn.elifesciences.org/articles/38173/elife-38173-fig6-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.49
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 6.Online analysis of a 30 min long whole brain recording of the zebrafish brain.(a) Correlation image overlaid with the spatial components (in red) found by the algorithm (portion of plane 11 out of 45 planes in total). (b) Correlation image (left) and mean image (right) for the dashed region in panel (a) with superimposed the contours of the neurons marked in (a). (c) Spatial (left) and temporal (right) components associated to the ten example neurons marked in panel (a). (d) Temporal traces for all the neurons found in the FOV in (a); the initialization on the first 200 frames contained 500 neurons (present since time 0). (e) Number of neurons found per plane (See also Figure 6—figure supplement 1 for a summary of the results from all planes).Figure 6—figure supplement 1.Spatial and temporal components for all planes.Profile of spatial (left) and temporal (right) components found in each plane of the whole brain zebrafish recording. (Left) Components are extracted with CaImAn online and then max-thresholded. (Right) See Results section for a complete discussion. .Figure 6—video 1.Results of CaImAn online initialized by CaImAn batch on a whole brain zebrafish dataset.Each panel shows the active neurons in a given plane (top-to-bottom) without any background activity. See the text for more details.10.7554/eLife.38173.015"
+  },
+  "66": {
+    "figure": "figures/slide_66.png",
+    "original_publisher_figure": "figures/PMC10719114_fig2.jpg",
+    "original_sha256": "12558484bd82446586f62b76b3be1191720c787b03fd3a43b4e797464e6dda26",
+    "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06812-z/MediaObjects/41586_2023_6812_Fig2_HTML.png",
+    "box": [
+      0,
+      0,
+      1,
+      0.52
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Fig. 2Neuronal cell-type classification and distribution across the brain.a–l, UMAP representation (a,c,e,g,i,k) and representative MERFISH sections (b,d,f,h,j,l) of Pallium-Glut (a,b), Subpallium-GABA (c,d), HY–EA-Glut–GABA (e,f), TH–EPI-Glut (g,h), MB–HB-Glut–Sero–Dopa (i,j) and MB–HB–CB-GABA (k,l) neighbourhoods coloured by subclass. Each subclass is labelled with its ID and shown in the same colour in UMAP representations and MERFISH sections. a,c,e,g,i,k, Outlines in UMAP representations show cell classes. For full subclass names, see Supplementary Table 7."
+  },
+  "67": {
+    "figure": "figures/slide_67.png",
+    "original_publisher_figure": "figures/PMC11446842_fig2.jpg",
+    "original_sha256": "9bdbf6261afbf04daa5a53558f6eb692e871d7a4bca3b620d89183ec2878a568",
+    "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-024-07558-y/MediaObjects/41586_2024_7558_Fig2_HTML.png",
+    "box": [
+      0,
+      0.37,
+      1,
+      0.685
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Fig. 2Neuron categories.a, We grouped neurons in the fly brain by ‘flow’: intrinsic, afferent or efferent. Each flow class is further divided into ‘superclasses’ on the basis of location and function. Neuron annotations are described in more detail in our companion paper12. 201 neurons were not assigned to a hemisphere and are thus omitted from this panel. b, Using these neuron annotations, we created an aggregated synapse graph between the superclasses in the fly brain. D, dorsal; L, left; R, right; V, ventral. c, Renderings of all neurons in each superclass. d, There are eight nerves into each hemisphere in addition to the ocellar nerve and the cervical connective nerve. All neurons traversing the nerves have been reconstructed and accounted for. AN, antennal nerve; aPhN, accessory pharyngeal nerve; CV, cervical (neck) connective nerve; MxLbN, maxillary–labial nerve; NCC, nervii corpora cardiaca; OCN, ocellar nerve; ON, occipital nerve; PhN, pharyngeal nerve. e, Sensory neurons can be subdivided by the sensory modality that they respond to. Almost all sensory neurons have been typed by modality. The counts for the medial ocelli were omitted and are shown in Fig. 7b. Comp. eye, compound eye; hygros., hygrosensory; mechanos., mechanosensory; thermos., thermosensory. f, Renderings of all non-visual sensory neurons. Scale bar, 100 µm."
+  },
+  "69": {
+    "figure": "figures/slide_69.png",
+    "original_publisher_figure": "figures/PMC10719114_fig5.jpg",
+    "original_sha256": "8018b0658df86275a2b5ecd1c9c35fa5acbe8c1443e222b551a6eae16d2f2897",
+    "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06812-z/MediaObjects/41586_2023_6812_Fig5_HTML.png",
+    "box": [
+      0,
+      0,
+      1,
+      0.22
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Fig. 5Transcription factor modules across the whole mouse brain.a, Distribution of the number of differentially expressed transcription factors (TFs) between neuronal and non-neuronal classes, between classes, between subclasses, and within subclasses. b, Cross-validation accuracy for each cluster (left) or subclass (right) using classifiers built based on all 8,460 marker genes (all), 534 transcription factor marker genes (TF), 541 functional marker genes, 857 marker genes encoding adhesion molecules (adhesion), 534 randomly selected adhesion marker genes (random adhesion), or 534 randomly selected marker genes (random). c, Density plot showing distribution of correlation of marker gene expression between clusters using all markers, adhesion marker genes, functional genes and transcription factors. Correlation values are derived from full correlation matrices shown in Extended Data Fig. 3. d, Expression of key transcription factors for each subclass in the taxonomy tree, organized in transcription factor co-expression modules shown as colour bars on both sides of the heat map. Module IDs are shown on the left, exemplary transcription factor genes are shown on the right. For a full list of transcription factor genes in each module (in the same order as in this heat map), see Supplementary Table 8. Avg, mean.Source Data"
+  },
+  "70": {
+    "figure": "figures/slide_70.png",
+    "original_publisher_figure": "figures/PMC12055000_fig8.jpg",
+    "original_sha256": "444f38244734c846c155ffeb6331cd8792de7344818e624cb24cb9be799ef207",
+    "source_url": "https://cdn.elifesciences.org/articles/95709/elife-95709-fig8-v1.jpg",
+    "box": [
+      0,
+      0,
+      0.62,
+      0.34
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Figure 8.Evaluation of anti-drift pose tracker (ADPT) for homecage social mice scenario.(A) Illustration of homecage social mice dataset. (B) Filtered predicted back locations of different mice by ADPT. (C) Comparison of different methods and manual labels. We trained each model three times, and this figure presents the results from one of those training sessions. We calculated the average root square mean error (RMSE) between predictions and manual labels, demonstrating that ADPT achieved an average RMSE of 15.8±0.59 pixels, while DeepLabCut (DLC) and SLEAP recorded RMSEs of 113.19±42.75 pixels and 94.76±1.95 pixels, respectively. (D) Pose estimation accuracy comparison between ADPT and DLC based on the DLC evaluation metric. ADPT achieved an accuracy of 6.35±0.14 pixels across all body parts of the mice, while DLC reached 7.49±0.2 pixels. (E) Pose estimation accuracy comparison between ADPT and SLEAP using the SLEAP evaluation metric. ADPT achieved 8.33±0.19 pixels across all body parts of the mice, compared to SLEAP’s 9.82±0.57 pixels. (F) Body affinity fields (BAF) improved pose estimation accuracy by 0.4 pixels under the SLEAP evaluation metric.Figure 8—video 1.Video file demonstrating homecage social mice pose estimation and identity synchronized tracking."
+  },
+  "71": {
+    "figure": "figures/slide_71.png",
+    "original_publisher_figure": "figures/PMC5319839_fig1.jpg",
+    "original_sha256": "f681853c3029848c42a379514b93ee8177adad824d17a68381367db4d8b3a713",
+    "source_url": "https://cdn.elifesciences.org/articles/18554/elife-18554-fig1-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.63
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "10.7554/eLife.18554.003Figure 1.Experimental setup and typing rates during free-paced question and answer sessions.(a) Electrical activity was recorded using 96-channel silicon microelectrode arrays implanted in the hand area of motor cortex. Signals were filtered to extract multiunit spiking activity and high frequency field potentials, which were decoded to provide ‘point-and-click’ control of a computer cursor. (b) Performance achieved by participant T6 over the three days that question and answer sessions were conducted. The width of each black bar represents the duration of that particular block. The black bands along the gray bar just below the black blocks denote filter calibration times. The average typing rate across all blocks was 24.4 ± 3.3 correct characters per minute (mean ± s.d.). Video 1 shows an example of T6’s free typing. The filter calibration and assessment stages that preceded these typing blocks are detailed in Figure 1—figure supplement 3.DOI: http://dx.doi.org/10.7554/eLife.18554.00310.7554/eLife.18554.004Figure 1—figure supplement 1.Participant T6’s typed responses during the question and answer sessions.During these sessions, T6 was prompted with questions and formulated responses de novo. She could engage and disengage the interface using a play/pause button (see Video 1). In these sessions, two successive spaces resulted in the insertion of the ‘.’ character in place of the first space. Consent was obtained to release T6’s typed text.DOI: http://dx.doi.org/10.7554/eLife.18554.00410.7554/eLife.18554.005Figure 1—figure supplement 2.Participant T6’s character selection during the question and answer sessions.Same as previous table, but also includes all errors and backspace characters entered.DOI: http://dx.doi.org/10.7554/eLife.18554.00510.7554/eLife.18554.006Figure 1—figure supplement 3.Filter calibration, assessment, and typing blocks for the ‘free typing’ sessions performed with participant T6.This expanded figure shows the free typing data presented in Figure 1, as well as the filter calibration and assessment stages that preceded the collection of those data. These sessions were not optimized for filter calibration, rather, performance was achieved and maintained by running evaluation or recalibration blocks at the participant or researchers’ discretion. The black bands along the gray bar just above the x-axis denote filter calibration time. Red bars denote evaluation blocks or blocks where T6 stopped the block early. Blue bars denote uninterrupted blocks of free typing.DOI: http://dx.doi.org/10.7554/eLife.18554.006"
+  },
+  "72": {
+    "figure": "figures/slide_72.png",
+    "original_publisher_figure": "figures/PMC10468393_fig1.jpg",
+    "original_sha256": "9e42abb260c8d6feef08fc4bcde4f70cff4cf0d9d592620393de664d080c9520",
+    "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06377-x/MediaObjects/41586_2023_6377_Fig1_HTML.png",
+    "box": [
+      0,
+      0,
+      0.245,
+      0.42
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Fig. 1Neural representation of orofacial movement and attempted speech.a, Microelectrode array locations (cyan squares) are shown on top of MRI-derived brain anatomy (CS, central sulcus). b, Neural tuning to orofacial movements, phonemes and words was evaluated in an instructed delay task. c, Example responses of an electrode in area 6v that was tuned to a variety of speech articulator motions, phonemes and words. Each line shows the mean threshold crossing (TX) rate across all trials of a single condition (n = 20 trials for orofacial movements and words, n = 16 for phonemes). Shaded regions show 95% confidence intervals (CIs). Neural activity was denoised by convolving with a Gaussian smoothing kernel (80 ms s.d.). d, Bar heights denote the classification accuracy of a naive Bayes decoder applied to 1 s of neural population activity from area 6v (red bars) or area 44 (purple bars) across all movement conditions (33 orofacial movements, 39 phonemes, 50 words). Black lines denote 95% CIs. e, Red and blue lines represent classification accuracy across time for each of the four arrays and three types of movement. Classification was performed with a 100 ms window of neural population activity for each time point. Shaded regions show 95% CIs. Grey lines denote normalized speech volume for phonemes and words (indicating speech onset and offset). f, Tuning heatmaps for both arrays in area 6v, for each movement category. Circles are drawn if binned firing rates on that electrode were significantly different across the given set of conditions (P < 1 × 10–5 assessed with one-way analysis of variance; bin width, 800 ms). Shading indicates the fraction of variance accounted for (FVAF) by across-condition differences in mean firing rate."
+  },
+  "73": {
+    "figure": "figures/slide_73.png",
+    "original_publisher_figure": "figures/PMC10468393_fig2.jpg",
+    "original_sha256": "e3a84ac15ef3dc61ab40e9b8ee47a158907d69012222a59bcf890844bea98c19",
+    "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06377-x/MediaObjects/41586_2023_6377_Fig2_HTML.png",
+    "box": [
+      0,
+      0,
+      1,
+      0.43
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Fig. 2Neural decoding of attempted speech in real time.a, Diagram of the decoding algorithm. First, neural activity (multiunit threshold crossings and spike band power) is temporally binned and smoothed on each electrode. Second, an RNN converts a time series of this neural activity into a time series of probabilities for each phoneme (plus the probability of an interword ‘silence’ token and a ‘blank’ token associated with the connectionist temporal classification training procedure). The RNN is a five-layer, gated recurrent-unit architecture trained using TensorFlow 2. Finally, phoneme probabilities are combined with a large-vocabulary language model (a custom, 125,000-word trigram model implemented in Kaldi) to decode the most probable sentence. Phonemes in this diagram are denoted using the International Phonetic Alphabet. b, Open circles denote word error rates for two speaking modes (vocalized versus silent) and vocabulary size (50 versus 125,000 words). Word error rates were aggregated across 80 trials per day for the 125,000-word vocabulary and 50 trials per day for the 50-word vocabulary. Vertical lines indicate 95% CIs. c, Same as in b, but for speaking rate (words per minute). d, A closed-loop example trial demonstrating the ability of the RNN to decode sensible sequences of phonemes (represented in ARPABET notation) without a language model. Phonemes are offset vertically for readability, and ‘<sil>’ indicates the silence token (which the RNN was trained to produce at the end of all words). The phoneme sequence was generated by taking the maximum-probability phonemes at each time step. Note that phoneme decoding errors are often corrected by the language model, which still infers the correct word. Incorrectly decoded phonemes and words are denoted in red."
+  },
+  "74": {
+    "figure": "figures/slide_74.png",
+    "original_publisher_figure": "figures/PMC10468393_fig3.jpg",
+    "original_sha256": "3bc54de189eec6c78594da9dd5dde9037223ad968c6d9392fb38d88d4b316652",
+    "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06377-x/MediaObjects/41586_2023_6377_Fig3_HTML.png",
+    "box": [
+      0.48,
+      0.51,
+      1,
+      1
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Fig. 3Preserved articulatory representation of phonemes.a, Representational similarity across consonants for neural data (left) and articulatory data from an example subject who can speak normally, obtained from the USC-TIMIT database (right). Each square in the matrix represents pairwise similarity for two consonants (as measured by cosine angle between neural or articulatory vectors). Ordering consonants by place of articulation shows a block-diagonal structure in neural data that is also reflected in articulatory data. b, Neural activity is significantly more correlated with an articulatory representation than would be expected by chance. The blue distribution shows correlations expected by chance (estimated from 10,000 reshufflings of phoneme labels). c, Low-dimensional representation of phonemes articulatorily (left) and neurally (right). Neural data were rotated within the top eight principal components (PC), using cross-validated Procrustes, to show visual alignment with articulatory data. d, Representational similarity for vowels, ordered by articulatory similarity. Diagonal banding in the neural similarity matrix indicates a similar neural representation. For reference, the first and second formants of each vowel are plotted below the similarity matrices38. e, Neural activity correlates with the known two-dimensional structure of vowels. f, Same as c but for vowels, with an additional within-plane rotation applied to align the (high versus low) and (front versus back) axes along the vertical and horizontal."
+  },
+  "75": {
+    "figure": "figures/slide_75.png",
+    "original_publisher_figure": "figures/PMC10468393_fig2.jpg",
+    "original_sha256": "e3a84ac15ef3dc61ab40e9b8ee47a158907d69012222a59bcf890844bea98c19",
+    "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06377-x/MediaObjects/41586_2023_6377_Fig2_HTML.png",
+    "box": [
+      0,
+      0.75,
+      1,
+      1
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Fig. 2Neural decoding of attempted speech in real time.a, Diagram of the decoding algorithm. First, neural activity (multiunit threshold crossings and spike band power) is temporally binned and smoothed on each electrode. Second, an RNN converts a time series of this neural activity into a time series of probabilities for each phoneme (plus the probability of an interword ‘silence’ token and a ‘blank’ token associated with the connectionist temporal classification training procedure). The RNN is a five-layer, gated recurrent-unit architecture trained using TensorFlow 2. Finally, phoneme probabilities are combined with a large-vocabulary language model (a custom, 125,000-word trigram model implemented in Kaldi) to decode the most probable sentence. Phonemes in this diagram are denoted using the International Phonetic Alphabet. b, Open circles denote word error rates for two speaking modes (vocalized versus silent) and vocabulary size (50 versus 125,000 words). Word error rates were aggregated across 80 trials per day for the 125,000-word vocabulary and 50 trials per day for the 50-word vocabulary. Vertical lines indicate 95% CIs. c, Same as in b, but for speaking rate (words per minute). d, A closed-loop example trial demonstrating the ability of the RNN to decode sensible sequences of phonemes (represented in ARPABET notation) without a language model. Phonemes are offset vertically for readability, and ‘<sil>’ indicates the silence token (which the RNN was trained to produce at the end of all words). The phoneme sequence was generated by taking the maximum-probability phonemes at each time step. Note that phoneme decoding errors are often corrected by the language model, which still infers the correct word. Incorrectly decoded phonemes and words are denoted in red."
+  },
+  "76": {
+    "figure": "figures/slide_76.png",
+    "original_publisher_figure": "figures/PMC10232367_fig1.jpg",
+    "original_sha256": "876e8b90522b88f697daf6130227ecd4d4caadc815ae916ed473d7526e1c5897",
+    "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06094-5/MediaObjects/41586_2023_6094_Fig1_HTML.png",
+    "box": [
+      0,
+      0,
+      0.49,
+      1
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Fig. 1Design, technology and implantation of the BSI.a, Two cortical implants composed of 64 electrodes are positioned epidurally over the sensorimotor cortex to collect ECoG signals. A processing unit predicts motor intentions and translates these predictions into the modulation of epidural electrical stimulation programs targeting the dorsal root entry zones of the lumbosacral spinal cord. Stimulations are delivered by an implantable pulse generator connected to a 16-electrode paddle lead. b, Images reporting the pre-operative planning of cortical implant locations, and postoperative confirmation. L, left; R, right. c, Personalized computational model predicting the optimal localization of the paddle lead to target the dorsal root entry zones associated with lower limb muscles, and postoperative confirmation."
+  },
+  "77": {
+    "figure": "figures/slide_77.png",
+    "original_publisher_figure": "figures/PMC10232367_fig1.jpg",
+    "original_sha256": "876e8b90522b88f697daf6130227ecd4d4caadc815ae916ed473d7526e1c5897",
+    "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06094-5/MediaObjects/41586_2023_6094_Fig1_HTML.png",
+    "box": [
+      0,
+      0,
+      0.49,
+      1
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Fig. 1Design, technology and implantation of the BSI.a, Two cortical implants composed of 64 electrodes are positioned epidurally over the sensorimotor cortex to collect ECoG signals. A processing unit predicts motor intentions and translates these predictions into the modulation of epidural electrical stimulation programs targeting the dorsal root entry zones of the lumbosacral spinal cord. Stimulations are delivered by an implantable pulse generator connected to a 16-electrode paddle lead. b, Images reporting the pre-operative planning of cortical implant locations, and postoperative confirmation. L, left; R, right. c, Personalized computational model predicting the optimal localization of the paddle lead to target the dorsal root entry zones associated with lower limb muscles, and postoperative confirmation."
+  },
+  "78": {
+    "figure": "figures/slide_78.png",
+    "original_publisher_figure": "figures/PMC10232367_fig2.jpg",
+    "original_sha256": "27b0cd80de8d845b6ea2661199e735441d3226f9cbb7a36c2da16e041447df81",
+    "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06094-5/MediaObjects/41586_2023_6094_Fig2_HTML.png",
+    "box": [
+      0,
+      0,
+      0.45,
+      0.28
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Fig. 2Calibration of the BSI.a, Identification of the spatial and spectral distributions of ECoG feature weights related to attempted left hip flexions. b, Calibration of anode/cathode configurations and stimulation parameters (frequency, range of amplitudes) to elicit left hip flexions, including electromyographic signals from lower limb muscles. The polar plot reports the relative amplitude of muscle responses for the optimal configuration to target left hip flexors over the range of functional stimulation amplitudes (300 µs, 40 Hz, 14–16 mA). c, Online calibration of the BSI to enable volitional hip flexion in a seated position. Representative sequence reporting spectrogram, decoding probability and proportional modulation of stimulation amplitudes together with the resulting muscle activity and torque. The plot reports the convergence of the model over time, reaching 97 ± 0.4% after 90 s. d, Similar representations after the calibration of the BSI to enable the control over hip, knee and ankle joints of the lower limbs. e, Confusion matrices reporting the decoding accuracy for each joint (74 ± 7% s.e.m.) and the accuracy of the stimulation for each targeted muscle group (83 ± 6% s.e.m.)."
+  },
+  "79": {
+    "figure": "figures/slide_79.png",
+    "original_publisher_figure": "figures/PMC10232367_fig3.jpg",
+    "original_sha256": "c37cc25d1f9f9d74ea38e9721d0bde97e9bc19c1afe7fa7915dc274e5e4bf110",
+    "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06094-5/MediaObjects/41586_2023_6094_Fig3_HTML.png",
+    "box": [
+      0,
+      0,
+      0.265,
+      0.25
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Fig. 3The BSI restores natural control of walking.a, Attempts to perform voluntary hip flexions without and with the BSI, including photographs, vertical elevation of the knee and hip flexor muscle activity. Bar plots report the mean values for these measurements. (n = 3 attempts per condition, unpaired one-tailed t-test, ***P < 0.001.) b, Chronophotography during walking with the BSI turned on, off and then on again. Note the two decoded attempts that do not lead to muscle activity nor the execution of steps. c, Range of stimulation amplitude during walking. d, Bar plots reporting mean values of kinematic and muscle activity parameters during walking with the BSI turned off and on, (n = 3 and 8 attempts for BSIOFF and BSION, respectively, unpaired one-tailed t-test, ***P < 0.001, P(iliopsoas activation) = 3.4 × 10−4, P(step height) = 5.1 × 10−10, P(hip angle) = 2.7 × 10−5, P(knee angle) = 1.6 × 10−9). e, Chronophotography of standing (voluntary pause) and walking with the BSI outdoors. The spectrogram, probabilities of left and right steps and modulation of stimulation amplitudes illustrate the robustness of the performance and absence of false-positive detections during the voluntary pause. f, Plots report the probability of right hip flexions over consecutive steps measured during the first session after the neurosurgical implantation (n = 13 steps, accuracy = 0.92 ± 0.1 s.d., w = 2.66 ± 0.6 s s.d.), and at 2 (n = 46 steps, accuracy = 0.93 ± 0.1 s.d., w = 2.64 ± 0.6 s s.d.), 6 (n = 41 steps, accuracy = 0.97 ± 0.1 s.d., w = 2.56 ± 0.9 s s.d.) and 11 months (n = 29 steps, accuracy = 0.97 ± 0.1 s.d., w = 1.71 ± 0.4 s s.d.) after the first activation of the BSI using updated models (Extended Data Fig. 5)."
+  },
+  "80": {
+    "figure": "figures/slide_80.png",
+    "original_publisher_figure": "figures/PMC10232367_fig1.jpg",
+    "original_sha256": "876e8b90522b88f697daf6130227ecd4d4caadc815ae916ed473d7526e1c5897",
+    "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06094-5/MediaObjects/41586_2023_6094_Fig1_HTML.png",
+    "box": [
+      0,
+      0,
+      0.49,
+      1
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Fig. 1Design, technology and implantation of the BSI.a, Two cortical implants composed of 64 electrodes are positioned epidurally over the sensorimotor cortex to collect ECoG signals. A processing unit predicts motor intentions and translates these predictions into the modulation of epidural electrical stimulation programs targeting the dorsal root entry zones of the lumbosacral spinal cord. Stimulations are delivered by an implantable pulse generator connected to a 16-electrode paddle lead. b, Images reporting the pre-operative planning of cortical implant locations, and postoperative confirmation. L, left; R, right. c, Personalized computational model predicting the optimal localization of the paddle lead to target the dorsal root entry zones associated with lower limb muscles, and postoperative confirmation."
+  },
+  "81": {
+    "figure": "figures/slide_81.png",
+    "original_publisher_figure": "figures/PMC10232367_fig4.jpg",
+    "original_sha256": "da47256451837072debb1a9b1e478529d3aff6103bd33f096ba8cbd101f1b787",
+    "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06094-5/MediaObjects/41586_2023_6094_Fig4_HTML.png",
+    "box": [
+      0,
+      0,
+      1,
+      0.27
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Fig. 4Neurological improvements following neurorehabilitation supported by the BSI in the absence of stimulation.a, Chronophotography illustrating the walking ability of the participant without any stimulation before enroling in the STIMO clinical trial (pre-STIMO), after its completion (post-STIMO) and after completion of the STIMO-BSI clinical trial (post-BSI). b, Timeline of the two clinical trials, including a pie chart reporting the time during which the various types of neurorehabilitation exercises were practised, as well as the home use of the BSI. c, Photographs showing the maximal hip flexion and associated flexor muscle activity before and after neurorehabilitation. d, Changes in lower limb motor scores over the course of both clinical trials. e, Plots reporting improvements in WISCI II scores over the course of both clinical trials. Neurorehabilitation supported by the BSI restored the capacity to walk over 10 m with crutches without any assistance or stimulation. f–h, Plots reporting quantifications of the 6 min walk test (f), weight-bearing capacity, time up and go, Berg Balance Scale (g) and observational gait analysis (h) (each dot refers to scores from a physiotherapist (n = 6, paired one-tailed t-test; **P = 0.002). N/A, not available."
+  },
+  "82": {
+    "figure": "figures/slide_82.png",
+    "original_publisher_figure": "figures/PMC5319839_fig2.jpg",
+    "original_sha256": "49bad0648204304b5cc1ff0f272d1fae326151b2823a5200e8fbc44603c73f24",
+    "source_url": "https://cdn.elifesciences.org/articles/18554/elife-18554-fig2-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.22
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "10.7554/eLife.18554.008Figure 2.Performance in copy typing tasks.(a) Layout for the OPTI-II keyboard (b) Layout for the QWERTY keyboard. (c) Layout for the ABDEF keyboard. (d) Examples of text typed during three copy typing evaluations with participants T6, T5, and T7. Each example shows the prompted text, followed by the characters typed within the first minute of the two-minute evaluation block. Box width surrounding each character denotes the time it took to select the character. ‘<’ character denotes selection of a backspace key. Colored symbols on the left correspond to blocks denoted in lower plots. (e) Performance in the copy typing task with the QWERTY (blue) and OPTI-II (black) keyboards across 5 days for participant T6. QWERTY performance was 23.9 ± 6.5 correct characters per minute (ccpm; mean ± s.d.), while OPTI-II performance was 31.6 ± 8.7 ccpm. X-axis denotes number of days since array was implanted. (f) Performance in the copy typing task with the QWERTY (blue) and OPTI-II (black) keyboards across 2 days for participant T5. Average performance was 36.1 ± 0.9 and 39.2 ± 1.2 ccpm for the QWERTY and OPTI-II keyboards, respectively. (g) Performance in the copy typing task with the ABCDEF (blue) and OPTI-II (black) keyboards across two days for participant T7. Average performance was 13.5 ± 1.9 and 12.3 ± 4.9 ccpm for the ABCDEF and OPTI-II keyboards, respectively. *Participant T7 did not use an HMM for selection.DOI: http://dx.doi.org/10.7554/eLife.18554.00810.7554/eLife.18554.009Figure 2—figure supplement 1.Data collection protocol for quantitative performance evaluation sessions.Each research session followed a strict calibration and data collection protocol. This flow diagram is the research protocol for T6. T5 and T7’s protocols were very similar. T6 started with a glove-controlled movement calibration block (112 trials, 100 pixel target diameter, 750 ms hold time). T5 and T7 did not use data s, and instead that calibration block was substituted for a block where the cursor moved automatically while they attempted to move along with the cursor (‘open-loop’ calibration). This was followed by HMM click decoder calibration for T6. This was omitted for T7 as no HMM was used for sessions with him, but the cursor decoder was recalibrated at this stage. T5 did not need this either, as the HMM was trained on the same block as the cursor movement decoder. If the output of these two calibration steps resulted in a controllable cursor, then the data blocksets were started. Here, the decoders were recalibrated again based on a closed-loop control block, and data was collected under a strict timing protocol (see Figure 2—figure supplement 2). Blocksets were repeated as possible, at the discretion of the participant. Once a blockset was started for a particular research session, starting over with initial calibration was prohibited.DOI: http://dx.doi.org/10.7554/eLife.18554.00910.7554/eLife.18554.010Figure 2—figure supplement 2.Example of the blockset structure for quantitative performance evaluation sessions.Each blockset began with a 3 min calibration or bias calculation block (purple). Breaks (green) were interspersed throughout the data collection. Each blockset consisted of three evaluation blocks (orange), two minutes each, that tested either copy typing or grid performance. Copy typing performance was evaluated with two keyboards (T6 and T5: QWERTY and OPTI-II, T7: ABCD and OPTI-II). Evaluation blocks were presented in a pseudo-randomized order (detailed in Materials and methods: Quantitative performance evaluations). In this example, T6 was first evaluated on a grid block, followed by a QWERTY cued typing block, followed by an OPTI-II cued typing block.DOI: http://dx.doi.org/10.7554/eLife.18554.01010.7554/eLife.18554.011Figure 2—figure supplement 3.Sentences used to evaluate performance in copy typing tasks.Seven sentences were chosen for the copy typing task (presented in Figure 2). Sentence one is an English language pangram, i.e., it contains all the letters of the English alphabet, and is traditionally used to evaluate typing performance (e.g. Silfverberg et al., 2000). Sentences 2–4 are common English phrases that were easy for the participants to remember. Sentence five is the beginning of the ‘Rainbow Passage,’ commonly used in the speech pathology field to evaluate speech quality/deficits ([Fairbanks, 1960], pp. 124–139). Sentences 6 and 7 are conversational and were chosen to simulate the types of phrases an assistive communication device might be used to type in a conversation.DOI: http://dx.doi.org/10.7554/eLife.18554.011"
+  },
+  "83": {
+    "figure": "figures/slide_83.png",
+    "original_publisher_figure": "figures/PMC10232367_fig3.jpg",
+    "original_sha256": "c37cc25d1f9f9d74ea38e9721d0bde97e9bc19c1afe7fa7915dc274e5e4bf110",
+    "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06094-5/MediaObjects/41586_2023_6094_Fig3_HTML.png",
+    "box": [
+      0.27,
+      0,
+      0.79,
+      0.24
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "Fig. 3The BSI restores natural control of walking.a, Attempts to perform voluntary hip flexions without and with the BSI, including photographs, vertical elevation of the knee and hip flexor muscle activity. Bar plots report the mean values for these measurements. (n = 3 attempts per condition, unpaired one-tailed t-test, ***P < 0.001.) b, Chronophotography during walking with the BSI turned on, off and then on again. Note the two decoded attempts that do not lead to muscle activity nor the execution of steps. c, Range of stimulation amplitude during walking. d, Bar plots reporting mean values of kinematic and muscle activity parameters during walking with the BSI turned off and on, (n = 3 and 8 attempts for BSIOFF and BSION, respectively, unpaired one-tailed t-test, ***P < 0.001, P(iliopsoas activation) = 3.4 × 10−4, P(step height) = 5.1 × 10−10, P(hip angle) = 2.7 × 10−5, P(knee angle) = 1.6 × 10−9). e, Chronophotography of standing (voluntary pause) and walking with the BSI outdoors. The spectrogram, probabilities of left and right steps and modulation of stimulation amplitudes illustrate the robustness of the performance and absence of false-positive detections during the voluntary pause. f, Plots report the probability of right hip flexions over consecutive steps measured during the first session after the neurosurgical implantation (n = 13 steps, accuracy = 0.92 ± 0.1 s.d., w = 2.66 ± 0.6 s s.d.), and at 2 (n = 46 steps, accuracy = 0.93 ± 0.1 s.d., w = 2.64 ± 0.6 s s.d.), 6 (n = 41 steps, accuracy = 0.97 ± 0.1 s.d., w = 2.56 ± 0.9 s s.d.) and 11 months (n = 29 steps, accuracy = 0.97 ± 0.1 s.d., w = 1.71 ± 0.4 s s.d.) after the first activation of the BSI using updated models (Extended Data Fig. 5)."
+  },
+  "84": {
+    "figure": "figures/slide_84.png",
+    "original_publisher_figure": "figures/PMC5319839_fig1.jpg",
+    "original_sha256": "f681853c3029848c42a379514b93ee8177adad824d17a68381367db4d8b3a713",
+    "source_url": "https://cdn.elifesciences.org/articles/18554/elife-18554-fig1-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.63
+    ],
+    "coordinate_basis": "Original publisher figure image, 0–1; PDF wrapper at native 300 dpi; no redrawing or recoloring.",
+    "crop_tool": "tools/crop_figure.py",
+    "source_figure_legend": "10.7554/eLife.18554.003Figure 1.Experimental setup and typing rates during free-paced question and answer sessions.(a) Electrical activity was recorded using 96-channel silicon microelectrode arrays implanted in the hand area of motor cortex. Signals were filtered to extract multiunit spiking activity and high frequency field potentials, which were decoded to provide ‘point-and-click’ control of a computer cursor. (b) Performance achieved by participant T6 over the three days that question and answer sessions were conducted. The width of each black bar represents the duration of that particular block. The black bands along the gray bar just below the black blocks denote filter calibration times. The average typing rate across all blocks was 24.4 ± 3.3 correct characters per minute (mean ± s.d.). Video 1 shows an example of T6’s free typing. The filter calibration and assessment stages that preceded these typing blocks are detailed in Figure 1—figure supplement 3.DOI: http://dx.doi.org/10.7554/eLife.18554.00310.7554/eLife.18554.004Figure 1—figure supplement 1.Participant T6’s typed responses during the question and answer sessions.During these sessions, T6 was prompted with questions and formulated responses de novo. She could engage and disengage the interface using a play/pause button (see Video 1). In these sessions, two successive spaces resulted in the insertion of the ‘.’ character in place of the first space. Consent was obtained to release T6’s typed text.DOI: http://dx.doi.org/10.7554/eLife.18554.00410.7554/eLife.18554.005Figure 1—figure supplement 2.Participant T6’s character selection during the question and answer sessions.Same as previous table, but also includes all errors and backspace characters entered.DOI: http://dx.doi.org/10.7554/eLife.18554.00510.7554/eLife.18554.006Figure 1—figure supplement 3.Filter calibration, assessment, and typing blocks for the ‘free typing’ sessions performed with participant T6.This expanded figure shows the free typing data presented in Figure 1, as well as the filter calibration and assessment stages that preceded the collection of those data. These sessions were not optimized for filter calibration, rather, performance was achieved and maintained by running evaluation or recalibration blocks at the participant or researchers’ discretion. The black bands along the gray bar just above the x-axis denote filter calibration time. Red bars denote evaluation blocks or blocks where T6 stopped the block early. Blue bars denote uninterrupted blocks of free typing.DOI: http://dx.doi.org/10.7554/eLife.18554.006"
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "original_assets": [
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/95709/elife-95709-fig1-v1.jpg",
+      "original_publisher_figure": "figures/PMC12055000_fig1.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "14c6aa18511187a5887ad36a58a1c2b10d179f87a7cf79b1b022c094de1889cd"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/76254/elife-76254-fig5-v2.jpg",
+      "original_publisher_figure": "figures/PMC9345604_fig5.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "85e40fc2287815d669bedff070e4156f8d4fe8f4f8b9aa6ea551dc89d2b603e7"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/76254/elife-76254-fig1-v2.jpg",
+      "original_publisher_figure": "figures/PMC9345604_fig1.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "02da424b558b48043cc11ce2ddc00e7e4aec1e9d30c03e8b14983ee7dcb2038d"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/98522/elife-98522-fig1-v1.jpg",
+      "original_publisher_figure": "figures/PMC11835385_fig1.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "5da94be972b1d2f8bd1b1df5e0f7f8522266e607df6f5a81ea4cab92f299dec4"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/81248/elife-81248-fig1-v2.jpg",
+      "original_publisher_figure": "figures/PMC9651950_fig1.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "224dd7da27bc02c3a9cab48d48e248a212c2bf20eb2dbd0518e9916b971831e4"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/81248/elife-81248-fig3-v2.jpg",
+      "original_publisher_figure": "figures/PMC9651950_fig3.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "990ab9213c802d889a874e1b0eaff0a2e7b60070703671dc0c67e593701789c7"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/76254/elife-76254-fig3-v2.jpg",
+      "original_publisher_figure": "figures/PMC9345604_fig3.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "3a7b4ebba51cef8dccef9e15aedb03bb9903a932397c8ad9d9d068d7c7f3cc1d"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/81248/elife-81248-fig4-v2.jpg",
+      "original_publisher_figure": "figures/PMC9651950_fig4.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "967ffb457781bf287a31605024745cc6da670eb02c97c1983ad8c1c209fa297a"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/81248/elife-81248-fig6-v2.jpg",
+      "original_publisher_figure": "figures/PMC9651950_fig6.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "5d118f09251758a88627966119681228925c451619074339419023d3c3d85f60"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/95709/elife-95709-fig4-v1.jpg",
+      "original_publisher_figure": "figures/PMC12055000_fig4.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "651a920f622a509a2be00ebb3d9ba7729b4471d6fc7eb7e9e3dc5c4471917855"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/95528/elife-95528-fig2-v1.jpg",
+      "original_publisher_figure": "figures/PMC11717365_fig2.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "aaa3abe32150dcb2fc55a673252b15182f58c3c3752cae206c9607719ba767e5"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/95528/elife-95528-fig3-v1.jpg",
+      "original_publisher_figure": "figures/PMC11717365_fig3.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "a6037313d1177b824dfcb0b4af02f216a17e3b02cfbc0066c1b5eeeb88a26b87"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/95709/elife-95709-fig5-v1.jpg",
+      "original_publisher_figure": "figures/PMC12055000_fig5.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "566c26031c2c9e3ddce73d774d0a0741c615b3418b8eeac937e9a067ed866e33"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/47188/elife-47188-fig3-v2.jpg",
+      "original_publisher_figure": "figures/PMC6707768_fig3.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "f83ab1c7e3fef78b92817d565b4027927f7a38de61332fa5e9f9ecebbb638951"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/49987/elife-49987-fig3-v2.jpg",
+      "original_publisher_figure": "figures/PMC6989121_fig3.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "3e38015055ec1ca2c241306eac2884c5a8585e331d1068c373bece373eed2cb0"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/98522/elife-98522-fig5-v1.jpg",
+      "original_publisher_figure": "figures/PMC11835385_fig5.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "119d979041198bd6c517c2f285d22f596642f929a4966a4bc22dc5e2e6d37153"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/49987/elife-49987-fig1-v2.jpg",
+      "original_publisher_figure": "figures/PMC6989121_fig1.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "3f54cf5864d8a27aff118f3499f36b76a98f361438a8525481bb15fb7e632740"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/14472/elife-14472-fig7-v2.jpg",
+      "original_publisher_figure": "figures/PMC4951199_fig7.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "5aac69893b88ca9f93546f3d37b0b8d0f847d82913b350649987811a60e3d6ed"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/49987/elife-49987-fig2-v2.jpg",
+      "original_publisher_figure": "figures/PMC6989121_fig2.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "ae259d50d133d0db56540901803fd78a717852b2ce0bbd5e464b9413ebde64e0"
+    },
+    {
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-61774-2/MediaObjects/41467_2025_61774_Fig2_HTML.png",
+      "original_publisher_figure": "figures/PMC12246236_fig2.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "410a3953b198991c5d84b1e5d57d27b0e6b90b2018186c34af3d74ad80c2ef35"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/14472/elife-14472-fig8-v2.jpg",
+      "original_publisher_figure": "figures/PMC4951199_fig8.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "5231e8ba74682885f25d9938bb382d3cc9687fc114703a2848a4d96b6127c71e"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/14472/elife-14472-fig1-v2.jpg",
+      "original_publisher_figure": "figures/PMC4951199_fig1.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "a18fd2392ac60761131fdffa49a961334720e1ec65f017084f2c09e59e8addb4"
+    },
+    {
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-61774-2/MediaObjects/41467_2025_61774_Fig1_HTML.png",
+      "original_publisher_figure": "figures/PMC12246236_fig1.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "1bdceb66ca5deaddaa0ec4dfc5b64a84a170f5c862a9c0ad579e428b49779ab3"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/49987/elife-49987-fig5-v2.jpg",
+      "original_publisher_figure": "figures/PMC6989121_fig5.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "ad6206dbd53756126fdfa2402f3f418b6419bc1dd47ed5d1269f8cd4fc279686"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/49987/elife-49987-fig4-v2.jpg",
+      "original_publisher_figure": "figures/PMC6989121_fig4.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "e00ad96fcfe6eb164d63c5511662635f63b050613d9fdad31c1571d0b4627e4b"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/86737/elife-86737-fig3-v1.jpg",
+      "original_publisher_figure": "figures/PMC10945554_fig3.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "c7cd8b86a95bed9ccbc9e1d1665a09e16b26367af6577287a2d2ba827357ab22"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/86737/elife-86737-fig6-v1.jpg",
+      "original_publisher_figure": "figures/PMC10945554_fig6.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "4e4fbe5ecc82605236a0eac1eed08280b8cc48c83536ca224c3f46542ceee97f"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/86737/elife-86737-fig7-v1.jpg",
+      "original_publisher_figure": "figures/PMC10945554_fig7.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "7eea13b5e8a84a6bfe1c9e82b9319783bfba130a43fed010d3de1333af784996"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/86737/elife-86737-fig1-v1.jpg",
+      "original_publisher_figure": "figures/PMC10945554_fig1.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "3a78636b6b5e81de5c92c6ce2e956674ae5b1f7a6e3d41e800838ed2292dbc0e"
+    },
+    {
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-024-07558-y/MediaObjects/41586_2024_7558_Fig1_HTML.png",
+      "original_publisher_figure": "figures/PMC11446842_fig1.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "97223f8f282db4a12eb77df1ffcd9195b9996079e9eab4cd89d3e9df56b0f387"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/78344/elife-78344-fig1-v2.jpg",
+      "original_publisher_figure": "figures/PMC9908073_fig1.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "6a9642e8401731dabd5d2f0e78dce772cde54ada4179f484ffe2f0720caf06b9"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/78344/elife-78344-fig4-v2.jpg",
+      "original_publisher_figure": "figures/PMC9908073_fig4.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "36b1ea7155b359d049fcf934ab85ffdca896fda3577fdf54f08a39185147dd2f"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/95709/elife-95709-fig7-v1.jpg",
+      "original_publisher_figure": "figures/PMC12055000_fig7.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "be3e1edbf355db61daf5f85c43b1c3d2657385a325fd6e95cc3beac80fb59cc3"
+    },
+    {
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06812-z/MediaObjects/41586_2023_6812_Fig3_HTML.png",
+      "original_publisher_figure": "figures/PMC10719114_fig3.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "a902fe8d708711156353212de97d557c75f325a0f9cbf948d8601e2ea2f523f3"
+    },
+    {
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06812-z/MediaObjects/41586_2023_6812_Fig1_HTML.png",
+      "original_publisher_figure": "figures/PMC10719114_fig1.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "a20ce24a64791f21423175697d0d38326c6fa261a22b777b115a9d4a44341f0d"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/38173/elife-38173-fig6-v1.jpg",
+      "original_publisher_figure": "figures/PMC6342523_fig6.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "aeaf5bf1511c362b76e03680dbbc40e2af9ffeeb390525891e8cfa558bb030c8"
+    },
+    {
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06812-z/MediaObjects/41586_2023_6812_Fig2_HTML.png",
+      "original_publisher_figure": "figures/PMC10719114_fig2.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "12558484bd82446586f62b76b3be1191720c787b03fd3a43b4e797464e6dda26"
+    },
+    {
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-024-07558-y/MediaObjects/41586_2024_7558_Fig2_HTML.png",
+      "original_publisher_figure": "figures/PMC11446842_fig2.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "9bdbf6261afbf04daa5a53558f6eb692e871d7a4bca3b620d89183ec2878a568"
+    },
+    {
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06812-z/MediaObjects/41586_2023_6812_Fig5_HTML.png",
+      "original_publisher_figure": "figures/PMC10719114_fig5.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "8018b0658df86275a2b5ecd1c9c35fa5acbe8c1443e222b551a6eae16d2f2897"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/95709/elife-95709-fig8-v1.jpg",
+      "original_publisher_figure": "figures/PMC12055000_fig8.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "444f38244734c846c155ffeb6331cd8792de7344818e624cb24cb9be799ef207"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/18554/elife-18554-fig1-v1.jpg",
+      "original_publisher_figure": "figures/PMC5319839_fig1.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "f681853c3029848c42a379514b93ee8177adad824d17a68381367db4d8b3a713"
+    },
+    {
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06377-x/MediaObjects/41586_2023_6377_Fig1_HTML.png",
+      "original_publisher_figure": "figures/PMC10468393_fig1.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "9e42abb260c8d6feef08fc4bcde4f70cff4cf0d9d592620393de664d080c9520"
+    },
+    {
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06377-x/MediaObjects/41586_2023_6377_Fig2_HTML.png",
+      "original_publisher_figure": "figures/PMC10468393_fig2.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "e3a84ac15ef3dc61ab40e9b8ee47a158907d69012222a59bcf890844bea98c19"
+    },
+    {
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06377-x/MediaObjects/41586_2023_6377_Fig3_HTML.png",
+      "original_publisher_figure": "figures/PMC10468393_fig3.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "3bc54de189eec6c78594da9dd5dde9037223ad968c6d9392fb38d88d4b316652"
+    },
+    {
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06094-5/MediaObjects/41586_2023_6094_Fig1_HTML.png",
+      "original_publisher_figure": "figures/PMC10232367_fig1.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "876e8b90522b88f697daf6130227ecd4d4caadc815ae916ed473d7526e1c5897"
+    },
+    {
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06094-5/MediaObjects/41586_2023_6094_Fig2_HTML.png",
+      "original_publisher_figure": "figures/PMC10232367_fig2.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "27b0cd80de8d845b6ea2661199e735441d3226f9cbb7a36c2da16e041447df81"
+    },
+    {
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06094-5/MediaObjects/41586_2023_6094_Fig3_HTML.png",
+      "original_publisher_figure": "figures/PMC10232367_fig3.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "c37cc25d1f9f9d74ea38e9721d0bde97e9bc19c1afe7fa7915dc274e5e4bf110"
+    },
+    {
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06094-5/MediaObjects/41586_2023_6094_Fig4_HTML.png",
+      "original_publisher_figure": "figures/PMC10232367_fig4.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "da47256451837072debb1a9b1e478529d3aff6103bd33f096ba8cbd101f1b787"
+    },
+    {
+      "source_url": "https://cdn.elifesciences.org/articles/18554/elife-18554-fig2-v1.jpg",
+      "original_publisher_figure": "figures/PMC5319839_fig2.jpg",
+      "publisher_hash_matches": true,
+      "sha256": "49bad0648204304b5cc1ff0f272d1fae326151b2823a5200e8fbc44603c73f24"
+    }
+  ],
+  "all_original_hashes_match": true
+}

@@ -47,7 +47,7 @@
     7
   ],
   "require_actual_rendered_line_check": true,
-  "body_word_target": "Superseded by actual 5\u20137 rendered lines per teaching paragraph.",
+  "body_word_target": "Superseded by actual 5–7 rendered lines per teaching paragraph.",
   "chapter_overrides": {
     "1": {
       "authorized_history_expansion_total_slides": [
@@ -66,6 +66,14 @@
       "minimum_total_videos": 20,
       "maximum_total_videos": 30,
       "version2_total_videos": 30
+    },
+    "5": {
+      "authorized_total_slide_range": [
+        80,
+        90
+      ],
+      "planned_total_slides": 86,
+      "expanded_scope": "Core Chapter 5 methods interwoven with modern neuroengineering, per instructor request."
     }
   },
   "video_distribution_from_chapter": 3,
