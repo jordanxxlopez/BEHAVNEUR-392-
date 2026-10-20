@@ -1,6 +1,6 @@
 """Export a static Presenton companion from final rendered pages; never upload source PDFs."""
 from pathlib import Path
-import tempfile,json,requests,concurrent.futures,html,hashlib
+import tempfile,json,requests,concurrent.futures,html,hashlib,re
 import fitz
 from pptx import Presentation
 D=Path(__file__).resolve().parent;PDF=D/'From_Sound_to_Neural_Signals_Peripheral_Auditory_System_Part_I_Static.pdf';PPTX=D/'From_Sound_to_Neural_Signals_Peripheral_Auditory_System_Part_I.pptx';API='https://api.presenton.ai';TITLE='From Sound to Neural Signals: The Peripheral Auditory System'
@@ -17,12 +17,13 @@ with tempfile.TemporaryDirectory(prefix='presenton-') as directory:
   with f.open('rb') as stream:a=response(requests.post(API+'/api/v3/images/upload/public',files={'file':(f.name,stream,'image/png')},timeout=90))
   assert a['url'].startswith('https://');return a['url']
  urls=list(concurrent.futures.ThreadPoolExecutor(4).map(upload,files));print('Uploaded',len(urls),'final static slide images.',flush=True)
+ (D/'presenton_assets.json').write_text(json.dumps({'slide_images':urls,'source_pdf_sha256':hashlib.sha256(PDF.read_bytes()).hexdigest()},indent=2)+'\n')
  slides=[]
  for i,u in enumerate(urls):
   notes=prs.slides[i].notes_slide.notes_text_frame.text
   slides.append(f'<section class="relative h-[720px] w-[1280px] overflow-hidden font-[Arial]" data-speaker-note="{html.escape(notes,quote=True)}"><img class="absolute left-0 top-0 h-[720px] w-[1280px] object-contain" src="{html.escape(u,quote=True)}" alt="Peripheral audition static slide {i+1}; original figures and source credits" width="1280" height="720"></section>')
  markup='<!doctype html><html lang="en"><head><meta charset="utf-8"><script src="https://cdn.tailwindcss.com"></script></head><body class="m-0 p-0"><main id="presentation-slides-wrapper" class="m-0 w-[1280px] p-0">'+''.join(slides)+'</main></body></html>'
- assert markup.count('<section ')==80 and 'data:' not in markup and '<style' not in markup and ' style=' not in markup
+ assert markup.count('<section ')==80 and not re.search(r'(?:src|href)=[\"\']data:',markup) and '<style' not in markup and ' style=' not in markup
  (tmp/'presentation.html').write_text(markup)
  a=response(requests.post(API+'/api/v3/export/html-to-any',json={'html':markup,'format':'pdf','title':TITLE+' — Static Companion'},timeout=300));assert isinstance(a['id'],int) and a['id']>0;assert a['url'].startswith('https://');print('EXPORT',json.dumps(a),flush=True)
  preview=response(requests.post(API+'/api/v3/export/html-to-any/create-preview',json={'id':a['id']},timeout=90));assert preview['url'].startswith('https://');print('PREVIEW',preview['url'],flush=True)
