@@ -1,0 +1,19 @@
+{
+  "title": "Building the Brain: Development, Experience, and Neurodiversity",
+  "slides": 80,
+  "format": "pdf",
+  "export": {
+    "url": "https://api.presenton.ai/s/tdspCnm9Lx1wQuF8XR5vXG1hZKtm_MYE",
+    "message": null,
+    "id": 19891
+  },
+  "preview": {
+    "url": "https://presenton.ai/presentation-preview?t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiaHRtbC10by1hbnktcHJldmlldyIsImh0bWxfdG9fYW55X2NyZWF0aW9uIjoxOTg5MSwiZXhwIjoxNzkyNjE4MTIxfQ.GwPzFsgU6ZMj-2Y_uB26U_FLjWm7g9Ln-wum_caIB7g"
+  },
+  "fonts": [
+    "Arial"
+  ],
+  "native_pdf_sha256": "f6a3ba0233219d9f16cccd92d48200de47550b6857093a5a24adf3574a23c1fc",
+  "source": "Final native static PDF pages, with original credits; full source book and article PDFs not uploaded.",
+  "expires": "Presenton export and preview links expire after 24 hours."
+}

@@ -1,0 +1,19 @@
+{
+  "title": "From Words to Meaning: The Neural Systems of Human Communication",
+  "slides": 80,
+  "format": "pdf",
+  "export": {
+    "url": "https://api.presenton.ai/s/UbrzUGTlaSVY1Mt1vlzv7E3Y7YVE4NSQ",
+    "message": null,
+    "id": 19890
+  },
+  "preview": {
+    "url": "https://presenton.ai/presentation-preview?t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiaHRtbC10by1hbnktcHJldmlldyIsImh0bWxfdG9fYW55X2NyZWF0aW9uIjoxOTg5MCwiZXhwIjoxNzkyNjE4MTE4fQ.OSLDGewgcZL80o4DMrStwy6_9zFVVNn7l1cjN7yoecI"
+  },
+  "fonts": [
+    "Arial"
+  ],
+  "native_pdf_sha256": "21459148cadbb51b770f5467f46bf603c6663676deede3ca9a124ef4d2433bda",
+  "source": "Final native static PDF pages, with original credits; full source book and article PDFs not uploaded.",
+  "expires": "Presenton export and preview links expire after 24 hours."
+}
