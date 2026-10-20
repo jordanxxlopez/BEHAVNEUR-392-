@@ -1,0 +1,286 @@
+{
+  "checked": 40,
+  "passed": 40,
+  "results": [
+    {
+      "file": "media/elife-45839-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-108071-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-108071-video2.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-45839-video2.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-89287-fig5-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-89287-fig5-video2.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-31684-fig2-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-31684-fig2-video2.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-60299-fig1-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-60299-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-79917-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-79917-video2.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-60299-fig8-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-76574-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-84042-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-32036-video3.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-32036-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-32036-video2.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-95379-fig2-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-95379-fig2-video2.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-49190-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-49190-video2.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-85760-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-85760-video2.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-71877-fig2-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-85760-video4.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-47677-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-47677-video2.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-101439-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-101439-video2.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-101440-fig1-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-45636-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-45636-video2.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-85521-fig5-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-85521-fig6-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-85521-fig7-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-85521-fig8-video2.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-57524-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-57524-video3.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-85521-fig7-video3.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    }
+  ]
+}

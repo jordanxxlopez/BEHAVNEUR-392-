@@ -1,0 +1,1527 @@
+{
+  "101439:4": {
+    "id": "101439",
+    "figure": 4,
+    "path": "figures/101439_fig4.png",
+    "source_url": "https://cdn.elifesciences.org/articles/101439/elife-101439-fig4-v1.tif",
+    "doi": "10.7554/eLife.101439",
+    "year": "2024",
+    "authors": "Bhanu Shrestha; Jiun Sang; Suman Rimal; Youngseok Lee",
+    "title": "Pharyngeal neuronal mechanisms governing sour taste perception in <i>Drosophila melanogaster</i>",
+    "legend": "Pharyngeal gustatory receptor neurons (GRNs) have a role in sensing the taste of carboxylic acids. ( A ) Proboscis extension response (PER) assay, ( B ) Binary food choice assay of control and  poxn \u2212/\u2212  mutant ( poxn 70 /poxn \u2206M2\u2212-B5 ) in presence of 1% citric acid (CA) and 1% glycolic acid (GA) ( n  = 6 biological replicates). ( C ) Feeding assay control and mutant line ( Ir94a 1  and  Ir94h 1 ) in  poxn \u2212/\u2212  mutant ( poxn 70 / poxn \u2206M22\u2212B5 ) mutant background in 1% CA and 1% GA ( n  = 6\u20138 biological replicates). ( D ) Mean preference index from binary food choice assay in presence of 1% CA and 1% GA for genetically silenced flies. Genetic manipulations were performed in  poxn \u2212/\u2212  mutant ( poxn 70 / poxn \u2206 M22\u2212B5 ) mutant background for  Ir94a-GAL4  and  Ir94h-GAL4  by crossing with  UAS-Kir2.1  ( n  = 6\u201310 biological replicates). The control flies were  w 1118 . All error bars represent SEMs. Single-factor ANOVA with Scheffe\u2019s analysis was used as a post hoc test to compare multiple sets of data. Black circular dots represent the number of trials performed. Black asterisks indicate statistical significance compared with control; **p < 0.01.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Shrestha et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "d37359e61ddd951a851ae9c148e4aecef92420afc873f8cdc159450dce901d19",
+    "display_path": "figures/101439_fig4_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.52
+    ],
+    "crop_tool": "tools/crop_figure.py; lossless publisher raster in private PDF container",
+    "source_dimensions": [
+      2205,
+      1807
+    ],
+    "full_authors": [
+      "Bhanu Shrestha",
+      "Jiun Sang",
+      "Suman Rimal",
+      "Youngseok Lee"
+    ],
+    "original_source_sha256": "32ac6529e233273fe462b8c01c91f9865c94013bb8247af8b42f4a2585585537",
+    "display_sha256": "143097868cae32844f4385cde842c132891d07e317e968b0e4d84ba126209891"
+  },
+  "101439:6": {
+    "id": "101439",
+    "figure": 6,
+    "path": "figures/101439_fig6.png",
+    "source_url": "https://cdn.elifesciences.org/articles/101439/elife-101439-fig6-v1.tif",
+    "doi": "10.7554/eLife.101439",
+    "year": "2024",
+    "authors": "Bhanu Shrestha; Jiun Sang; Suman Rimal; Youngseok Lee",
+    "title": "Pharyngeal neuronal mechanisms governing sour taste perception in <i>Drosophila melanogaster</i>",
+    "legend": "Calcium imaging analysis showing the activation of pharyngeal  Ir94a  and  Ir94h  gustatory receptor neurons (GRNs) with carboxylic acid applied as stimulus. ( A ) Heatmap analysis of pre- and post-stimulus with  Ir94a-GAL4  flies with expression of GCaMP6s in control, mutant ( Ir94a 1  and  Ir51b 1 ) background, and rescue flies. ( B ) Quantification of peak fluorescence changes with stimulation by 1% citric acid (CA) and glycolic acid (GA) for  Ir94a-GAL4  flies with expression of GCaMP6s calcium indicator ( n  = 10\u201312 biological replicates). ( C ) Heatmap analysis of pre- and post-stimulus with  Ir94h-GAL4  flies with expression of GCaMP6s in control, mutant ( Ir94h 1  and  Ir51b 1 ) background, and rescue flies. ( D ) Quantification of peak fluorescence changes with stimulation by 1% CA and GA for  Ir94h-GAL4  flies with expression of GCaMP6s calcium indicator ( n  = 10\u201312 biological replicates). ( E )  Ir94a  and  Ir94h  neuron calcium imaging in 0.1% and 1% CA and GA ( n  = 10 biological replicates). ( F ) Quantification of peak fluorescence changes with stimulation by 1% CA and GA for  Ir94a-GAL4  and  Ir94h-GAL4  flies with expression of GCaMP6s calcium indicator in control, mutant ( Ir25a 2  and  Ir76b 1 ) background and rescue flies ( n  = 10 biological replicates). ( G ) Peak fluorescence level intensity stimulated by 1% lactic acid (LA), 1% hydrochloric acid (HCl), sucrose (SUC), and quinine (QUI) with  Ir94a-GAL4  and  Ir94h-GAL4  flies by expression of GCaMP6s calcium indicator ( n  = 10 biological replicates). All error bars represent SEMs. Single-factor ANOVA with Scheffe\u2019s analysis was used as a post hoc test to compare multiple sets of data. Colorful circle represents the number of trials performed. Black asterisks indicate statistical significance compared with control; *p<0.05, **p < 0.01.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Shrestha et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "d5ca9b63ab089db7d2fc8566d4993b2018cc1c182e1fa6bd7097e4c8a23f4b90",
+    "display_path": "figures/101439_fig6_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.44
+    ],
+    "crop_tool": "tools/crop_figure.py; lossless publisher raster in private PDF container",
+    "source_dimensions": [
+      2205,
+      2825
+    ],
+    "full_authors": [
+      "Bhanu Shrestha",
+      "Jiun Sang",
+      "Suman Rimal",
+      "Youngseok Lee"
+    ],
+    "original_source_sha256": "c79427acb216de393ccf84fcf3de5198140240618c736c0bb318057fe5a05f5e",
+    "display_sha256": "39054c06a98ff2cb6b434aa86b08756f4f8d58fd28664e6368683a7562f65282"
+  },
+  "101440:2": {
+    "id": "101440",
+    "figure": 2,
+    "path": "figures/101440_fig2.png",
+    "source_url": "https://cdn.elifesciences.org/articles/101440/elife-101440-fig2-v1.tif",
+    "doi": "10.7554/eLife.101440",
+    "year": "2025",
+    "authors": "Hongping Wei; Thomas Ka Chung Lam; Hokto Kazama",
+    "title": "Odors drive feeding through gustatory receptor neurons in <i>Drosophila</i>",
+    "legend": "Odors evoke proboscis extension reflex (PER) through gustatory receptor neurons (GRNs). ( A ) Integrated PER duration in intact (n=28) and olfactory organs removed (n=32) wild-type flies. Flies with olfactory organs removed show less PER compared to control flies (p=0.0079 and 0.10 for group and odor factors, Scheirer\u2013Ray\u2013Hare test). ( B\u2013F ) Integrated PER duration in UAS control UAS-Kir2.1/+, n=20, ( B ), GRN silenced (Gr5a-Gal4>UAS-Kir2.1, n=25 for C; Gr66a-Gal4>UAS-Kir2.1, n=24 for D; Ppk28-Gal4>UAS-Kir2.1, n=28 for E; Ir94e-Gal4>UAS-Kir2.1, n=23 for F) and Gal4 control flies (Gr5a-Gal4/+, n=31 for C; Gr66a-Gal4/+, n=21 for D; Ppk28-Gal4/+, n=28 for E; Ir94e-Gal4/+, n=30 for F). Each silenced line was compared to the UAS control in B (p=4.9e-5, 0.49, 0.17, 0.11, and 0.12, 0.0014, 0.55, 1.2e-5 for genotype and odor factors for C-F, Scheirer\u2013Ray\u2013Hare test). Data were also compared between each silenced line and its Gal4 control (p=1.0e-15, 0.28, 0.00062, 0.14, and 0.71, 0.0012, 0.56, 5.6e-9 for genotype and odor factors for C-F, Scheirer\u2013Ray\u2013Hare test). ( G ) Integrated PER duration in control (UAS-Kir2.1/+, n=21) and Gr66a GRN-silenced (Gr66a-Gal4>UAS-Kir2.1, n=21) flies in a fed state. Silencing of Gr66a GRNs enhances odor-evoked PER in a fed state (p=1.8e-4 and 0.041 for genotype and odor factors, Scheirer\u2013Ray\u2013Hare test). Odor concentration was 10 \u20131 . ( H ) Integrated PER duration in control (n=29) and Gr5a mutant (n=29) flies. PER is severely reduced in mutant flies (p=1.1e-4 and 0.32 for genotype and odor factors, Scheirer\u2013Ray\u2013Hare test). Control:  EP(x)496  flies. Mutant:  \u0394EP(x)\u20135  flies. ( I\u2013K ) Integrated PER duration in control and Obp RNAi flies. Obp57d/e RNAi flies show reduced (I, n=33 and 25 for control and RNAi, p=0.039 and 0.48 for genotype and odor factors, Scheirer\u2013Ray\u2013Hare test), Obp49a RNAi flies show enhanced (J, n=24 and 20 for control and RNAi, p=0.0066 and 0.16 for genotype and odor factors, Scheirer\u2013Ray\u2013Hare test), and Obp19b RNAi flies show similar levels of PER (K, n=24 and 21 for control and RNAi, p=0.24 and 0.26 for genotype and odor factors, Scheirer\u2013Ray\u2013Hare test) as compared to their respective controls, which are  tubulin-Gal4/y,w 1118 ;P{attP,y[+],w[3']}  (for I),  tubulin-Gal4/w 1118 ;P{VDRCsh60200}attP40  (for J), and  tubulin-Gal4/w 1118  (for K). Box plots indicate the median (gray and red lines), mean (black and red dots), quartiles (box), and 5\u201395% range (bar).",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wei et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "05322d6441f6bca6f51ee9db30193aa23f40a59b9888be6f91623e414ffae230",
+    "display_path": "figures/101440_fig2_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.34
+    ],
+    "crop_tool": "tools/crop_figure.py; lossless publisher raster in private PDF container",
+    "source_dimensions": [
+      2076,
+      3254
+    ],
+    "full_authors": [
+      "Hongping Wei",
+      "Thomas Ka Chung Lam",
+      "Hokto Kazama"
+    ],
+    "original_source_sha256": "64dc2bbed4fd1d25a8db39d33ed2ae52a11e3dae6fe6ec324edc3b9dd3352937",
+    "display_sha256": "d116c81b5bae8767fc40f32989ba6494e7ae42a11b13a878b3ba18a4e3eb8d50"
+  },
+  "102999:1": {
+    "id": "102999",
+    "figure": 1,
+    "path": "figures/102999_fig1.png",
+    "source_url": "https://cdn.elifesciences.org/articles/102999/elife-102999-fig1-v2.tif",
+    "doi": "10.7554/eLife.102999",
+    "year": "2026",
+    "authors": "Xiaoyue Chang; Huibang Tan; Jiehui Niu; Kaiqi Yuan; Rui Chen; Wen Zhou",
+    "title": "Mixture discrimination training induces durable and generalizable olfactory learning independent of odorant structure and concentration",
+    "legend": "Experiment 1: distinct patterns of specificity and transfer in mixture and enantiomer discrimination learning. ( A ) Schematic illustration of the experimental procedure, consisting of three phases: baseline (Day 0), unilateral olfactory training (Day 1 to Day N), and post-training testing (Day N, N+1, N+3, N+7, and N+14). Participants were assigned to one of two groups: the mixture group (n = 12), trained and tested with binary odor mixtures, or the enantiomer group (n = 12), trained and tested with odor enantiomers. Each participant trained with a designated nostril (trained nostril) and a specific odor pair (training pair). ( B ) Chemical structures of the olfactory stimuli. Top: constituents of two binary odor mixture pairs; bottom: two enantiomer pairs. ( C ) Improvements in mixture discrimination (red) and enantiomer discrimination (green) over the course of training. Data points were interpolated (gridded interpolation) and averaged across participants; squares indicate mean discrimination accuracies for the training pair in the trained nostril at baseline and at the Day N post-training test. ( D ) Discrimination accuracies at baseline (Day 0, lighter bars) and at the Day N post-training test (darker bars) for the training pair (red and green bars) and the control pair (brown and blue bars), presented to the trained (solid bars) and untrained (striped bars) nostrils in the mixture group (top) and enantiomer group (bottom). Gray lines represent individual participants. ( E ) Discrimination accuracies across post-training test sessions for the training and control pairs, presented to the trained and untrained nostrils in the mixture group (top) and enantiomer group (bottom). Black dashed lines: chance level (1/3). Shaded areas and error bars: SEMs. **p < 0.01, ***p \u2264 0.001.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Chang et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "41f4381819799bcb917b1e688e9d550890d08ff1221da66d8cc722682a637019",
+    "full_authors": [
+      "Xiaoyue Chang",
+      "Huibang Tan",
+      "Jiehui Niu",
+      "Kaiqi Yuan",
+      "Rui Chen",
+      "Wen Zhou"
+    ],
+    "original_source_sha256": "9cf0412bb787c73902477a05dec10480db29ba2958c3b83b74afc6b82f012764"
+  },
+  "102999:2": {
+    "id": "102999",
+    "figure": 2,
+    "path": "figures/102999_fig2.png",
+    "source_url": "https://cdn.elifesciences.org/articles/102999/elife-102999-fig2-v2.tif",
+    "doi": "10.7554/eLife.102999",
+    "year": "2026",
+    "authors": "Xiaoyue Chang; Huibang Tan; Jiehui Niu; Kaiqi Yuan; Rui Chen; Wen Zhou",
+    "title": "Mixture discrimination training induces durable and generalizable olfactory learning independent of odorant structure and concentration",
+    "legend": "Experiment 2: replication and extension of long-term transfer and generalization of mixture discrimination learning. ( A ) Chemical structures of the constituents of two new binary odor mixture pairs used in Experiment 2. ( B ) Discrimination accuracies at baseline (Day 0, lighter bars) and at the Day N post-training test (darker bars) for the training pair (red bars) and the control pair (brown bars), presented to the trained (solid bars) and untrained (striped bars) nostrils. Gray lines represent individual participants (n = 12). ( C ) Discrimination accuracies across post-training test sessions (Day N, N+1, N+3, N+7, and N+14) for the training and control pairs, presented to the trained and untrained nostrils. Black dashed lines: chance level (1/3). Error bars: SEMs. ***p \u2264 0.001.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Chang et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "2d084eb793f0c23a94bffd1f87f2387fd9bfcbb93b2e8774c6120a05f1e48d2f",
+    "full_authors": [
+      "Xiaoyue Chang",
+      "Huibang Tan",
+      "Jiehui Niu",
+      "Kaiqi Yuan",
+      "Rui Chen",
+      "Wen Zhou"
+    ],
+    "original_source_sha256": "316a29949efe5a75d17591c3d2d950b298cb9cf505d6ad49b1954a4efb2bae31"
+  },
+  "108071:7": {
+    "id": "108071",
+    "figure": 7,
+    "path": "figures/108071_fig7.png",
+    "source_url": "https://cdn.elifesciences.org/articles/108071/elife-108071-fig7-v2.tif",
+    "doi": "10.7554/eLife.108071",
+    "year": "2026",
+    "authors": "Zhenhang Xu; Amirrasoul Tavakoli; Samadhi Kulasooriya; Huizhan Liu; Shu Tu; Celia Bloom; Yi Li; Tirone D Johnson; Jian Zuo; Litao Tao; Bechara Kachar; David Z He",
+    "title": "The dual molecular identity of vestibular kinocilia bridges structural and functional traits of primary and motile cilia",
+    "legend": "Kinocilia morphology and motility. ( A ) Transmission electron microscopy (TEM) images of stereocilia and kinocilium from bullfrog crista HCs. Different regions of the kinocilium in higher magnification are also shown. Long black arrows indicate where the magnified images were taken. Bars: 250 nm. Red arrow indicates two central microtubule singlets. Short black arrows mark the absence of central microtubule singlets in the distal regions near the tip of kinocilium and transition zone. ( B ) Images captured from in vitro live imaging of kinocilium and bundle motion of a bullfrog crista HC. The images were captured at a speed of 15 frames per second. Black arrows indicate kinocilium. ( C ) Representative waveforms of spontaneous cilia motion from middle ear tissue. The FFT analysis of cilia motion is also shown. ( D ) Three representative waveforms of spontaneous motion of hair bundles. The response waveform in blue was taken from a hair bundle with no spontaneous motility. FFT analysis of bundle motion is shown. Response waveforms and spectra are color-coded and -matched.",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    },
+    "image_sha256": "d6bb583942a7597929366759f477098034a2b656092f8bd5e3c485488359b43e",
+    "display_path": "figures/108071_fig7_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      0.51,
+      0.49
+    ],
+    "crop_tool": "tools/crop_figure.py; lossless publisher raster in private PDF container",
+    "source_dimensions": [
+      1836,
+      2120
+    ],
+    "full_authors": [
+      "Zhenhang Xu",
+      "Amirrasoul Tavakoli",
+      "Samadhi Kulasooriya",
+      "Huizhan Liu",
+      "Shu Tu",
+      "Celia Bloom",
+      "Yi Li",
+      "Tirone D Johnson",
+      "Jian Zuo",
+      "Litao Tao",
+      "Bechara Kachar",
+      "David Z He"
+    ],
+    "original_source_sha256": "e8dee9ee61f83138cbc9bccdc1843230c2cd8b6e1da9caaa2458426b3fc7a371",
+    "display_sha256": "1bed8e48efb17d7e6cf834b0ade1da27bc096593b54ff27e27ea9ce415b455b2"
+  },
+  "31684:2": {
+    "id": "31684",
+    "figure": 2,
+    "path": "figures/31684_fig2.png",
+    "source_url": "https://cdn.elifesciences.org/articles/31684/elife-31684-fig2-v2.tif",
+    "doi": "10.7554/eLife.31684",
+    "year": "2018",
+    "authors": "Francie Moehring; Ashley M Cowie; Anthony D Menzel; Andy D Weyer; Michael Grzybowski; Thiago Arzua; Aron M Geurts; Oleg Palygin; Cheryl L Stucky",
+    "title": "Keratinocytes mediate innocuous and noxious touch via ATP-P2X4 signaling",
+    "legend": "Optogenetic activation of keratinocytes elicits attending behavior responses. (A-C ChR-K14Cre - ) the dotted line indicates epidermal to dermal border. ( A ) K14 immunoreactivity was observed in the deep layers of the skin. ( B ) ChR2\u00a0is tagged with eYFP; minimal eYFP fluorescence was observed in ChR-K14Cre- skin. ( C ) Merging shows no overlay of K14 and ChR2 in the ChR-K14Cre -  control animal. (D-F ChR-K14Cre + ) ( D ) K14 immunoreactivity was observed in the deepest layers of keratinocytes. ( E ) eYFP fluorescence tag of the ChR2 expressing cells was observed all throughout the skin. ( F ) Merging of the red and green channels shows the overlap of the K14 marker with the eYFP expression of ChR2. Representative images are\u00a0shown for each genotype for the immunohistochemistry experiments (n\u00a0=\u00a03\u00a0animals/genotype), scale bar\u00a0=\u00a050 \u03bcm. ( G ) Primary mouse keratinocytes were patch\u00a0clamped in voltage clamp mode and stimulated for 30 seconds with a 3 mW 490 nm LED light (n\u00a0=\u00a04\u00a0animals/genotype). Keratinocytes cultured from ChR-K14Cre +  animals showed a significant increase in peak amplitude of the currents as compared to keratinocytes cultured from ChR-K14Cre -  animals which showed only a leak current (****p<0.0001) unpaired t-test. ( H ) The sustained current was significantly higher in ChR-K14Cre +  keratinocytes as compared to the ChR-K14Cre -  keratinocytes (****p<0.0001), unpaired t-test. ( I ) Example traces from\u00a0ChR-K14Cre -  keratinocytes show no inward current (top), whereas ChR-K14Cre +  keratinocytes show an inward current in response to the light (bottom). ( J ) Animal behavior responses to a 473 nm 6\u00a0min laser stimulation (10 Hz, 24\u00a0\u2013\u00a028 mW power) were analyzed by an observer blinded to genotype. ChR-K14Cre +  animals responded in less than a minute to the laser stimulation, whereas most control animals did not respond at all to the laser stimulation (****p<0.0001) unpaired t-test. ( K ) K14-ChR animals were tested in a 30\u00a0min trial, optogenetic place preference set up. Neither genotype displayed a significant preference for either side during the 30 min on trial or the 10 min off trial (Light on vs off: n.s.\u00a0p = 0.3469; Genotype: n.s.\u00a0p = 0.3800), two-way ANOVA,  Sidak  post-hoc. ( L ) During the place preference assay, ChR-K14Cre +  animals spent significantly more time grooming on the 460 nm side when the light was on than their ChR-K14Cre -  controls (****p<0.0001). ChR-K14Cre + animals\u00a0on the 460 nm side with the light on also spent significantly more time grooming on that side than when the light was off (***p=0.0009); three-way ANOVA,  Tukey  post-hoc. Data are represented as mean\u00a0\u00b1\u00a0SEM. See also  Figure 2\u2014figure supplement 1  and  Figure 2\u2014video 1  and  2 .",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Moehring et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "b623be70d38d0452652a5827018795c6a786a78a4cdb0309010c4dfeac61f99b",
+    "display_path": "figures/31684_fig2_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.57
+    ],
+    "crop_tool": "tools/crop_figure.py; lossless publisher raster in private PDF container",
+    "source_dimensions": [
+      1984,
+      1368
+    ],
+    "full_authors": [
+      "Francie Moehring",
+      "Ashley M Cowie",
+      "Anthony D Menzel",
+      "Andy D Weyer",
+      "Michael Grzybowski",
+      "Thiago Arzua",
+      "Aron M Geurts",
+      "Oleg Palygin",
+      "Cheryl L Stucky"
+    ],
+    "original_source_sha256": "34f7d1f43372c6edceda87cd8b096b362cb2884e0f133f1de669d1f74a800493",
+    "display_sha256": "0a2ec92c2e548bd5a98170fc31e0cdfec05323e196e409e9bba8d560f63ee6e5"
+  },
+  "31684:4": {
+    "id": "31684",
+    "figure": 4,
+    "path": "figures/31684_fig4.png",
+    "source_url": "https://cdn.elifesciences.org/articles/31684/elife-31684-fig4-v2.tif",
+    "doi": "10.7554/eLife.31684",
+    "year": "2018",
+    "authors": "Francie Moehring; Ashley M Cowie; Anthony D Menzel; Andy D Weyer; Michael Grzybowski; Thiago Arzua; Aron M Geurts; Oleg Palygin; Cheryl L Stucky",
+    "title": "Keratinocytes mediate innocuous and noxious touch via ATP-P2X4 signaling",
+    "legend": "The degradation of ATP leads to decreased innocuous and noxious behavioral touch responses and decreased afferent firing of all fiber types.\u00a0 ( A ) Animals injected with 0.4\u00a0units apyrase had a two-fold increase of the paw withdrawal threshold as compared to their vehicle controls (****p<0.0001), Mann-Whitney U-test. ( B ) Animals injected with apyrase had significantly lower percent responses than animals injected with the vehicle (***p = 0.0004), Mann-Whitney U-test. ( C ) Apyrase treatment decreased both the innocuous (***p=0.0004) and noxious (****p<0.0001) responses and simultaneously increased the percent of null responses (****p<0.0001) as compared to the PBS treated animals, two-way ANOVA,  Tukey  post-hoc. ( D ) Keratinocytes co-cultured with P2X2-GFP +  HEK-293 cells were incubated with 20\u00a0units of apyrase or PBS. The presence of apyrase decreased the current density in response to mechanical stimulation of keratinocytes in P2X2-GFP +  HEK-293 cells (####p<0.0001); (PBS vs apyrase: 1.68\u00a0\u03bcm ***p=0.0007; 2.46 ****p<0.0001; 3.28\u00a0\u03bcm ****p<0.0001; 4.20\u00a0\u03bcm ****p<0.0001, 5.04\u00a0\u03bcm ****p<0.0001; 5.88\u00a0\u03bcm ****p<0.0001) two-way ANOVA,  Sidak\u2019s  post-hoc test. ( E ) Ex vivo tibial skin nerve preparations were incubated with either 40\u00a0units of apyrase or PBS,\u00a0for at least 10 min prior to any recordings. C-fibers were characterized based on their conduction velocity of\u00a0<1.2 m/s. C-fiber action potentials in response to a force ramp of 20, 40, 75 and 110\u00a0mN over a 12\u00a0second period were recorded. Apyrase treatment overall significantly decreased the action potential firing rate of the C-fibers (##p=0.0051), two-way ANOVA,  Sidak  post-hoc test (n\u00a0=\u00a022 mice). ( F ) C-fiber traces on top with PBS and on the bottom with apyrase. ( G ) Slowly Adapting (SA) A\u03b4-fibers were characterized based on their conduction velocity of 1.2\u201310 m/s and repeated firing to sustained stimuli. Action potentials in response to a force ramp of 25, 40, 75, 110 and 150\u00a0mN over a 12\u00a0second period were recorded. Apyrase treatment overall decreased action potential firing over the different forces as compared to PBS treatment in the A\u03b4-Fibers (####p<0.0001), and at the 150\u00a0mN force, apyrase action potential firing was significantly decreased as compared to PBS (**p=0.0017), two-way ANOVA,  Sidak  post-hoc test. ( H ) SA-A\u03b4-fiber action potential traces, on the top with PBS treatment, bottom with apyrase treatment. ( I ) SA-A\u03b2-fibers were characterized based on their conduction velocities\u00a0>\u00a010 m/s and repeted firing to sustained stimuli. There was a significant decrease in action potential firing in the SA-A\u03b2-fibers treated with apyrase as compared to those incubated with PBS (##p=0.0025), two-way ANOVA,  Sidak  post -hoc test. ( J ) SA-A\u03b2-fiber action potential traces, on the top with PBS treatment, bottom with apyrase treatment. (n\u00a0=\u00a042 mice for A\u03b4 and A\u03b2-fibers).\u00a0Throughout all the studies, the experimenter was blinded to the\u00a0treatment. Data are represented as mean\u00a0\u00b1\u00a0SEM. See also  Figure 4\u2014figure supplement 1 .",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Moehring et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "574c22854b973ce09742771ddf907676703bd746ebbcc5fd92e297fdb7a5b8dc",
+    "display_path": "figures/31684_fig4_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.31
+    ],
+    "crop_tool": "tools/crop_figure.py; lossless publisher raster in private PDF container",
+    "source_dimensions": [
+      2008,
+      2995
+    ],
+    "full_authors": [
+      "Francie Moehring",
+      "Ashley M Cowie",
+      "Anthony D Menzel",
+      "Andy D Weyer",
+      "Michael Grzybowski",
+      "Thiago Arzua",
+      "Aron M Geurts",
+      "Oleg Palygin",
+      "Cheryl L Stucky"
+    ],
+    "original_source_sha256": "8b5565d5f56efdcbb1187dc76b35e2ae731c3b79d38a098c41bb31077ee10206",
+    "display_sha256": "2ca55c607d5c3e2c26264de9d146a53cac8e316c825817095fd41bcd147fe5dc"
+  },
+  "32036:3": {
+    "id": "32036",
+    "figure": 3,
+    "path": "figures/32036_fig3.png",
+    "source_url": "https://cdn.elifesciences.org/articles/32036/elife-32036-fig3-v2.tif",
+    "doi": "10.7554/eLife.32036",
+    "year": "2018",
+    "authors": "Kali Esancy; Logan Condon; Jing Feng; Corinna Kimball; Andrew Curtright; Ajay Dhaka",
+    "title": "A zebrafish and mouse model for selective pruritus via direct activation of TRPA1",
+    "legend": "Imiquimod directly activates TRPA1. ( A\u2013C ) Calcium imaging of HEK cells transfected with zebrafish ( A ), mouse ( B ), and human ( C )  Trpa1  or  Trpa1\u00a0+\u00a0Tlr7 . ( D, E, F ) Calcium imaging dose response curves of HEK cells transfected with zebrafish ( D ), mouse ( E ), and human ( F )  Trpa1 , exposed to IMQ or AITC. ( A\u2013F ) Numbers represent total cell counts per condition. ( G ) Patch clamp of HEK cell transfected with zebrafish  trpa1b  exposed to 100 \u03bcM IMQ. ( H ) Patch clamp dose response curve for HEK cells transfected with zebrafish  trpa1b , mouse  Trpa1 , or mouse  Trpa1\u00a0 +\u00a0mouse  Tlr7 . ( I ) Current density values of HEK cells exposed transfected with zebrafish  trpa1b  or mouse  Trpa1  and exposed to 100 \u03bcM AITC or 100 \u03bcM IMQ. ( G\u2013I )  n \u00a0=\u00a05 cells per condition. **p<0.01, Student\u2019s  t -test. Bars represent mean\u00a0\u00b1\u00a0s.e.m.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Esancy et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "f153ba0d5a7da73105186b023848231786f2e593dcc965b00a4c0372eeb92714",
+    "full_authors": [
+      "Kali Esancy",
+      "Logan Condon",
+      "Jing Feng",
+      "Corinna Kimball",
+      "Andrew Curtright",
+      "Ajay Dhaka"
+    ],
+    "original_source_sha256": "93c57734c195ce82579939c73df9334537d05d49bbdcd5a22b0a4bcb005079c5"
+  },
+  "32904:2": {
+    "id": "32904",
+    "figure": 2,
+    "path": "figures/32904_fig2.png",
+    "source_url": "https://cdn.elifesciences.org/articles/32904/elife-32904-fig2-v1.tif",
+    "doi": "10.7554/eLife.32904",
+    "year": "2018",
+    "authors": "Michelle Armenta Salas; Luke Bashford; Spencer Kellis; Matiar Jafari; HyeongChan Jo; Daniel Kramer; Kathleen Shanfield; Kelsie Pejsa; Brian Lee; Charles Y Liu; Richard A Andersen",
+    "title": "Proprioceptive and cutaneous sensations in humans elicited by intracortical microstimulation",
+    "legend": "Receptive fields and sensation modality across all amplitude mapping experiments. ( A ) Receptive field location on anterior (lighter shades) and posterior (darker shades) planes of the right upper arm (green), forearm (pink), and hand (cyan). Grid is the same that the subject referenced during the experiment. ( B ) Schematic of the two electrode arrays implanted over S1 ( Figure 1 ). Left side panels display the reported receptive fields at each electrode location, and right side panels display the sensation modality (cutaneous - red, proprioceptive - blue). Light gray boxes show electrodes with no reported sensation, while dark gray boxes represent reference channels which are not used in recording. The five electrodes with a thick black outline represent the subset tested in the additional parameter-wide mapping task. Yellow and magenta asterisks mark the inferior-posterior corner of the implants, for the medial and lateral arrays respectively.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Armenta Salas et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "4a2c35f04ec5b9babc6130f50fe6163405783354f7a13c6bb26e2478d1cd3329",
+    "full_authors": [
+      "Michelle Armenta Salas",
+      "Luke Bashford",
+      "Spencer Kellis",
+      "Matiar Jafari",
+      "HyeongChan Jo",
+      "Daniel Kramer",
+      "Kathleen Shanfield",
+      "Kelsie Pejsa",
+      "Brian Lee",
+      "Charles Y Liu",
+      "Richard A Andersen"
+    ],
+    "original_source_sha256": "bd04174b52bf4dbc80f01f97f4071e548983e2dcf414c435355dd62eb8c7c07c"
+  },
+  "41152:3": {
+    "id": "41152",
+    "figure": 3,
+    "path": "figures/41152_fig3.png",
+    "source_url": "https://cdn.elifesciences.org/articles/41152/elife-41152-fig3-v2.tif",
+    "doi": "10.7554/eLife.41152",
+    "year": "2018",
+    "authors": "Esmeralda Fonseca; Victor de Lafuente; Sidney A Simon; Ranier Gutierrez",
+    "title": "Sucrose intensity coding and decision-making in rat gustatory cortices",
+    "legend": "A subpopulation of Intensity-selective neurons decodes sucrose concentrations (3 vs. 18 wt%) better than other neuron classes. ( A )\u00a0The color-coded PSTHs of the five Cue-evoked responses in pIC (left panel), aIC (middle panel), and OFC (right panel) sorted by modulation profile and Intensity-selectivity (Low/High). Response types were first sorted from top to bottom as follows: Phasic (orange vertical line at the left edge), Inactive (dark blue), Active (red), Lick-coherent Inactive (cyan), and Lick-coherent Active (magenta). The white horizontal dashed lines separate each modulation profile as a function of Low and High selectivity (see green and red vertical lines at the left edge). Each row represents the firing rate normalized in Z-score of a neuronal response aligned to 3 (Low, left panel) and 18 wt% (High, right panel) sucrose delivery (time\u00a0=\u00a00, black vertical line). ( B ) Percent decoding accuracy of sucrose intensity achieved by the neurons recorded in pIC, aIC, and OFC. Each colored bar represents a different group of neurons: Non-evoked (gray), All (black), Non-selective (blue), and Intensity-selective (red). A black dashed line indicates the 50% chance level, and the upper dashed line the behavioral performance. * Indicates significant differences against the Non-evoked population, while # indicates significant differences against All group. Only correct Cue-D trials were included for analysis. The white horizontal line in each bar indicates the percent decoding achieved by each population when spike timing information was removed (i.e., shuffled spikes but maintaining same firing rates). The gray horizontal lines depict the contribution of noise correlations for population decoding.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Fonseca et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "b5895e59ee464e1261a1cdc1b647cfa408ca4a2e2c4fb73b2da9ca7382a3948c",
+    "full_authors": [
+      "Esmeralda Fonseca",
+      "Victor de Lafuente",
+      "Sidney A Simon",
+      "Ranier Gutierrez"
+    ],
+    "original_source_sha256": "0605c4e1c71a8e660c00684f4d2fa9653a2e74a89f9f96df817423db8f92eb48"
+  },
+  "45636:1": {
+    "id": "45636",
+    "figure": 1,
+    "path": "figures/45636_fig1.png",
+    "source_url": "https://cdn.elifesciences.org/articles/45636/elife-45636-fig1-v2.tif",
+    "doi": "10.7554/eLife.45636",
+    "year": "2019",
+    "authors": "Pierre-Yves Musso; Pierre Junca; Meghan Jelen; Damian Feldman-Kiss; Han Zhang; Rachel CW Chan; Michael D Gordon",
+    "title": "Closed-loop optogenetic activation of peripheral or central neurons modulates feeding in freely moving <i>Drosophila</i>",
+    "legend": "The STROBE setup. ( A ) Concept of the FlyPAD: The interaction between the fly\u2019s proboscis and the food is detected as a change in capacitance between two electrodes: electrode 1, on which the fly stands, and electrode 2, on which the food is placed. ( B ) Concept of the STROBE: when the fly is not interacting with the food, no change of capacitance is detected and the LED is OFF (left); when the fly sips, changes in capacitance turn the LED ON (right). ( C ) Flowchart of the STROBE signal processing algorithm. ( D ) Example of capacitance changes during a feeding bout, and the associated sips called by the FlyPAD (blue) and STROBE lighting events (red). ( E ) Comparison of the sip numbers called by the FlyPAD algorithm and LED illuminations triggered by STROBE algorithm. Sips/illuminations were counted in 1 min bins across a 1 hr experiment for 10 different channels (five arenas). Bins with neither sips detected by the FlyPAD algorithm nor illuminations triggered by the STROBE algorithm were excluded from analysis, as these were deemed times when the fly was not interacting with the food. 10.7554/eLife.45636.005 Figure 1\u2014source data 1. This file contains all the raw numerical data for  Figure 1  and its associated figure supplements.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Musso et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "2949dae04bc66b486202801b6344f7a1f18cbca609ec84cce0b98055138ee47d",
+    "display_path": "figures/45636_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.54
+    ],
+    "crop_tool": "tools/crop_figure.py; lossless publisher raster in private PDF container",
+    "source_dimensions": [
+      1739,
+      2103
+    ],
+    "full_authors": [
+      "Pierre-Yves Musso",
+      "Pierre Junca",
+      "Meghan Jelen",
+      "Damian Feldman-Kiss",
+      "Han Zhang",
+      "Rachel CW Chan",
+      "Michael D Gordon"
+    ],
+    "original_source_sha256": "f58694cb4ac59d9c88266347732a20a3f45bf704576fc24a084ab78af09577fc",
+    "display_sha256": "0a98266981986d3f1e399d0e965362a264a8afaa70f258302da9ac15b5f98d55"
+  },
+  "45636:3": {
+    "id": "45636",
+    "figure": 3,
+    "path": "figures/45636_fig3.png",
+    "source_url": "https://cdn.elifesciences.org/articles/45636/elife-45636-fig3-v2.tif",
+    "doi": "10.7554/eLife.45636",
+    "year": "2019",
+    "authors": "Pierre-Yves Musso; Pierre Junca; Meghan Jelen; Damian Feldman-Kiss; Han Zhang; Rachel CW Chan; Michael D Gordon",
+    "title": "Closed-loop optogenetic activation of peripheral or central neurons modulates feeding in freely moving <i>Drosophila</i>",
+    "legend": "Behavioral impact of GRN activation is modulated by starvation. ( A ) Protocol: flies are subjected to increasing period of starvation (12 hr, 24 hr, 48 hr) prior to the STROBE experiment. ( B ) Experimental setup: both channels contain plain 1% agar. ( C\u2013D ) The effect of starvation on light side preference ( C ) and food interaction numbers ( D ) of flies expressing CsChrimson in sweet neurons. ( E\u2013F ) The effect of starvation on preference for the light side ( E ) and interaction numbers ( F ) of flies expressing CsChrimson in bitter neurons. Values represent mean\u00a0\u00b1\u00a0SEM. n\u00a0=\u00a021\u201330. Statistical tests: two-way ANOVA with Bonferroni post hoc. ns p>0.05, *p<0.05, **p<0.01, ***p<0.001. Colored asterisks represent significance between sips on each side for the retinal group. 10.7554/eLife.45636.017 Figure 3\u2014source data 1. This file contains all the raw numerical data for  Figure 3  and its associated figure supplements.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Musso et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "daa176d7330513bff44f5b0c9a432995a8e4ff874a5d52e009ba075400635afc",
+    "display_path": "figures/45636_fig3_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.56
+    ],
+    "crop_tool": "tools/crop_figure.py; lossless publisher raster in private PDF container",
+    "source_dimensions": [
+      1100,
+      1816
+    ],
+    "full_authors": [
+      "Pierre-Yves Musso",
+      "Pierre Junca",
+      "Meghan Jelen",
+      "Damian Feldman-Kiss",
+      "Han Zhang",
+      "Rachel CW Chan",
+      "Michael D Gordon"
+    ],
+    "original_source_sha256": "091ea53232a9c98815077cfacd6307ee727391228c4a08885ce81c13f84455a5",
+    "display_sha256": "6cacdd68a5b2c889219d04e4683bd93d534943b27328ca5c7b99ac7bd822f623"
+  },
+  "45839:2": {
+    "id": "45839",
+    "figure": 2,
+    "path": "figures/45839_fig2.png",
+    "source_url": "https://cdn.elifesciences.org/articles/45839/elife-45839-fig2-v1.tif",
+    "doi": "10.7554/eLife.45839",
+    "year": "2019",
+    "authors": "David E Ehrlich; David Schoppik",
+    "title": "A primal role for the vestibular sense in the development of coordinated locomotion",
+    "legend": "Development of fin-body coordination. ( A ) Schematic of fin-body coordination for climbing. Positive posture changes are paired with positive attack angles and negative body rotations with no attack angle, reflecting exclusion of the fins. ( B ) Mean linear and angular acceleration during swim bouts at 1, 2, and 3 weeks post-fertilization (wpf), temporally aligned to peak linear speed (time 0). The window used to compute posture change is highlighted in gray. ( C ) Attack angle as a function of posture change for bouts at 1, 2, and 3 wpf, with cropped attack angle probability distributions ( right ). Data plotted as means of equally\u00a0sized bins (black lines) and superimposed with best-fit sigmoids and their bootstrapped S.D. ( D ) Fin-body ratio, defined as the maximal slope of best-fit sigmoid to attack angle and posture change, is plotted with 95% confidence intervals as a function of age. ( E,F ) Mean attack angle ( E ) and absolute deviation from horizontal ( F ) for each clutch and age, evaluated over 48 hr, are plotted as functions of fin-body ratio with Pearson\u2019s correlation coefficients ( r ; p=5.6E-6 for attack angle and p=6.3E-3 for deviation from horizontal). Small values convey body-dominant synergies, while large values convey fin-dominant synergies. Developmental trajectories for the four individual clutches are plotted on identical axes ( right ).",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Ehrlich and Schoppik",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "bc8e3cc104ff8f07ab673d7829a59d0a6e332f4341e7888defcc08357f53d865",
+    "full_authors": [
+      "David E Ehrlich",
+      "David Schoppik"
+    ],
+    "original_source_sha256": "1330c86f5054a08e70cedf49dfc65c4310492df52ec85bcb246137b898139fa3"
+  },
+  "45839:3": {
+    "id": "45839",
+    "figure": 3,
+    "path": "figures/45839_fig3.png",
+    "source_url": "https://cdn.elifesciences.org/articles/45839/elife-45839-fig3-v1.tif",
+    "doi": "10.7554/eLife.45839",
+    "year": "2019",
+    "authors": "David E Ehrlich; David Schoppik",
+    "title": "A primal role for the vestibular sense in the development of coordinated locomotion",
+    "legend": "Fin-body coordination is abolished by peripheral vestibular lesion. ( A ) Representative lateral photomicrographs, one of a larva with typical development of utricular (anterior) otoliths ( top , control: wild-type or heterozygous for  otogelin ) and another of its sibling lacking utricular otoliths ( bottom ,  otogelin -/- ). Utricle position is encircled in red. ( B ) Attack angle as a function of posture change for bouts by control larvae (4767 bouts) and  otogelin -/ -\u00a0siblings (3656 bouts). Data plotted as means of equally\u00a0sized bins (gray lines) superimposed with best-fit sigmoids and their bootstrapped S.D. Marginals show cropped probability distributions, with  otogelin -/ -\u00a0marginals superimposed on control data as dashed lines. ( C ) Fin-body ratio, or the maximal slope of best-fit sigmoid, plotted with 95% confidence interval. ( D ) Median posture change during bouts by individual clutches (gray) and their means. Pairwise t-test, t 4 \u00a0=\u00a03.13,\u00a0p\u00a0=\u00a00.035. ( E ) Mean deviation of posture from horizontal during steep climbs (>\u00a020\u00b0). Pairwise t-test, t 4 \u00a0=\u00a03.02,\u00a0p\u00a0=\u00a00.039.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Ehrlich and Schoppik",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "39503e3f97eeea2d3711c9fd28d9e8cf2bc993c3cb853cfe08de134429588063",
+    "full_authors": [
+      "David E Ehrlich",
+      "David Schoppik"
+    ],
+    "original_source_sha256": "b0db5f2f790a77f78f6d0e1a25eb7e2ae10d4cb0b983b0abe164a18633e8048b"
+  },
+  "47677:1": {
+    "id": "47677",
+    "figure": 1,
+    "path": "figures/47677_fig1.png",
+    "source_url": "https://cdn.elifesciences.org/articles/47677/elife-47677-fig1-v1.tif",
+    "doi": "10.7554/eLife.47677",
+    "year": "2019",
+    "authors": "Anita V Devineni; Bei Sun; Anna Zhukovskaya; Richard Axel",
+    "title": "Acetic acid activates distinct taste pathways in <i>Drosophila</i> to elicit opposing, state-dependent feeding responses",
+    "legend": "Acetic acid induces aversive or appetitive taste responses depending on hunger state. ( A ) One-day or two-day starved flies, but not fed flies, showed strong PER to acetic acid applied to the labellum. PER at 0% acetic acid represents the baseline response to water. ( B ) Both fed and starved flies showed dose-dependent PER to sucrose applied to the labellum. ( C ) Acetic acid suppressed PER to 300 mM sucrose in fed flies but not in one-day or two-day starved flies. ( D ) Acetic acid suppressed PER to 50 mM sucrose in fed flies and had a small but significant effect in one-day starved flies, but not in two-day starved flies. ( E ) Two-day starved flies showed PER to acetic acid applied to the legs. ( F ) Two-day starved flies stimulated asymmetrically with 5% acetic acid on the legs tended to show PER toward the stimulus (n\u00a0=\u00a053 trials, nine flies). In panels A-D, fed and starved flies were compared using two-way repeated measures ANOVA followed by Bonferroni\u2019s post-tests (*p<0.05, **p<0.01, ***p<0.001; orange or red asterisks correspond to one- or two-day starved flies, respectively). In panels C-D, responses within each group were compared to the response to 0% acetic acid using one-way repeated-measures ANOVA followed by Dunnett's post-tests ( # p<0.05,  ## p<0.01; symbols colored by group). Detailed statistical results for all experiments are reported in  Supplementary file 1 . For panels A-E, n\u00a0=\u00a03\u20135 sets of flies. See also  Figure 1\u2014figure supplements 1 \u2013 3  and  Videos 1  and  2 . 10.7554/eLife.47677.007 Figure 1\u2014source data 1. Raw data for  Figure 1 .",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Devineni et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "5b3e24f8affe262977f3ef61637677a1cd1d2c6bfc0cf9f6a35de45f43e78381",
+    "display_path": "figures/47677_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.38
+    ],
+    "crop_tool": "tools/crop_figure.py; lossless publisher raster in private PDF container",
+    "source_dimensions": [
+      1236,
+      1776
+    ],
+    "full_authors": [
+      "Anita V Devineni",
+      "Bei Sun",
+      "Anna Zhukovskaya",
+      "Richard Axel"
+    ],
+    "original_source_sha256": "ce0aba42b97bee9bdc96f13047a55089d5eabfaaebc1b36572d64b24315c17a7",
+    "display_sha256": "34067cd97d97943a1bed716ee6a61dda473d28640269e6ee837388714d06aefc"
+  },
+  "49190:3": {
+    "id": "49190",
+    "figure": 3,
+    "path": "figures/49190_fig3.png",
+    "source_url": "https://cdn.elifesciences.org/articles/49190/elife-49190-fig3-v2.tif",
+    "doi": "10.7554/eLife.49190",
+    "year": "2019",
+    "authors": "Kelly M Smith; Tyler J Browne; Olivia C Davis; A Coyle; Kieran A Boyle; Masahiko Watanabe; Sally A Dickinson; Jacqueline A Iredale; Mark A Gradwell; Phillip Jobling; Robert J Callister; Christopher V Dayas; David I Hughes; Brett A Graham",
+    "title": "Calretinin positive neurons form an excitatory amplifier network in the spinal cord dorsal horn",
+    "legend": "Extended CR-ChR2 photostimlation enhances spontaneous excitatory activity. ( A ) spinal cord slice recordings from a CR-ChR2 +  neuron showing spontaneous excitatory postsynaptic currents before, during and following full field photostimulation (blue bar, 16 mW, 10 ms pulses @ 10 Hz, 10 s). Inset shows onset of photostimulation and response on expanded time scale. Note a dramatic increase in sEPSC frequency persists following the photostimulation period. ( B ) Traces (upper) show 2 s pre and post photostimlation on an expanded timescale from ( A ). Plot (lower) shows group data comparing sEPSC frequency in the pre- and post-photostimulation (excitatory CR-ChR2 cells\u00a0=\u00a0red, inhibitory CR-ChR2 cells\u00a0=\u00a0green, unidentified DH cells\u00a0=\u00a0blue). Data on or near the unity line (dashed) indicates little change between pre- and post-photostimulation sEPSC frequency, however, four CR-ChR2 cells exhibited a substantial increase in post photostimulation sEPSC frequency (large grey box). ( C ) Plots compare pre- to post-photostimulation frequency sEPSC (\u0394 frequency) with photocurrent and photostimulated oEPSC amplitudes (left and right, respectively). There was no correlation between \u0394 frequency and either property. ( D ) Plots compare mean sEPSC frequency (red) across photostimulation protocol for CR-ChR2 cells deemed to exhibit a post-photostimulation increase (n\u00a0=\u00a04, post-photostimulation sEPSC frequency exceeded mean pre-photostimulation sEPSC frequency\u00a0\u00b14 SD), and CR-ChR2 cells with a similar baseline sEPSC frequency, but no post-photostimulation change.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Smith et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "dcfbf54897edc7b2517c8ab6ff1e12cea4614a47d32e102f211d20512c64695b",
+    "full_authors": [
+      "Kelly M Smith",
+      "Tyler J Browne",
+      "Olivia C Davis",
+      "A Coyle",
+      "Kieran A Boyle",
+      "Masahiko Watanabe",
+      "Sally A Dickinson",
+      "Jacqueline A Iredale",
+      "Mark A Gradwell",
+      "Phillip Jobling",
+      "Robert J Callister",
+      "Christopher V Dayas",
+      "David I Hughes",
+      "Brett A Graham"
+    ],
+    "original_source_sha256": "964a54e9f537985db1fe03f5692696d76de856dad46de93ee954e4c280dd9e8f"
+  },
+  "49190:6": {
+    "id": "49190",
+    "figure": 6,
+    "path": "figures/49190_fig6.png",
+    "source_url": "https://cdn.elifesciences.org/articles/49190/elife-49190-fig6-v2.tif",
+    "doi": "10.7554/eLife.49190",
+    "year": "2019",
+    "authors": "Kelly M Smith; Tyler J Browne; Olivia C Davis; A Coyle; Kieran A Boyle; Masahiko Watanabe; Sally A Dickinson; Jacqueline A Iredale; Mark A Gradwell; Phillip Jobling; Robert J Callister; Christopher V Dayas; David I Hughes; Brett A Graham",
+    "title": "Calretinin positive neurons form an excitatory amplifier network in the spinal cord dorsal horn",
+    "legend": "In vivo photostimulation response characteristics. ( A ) Left plot shows overlaid peristimulus histograms of photostimulation responses in CR-ChR2 mice (n\u00a0=\u00a025, grey traces) with response duration binned in 5 s epochs. Mean response is shown in red and converted to a heat bar (bins color coded to percent time groomed (red\u00a0=\u00a0100%, black\u00a0=\u00a00%). Right plot compares total response duration for CR-ChR2 mice and a control group of CR-eGFP mice (n\u00a0=\u00a09). Note CR-ChR2 mouse responses varied with an average of 45 s nocifensive behavior outlasting the 10 s photostimulation period. ( B ) Left plot shows overlaid responses from a subset of animals (n\u00a0=\u00a06) that received two successive photostimuli, separated by 120 s (10 mW, 10 Hz, 10 s, grey traces). Right plot compares total response duration to initial (S1) and repeat photostimulation (S2) highlighting an average 10 s increase in the second response (p=0.005). ( C ) Left plots show overlaid responses to brief subthreshold photostimulation trains (0.72\u00a0\u00b1\u00a00.36 mW, 10 ms pulses) delivered at two frequencies (0.1 Hz \u2013 lower, and 0.5 Hz \u2013 upper). Right plots compare latency to photostimulation responses and total response duration at the two stimulation frequencies. Repeated subthreshold photostimuli summate to evoke a response and latency is significantly reduced by increased stimulation frequency (p=0.012). ( D ) Photostimulation responses mapped to the body region targeted in a subset of CR-ChR2 animals (paw, leg, back or tail; n\u00a0=\u00a012). Images show examples of nocifensive responses directed to the hind paw, hindlimb, back, and tail. Plots (right) compare group data for the latency of nocifensive behavior directed to different body regions. Hind paw focused responses show the shortest latency followed by significantly longer latencies for responses targeting the hind limb, back and then tail.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Smith et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "9a3ee91c4f1d9e4acf432b0d779463b3e69eae24320c58d0c76de69f2d9bdce7",
+    "display_path": "figures/49190_fig6_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.54
+    ],
+    "crop_tool": "tools/crop_figure.py; lossless publisher raster in private PDF container",
+    "source_dimensions": [
+      1741,
+      1091
+    ],
+    "full_authors": [
+      "Kelly M Smith",
+      "Tyler J Browne",
+      "Olivia C Davis",
+      "A Coyle",
+      "Kieran A Boyle",
+      "Masahiko Watanabe",
+      "Sally A Dickinson",
+      "Jacqueline A Iredale",
+      "Mark A Gradwell",
+      "Phillip Jobling",
+      "Robert J Callister",
+      "Christopher V Dayas",
+      "David I Hughes",
+      "Brett A Graham"
+    ],
+    "original_source_sha256": "84ec7236116991679d74eb523b04e3110e3843f10d4ebf0d4006c567ce318c5c",
+    "display_sha256": "8245496fba9d3e8179584806bd768e32c4f48a1df3e2a69623e2a32ef5206b82"
+  },
+  "49190:8": {
+    "id": "49190",
+    "figure": 8,
+    "path": "figures/49190_fig8.png",
+    "source_url": "https://cdn.elifesciences.org/articles/49190/elife-49190-fig8-v2.tif",
+    "doi": "10.7554/eLife.49190",
+    "year": "2019",
+    "authors": "Kelly M Smith; Tyler J Browne; Olivia C Davis; A Coyle; Kieran A Boyle; Masahiko Watanabe; Sally A Dickinson; Jacqueline A Iredale; Mark A Gradwell; Phillip Jobling; Robert J Callister; Christopher V Dayas; David I Hughes; Brett A Graham",
+    "title": "Calretinin positive neurons form an excitatory amplifier network in the spinal cord dorsal horn",
+    "legend": "In vivo CR-ChR2 photostimulation has nociceptive qualities. ( A ) Heat bars (left) show average photostimulation responses (10 mW at 10 Hz, 10 s), from a subset of animals (n\u00a0=\u00a06) assessed under baseline conditions, after, three morphine doses (3, 10, and 30 mg/kg i.p.), and control saline injection. Bar graphs (right) compares group data for total nocifensive response duration under each condition. Morphine produced a dose dependent block of the nocifensive response compared to baseline (3 mg/kg, p=0.024; 10 mg/kg, p=0.002; 30 mg/kg, p=0.001). ( B ) Group plots compare mean withdrawal threshold (von Frey) for hind paws ipsilateral and contralateral to spinal fiber optic probe placement. Left bars show mean withdrawal threshold under baseline conditions and right bars show mean withdrawal threshold assessed with NpHR3-mediated photoinhibition of CR +  neurons in the ipsilateral spinal cord. Spinal photoinhbition selectively increased withdrawal threshold for the ipsilateral hindpaw, consistent with CR +  neuron inhibition decreasing mechanical sensitivity (cont\u00a0=\u00a0contralateral, ipsi\u00a0=\u00a0ipsilateral). ( C ) Four maps (left) show mouse activity traces during the conditioned place aversion (CPA) testing under: control conditions (no photostimulation - red trace); real time CPA training (RT-CPA \u2013 green trace) where one arena is assigned for photostimulation (10 mW, 10 Hz, 10 s in every minute) on entry; short-term CPA (ST-CPA), assessed 1 hr following the RT-CPA session with no photostimulation (blue trace); and long-term CPA (LT-CPA), assessed 24 hr after the RT-CPA session again with no photostiulation (purple trace). ( D ) Bar graph (right) compares time spent in the photostimulation arena during CPA testing. Spinal photostimulation of CR-ChR2 neurons established a robust real-time conditioned place aversion by the fourth RT-CPA session (green) significantly reducing time in the photostimulation arena (p<0.0001). These reductions persisted during ST-CPA (p=0.0001) and LT-CPA (p=0.0001). ( E ) Timeline shows experimental sequence for testing CR-ChR2 photosimulation responses before and after spared nerve injury (SNI) surgery. ( F ) Plot shows 50% withdrawal thresholds for CR Cre ;Ai32 mice at baseline and following SNI surgery. All animals developed mechanical hypersensitivity. ( G ) plots show overlaid peristimulus histograms of photostimulation responses in CR Cre ;Ai32 mice (n\u00a0=\u00a04, grey traces) at baseline, and 5 and 12 days following SNI surgery. Mean response is shown in red and converted to a heat bar (bins color coded to percent time groomed (red\u00a0=\u00a0100%, black\u00a0=\u00a00%). ( H ) Plot shows individual photostimulation behavioral response durations at baseline, and 5 and 12 days following SNI surgery (bar show mean). Responses were significantly longer post-SNI.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Smith et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "d0a654ac4752b7859af7dc77acb47137800b75794fc6dee3d36985fec2fa67cd",
+    "display_path": "figures/49190_fig8_panels.png",
+    "panel_crop_box": [
+      0,
+      0.74,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py; lossless publisher raster in private PDF container",
+    "source_dimensions": [
+      1607,
+      2286
+    ],
+    "full_authors": [
+      "Kelly M Smith",
+      "Tyler J Browne",
+      "Olivia C Davis",
+      "A Coyle",
+      "Kieran A Boyle",
+      "Masahiko Watanabe",
+      "Sally A Dickinson",
+      "Jacqueline A Iredale",
+      "Mark A Gradwell",
+      "Phillip Jobling",
+      "Robert J Callister",
+      "Christopher V Dayas",
+      "David I Hughes",
+      "Brett A Graham"
+    ],
+    "original_source_sha256": "ade7a19aaa74de4dca29f3b0047dcaf991b255b1fb0f540bd855bf1387af1927",
+    "display_sha256": "868f68d48d031e8e5dcad1469d834bc691e62d43e92e00c8d964abecd02ca42a"
+  },
+  "57524:1": {
+    "id": "57524",
+    "figure": 1,
+    "path": "figures/57524_fig1.png",
+    "source_url": "https://cdn.elifesciences.org/articles/57524/elife-57524-fig1-v1.tif",
+    "doi": "10.7554/eLife.57524",
+    "year": "2020",
+    "authors": "Mahmut Demir; Nirag Kadakia; Hope D Anderson; Damon A Clark; Thierry Emonet",
+    "title": "Walking <i>Drosophila</i> navigate complex plumes using stochastic decisions biased by the timing of odor encounters",
+    "legend": "Simultaneous visualization of odor and fly behavior. ( A ) Experimental apparatus. The main flow (150 mm/s) is perturbed by lateral jets (1500 mm/s) that alternate stochastically with a\u00a0characteristic time scale of\u00a0100 ms. ( B ) Walking arena with flies (blue), odor intensity (gray), and a representative trajectory of a navigating fly (red). Green: the\u00a0portion of the trajectory plotted in  C-E . Note that since the odor environment is fluctuating, the image in B only represents the environment at a random time point. Blue rectangle: the\u00a0area shown in the inset. Inset: blue: fly; gray: odor intensity; red triangle: orientation of the fly; purple: the virtual antenna in which the odor intensity is averaged as a proxy for the signal perceived by the fly. Simultaneous orientation ( C ), speed ( D ), and perceived stimulus ( E ) of the fly while it is navigating in the intermittent plume (green portion of the trajectory in B). Dashed lines in C indicate up-wind and cross-wind orientations. Orientation and speed were smoothed with a 100 ms sliding box filter. The\u00a0shaded area in E (top) is plotted at a larger scale (bottom) with the sensory threshold (dotted line) used to identify the odor encounters (magenta lines above the signal trace in purple; see also  Figure 1\u2014figure supplement 2  and Materials\u00a0and\u00a0methods). ( F ) The fraction of time that odor concentration is above the\u00a0sensory threshold (i.e. intermittency) at fixed locations. Image intensity is median-filtered (square filter size 2.3 mm), and the likelihood that the intensity is above the\u00a0sensory threshold, averaged over all frames of the video. Red dots: positions of encounter and blank duration distributions plotted in G-H. Green dots: positions of encounter probability distributions plotted in J. ( G-H ) Distributions of encounter and blank durations, respectively, at positions color-coded in F. The pink dash line shows the  t - 3 / 2  expected from theory for turbulent flow ( Celani et al., 2014 ). Exponents of the power law fit to the tail of the distributions are indicated with the same color code as in F. ( I ) Odor encounter and blank durations perceived by navigating flies. Values in the parenthesis indicate the exponent of the power law fit to the tail of the distribution. ( J ) Probability (r axis) to have an odor encounter within 1 s while walking with a speed of 10 mm/s, starting from positions color-coded in F, as a function of walking direction (theta axis). ( K ) Probability distribution functions (pdf) of fly positions in the arena for the complex smoke plume as in A ( n \u00a0=\u00a01073 trajectories). ( L ) Same without smoke but with the same complex wind pattern as in K ( n \u00a0=\u00a0502). Magenta: location of the source. Blue curves: marginal pdfs.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Demir et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "212d5ebc7404369797bbdbaa931daeddbe8e8a8370b7236716626d3929588c02",
+    "full_authors": [
+      "Mahmut Demir",
+      "Nirag Kadakia",
+      "Hope D Anderson",
+      "Damon A Clark",
+      "Thierry Emonet"
+    ],
+    "original_source_sha256": "497af84fe49237cd29894f35777db5aeadb6dcbd7555ec9e90f581ef70310be9"
+  },
+  "57524:4": {
+    "id": "57524",
+    "figure": 4,
+    "path": "figures/57524_fig4.png",
+    "source_url": "https://cdn.elifesciences.org/articles/57524/elife-57524-fig4-v1.tif",
+    "doi": "10.7554/eLife.57524",
+    "year": "2020",
+    "authors": "Mahmut Demir; Nirag Kadakia; Hope D Anderson; Damon A Clark; Thierry Emonet",
+    "title": "Walking <i>Drosophila</i> navigate complex plumes using stochastic decisions biased by the timing of odor encounters",
+    "legend": "Odor encounters bias turn direction but not turn rate or turn magnitude. ( A ) Distribution of change in orientation following a turn. The discreteness of turn angle (two narrow peaks in pdf) was verified to be insensitive to the threshold used to determine turns ( Figure 4\u2014figure supplement 1 ). ( B ) Cumulative change in orientation over non-turning bouts (\u2018straight\u2019 segments) 2 s after an encounter, versus orientation at encounter onset (compare with  Figure 3B ). Data are partitioned into encounters followed by 0, 1-3, or 4+ subsequent encounters in the following 2 s. ( C ) Leftmost plot: Distribution of time until a turn. Red line: maximum likelihood fit to an\u00a0exponential distribution, with mean 0.75\u00b10.17\u00a0s (distribution generated by bootstrapping). Remaining plots: Same, now for times at which encounter frequency is low (<1Hz; 2nd plot) or high (>3Hz; 3rd plot), or times at which encounter duration is low (<100 ms; 4th plot) or high (>500 ms; 5th plot). Fits are 0.71\u00b10.17\u00a0s, 0.86\u00b10.31\u00a0s, 0.75\u00b10.19\u00a0s, 0.70\u00b10.35\u00a0s, respectively, none of which are statistically distinct from the data for all turns ( p  > 0.05, 2-tailed t-test). ( D ) Distribution of turn angles during low (< 1 Hz) or high (> 4 Hz) encounter frequency bouts (compare A). ( E ) Model of fly turning. Turn events obey a Poisson process with timescale  \u03c4 T =0.75s (C). Turn direction is chosen randomly at each turn time, where the probability  p T  that the turn is directed upwind is modeled by  p T = 1 + e - \u03b1 W f r e q - 1   (Materials\u00a0and\u00a0methods).  p T  is therefore a sigmoidal function of the frequency of odor encounters  W f r e q , where the gain parameter  \u03b1  represents the steepness of the sigmoid. ( F ) Distribution of gain parameter  \u03b1 , estimated for 500 distinct subsets of the data. The distribution is highly peaked, indicating its robustness. The median estimate of  \u03b1  is 0.242 Hz \u22121 . ( G ) Upwind orientation versus encounter frequency for data (black) and model prediction (red).",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Demir et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "0d67de16283fa33759a5616033a82be25f3a1a3ddc58140fbdc67304ef62a9ae",
+    "display_path": "figures/57524_fig4_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      0.68,
+      0.36
+    ],
+    "crop_tool": "tools/crop_figure.py; lossless publisher raster in private PDF container",
+    "source_dimensions": [
+      2132,
+      1807
+    ],
+    "full_authors": [
+      "Mahmut Demir",
+      "Nirag Kadakia",
+      "Hope D Anderson",
+      "Damon A Clark",
+      "Thierry Emonet"
+    ],
+    "original_source_sha256": "4da939fd72620e1feff117696d44a86f2b85741d89cffb0d1b9a4add88ecb674",
+    "display_sha256": "d08dab23de23748df1e41d9aefe58848567c033ac4d610d2502d855f42082e39"
+  },
+  "60299:1": {
+    "id": "60299",
+    "figure": 1,
+    "path": "figures/60299_fig1.png",
+    "source_url": "https://cdn.elifesciences.org/articles/60299/elife-60299-fig1-v2.tif",
+    "doi": "10.7554/eLife.60299",
+    "year": "2020",
+    "authors": "Sweta Agrawal; Evyn S Dickinson; Anne Sustar; Pralaksha Gurung; David Shepherd; James W Truman; John C Tuthill",
+    "title": "Central processing of leg proprioception in <i>Drosophila</i>",
+    "legend": "Transformation of leg proprioceptive signals from sensory to central neurons. ( A ) Left: Confocal image of the prothoracic (front) leg showing the location of the femoral chordotonal\u00a0organ (FeCO) cell bodies and dendrites (magenta). Blue: cuticle auto-fluorescence. Right: confocal image of FeCO neurons in the fly ventral nerve cord (VNC). Blue: neuropil stain (nc82); Magenta: FeCO axons. ( B ) Experimental setup for two-photon calcium imaging from VNC neurons while controlling and tracking the femur-tibia joint. A steel pin was glued to the tibia, painted black, and moved via a magnet mounted on a servo motor. The tibia was vibrated by a piezoelectric crystal fixed to the magnet. Right: an example frame from a video used to track joint angle. ( C\u2013H ) Calcium signals from FeCO sensory neurons or central neurons in response to swing movements of the femur-tibia joint. Top left: anatomy (magenta or green) of each cell\u00a0type in the prothoracic VNC (blue: nc82). The dashed white box indicates the recording region. Bottom left: GCaMP6f fluorescence within the recording region during an example trial. The pixels comprising each region of interest are outlined. Right: changes in GCaMP6f fluorescence (\u0394F/F) during femur-tibia swing movements. The thicker line is the response average (n=10, 13, 14, 4, 6, 6). ( I\u2013K ) Overlay of sensory axons (magenta) and central neurons (green). Data in  C\u2013E  were reproduced with permission from  Mamiya et al., 2018 . All VNC images were aligned using the Computational Morphometry Toolkit ( Jefferis et al., 2007 ).",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Agrawal et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "ced71d64603340a22025479a9f1b784b67dd6bdbe509fb3aecca222cca9711de",
+    "display_path": "figures/60299_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.34
+    ],
+    "crop_tool": "tools/crop_figure.py; lossless publisher raster in private PDF container",
+    "source_dimensions": [
+      2056,
+      2068
+    ],
+    "full_authors": [
+      "Sweta Agrawal",
+      "Evyn S Dickinson",
+      "Anne Sustar",
+      "Pralaksha Gurung",
+      "David Shepherd",
+      "James W Truman",
+      "John C Tuthill"
+    ],
+    "original_source_sha256": "773b1bfa5cbd59e73274ac5689ab15fceeac6acc53dfe58185ae3842146a0f46",
+    "display_sha256": "d289befb858eab73b9eae63863ad36d3f6c0f114af58fb86dc2083d158f56d78"
+  },
+  "60299:2": {
+    "id": "60299",
+    "figure": 2,
+    "path": "figures/60299_fig2.png",
+    "source_url": "https://cdn.elifesciences.org/articles/60299/elife-60299-fig2-v2.tif",
+    "doi": "10.7554/eLife.60299",
+    "year": "2020",
+    "authors": "Sweta Agrawal; Evyn S Dickinson; Anne Sustar; Pralaksha Gurung; David Shepherd; James W Truman; John C Tuthill",
+    "title": "Central processing of leg proprioception in <i>Drosophila</i>",
+    "legend": "13B\u03b1 neurons encode tibia position via tonic changes in membrane potential. ( A ) The experimental setup from  Figure 1B  was modified for whole-cell electrophysiology. ( B ) Confocal image of 13B\u03b1 neurons (green) in the prothoracic ventral nerve cord. ( C ) Morphology of two 13B\u03b1 neurons reconstructed after filling with Neurobiotin. ( D ) Voltage responses to current injection from an example 13B\u03b1 recording. ( E ) Whole-cell current clamp recordings during the indicated swings of the femur-tibia joint. Each trace is the average response of a cell to three presentations of the same movement. An example trace is highlighted in blue (left: n = 19; right: n = 23). ( F ) Current clamp recordings during ramp-and-hold movements of the femur-tibia joint. (left: n = 10; right: n = 15) ( G ) Steady-state activity (average \u00b1 SEM) at different joint angles during flexion (orange) or extension (green) measured from ramp-and-hold trials (tibia began fully flexed). Steady-state responses were measured during the middle second of each 3\u00a0s step. Individual traces were normalized to the same maximum amplitude. ( H ) Hysteresis (difference between the response to flexion and extension ( G ), average \u00b1 SEM) of the steady-state response plotted in  G .",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Agrawal et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "fe29b0dc5bbf7815147e394e3a58767d34fccd1f305d01f2abaa11fc891fe69b",
+    "display_path": "figures/60299_fig2_panels.png",
+    "panel_crop_box": [
+      0,
+      0.3,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py; lossless publisher raster in private PDF container",
+    "source_dimensions": [
+      2055,
+      1357
+    ],
+    "full_authors": [
+      "Sweta Agrawal",
+      "Evyn S Dickinson",
+      "Anne Sustar",
+      "Pralaksha Gurung",
+      "David Shepherd",
+      "James W Truman",
+      "John C Tuthill"
+    ],
+    "original_source_sha256": "7dbebea5486b165e9bc4d2e7706880a8584c50303c1e1088fd51685070301c41",
+    "display_sha256": "eb63650bedf2b38eb8b7229948a77728f1099e4f399f0dfc2f92a0229c37b80f"
+  },
+  "60299:3": {
+    "id": "60299",
+    "figure": 3,
+    "path": "figures/60299_fig3.png",
+    "source_url": "https://cdn.elifesciences.org/articles/60299/elife-60299-fig3-v2.tif",
+    "doi": "10.7554/eLife.60299",
+    "year": "2020",
+    "authors": "Sweta Agrawal; Evyn S Dickinson; Anne Sustar; Pralaksha Gurung; David Shepherd; James W Truman; John C Tuthill",
+    "title": "Central processing of leg proprioception in <i>Drosophila</i>",
+    "legend": "Optogenetic activation of 13B\u03b1 neurons causes flexion of the femur-tibia joint. ( A\u00a0and\u00a0B ) Schematic (left) and example frame (right) illustrating optogenetic activation of 13B\u03b1 neurons in headless flies either suspended from a tether (legs unloaded,  A ) or positioned on a ball (legs loaded,  B ). A green laser (530 nm) is focused at the coxa-body joint of the fly\u2019s left front leg (outlined in yellow) and all leg joints are monitored with high-speed video. Yellow arrows illustrate the left middle leg\u2019s lateral movements. Top row of panels: legs unloaded; Bottom row: legs loaded. ( C\u00a0and\u00a0D ) Average change in joint angle (\u00b1\u00a0SEM) of the coxa-femur (purple/black), femur-tibia (orange/dark gray), or tibia-tarsus (blue/light gray). Colored traces are from trials with a 720 ms laser stimulus (as indicated by the green bracket), and the black and gray traces are from trials with no laser stimulus. Asterisks mark those leg joints that demonstrated a significant change in joint angle when the laser was on compared to the no-laser trials (*p<0.05, bootstrapping with false discovery rate correction). Fly is either unloaded ( C , n = 4 flies) or loaded ( D , n = 7 flies). ( E\u00a0and\u00a0F ) Average change in the femur-tibia joint angle during laser stimulation grouped by initial joint angle. Only trials in which the fly flexed the tibia are included. Fly is either unloaded ( E , n = 30 trials) or loaded ( F , n = 19 trials). None of the groups was significantly different from one another (p<0.05, one-way ANOVA with Tukey\u2013Kramer correction for comparisons across multiple populations). ( G-H ) Probability that we observed a femur-tibia flexion across all trials. Bars are color\u00a0coded according to initial joint angle as in  E\u00a0and\u00a0F . G: n = 43 trials, F: n\u00a0=\u00a074 trials.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Agrawal et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "10e0b0d53dac95c6dfe7de2c516cff26e269ab103165bc3fd6afdf84168491ef",
+    "display_path": "figures/60299_fig3_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.53
+    ],
+    "crop_tool": "tools/crop_figure.py; lossless publisher raster in private PDF container",
+    "source_dimensions": [
+      2055,
+      1215
+    ],
+    "full_authors": [
+      "Sweta Agrawal",
+      "Evyn S Dickinson",
+      "Anne Sustar",
+      "Pralaksha Gurung",
+      "David Shepherd",
+      "James W Truman",
+      "John C Tuthill"
+    ],
+    "original_source_sha256": "5bf349624cfd4baa7fa431ba2f8c97a98bc2e67ed2a7e883058beb16689cb182",
+    "display_sha256": "0a569fa22d766c8a60f0b65c70676744453c41040ea7dddf665547caedba0dcd"
+  },
+  "60299:8": {
+    "id": "60299",
+    "figure": 8,
+    "path": "figures/60299_fig8.png",
+    "source_url": "https://cdn.elifesciences.org/articles/60299/elife-60299-fig8-v2.tif",
+    "doi": "10.7554/eLife.60299",
+    "year": "2020",
+    "authors": "Sweta Agrawal; Evyn S Dickinson; Anne Sustar; Pralaksha Gurung; David Shepherd; James W Truman; John C Tuthill",
+    "title": "Central processing of leg proprioception in <i>Drosophila</i>",
+    "legend": "Optogenetic activation of 10B\u03b1 neurons causes flies to freeze and stop walking. ( A ) Schematic of optogenetic activation of 10B\u03b1 neurons in tethered flies walking on a spherical treadmill. The treadmill and fly are tracked using high-speed cameras, and an LED display presents visual patterns that encourage walking. A green laser (530 nm) is focused on the coxa of the fly\u2019s left front leg. ( B ) Difference in speed during the 200 ms preceding the start of the stimulus period compared to a 200 ms window beginning after the start of the stimulus period, as indicated by the brackets in  C  (*p<0.05, bootstrapping with false discovery rate correction; 0 ms: Control: n = 6 flies; 10B\u03b1: n = 10 flies; 13B\u03b1: n = 7 flies; 9A\u03b1: n = 7 flies; 360 ms: Control: n = 8 flies; 10B\u03b1: n = 10 flies; 13B\u03b1: n = 8 flies; 9A\u03b1: n = 6 flies; 720 ms: Control: n = 13 flies; 10B\u03b1: n = 11 flies; 13B\u03b1: n = 13 flies; 9A\u03b1: n = 11 flies). ( C ) Average treadmill forward velocity (\u00b1\u00a0SEM) of walking flies during no laser trials (left) or trials with a 360 ms (middle) or 720 ms (right) laser stimulus. Green boxes indicate the duration of optogenetic stimulation. Black brackets indicate the pre- and post-laser onset time periods used to compare the effect of activation between control and interneuron lines in  B . ( D ) Cumulative probability of a fly stopping (velocity <0.3 cm/s) during trials with no laser or trials with a 360 ms or 720 ms laser stimulus (0 ms: Control: 25 trials, 10B\u03b1: 24 trials; 360 ms: Control: 25 trials, 10B: 19 trials; 720 ms: Control: 42 trials, 10B\u03b1: 24 trials). ( E ) Schematic of the three central neuron populations (13B\u03b1, 9A\u03b1, and 10B\u03b1) and their sensory inputs as determined by our experiments.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Agrawal et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "2ba2c4974260e679555a3630a6f8be6d61ef484f20cc35fde3159a255e821d7a",
+    "display_path": "figures/60299_fig8_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.63
+    ],
+    "crop_tool": "tools/crop_figure.py; lossless publisher raster in private PDF container",
+    "source_dimensions": [
+      1860,
+      2018
+    ],
+    "full_authors": [
+      "Sweta Agrawal",
+      "Evyn S Dickinson",
+      "Anne Sustar",
+      "Pralaksha Gurung",
+      "David Shepherd",
+      "James W Truman",
+      "John C Tuthill"
+    ],
+    "original_source_sha256": "177924d3443c96d2066c24c6f079f8e8d183f9733c88e61e010f747a28e53840",
+    "display_sha256": "cf992a49024809387ac5bec64499a8471c1ff61865c34fb7b73d543c0bcb2af7"
+  },
+  "71877:4": {
+    "id": "71877",
+    "figure": 4,
+    "path": "figures/71877_fig4.png",
+    "source_url": "https://cdn.elifesciences.org/articles/71877/elife-71877-fig4-v3.tif",
+    "doi": "10.7554/eLife.71877",
+    "year": "2022",
+    "authors": "Valeria Oliva; Ron Hartley-Davies; Rosalyn Moran; Anthony E Pickering; Jonathan CW Brooks",
+    "title": "Simultaneous brain, brainstem, and spinal cord pharmacological-fMRI reveals involvement of an endogenous opioid network in attentional analgesia",
+    "legend": "Summary of significant connection changes revealed by the gPPI analysis (placebo condition only). ( A ) Permutation testing revealed a significant change in connectivity in the main effect of task contrast between ACC and PAG, and in the task*temperature interaction contrast between PAG and RVM, LC and RVM, and importantly RVM and spinal cord. Masks used for time-series extraction are shown in the sagittal slice (yellow). The spinal cord axial slice shows the voxels with significantly connections with RVM (threshold at = 0.1 for visualisation purposes). ( B ) Extraction of parameter estimates revealed an increase in coupling in the analgesic condition for all of these connections (i.e. hard|high). (Mean \u00b1 SEM). Figure 4\u2014source data 1. gPPI parameter estimates across connections and conditions.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Oliva et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "8ebbbd09a97884be5515da5487eae135f30f55d52c062fe53c647f761c3ef5d9",
+    "full_authors": [
+      "Valeria Oliva",
+      "Ron Hartley-Davies",
+      "Rosalyn Moran",
+      "Anthony E Pickering",
+      "Jonathan CW Brooks"
+    ],
+    "original_source_sha256": "bc2ebcecbab574403569c1b0c154e4058a924251e186bf46d97a80e568b551ce"
+  },
+  "76574:2": {
+    "id": "76574",
+    "figure": 2,
+    "path": "figures/76574_fig2.png",
+    "source_url": "https://cdn.elifesciences.org/articles/76574/elife-76574-fig2-v3.tif",
+    "doi": "10.7554/eLife.76574",
+    "year": "2022",
+    "authors": "Zhen Liu; Meng-Hua Wu; Qi-Xuan Wang; Shao-Zhen Lin; Xi-Qiao Feng; Bo Li; Xin Liang",
+    "title": "<i>Drosophila</i> mechanical nociceptors preferentially sense localized poking",
+    "legend": "The mechanosensory features of c4da. ( A ) A representative image of c4da. The forces were applied at about 100 \u03bcm from the soma, i.e. along the green dashed circle. The representative force application points were marked using the filled circles (Green: 30 \u03bcm probe. Red: 60 \u03bcm probe). Genotype:  uas-cd4-tdtom; ppk-gal4 . ( B ) Representative responses of c4da (\u0394 F / F 0 , i.e. the change in calcium signal in the soma, unless otherwise stated hereinafter) to mN-scale forces delivered using the 30 \u03bcm (green) and 60 \u03bcm (red) probes. The black arrowhead indicated the defocused period of the soma caused by the stimulating force (2 s). Genotype:  ppk-gal4/+; ppk-cd4-tdtom/20\u00d7uas-ivs-gcamp6s . ( C ) The force-response (\u0394 F / F 0 ) plots of c4da (n=12 cells). The dashed lines were Boltzmann fitting. ( D ) The schematic showing the force application points (filled circles, green: 30 \u03bcm probe, red: 60 \u03bcm probe) of different stimuli. The dashed concentric circles were 100 and 200 \u03bcm in radius, respectively. ( p ) proximal dendrite. ( d ) distal dendrite.  d -off : the \u2018dendrite-off\u2019 region. ( E ) The responses of c4da (\u0394 F / F 0 ) to the proximal and distal stimuli using the 30 (1.5 mN) and 60 \u03bcm (4 mN) probes. Mann Whitney U test was used. *: p<0.05. ns: no significance. ( F ) The schematic showing the stimuli (filled circles, green: 30 \u03bcm probe, red: 60 \u03bcm probe, orange: 100 \u03bcm probe, blue: 200 \u03bcm probe) delivered using the probes of different sizes. The dashed circle was 200 \u03bcm in radius. ( G ) The responses of c4da (\u0394 F / F 0 , n=10 cells) to the forces applied on the distal dendrites using the probes of different sizes. ( H ) The plots of the responses of c4da (the same dataset as panel ( G )) to distal stimuli versus central pressure ( P 0 ) (left panel) and contact areas ( A c ) (right panel), respectively. Also see  Figure 2\u2014figure supplement 2  for the plots of the responses versus the pressures at other positions ( P x \u03bcm ). ( I ) The cartoon schematics of the modified behavior assay for mechanical nociception. VFF: Von Frey fiber, FP: force probe. ( J ) The behavioral responses of wild-type larvae to the mechanical poking stimuli using the probes of different sizes. The experiments were performed three times and the total numbers of larvae used for each type of probe were as following: 30 \u03bcm probe (n=92), 60 \u03bcm probe (n=67), 100 \u03bcm probe (n=69), 200 \u03bcm probe (n=70). One-way ANOVA test was used. **: p<0.01. ns: no significance. In panels ( A ), ( D ) and ( F ), scale bar: 100 \u03bcm. Asterisk: the soma. In panels ( C ), ( G ) and ( H ), data were presented as mean \u00b1 sem. In panel ( E ) and ( J ), data were presented as mean \u00b1 std and the numbers of cells were indicated below the scattered data points. Figure 2\u2014source data 1. Numerical data for  Figure 2 .",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Liu, Wu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "60875aa04081db9d0aad9a7095d3295bfc0157f13418ad79dfc83ff3ea440d91",
+    "full_authors": [
+      "Zhen Liu",
+      "Meng-Hua Wu",
+      "Qi-Xuan Wang",
+      "Shao-Zhen Lin",
+      "Xi-Qiao Feng",
+      "Bo Li",
+      "Xin Liang"
+    ],
+    "original_source_sha256": "bb23e3fc28b25a85194c915a54d011ae0dc678a9461654e325ae095194cc8235"
+  },
+  "79917:5": {
+    "id": "79917",
+    "figure": 5,
+    "path": "figures/79917_fig5.png",
+    "source_url": "https://cdn.elifesciences.org/articles/79917/elife-79917-fig5-v2.tif",
+    "doi": "10.7554/eLife.79917",
+    "year": "2022",
+    "authors": "Cyrrus M Espino; Cheyanne M Lewis; Serena Ortiz; Miloni S Dalal; Snigdha Garlapalli; Kaylee M Wells; Darik A O'Neil; Katherine A Wilkinson; Theanne N Griffith",
+    "title": "Na<sub>V</sub>1.1 is essential for proprioceptive signaling and motor behaviors",
+    "legend": "Loss of Na V 1.1 in peripheral sensory causes deficits in motor behaviors. ( A ) Representative images showing limb positions of adult Scn1a-floxed (left), Scn1a-Het (middle), and Scn1a-cKO (right) mice. White arrows represent the direction of limbs. ( B ) Representative heat maps from open-field experiments between Scn1a-floxed (left), Scn1a-Het (middle), and Scn1a-cKO (right). Open field ( C\u2013F ). Quantification of total distance traveled during a 10-min open-field test between Scn1a-floxed (cyan), Scn1a-Het (gray), and Scn1a-cKO (magenta) mice. ( C ) Scn1a-Het p=0.0255, Scn1a-cKO, p=0.0077, compared to Scn1a-floxed, average animal velocity. ( D ) Scn1a-Het p=0.00311, Scn1a cKO, p=0.0057, compared to Scn1a-floxed, percent time moving. ( E ) Scn1a-Het p=0.1362, p=0.0730, compared to Scn1a-floxed, and percent time spent in center. ( F ) Scn1a-Het p=0.2297, Scn1a-cKO, p=0.2494, compared to Scn1a-floxed, during the test. Rotarod ( G\u2013I ). Quantification of the latency to fall across three consecutive training days ( G ) and day 3 ( H ). Quantification of revolutions per minute (RPM) at the moment of animal fall ( I ) and the day 3 average ( J ). Each dot represents one animal. Box and whisker plots represent maximum, minimum, median, upper and lower quartiles of data sets.****p<0.0001. A one-way ANOVA (Dunnett\u2019s post-hoc comparison) was used to determine statistical significance in ( C\u2013F ) and ( I ) and ( J ). A two-way mixed-design ANOVA (Dunnett\u2019s post-hoc comparison) was used to determine statistical significance in ( G ) and ( H ) Open field: Scn1a-floxed N = 15, Scn1a-Het N = 6, Scn1a-cKO N = 12. Rotarod: Scn1a-floxed N = 11, Scn1a-Het N = 11, Scn1a-cKO N = 20.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Espino et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "40db20f6d39a6188f8e66986ecaade648fe6cec59c2f1215f6f813a3fe54ac9f",
+    "full_authors": [
+      "Cyrrus M Espino",
+      "Cheyanne M Lewis",
+      "Serena Ortiz",
+      "Miloni S Dalal",
+      "Snigdha Garlapalli",
+      "Kaylee M Wells",
+      "Darik A O'Neil",
+      "Katherine A Wilkinson",
+      "Theanne N Griffith"
+    ],
+    "original_source_sha256": "3010a8993525ac43c6ec0160dcdca2a83fc3b13f45ca2007aeea2ea15bee02da"
+  },
+  "79917:8": {
+    "id": "79917",
+    "figure": 8,
+    "path": "figures/79917_fig8.png",
+    "source_url": "https://cdn.elifesciences.org/articles/79917/elife-79917-fig8-v2.tif",
+    "doi": "10.7554/eLife.79917",
+    "year": "2022",
+    "authors": "Cyrrus M Espino; Cheyanne M Lewis; Serena Ortiz; Miloni S Dalal; Snigdha Garlapalli; Kaylee M Wells; Darik A O'Neil; Katherine A Wilkinson; Theanne N Griffith",
+    "title": "Na<sub>V</sub>1.1 is essential for proprioceptive signaling and motor behaviors",
+    "legend": "Loss of Na V 1.1 reduces static muscle stretch sensitivity and reliability. ( A\u2013C ) Representative responses to ramp-and-hold muscle stretch at 7.5% of optimal length (Lo) from Scn1a-floxed ( A ), Scn1a-Het ( B ), and Scn1a-cKO ( C ) afferents. Afferents from Scn1a-Het and Scn1a-cKO mice were more likely to show inconsistent firing during the hold phase of stretch. The percentage of afferents from each genotype that were able to fire consistently for the entire duration of stretch at 2.5, 5.0, and 7.5% of Lo is shown in the pie charts next to the representative trace from their genotype (black indicates percentage with inconsistent firing). The final pie charts represent the proportion of afferents that exhibited resting discharge at Lo for every stretch for each genotype (black indicates absence of resting discharge). ( D ) Inconsistency in firing was quantified as the interspike interval coefficient of variation (ISI CV) during the plateau stage of the hold phase of stretch (1.5\u20133.5 s into stretch) for the three different genotypes. A significant effect of genotype was observed (two-way mixed-design ANOVA, p=0.015). ( E ) The highest firing rate during the rampup phase of stretch (dynamic peak) is a measure of dynamic sensitivity. No significant effect of genotype on dynamic peak was observed (two-way mixed-design ANOVA, p=0.0633). Box and whisker plots represent maximum, minimum, median, upper and lower quartiles of data sets Each dot represents one afferent in ( D ) and ( E ) (Scn1a-floxed, n = 10; Scn1a-Het, n = 12; Scn1a-cKO, n = 11).",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Espino et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "a35905b0755843e6557f59838e69d8867af0449ae10d7999141072b2f2bef493",
+    "full_authors": [
+      "Cyrrus M Espino",
+      "Cheyanne M Lewis",
+      "Serena Ortiz",
+      "Miloni S Dalal",
+      "Snigdha Garlapalli",
+      "Kaylee M Wells",
+      "Darik A O'Neil",
+      "Katherine A Wilkinson",
+      "Theanne N Griffith"
+    ],
+    "original_source_sha256": "f97625fbae733a3b9cd6d23f350cee4dbedb3a6fcde1c7d481d271e625300035"
+  },
+  "84042:2": {
+    "id": "84042",
+    "figure": 2,
+    "path": "figures/84042_fig2.png",
+    "source_url": "https://cdn.elifesciences.org/articles/84042/elife-84042-fig2-v2.tif",
+    "doi": "10.7554/eLife.84042",
+    "year": "2022",
+    "authors": "Huasheng Yu; Jingwei Xiong; Adam Yongxin Ye; Suna Li Cranfill; Tariq Cannonier; Mayank Gautam; Marina Zhang; Rayan Bilal; Jong-Eun Park; Yuji Xue; Vidhur Polam; Zora Vujovic; Daniel Dai; William Ong; Jasper Ip; Amanda Hsieh; Nour Mimouni; Alejandra Lozada; Medhini Sosale; Alex Ahn; Minghong Ma; Long Ding; Javier Arsuaga; Wenqin Luo",
+    "title": "Scratch-AID, a deep learning-based system for automatic detection of mouse scratching behavior with high accuracy",
+    "legend": "Deep learning neural network design and training. ( A ) Cartoon showing the architecture of designed deep learning neural network consisting of the combination of convolutional neural networks (CNN), recurrent neural networks (RNN), and classifier. ( B ) Cartoon showing the preparation of inputs for the training dataset. Consecutive  N  frames were selected as one input for training. The interval between two adjacent inputs in a video was 4\u201310 frames. ( C ) The information of a sample training and test datasets. The training loss decreased ( D ) while the accuracy increased ( E ) during the training process with different input length ( N  = 3, 5, 7, 13, 23, 45 frames). The inset is the zoom-in of part of the figure.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Yu, Xiong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "65bade1f8a150df0e03c5a0ff2ffe09266cd55c551676b19d51ef098f6528538",
+    "display_path": "figures/84042_fig2_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.39
+    ],
+    "crop_tool": "tools/crop_figure.py; lossless publisher raster in private PDF container",
+    "source_dimensions": [
+      1661,
+      1805
+    ],
+    "full_authors": [
+      "Huasheng Yu",
+      "Jingwei Xiong",
+      "Adam Yongxin Ye",
+      "Suna Li Cranfill",
+      "Tariq Cannonier",
+      "Mayank Gautam",
+      "Marina Zhang",
+      "Rayan Bilal",
+      "Jong-Eun Park",
+      "Yuji Xue",
+      "Vidhur Polam",
+      "Zora Vujovic",
+      "Daniel Dai",
+      "William Ong",
+      "Jasper Ip",
+      "Amanda Hsieh",
+      "Nour Mimouni",
+      "Alejandra Lozada",
+      "Medhini Sosale",
+      "Alex Ahn",
+      "Minghong Ma",
+      "Long Ding",
+      "Javier Arsuaga",
+      "Wenqin Luo"
+    ],
+    "original_source_sha256": "19a96ce653542cafbf6571d03a0d579068ae13778b18c6788f72ade12f6f6aaf",
+    "display_sha256": "62cfa369da60ff9fd9ac4f2d3b1f8b5fd7cb152b03b76fd910e4458f44d9ce2f"
+  },
+  "85521:5": {
+    "id": "85521",
+    "figure": 5,
+    "path": "figures/85521_fig5.png",
+    "source_url": "https://cdn.elifesciences.org/articles/85521/elife-85521-fig5-v2.tif",
+    "doi": "10.7554/eLife.85521",
+    "year": "2023",
+    "authors": "Kenneth Kin Lam Wong; Tongchao Li; Tian-Ming Fu; Gaoxiang Liu; Cheng Lyu; Sayeh Kohani; Qijing Xie; David J Luginbuhl; Srigokul Upadhyayula; Eric Betzig; Liqun Luo",
+    "title": "Origin of wiring specificity in an olfactory map revealed by neuron type\u2013specific, time-lapse imaging of dendrite targeting",
+    "legend": "Establishment of an explant system for time-lapse imaging of olfactory map formation. ( A ) Schematic of the anatomical organization of the olfactory circuit in early pupal brain (0\u20133 hr APF). Green, red, and blue denote embryonic-born adPN, larval-born anterodorsal projection neuron (adPN), and larval-born lPN, respectively. MB: mushroom body; LH: lateral horn. ( B ) Schematic of explant culture system for early pupal brains. Wells created in the Sylgard plate from which brains were imbedded are shown in blue. ( C ) Schematic of explant culture and imaging system for early pupal brains. ( D )  Top:  Schematic of morphological changes of brain lobes from 0 hr to ~15 hr APF during normal development.  Bottom:  Morphologies of a brain explant dissected at 3 hr APF and cultured for 0 hr ex vivo and cultured for 22 hr ex vivo. ( E ) Two-photon time-lapse imaging of adPNs ( VT033006+ run + ; labeled in magenta) and lPNs ( VT033006+ run \u2013; labeled in green) in pupal brain dissected at 3 hr APF and cultured for 0\u201322 hr ex vivo. Arrowheads mark dynamic but transient dendritic protrusions of lPNs in  E 1, 2 , and extensive dendritic innervation of lPNs in ( E 3 ). Arrows in ( E 3 ) mark axonal innervation of lPNs in the mushroom body calyx and lateral horn. N=3. ( F ) Confocal images of antennal lobes labeled by  VT033006+  projection neurons (PNs) (in green) at 0 hr ( F 1 ), 6 hr ( F 2 ), and 12 hr ( F 3 ) APF in vivo. Confocal images of antennal lobes labeled by  VT033006+  PNs in pupal brains were dissected at 0 hr APF and cultured for 12 hr ( F 4 ) and 24 hr ( F 5 ) ex vivo. ( F 1 ): N=6; ( F 2 ): N=5; ( F 3 ): N=6; ( F 4 ): N=8; ( F 5 ): N=8. ( G ) Dendrite targeting regions of DL1 PNs ( 71B05+ ; in yellow;  G 1 ) and DA1/DL3 PNs ( tsh+ ; in cyan;  G 2 ) in the antennal lobes in pupal brains dissected at 0 hr APF and cultured for 24 hr ex vivo. Antennal lobes are revealed by N-Cadherin (Ncad; in blue) staining. ( G 1 ): N=5; ( G 2 ): N=6. See  Figure 1  legend for common notations.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "9f139d8f0d4014a614e327a5b0dd6dee1438da4e6130d531c34614978ed7ec5c",
+    "display_path": "figures/85521_fig5_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.65
+    ],
+    "crop_tool": "tools/crop_figure.py; lossless publisher raster in private PDF container",
+    "source_dimensions": [
+      2540,
+      2170
+    ],
+    "full_authors": [
+      "Kenneth Kin Lam Wong",
+      "Tongchao Li",
+      "Tian-Ming Fu",
+      "Gaoxiang Liu",
+      "Cheng Lyu",
+      "Sayeh Kohani",
+      "Qijing Xie",
+      "David J Luginbuhl",
+      "Srigokul Upadhyayula",
+      "Eric Betzig",
+      "Liqun Luo"
+    ],
+    "original_source_sha256": "a70a9d09df8ed6fefcea8cc0c9fcbb8fa29ae10fda16badc95fbaf1dee29896c",
+    "display_sha256": "3a4d86c8c1d372016d4a6a9e1e870372beeffdd02684dac62736bd0979e97ad8"
+  },
+  "85521:6": {
+    "id": "85521",
+    "figure": 6,
+    "path": "figures/85521_fig6.png",
+    "source_url": "https://cdn.elifesciences.org/articles/85521/elife-85521-fig6-v2.tif",
+    "doi": "10.7554/eLife.85521",
+    "year": "2023",
+    "authors": "Kenneth Kin Lam Wong; Tongchao Li; Tian-Ming Fu; Gaoxiang Liu; Cheng Lyu; Sayeh Kohani; Qijing Xie; David J Luginbuhl; Srigokul Upadhyayula; Eric Betzig; Liqun Luo",
+    "title": "Origin of wiring specificity in an olfactory map revealed by neuron type\u2013specific, time-lapse imaging of dendrite targeting",
+    "legend": "Two-photon time-lapse imaging reveals active dendrite targeting. ( A ) Two-photon time-lapse imaging of MARCM-labeled DL1 projection neuron (PN) (pseudo-colored in yellow) in a brain dissected at 3 hr APF and cultured for 21 hr ex vivo ( A 1\u20139 ). Arrowheads in  A 4\u20136  denote protrusions of dendritic branches towards the dorsolateral direction. After 21 hr culture, the explant was fixed and immuno-stained for N-Cadherin (Ncad; in blue) to outline the developing antennal lobe ( A 10 ). Yellow and cyan arrowheads indicate DL1 PN dendrites and processes of other  GH146+  cells, respectively. ( B ) Neurite tracing of DL1 PN at the beginning of live imaging (3 hr APF + 0 hr ex vivo). Dendrites are categorized based on the directions to which they extend and color-coded accordingly. ( C ) Left: Quantification of the percentage of dendritic volume in indicated direction during the time-lapse imaging period reveals a transitional phase during which dendrites were found in only two out of the four directions. Right: Schematic of the initial, transitional, and final phases during the course of targeting. \u2018\u00bd\u2019 denotes the reduction of available trajectory directions by half. Timestamp 00:00 refers to HH:mm; H, hour; m, minute. See  Figure 6\u2014source data 1 . ( D ) Quantification of the percentage of DL1 PN dendritic volume in an indicated direction in 3 hr APF cultured brains at the beginning (0 hr ex vivo) and at/near the end of imaging (18 hr ex vivo). DL1 PN sample size = 3.  t -test;  * p<0.05. Timestamp 00:00 refers to HH:mm; H, hour; m, minute. ( E ) Quantification of the percentage of the sum of DL1 PN dendritic volume in indicated directions throughout the entire imaging time. DL1 PN sample size = 3. ( F ) Bulk dendrite dynamics of DL1 PN in  Figure 6A . Each row represents bulk dendritic dynamics in the indicated direction (color-coded as in  Figure 6B ) across the 21 hr imaging period. Each block represents a 20 min window. Bulk extension (in green) and retraction (in magenta) events are defined as dendrites extending and retracting more than 2 \u03bcm between two consecutive time windows. The first and last six consecutive windows refer to the initial and final phases of imaging. ( G ) Quantification of the number of bulk extension and retraction events in the dorsolateral direction during the initial and final phases of imaging. DL1 PN sample size = 3.  t -test;  * p<0.05. Figure 6\u2014source data 1. Source data for  Figure 6C\u2013G  and  Figure 6\u2014figure supplement 1D and E .",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "35539fd1f70b9355513a32389f64fa5182dac86ec53c43307f7195f7511a4f6e",
+    "display_path": "figures/85521_fig6_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.36
+    ],
+    "crop_tool": "tools/crop_figure.py; lossless publisher raster in private PDF container",
+    "source_dimensions": [
+      2496,
+      1762
+    ],
+    "full_authors": [
+      "Kenneth Kin Lam Wong",
+      "Tongchao Li",
+      "Tian-Ming Fu",
+      "Gaoxiang Liu",
+      "Cheng Lyu",
+      "Sayeh Kohani",
+      "Qijing Xie",
+      "David J Luginbuhl",
+      "Srigokul Upadhyayula",
+      "Eric Betzig",
+      "Liqun Luo"
+    ],
+    "original_source_sha256": "32ff76596df923a1d8db83152a568f1460972a934337966303de2636327be929",
+    "display_sha256": "993241b6c5be8a819ba3b4820d2ec42a891e6c9bc4f2762582c44aa4e2930282"
+  },
+  "85521:7": {
+    "id": "85521",
+    "figure": 7,
+    "path": "figures/85521_fig7.png",
+    "source_url": "https://cdn.elifesciences.org/articles/85521/elife-85521-fig7-v2.tif",
+    "doi": "10.7554/eLife.85521",
+    "year": "2023",
+    "authors": "Kenneth Kin Lam Wong; Tongchao Li; Tian-Ming Fu; Gaoxiang Liu; Cheng Lyu; Sayeh Kohani; Qijing Xie; David J Luginbuhl; Srigokul Upadhyayula; Eric Betzig; Liqun Luo",
+    "title": "Origin of wiring specificity in an olfactory map revealed by neuron type\u2013specific, time-lapse imaging of dendrite targeting",
+    "legend": "AO-LLSM time-lapse imaging reveals cellular mechanisms of dendrite targeting specificity. ( A\u2013C ) AO-LLSM imaging of DL1 projection neurons (PNs) ( 71B05 +; labeled in yellow) and anterodorsal projection neurons (adPNs) ( acj6 +; labeled in blue) in cultured brains dissected at 3 hr ( A ), 6 hr ( B ), and 12 hr ( C ) APF. Zoom-in, single z-section images of ( A 1 ), ( B 1 ), and ( C 1 ) (outlined in dashed boxes) are shown in  A 2 ,  B 2  and  C 2 , respectively. ( D ) Single dendritic branch dynamics of 3 hr ( D 1 ), 6 hr ( D 2 ), and 12 hr ( D 3 ) DL1 PNs shown in  A\u2013C . Terminal branches are analyzed and categorized based on the directions in which they extend. Their speeds are color-coded using purple-gray-green gradients (negative speeds, retraction; positive speeds, extension). Individual branches are also assigned into four categories: stable, transient, emerging, and retracting (color-coded on the right; see  Figure 7\u2014figure supplement 1A ). Each block represents a 30s window. Each row represents individual branch dynamics across the 15 min imaging period. ( E ) Quantification of the abundance (in percentage) of DL1 PN stable branches in indicated direction at 3 hr, 6 hr, and 12 hr ( E 1 ). Average speed of DL1 PN stable branches in indicated direction at 3 hr, 6 hr, and 12 hr ( E 2 ). DL1 PN sample size: 3 hr=4; 6 hr=3; 12 hr=3. Error bars, SEM;  t- test; One-way ANOVA;  * p<0.05;  n.s. , p\u22650.05. SEM, standard error of the mean;  n.s. , not significant. See  Figure 7\u2014source data 1 . ( F ) Summary of mechanisms underlying the emergence of dendrite targeting specificity revealed by two-photon and AO-LLSM imaging of DL1 PN dendrites. Figure 7\u2014source data 1. Source data for  Figure 7E .",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "05194f895e05459b0e8f7f1fd9b5505c871d80bfd94b86f95d49a02553c64ed7",
+    "display_path": "figures/85521_fig7_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      0.51,
+      0.7
+    ],
+    "crop_tool": "tools/crop_figure.py; lossless publisher raster in private PDF container",
+    "source_dimensions": [
+      2500,
+      2027
+    ],
+    "full_authors": [
+      "Kenneth Kin Lam Wong",
+      "Tongchao Li",
+      "Tian-Ming Fu",
+      "Gaoxiang Liu",
+      "Cheng Lyu",
+      "Sayeh Kohani",
+      "Qijing Xie",
+      "David J Luginbuhl",
+      "Srigokul Upadhyayula",
+      "Eric Betzig",
+      "Liqun Luo"
+    ],
+    "original_source_sha256": "0338d10aa3561da2729818508cf6178290b709f95481ee12088d6aadd4b0e941",
+    "display_sha256": "1bd319e92ef6a8ab139c1f9dc4cbe8b120e1117f099572447c4f97c48a22c243"
+  },
+  "85521:8": {
+    "id": "85521",
+    "figure": 8,
+    "path": "figures/85521_fig8.png",
+    "source_url": "https://cdn.elifesciences.org/articles/85521/elife-85521-fig8-v2.tif",
+    "doi": "10.7554/eLife.85521",
+    "year": "2023",
+    "authors": "Kenneth Kin Lam Wong; Tongchao Li; Tian-Ming Fu; Gaoxiang Liu; Cheng Lyu; Sayeh Kohani; Qijing Xie; David J Luginbuhl; Srigokul Upadhyayula; Eric Betzig; Liqun Luo",
+    "title": "Origin of wiring specificity in an olfactory map revealed by neuron type\u2013specific, time-lapse imaging of dendrite targeting",
+    "legend": "Embryonic-born projection neurons (PNs) timely participate in olfactory map formation via simultaneous pruning and re-extension. ( A ) Confocal images of fixed brains at indicated stages showing dendrite development of  lov+  PNs (embryonic-born; labeled in green) and  91G04+ DC2 PNs (larval-born; labeled in magenta). As  91G04-GAL4  also labels some embryonic-born PNs from 0 to 6 hr APF, their processes are found in the larval-specific antennal lobe ( A 1, 2 ). Right columns of  A 1, 2  show a zoom-in of the dashed boxes. Green arrowhead in ( A 2 ) indicates robust dendrite re-extension of embryonic-born PNs across the developing antennal lobe at 6 hr APF. ( A 1 ): N=6; ( A 2 ): N=12; ( A 3 ): N=9; ( A 4 ): N=12; ( A 5 ): N=9; ( A 6 ): N=5. ( B ) Schematic of the sparse, stochastic, and dual-color labeling strategy. In this strategy, the same cell has one copy of  UAS- responsive conditional reporter 1 and one copy of  QUAS- responsive reporter 2, both of which are integrated into the same  86Fb  genomic locus (i.e.  UAS-FRT-stop-FRT-reporter1/QUAS-FRT-stop-FRT-reporter2 ). FLP expression yields  cis  and  trans  recombination of  FRT  sites in a stochastic manner. Upon GAL4 expression, reporter 1 is expressed in cells with  cis  recombination, whereas reporter 2 is expressed only when  cis  and  trans  recombination events co-occur. ( C ) Sparse labeling of  lov + PNs (labeled in green; single-cell  lov+  PNs in gray) at indicated developmental stages. ( C 6 ) and ( C 7 ) are zoom-in images of the rectangular boxes in ( C 2 ) and ( C 3 ), respectively. Arrowheads indicate nascent, adult-specific dendrites. Larval-specific dendrites are outlined by dashed orange lines. Arrows indicate axons projecting towards high brain centers. ( C 1 ): N=6; ( C 2\u20133 ): N=6; ( C 4 ): N=4; ( C 5 ): N=4. ( D ) Two-photon time-lapse imaging of a single embryonic-born PN ( Split7+ ; pseudo-colored in yellow) in a brain dissected at 3 hr APF and cultured for 23 hr ex vivo. Arrowhead in ( D 3 ) denote the thickening of the main process. Arrowheads in  D 4, 5  denote dendritic protrusions dorsal to larval-specific dendrites. ( D 9 ) shows neurite tracing of the embryonic-born PN. Triangles in ( D 9 ) indicate the degenerating larval-specific dendrites. N=3. ( E ) Schematic summary of remodeling of embryonic-born PN dendrites. Following simultaneous pruning and re-extension, embryonic-born PNs timely integrate into an adult olfactory circuit and, together with larval-born PNs, participate in the prototypic map formation.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "ec5654979325eeec4532412460d55f0e227cb9d0fe0e095dfd3b35199efea9c3",
+    "display_path": "figures/85521_fig8_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.35
+    ],
+    "crop_tool": "tools/crop_figure.py; lossless publisher raster in private PDF container",
+    "source_dimensions": [
+      2533,
+      2918
+    ],
+    "full_authors": [
+      "Kenneth Kin Lam Wong",
+      "Tongchao Li",
+      "Tian-Ming Fu",
+      "Gaoxiang Liu",
+      "Cheng Lyu",
+      "Sayeh Kohani",
+      "Qijing Xie",
+      "David J Luginbuhl",
+      "Srigokul Upadhyayula",
+      "Eric Betzig",
+      "Liqun Luo"
+    ],
+    "original_source_sha256": "10e439a98344078926884989049278c4b328a4dc7752cc4933e834ac6c202f24",
+    "display_sha256": "ae4683c59589988279f2094a241d23531088b2f14764d8e1c7e304e12f752b03"
+  },
+  "85760:2": {
+    "id": "85760",
+    "figure": 2,
+    "path": "figures/85760_fig2.png",
+    "source_url": "https://cdn.elifesciences.org/articles/85760/elife-85760-fig2-v1.tif",
+    "doi": "10.7554/eLife.85760",
+    "year": "2023",
+    "authors": "Izumi Oikawa; Shu Kondo; Kao Hashimoto; Akiho Yoshida; Megumi Hamajima; Hiromu Tanimoto; Katsuo Furukubo-Tokunaga; Ken Honjo",
+    "title": "A descending inhibitory mechanism of nociception mediated by an evolutionarily conserved neuropeptide system in <i>Drosophila</i>",
+    "legend": "DSK is expressed in two groups of larval brain neurons. ( A ) Representative image of  DSK-GAL4  expression and anti-FLRFa staining in the wild-type larval CNS. ( B ) Representative image of anti-FLRFa staining in  dsk sk1  larval CNS. ( C ) Representative images of  DSK-GAL4  expression and anti-FLRFa staining in the control larval brains. Arrows and arrowheads indicate MP1 and Sv neurons, respectively. Co-expressions of DSK-GAL4 and anti-FLRFa were observed in MP1 and Sv in all of the examined samples (n=27/27), but in IPCs only in 7% (n=2/27). ( D ) Representative images of  DSK-GAL4  expression and anti-FLRFa staining in the  dsk sk1  larval brains. Arrows and arrowheads indicate MP1 and Sv neurons, respectively. ( E ) Representative images of  DSK-GAL4  expression and anti-FLRFa staining in the larval brains of the genomic rescue genotype ( Dp(3;1)2-2 /Y; +/ lexA-rCD2::RFP UAS-mCD8::GFP ;  dsk sk1  DSK-GAL4 / dsk sk1 ). Arrows and arrowheads indicate MP1 and Sv neurons, respectively. ( F ) An example image showing the expression of  DSK-2A-GAL4 , a 2A-GAL4 knock-in line of the  dsk  gene, more faithfully recapitulating its endogenous expression. Arrows and arrowheads indicate MP1 and Sv neurons, respectively. MP1 neurons were labeled in 100% of  DSK-2AGAL4  samples (n=41/41), while a single IPC in 51.2% (n=21/41), multiple IPCs in 24.4% (n=10/41), and Sv neurons in 17.1% (n=7/41) of examined samples. All scale bars represent 20 \u00b5m.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Oikawa et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "43b49d8ca5b80af0678d6c8d5b74ec78e2d55eb94ca3667c407ec823ceaa2f0d",
+    "display_path": "figures/85760_fig2_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.43
+    ],
+    "crop_tool": "tools/crop_figure.py; lossless publisher raster in private PDF container",
+    "source_dimensions": [
+      2234,
+      3244
+    ],
+    "full_authors": [
+      "Izumi Oikawa",
+      "Shu Kondo",
+      "Kao Hashimoto",
+      "Akiho Yoshida",
+      "Megumi Hamajima",
+      "Hiromu Tanimoto",
+      "Katsuo Furukubo-Tokunaga",
+      "Ken Honjo"
+    ],
+    "original_source_sha256": "35d189b86623a1e8d804542cdf5341a8ac88e96965f4fe54c85ed5d943aa8328",
+    "display_sha256": "6172862510f351dcc90a492667206bae93e0a24d4887a235346359d33920c0af"
+  },
+  "85760:4": {
+    "id": "85760",
+    "figure": 4,
+    "path": "figures/85760_fig4.png",
+    "source_url": "https://cdn.elifesciences.org/articles/85760/elife-85760-fig4-v1.tif",
+    "doi": "10.7554/eLife.85760",
+    "year": "2023",
+    "authors": "Izumi Oikawa; Shu Kondo; Kao Hashimoto; Akiho Yoshida; Megumi Hamajima; Hiromu Tanimoto; Katsuo Furukubo-Tokunaga; Ken Honjo",
+    "title": "A descending inhibitory mechanism of nociception mediated by an evolutionarily conserved neuropeptide system in <i>Drosophila</i>",
+    "legend": "CCKLR-17D1 in Goro neurons is necessary and sufficient for normal thermal nociception. ( A ) RNAi of CCKLR-17D1 and CCKLR-17D3 using a Goro-GAL4 line  R69E06-GAL4 . Expressing CCKLR-17D1 RNAi ( R69E06-GAL4  x  yv; JF02644,  n=66) but not CCKLR-17D3 RNAi ( R69E06-GAL4  x  yv; JF02968,  n=95) with  R69E06-GAL4  caused significantly shorter latencies to 42 \u00b0C than controls ( R69E06-GAL4  x  yv; attp2,  n=46). (Left) Histograms (Right) Box plots of latencies. *** p<0.001, NS (non-significant) p>0.05 Steel\u2019s test. ( B ) Rescue of CCKLR-17D1 with  R69E06-GAL4 . The shortened latencies of  CCKLR-17D1 \u03941  mutants observed in UAS controls ( CCKLR-17D1 \u03941 ; UAS-CCKLR-17D1/+,  n=61) or GAL4 controls ( CCKLR-17D1 \u03941 ; R69E06-GAL4/+,  n=42) were restored in the rescue genotype ( CCKLR-17D1 \u03941 ; UAS-CCKLR-17D1/+; R69E06-GAL4/+,  n=52). (Left) Histograms (Right) Box plots of latencies. *** p<0.001 Steel\u2019s test. ( C ) Rescue of CCKLR-17D3 with  R69E06-GAL4 . The shortened latencies of  CCKLR-17D3 \u03941  mutants were unaltered in the rescue genotype ( CCKLR-17D3 \u03941 ; UAS-CCKLR-17D3/+; R69E06-GAL4/+,  n=130) compared with UAS controls ( CCKLR-17D3 \u03941 ; UAS-CCKLR-17D3/+,  n=40) or GAL4 controls ( CCKLR-17D3 \u03941 ; R69E06-GAL4/+,  n=68). (Left) Histograms (Right) Box plots of latencies. NS (non-significant) p>0.05 Steel\u2019s test. All box plots show median (middle line) and 25th to 75th percentiles with whiskers indicating the smallest to the largest data points. Figure 4\u2014source data 1. Source data used to generate the summary data and graphs shown in  Figure 4  and  Figure 4\u2014figure supplement 1 .",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Oikawa et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "a842d35b82a6455c2927734237886eafb722dc4f9c8688d7d81a022615f9a0a2",
+    "display_path": "figures/85760_fig4_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.5
+    ],
+    "crop_tool": "tools/crop_figure.py; lossless publisher raster in private PDF container",
+    "source_dimensions": [
+      2366,
+      2734
+    ],
+    "full_authors": [
+      "Izumi Oikawa",
+      "Shu Kondo",
+      "Kao Hashimoto",
+      "Akiho Yoshida",
+      "Megumi Hamajima",
+      "Hiromu Tanimoto",
+      "Katsuo Furukubo-Tokunaga",
+      "Ken Honjo"
+    ],
+    "original_source_sha256": "5bcae22591db092ba7235b0d54b76033ba710e2172d7aa6665e09518f907e62a",
+    "display_sha256": "467ce19518a598a590086e1a939bddab46eccfd990a197c952ae66ab8ce2a4aa"
+  },
+  "85760:5": {
+    "id": "85760",
+    "figure": 5,
+    "path": "figures/85760_fig5.png",
+    "source_url": "https://cdn.elifesciences.org/articles/85760/elife-85760-fig5-v1.tif",
+    "doi": "10.7554/eLife.85760",
+    "year": "2023",
+    "authors": "Izumi Oikawa; Shu Kondo; Kao Hashimoto; Akiho Yoshida; Megumi Hamajima; Hiromu Tanimoto; Katsuo Furukubo-Tokunaga; Ken Honjo",
+    "title": "A descending inhibitory mechanism of nociception mediated by an evolutionarily conserved neuropeptide system in <i>Drosophila</i>",
+    "legend": "Goro neurons lacking CCKLR-17D1 show sensitized responses to noxious heat. ( A ) Representative still images showing thermal activation of Goro neurons in the controls (top,  yw /Y;  R69E06-GAL4 UAS-GCaMP6m/+ ) and  CCKLR-17D1 \u03941  mutants (bottom,  CCKLR-17D1 \u03941 /Y; R69E06-GAL4 UAS-GCaMP6m /+). See also  Videos 1  and  2 . ( B ) Average percent increase of GCaMP6m fluorescence intensity relative to the baseline (\u0394F/F 0 ) during heat ramp stimulations in controls (n=15) and  CCKLR-17D1 \u03941  (n=15). * p<0.05, ** p<0.01 Mann-Whitney\u2019s U-test. ( C ) Basal GCaMP6m signal levels ( F 0 ) in controls (n=15) and  CCKLR-17D1 \u03941  mutants (n=15). p>0.6 Mann-Whitney\u2019s U-test. ( D ) Representative stills showing thermal activation of the controls (top,  R69E06-GAL4 UAS-GCaMP6m  x  yv; attp2 ) and Goro neurons expressing CCKLR-17D1 RNAi (bottom,  R69E06-GAL4 UAS-GCaMP6m  x  yv; JF02644 ). See also  Videos 3  and  4 . ( E ) Average percent increase of GCaMP6m fluorescence intensity relative to the baseline (\u0394F/F 0 ) during heat ramp stimulations in controls (n=15) and CCKLR-17D1 RNAi (n=16). * p<0.05 Mann-Whitney\u2019s U-test. ( F ) Basal GCaMP6m levels ( F 0 ) in controls (n=15) and CCKLR-17D1 RNAi (n=16). p>0.6 Mann\u2013Whitney\u2019s U-test. Error bars represent standard error. All box plots show median (middle line) and 25th to 75th percentiles with whiskers indicating the smallest to the largest data points. All scale bars represent 20 \u00b5m. Figure 5\u2014source data 1. Source data used to generate the summary data and graphs shown in  Figure 5  and  Figure 5\u2014figure supplement 1 .",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Oikawa et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "f88949dcf597551716c4929dc2196f013057f464550da63953a77403aa6c0335",
+    "display_path": "figures/85760_fig5_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.54
+    ],
+    "crop_tool": "tools/crop_figure.py; lossless publisher raster in private PDF container",
+    "source_dimensions": [
+      1818,
+      3254
+    ],
+    "full_authors": [
+      "Izumi Oikawa",
+      "Shu Kondo",
+      "Kao Hashimoto",
+      "Akiho Yoshida",
+      "Megumi Hamajima",
+      "Hiromu Tanimoto",
+      "Katsuo Furukubo-Tokunaga",
+      "Ken Honjo"
+    ],
+    "original_source_sha256": "e6fcd4cff113a073f1e60fe739acfcf6586edcc35a20c412bdf4d1d92314f99b",
+    "display_sha256": "def4f486819fdeaab100b5601fd45452fdfa2fc0b21a544e192eb6868901f104"
+  },
+  "89287:4": {
+    "id": "89287",
+    "figure": 4,
+    "path": "figures/89287_fig4.png",
+    "source_url": "https://cdn.elifesciences.org/articles/89287/elife-89287-fig4-v1.tif",
+    "doi": "10.7554/eLife.89287",
+    "year": "2024",
+    "authors": "Simon Desiderio; Frederick Schwaller; Kevin Tartour; Kiran Padmanabhan; Gary R Lewin; Patrick Carroll; Frederic Marmigere",
+    "title": "Touch receptor end-organ innervation and function require sensory neuron expression of the transcription factor Meis2",
+    "legend": "Meis2  gene inactivation compromised Merkel cell innervation in the glabrous skin and increased slowly adapting mechanoreceptor (SAM) vibration threshold. ( A ) Graph showing the percentage of tap units among all recorded A\u03b2 fibers in the nerve skin preparation both in the hairy and glabrous skins. The number of tap units over the number of recorded fibers is indicated. Note that Tap units are only present in both the hairy and glabrous skin of adult  Isl1 +/Cre ::Meis2 LoxP/LoxP  mice but not in WT littermates. ( B ) In the hairy and glabrous skins, SAMs in  Isl1 +/Cre ::Meis2 LoxP/LoxP  mice (n = 22 from six mice) had significantly increased vibration threshold compared to WT mice (n = 29 from six mice), but normal firing activity to a 25 Hz vibration. Trace shows the stimulation applied to the skin, and red squares indicate the time frame during which the number of spikes was calculated. ( C ) SAM responses to a ramp of 50 Hz vibration with increasing amplitude are similar in WT,  Isl1 +/Cre , and  Isl1 +/Cre ::Meis2 LoxP/LoxP  mice. SAM responses to ramp stimuli and their static force responses were also identical in the different genotypes. Fibers from WT and  Isl1 +/Cre  mice (n = 5) displayed similar responses. * p\u22640.05; ** p\u22640.005. Traces show the applied stimulus and red squares the time frame during which the parameters below were measured. ( D ) Confocal images of Nefh +  innervation (green) of CK8 +  Merkel cells (red) in the forepaw glabrous skin of  Isl1 Cre/+ and  Isl1 Cre/+ ::Meis2 LoxP/LoxP  adult mice. Dotted white squares indicate the close-up of CK8 +  Merkel cells. Note the lack of Nefh +  fibers innervating Merkel cells in mutant mice. White arrows point at contact between NF200 +  fibers and CK8 +  Merkel cells. Scale bar = 10 \u00b5m. The box plot indicates the percentage of Merkel cells in contact with Nefh +  fibers. n = 4. * p\u22640.05 in Mann\u2013Whitney test. ( E ) Confocal images of Nefh +  innervation (green) and CK8 +  Merkel cells (red) of guard hairs in the hairy back skin of  Isl1 Cre/+ and  Isl1 Cre/+ ::Meis2 LoxP/LoxP  adult mice. Dotted white squares indicate the close-up of CK8 +  Merkel cells with apparently normal Nefh +  innervation. White arrows point at contacts between Nefh +  fibers and CK8 +  Merkel cells. Scale bar = 10 \u00b5m. The box plot indicates the percentage of Merkel cells contacted by Nefh +  fibers. n = 4. ( F ) Representative images of whole-mount staining for CK8 in the hairy back skin of WT and  Isl1 Cre/+ ::Meis2 LoxP/LoxP  E18.5 embryos showing no difference in the number of touch dome between genotypes. Box plots show the number of touch domes per surface area and the number of Merkel cells per touch dome. No significant differences were found between both genotypes in Mann\u2013Whitney test. n = 5 (WT) and 4 ( Isl1 +/Cre ::Meis2 LoxP/LoxP ).",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Desiderio, Schwaller et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "be7bc34118df19a9deca578b94d076d497004ec2d30be6444a656c72da9b07e3",
+    "display_path": "figures/89287_fig4_panels.png",
+    "panel_crop_box": [
+      0,
+      0.55,
+      1,
+      0.85
+    ],
+    "crop_tool": "tools/crop_figure.py; lossless publisher raster in private PDF container",
+    "source_dimensions": [
+      2357,
+      2795
+    ],
+    "full_authors": [
+      "Simon Desiderio",
+      "Frederick Schwaller",
+      "Kevin Tartour",
+      "Kiran Padmanabhan",
+      "Gary R Lewin",
+      "Patrick Carroll",
+      "Frederic Marmigere"
+    ],
+    "original_source_sha256": "65f3796cb7320cccf0a141297c6cbb4615552a8ced578cbfcfc810d735b2b876",
+    "display_sha256": "acc268003b79b73d9d055a034a846ad84637f27b8892d65a6313fd5e05161138"
+  },
+  "89287:5": {
+    "id": "89287",
+    "figure": 5,
+    "path": "figures/89287_fig5.png",
+    "source_url": "https://cdn.elifesciences.org/articles/89287/elife-89287-fig5-v1.tif",
+    "doi": "10.7554/eLife.89287",
+    "year": "2024",
+    "authors": "Simon Desiderio; Frederick Schwaller; Kevin Tartour; Kiran Padmanabhan; Gary R Lewin; Patrick Carroll; Frederic Marmigere",
+    "title": "Touch receptor end-organ innervation and function require sensory neuron expression of the transcription factor Meis2",
+    "legend": "Meis2  gene inactivation affects Meissner corpuscles morphology. ( A ) Representative images showing S100 \u03b2 +  Meissner corpuscles (red) and their innervation by Nefh +  fibers (green) in the glabrous skin of WT and  Isl1 +/Cre ::Meis2 LoxP/LoxP  adult mice. Scale bar = 10 \u00b5m. The box plot shows the average number of times Nefh +  fibers cross the midline of the Meissner corpuscles. Dashed blue lines indicate the Meissner corpuscle midline. Blue arrowheads indicate sites where Nefh +  fibers cross this midline. ( B ) RAMs of the glabrous skin exhibited similar vibration threshold and firing activity to a 25 Hz vibration in WT (n = 16 from four mice) and  Isl1 +/Cre ::Meis2 LoxP/LoxP  mice (n = 21 from six mice). Glabrous RAMs showed a nonsignificant decrease in firing activity to a ramp of 50 Hz vibration with increasing amplitude in  Isl1 +/Cre ::Meis2 LoxP/LoxP  compared to WT littermates, but their response to ramp stimuli was similar in both genotypes. Traces indicate the type of stimulation and red squares the time frame during which the number of spikes was calculated. *** p\u22640.001; Student\u2019s  t -test.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Desiderio, Schwaller et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "ef3109d2510db1caa1c972a4a757ceb01886e66c64695d65be47232fe26e72f3",
+    "display_path": "figures/89287_fig5_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      0.49,
+      0.57
+    ],
+    "crop_tool": "tools/crop_figure.py; lossless publisher raster in private PDF container",
+    "source_dimensions": [
+      2317,
+      1526
+    ],
+    "full_authors": [
+      "Simon Desiderio",
+      "Frederick Schwaller",
+      "Kevin Tartour",
+      "Kiran Padmanabhan",
+      "Gary R Lewin",
+      "Patrick Carroll",
+      "Frederic Marmigere"
+    ],
+    "original_source_sha256": "e03ae72aa3e1e53c3a724772054bad31399b5dd3b16cedff8daab3c40e1ea57b",
+    "display_sha256": "45e6b2e7cf1a4aef16e189caaf02e68eda01ad45b63a1f0ead1207379b9d4fee"
+  },
+  "95379:2": {
+    "id": "95379",
+    "figure": 2,
+    "path": "figures/95379_fig2.png",
+    "source_url": "https://cdn.elifesciences.org/articles/95379/elife-95379-fig2-v1.tif",
+    "doi": "10.7554/eLife.95379",
+    "year": "2025",
+    "authors": "Jiro Yoshino; Sonali S Mali; Claire R Williams; Takeshi Morita; Chloe E Emerson; Christopher J Arp; Sophie E Miller; Chang Yin; Lydia Th\u00e9; Chikayo Hemmi; Mana Motoyoshi; Kenichi Ishii; Kazuo Emoto; Diana M Bautista; Jay Z Parrish",
+    "title": "<i>Drosophila</i> epidermal cells are intrinsically mechanosensitive and modulate nociceptive behavioral outputs",
+    "legend": "Stimulation of epidermal cells evokes multimodal behavioral responses. ( A ) Larval behaviors were scored for 10 s before, during, and after optogenetic stimulation. ( B\u2013E ) Fraction of larvae exhibiting indicated behaviors over time in 1 s bins expressing CsChrimson in ( B ) epidermal cells, ( C ) class IV dendrite arborization (C4da) neurons, ( D ) C3da neurons, and ( E ) Cho neurons in the presence and absence of all-trans retinal (ATR). Red line indicates the presence of light stimulation. ( F ) The latency to the first roll of the larvae that rolled from  Epi>Chrimson  ATR+ and  C4da>Chrimson  ATR+ treatment groups (n=14, 17, respectively). In this and subsequent box plots, points represent measurements from individual neurons, boxes display the first and third quartiles, hatches mark medians, and whiskers mark 1.5 times the interquartile range. ( G ) The duration of indicated behaviors of the larvae that displayed those behaviors during optogenetic stimulation. ( H ) The fraction of larvae that exhibited indicated behaviors following removal of the light stimulus of all larvae from panels ( B\u2013E ). The number of larvae tested for each genotype/condition is indicated ( B\u2013E ). Genotypes:  GAL4, UAS-CsChrimson/+ .",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Yoshino, Mali, Williams et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "9aa3ba3eacef7365cccb50e6033a9ff3a53815f99323c57223cee8283fbf4b6e",
+    "display_path": "figures/95379_fig2_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.36
+    ],
+    "crop_tool": "tools/crop_figure.py; lossless publisher raster in private PDF container",
+    "source_dimensions": [
+      2141,
+      2827
+    ],
+    "full_authors": [
+      "Jiro Yoshino",
+      "Sonali S Mali",
+      "Claire R Williams",
+      "Takeshi Morita",
+      "Chloe E Emerson",
+      "Christopher J Arp",
+      "Sophie E Miller",
+      "Chang Yin",
+      "Lydia Th\u00e9",
+      "Chikayo Hemmi",
+      "Mana Motoyoshi",
+      "Kenichi Ishii",
+      "Kazuo Emoto",
+      "Diana M Bautista",
+      "Jay Z Parrish"
+    ],
+    "original_source_sha256": "5832a580037d09d4b89ed4f91112822ebb22db3d26c85463c3986fc8ef313c10",
+    "display_sha256": "fc75f5a9d1a4b1d20bc6d3b0ca01e0c0d92615e45c27fc32a5fedaea4969f072"
+  },
+  "95379:3": {
+    "id": "95379",
+    "figure": 3,
+    "path": "figures/95379_fig3.png",
+    "source_url": "https://cdn.elifesciences.org/articles/95379/elife-95379-fig3-v1.tif",
+    "doi": "10.7554/eLife.95379",
+    "year": "2025",
+    "authors": "Jiro Yoshino; Sonali S Mali; Claire R Williams; Takeshi Morita; Chloe E Emerson; Christopher J Arp; Sophie E Miller; Chang Yin; Lydia Th\u00e9; Chikayo Hemmi; Mana Motoyoshi; Kenichi Ishii; Kazuo Emoto; Diana M Bautista; Jay Z Parrish",
+    "title": "<i>Drosophila</i> epidermal cells are intrinsically mechanosensitive and modulate nociceptive behavioral outputs",
+    "legend": "Optogenetic epidermal stimulation elicits somatosensory neuron activation. ( A ) Optogenetic activation of CsChrimson-expressing epidermal cells in the body wall triggers calcium transients in the axon terminal of GCaMP6s-expressing nociceptive somatosensory neurons (SSNs). Images show responses from one representative animal. Plots depict mean GCaMP6s fluorescence intensity of the axon terminals of ( B ) class IV dendrite arborization (C4da), ( C ) C3da, ( D ) Cho, and ( E ) C1da neurons following optogenetic activation (light stimulus, yellow box) of epidermal cells over time. Solid lines depict mean GCaMP6s fluorescence across replicates (n=15 larval fillet preparations), shading indicates SEM, red traces are  GAL4+  ATR+ , blue traces are  GAL4+  ATR-, black trace is  GAL4-  ATR+. ( F ) The fraction of larvae exhibiting indicated behaviors during optogenetic epidermal stimulation in combination with SSN silencing via tetanus toxin (TnT) expression. We note that although baseline rolling probability is elevated in all genetic backgrounds containing the  AOP-LexA-TnT  insertion, silencing C4da and C3da neurons significantly attenuates responses to epidermal stimulation. ( G ) The duration of the behavioral responses during optogenetic epidermal stimulation with neuronal TnT expression. The number of larvae tested for each genotype/condition is indicated. Genotypes: ( A\u2013B )  R27H06-LexA  (C4da neurons),  AOP-GCaMP6s, UAS-CsChrimson/+; R38F11-GAL4/+  or  R27H06-LexA  (C4da neurons),  AOP-GCaMP6s, UAS-CsChrimson/+  ( GAL4- ATR- effector-only control); ( C )  AOP-GCaMP6s, UAS-CsChrimson/+; R38F11-GAL4/NompC-LexA  (C3da neurons); ( D )  UAS-GCaMP6s, AOP-CsChrimson, R61D08-GAL4  (Cho neurons) /R38F11-LexA ; ( E )  UAS-GCaMP6s, AOP-CsChrimson, R11F05-GAL4  (C1da neurons) /R38F11-LexA ; ( F\u2013G )  R38F11-GAL4, UAS-CsChrimson, AOP-LexA-TnT/+  ( Epi>CsChrimson );  R38F11-GAL4, UAS-CsChrimson, AOP-LexA-TnT/ppk-LexA  ( Epi>CsChrimson+C4da>TnT );  R38F11-GAL4, UAS-CsChrimson, AOP-LexA-TnT/NompC-LexA  ( Epi>CsChrimson+C3da>TnT ).",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Yoshino, Mali, Williams et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "image_sha256": "b5b0ec96546cb7d6593593e6a41cb4442cca7209cf3caec9d91194932de4f6ba",
+    "display_path": "figures/95379_fig3_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.34
+    ],
+    "crop_tool": "tools/crop_figure.py; lossless publisher raster in private PDF container",
+    "source_dimensions": [
+      1983,
+      2522
+    ],
+    "full_authors": [
+      "Jiro Yoshino",
+      "Sonali S Mali",
+      "Claire R Williams",
+      "Takeshi Morita",
+      "Chloe E Emerson",
+      "Christopher J Arp",
+      "Sophie E Miller",
+      "Chang Yin",
+      "Lydia Th\u00e9",
+      "Chikayo Hemmi",
+      "Mana Motoyoshi",
+      "Kenichi Ishii",
+      "Kazuo Emoto",
+      "Diana M Bautista",
+      "Jay Z Parrish"
+    ],
+    "original_source_sha256": "bc93992194e22dcc50498e16a79289af79256a69424e628357bf0b6ecccb5de1",
+    "display_sha256": "2c4be406ed5e239505f5489d237a736b8fb377c3affc002b57fd72296541b68e"
+  }
+}

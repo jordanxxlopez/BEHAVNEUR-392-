@@ -1,0 +1,586 @@
+[
+  {
+    "title": "Balance depends on sensing head movement and gravity",
+    "body": [
+      "**Vestibular sensation** provides information about head motion and orientation relative to gravity. Receptors in the inner ear send signals that help stabilize posture and vision. A person can therefore keep looking at an object while walking, even though each step moves the head.",
+      "Balance also uses vision and **proprioception**, information about the position and movement of body parts. These signals describe different aspects of the same action. Seeing the room move across the eyes differs from detecting rotation of the head or changes in pressure beneath the feet.",
+      "A swimming fish must coordinate its body and fins while controlling its orientation in water. Small zebrafish alternate swimming bouts with sinking. Their changing body angle and fin movements provide observable measures of how a nervous system organizes movement while maintaining a stable posture."
+    ]
+  },
+  {
+    "title": "Semicircular canals detect changes in head rotation",
+    "body": [
+      "The **semicircular canals** are three fluid-filled structures arranged in different planes. An enlarged region of each canal contains sensory hair cells. Their bundles project into a gelatinous structure called the **cupula**, which bends when fluid movement pushes against it during head rotation.",
+      "When the head starts turning, the fluid initially resists moving because of its inertia. The resulting displacement bends the cupula and the attached hair bundles. Bending in one direction increases a hair cell’s activity, whereas bending in the opposite direction reduces its activity.",
+      "During sustained rotation, the fluid increasingly moves with the surrounding canal and the initial response declines. Stopping the rotation can briefly bend the cupula in the opposite direction. The resulting signal helps explain why a person can feel continued movement after a spin has ended."
+    ]
+  },
+  {
+    "title": "Vestibular hair bundles contain two kinds of projection",
+    "body": [
+      "A vestibular hair bundle contains **stereocilia**, projections supported by actin filaments, beside a taller **kinocilium**, a projection supported by microtubules. These internal frameworks differ even though the projections move together. Forces applied to the bundle change the electrical response of the sensory hair cell.",
+      "A 2026 study examined the molecular composition and movement of vestibular kinocilia. The investigators combined measurements of expressed genes with microscopy of hair cells. They identified proteins associated with motile cilia, structures whose internal machinery can generate movement rather than merely bend under an external force.",
+      "The source recording shows movement of bullfrog kinocilia in a laboratory preparation. It displays the behavior of a cellular structure rather than an animal’s balance response. The experimental preparation makes the kinocilium visible independently of the head movements that normally stimulate an intact vestibular organ."
+    ]
+  },
+  {
+    "title": "Otolith organs detect gravity and linear acceleration",
+    "body": [
+      "The **utricle** and **saccule** contain patches of sensory hair cells covered by a gelatinous layer. Small calcium carbonate crystals called **otoconia** add mass to that layer. Gravity or linear acceleration shifts it relative to the underlying cells, bending their hair bundles and changing sensory output.",
+      "The utricle and saccule have different orientations within the head. Their receptor populations therefore provide information about different directions of acceleration. Tilting the head changes how gravity pulls across the receptive surfaces, while a movement such as starting forward in a vehicle also displaces the weighted layer.",
+      "A single otolith signal does not uniquely distinguish head tilt from linear acceleration because both can produce a similar mechanical force. The brain interprets it alongside signals from the semicircular canals, vision, and other body receptors. The combined information supports estimates of orientation during movement."
+    ]
+  },
+  {
+    "title": "Microscopy reveals kinocilium motion",
+    "body": [
+      "The kinocilium sits beside the stereocilia and contributes to the mechanical organization of a vestibular hair bundle. The 2026 study examined its structure as well as its molecular components. Microscopy revealed features that could be compared with those of other cilia containing movement-generating machinery.",
+      "The investigators recorded bullfrog kinocilia and observed movement under their experimental conditions. A video preserves the changing position across successive moments, whereas a fixed image shows only one arrangement. Following the same projection over time makes its motion distinguishable from differences between separate cells.",
+      "These observations concern bullfrog cells, while the molecular survey also examined mammalian vestibular cells. The species and measurements must remain distinct. A moving projection in an isolated preparation is a cellular finding; balance, gaze stabilization, and spatial orientation require additional signals and circuits in the whole animal."
+    ]
+  },
+  {
+    "title": "Vestibular pathways stabilize vision during movement",
+    "body": [
+      "The **vestibulo-ocular reflex** moves the eyes to compensate for movement of the head. When the head turns in one direction, appropriate eye muscles move the eyes in the opposite direction. This reduces movement of the viewed object across the retina and helps preserve clear vision.",
+      "Vestibular sensory axons travel through the vestibular branch of the eighth cranial nerve. Many terminate in vestibular nuclei in the brainstem. Connections from these nuclei reach the motor nuclei controlling eye muscles, providing a short route from a head-motion signal to a compensatory eye movement.",
+      "Other vestibular connections reach the cerebellum and spinal cord, where they contribute to posture and coordination. An individual with an impaired compensatory eye response can experience blurred or unstable vision while walking. The difficulty appears during movement because the eyes no longer sufficiently counteract the head’s displacement."
+    ]
+  },
+  {
+    "title": "Young zebrafish coordinate their fins with body rotation",
+    "body": [
+      "Ehrlich and Schoppik recorded young zebrafish moving upward through water. A fish can climb by pointing its body upward and directing thrust along that axis. It can also use its pectoral fins to generate lift, allowing an upward path without an equally large change in body angle.",
+      "The investigators measured the relationship between body rotation and the contribution of the fins. As the larvae developed, their movements became more coordinated. Fin-generated lift and body orientation were adjusted together, allowing the fish to climb while controlling the posture from which the next movement would begin.",
+      "The original recordings show separate views of freely swimming larvae, including a view that makes pectoral fin movement visible. The body’s direction and the direction of travel need not be identical. Comparing those directions helps separate a change in posture from an upward translation through the water."
+    ]
+  },
+  {
+    "title": "Vestibular loss disrupts fin-body coordination",
+    "body": [
+      "To test whether vestibular input contributed to coordination, Ehrlich and Schoppik disrupted peripheral vestibular sensation in zebrafish larvae. They then examined how the fish combined fin-generated lift with body rotation. The coordination found in intact larvae was lost after the vestibular manipulation.",
+      "The result distinguishes the ability to produce a movement from the ability to combine movements appropriately. A fin or body can still move while its contribution is poorly matched to the other parts. The measured relationship between effectors therefore provides information that swimming speed alone would miss.",
+      "The study also examined the cerebellum, a brain region involved in coordinating sensory information with motor commands. Cerebellar lesions impaired fin-body coordination. These experiments identify sensory input and a central structure that contribute to the same measured organization of movement during upward swimming."
+    ]
+  },
+  {
+    "title": "Skin receptors sample different features of contact",
+    "body": [
+      "The **skin** contains sensory endings specialized for different kinds of stimulation. Some respond strongly to indentation or vibration, while others detect temperature or potentially damaging events. Their nerve fibers carry information about both the kind of stimulus and the part of the body where it occurred.",
+      "In hairless skin, such as the fingertips, sensory endings are associated with structures including Merkel cell complexes and Meissner corpuscles. Their arrangement changes how external forces reach the sensory membrane. A small receptive field allows nearby contacts to activate distinguishable populations of sensory neurons.",
+      "The source microscopy shows the internal organization of a Meissner corpuscle. The nerve ending is embedded within a specialized sensory structure rather than lying freely on the skin surface. Contact must deform the surrounding tissue before that force can alter the electrical activity of the ending."
+    ]
+  },
+  {
+    "title": "Adaptation separates held pressure from changing contact",
+    "body": [
+      "A **receptive field** is the region where a stimulus can change the activity of a particular sensory neuron. Small receptive fields help distinguish closely spaced contacts. Larger fields combine information over a wider area, which can be useful for detecting vibration or stretching across the skin.",
+      "**Slowly adapting** receptors continue to respond during sustained stimulation, whereas **rapidly adapting** receptors emphasize changes such as the beginning or ending of contact. These patterns allow the nervous system to represent a held object’s continuing pressure alongside brief movements of that object against the skin.",
+      "During active touch, the fingers move across an object and repeatedly change the forces acting on the receptors. Edges, roughness, and slipping produce different patterns of deformation. The brain receives a changing population signal rather than a single receptor reporting the object’s complete shape or identity."
+    ]
+  },
+  {
+    "title": "Sensory neuron genes shape touch endings",
+    "body": [
+      "Researchers studying the gene **Meis2** examined sensory neurons and their endings in mouse skin. Meis2 encodes a protein that regulates the expression of other genes. Removing it from selected cells allowed the investigators to examine how a neuronal gene influences the organization of a peripheral touch organ.",
+      "The study found altered Meissner corpuscle morphology after Meis2 inactivation. The sensory neuron’s relationship with its surrounding structure therefore depends on more than the presence of a skin receptor. Developmental gene regulation helps establish the terminal arrangement through which a physical stimulus reaches that neuron.",
+      "The accompanying source images compare labeled structures in control and mutant skin. A three-dimensional view makes the arrangement of the nerve ending easier to follow through the tissue. These are microscope-derived views of the sensory organ, rather than a measurement of an animal’s reported tactile experience."
+    ]
+  },
+  {
+    "title": "Altered innervation changes touch receptor responses",
+    "body": [
+      "The Meis2 study also examined **Merkel cell complexes**, sensory structures associated with sustained responses to skin indentation. Removing Meis2 altered the innervation of these complexes. The investigators measured nerve responses as well as tissue structure, allowing anatomical changes to be examined alongside altered sensory signaling.",
+      "The mutant preparation showed increased slowly adapting responses in the relevant experiments. A receptor ending can therefore become functionally abnormal without simply disappearing. An altered connection between a sensory neuron and its peripheral organ can change the pattern of impulses generated by the same external force.",
+      "The distinction matters when interpreting a skin image. Finding an ending establishes where the neuron extends, but recording establishes how it responds. Combining these measurements separates loss of a structure, altered organization of that structure, and changes in the electrical output reaching the central nervous system."
+    ]
+  },
+  {
+    "title": "Activating skin cells can recruit a paw-directed response",
+    "body": [
+      "**Keratinocytes** are abundant cells in the outer skin layer. Moehring and colleagues tested whether their activity contributes to mechanical sensation. They expressed a light-sensitive channel in these cells, allowing blue light to activate keratinocytes while the animal’s response was recorded.",
+      "Mice expressing the channel directed behavior toward the illuminated paw, including lifting or attending to it. Control mice lacking the functional light-sensitive preparation did not show the same response. Light was therefore used to change a selected skin-cell population rather than mechanically press on the sensory ending.",
+      "The illuminated animal lifts or attends to its paw. Additional experiments in the paper tested how keratinocytes communicate with sensory neurons. Together, these measurements separate the cellular manipulation at the skin surface from the later behavior organized by neural circuits receiving input from that region."
+    ]
+  },
+  {
+    "title": "ATP can carry a signal from skin cells to sensory endings",
+    "body": [
+      "**ATP**, best known as a cellular energy carrier, can also act as an extracellular messenger. Mechanical stimulation can cause keratinocytes to release ATP into the space around nearby sensory endings. The same molecule therefore has different roles inside a cell and between neighboring cells.",
+      "Sensory neurons express **P2X4 receptors**, ion channels activated by extracellular ATP. Opening these channels allows positive ions to cross the membrane and changes the neuron’s electrical state. A force applied to skin can consequently influence a sensory neuron through signaling from an adjacent skin cell.",
+      "This route operates alongside mechanisms in which force directly opens channels in sensory endings. Direct mechanical transduction and chemical communication are different steps. The skin’s response to touch can include deformation of a sensory membrane, release of a messenger, and altered firing of the neuron carrying information inward."
+    ]
+  },
+  {
+    "title": "Removing extracellular ATP reduces mechanical sensitivity",
+    "body": [
+      "Moehring and colleagues used **apyrase**, an enzyme that breaks down extracellular ATP, to test its role in touch signaling. If ATP helps communicate skin deformation, removing it should reduce the response. The experiments measured behavioral sensitivity and electrical activity in sensory afferents.",
+      "Degrading ATP reduced responses to mechanical stimulation. The investigators also reduced P2X4 receptor expression in sensory neurons and found diminished mechanical responsiveness. These interventions acted at different parts of the proposed route: one removed the messenger, while the other reduced a receptor that detects it.",
+      "A separate control recording shows an animal exposed to the same blue-light procedure without the light-sensitive keratinocyte manipulation. Such a recording identifies what the illumination itself looks like. The ATP-degradation and receptor experiments provide the evidence about the chemical communication between skin cells and sensory neurons."
+    ]
+  },
+  {
+    "title": "Fine touch and pain ascend through different spinal routes",
+    "body": [
+      "Sensory axons from the body enter the spinal cord through the **dorsal roots**. Their cell bodies lie in dorsal root ganglia outside the cord. Information from the face largely enters through the trigeminal system, providing a separate entry route for stimulation of the head.",
+      "Much precisely localized touch information ascends in the **dorsal columns** before reaching relay nuclei in the medulla. The pathway then crosses and continues through the medial lemniscus toward the thalamus. Thalamic neurons send information onward to somatosensory cortex, where body regions have organized representations.",
+      "Many pain and temperature afferents first synapse within the spinal cord. Second-order neurons cross there and ascend through anterolateral pathways, including the spinothalamic tract. The different crossing locations explain why a spinal lesion can affect touch and pain on different sides of the body below the injury."
+    ]
+  },
+  {
+    "title": "Fly leg circuits separate joint position from movement",
+    "body": [
+      "**Proprioception** describes sensory information about body position and movement. In a fly leg, a sensory organ within the femur monitors the joint connecting the femur and tibia. Different sensory neuron groups respond to joint position, movement direction, or vibration of the limb.",
+      "Agrawal and colleagues moved this joint while recording activity from neurons receiving proprioceptive information in the central nervous system. Some cells maintained a response at particular joint angles. Others responded to movement or vibration, showing that downstream circuits preserve distinctions between different features of limb motion.",
+      "The calcium-imaging recording displays changes in fluorescence as the leg is manipulated. The fluorescent indicator reports cellular calcium, which can accompany neural activation. The joint movement is controlled by the experimenter, making it possible to compare responses during flexion, extension, and a maintained position."
+    ]
+  },
+  {
+    "title": "Body position is estimated from several sensory sources",
+    "body": [
+      "**Proprioception** includes information about the position of body parts, while **kinesthesia** emphasizes their movement. Receptors in muscles, tendons, joints, and skin contribute different signals. Stretching the skin near a joint can change as that joint moves, providing information alongside signals from deeper tissues.",
+      "A **muscle spindle** is a sensory structure within skeletal muscle that responds to changes in muscle length. Its activity can inform the nervous system about a limb’s configuration and ongoing movement. Detailed spinal reflexes use this feedback, but those motor-control mechanisms extend beyond the sensory focus here.",
+      "Position estimates also interact with vision. Looking at a hand provides information about its location, while proprioceptive signals remain available when the eyes close. Moving accurately without vision requires the nervous system to update its estimate from sensory signals generated as the limb changes position."
+    ]
+  },
+  {
+    "title": "Electrical recordings distinguish position from movement",
+    "body": [
+      "Agrawal and colleagues used **whole-cell recording**, a method that measures a neuron’s membrane voltage through a recording electrode. They examined central fly neurons while moving the leg joint through controlled positions. This measurement follows electrical changes directly rather than inferring them from a fluorescent calcium indicator.",
+      "One group, called **13Bα neurons**, showed sustained voltage changes related to tibia position. Other groups responded to movement direction or vibration. A maintained voltage shift can represent a held joint angle, while a brief response can mark a movement occurring between two positions.",
+      "The experiment pairs a known mechanical event with a measured cellular response. Repeating the joint movement shows whether a neuron follows position, direction, or timing consistently. The neuron’s activity can then be compared with separate experiments that activate the same cell group and observe its motor effects."
+    ]
+  },
+  {
+    "title": "Activating a proprioceptive cell group changes leg position",
+    "body": [
+      "After identifying position-sensitive 13Bα neurons, Agrawal and colleagues activated them with **optogenetics**, a method that uses a light-sensitive protein to alter selected cells’ activity. The experiments tested whether changing this central proprioceptive pathway could influence the position of the fly’s leg.",
+      "Activation produced flexion of the femur-tibia joint in the tested preparation. The source study examined legs under different loading conditions, allowing the investigators to distinguish how the same neural manipulation acts when the limb encounters different mechanical demands. Sensory processing can therefore influence a specific limb movement.",
+      "The recording and activation experiments answer different questions. Moving the joint establishes what normally changes the neuron’s activity. Activating the neuron establishes what downstream response it can recruit. Keeping those directions separate prevents a motor effect from being mistaken for a complete description of sensory encoding."
+    ]
+  },
+  {
+    "title": "A sodium channel supports proprioceptive signaling",
+    "body": [
+      "**NaV1.1** is a voltage-gated sodium channel, a membrane protein that helps neurons produce electrical impulses. Researchers examined its role in mouse sensory neurons rather than its better-known functions in the brain. The study identified the channel in neurons carrying information about muscles and body position.",
+      "Removing the gene encoding NaV1.1 from sensory neurons produced pronounced coordination deficits. The mice made abnormal limb movements and adopted unusual paw positions. These observations were accompanied by cellular and physiological measurements examining how loss of the channel changed proprioceptive signaling.",
+      "A receptor can detect a mechanical event yet fail to convey it reliably if the neuron cannot generate the required impulses. Mechanical detection and electrical transmission are therefore separate requirements. The animal’s coordination depends on both the receptor’s input and the sensory neuron’s ability to communicate that input."
+    ]
+  },
+  {
+    "title": "Somatosensory cortex contains organized maps of the body",
+    "body": [
+      "**Primary somatosensory cortex**, often called S1, receives information about the body through thalamic pathways. Nearby cortical regions tend to represent nearby body regions. The amount of cortex devoted to a body part reflects the detail of its sensory processing rather than simply its physical size.",
+      "The fingertips and lips occupy large representations because they provide rich information about contact. Several cortical maps represent different features of somatosensation. Neurons can differ in the body area and stimulus type that drive them, preserving distinctions between pressure, movement, and other sensory inputs.",
+      "Processing continues beyond the first cortical representation. Identifying an object by touch requires combining information about edges, texture, shape, and the movements used to explore it. Damage to higher somatosensory regions can impair recognition even when a person still detects that the hand has been touched."
+    ]
+  },
+  {
+    "title": "Disrupted sensory signals alter paw placement",
+    "body": [
+      "The NaV1.1 study recorded abnormal limb positioning after the channel was removed from sensory neurons. A mouse made unusual hindlimb movements while suspended and could rotate its paw toward its tail. The behavior provides a visible example of disturbed coordination under the experimental condition.",
+      "The manipulation targeted a channel needed for sensory electrical signaling rather than directly paralyzing the muscles. The investigators also assessed proprioceptive firing and motor performance. These measurements helped examine how a peripheral sensory deficit could alter the organization of movements made by otherwise active limbs.",
+      "The video displays one animal’s movement and does not by itself identify every affected cellular process. The paper’s genetic, anatomical, and recording experiments establish the manipulated pathway. Their combination separates an observable posture from the sensory-neuron mechanism being tested as a contributor to that posture."
+    ]
+  },
+  {
+    "title": "Gentle stroking and precise touch use different inputs",
+    "body": [
+      "**Discriminative touch** allows a person to locate contact and identify features such as an edge or texture. Rapidly conducting sensory fibers provide much of this precisely localized information. Gentle stroking can also produce a pleasant sensation conveyed partly by slower, unmyelinated sensory fibers in hairy skin.",
+      "A person with loss of large sensory afferents could still report a faint pleasant sensation when hairy skin was stroked. Precise location and movement direction were impaired. This separation shows that detecting the emotional quality of contact does not require every component needed for detailed tactile discrimination.",
+      "Active exploration adds another distinction. Stroking a surface with the fingers combines skin deformation with information about the hand’s movement. Being stroked by another person supplies a different pattern of signals. Both can feel pleasant, but the relevant skin region and the available sensory inputs differ."
+    ]
+  },
+  {
+    "title": "Activating a vibration pathway can interrupt walking",
+    "body": [
+      "Agrawal and colleagues identified **10Bα neurons**, central fly neurons that respond to leg movement and vibration. Their responses depended partly on joint position. A vibration reaching the limb therefore entered a circuit whose activity also reflected how that limb was configured.",
+      "Optogenetic activation of this cell group caused walking flies to pause. The source recording shows the animal before, during, and after the brief stimulation. The manipulation provides a concrete example of activity in a proprioceptive processing pathway changing the selection of an ongoing motor state.",
+      "A pause is different from a directed flexion of one joint. Separate cell groups in the same sensory system can influence different levels of movement organization. Their measured responses and activation effects distinguish representation of limb mechanics from the particular action produced when a pathway is driven experimentally."
+    ]
+  },
+  {
+    "title": "Stimulating sensory cortex evokes bodily sensations",
+    "body": [
+      "In a participant with tetraplegia, Armenta Salas and colleagues stimulated small sites in primary somatosensory cortex through implanted microelectrodes. The participant reported sensations located in the opposite arm. Some felt like contact on the skin, while others involved perceived movement or position of the limb.",
+      "The reported sensation depended on the stimulation site and on properties of the electrical pulses. Changing the input to cortical tissue could therefore alter the kind of bodily experience produced. The experiment examined percepts directly through the participant’s reports rather than inferring them from an animal’s movement.",
+      "An artificial sensation does not require the corresponding object to contact the skin. Electrical stimulation acts farther along the sensory pathway, where activity is interpreted as information about the body. The location and quality of the percept reveal features of the cortical representation accessed by the implanted electrode."
+    ]
+  },
+  {
+    "title": "Localized pressure activates mechanical nociceptors",
+    "body": [
+      "**Nociceptors** are sensory neurons that detect potentially damaging stimulation. Researchers studying fly larvae applied controlled mechanical forces to class IV sensory neurons, whose branching dendrites spread beneath the body surface. They recorded calcium signals to examine how the cells responded when different parts of the dendritic field were stimulated.",
+      "The neurons were particularly sensitive to localized poking. A force concentrated over a small area can deform the receptive tissue differently from the same general contact spread across a broad surface. The experiment therefore tested the geometry of stimulation as well as the force reaching the sensory field.",
+      "The recording marks the point of stimulation and the neuron’s cell body. A changing fluorescent signal follows the application of force. This is a measurement of cellular nociceptive activity in a larva; the experiment does not establish a human-like subjective pain experience from fluorescence alone."
+    ]
+  },
+  {
+    "title": "Thermal channels translate temperature into activity",
+    "body": [
+      "**Thermoreceptors** are sensory endings whose activity changes with temperature. Warmth and cooling alter membrane proteins that control ion movement. The resulting electrical signals indicate a change in the skin’s thermal state rather than providing a direct reading of an object’s temperature independent of the body.",
+      "Several **TRP channels** respond to temperature and to particular chemicals. Menthol activates TRPM8, producing a cooling sensation, while capsaicin activates TRPV1 and produces burning. The chemical changes channel activity even when the skin has not undergone the corresponding decrease or increase in physical temperature.",
+      "Thermal sensation also adapts. After one hand rests in warm water and the other in cool water, the same intermediate water can feel different to the two hands. Their recent stimulation histories differ, changing the responses generated when both encounter the same new thermal condition."
+    ]
+  },
+  {
+    "title": "Itch recruits a directed scratching response",
+    "body": [
+      "**Itch** is an unpleasant sensation associated with an urge to scratch. It can arise when chemicals released during irritation or inflammation activate sensory pathways. Histamine is one trigger, but other itch-producing substances use different receptors, which helps explain why an antihistamine does not relieve every form of itch.",
+      "Scratching delivers mechanical stimulation and can temporarily suppress itch while also damaging irritated skin. Repeated scratching can therefore worsen the tissue condition that initially triggered the response. Sensory signaling and the action it recruits can form a cycle in which short-term relief accompanies continued skin injury.",
+      "The source recording shows a mouse making a scratching bout. The hind paw repeatedly moves toward a body region, a pattern that can be identified in successive video frames. Counting such bouts provides a behavioral measure, while the animal’s private sensory experience cannot be measured directly from the recording."
+    ]
+  },
+  {
+    "title": "Video analysis separates scratching from other movements",
+    "body": [
+      "The **Scratch-AID** study developed a system for detecting mouse scratching in video. The investigators recorded behavior in a controlled enclosure and trained a computational model using labeled examples. The system learned patterns across successive frames instead of treating every rapid hindlimb movement as a scratch.",
+      "Scratching includes repeated movement toward a particular body area, whereas walking, grooming, and changing posture produce different trajectories. Tracking body parts makes these differences measurable. A hind paw can briefly disappear behind the tail, so the system must handle changing visibility as well as changing movement.",
+      "This method supplies a reproducible way to quantify behavior during itch experiments. It can compare scratching after a treatment or across time without requiring each complete recording to be scored manually. The measured outcome remains the frequency and timing of a defined action, rather than a direct measurement of sensation."
+    ]
+  },
+  {
+    "title": "Skin chemicals recruit different defensive actions in fish",
+    "body": [
+      "Researchers compared zebrafish responses to chemicals injected into the skin near the lip. **Imiquimod** produced repeated rubbing against surfaces, while the irritant **allyl isothiocyanate**, or AITC, produced a different pattern including reduced movement and freezing. A vehicle injection provided a comparison for the injection procedure itself.",
+      "The study examined **TRPA1**, an ion channel activated by chemical irritants, and found that it contributed to the responses under investigation. Cellular recordings and behavioral observations tested different levels of the response, from activation of somatosensory neurons to actions made by the whole fish.",
+      "Lip rubbing resembles a directed attempt to contact the stimulated region, but it should be described as an itch-like behavior in this preparation. The distinct responses to imiquimod and AITC show that different chemical inputs need not produce one uniform defensive action in the same species."
+    ]
+  },
+  {
+    "title": "Spinal circuits can treat itch and pain differently",
+    "body": [
+      "Itch and pain information enter neural circuits containing both excitatory and inhibitory cells. **Excitation** increases the likelihood that a neuron will fire, while **inhibition** reduces it. The balance between these inputs determines how strongly incoming stimulation is transmitted to neurons carrying information toward the brain.",
+      "Scratching can reduce itch partly because the competing sensory input changes activity in these circuits. This does not mean itch is simply a weak version of pain. Different sensory populations and spinal pathways can be recruited by the chemicals that trigger an urge to scratch.",
+      "Drugs can also affect the two experiences differently. An opioid can reduce pain yet produce itch as a side effect. Distinguishing the receptor, sensory population, and downstream response makes that combination understandable without assuming that every unpleasant skin sensation must increase or decrease together."
+    ]
+  },
+  {
+    "title": "Nociception and pain describe different sensory processes",
+    "body": [
+      "**Nociception** is the detection and neural processing of potentially damaging stimulation. **Pain** is an unpleasant sensory and emotional experience. A nociceptor’s electrical response is therefore different from a person’s reported suffering, even though activity in nociceptive pathways often contributes to that experience.",
+      "A withdrawal reflex can begin through spinal circuitry before a person has fully evaluated the event. Ascending signals also reach brain systems involved in location, intensity, emotion, and action. These parallel operations help the body respond rapidly while allowing the event to influence later decisions.",
+      "In animal experiments, investigators measure outcomes such as withdrawal, licking, freezing, or place avoidance. Each captures a different component of the response. A swimming control recording, for example, establishes baseline movement against which an irritant-evoked change can be compared; it cannot establish the absence of subjective discomfort."
+    ]
+  },
+  {
+    "title": "Tissue and nerve injury alter sensitivity differently",
+    "body": [
+      "**Inflammatory pain** can follow tissue injury when local chemical signals increase the responsiveness of sensory endings. Stimuli that previously produced a modest response may then produce stronger activity. This increased sensitivity can protect an injured region by discouraging contact and movement while the tissue recovers.",
+      "**Neuropathic pain** results from a lesion or disease affecting the somatosensory nervous system. Abnormal activity can arise in damaged nerves or in circuits that process their signals. A light touch can become painful, a condition called **allodynia**, even though that contact is not itself damaging the skin.",
+      "An irritant-treated fish can show reduced locomotion, but reduced movement alone does not identify which sensory or motor process changed. Comparing behavior with vehicle treatment and examining the activated pathway helps separate chemical irritation from a general inability to swim or respond to the environment."
+    ]
+  },
+  {
+    "title": "Epidermal stimulation recruits protective larval behavior",
+    "body": [
+      "A study of fly larvae tested whether epidermal cells participate in sensing mechanical events. These cells form the body’s outer covering, directly encountering external forces. The researchers expressed a light-sensitive protein in the epidermis and recorded the animal’s movements when those cells were activated.",
+      "Illumination recruited behaviors including avoidance and escape. The epidermal manipulation also activated somatosensory neurons, including nociceptors, in the associated experiments. The outer body layer therefore contributed to sensory signaling rather than functioning only as a passive barrier through which force reached neuronal endings.",
+      "The source recording identifies behaviors scored during epidermal stimulation. These observations must be interpreted with the targeted cellular manipulation: light activated genetically selected cells, not a naturally occurring touch receptor in isolation. Separate mechanical and calcium-imaging experiments examined how epidermal cells respond when the body surface is physically deformed."
+    ]
+  },
+  {
+    "title": "Spinal inhibition controls transmission of sensory input",
+    "body": [
+      "The **dorsal horn** is a region of the spinal cord where many incoming somatosensory fibers contact other neurons. Its interneurons process the input locally before projection neurons carry information farther upward. A sensory signal can be amplified or suppressed at this early central stage.",
+      "**Inhibitory interneurons** reduce activity in their targets through chemical transmission. Touch-related input can recruit inhibitory circuitry that changes the transmission of nociceptive signals. This helps explain why rubbing a nearby region sometimes changes the discomfort produced by a minor injury without repairing the damaged tissue.",
+      "The outcome depends on which neurons receive the inhibition. Suppressing an excitatory relay can reduce output, while suppressing an inhibitory cell can release another neuron from restraint. Spinal processing therefore depends on the arrangement of connections as well as the amount of input arriving from the skin."
+    ]
+  },
+  {
+    "title": "Epidermal and neuronal activation recruit escape actions",
+    "body": [
+      "The larval epidermal study compared activation of the outer skin cells with activation of nociceptors themselves. Both manipulations could recruit protective movements. Comparing the two conditions tests how an upstream tissue response relates to the activity of sensory neurons that communicate with the central nervous system.",
+      "The investigators also found that epidermal cells respond to mechanical stimulation with calcium changes. Perturbing epidermal function altered nociceptive behavioral output. These experiments place the epidermis within the sensory pathway instead of treating every response to body contact as originating exclusively within a neuronal membrane.",
+      "The two source recordings show the behaviors under different targeted manipulations. Similar movements do not make the manipulated cell populations identical. One intervention begins in non-neuronal surface cells, while the other begins in neurons specialized for detecting potentially harmful stimulation and recruiting downstream responses."
+    ]
+  },
+  {
+    "title": "Pain has sensory and emotional components",
+    "body": [
+      "The sensory component of pain includes where the stimulus occurs and how intense it feels. Emotional components include immediate unpleasantness and the distress associated with continuing or anticipated pain. These aspects can change differently because they depend on overlapping but distinguishable neural processing systems.",
+      "Somatosensory regions contribute to localization and discrimination, while regions including the insula and anterior cingulate participate in other aspects of the experience. Activity in one region is not a complete readout of pain. A person’s report reflects processing distributed across several interacting systems.",
+      "Persistent pain can influence attention, sleep, motivation, and choices about movement. Avoiding an action can reduce immediate discomfort yet restrict activity over time. Explaining these consequences requires distinguishing the incoming sensory event from the emotional response and the longer-term behavior that develops around it."
+    ]
+  },
+  {
+    "title": "Spinal excitation generates paw-directed behavior",
+    "body": [
+      "Researchers studied spinal interneurons expressing **calretinin**, a calcium-binding protein used to identify a neuronal population. They expressed a light-sensitive channel in these cells and activated the dorsal horn network. This allowed them to test the behavioral effects of increasing activity within a central relay.",
+      "Photostimulation produced sustained paw-directed behaviors in the experimental animals. Recordings from spinal tissue showed that the calretinin population participates in an interconnected excitatory network. Some of its output reaches projection neurons that carry information from the spinal cord toward higher nervous-system regions.",
+      "The experiment began within the spinal cord rather than by damaging the paw. It demonstrates that altering central processing can recruit a defensive behavioral pattern. The location to which the animal directs its action must therefore be distinguished from the location where the experimental manipulation actually occurred."
+    ]
+  },
+  {
+    "title": "Recurrent excitation can prolong a spinal sensory response",
+    "body": [
+      "An **excitatory network** can contain connections through which active neurons recruit additional excitatory cells. In the calretinin study, the investigators examined connections among dorsal horn interneurons and their output to projection neurons. This organization provides a route by which a brief input can influence a wider population.",
+      "The recordings showed that activation of calretinin neurons could initiate and sustain enhanced excitatory signaling. Repeated recruitment within the network can extend the response beyond the first directly activated cells. The resulting output depends on circuit connectivity rather than only on the initial sensory input’s duration.",
+      "This mechanism differs from increased sensitivity in a peripheral receptor. A peripheral change alters what enters the spinal cord, while recurrent central excitation alters what happens after entry. Both can increase the final response, but they occupy different locations and require different experiments to separate them."
+    ]
+  },
+  {
+    "title": "Spinal activation can make a location aversive",
+    "body": [
+      "The calretinin study also used **place aversion**, a test in which an animal’s location determines whether stimulation occurs. If the animal spends less time in the stimulation-associated region, its behavior indicates that the consequence of entering that region is aversive under the tested conditions.",
+      "Activating the spinal calretinin network produced avoidance of the associated location. This outcome adds information beyond a paw withdrawal or licking response. The animal altered a spatial choice, demonstrating that the neural manipulation could influence behavior directed toward avoiding a recurring consequence.",
+      "The animal moves between regions of the experimental environment. Its trajectory must be interpreted alongside the rule controlling illumination. Location by itself is simply movement through space; the comparison between stimulation-associated and comparison regions reveals how the manipulation changes the animal’s choices."
+    ]
+  },
+  {
+    "title": "Descending pathways adjust nociceptive transmission",
+    "body": [
+      "**Descending modulation** occurs when signals from the brain alter processing in lower nervous-system regions. Pathways involving the periaqueductal gray and brainstem can influence spinal circuits carrying nociceptive information. The brain therefore receives ascending input while also changing how strongly that input is transmitted.",
+      "**Analgesia** means reduced pain. It can arise through changes in peripheral signaling, spinal transmission, or brain processing. Descending control can change the response without removing the original stimulus, so the same physical event can be experienced differently depending on the nervous system’s state.",
+      "These pathways contain several chemical signaling systems and can facilitate as well as suppress nociception. The effect depends on the recruited cells and their targets. Identifying a descending projection is therefore the start of an explanation; its transmitter and downstream action determine how the sensory response changes."
+    ]
+  },
+  {
+    "title": "A fly brain peptide suppresses nociceptive responses",
+    "body": [
+      "Researchers examined **drosulfakinin**, or DSK, a neuropeptide produced by specific neurons in the fly brain. A neuropeptide is a short chain of amino acids that acts as a chemical messenger. The study tested whether this system suppresses nociceptive responses in larvae.",
+      "DSK-related signaling influenced **Goro neurons**, interneurons involved in organizing nociceptive behavior. The investigators mapped peptide-producing neurons, examined receptor expression, and manipulated the pathway genetically. These experiments connected a defined brain signaling system with activity in a downstream nociceptive circuit.",
+      "The calcium recording shows a control preparation during a heated-probe experiment. The fluorescence changes describe activation of the monitored interneurons as the probe temperature changes. The brain peptide’s inhibitory role comes from comparisons across targeted manipulations, rather than from the control movie considered by itself."
+    ]
+  },
+  {
+    "title": "Opioid receptors alter signaling within pain-control circuits",
+    "body": [
+      "**Endogenous opioids** are peptide messengers produced within the body that activate opioid receptors. These receptors can reduce transmitter release or change the receiving cell’s excitability. Their effects depend on where the receptors are located and on which part of a pain-control circuit expresses them.",
+      "In the spinal cord, reduced release from incoming fibers can weaken excitation of downstream neurons. In other circuits, inhibiting an inhibitory neuron can increase the output of a pain-suppressing pathway. The same receptor family can therefore reduce transmission through different arrangements of cellular connections.",
+      "An **opioid antagonist** blocks receptor activation and can test whether an analgesic effect depends on opioid signaling. If a reduction in pain disappears during receptor blockade, the comparison identifies a contribution from that signaling system under those experimental conditions rather than merely an association with reduced discomfort."
+    ]
+  },
+  {
+    "title": "Removing a peptide receptor increases heat responses",
+    "body": [
+      "The DSK study examined **CCKLR-17D1**, a receptor through which the peptide pathway influences nociceptive processing. Removing the receptor changed larval responses to a heated stimulus. The investigators also measured calcium signals in Goro neurons to examine the circuit response underlying the behavioral change.",
+      "Goro neurons lacking this receptor showed sensitized responses to noxious heat. **Sensitization** means that a stimulus produces a greater response after a relevant change in the system. Here, the receptor manipulation weakened a signaling route that normally restrains the nociceptive circuit.",
+      "The control and mutant recordings preserve the time course of fluorescence during the probe manipulation. Comparing the preparations requires the stimulus conditions as well as the images. A brighter response is informative only when the recorded cells, indicator, and applied stimulus are appropriately specified."
+    ]
+  },
+  {
+    "title": "Response strength can change without a new threshold",
+    "body": [
+      "The DSK experiments distinguished the threshold for initiating a thermal response from the magnitude or timing of the response once recruited. A **threshold** is the stimulus level at which a defined response begins. Changing circuit responsiveness does not necessarily shift every measure of sensitivity together.",
+      "The study reported largely normal thermal thresholds in its DSK receptor mutants while identifying enhanced nociceptive responses under other test conditions. These outcomes describe different properties of the same system. The first detectable response and the subsequent strength of circuit activity need not change in parallel.",
+      "Calcium measurements in Goro neurons helped locate an altered downstream response. This separates a failure to detect heat from a failure to restrain the response after detection. The experiment therefore gives a cellular explanation for increased nociceptive output that does not require inventing a new peripheral thermoreceptor."
+    ]
+  },
+  {
+    "title": "Attention can reduce pain during the same stimulus",
+    "body": [
+      "Attention selects information for further processing and can change how a painful event is experienced. Performing a demanding task can reduce reported pain from the same physical stimulus. The difference concerns nervous-system processing rather than a requirement that the skin received less thermal energy.",
+      "To study this effect, researchers can combine controlled heat stimulation with tasks that differ in attentional demand. Pain ratings indicate the participant’s experience, while brain and spinal measurements examine the associated neural changes. Keeping stimulation controlled allows the task-related change to be assessed directly.",
+      "Imaging the spinal cord is technically demanding because its small structures move with breathing and other physiological activity. Aligning functional images with anatomical references helps identify the region producing a measured signal. That processing step supports localization; it is not itself a movie of pain or relief."
+    ]
+  },
+  {
+    "title": "Opioid blockade tests attentional analgesia",
+    "body": [
+      "A human study combined heat stimulation, an attention task, drug administration, and functional imaging of the brain and spinal cord. The investigators tested whether reducing pain through attention depends on endogenous opioid signaling. Participants experienced experimental conditions that allowed drug effects and task effects to be compared.",
+      "The opioid antagonist **naltrexone** disrupted the attentional reduction in pain in the study. Imaging also identified changes in a network involving cortical, brainstem, and spinal regions. The drug comparison supplied evidence about mechanism, while the imaging helped examine where task-related modulation occurred.",
+      "The comparison drug **reboxetine** increases noradrenaline signaling by blocking its reuptake. It did not enhance attentional analgesia in this experiment. Naltrexone also disrupted the task-related coupling between identified brainstem and spinal regions, tying the behavioral change to a measured alteration in the descending network."
+    ]
+  },
+  {
+    "title": "Cell-specific receptor reduction tests a signaling pathway",
+    "body": [
+      "The DSK study also reduced CCKLR-17D1 receptor expression specifically in Goro neurons using **RNA interference**, a method that lowers production of a targeted protein. This manipulation was narrower than deleting the receptor throughout the animal. It tested whether the identified interneurons require that receptor for normal regulation.",
+      "Reducing receptor expression in those cells increased thermal nociceptive responsiveness. The calcium experiments examined the corresponding changes during heated-probe stimulation. Targeting a defined cell group helps distinguish a receptor’s action within the nociceptive circuit from effects it might have in unrelated tissues.",
+      "The source movie shows the preparation used for the receptor-reduction experiment. Its fluorescence follows the stimulated circuit over time. Alongside the genetic rescue and deletion experiments, the cell-specific manipulation places the receptor within a descending regulatory pathway acting on neurons that organize protective responses."
+    ]
+  },
+  {
+    "title": "Taste cells detect chemicals dissolved in saliva",
+    "body": [
+      "**Gustation**, the sense of taste, begins when dissolved molecules contact receptor cells in taste buds. These cells are specialized epithelial cells rather than long sensory neurons extending directly into the brain. They communicate with sensory nerve endings that carry information away from the mouth.",
+      "Taste buds contain several cell types with different signaling machinery. A **taste pore** allows dissolved substances to reach the exposed tips of the receptor cells. Chemicals must therefore enter the appropriate fluid environment and contact the receptive surface before they can alter cellular activity.",
+      "The familiar taste qualities include sweet, sour, salty, bitter, and umami. Oral detection of fatty acids adds another area of chemical sensing under investigation. The mechanism and behavioral significance should be explained directly rather than assuming that all nutrient-related preferences correspond to equally established human taste categories."
+    ]
+  },
+  {
+    "title": "Hunger reverses a fly’s response to acetic acid",
+    "body": [
+      "Devineni and colleagues tested how fruit flies respond to **acetic acid**, a compound found in fermenting food. A fed fly tended to reject it, while a starved fly could extend its proboscis and feed. The same chemical therefore produced different responses depending on the animal’s nutritional state.",
+      "The **proboscis extension response** is an opening movement of the fly’s feeding apparatus. Applying acid to the legs or mouthparts allowed the investigators to measure a directed feeding response. Additional sensory manipulations tested whether taste input, rather than an odor detected by the antennae, produced that response.",
+      "A starved fly extends toward acid applied alternately to its left and right legs. The direction follows the contacted side. This makes the stimulus-response relationship visible while the broader experiments examine how sweet- and bitter-sensitive pathways contribute to the hunger-dependent behavioral switch."
+    ]
+  },
+  {
+    "title": "Taste pathways reach the brainstem and cortex",
+    "body": [
+      "Taste information travels through branches of cranial nerves serving different regions of the mouth and throat. In humans, the facial, glossopharyngeal, and vagus nerves carry these inputs toward the brainstem. Their sensory endings receive signals from taste receptor cells activated by chemicals in oral fluids.",
+      "Brainstem relays send information onward through pathways reaching the thalamus and gustatory cortex, including regions of the insula and frontal operculum. Other connections influence feeding, salivation, and internal regulation. Detecting a food chemical can therefore change both the sensory experience and the body’s response to eating.",
+      "A feeding fly illustrates a behavioral consequence of oral chemical stimulation, but its neural anatomy differs from that of a human. The source recording shows ingestion after acid contact in a starved animal. It should be used to observe feeding movements while the mammalian pathway is explained separately."
+    ]
+  },
+  {
+    "title": "Pharyngeal taste neurons respond to ingested acids",
+    "body": [
+      "In flies, taste receptors are located on several body structures, including the mouthparts and the **pharynx**, a region through which ingested material passes. A recent study examined pharyngeal neurons expressing ionotropic receptors called **IR94a** and **IR94h**, along with related receptors involved in responses to acids.",
+      "The investigators applied carboxylic acids while measuring calcium in these neurons. Citric acid activated the recorded IR94a population under the tested conditions. The fluorescence measurement identifies a chemical response within the feeding apparatus, beyond the external sensory contact that first initiates a feeding movement.",
+      "The experiment combined imaging with genetic and behavioral tests of receptor function. Calcium responses establish that a neuronal population reacts to the stimulus, while manipulating receptors examines what that response requires. Feeding-choice experiments then test how the same sensory machinery contributes to the animal’s acceptance or rejection of food."
+    ]
+  },
+  {
+    "title": "Taste qualities use different transduction machinery",
+    "body": [
+      "**Transduction** converts a chemical interaction into a cellular electrical response. Sweet, bitter, and umami stimuli commonly activate receptor proteins coupled to intracellular signaling pathways in mammalian taste cells. The resulting changes open channels, alter membrane voltage, and promote communication with nearby sensory nerve endings.",
+      "Sour taste involves detection of acidity, including entry of protons through the **OTOP1 channel** in mammalian sour-sensitive cells. Salt responses involve ion-dependent mechanisms that vary with concentration and biological preparation. These routes differ from describing every taste molecule as activating one universal receptor type.",
+      "The receptor cell and the afferent nerve ending perform different jobs. The taste cell first encounters the dissolved substance and changes its activity. Chemical communication then recruits the nerve fiber that carries the signal centrally, allowing the brain to distinguish patterns generated by different oral stimuli."
+    ]
+  },
+  {
+    "title": "Acid-receptor mutations change food choice",
+    "body": [
+      "The pharyngeal taste study examined flies with altered ionotropic receptor genes. The investigators offered acid-containing food and compared choices with those of control animals. This tested whether the identified receptors contributed to behavior rather than merely appearing in cells that happen to respond during imaging.",
+      "Mutations affecting **IR51b**, **IR94a**, or **IR94h** altered responses to the tested carboxylic acids. Manipulating the corresponding neuronal populations also influenced feeding behavior. The receptor, the sensory cell, and the food choice occupy successive levels of the proposed pathway from chemical contact to action.",
+      "The accompanying recording shows a calcium response in IR94h-expressing pharyngeal neurons during glycolic acid stimulation. This is a separate cell population and stimulus from the IR94a citric-acid preparation. Keeping those experimental conditions explicit prevents distinct acid responses from being treated as one interchangeable measurement."
+    ]
+  },
+  {
+    "title": "Odors can directly activate fly gustatory neurons",
+    "body": [
+      "A recent fly study tested whether odors influence feeding only through traditional olfactory organs. The investigators found that odors could evoke proboscis extension even when the usual olfactory structures were not providing the required input. This prompted a direct examination of neurons normally described as gustatory.",
+      "Calcium imaging and electrical recordings showed odor responses in gustatory receptor neurons. The **Gr5a receptor**, associated with sugar-sensitive cells, contributed to the odor-evoked feeding response. The sensory response therefore began in a peripheral cell population that also participates in detecting food by taste.",
+      "Odor delivery evokes extension of the feeding apparatus, and tracking quantifies its changing angle. This is a finding about the tested fly system. It should not be transferred automatically to human taste buds, whose cellular organization and odor-related contributions to flavor must be explained using mammalian evidence."
+    ]
+  },
+  {
+    "title": "Flavor combines taste with smell and oral somatosensation",
+    "body": [
+      "**Flavor** is the combined experience produced by several sensory systems during eating. Taste provides information about dissolved chemicals, while smell provides information about volatile molecules. Temperature, texture, and irritation add somatosensory signals, so a food’s overall character is not encoded by taste buds alone.",
+      "Odorants can reach the nasal cavity from the front during sniffing or from the mouth during chewing and swallowing. The latter route is called **retronasal olfaction**. Blocking nasal airflow can therefore change the perceived flavor of a food even when its dissolved taste chemicals still contact the tongue.",
+      "Menthol’s cooling and capsaicin’s burning are useful examples of oral chemical effects that are not basic taste qualities. They recruit temperature- and irritation-related sensory mechanisms. A mint or pepper can consequently produce taste, odor, and somatosensory experiences at the same time through different receptor populations."
+    ]
+  },
+  {
+    "title": "A feeding contact can trigger a neural manipulation",
+    "body": [
+      "The **STROBE** system couples a fly’s feeding contact to light delivery. A sensor detects when the animal contacts a food source, and illumination then activates selected neurons expressing a light-sensitive protein. The manipulation is timed to the animal’s own action rather than occurring at unrelated moments.",
+      "This **closed-loop** arrangement allows researchers to test how neural activity changes the consequence of a feeding event. Different targeted populations can promote or suppress consumption. The source recording shows an individual fly feeding at the food source that triggers illumination in the apparatus.",
+      "The visible contact identifies when the manipulation can occur, while the experimental comparisons establish its effect. A light flash is not itself a natural food chemical. The system changes neural activity during tasting, allowing the contribution of a selected sensory or central pathway to feeding to be tested."
+    ]
+  },
+  {
+    "title": "Rat gustatory circuits distinguish the intensity of sweetness",
+    "body": [
+      "Researchers trained rats to discriminate sucrose intensity and recorded neurons in gustatory-related cortical regions. **Sucrose** is a sugar that activates sweet-sensitive pathways. The task required the animal to use the concentration-related sensory signal to make a decision, separating detection of sweetness from a simple feeding reflex.",
+      "The study examined posterior insular, anterior insular, and orbitofrontal regions. Many neurons responded during the task, but a smaller subset carried particularly informative signals about sucrose intensity. A broad response to tasting and a selective response distinguishing concentrations are therefore different properties of the recorded population.",
+      "The animal’s decision requires activity to be interpreted across time and across cells. Changes related to sensory intensity can occur alongside signals related to action and outcome. Comparing neuronal selectivity with task performance helps identify the activity that distinguishes the presented sucrose concentrations rather than merely marking a lick."
+    ]
+  },
+  {
+    "title": "Light-driven feeding experiments require retinal",
+    "body": [
+      "The STROBE study activated neurons with **CsChrimson**, a light-sensitive protein that changes cellular electrical activity. Its function depends on a light-absorbing molecule called **retinal**. Supplying retinal to the animal therefore helps create the functional molecular preparation required for the optogenetic manipulation.",
+      "The system recording compares chambers containing flies supplied with retinal and flies without that supplement. Each chamber links food contact to illumination. The paired conditions allow the consequences of functional light-driven activation to be separated from the apparatus, food contact, and illumination considered by themselves.",
+      "The experiment can target sensory neurons or cells farther along the feeding circuit. Where the protein is expressed determines which step is manipulated when the fly contacts food. The same physical contact can therefore be paired with altered activity in different neural populations to test their contributions to consumption."
+    ]
+  },
+  {
+    "title": "Smell begins when odorants reach nasal sensory neurons",
+    "body": [
+      "**Olfaction** detects volatile molecules called **odorants**. Airflow brings them into the nasal cavity, where some dissolve in the mucus covering the olfactory epithelium. This sensory tissue contains receptor neurons whose exposed cilia carry proteins that interact with the arriving molecules.",
+      "Unlike taste receptor cells, olfactory receptor cells are neurons that send axons toward the brain. Their axons pass through small openings in the cribriform plate and reach the olfactory bulb. The receptor-bearing surface and the central connection therefore belong to different parts of the same sensory cell.",
+      "Sniffing changes the delivery of odorants to this receptive surface. A molecule’s presence somewhere in the environment does not guarantee that it reaches a receptor at that moment. Nasal airflow, mucus, receptor binding, and the timing of sampling all contribute to the signal generated during an odor encounter."
+    ]
+  },
+  {
+    "title": "Dendritic growth organizes an olfactory map",
+    "body": [
+      "A study of the fly olfactory system followed **projection neurons**, cells that carry information from the antennal lobe to higher processing regions. Their dendrites must reach appropriate locations within the developing sensory map. The investigators used genetic labels to distinguish selected neuronal types over time.",
+      "Time-lapse imaging showed dendritic growth during early pupal development. A **dendrite** is a branching neuronal process that receives input. Following the same developing branches reveals how their positions change, rather than inferring a growth sequence by comparing fixed tissue taken from different animals.",
+      "The source recording tracks the development of projection-neuron dendrites in a living preparation. Its time scale is developmental, not the rapid firing response to a smell. This separates the construction of an olfactory circuit from the later electrical activity that circuit uses to represent an encountered odor."
+    ]
+  },
+  {
+    "title": "Odors are represented by combinations of receptor activity",
+    "body": [
+      "A single odorant can activate more than one olfactory receptor type, and one receptor type can respond to more than one odorant. This **combinatorial code** allows a limited collection of receptor types to distinguish many chemicals through different patterns of activity across the sensory population.",
+      "The strength of binding and the odorant concentration influence which receptors respond and how strongly they respond. Increasing concentration can recruit additional components of the pattern. An odor representation therefore includes a distributed response rather than a dedicated receptor that uniquely names every possible molecule.",
+      "Receptor activation changes intracellular signaling and opens channels that alter the sensory neuron’s voltage. If sufficient excitation occurs, impulses travel toward the olfactory bulb. The physical molecule remains at the receptive surface while the nervous system communicates its presence through a changing pattern of electrical activity."
+    ]
+  },
+  {
+    "title": "Birth history organizes developing olfactory neurons",
+    "body": [
+      "The fly olfactory-development study examined how **lineage**, a cell’s developmental ancestry, and birth order relate to dendritic targeting. Projection neurons arise from defined precursor populations. Their early developmental history helps determine where their receptive branches grow within the antennal lobe.",
+      "The investigators found different targeting patterns across lineages and birth orders. These relationships were examined using neuron-type-specific labels and developmental imaging. The resulting map was therefore assembled through organized growth trajectories, rather than every neuron extending an equivalent branch and acquiring its location only after odor experience.",
+      "The source recording follows the dendrites of a defined projection-neuron type. Their extension and redistribution occur within a developing tissue containing other cells and boundaries. The changing branch positions show how a cell establishes its receptive territory before the mature circuit processes the animal’s ongoing odor encounters."
+    ]
+  },
+  {
+    "title": "Glomeruli collect input from defined sensory populations",
+    "body": [
+      "A **glomerulus** is a region where olfactory sensory axons contact the dendrites of bulb neurons. In the mammalian system, sensory neurons expressing the same receptor type typically converge onto particular glomeruli. This arrangement gathers related receptor information at identifiable locations within the olfactory bulb.",
+      "Output neurons, including **mitral cells**, carry the processed information onward. Local inhibitory cells also shape activity, allowing one part of the bulb’s response to influence another. The bulb therefore performs neural processing rather than acting as a passive bundle carrying receptor signals without alteration.",
+      "The positions of activated glomeruli help describe an odor response, but perceived identity requires further processing. Concentration, timing, mixtures, and prior experience affect the signals reaching higher regions. A map of receptor input provides one stage in the transformation from a chemical encounter to odor recognition."
+    ]
+  },
+  {
+    "title": "Imaging tracks how dendritic branches explore tissue",
+    "body": [
+      "The fly developmental study used advanced time-lapse microscopy to resolve projection-neuron dendrites during early targeting. A branch can extend, retract, or change direction as the receptive territory develops. These events are difficult to reconstruct from a single fixed image of the final neuronal shape.",
+      "The recorded neuron is identified at an early pupal stage. Its branches move within the surrounding antennal-lobe tissue. The original sequence preserves the spatial relationships and the developmental timing, allowing the observed changes to be assigned to the same cell rather than to neighboring labeled neurons.",
+      "Dendritic growth is a cellular process involving changes in the neuron’s structure. It differs from the rapid electrical activity produced when a mature circuit receives an odor. Keeping those processes separate explains why a video of growing branches informs circuit development without directly measuring odor discrimination or preference."
+    ]
+  },
+  {
+    "title": "Olfactory pathways reach cortex and limbic regions",
+    "body": [
+      "Olfactory bulb output reaches regions including the **piriform cortex**, an important olfactory cortical area, and structures connected with emotion and memory. The initial route to primary olfactory cortex differs from sensory systems that require a thalamic relay before reaching their primary cortical target.",
+      "Later olfactory processing does involve thalamic and orbitofrontal connections. The **orbitofrontal cortex** receives information relevant to taste and smell, contributing to the evaluation of foods. Describing the early route as bypassing the thalamus therefore does not mean that the thalamus has no role anywhere in olfactory processing.",
+      "Connections with the amygdala, hypothalamus, and memory-related regions help odors influence approach, avoidance, and learned recognition. An odor associated with a meal can guide behavior differently from one associated with illness. The sensory input is interpreted within circuits that also carry information about prior outcomes and current bodily needs."
+    ]
+  },
+  {
+    "title": "Developing dendrites segregate into different territories",
+    "body": [
+      "Projection neurons in the fly antennal lobe eventually occupy distinct receptive territories. The developmental study followed selected populations as their dendrites became spatially organized. Genetic labeling allowed branches from an identified group to be distinguished from surrounding structures during this period of map formation.",
+      "The time-lapse sequences showed changing distributions rather than an immediately finished arrangement. Dendrites expanded and became segregated as development progressed. This provides a cellular account of how neighboring populations can form distinguishable input regions within the same developing olfactory-processing structure.",
+      "The experiment concerns the geometry of circuit assembly. It does not require the animal to learn the identity of a new odor during filming. Development establishes routes through which later sensory activity can travel, while experience-dependent changes in mature odor discrimination can be investigated with separate behavioral experiments."
+    ]
+  },
+  {
+    "title": "Training improves human odor-mixture discrimination",
+    "body": [
+      "A 2026 human study examined learning with **odor mixtures**, combinations of two odorants presented in different proportions. Participants practiced distinguishing the mixtures across repeated sessions. Their performance measured whether they could detect a difference between chemical patterns that initially produced similar sensory experiences.",
+      "Training produced durable improvements that could transfer between nostrils and generalize to other mixtures. The study compared these outcomes with learning involving other odor differences. Improvement was therefore assessed beyond repeated exposure to one exact stimulus delivered through one particular side of the nose.",
+      "The measured change concerns discrimination, not the growth of new receptor types identified directly in each participant. A person can become better at using existing sensory information through experience. Behavioral transfer tests help determine how narrowly or broadly that acquired skill applies across subsequent odor comparisons."
+    ]
+  },
+  {
+    "title": "Walking flies encounter intermittent odor packets",
+    "body": [
+      "Demir and colleagues recorded walking flies while visualizing an intermittent odor plume. Airflow does not always deliver a smooth gradient leading toward a source. Instead, a moving animal can encounter separated odor packets with periods of little or no detectable odor between them.",
+      "The investigators paired measurements of the plume with the fly’s trajectory. This allowed them to ask which movement changes followed a recent odor encounter. The source recording shows starved flies navigating in a smoke plume used as an experimentally visible olfactory stimulus.",
+      "The plume’s visible structure provides information about what is available to the animal at different moments. The fly’s path supplies the behavioral response. Recording both at once distinguishes a failure to encounter odor from a change in how the animal responds after an encounter actually occurs."
+    ]
+  },
+  {
+    "title": "Recent odor encounters bias the direction of a fly’s turn",
+    "body": [
+      "The navigation study found that the timing of odor encounters influenced the direction of subsequent turns. Flies were more likely to orient upwind in relation to recent encounters. The wind direction supplies spatial information that a brief chemical packet alone does not uniquely provide.",
+      "The measured effect concerned turn direction rather than a continuous adjustment of every movement feature. Turn rate and magnitude did not change in the same way. A sensory event can therefore alter the selection among discrete movement options without producing a proportional change in walking speed or turn size.",
+      "The recording with changing odor delivery shows flies moving while the plume is switched on and off. The experiment changes the availability of chemical information over time. Comparing encounter timing with later actions reveals how a temporally patchy stimulus can guide progress through an environment."
+    ]
+  },
+  {
+    "title": "Transfer tests measure the breadth of odor learning",
+    "body": [
+      "The human mixture-learning study tested performance beyond the exact conditions used during practice. Presenting stimuli through the other nostril examined whether the benefit depended on the trained sensory entry route. Using different mixtures examined whether learning extended beyond a single practiced pair of chemicals.",
+      "Improvement that transfers across these conditions indicates a broader change in discrimination than memorizing one repeated example. The study also examined concentration and structural differences between odorants. Those comparisons help separate learning about a particular physical stimulus from improvement in the processing used across related sensory decisions.",
+      "Training with differences in the concentration of individual odorants produced a different result. That learning was short-lived and did not show the transfer and generalization observed after mixture training. The attribute being practiced therefore affected how long the improvement persisted and which subsequent odor comparisons benefited."
+    ]
+  },
+  {
+    "title": "Growth and experience change different sensory processes",
+    "body": [
+      "Time-lapse imaging of fly projection neurons shows dendrites changing shape and position during circuit development. At the recorded pupal stage, branches are establishing the territory through which later inputs will reach them. The movie makes a structural change visible at the level of an identified neuron.",
+      "Human mixture training measures a different process: improved discrimination after repeated sensory decisions. The behavioral result concerns how an established system distinguishes chemical patterns. It cannot be substituted for a developmental movie, just as dendritic growth alone cannot establish that an animal has learned a particular odor.",
+      "The recorded fly dendrites are twelve hours past puparium formation, a defined developmental stage. They extend and retract within an emerging antennal lobe. By contrast, adult human mixture training improved later discrimination across nostrils and across novel mixtures, showing that an established sensory system can acquire a transferable perceptual skill."
+    ]
+  }
+]

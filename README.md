@@ -39,3 +39,9 @@ The latest Chapter 1 history-expanded revision is in [chapters/C01/history_revis
 ## Chapter 5
 
 [Reading and Rewriting the Brain: Tools of Discovery and Neuroengineering](chapters/C05/STATUS.md) expands the verified research-methods chapter into 86 slides, with newer measurement, targeting, analysis, and neural-interface methods. Download the [editable PPTX](https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C05/Reading_and_Rewriting_the_Brain_Chapter_5.pptx) or [static PDF](chapters/C05/Reading_and_Rewriting_the_Brain_Chapter_5_Static.pdf). All 252 teaching paragraphs pass the rendered 5–7-line check. The 40 embedded recordings are distributed ten per quarter, with six in the final ten teaching slides. Source figures, teaching transcripts, recording provenance, and validation accompany the files.
+
+## Chapter 7: body and chemical senses
+
+[Sensing the Body and the Chemical World: Balance, Touch, Pain, Taste, and Smell](chapters/C07/STATUS.md) is the instructor-authorized **75-slide nonauditory** Chapter 7 lecture. Audition and hearing are reserved for a separate future deck. It covers balance, touch, proprioception, temperature, itch, pain, taste, smell, and flavor, with 29 foundation slides, 44 research slides, and 40 embedded source recordings.
+
+Download the [editable PowerPoint](https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C07/Sensing_the_Body_and_the_Chemical_World_Chapter_7.pptx) or [static PDF preview](chapters/C07/Sensing_the_Body_and_the_Chemical_World_Chapter_7_Static.pdf). All 219 teaching paragraphs pass the rendered-line audit. The source index, original-media records, slide sequence, and validation accompany the files. Desktop PowerPoint playback remains untested.

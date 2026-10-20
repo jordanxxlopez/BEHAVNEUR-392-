@@ -66,9 +66,15 @@
     },
     {
       "n": 7,
-      "date": "Date TBD",
-      "title": "Chapter 7: TITLE PENDING TEXTBOOK VERIFICATION",
-      "verified": false
+      "date": "Fall 2026",
+      "title": "Sensing the Body and the Chemical World: Balance, Touch, Pain, Taste, and Smell",
+      "verified": true,
+      "book_chapter_title": "Audition, the Body Senses, and the Chemical Senses",
+      "display_title_authorized": true,
+      "display_title_authorization": "Instructor requested separate audition and body/chemical senses lectures; this is the 75-slide nonauditory lecture.",
+      "textbook_printed_pages": "210–234",
+      "book_scope_verified_from": "Reattached Part3of6, PDF pp. 38–62; Chapter 7 begins printed p.191, and Chapter 8 begins p.235. Audition pp.193–209 excluded.",
+      "auditory_lecture_status": "Reserved for a separate future deck; not built in this task."
     },
     {
       "n": 8,

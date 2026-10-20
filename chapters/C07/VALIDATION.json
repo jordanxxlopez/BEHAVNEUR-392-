@@ -1,0 +1,46 @@
+{
+  "slides": 75,
+  "content_slides": 73,
+  "audition_included": false,
+  "vestibular_included": true,
+  "foundation_slides": 29,
+  "research_slides": 44,
+  "primary_figure_slides": 44,
+  "embedded_distinct_mp4s": 40,
+  "academic_recordings": 20,
+  "visual_recordings": 20,
+  "recordings_per_content_quarter": [
+    10,
+    10,
+    10,
+    10
+  ],
+  "maximum_video_free_content_gap": 1,
+  "recordings_in_final_ten_content_slides": 6,
+  "paragraphs": 219,
+  "rendered_paragraphs_passing": 219,
+  "generic_failures": 0,
+  "course_failures": 0,
+  "full_recording_decodes_passed": 40,
+  "original_movie_bytes_retained": 40,
+  "converted_movies": 0,
+  "embedded_hashes_relationships_and_timing_verified": true,
+  "all_slides_visually_reviewed": true,
+  "source_figure_panels_reviewed": true,
+  "fonts": [
+    "Arial-BoldMT",
+    "ArialMT"
+  ],
+  "static_pdf_multimedia_annotations": 0,
+  "desktop_powerpoint_playback_tested": false,
+  "pptx": {
+    "filename": "Sensing_the_Body_and_the_Chemical_World_Chapter_7.pptx",
+    "bytes": 255360958,
+    "sha256": "97cc146d49d2d6030b2a0a6f81db972bf7f56dcfef42f9e00c348e626e32158a"
+  },
+  "static_pdf": {
+    "filename": "Sensing_the_Body_and_the_Chemical_World_Chapter_7_Static.pdf",
+    "bytes": 11037416,
+    "sha256": "08b68f4f9ea8423e1944cc3df18bc0a7988c39f444afdd077553acf7cd1d1738"
+  }
+}
