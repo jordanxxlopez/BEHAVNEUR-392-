@@ -155,15 +155,27 @@
     },
     {
       "n": 14,
-      "date": "Date TBD",
-      "title": "Chapter 14: TITLE PENDING TEXTBOOK VERIFICATION",
-      "verified": false
+      "date": "Fall 2026",
+      "title": "From Words to Meaning: The Neural Systems of Human Communication",
+      "verified": true,
+      "book_chapter": 14,
+      "book_chapter_title": "Human Communication",
+      "display_title_authorized": true,
+      "display_title_authorization": "Instructor requested separate Chapters 14 and 15, exactly 80 total slides each.",
+      "textbook_printed_pages": "456–490",
+      "book_scope_verified_from": "Uploaded Physiology of Behavior Part5of6, PDF pp.43–77"
     },
     {
       "n": 15,
-      "date": "Date TBD",
-      "title": "Chapter 15: TITLE PENDING TEXTBOOK VERIFICATION",
-      "verified": false
+      "date": "Fall 2026",
+      "title": "Building the Brain: Development, Experience, and Neurodiversity",
+      "verified": true,
+      "book_chapter": 15,
+      "book_chapter_title": "The Developing Nervous System",
+      "display_title_authorized": true,
+      "display_title_authorization": "Instructor requested separate Chapters 14 and 15, exactly 80 total slides each.",
+      "textbook_printed_pages": "491–511",
+      "book_scope_verified_from": "Uploaded Physiology of Behavior Part5of6, PDF pp.78–98"
     },
     {
       "n": 16,

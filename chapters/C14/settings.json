@@ -1,0 +1,37 @@
+{
+  "title": "From Words to Meaning: The Neural Systems of Human Communication",
+  "filename": "From_Words_to_Meaning_Human_Communication_Chapter_14.pptx",
+  "theme": "deep-ocean-steel-paper",
+  "kicker": "Speech, Language, Reading, Writing, and Restored Communication",
+  "booktitle": "Human Communication",
+  "pages": "456–490",
+  "pdfpages": "43–77",
+  "part": 5,
+  "image": "14.3",
+  "takeaways": [
+    [
+      "Language uses interacting distributed systems.",
+      "Sensory word analysis, conceptual knowledge, sentence organization, and motor output can change independently; hemispheric dominance does not make language a single-center function."
+    ],
+    [
+      "Speech responses depend on the operation being performed.",
+      "Direct recordings distinguish preparation, articulation, sensory feedback, and listening; activation in motor cortex alone does not identify an articulatory code."
+    ],
+    [
+      "Aphasia requires component-level assessment.",
+      "Compare comprehension, naming, repetition, grammar, reading, writing, and signed language to identify which transformations remain available."
+    ],
+    [
+      "Experience shapes language and literacy networks.",
+      "Early accessible language, linguistic rhythm, and writing-system experience influence neural representations; deafness and language deprivation are distinct conditions."
+    ],
+    [
+      "Reading and writing combine several routes.",
+      "Stored orthography, sound conversion, semantics, and motor sequence knowledge explain dissociations among acquired reading and spelling disorders."
+    ],
+    [
+      "Neuroprostheses bypass particular output limitations.",
+      "Speech, handwriting, and cursor decoders use preserved intentional signals; restoring a motor route differs from repairing lost word meanings or grammatical knowledge."
+    ]
+  ]
+}

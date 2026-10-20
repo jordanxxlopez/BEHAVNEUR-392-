@@ -1,0 +1,634 @@
+[
+  {
+    "content_index": 0,
+    "purpose": "aesthetic",
+    "paper": "USC-rtMRI-IPA-2015",
+    "original_url": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/rainbow.mp4",
+    "credit": "USC Speech Production and Articulation kNowledge (SPAN) group; speaker John Esling",
+    "full_reference": "USC SPAN (2015). The rtMRI IPA chart: John Esling. https://sail.usc.edu/span/rtmri_ipa/je_2015.html",
+    "doi": "",
+    "source_legend": "Original laboratory real-time MRI recording: When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. The rainbow is a division of white light into many beautiful colors. These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. There is, according to legend, a boiling pot of gold at one end. People look, but no one ever finds it. When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow.. Data collected June 2015; source describes 83 frames/s acquisition and 2.4 mm pixels. The embedded movie retains the published playback timing and audio. This recording depicts vocal-tract movement, not a measure of the adjacent study’s semantic or clinical response.",
+    "license": {
+      "license": "Laboratory website copyright; attribution retained; no additional license inferred."
+    },
+    "movie_identifier": "rainbow",
+    "caption": "USC SPAN / Esling (2015), rtMRI: rainbow."
+  },
+  {
+    "content_index": 2,
+    "purpose": "aesthetic",
+    "paper": "USC-rtMRI-IPA-2015",
+    "original_url": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/grandfather.mp4",
+    "credit": "USC Speech Production and Articulation kNowledge (SPAN) group; speaker John Esling",
+    "full_reference": "USC SPAN (2015). The rtMRI IPA chart: John Esling. https://sail.usc.edu/span/rtmri_ipa/je_2015.html",
+    "doi": "",
+    "source_legend": "Original laboratory real-time MRI recording: You wish to know all about my grandfather. Well, he is nearly 93 years old, yet he still thinks as swiftly as ever. He dresses himself in an old black frock coat, usually several buttons missing. A long beard clings to his chin, giving those who observe him a pronounced feeling of the utmost respect. When he speaks, his voice is just a bit cracked and quivers a bit. Twice each day he plays skillfully and with zest upon a small organ.  Except in the winter when the snow or ice prevents, he slowly takes a short walk in the open air each day. We have often urged him to walk more and smoke less, but he always answers, 'Banana oil!' Grandfather likes to be modern in his language.. Data collected June 2015; source describes 83 frames/s acquisition and 2.4 mm pixels. The embedded movie retains the published playback timing and audio. This recording depicts vocal-tract movement, not a measure of the adjacent study’s semantic or clinical response.",
+    "license": {
+      "license": "Laboratory website copyright; attribution retained; no additional license inferred."
+    },
+    "movie_identifier": "grandfather",
+    "caption": "USC SPAN / Esling (2015), rtMRI: grandfather."
+  },
+  {
+    "content_index": 4,
+    "purpose": "aesthetic",
+    "paper": "USC-rtMRI-IPA-2015",
+    "original_url": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/your_good_pants.mp4",
+    "credit": "USC Speech Production and Articulation kNowledge (SPAN) group; speaker John Esling",
+    "full_reference": "USC SPAN (2015). The rtMRI IPA chart: John Esling. https://sail.usc.edu/span/rtmri_ipa/je_2015.html",
+    "doi": "",
+    "source_legend": "Original laboratory real-time MRI recording: Your good pants look great! However, your ripped pants look like a cheap version of a K-mart special. Is that an oil stain on them?. Data collected June 2015; source describes 83 frames/s acquisition and 2.4 mm pixels. The embedded movie retains the published playback timing and audio. This recording depicts vocal-tract movement, not a measure of the adjacent study’s semantic or clinical response.",
+    "license": {
+      "license": "Laboratory website copyright; attribution retained; no additional license inferred."
+    },
+    "movie_identifier": "your_good_pants",
+    "caption": "USC SPAN / Esling (2015), rtMRI: your good pants."
+  },
+  {
+    "content_index": 6,
+    "purpose": "aesthetic",
+    "paper": "USC-rtMRI-IPA-2015",
+    "original_url": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/the_girl_was_thirsty.mp4",
+    "credit": "USC Speech Production and Articulation kNowledge (SPAN) group; speaker John Esling",
+    "full_reference": "USC SPAN (2015). The rtMRI IPA chart: John Esling. https://sail.usc.edu/span/rtmri_ipa/je_2015.html",
+    "doi": "",
+    "source_legend": "Original laboratory real-time MRI recording: The girl was thirsty and drank some juice, followed by a coke.. Data collected June 2015; source describes 83 frames/s acquisition and 2.4 mm pixels. The embedded movie retains the published playback timing and audio. This recording depicts vocal-tract movement, not a measure of the adjacent study’s semantic or clinical response.",
+    "license": {
+      "license": "Laboratory website copyright; attribution retained; no additional license inferred."
+    },
+    "movie_identifier": "the_girl_was_thirsty",
+    "caption": "USC SPAN / Esling (2015), rtMRI: the girl was thirsty."
+  },
+  {
+    "content_index": 8,
+    "purpose": "academic",
+    "paper": "USC-rtMRI-IPA-2015",
+    "original_url": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/bilabial_plosive_voiceless.mp4",
+    "credit": "USC Speech Production and Articulation kNowledge (SPAN) group; speaker John Esling",
+    "full_reference": "USC SPAN (2015). The rtMRI IPA chart: John Esling. https://sail.usc.edu/span/rtmri_ipa/je_2015.html",
+    "doi": "",
+    "source_legend": "Original laboratory real-time MRI recording: voiceless bilabial plosive. Data collected June 2015; source describes 83 frames/s acquisition and 2.4 mm pixels. The embedded movie retains the published playback timing and audio. This recording depicts vocal-tract movement, not a measure of the adjacent study’s semantic or clinical response.",
+    "license": {
+      "license": "Laboratory website copyright; attribution retained; no additional license inferred."
+    },
+    "movie_identifier": "bilabial_plosive_voiceless",
+    "caption": "USC SPAN / Esling (2015), rtMRI: bilabial plosive voiceless."
+  },
+  {
+    "paper": "46015",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/46015/elife-46015-video1.mp4",
+    "credit": "Sergey D Stavisky; Francis R Willett; Guy H Wilson; Brian A Murphy; Paymon Rezaii; Donald T Avansino; William D Memberg; Jonathan P Miller; Robert F Kirsch; Leigh R Hochberg; A Bolu Ajiboye; Shaul Druckmann; Krishna V Shenoy; Jaimie M Henderson",
+    "full_reference": "Sergey D Stavisky; Francis R Willett; Guy H Wilson; Brian A Murphy; Paymon Rezaii; Donald T Avansino; William D Memberg; Jonathan P Miller; Robert F Kirsch; Leigh R Hochberg; A Bolu Ajiboye; Shaul Druckmann; Krishna V Shenoy; Jaimie M Henderson (2019). Neural ensemble dynamics in dorsal motor cortex during speech in people with paralysis. https://doi.org/10.7554/eLife.46015",
+    "doi": "10.7554/eLife.46015",
+    "source_legend": "Video 1. Example audio and neural data from eleven contiguous trials of the prompted syllables speaking task. The audio track was recorded during the task and digitized alongside the neural data; it starts with the two beeps indicating trial start, after which the syllable prompt was played from computer speakers, followed by the go cue clicks, and finally the participant speaking the syllable. The video shows the concurrent −4.5 × RMS threshold crossing spikes rate on each electrode. Each circle corresponds to one electrode, with their spatial layout corresponding to electrodes’ locations in motor cortex as in the  Figure 1B  inset. Each electrode’s moment-by-moment color and size represent its firing rate (soft-normalized with a 10 Hz offset, smoothed with a 50 ms s.d. Gaussian kernel). The color map goes from pink (minimum rate across electrodes) to yellow (maximum rate), while size varies from small (minimum rate) to large (maximum rate). Non-functioning electrodes are shown as small gray dots. To assist the viewer in perceiving the gestalt of the population activity, a larger central disk shows the mean firing rate across all functioning electrodes, without soft-normalization. Data are from the T5-syllables dataset, trial set #23.",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    },
+    "movie_identifier": "video1",
+    "caption": "Stavisky et al. (2019), Video 1.",
+    "content_index": 10
+  },
+  {
+    "paper": "53086",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/53086/elife-53086-video1.mp4",
+    "credit": "Oscar Woolnough; Kiefer James Forseth; Patrick Sarahan Rollo; Nitin Tandon",
+    "full_reference": "Oscar Woolnough; Kiefer James Forseth; Patrick Sarahan Rollo; Nitin Tandon (2019). Uncovering the functional anatomy of the human insula during speech. https://doi.org/10.7554/eLife.53086",
+    "doi": "10.7554/eLife.53086",
+    "source_legend": "Video 1. MEMA video of left hemispheric activity during the reading task. MEMA was run on short, overlapping time windows (150 ms width, 10 ms spacing). Regions are shown for clusters with significant activity (p<0.01, uncorrected), absolute BGA change of >15% and coverage of at least three patients. Regions excluded for lack of patient coverage are shown in black.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Woolnough et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video1",
+    "caption": "Woolnough et al. (2019), Video 1.",
+    "content_index": 12
+  },
+  {
+    "content_index": 14,
+    "purpose": "academic",
+    "paper": "USC-rtMRI-IPA-2015",
+    "original_url": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/alveolar_plosive_voiceless.mp4",
+    "credit": "USC Speech Production and Articulation kNowledge (SPAN) group; speaker John Esling",
+    "full_reference": "USC SPAN (2015). The rtMRI IPA chart: John Esling. https://sail.usc.edu/span/rtmri_ipa/je_2015.html",
+    "doi": "",
+    "source_legend": "Original laboratory real-time MRI recording: voiceless alveolar plosive. Data collected June 2015; source describes 83 frames/s acquisition and 2.4 mm pixels. The embedded movie retains the published playback timing and audio. This recording depicts vocal-tract movement, not a measure of the adjacent study’s semantic or clinical response.",
+    "license": {
+      "license": "Laboratory website copyright; attribution retained; no additional license inferred."
+    },
+    "movie_identifier": "alveolar_plosive_voiceless",
+    "caption": "USC SPAN / Esling (2015), rtMRI: alveolar plosive voiceless."
+  },
+  {
+    "content_index": 16,
+    "purpose": "academic",
+    "paper": "USC-rtMRI-IPA-2015",
+    "original_url": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/velar_plosive_voiceless.mp4",
+    "credit": "USC Speech Production and Articulation kNowledge (SPAN) group; speaker John Esling",
+    "full_reference": "USC SPAN (2015). The rtMRI IPA chart: John Esling. https://sail.usc.edu/span/rtmri_ipa/je_2015.html",
+    "doi": "",
+    "source_legend": "Original laboratory real-time MRI recording: voiceless velar plosive. Data collected June 2015; source describes 83 frames/s acquisition and 2.4 mm pixels. The embedded movie retains the published playback timing and audio. This recording depicts vocal-tract movement, not a measure of the adjacent study’s semantic or clinical response.",
+    "license": {
+      "license": "Laboratory website copyright; attribution retained; no additional license inferred."
+    },
+    "movie_identifier": "velar_plosive_voiceless",
+    "caption": "USC SPAN / Esling (2015), rtMRI: velar plosive voiceless."
+  },
+  {
+    "content_index": 19,
+    "purpose": "aesthetic",
+    "paper": "USC-rtMRI-IPA-2015",
+    "original_url": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/she_had_your_dark_suit.mp4",
+    "credit": "USC Speech Production and Articulation kNowledge (SPAN) group; speaker John Esling",
+    "full_reference": "USC SPAN (2015). The rtMRI IPA chart: John Esling. https://sail.usc.edu/span/rtmri_ipa/je_2015.html",
+    "doi": "",
+    "source_legend": "Original laboratory real-time MRI recording: She had your dark suit in greasy wash water all year.. Data collected June 2015; source describes 83 frames/s acquisition and 2.4 mm pixels. The embedded movie retains the published playback timing and audio. This recording depicts vocal-tract movement, not a measure of the adjacent study’s semantic or clinical response.",
+    "license": {
+      "license": "Laboratory website copyright; attribution retained; no additional license inferred."
+    },
+    "movie_identifier": "she_had_your_dark_suit",
+    "caption": "USC SPAN / Esling (2015), rtMRI: she had your dark suit."
+  },
+  {
+    "content_index": 20,
+    "purpose": "aesthetic",
+    "paper": "USC-rtMRI-IPA-2015",
+    "original_url": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/dont_ask_me_to_carry.mp4",
+    "credit": "USC Speech Production and Articulation kNowledge (SPAN) group; speaker John Esling",
+    "full_reference": "USC SPAN (2015). The rtMRI IPA chart: John Esling. https://sail.usc.edu/span/rtmri_ipa/je_2015.html",
+    "doi": "",
+    "source_legend": "Original laboratory real-time MRI recording: Donât ask me to carry an oily rag like that.. Data collected June 2015; source describes 83 frames/s acquisition and 2.4 mm pixels. The embedded movie retains the published playback timing and audio. This recording depicts vocal-tract movement, not a measure of the adjacent study’s semantic or clinical response.",
+    "license": {
+      "license": "Laboratory website copyright; attribution retained; no additional license inferred."
+    },
+    "movie_identifier": "dont_ask_me_to_carry",
+    "caption": "USC SPAN / Esling (2015), rtMRI: dont ask me to carry."
+  },
+  {
+    "content_index": 22,
+    "purpose": "aesthetic",
+    "paper": "USC-rtMRI-IPA-2015",
+    "original_url": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/glottal_plosive.mp4",
+    "credit": "USC Speech Production and Articulation kNowledge (SPAN) group; speaker John Esling",
+    "full_reference": "USC SPAN (2015). The rtMRI IPA chart: John Esling. https://sail.usc.edu/span/rtmri_ipa/je_2015.html",
+    "doi": "",
+    "source_legend": "Original laboratory real-time MRI recording: glottal plosive. Data collected June 2015; source describes 83 frames/s acquisition and 2.4 mm pixels. The embedded movie retains the published playback timing and audio. This recording depicts vocal-tract movement, not a measure of the adjacent study’s semantic or clinical response.",
+    "license": {
+      "license": "Laboratory website copyright; attribution retained; no additional license inferred."
+    },
+    "movie_identifier": "glottal_plosive",
+    "caption": "USC SPAN / Esling (2015), rtMRI: glottal plosive."
+  },
+  {
+    "content_index": 24,
+    "purpose": "aesthetic",
+    "paper": "USC-rtMRI-IPA-2015",
+    "original_url": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/heed.mp4",
+    "credit": "USC Speech Production and Articulation kNowledge (SPAN) group; speaker John Esling",
+    "full_reference": "USC SPAN (2015). The rtMRI IPA chart: John Esling. https://sail.usc.edu/span/rtmri_ipa/je_2015.html",
+    "doi": "",
+    "source_legend": "Original laboratory real-time MRI recording: heed. Data collected June 2015; source describes 83 frames/s acquisition and 2.4 mm pixels. The embedded movie retains the published playback timing and audio. This recording depicts vocal-tract movement, not a measure of the adjacent study’s semantic or clinical response.",
+    "license": {
+      "license": "Laboratory website copyright; attribution retained; no additional license inferred."
+    },
+    "movie_identifier": "heed",
+    "caption": "USC SPAN / Esling (2015), rtMRI: heed."
+  },
+  {
+    "content_index": 26,
+    "purpose": "aesthetic",
+    "paper": "USC-rtMRI-IPA-2015",
+    "original_url": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/hood.mp4",
+    "credit": "USC Speech Production and Articulation kNowledge (SPAN) group; speaker John Esling",
+    "full_reference": "USC SPAN (2015). The rtMRI IPA chart: John Esling. https://sail.usc.edu/span/rtmri_ipa/je_2015.html",
+    "doi": "",
+    "source_legend": "Original laboratory real-time MRI recording: hood. Data collected June 2015; source describes 83 frames/s acquisition and 2.4 mm pixels. The embedded movie retains the published playback timing and audio. This recording depicts vocal-tract movement, not a measure of the adjacent study’s semantic or clinical response.",
+    "license": {
+      "license": "Laboratory website copyright; attribution retained; no additional license inferred."
+    },
+    "movie_identifier": "hood",
+    "caption": "USC SPAN / Esling (2015), rtMRI: hood."
+  },
+  {
+    "content_index": 28,
+    "purpose": "aesthetic",
+    "paper": "USC-rtMRI-IPA-2015",
+    "original_url": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/head.mp4",
+    "credit": "USC Speech Production and Articulation kNowledge (SPAN) group; speaker John Esling",
+    "full_reference": "USC SPAN (2015). The rtMRI IPA chart: John Esling. https://sail.usc.edu/span/rtmri_ipa/je_2015.html",
+    "doi": "",
+    "source_legend": "Original laboratory real-time MRI recording: head. Data collected June 2015; source describes 83 frames/s acquisition and 2.4 mm pixels. The embedded movie retains the published playback timing and audio. This recording depicts vocal-tract movement, not a measure of the adjacent study’s semantic or clinical response.",
+    "license": {
+      "license": "Laboratory website copyright; attribution retained; no additional license inferred."
+    },
+    "movie_identifier": "head",
+    "caption": "USC SPAN / Esling (2015), rtMRI: head."
+  },
+  {
+    "content_index": 30,
+    "purpose": "aesthetic",
+    "paper": "USC-rtMRI-IPA-2015",
+    "original_url": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/had.mp4",
+    "credit": "USC Speech Production and Articulation kNowledge (SPAN) group; speaker John Esling",
+    "full_reference": "USC SPAN (2015). The rtMRI IPA chart: John Esling. https://sail.usc.edu/span/rtmri_ipa/je_2015.html",
+    "doi": "",
+    "source_legend": "Original laboratory real-time MRI recording: had. Data collected June 2015; source describes 83 frames/s acquisition and 2.4 mm pixels. The embedded movie retains the published playback timing and audio. This recording depicts vocal-tract movement, not a measure of the adjacent study’s semantic or clinical response.",
+    "license": {
+      "license": "Laboratory website copyright; attribution retained; no additional license inferred."
+    },
+    "movie_identifier": "had",
+    "caption": "USC SPAN / Esling (2015), rtMRI: had."
+  },
+  {
+    "paper": "46015",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/46015/elife-46015-video2.mp4",
+    "credit": "Sergey D Stavisky; Francis R Willett; Guy H Wilson; Brian A Murphy; Paymon Rezaii; Donald T Avansino; William D Memberg; Jonathan P Miller; Robert F Kirsch; Leigh R Hochberg; A Bolu Ajiboye; Shaul Druckmann; Krishna V Shenoy; Jaimie M Henderson",
+    "full_reference": "Sergey D Stavisky; Francis R Willett; Guy H Wilson; Brian A Murphy; Paymon Rezaii; Donald T Avansino; William D Memberg; Jonathan P Miller; Robert F Kirsch; Leigh R Hochberg; A Bolu Ajiboye; Shaul Druckmann; Krishna V Shenoy; Jaimie M Henderson (2019). Neural ensemble dynamics in dorsal motor cortex during speech in people with paralysis. https://doi.org/10.7554/eLife.46015",
+    "doi": "10.7554/eLife.46015",
+    "source_legend": "Video 2. The progression of neural population activity during the prompted words task is summarized with dimensionality reduction chosen to highlight the condition-invariant ‘kick’ after the go cue, followed by rotatory population dynamics. T5-words dataset neural state space trajectories are shown from 2.5 s before go cue to 2.0 s after go. Each trajectory corresponds to one word condition’s trial-averaged firing rates, aligned to the go cue. The neural states are projected into a three-dimensional space consisting of the CIS 1  dimension (as in  Figure 4 ) and the first two jPC dimensions (similar to  Figure 5 , except that for this visualization we enforced that the jPC plane be orthogonal to the CIS 1 ; see Materials and methods). The trajectories change color based on the task epoch: gray is before the audio prompt, blue is after the prompt, and then red-to-green is after the go cue, with conditions ordered as in  Figure 5 .",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    },
+    "movie_identifier": "video2",
+    "caption": "Stavisky et al. (2019), Video 2.",
+    "content_index": 32
+  },
+  {
+    "paper": "46015",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/46015/elife-46015-video3.mp4",
+    "credit": "Sergey D Stavisky; Francis R Willett; Guy H Wilson; Brian A Murphy; Paymon Rezaii; Donald T Avansino; William D Memberg; Jonathan P Miller; Robert F Kirsch; Leigh R Hochberg; A Bolu Ajiboye; Shaul Druckmann; Krishna V Shenoy; Jaimie M Henderson",
+    "full_reference": "Sergey D Stavisky; Francis R Willett; Guy H Wilson; Brian A Murphy; Paymon Rezaii; Donald T Avansino; William D Memberg; Jonathan P Miller; Robert F Kirsch; Leigh R Hochberg; A Bolu Ajiboye; Shaul Druckmann; Krishna V Shenoy; Jaimie M Henderson (2019). Neural ensemble dynamics in dorsal motor cortex during speech in people with paralysis. https://doi.org/10.7554/eLife.46015",
+    "doi": "10.7554/eLife.46015",
+    "source_legend": "Video 3. The same neural trajectories as  Video 2 , but aligned to acoustic on (AO), are shown from 3.5 s before AO to 1.0 s after AO.",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    },
+    "movie_identifier": "video3",
+    "caption": "Stavisky et al. (2019), Video 3.",
+    "content_index": 34
+  },
+  {
+    "title": "Speech synthesis from neural decoding of spoken sentences",
+    "first": "Anumanchipalli",
+    "year": "2019",
+    "doi": "10.1038/s41586-019-1119-1",
+    "license": {
+      "license": "Original publisher attribution retained; see original article license."
+    },
+    "paper": "synthesis",
+    "original_url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-019-1119-1/MediaObjects/41586_2019_1119_MOESM3_ESM.mp4",
+    "source_legend": "Supplemental Video 1: Examples of decoded kinematics and synthesized speech production (download MP4  ) The video presents examples of synthesized audio from neural recordings of spoken sentences. In each example, electrode activity corresponding to a sentence is displayed (top). Next, simultaneous decoding of kinematics and acoustics are visually and audible presented. Decoded articulatory movements are displayed (middle left) as the synthesized speech spectrogram unfolds. Following the decoding, the original audio, as spoken by the patient during neural recording, is played. Lastly, the decoded movements and synthesized speech is once again presented. This format is repeated for a total of five examples (from participants P1 and P2). On the last example, kinematics and audio are also decoded and synthesized for silently mimed speech.",
+    "movie_identifier": "Video 1",
+    "content_index": 36,
+    "purpose": "academic",
+    "credit": "Anumanchipalli, Gopala K.; Chartier, Josh; Chang, Edward F.",
+    "full_reference": "Anumanchipalli, Gopala K.; Chartier, Josh; Chang, Edward F. (2019). Speech synthesis from neural decoding of spoken sentences. https://doi.org/10.1038/s41586-019-1119-1",
+    "caption": "Anumanchipalli et al. (2019), Video 1."
+  },
+  {
+    "paper": "18554",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/18554/elife-18554-media1.mp4",
+    "credit": "Chethan Pandarinath; Paul Nuyujukian; Christine H Blabe; Brittany L Sorice; Jad Saab; Francis R Willett; Leigh R Hochberg; Krishna V Shenoy; Jaimie M Henderson",
+    "full_reference": "Chethan Pandarinath; Paul Nuyujukian; Christine H Blabe; Brittany L Sorice; Jad Saab; Francis R Willett; Leigh R Hochberg; Krishna V Shenoy; Jaimie M Henderson (2017). High performance communication by people with paralysis using an intracortical brain-computer interface. https://doi.org/10.7554/eLife.18554",
+    "doi": "10.7554/eLife.18554",
+    "source_legend": "10.7554/eLife.18554.007 Video 1. Example of participant T6’s free-paced, free choice typing using the OPTI-II keyboard. T6 was prompted with questions and asked to formulate an answer de novo. Once presented with a question, she was able to think about her answer, move the cursor and click on the play button to enable the keyboard (bottom right corner), and then type her response. In this example, the participant typed 255 characters in ~9 min, at just over 27 correct characters per minute. One of two audible ‘beeps’ followed a target selection, corresponding to the two possible selection methods: T6 could select targets using either the Hidden Markov Model-based ‘click’ selection (high-pitched noises) or by ‘dwelling’ in the target region for 1 s (low-pitched noises). The plot at the bottom of the video tracks the typing performance (correct characters per minute) with respect to time in the block. Performance was smoothed using a 30 s symmetric Hamming window. The scrolling yellow bar indicates the current time of that frame. During the free typing task, T6 was asked to suppress her hand movements as best as possible. (During the quantitative performance evaluations, T6 was free to make movements as she wished.) This video is from participant T6, Day 621, Block 17. Additional ‘free typing’ examples for T6 are detailed in  Figure 1—figure supplements 1  and  2 . DOI:   http://dx.doi.org/10.7554/eLife.18554.007",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    },
+    "movie_identifier": "media1",
+    "caption": "Pandarinath et al. (2017), media1.",
+    "content_index": 38
+  },
+  {
+    "content_index": 40,
+    "purpose": "aesthetic",
+    "paper": "USC-rtMRI-IPA-2015",
+    "original_url": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/hid.mp4",
+    "credit": "USC Speech Production and Articulation kNowledge (SPAN) group; speaker John Esling",
+    "full_reference": "USC SPAN (2015). The rtMRI IPA chart: John Esling. https://sail.usc.edu/span/rtmri_ipa/je_2015.html",
+    "doi": "",
+    "source_legend": "Original laboratory real-time MRI recording: hid. Data collected June 2015; source describes 83 frames/s acquisition and 2.4 mm pixels. The embedded movie retains the published playback timing and audio. This recording depicts vocal-tract movement, not a measure of the adjacent study’s semantic or clinical response.",
+    "license": {
+      "license": "Laboratory website copyright; attribution retained; no additional license inferred."
+    },
+    "movie_identifier": "hid",
+    "caption": "USC SPAN / Esling (2015), rtMRI: hid."
+  },
+  {
+    "content_index": 42,
+    "purpose": "aesthetic",
+    "paper": "USC-rtMRI-IPA-2015",
+    "original_url": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/hayed.mp4",
+    "credit": "USC Speech Production and Articulation kNowledge (SPAN) group; speaker John Esling",
+    "full_reference": "USC SPAN (2015). The rtMRI IPA chart: John Esling. https://sail.usc.edu/span/rtmri_ipa/je_2015.html",
+    "doi": "",
+    "source_legend": "Original laboratory real-time MRI recording: hayed. Data collected June 2015; source describes 83 frames/s acquisition and 2.4 mm pixels. The embedded movie retains the published playback timing and audio. This recording depicts vocal-tract movement, not a measure of the adjacent study’s semantic or clinical response.",
+    "license": {
+      "license": "Laboratory website copyright; attribution retained; no additional license inferred."
+    },
+    "movie_identifier": "hayed",
+    "caption": "USC SPAN / Esling (2015), rtMRI: hayed."
+  },
+  {
+    "content_index": 44,
+    "purpose": "aesthetic",
+    "paper": "USC-rtMRI-IPA-2015",
+    "original_url": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/bead.mp4",
+    "credit": "USC Speech Production and Articulation kNowledge (SPAN) group; speaker John Esling",
+    "full_reference": "USC SPAN (2015). The rtMRI IPA chart: John Esling. https://sail.usc.edu/span/rtmri_ipa/je_2015.html",
+    "doi": "",
+    "source_legend": "Original laboratory real-time MRI recording: heed. Data collected June 2015; source describes 83 frames/s acquisition and 2.4 mm pixels. The embedded movie retains the published playback timing and audio. This recording depicts vocal-tract movement, not a measure of the adjacent study’s semantic or clinical response.",
+    "license": {
+      "license": "Laboratory website copyright; attribution retained; no additional license inferred."
+    },
+    "movie_identifier": "bead",
+    "caption": "USC SPAN / Esling (2015), rtMRI: bead."
+  },
+  {
+    "content_index": 46,
+    "purpose": "aesthetic",
+    "paper": "USC-rtMRI-IPA-2015",
+    "original_url": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/bid.mp4",
+    "credit": "USC Speech Production and Articulation kNowledge (SPAN) group; speaker John Esling",
+    "full_reference": "USC SPAN (2015). The rtMRI IPA chart: John Esling. https://sail.usc.edu/span/rtmri_ipa/je_2015.html",
+    "doi": "",
+    "source_legend": "Original laboratory real-time MRI recording: bid. Data collected June 2015; source describes 83 frames/s acquisition and 2.4 mm pixels. The embedded movie retains the published playback timing and audio. This recording depicts vocal-tract movement, not a measure of the adjacent study’s semantic or clinical response.",
+    "license": {
+      "license": "Laboratory website copyright; attribution retained; no additional license inferred."
+    },
+    "movie_identifier": "bid",
+    "caption": "USC SPAN / Esling (2015), rtMRI: bid."
+  },
+  {
+    "content_index": 48,
+    "purpose": "aesthetic",
+    "paper": "USC-rtMRI-IPA-2015",
+    "original_url": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/bayed.mp4",
+    "credit": "USC Speech Production and Articulation kNowledge (SPAN) group; speaker John Esling",
+    "full_reference": "USC SPAN (2015). The rtMRI IPA chart: John Esling. https://sail.usc.edu/span/rtmri_ipa/je_2015.html",
+    "doi": "",
+    "source_legend": "Original laboratory real-time MRI recording: bayed. Data collected June 2015; source describes 83 frames/s acquisition and 2.4 mm pixels. The embedded movie retains the published playback timing and audio. This recording depicts vocal-tract movement, not a measure of the adjacent study’s semantic or clinical response.",
+    "license": {
+      "license": "Laboratory website copyright; attribution retained; no additional license inferred."
+    },
+    "movie_identifier": "bayed",
+    "caption": "USC SPAN / Esling (2015), rtMRI: bayed."
+  },
+  {
+    "content_index": 50,
+    "purpose": "aesthetic",
+    "paper": "USC-rtMRI-IPA-2015",
+    "original_url": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/bed.mp4",
+    "credit": "USC Speech Production and Articulation kNowledge (SPAN) group; speaker John Esling",
+    "full_reference": "USC SPAN (2015). The rtMRI IPA chart: John Esling. https://sail.usc.edu/span/rtmri_ipa/je_2015.html",
+    "doi": "",
+    "source_legend": "Original laboratory real-time MRI recording: bed. Data collected June 2015; source describes 83 frames/s acquisition and 2.4 mm pixels. The embedded movie retains the published playback timing and audio. This recording depicts vocal-tract movement, not a measure of the adjacent study’s semantic or clinical response.",
+    "license": {
+      "license": "Laboratory website copyright; attribution retained; no additional license inferred."
+    },
+    "movie_identifier": "bed",
+    "caption": "USC SPAN / Esling (2015), rtMRI: bed."
+  },
+  {
+    "content_index": 52,
+    "purpose": "aesthetic",
+    "paper": "USC-rtMRI-IPA-2015",
+    "original_url": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/bad.mp4",
+    "credit": "USC Speech Production and Articulation kNowledge (SPAN) group; speaker John Esling",
+    "full_reference": "USC SPAN (2015). The rtMRI IPA chart: John Esling. https://sail.usc.edu/span/rtmri_ipa/je_2015.html",
+    "doi": "",
+    "source_legend": "Original laboratory real-time MRI recording: bad. Data collected June 2015; source describes 83 frames/s acquisition and 2.4 mm pixels. The embedded movie retains the published playback timing and audio. This recording depicts vocal-tract movement, not a measure of the adjacent study’s semantic or clinical response.",
+    "license": {
+      "license": "Laboratory website copyright; attribution retained; no additional license inferred."
+    },
+    "movie_identifier": "bad",
+    "caption": "USC SPAN / Esling (2015), rtMRI: bad."
+  },
+  {
+    "content_index": 54,
+    "purpose": "aesthetic",
+    "paper": "USC-rtMRI-IPA-2015",
+    "original_url": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/bod.mp4",
+    "credit": "USC Speech Production and Articulation kNowledge (SPAN) group; speaker John Esling",
+    "full_reference": "USC SPAN (2015). The rtMRI IPA chart: John Esling. https://sail.usc.edu/span/rtmri_ipa/je_2015.html",
+    "doi": "",
+    "source_legend": "Original laboratory real-time MRI recording: bod. Data collected June 2015; source describes 83 frames/s acquisition and 2.4 mm pixels. The embedded movie retains the published playback timing and audio. This recording depicts vocal-tract movement, not a measure of the adjacent study’s semantic or clinical response.",
+    "license": {
+      "license": "Laboratory website copyright; attribution retained; no additional license inferred."
+    },
+    "movie_identifier": "bod",
+    "caption": "USC SPAN / Esling (2015), rtMRI: bod."
+  },
+  {
+    "content_index": 56,
+    "purpose": "aesthetic",
+    "paper": "USC-rtMRI-IPA-2015",
+    "original_url": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/bawed.mp4",
+    "credit": "USC Speech Production and Articulation kNowledge (SPAN) group; speaker John Esling",
+    "full_reference": "USC SPAN (2015). The rtMRI IPA chart: John Esling. https://sail.usc.edu/span/rtmri_ipa/je_2015.html",
+    "doi": "",
+    "source_legend": "Original laboratory real-time MRI recording: bawed. Data collected June 2015; source describes 83 frames/s acquisition and 2.4 mm pixels. The embedded movie retains the published playback timing and audio. This recording depicts vocal-tract movement, not a measure of the adjacent study’s semantic or clinical response.",
+    "license": {
+      "license": "Laboratory website copyright; attribution retained; no additional license inferred."
+    },
+    "movie_identifier": "bawed",
+    "caption": "USC SPAN / Esling (2015), rtMRI: bawed."
+  },
+  {
+    "title": "High-performance brain-to-text communication via handwriting",
+    "first": "Willett",
+    "year": "2021",
+    "doi": "10.1038/s41586-021-03506-2",
+    "license": {
+      "license": "Original publisher attribution retained; see original article license."
+    },
+    "paper": "hand",
+    "original_url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-021-03506-2/MediaObjects/41586_2021_3506_MOESM4_ESM.mp4",
+    "source_legend": "Video 1 (download MP4  ) : Copying sentences in real-time with the handwriting brain-computer interface. In this video, participant T5 copies sentences displayed on a computer monitor with the handwriting-brain computer interface. When the red square on the monitor turns green, this cues T5 to begin copying the sentence.",
+    "movie_identifier": "Video 1",
+    "content_index": 58,
+    "purpose": "academic",
+    "credit": "Willett, Francis R.; Avansino, Donald T.; Hochberg, Leigh R.; Henderson, Jaimie M.; Shenoy, Krishna V.",
+    "full_reference": "Willett, Francis R.; Avansino, Donald T.; Hochberg, Leigh R.; Henderson, Jaimie M.; Shenoy, Krishna V. (2021). High-performance brain-to-text communication via handwriting. https://doi.org/10.1038/s41586-021-03506-2",
+    "caption": "Willett et al. (2021), Video 1."
+  },
+  {
+    "title": "High-performance brain-to-text communication via handwriting",
+    "first": "Willett",
+    "year": "2021",
+    "doi": "10.1038/s41586-021-03506-2",
+    "license": {
+      "license": "Original publisher attribution retained; see original article license."
+    },
+    "paper": "hand",
+    "original_url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-021-03506-2/MediaObjects/41586_2021_3506_MOESM5_ESM.mp4",
+    "source_legend": "Video 2 (download MP4  ) : Hand micromotion while using the handwriting brain-computer interface. Participant T5 is paralyzed from the neck down (C4 ASIA C spinal cord injury) and only generates small micromotions of the hand when attempting to handwrite. T5 retains no useful hand function.",
+    "movie_identifier": "Video 2",
+    "content_index": 60,
+    "purpose": "academic",
+    "credit": "Willett, Francis R.; Avansino, Donald T.; Hochberg, Leigh R.; Henderson, Jaimie M.; Shenoy, Krishna V.",
+    "full_reference": "Willett, Francis R.; Avansino, Donald T.; Hochberg, Leigh R.; Henderson, Jaimie M.; Shenoy, Krishna V. (2021). High-performance brain-to-text communication via handwriting. https://doi.org/10.1038/s41586-021-03506-2",
+    "caption": "Willett et al. (2021), Video 2."
+  },
+  {
+    "title": "High-performance brain-to-text communication via handwriting",
+    "first": "Willett",
+    "year": "2021",
+    "doi": "10.1038/s41586-021-03506-2",
+    "license": {
+      "license": "Original publisher attribution retained; see original article license."
+    },
+    "paper": "hand",
+    "original_url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-021-03506-2/MediaObjects/41586_2021_3506_MOESM6_ESM.mp4",
+    "source_legend": "Video 3 (download MP4  ) : Freely answering questions in real-time with the handwriting brain-computer interface. In this video, participant T5 answers questions that appear on a computer monitor using the handwriting brain-computer interface. T5 was instructed to take as much time as he wanted to formulate an answer, and then to write it as quickly as possible.",
+    "movie_identifier": "Video 3",
+    "content_index": 62,
+    "purpose": "academic",
+    "credit": "Willett, Francis R.; Avansino, Donald T.; Hochberg, Leigh R.; Henderson, Jaimie M.; Shenoy, Krishna V.",
+    "full_reference": "Willett, Francis R.; Avansino, Donald T.; Hochberg, Leigh R.; Henderson, Jaimie M.; Shenoy, Krishna V. (2021). High-performance brain-to-text communication via handwriting. https://doi.org/10.1038/s41586-021-03506-2",
+    "caption": "Willett et al. (2021), Video 3."
+  },
+  {
+    "paper": "18554",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/18554/elife-18554-media2.mp4",
+    "credit": "Chethan Pandarinath; Paul Nuyujukian; Christine H Blabe; Brittany L Sorice; Jad Saab; Francis R Willett; Leigh R Hochberg; Krishna V Shenoy; Jaimie M Henderson",
+    "full_reference": "Chethan Pandarinath; Paul Nuyujukian; Christine H Blabe; Brittany L Sorice; Jad Saab; Francis R Willett; Leigh R Hochberg; Krishna V Shenoy; Jaimie M Henderson (2017). High performance communication by people with paralysis using an intracortical brain-computer interface. https://doi.org/10.7554/eLife.18554",
+    "doi": "10.7554/eLife.18554",
+    "source_legend": "10.7554/eLife.18554.012 Video 2. Example of participant T6’s ‘copy typing’ using the OPTI-II keyboard. In the copy typing task, participants were presented with a phrase and asked to type as many characters as possible within a two-minute block. T6 preferred that the cursor remain under her control throughout the task – i.e., no re-centering of the cursor occurred after a selection. This video is from participant T6, Day 588, Blockset 2. Performance in this block was 40.4 ccpm. DOI:   http://dx.doi.org/10.7554/eLife.18554.012",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    },
+    "movie_identifier": "media2",
+    "caption": "Pandarinath et al. (2017), media2.",
+    "content_index": 64
+  },
+  {
+    "title": "A high-performance speech neuroprosthesis",
+    "first": "Willett",
+    "year": "2023",
+    "doi": "10.1038/s41586-023-06377-x",
+    "license": {
+      "license": "Original publisher attribution retained; see original article license."
+    },
+    "paper": "speech",
+    "original_url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-023-06377-x/MediaObjects/41586_2023_6377_MOESM4_ESM.mp4",
+    "source_legend": "Supplementary Video 1 Real-time performance evaluation. In this video, participant T12 uses the speech BCI in real time to copy sentences shown on the screen. When the square in the centre is red, T12 reads the sentence above the square and prepares to speak it. When the square turns green, T12 attempts to speak that sentence while the real-time decoder output is shown below the square. Note that T12 produces unintelligible vocalizations when attempting to speak. When T12 has finished speaking, a text-to-speech programme reads the final decoded text aloud. These sentences were recorded during a performance-evaluation session reported in Fig. 2 (post-implant day 136).",
+    "movie_identifier": "Video 1",
+    "content_index": 66,
+    "purpose": "academic",
+    "credit": "Willett Francis R.; Kunz Erin M.; Fan Chaofei; Avansino Donald T.; Wilson Guy H.; Choi Eun Young; Kamdar Foram; Glasser Matthew F.; Hochberg Leigh R.; Druckmann Shaul; Shenoy Krishna V.; Henderson Jaimie M.",
+    "full_reference": "Willett Francis R.; Kunz Erin M.; Fan Chaofei; Avansino Donald T.; Wilson Guy H.; Choi Eun Young; Kamdar Foram; Glasser Matthew F.; Hochberg Leigh R.; Druckmann Shaul; Shenoy Krishna V.; Henderson Jaimie M. (2023). A high-performance speech neuroprosthesis. https://doi.org/10.1038/s41586-023-06377-x",
+    "caption": "Willett et al. (2023), Video 1."
+  },
+  {
+    "title": "A high-performance speech neuroprosthesis",
+    "first": "Willett",
+    "year": "2023",
+    "doi": "10.1038/s41586-023-06377-x",
+    "license": {
+      "license": "Original publisher attribution retained; see original article license."
+    },
+    "paper": "speech",
+    "original_url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-023-06377-x/MediaObjects/41586_2023_6377_MOESM5_ESM.mp4",
+    "source_legend": "Supplementary Video 2 Silent speech. The same as Supplementary Video 1 except that T12 is silently speaking (that is, mouthing the words) rather than attempting to produce vocalizations. These sentences were recorded on post-implant day 141.",
+    "movie_identifier": "Video 2",
+    "content_index": 68,
+    "purpose": "academic",
+    "credit": "Willett Francis R.; Kunz Erin M.; Fan Chaofei; Avansino Donald T.; Wilson Guy H.; Choi Eun Young; Kamdar Foram; Glasser Matthew F.; Hochberg Leigh R.; Druckmann Shaul; Shenoy Krishna V.; Henderson Jaimie M.",
+    "full_reference": "Willett Francis R.; Kunz Erin M.; Fan Chaofei; Avansino Donald T.; Wilson Guy H.; Choi Eun Young; Kamdar Foram; Glasser Matthew F.; Hochberg Leigh R.; Druckmann Shaul; Shenoy Krishna V.; Henderson Jaimie M. (2023). A high-performance speech neuroprosthesis. https://doi.org/10.1038/s41586-023-06377-x",
+    "caption": "Willett et al. (2023), Video 2."
+  },
+  {
+    "paper": "18554",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/18554/elife-18554-media3.mp4",
+    "credit": "Chethan Pandarinath; Paul Nuyujukian; Christine H Blabe; Brittany L Sorice; Jad Saab; Francis R Willett; Leigh R Hochberg; Krishna V Shenoy; Jaimie M Henderson",
+    "full_reference": "Chethan Pandarinath; Paul Nuyujukian; Christine H Blabe; Brittany L Sorice; Jad Saab; Francis R Willett; Leigh R Hochberg; Krishna V Shenoy; Jaimie M Henderson (2017). High performance communication by people with paralysis using an intracortical brain-computer interface. https://doi.org/10.7554/eLife.18554",
+    "doi": "10.7554/eLife.18554",
+    "source_legend": "10.7554/eLife.18554.013 Video 3. Example of participant T6’s ‘copy typing’ using the QWERTY keyboard. Same as  Video 2 , but using the QWERTY keyboard layout. This video is from participant T6, Day 588, Blockset 4. Performance in this block was 30.6 ccpm. DOI:   http://dx.doi.org/10.7554/eLife.18554.013",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    },
+    "movie_identifier": "media3",
+    "caption": "Pandarinath et al. (2017), media3.",
+    "content_index": 70
+  },
+  {
+    "title": "High-performance brain-to-text communication via handwriting",
+    "first": "Willett",
+    "year": "2021",
+    "doi": "10.1038/s41586-021-03506-2",
+    "license": {
+      "license": "Original publisher attribution retained; see original article license."
+    },
+    "paper": "hand",
+    "original_url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-021-03506-2/MediaObjects/41586_2021_3506_MOESM7_ESM.mp4",
+    "source_legend": "Video 4 (download MP4  ) : Side-by-side comparison between the handwriting brain-computer interface and the prior state of the art for intracortical brain-computer interfaces. In a prior study (Pandarinath et al., 2017) participant T5 achieved the highest typing speed ever reported with an intracortical brain-computer interface (39 correct characters per minute using a point-and-click typing system). Here, we show an example sentence typed by T5 using the point-and-click system (shown on the bottom) and the new handwriting brain-computer interface (shown on the top), which is more than twice as fast.",
+    "movie_identifier": "Video 4",
+    "content_index": 72,
+    "purpose": "academic",
+    "credit": "Willett, Francis R.; Avansino, Donald T.; Hochberg, Leigh R.; Henderson, Jaimie M.; Shenoy, Krishna V.",
+    "full_reference": "Willett, Francis R.; Avansino, Donald T.; Hochberg, Leigh R.; Henderson, Jaimie M.; Shenoy, Krishna V. (2021). High-performance brain-to-text communication via handwriting. https://doi.org/10.1038/s41586-021-03506-2",
+    "caption": "Willett et al. (2021), Video 4."
+  },
+  {
+    "paper": "18554",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/18554/elife-18554-media4.mp4",
+    "credit": "Chethan Pandarinath; Paul Nuyujukian; Christine H Blabe; Brittany L Sorice; Jad Saab; Francis R Willett; Leigh R Hochberg; Krishna V Shenoy; Jaimie M Henderson",
+    "full_reference": "Chethan Pandarinath; Paul Nuyujukian; Christine H Blabe; Brittany L Sorice; Jad Saab; Francis R Willett; Leigh R Hochberg; Krishna V Shenoy; Jaimie M Henderson (2017). High performance communication by people with paralysis using an intracortical brain-computer interface. https://doi.org/10.7554/eLife.18554",
+    "doi": "10.7554/eLife.18554",
+    "source_legend": "10.7554/eLife.18554.014 Video 4. Example of participant T5’s ‘copy typing’ using the OPTI-II keyboard. Same as  Video 2 , but for participant T5. This video is from participant T5, Day 68, Blockset 4. Performance in this block was 40.5 ccpm. DOI:   http://dx.doi.org/10.7554/eLife.18554.014",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    },
+    "movie_identifier": "media4",
+    "caption": "Pandarinath et al. (2017), media4.",
+    "content_index": 74
+  },
+  {
+    "paper": "18554",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/18554/elife-18554-media5.mp4",
+    "credit": "Chethan Pandarinath; Paul Nuyujukian; Christine H Blabe; Brittany L Sorice; Jad Saab; Francis R Willett; Leigh R Hochberg; Krishna V Shenoy; Jaimie M Henderson",
+    "full_reference": "Chethan Pandarinath; Paul Nuyujukian; Christine H Blabe; Brittany L Sorice; Jad Saab; Francis R Willett; Leigh R Hochberg; Krishna V Shenoy; Jaimie M Henderson (2017). High performance communication by people with paralysis using an intracortical brain-computer interface. https://doi.org/10.7554/eLife.18554",
+    "doi": "10.7554/eLife.18554",
+    "source_legend": "10.7554/eLife.18554.015 Video 5. Example of participant T5’s ‘copy typing’ using the QWERTY keyboard. Same as  Video 4 , but using the QWERTY keyboard layout. This video is from participant T5, Day 68, Blockset 2. Performance in this block was 38.6 ccpm. DOI:   http://dx.doi.org/10.7554/eLife.18554.015",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    },
+    "movie_identifier": "media5",
+    "caption": "Pandarinath et al. (2017), media5.",
+    "content_index": 76
+  },
+  {
+    "paper": "18554",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/18554/elife-18554-media6.mp4",
+    "credit": "Chethan Pandarinath; Paul Nuyujukian; Christine H Blabe; Brittany L Sorice; Jad Saab; Francis R Willett; Leigh R Hochberg; Krishna V Shenoy; Jaimie M Henderson",
+    "full_reference": "Chethan Pandarinath; Paul Nuyujukian; Christine H Blabe; Brittany L Sorice; Jad Saab; Francis R Willett; Leigh R Hochberg; Krishna V Shenoy; Jaimie M Henderson (2017). High performance communication by people with paralysis using an intracortical brain-computer interface. https://doi.org/10.7554/eLife.18554",
+    "doi": "10.7554/eLife.18554",
+    "source_legend": "10.7554/eLife.18554.016 Video 6. Example of participant T7’s ‘copy typing’ using the OPTI-II keyboard. Same as  Video 2 , but for participant T7. T7 selected letters by dwelling on targets only. In addition, T7 preferred that the cursor re-center after every selection (i.e., following a correct or an incorrect selection). These across-participant differences are detailed in Materials and methods: Quantitative performance evaluations (under ‘Target selection and cursor re-centering’). This video is from participant T7, Day 539, Blockset 3. Performance in this block was 10.6 ccpm. DOI:   http://dx.doi.org/10.7554/eLife.18554.016",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    },
+    "movie_identifier": "media6",
+    "caption": "Pandarinath et al. (2017), media6.",
+    "content_index": 77
+  }
+]

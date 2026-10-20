@@ -1,0 +1,33 @@
+{
+  "checked_repository": "jordanxxlopez/NEUROETHOLOGY",
+  "branch": "claude/neuroethology-fa2026-schedule-2lgmmr",
+  "commit": "fa278dba43f4bb18527b3237845da0189a37ec24",
+  "catalogs_found": 141,
+  "catalogs_retrieved": 141,
+  "selected_dois": [
+    "10.1038/s41586-019-1119-1",
+    "10.1038/s41586-021-03506-2",
+    "10.1038/s41586-023-06377-x",
+    "10.1038/s41588-025-02267-2",
+    "10.7554/eLife.110320",
+    "10.7554/eLife.12577",
+    "10.7554/eLife.18554",
+    "10.7554/eLife.20557",
+    "10.7554/eLife.25964",
+    "10.7554/eLife.46015",
+    "10.7554/eLife.53086",
+    "10.7554/eLife.54277",
+    "10.7554/eLife.54591",
+    "10.7554/eLife.56972",
+    "10.7554/eLife.63905",
+    "10.7554/eLife.81681",
+    "10.7554/eLife.82088",
+    "10.7554/eLife.86797",
+    "10.7554/eLife.89311",
+    "10.7554/eLife.91327",
+    "10.7554/eLife.91636",
+    "10.7554/eLife.95393"
+  ],
+  "overlaps": {},
+  "unassociated_laboratory_recordings": "USC SPAN rtMRI IPA demonstrations have no associated DOI in the source page."
+}

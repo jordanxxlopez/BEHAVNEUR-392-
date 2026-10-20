@@ -1,0 +1,1242 @@
+{
+  "06085:1": {
+    "path": "figures/elife_06085_fig1.png",
+    "title": "Cerebellar associative sensory learning defects in five mouse autism models",
+    "authors": "Alexander D Kloth; Aleksandra Badura; Amy Li; Adriana Cherskov; Sara G Connolly; Andrea Giovannucci; M Ali Bangash; Giorgio Grasselli; Olga Peñagarikano; Claire Piochon; Peter T Tsai; Daniel H Geschwind; Christian Hansel; Mustafa Sahin; Toru Takumi; Paul F Worley; Samuel S-H Wang",
+    "first": "Kloth",
+    "year": "2015",
+    "doi": "10.7554/eLife.06085",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Kloth et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.06085.003 Figure 1. Delay eyeblink conditioning in head-fixed mice. ( A ) Experimental setup. A mouse with an implanted headplate is head-fixed above a stationary foam cylinder, allowing the mouse to locomote freely. Eyeblink conditioning is carried out by delivering an aversive unconditioned stimulus (US, airpuff) that coterminates with a conditioned stimulus (CS, LED) to the same eye. Eyelid deflection is measured using induced current from a small magnet affixed to the eyelid. ( B ) When delivered to a trained animal, the co-terminating CS and US produce an anticipatory eyelid deflection (the conditioned response, CR) followed by a reflex blink evoked by the US. When the CS is delivered alone (blue trace), a bell-shaped CR is produced that peaks at the expected time of the US. The onset time is the time from the onset of the CS to a change in concavity of the eyeblink. The rise time is the amount of time between 10% and 90% of the maximum amplitude of the CR (10–90% rise). ( C ) Over twelve training sessions, the CR (portion of trace preceding US, indicated in red) develops in response to the US-CS pairing. One CS-alone response is shown as a blue trace. ( D ) Over four sessions of extinction training, the CR (red) disappears. After three sessions of reacquisition training, the CR (red) returns.  Figure 1—source data 1  provides a wild-type benchmark for the eyeblink parameters described here, along with a statistical analysis of possible difference among wild-type cohorts (p > 0.05 in all instances). DOI:   http://dx.doi.org/10.7554/eLife.06085.003 10.7554/eLife.06085.004 Figure 1—source data 1. Wild-type values for eyeblink conditioning parameters. Last column, results of comparison across all wild-type cohorts. Statistical test indicated. DOI:   http://dx.doi.org/10.7554/eLife.06085.004",
+    "original_url": "https://cdn.elifesciences.org/articles/06085/elife-06085-fig1-v2.tif",
+    "sha256": "bffc3290dc6919ed18e1c6757f90c95acbbb47028e919d4a0142c07550a5c73c",
+    "width": 3492,
+    "height": 1627
+  },
+  "06085:4": {
+    "path": "figures/elife_06085_fig4.png",
+    "title": "Cerebellar associative sensory learning defects in five mouse autism models",
+    "authors": "Alexander D Kloth; Aleksandra Badura; Amy Li; Adriana Cherskov; Sara G Connolly; Andrea Giovannucci; M Ali Bangash; Giorgio Grasselli; Olga Peñagarikano; Claire Piochon; Peter T Tsai; Daniel H Geschwind; Christian Hansel; Mustafa Sahin; Toru Takumi; Paul F Worley; Samuel S-H Wang",
+    "first": "Kloth",
+    "year": "2015",
+    "doi": "10.7554/eLife.06085",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Kloth et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.06085.008 Figure 4. Amplitude defects are present in three mouse models. ( A ) Time course of response probability with acquisition training in L7-Tsc1 model mice. Black: WT. Red:  L7/Pcp2 Cre ::Tsc1 flox/+ . ( B ) Time course of response probability with acquisition training in  Cntnap2  model mice. Black:  Cntnap2 +/+. Red:  Cntnap2 −/−. Green:  Cntnap2 +/−. ( C ) Time course of response probability with acquisition training in  Shank3 ΔC. Black:  Shank3 +/+. Red:  Shank3 +/ΔC. ( D ) Time course of response probability with acquisition training in  Mecp2 R308 . Black: WT. Red:  Mecp2 R308/Y . In panels ( A ) through ( D ), bar plots indicate response probability averaged over the last four training sessions. ( E ) Probability deficits across all groups. Dashed line: normalized wild-type littermate level. In all panels, shading and error bars indicate SEM, and * indicates p < 0.05. n ≥ 10 mice for each group. DOI:   http://dx.doi.org/10.7554/eLife.06085.008",
+    "original_url": "https://cdn.elifesciences.org/articles/06085/elife-06085-fig4-v2.tif",
+    "sha256": "21c0445cba35106ee49e322860ce7d251c385abcc0fb0e050a5c7ba5f1d39737",
+    "width": 4212,
+    "height": 2062
+  },
+  "100989:1": {
+    "path": "figures/elife_100989_fig1.png",
+    "title": "Glia control experience-dependent plasticity in an olfactory critical period",
+    "authors": "Hans C Leier; Alexander J Foden; Darren A Jindal; Abigail J Wilkov; Paola Van der Linden Costello; Pamela J Vanderzalm; Jaeda Coutinho-Budd; Masashi Tabuchi; Heather T Broihier",
+    "first": "Leier",
+    "year": "2025",
+    "doi": "10.7554/eLife.100989",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Leier, Foden et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Early-life exposure to elevated ethyl butyrate erodes Or42a OSN connectivity and function. ( A ) FlyWire full-brain connectome reconstruction (left) and simplified schematic (right) of the Or42a olfactory circuit. Thirty-three olfactory sensory neurons (OSNs) expressing the ethyl butyrate (EB)- sensitive odorant receptor Or42a synapse with projection neurons (PNs) in a single glomerulus (VM7) of the antennal lobe (AL). VM7 also receives lateral input from local interneurons (LNs). ( B ) Overview of the  Drosophila  developmental timeline. OSNs synapse with PNs during the first 48 hr after puparium formation. ( C ) Schematic of the odorant exposure paradigm used in ( D–J ). White and black bars represent ethyl butyrate (EB) or mineral oil vehicle control, respectively. DPE, days post-eclosion. ( D ) Representative maximum intensity projections (MIPs) (bottom) and volume measurements (top) of the Or42a-mCD8::GFP OSN terminal arbor in VM7 in 2 DPE flies exposed to mineral oil or the indicated concentrations of EB throughout adulthood. ( E ) Representative MIPs (bottom) and number of VM7 presynapses (top) in 2 DPE flies exposed to mineral oil or the indicated concentrations of EB throughout adulthood. Presynapses were visualized with nc82 anti-bruchpilot (Brp) staining. Data are mean ± SD. ( F–J ) Patch-clamp recordings of VM7 PNs from 2 DPE flies exposed to 15% EB or mineral oil throughout adulthood. ( F ) Representative PN membrane potential traces, ( G ) spontaneous mean firing rate (Oil, 1.1±0.61 [mean ± SD]; EB, 0.017±0.039), ( H ) interspike interval (ISI) events (Oil, 751.9±450.6; EB, 1757±1114), ( I ) spike onset latency (Oil, 0.79±0.21; EB, 0.83±0.038), and ( J ). afterhyperpolarization (AHP) decay time constant (Oil, 92.7±28.8; EB, 96.1±77.4). ns, not significant,. **p<0.01, ***p<0.001, ****p<0.0001, Kruskal-Wallis test with Dunn’s multiple comparisons test ( D ) or Mann-Whitney U-test (F–I). Genotypes, raw values, and detailed statistics are provided in  Figure 1—source data 1 . Figure 1—source data 1. Genotypes, raw values, and statistics for experiments shown in  Figure 1 .",
+    "original_url": "https://cdn.elifesciences.org/articles/100989/elife-100989-fig1-v1.tif",
+    "sha256": "1a53898e8dcc842cb089900870218adbcabc5d3b0bf0a3d877532fc5af625fce",
+    "width": 1892,
+    "height": 2207
+  },
+  "100989:3": {
+    "path": "figures/elife_100989_fig3.png",
+    "title": "Glia control experience-dependent plasticity in an olfactory critical period",
+    "authors": "Hans C Leier; Alexander J Foden; Darren A Jindal; Abigail J Wilkov; Paola Van der Linden Costello; Pamela J Vanderzalm; Jaeda Coutinho-Budd; Masashi Tabuchi; Heather T Broihier",
+    "first": "Leier",
+    "year": "2025",
+    "doi": "10.7554/eLife.100989",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Leier, Foden et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. The VM7 OSN-PN circuit does not recover from critical period pruning. ( A ) Schematic of the odorant exposure paradigm used in ( B–H ). Flies were exposed to mineral oil or 15% EB during the critical period, then recovered without odorant until dissection at 7–8 DPE. ( B ) Representative MIPs (bottom) and volume measurements (top) of the Or42a-mCD8::GFP OSN terminal arbor in VM7. ( C ) Representative MIPs (bottom) and number of VM7 presynapses (top). Presynapses were visualized with nc82 anti-Brp staining. Data are mean ± SD. ( D–H ) Patch-clamp recordings of VM7 PNs from 7 to 8 DPE flies treated as in ( A ). ( D ) Schematic of patch-clamp recordings (left) and representative PN membrane potential traces (right), ( E ) spontaneous mean firing rate (Oil, 1.2±0.51; EB, 0.14±0.11), ( F ) interspike interval (ISI) events (Oil, 812.7±633.4; EB, 3027±1671), ( G ) spike onset latency (Oil, 0.80±0.084; EB, 0.79±0.16), and ( H ) afterhyperpolarization (AHP) decay time constant (Oil, 107.5±18.9; EB, 126.8±108.2). ns, not significant, **p<0.01, ***p<0.001, Mann-Whitney U-test. Genotypes, raw values, and detailed statistics are provided in  Figure 3—source data 1 . Figure 3—source data 1. Genotypes, raw values, and statistics for experiments shown in  Figure 3 .",
+    "original_url": "https://cdn.elifesciences.org/articles/100989/elife-100989-fig3-v1.tif",
+    "sha256": "5060c6ff6b5d9ed70d88f8facf68f2726ad1463808ee21b8398d6ac026c1169a",
+    "width": 1893,
+    "height": 1996
+  },
+  "102578:1": {
+    "path": "figures/elife_102578_fig1.png",
+    "title": "Joint profiling of cell morphology and gene expression during in vitro neurodevelopment",
+    "authors": "Adithi Sundaresh; Dimitri Meistermann; Riina Lampela; Zhiyu Yang; Rosa Woldegebriel; Andrea Ganna; Pau Puigdevall Costa; Helena Kilpinen",
+    "first": "Sundaresh",
+    "year": "2025",
+    "doi": "10.7554/eLife.102578",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Sundaresh, Meistermann et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Overview of the experimental design and Cell Painting (CP) at the single-cell level. ( a ) Overview of the experiment. Six induced pluripotent stem cell (iPSC) lines from four donors were differentiated to cortical neural fate and assayed at days 20, 40, and 70 of the differentiation using CP and scRNA-seq. ( b ) UMAP of the CP dataset at the single-cell level. Cells are colored and labeled by unsupervised Leiden clustering. A composite image representative of cells belonging to each CP cluster is indicated by arrows (staining legend bottom-right). ( c ) Heatmap of CP feature-module activation scores. 541 cells (minimum cluster size) were drawn from each CP cluster to ensure an equal contribution of each CP cluster to the heatmap. The CP feature modules represent sets of CP features that are highly correlated. The right-most column contains selected highly enriched terms from GSEA of CP feature modules. ( d ) Differentiation day (time points) projected on the CP UMAP.",
+    "original_url": "https://cdn.elifesciences.org/articles/102578/elife-102578-fig1-v1.tif",
+    "sha256": "8c85c99d602ae850411b9ab831cba10c40147f848862584c63fc687502651844",
+    "width": 2395,
+    "height": 3201,
+    "display_path": "figures/elife_102578_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.16
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2395,
+      3201
+    ],
+    "display_sha256": "7fe2d9f2345e8e1e02d4a66cfed44fd28057b5bcc3af2891b7d69e661cac86b5"
+  },
+  "108134:1": {
+    "path": "figures/elife_108134_fig1.png",
+    "title": "Adrenomedullin restores the human cortical interneurons migration defects induced by hypoxia",
+    "authors": "Alyssa Puno; Wojciech P Michno; Li Li; Amanda Everitt; Kate McCluskey; Saw Htun; Dhriti Nagar; Jong Bin Choi; Yuqin Dai; Seyeon Park; Emily Gurwitz; Jeremy A Willsey; Fikri Birey; Anca M Pasca",
+    "first": "Puno",
+    "year": "2026",
+    "doi": "10.7554/eLife.108134",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Puno, Michno et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Human cellular model to study migration patterns in cortical interneurons under hypoxic stress. ( A ) Schematic illustrating overall experimental design: hiPSCs were used to derive human cortical organoids (hCO) and human subpallial organoids (hSO); for direct visualization of migrating interneurons, at ~45–55 days in culture hSO were infected with lentivirus Dlxi1/2b::eGFP and then fused with hCO into human forebrain assembloid (hFA); to study interneuron migration during exposure to hypoxia, hFA were imaged 10–14 days post infection using confocal live-imaging setup focused on the hCO part of the hFA, the movement of the same cells was followed for a total of 48 hr, each condition for 24 hr: 0–24 hr in control and 24–48 hr in hypoxia; Created with  BioRender.com .( B ) Schematic of migratory pattern of interneurons, focused on number of saltations, average saltation length, and directionality; ( C ) Example of migration pattern of one cortical interneuron during control and hypoxic conditions; Created with  BioRender.com . ( D ) Quantification of saltations number/24 hr in hypoxia-exposed and non-exposed cortical interneurons by individual cells (paired Wilcoxon test, p<0.0001) and by hiPSC line (two-tailed paired  t -test, p=0.003); ( E ) Quantification of average saltation length for hypoxia-exposed and non-exposed cortical interneurons by individual cells (paired Wilcoxon test, p=0.29) and by hiPSC line (two-tailed paired  t -test, p=0.15); ( F ) Quantification of directionality of migration in hypoxia-exposed and non-exposed cortical interneurons by individual cells (paired Wilcoxon test, p=0.36), and by hiPSC cell line (two-tailed paired  t -test, p=0.47); ( G ) Quantification of saltations number/24 hr in control conditions, in the first 24 hr (0–24 hr) versus the subsequent 24 hr (24–48 hr) of live imaging by individual cells (paired Wilcoxon test, p=0.09) and hiPSC line (two-tailed paired  t -test, p=0.2); ( H ) Quantification of average saltation length in control conditions, in the first 24 hr (0–24 hr) versus the subsequent 24 hr (24–48 hr) of live imaging by individual cells (two-tailed paired  t -test, p=0.79) and by hiPSC line (two-tailed paired  t -test, p=0.47); ( I ) Quantification of directionality of migration in control conditions, in the first 24 hr (0–24 hr) versus the subsequent 24 hr (24–48 hr) of live imaging by individual cells (paired Wilcoxon test, p=0.38) and by hiPSC line (two-tailed paired  t -test, p=0.62); Bar charts: mean ± s.e.m; scale bar: 50 μm.",
+    "original_url": "https://cdn.elifesciences.org/articles/108134/elife-108134-fig1-v1.tif",
+    "sha256": "c13b7e3124ef39d6d65372e309939e0a77e58194db5d205aa36f84fa6f85a9db",
+    "width": 2204,
+    "height": 2995,
+    "display_path": "figures/elife_108134_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.4
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2204,
+      2995
+    ],
+    "display_sha256": "6cfeb9c564fed9bda923c51629672e93f79d90f7a8625b4bd472acf8703dea03"
+  },
+  "108134:3": {
+    "path": "figures/elife_108134_fig3.png",
+    "title": "Adrenomedullin restores the human cortical interneurons migration defects induced by hypoxia",
+    "authors": "Alyssa Puno; Wojciech P Michno; Li Li; Amanda Everitt; Kate McCluskey; Saw Htun; Dhriti Nagar; Jong Bin Choi; Yuqin Dai; Seyeon Park; Emily Gurwitz; Jeremy A Willsey; Fikri Birey; Anca M Pasca",
+    "first": "Puno",
+    "year": "2026",
+    "doi": "10.7554/eLife.108134",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Puno, Michno et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Single-cell transcriptional profiling in control and hypoxia-exposed hSO and hCO. Schematic of single-cell RNA-seq of hCO and hSO from hFA; Created with  BioRender.com . ( B ) UMAP visualization of the resolved single-cell RNA-seq data of hSO with assignment of main cell clusters, with control and hypoxia exposure shown by condition ( n[total] =16,022 cells,  n[control] =8691 cells,  n[hypoxia] =7331 cells); ( C ) UMAP visualization of the resolved single-cell RNA-seq data of hCO with assignment of main cell clusters, with control and hypoxia exposure shown by condition ( n[total] =12,567 cells,  n[control] =6786 cells,  n[hypoxia] =5781 cells); ( D ) Single cell gene expression level (log) of adrenomedullin ( ADM ) in main cell clusters of hSO under control and hypoxia conditions; ( E ) Single-cell gene expression level (log) of  RAMP1  in main cell clusters of hSO under control and hypoxia conditions; Single-cell gene expression level (log) of  RAMP2  in main cell clusters of hSO under control and hypoxia conditions; Single-cell gene expression level (log) of  RAMP3  in main cell clusters of hSO under control and hypoxia conditions; ( F ) ( Left ) Representative blot for RAMP1 protein expression in control conditions, ( Right ) Representative blot for RAMP2 protein expression in control conditions; normalized to ɑ-Tubulin; ( G ) Quantification of RAMP1 and RAMP2 protein expression by ( Left ) individual hSO sample ( two -tailed paired test, p=0.0004) and ( Right ) by hiPSC line ( two -tailed paired test, p=0.0036) in control conditions; ( H ) Representative blots for RAMP2 protein expression changes in control and hypoxia conditions; ( I ) Quantification of RAMP2 protein expression ( Left ) by individual hSO sample ( two -tailed paired test, p=0.0027) and ( Right ) by hiPSC line ( two -tailed paired test, p=0.0235) in control and hypoxia conditions. Bar charts: mean ± s.e.m.; Different dot colors represent individual hiPSC lines. Figure 3—source data 1. Original files for western blot analysis are shown in  Figure 3F and H . Figure 3—source data 2. PDF file containing original western blots  Figure 3F and H , including the relevant bands, iPSC lines, and experimental conditions.",
+    "original_url": "https://cdn.elifesciences.org/articles/108134/elife-108134-fig3-v1.tif",
+    "sha256": "c32055e0b82b78bd8ee36c76cbd08a39ff21dce58321fd2ec95a9287a6a54043",
+    "width": 2205,
+    "height": 2951,
+    "display_path": "figures/elife_108134_fig3_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.18
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2205,
+      2951
+    ],
+    "display_sha256": "d4e5969d9d202722ef1949648709a8e6a13472f44baed158508557dabd12de52"
+  },
+  "108333:1": {
+    "path": "figures/elife_108333_fig1.png",
+    "title": "Altered cognitive processes shape tactile perception in autism",
+    "authors": "Ourania Semelidou; Mathilde Tortochot-Megne Fotso; Adinda Winderickx; Andreas A Frick",
+    "first": "Semelidou",
+    "year": "2026",
+    "doi": "10.7554/eLife.108333",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Semelidou et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Perceptual learning performance in a forepaw-based decision-making task. For panels B-I: n=9 wild-type (WT), 11  Fmr1 -/y  male mice. ( A ) Left: schema showing the behavioral setup. Right: Trial protocol and behavioral outcomes depending on the type of trial and the animal’s response. ( B ) Total number of days spent in training for WT and  Fmr1 -/y  mice. ( C ) Total number of days spent in training until the criterion was met for high-salience stimuli for WT and  Fmr1 -/y  mice. ( D ) Total number of days spent in training until the criterion was met for low-salience stimuli for WT and  Fmr1 -/y  mice. ( E ) Sensitivity d’ throughout the training period for WT and  Fmr1 -/y  mice. ( F ) Correct choice rate for both high- and low-salience trials throughout the training period for WT and  Fmr1 -/y  mice. ( G ) Incorrect choice rate for both high- and low-salience trials throughout the training period for WT and  Fmr1 -/y  mice. ( H ) Incorrect choice rate for low-salience trials throughout the training period for WT and  Fmr1 -/y  mice. ( I ) Incorrect choice rate for high-salience trials throughout the training period for WT and  Fmr1 -/y  mice. P-values were computed using two-sided t-test for panels B, E, F, G, I; Mann-Whitney test for panels C, D, H; * p <0.05 or n.s, not significant. Error bars indicate ± standard error of the mean (SEM). Mouse schemas were made using  BioRender.com .",
+    "original_url": "https://cdn.elifesciences.org/articles/108333/elife-108333-fig1-v1.tif",
+    "sha256": "2e0564cc79e17da476c5e270fc7fd7b4bf3c1d7253b2f60eefdb85c2b23cc59b",
+    "width": 1621,
+    "height": 2263,
+    "display_path": "figures/elife_108333_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.3
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1621,
+      2263
+    ],
+    "display_sha256": "131edc765040f84f8108e8a4e79a33153b93d0ae38d42a035fb495af4d222a32"
+  },
+  "108333:3": {
+    "path": "figures/elife_108333_fig3.png",
+    "title": "Altered cognitive processes shape tactile perception in autism",
+    "authors": "Ourania Semelidou; Mathilde Tortochot-Megne Fotso; Adinda Winderickx; Andreas A Frick",
+    "first": "Semelidou",
+    "year": "2026",
+    "doi": "10.7554/eLife.108333",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Semelidou et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Tactile discrimination and categorization. n=6 wild-type (WT), 9  Fmr1 -/y  male mice. ( A ) Psychometric curves for WT and  Fmr1 -/y  mice generated based on the high-salience lick rate (rate of rightward licks) across eight different amplitudes. Stimuli between 12–18 µm were designated as low-salience and rewarded at the left lickport, while stimuli between 20–26  µm were designated as high-salience and rewarded at the right lickport. Each amplitude was presented an average of 84 times. ( B ) Comparison of high-salience (rightwards) responses for high-salience stimuli of 26 and 26 µm. ( C ) Comparison of high-salience (rightwards) responses for high-salience stimuli of 26 and 22 µm. ( D ) Comparison of high-salience (rightwards) responses for low-salience stimuli of 12 and 14 µm. ( E ) Comparison of low-salience (leftwards) responses for low-salience stimuli of 12 and 14 µm. ( F ) Categorization bias calculated based on the psychometric curves. ( G ) Categorization precision computed based on the slope of the psychometric curves. ( H ) Sensitivity d’ of the responses in all stimulus amplitudes. P-values were computed using Mixed Linear Model Regression for panel ( A ); two-sided paired t-test for panels B-right, C-right, ( D, E ); two-sided t-test for panels ( F, G, H ); Wilcoxon signed-rank test for panels B-left, C-left; Bonferroni correction was applied for panels B, C, D,; Error bars indicate ± standard error of the mean (SEM). ** p <0.01, * p <0.05, or n.s, not significant. Figure 3—source code 1. Python script for analyzing amplitude discrimination and categorization data using Shapiro–Wilk normality tests and a linear mixed-effects model to assess Genotype × Amplitude interactions.",
+    "original_url": "https://cdn.elifesciences.org/articles/108333/elife-108333-fig3-v1.tif",
+    "sha256": "fa1e40f7a4bc9b392798c508faa2ae8141387c1a8ca48b0cfac3d15b8fabc126",
+    "width": 1875,
+    "height": 1230
+  },
+  "18683:1": {
+    "path": "figures/elife_18683_fig1.png",
+    "title": "Differences and similarities between human and chimpanzee neural progenitors during cerebral cortex development",
+    "authors": "Felipe Mora-Bermúdez; Farhath Badsha; Sabina Kanton; J Gray Camp; Benjamin Vernot; Kathrin Köhler; Birger Voigt; Keisuke Okita; Tomislav Maricic; Zhisong He; Robert Lachmann; Svante Pääbo; Barbara Treutlein; Wieland B Huttner",
+    "first": "Mora-Bermúdez",
+    "year": "2016",
+    "doi": "10.7554/eLife.18683",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Mora-Bermúdez et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.18683.003 Figure 1. Chimpanzee cerebral organoids recapitulate cortex development. ( A ) Bright-field image showing a representative chimpanzee organoid (Sandra A, left) and a cryosection from a chimpanzee organoid (PR818-5) immunostained for PAX6 (magenta) and Ctip2 (green) combined with DAPI staining (blue) (right) at day 52. Scale bars, 200 μm. ( B ,  C ) Cryosections of cortical regions from chimpanzee (Sandra A) and human (SC102A-1) organoids at day 52 immunostained for PAX6 (magenta), Ctip2 (B, green) and TBR2 (C, green), without ( B ) and with ( C ) DAPI staining (blue). Asterisks, ventricular lumen; scale bars, 50 μm. ( D ) Cartoon showing NSPC types (APs, BPs) and neurons enriched in zones within the neocortex at mid-neurogenesis. CP, cortical plate; N, neuron. ( E ) Heatmap showing normalized correlation (Z-score) of single-cell transcriptomes from chimpanzee cerebral organoid cortex with bulk RNA-seq data from laser-microdissected zones ( Fietz et al., 2012 ) from 13 wpc human neocortex. CP, cortical plate. ( F ) Scatterplot showing NSPC and neuronal signature scores derived from analysis of fetal cerebral cortex single-cell transcriptomes ( Figure 1—figure supplement 1 ) calculated for each chimpanzee cerebral organoid cortical cell. ( G ) Heatmap showing expression of AP, BP, and neuron (N) marker genes. Each column represents a single cell, each row a gene. Cell type and maximum correlation to bulk RNA-seq data from cortical zones are shown in the top sidebar. APs and BPs were sub-classified based on G1 (light grey) or S-G2-M (dark grey) phases of the cell cycle. ( H ) Lineage network based on pairwise correlations between chimpanzee cerebral organoid cortical cells reveals a structured topology where VZ-APs connect to cortical plate (CP) neurons (N) through SVZ-BPs. Cells are coloured based on cortical zone (top left) or cell type assignment (bottom left). APs, BPs, and neurons were classified based on maximum correlation with single-cell transcriptomes from the human fetal neocortex. Expression of markers PAX6, TBR2, and MYT1L are shown to the right. DOI:   http://dx.doi.org/10.7554/eLife.18683.003 10.7554/eLife.18683.004 Figure 1—source data 1. Processed single-cell RNA-seq data for chimpanzee cells. *.txt file containing processed chimpanzee single-cell RNA-seq data (344 single cells) in log2(FPKM) with genes in columns and cells in rows. The first 7 columns contain metadata for each cell: cortex: assignment of cell to cortex (1) or to other regions within organoid(0); tSNE_1: tSNE1 loading for each cell; tSNE_2: tSNE2 loading for each cell; PC1: PC1 loading for each cell; PC2: PC2 loading for each cell; species: species of origin for each cell; cell_id: unique ID for each cell, with information about the experiment and the age of the organoid of origin for each cell. DOI:   http://dx.doi.org/10.7554/eLife.18683.004 10.7554/eLife.18683.005 Figure 1—source data 2. Genes describing cell populations in the chimpanzee organoids. List of genes identified by PCA on all chimpanzee organoid single-cell transcriptomes as being most informative for defining cell populations. DOI:   http://dx.doi.org/10.7554/eLife.18683.005",
+    "original_url": "https://cdn.elifesciences.org/articles/18683/elife-18683-fig1-v3.tif",
+    "sha256": "766c583c55fe213724c13d289b453f1e9983aab649521d447e02811c1a1a7cab",
+    "width": 2077,
+    "height": 950
+  },
+  "18683:3": {
+    "path": "figures/elife_18683_fig3.png",
+    "title": "Differences and similarities between human and chimpanzee neural progenitors during cerebral cortex development",
+    "authors": "Felipe Mora-Bermúdez; Farhath Badsha; Sabina Kanton; J Gray Camp; Benjamin Vernot; Kathrin Köhler; Birger Voigt; Keisuke Okita; Tomislav Maricic; Zhisong He; Robert Lachmann; Svante Pääbo; Barbara Treutlein; Wieland B Huttner",
+    "first": "Mora-Bermúdez",
+    "year": "2016",
+    "doi": "10.7554/eLife.18683",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Mora-Bermúdez et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.18683.010 Figure 3. Comparing human and chimpanzee cerebral cortex gene expression. ( A ) PC1 and PC2 from PCA separated NSPCs and neurons, and human and chimpanzee, respectively. PCA was performed on all single-cell transcriptomes using genes expressed in more than two cells and with a non-zero variance. ( B ) Quasibinomial fit line of representative marker gene expression across cells ordered by correlation with PC1. ( C ) Lineage network based on pairwise correlations between human fetal, human organoid, and chimpanzee organoid cells reveals a differentiation topology from VZ APs through BPs in iSVZ and oSVZ, to cortical plate (CP) neurons, with inter-species mixing in all stages. ( D ) Lineage network (see ( C )) coloured by scaled expression level of marker genes. ( E ) Scatterplots showing z-scored significance estimates from single-cell differential expression (SCDE) analysis based on Bayesian probabilistic models. Reads from human and chimpanzee were mapped to a consensus genome, and human gene annotations were used for expression counting. The x-axis represents SCDE between human organoid APs vs. human organoid neurons. The y-axes on the left and right plots represent SCDE between human and chimpanzee APs and neurons (N), respectively. Genes coloured as white triangles represent marker genes from  Figure 1  and are generally not differentially expressed between human and chimpanzee, but do vary between APs and neurons, validating the SCDE analysis. Yellow and purple circles represent genes upregulated specifically in human APs and neurons, respectively. Circles are sized based on differential expression between human APs and neurons.  Figure 3—figure supplement 1  shows a similar plot from the chimpanzee perspective. ( F ) Gene ontology enrichments (-log 10  P-value) for differentially expressed gene groups shown in panel  E . Left, human APs (yellow) and neurons (N, purple) that are not differential between human and chimpanzee. Center, upregulated in human APs (top) or neurons (N, bottom) compared to chimpanzee. Right, upregulated in chimpanzee APs (top) or neurons (N, bottom) from  Figure 3—figure supplement 1 . ( G ) Left, expression profiles of ITGB8 and INSR are shown from human organoid, chimpanzee organoid, and human fetal cells ordered by correlation with PC1. Right, bulk RNA-seq data from sorted aRG, bRG, and neurons (N) from human and mouse developing neocortex ( Florio et al., 2015 ) confirms enriched expression of ITGB8 and INSR in human APs and neurons, respectively. ( H ) The same bulk RNA-seq data was used to confirm and estimate the origin of differential gene expression in APs  versus  neurons from single-cell organoid data. Pie chart shows the proportion of AP-enriched (yellow) or neuron-enriched (N, purple) genes that are observed in human, chimpanzee, and mouse. Pie charts also show the proportion of genes differential between APs and neurons that are observed only in human and chimpanzee, but not mouse (human-chimp ancestor), or genes specific to human or chimpanzee. DOI:   http://dx.doi.org/10.7554/eLife.18683.010 10.7554/eLife.18683.011 Figure 3—source data 1. Processed single-cell RNA-seq data for human cells. *.txt file containing processed human single-cell RNA-seq data (207 single cells) in log2(FPKM) with metadata in first 4 columns for each cell: cell_id: unique ID for each cell; experiment: the experiment during which each cell was isolated; species: species of origin for each cell; cortex: assignment of cell to cortex (1) or to other regions within organoid (0). DOI:   http://dx.doi.org/10.7554/eLife.18683.011 10.7554/eLife.18683.012 Figure 3—source data 2. Results of differential gene expression analyses. Excel file (*.xlsx) with multiple sheets containing results of all differential expression analyses presented in the manuscript as well as GO enrichment analysis for the differentially expressed (DE) genes: Sheet 1: Genes specific to APs, not DE between chimpanzee and human; Sheet 2: GO enrichment analysis for genes of sheet 1; Sheet 3: Genes specific to Neurons, not DE between chimpanzee and human; Sheet 4: GO enrichment analysis for genes of sheet 3; Sheet 5: Genes specific to APs and upregulated to human compared to chimpanzee; Sheet 6: GO enrichment analysis for genes of sheet 6; Sheet 7: Genes specific to Neurons and upregulated to human compared to chimpanzee; Sheet 8: GO enrichment analysis for genes of sheet 7; Sheet 9: Genes specific to APs and upregulated to chimpanzee compared to human; Sheet 10: GO enrichment analysis for genes of sheet 6; Sheet 11: Genes specific to Neurons and upregulated to chimpanzee compared to human; Sheet 12: GO enrichment analysis for genes of sheet 11; Sheet 13: GO enrichment data used to generate  Figure 3F . DOI:   http://dx.doi.org/10.7554/eLife.18683.012",
+    "original_url": "https://cdn.elifesciences.org/articles/18683/elife-18683-fig3-v3.tif",
+    "sha256": "adb3345824359366038fef0905f50b9a52c61e80834a64caf4f7cf43e6ed9952",
+    "width": 2128,
+    "height": 1407
+  },
+  "31670:1": {
+    "path": "figures/elife_31670_fig1.png",
+    "title": "Early alterations of social brain networks in young children with autism",
+    "authors": "Holger Franz Sperdin; Ana Coito; Nada Kojovic; Tonia Anahi Rihs; Reem Kais Jan; Martina Franchini; Gijs Plomp; Serge Vulliemoz; Stephan Eliez; Christoph Martin Michel; Marie Schaer",
+    "first": "Sperdin",
+    "year": "2018",
+    "doi": "10.7554/eLife.31670",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Sperdin et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Summed outflow of the largest drivers across frequencies. ( a ) The summed outflow of the largest drivers across frequencies is illustrated for each group (TD, Left; ASD, Right). ( b ) Regions consistently showing large driving in both groups for theta and alpha. Summed outflows are represented as spheres: the larger the sphere, the higher the summed outflow. ROIs are displayed on an ICBM Average Brain, axial top view. See acronyms list in  Table 2 .",
+    "original_url": "https://cdn.elifesciences.org/articles/31670/elife-31670-fig1-v2.tif",
+    "sha256": "339468e6b842a662a4931597f48e5bc1673a2f40a58b3647435edf7ba2cb72f6",
+    "width": 9176,
+    "height": 7384
+  },
+  "31670:3": {
+    "path": "figures/elife_31670_fig3.png",
+    "title": "Early alterations of social brain networks in young children with autism",
+    "authors": "Holger Franz Sperdin; Ana Coito; Nada Kojovic; Tonia Anahi Rihs; Reem Kais Jan; Martina Franchini; Gijs Plomp; Serge Vulliemoz; Stephan Eliez; Christoph Martin Michel; Marie Schaer",
+    "first": "Sperdin",
+    "year": "2018",
+    "doi": "10.7554/eLife.31670",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Sperdin et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Region-to-region directed functional connectivity for the theta band (4–7 Hz) from each of the six significant ROIs represented as large red spheres. Outflows are represented as arrows: the larger the arrow, the stronger the outflow. ROIs and connections are displayed on an ICBM Average Brain, axial and coronal views. See acronyms list in  Table 2 .",
+    "original_url": "https://cdn.elifesciences.org/articles/31670/elife-31670-fig3-v2.tif",
+    "sha256": "0f51590c2eedef8979fb06203b120bdc3adc001433837f2b96b0c1d1f8a1da09",
+    "width": 1931,
+    "height": 1715
+  },
+  "34593:1": {
+    "path": "figures/elife_34593_fig1.png",
+    "title": "Gradient-reading and mechano-effector machinery for netrin-1-induced axon guidance",
+    "authors": "Kentarou Baba; Wataru Yoshida; Michinori Toriyama; Tadayuki Shimada; Colleen F Manning; Michiko Saito; Kenji Kohno; James S Trimmer; Rikiya Watanabe; Naoyuki Inagaki",
+    "first": "Baba",
+    "year": "2018",
+    "doi": "10.7554/eLife.34593",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Baba et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.34593.003 Figure 1. Shootin1  knockout mice display abnormal projection of forebrain commissural axons. ( A ) A representative sagittal section of a P0 mouse brain immunolabeled with shootin1a antibody (green) and counterstained with DAPI (blue). ( B ) Coronal sections of E16.5 mouse brains double-immunolabeled with anti-shootin1a (green) and anti-L1-CAM (magenta) antibodies. The arrow and arrowhead indicate the corpus callosum and anterior commissure, respectively. ( C ) Coronal sections of the forebrain of wild-type and  Shootin1  knockout mice at P0 stained for Nissl substance. ( D ) Serial horizontal sections of the ventral forebrain of wild-type and  Shootin1  knockout mice at P0 stained for Nissl substance. ( E ) Coronal sections of wild-type and  Shootin1  knockout mouse brains at P0 immunolabeled with anti-L1-CAM antibody (green). Ectopic axonal projections were observed in the neocortex (arrowheads). In the knockout mice, the prominent axonal tracts observed in the intermediate zone of the neocortex of wild-type mice (arrows) were undetectable and ectopic axonal projections were observed (arrowheads). Lower panels show enlarged views of the rectangles. ( F ) Coronal sections of wild-type and  Shootin1  knockout mouse brains at P0. DiI crystals (magenta) were placed into the neocortex (asterisks) to label callosal axons. An arrowhead indicates incomplete contralateral projections of callosal axons. ( G ) Horizontal sections of wild-type and  Shootin1  knockout mouse brains at P0 immunolabeled with anti-L1-CAM antibody (green). In  Shootin1  knockout mice, the bundling of the commissural axons was disrupted (arrowheads). ( H ) Horizontal sections of wild-type and  Shootin1  knockout mouse brains at P0. DiI crystals (magenta) were placed in the anterior piriform cortex (asterisks) to label the anterior limb of the anterior commissure. Defasciculation and misprojection of the commissural axons are indicated by the arrow and arrowhead, respectively. Dashed lines indicate the anterior limb of the anterior commissure. Abbreviations: AC, anterior commissure; ACa, anterior limb of the anterior commissure; ACp, posterior limb of the anterior commissure; CC, corpus callosum; F, fimbria; Fx, fornix; KO,  Shootin1  knockout mouse; MCP, middle cerebellar peduncle; Spt, Septum; VMH, ventromedial hypothalamic nucleus; WT, wild-type mouse. Scale bars: 500 μm.",
+    "original_url": "https://cdn.elifesciences.org/articles/34593/elife-34593-fig1-v1.tif",
+    "sha256": "31d5d88e5cd164578ac87617df9e660a8b39e7d9cca55f8815f24963a6a8aba5",
+    "width": 1897,
+    "height": 2730,
+    "display_path": "figures/elife_34593_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.365
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1897,
+      2730
+    ],
+    "display_sha256": "5f0c21c81f50fbf87c9ad0917cb0d1aa5dd96bad2e39c7adb62fbdf329aad03e"
+  },
+  "34593:4": {
+    "path": "figures/elife_34593_fig4.png",
+    "title": "Gradient-reading and mechano-effector machinery for netrin-1-induced axon guidance",
+    "authors": "Kentarou Baba; Wataru Yoshida; Michinori Toriyama; Tadayuki Shimada; Colleen F Manning; Michiko Saito; Kenji Kohno; James S Trimmer; Rikiya Watanabe; Naoyuki Inagaki",
+    "first": "Baba",
+    "year": "2018",
+    "doi": "10.7554/eLife.34593",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Baba et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.34593.019 Figure 4. Netrin-1–induced Pak1-mediated shootin1a phosphorylation enhances the interaction between shootin1a and L1-CAM. ( A  and  B ) Co-immunoprecipitation of myc-shootin1a and FLAG-L1-CAM-ICD in HEK293T cells. Cells were transfected with vectors to express myc-shootin1a and FLAG-L1-CAM-ICD; some of them were also co-transfected with a vector to express dominant negative Pak1 (KD) or constitutively active Pak1 (CA) as indicated. Cell lysates were then incubated with anti-FLAG antibody. The immunoprecipitates were immunoblotted with anti-myc or anti-FLAG antibody ( A ). Cell lysates (1%) were also analyzed with anti-pSer101-shootin1, anti-pSer249-shootin1, or anti-myc antibody. Quantitative data for phosphorylated and bound shootin1a are shown in ( B ) ( n  = 3 independent experiments). Data represent means ± SEM; ***p<0.01; **p<0.02; *p<0.05 (One-way ANOVA with Tukey’s post hoc test). ( C  and  D ) Co-immunoprecipitation of shootin1a and L1-CAM in cultured cortical neurons. After incubation of neurons with 4.4 nM netrin-1 or BSA (control) for 1 hr, cell lysates were prepared and incubated with anti-shootin1 antibody (right panel). The immunoprecipitates were immunoblotted with anti-shootin1 or anti-L1-CAM antibody. The cell lysates (5%) were also analyzed with anti-pSer101-shootin1, anti-pSer249-shootin1, or anti-shootin1a antibody (left panel). Quantitative data for phosphorylated shootin1a and bound L1-CAM are shown in ( D ) ( n  = 3 independent experiments). Data represent means ± SEM; **p<0.02; *p<0.05 (Unpaired Student’s  t -test). ( E ) Fluorescence images of an axonal growth cone labeled with anti-pSer249-shootin1a (magenta) and anti-L1-CAM (green) antibodies. The cells were observed using a TIRF microscope. An enlarged view of the filopodium in the rectangle is shown in the lower panel. Arrowheads indicate phosphorylated shootin1a colocalized with L1-CAM. Bar: 5 μm (in the inset, 2 μm). 10.7554/eLife.34593.020 Figure 4—source data 1. Quantitative data for phosphorylated and bound shootin1a related to  Figure 4B . 10.7554/eLife.34593.021 Figure 4—source data 2. Quantitative data for phosphorylated shootin1a and bound L1-CAM related to  Figure 4D .",
+    "original_url": "https://cdn.elifesciences.org/articles/34593/elife-34593-fig4-v1.tif",
+    "sha256": "3b1cef43841202d4c2cf4d2583b0e276b4107bed24e1eb7f207552b0f90078c1",
+    "width": 2113,
+    "height": 3033,
+    "display_path": "figures/elife_34593_fig4_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.32
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2113,
+      3033
+    ],
+    "display_sha256": "d4681cabc86c31d6dec39b85a19fb94bae0b0a09958770439cb179d5a3b9295d"
+  },
+  "48964:1": {
+    "path": "figures/elife_48964_fig1.png",
+    "title": "Fibronectin is a smart adhesive that both influences and responds to the mechanics of early spinal column development",
+    "authors": "Emilie Guillon; Dipjyoti Das; Dörthe Jülich; Abdel-Rahman Hassan; Hannah Geller; Scott Holley",
+    "first": "Guillon",
+    "year": "2020",
+    "doi": "10.7554/eLife.48964",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Guillon et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Reduction of Fibronectin matrix enhances neural tube convergence but abrogates bilaterally symmetric paraxial mesoderm morphogenesis. ( A ) A schematic of the zebrafish tailbud and two transverse sections at the anterior and posterior ends of the presomitic mesoderm (PSM, cyan). The left and right PSM flank the neural tube (NT, magenta) and notochord (NC). The neural tube and PSMs converge along the medial-lateral axis, and the anterior tailbud is further converged than the less developed posterior tailbud. ( B–E ) Transverse sections 160 μm posterior to the last somite boundary at 12–14 somite stage in wt ( B ),  cdh2 -/-  ( C ),  MZ itgα5 -/-  ( D ), and  cdh2 -/- ; MZ itgα5 -/-  ( E ). Sections were reconstructed at a distance of 160–180 μm from last somite boundary after wholemount labeling for fibronectin (red) and nuclei (grey). Yellow dotted lines delineate neural tube contours. White arrowheads indicate locations of tissue detachment (also see  Figure 1—figure supplement 2E and F ). Dorsal is to the top. Scale bars = 70 μm. ( F ) Quantification of the medial-lateral length of the neural tube (as indicated by red double arrow) along the anterior-posterior axis starting from the last somite boundary. Quantifications were performed on transverse sections spaced every 20 μm. Dots represent means and error bars represent SD. Sample size: n = 10 PSMs on five embryos for each genotype. ( G ) Quantification of left-right asymmetry in PSM area. Each dot denotes an absolute difference in left and right PSM areas at each transverse section. Sample size: n = 75 sections from five embryos for each genotype. ***p<0.0005, T-test.  cdh2 -/-  vs WT, p=0.79;  MZ itgα5 -/-  vs WT, p=2.51e-4;  MZ itgα5 -/- ; cdh2 -/-  vs WT, p=3.34e-10.",
+    "original_url": "https://cdn.elifesciences.org/articles/48964/elife-48964-fig1-v1.tif",
+    "sha256": "60796fd02efd5c4a869f4ed731c459a376b502f7420b38420de253d654803a38",
+    "width": 2271,
+    "height": 1560
+  },
+  "48964:3": {
+    "path": "figures/elife_48964_fig3.png",
+    "title": "Fibronectin is a smart adhesive that both influences and responds to the mechanics of early spinal column development",
+    "authors": "Emilie Guillon; Dipjyoti Das; Dörthe Jülich; Abdel-Rahman Hassan; Hannah Geller; Scott Holley",
+    "first": "Guillon",
+    "year": "2020",
+    "doi": "10.7554/eLife.48964",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Guillon et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Gradients of Fibronectin matrix and F-actin correlate with in silico gradients of tension. ( A ) Heat map of the tension distribution along tissue surfaces in silico. Warmer colors represent higher tension. Inset: magnification of the PSM|NT interface showing a medial-lateral tension gradient on the neural tube side of the interface. ( B–D ) Transverse sections taken 60 μm away from last somite boundary on a 12–14 s stage embryo co-labeled for Fibronectin (FN, red) and F-actin (green). There are colocalized medial-lateral gradients of both F-actin and Fibronectin matrix along the PSM|NT interface (dashed box). Star denotes differentiating myofibers that show high F-actin signal. Scale bars = 20 μm. ( E ) 3D schematic of the PSM|NT interface (grey) and the PSM|E interface (orange). To quantify matrix assembly along these interfaces, FN matrix signal is sorted into two categories based on size: small matrix elements (cyan) and large matrix elements (magenta). See SI for details. The F-actin signal ( F, I ), FN signal ( G, J ), and processed images of small and large matrix elements ( H, K ) are shown. The PSM|NT interface exhibits medial-lateral gradients of F-actin and Fibronectin ( F–H ), whereas the PSM|E interface shows an increase in F-actin and Fibronectin matrix assembly along the posterior to anterior axis ( I–K ). All images are projected dorsal views. A = anterior, P=posterior, M = medial, L = lateral. Scale bar = 10 μm. Quantification of the medial-lateral distributions of F-actin ( L ) and small and large FN matrix elements ( M ) along the PSM|NT interface. The bracket in ( L ) denotes the differentiating myofibers rich in F-actin. Quantification of the medial-lateral distributions of F-actin ( N ) and small and large FN matrix elements ( O ) along the PSM|E interface. Quantification the density of F-actin ( P ) and small and large matrix elements ( Q ) along the anterior-posterior axis of the PSM|E interface. Data represent means and SD. Sample sizes: L, n = 8 PSMs from six embryos; N, P, n = 7 PSMs from five embryos; M, O, Q, n = 10 PSMs from six embryos. ( R ) The NT-PSM interfaces represented as a lap-joint with a single sided strap. Neural tube (magenta) acts as a strap that is adhered to the two PSMs (cyan) via a graded adhesive (red) made of Fibronectin. Medial and ventral edges of PSM are attached to the notochord and yolk surface respectively (dashed region). Black arrows denote neural tube convergence and green arrows denote resistance to this convergence via the adhesive. Neural tube convergence with respect to the adhesive produces shear stress. Established theories of lap-joint predict a stress gradient with higher stress at the lateral edge of the PSM|NT interface. Extra adhesive, called a ‘spew fillet,’ in an arced shape at the lateral sides of the strap strengths the joint. ( S ) Transverse section on a 12–14 s stage embryo labeled for Fibronectin (FN, red) illustrating the spew fillet of FN matrix (arrowhead). Scale bar = 20 μm.",
+    "original_url": "https://cdn.elifesciences.org/articles/48964/elife-48964-fig3-v1.tif",
+    "sha256": "1e08794dfae8903c9619aa539b4e60668bfed4433d2a2e7a7dad1de8e217a843",
+    "width": 2264,
+    "height": 3406,
+    "display_path": "figures/elife_48964_fig3_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      0.68,
+      0.232
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2264,
+      3406
+    ],
+    "display_sha256": "89fa583aa9fedb5fc887ad97b2276d229a4cb7a76c7dbb8166a18f87b1bb7f67"
+  },
+  "50531:1": {
+    "path": "figures/elife_50531_fig1.png",
+    "title": "Microglial depletion disrupts normal functional development of adult-born neurons in the olfactory bulb",
+    "authors": "Jenelle Wallace; Julia Lord; Lasse Dissing-Olesen; Beth Stevens; Venkatesh N Murthy",
+    "first": "Wallace",
+    "year": "2020",
+    "doi": "10.7554/eLife.50531",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wallace et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Microglia preferentially interact with mushroom spines on developing abGCs. ( A ) Maximum intensity projection (10 µm volume at the first imaging timepoint) showing dTomato-labeled abGCs in a CX3CR1-GFP heterozygous mouse imaged 4 weeks after lentivirus injection. Brightness and contrast adjusted for display only. ( B ) Single plane time series showing the region marked in ( A ). Inset shows the calculated percent microglial coverage for the spine marked with the arrowhead (images shown for six frames, 7 th  frame not shown but the value is plotted, showing the end of the interaction) with the larger circle marking the value for the corresponding frame. Brightness and contrast adjusted with the same parameters for each timepoint for display only. ( C ) Single plane image showing an example of a spine classified as a mushroom spine because the spine head is wider and brighter than the spine neck. ( D ) Probability distribution showing the proportion of mushroom spines with at least one microglial interaction for mushroom spines in the real data (black line, ‘Data’) compared to values calculated from iteratively translating the microglial channel relative to the dendritic imaging channel (gray histogram, ‘Offsets’). The proportion of spines with interactions was not significantly higher than chance (one-tailed permutation test, p=0.13). ( E ) Probability distribution showing the number of interactions (normalized to 10 min) for mushroom spines. The mean number of interactions (value for each dendrite is the mean number across all mushroom spines on that dendrite) in the real data was significantly higher than chance (one-tailed permutation test, p=0.048). ( F ) Probability distribution showing interaction length for mushroom spines (for spines that had at least one frame that met the criteria for an interaction, see Materials and methods). The mean interaction length across all dendrites (value for each dendrite is the mean interaction length across all interactions for all mushroom spines) was not higher than chance (one-tailed permutation test, p=0.96). ( G ) Probability distribution showing maximum percent coverage (mean across all interactions for a given spine for spines that had at least one frame that met the criteria for an interaction). The mean maximum percent coverage across all dendrites (value for each dendrite is the mean interaction length across all interactions for all mushroom spines) was not higher in the real data (one-tailed permutation test, p=0.72). ( H ) Single plane image of a spine classified as a filopodial spine because it has no clear spine head. ( I ) Probability distribution showing the proportion of spines with at least one microglial interaction for filopodial spines. The proportion of filopodial spines with interactions was not significantly higher than chance (one-tailed permutation test, p=0.39). ( J ) Probability distribution showing the number of interactions (normalized to 10 min) for filopodial spines. The mean number of interactions (value for each dendrite is the mean number across all filopodial spines on that dendrite) in the real data was not significantly higher than chance (one-tailed permutation test, p=0.72). ( K ) Probability distribution showing interaction length for filopodial spines (for spines that had at least one frame that met the criteria for an interaction, see Materials and methods). The mean interaction length across all dendrites (value for each dendrite is the mean interaction length across all interactions for all filopodial spines) was not significantly higher than chance (one-tailed permutation test, p=0.23). ( L ) Probability distribution showing maximum percent coverage (mean across all interactions for a given spine for spines that had at least one frame that met the criteria for an interaction). The mean maximum percent coverage across all dendrites (value for each dendrite is the mean interaction length across all interactions for all filopodial spines) was not higher in the real data (one-tailed permutation test, p=0.84). n = 726 spines (271 mushroom spines and 455 filopodial spines) from 48 dendrites combined at 1, 2, 3, and 4 weeks post injection in three mice. ns, not significant; *p<0.05. Figure 1—source data 1. This spreadsheet contains the values used to create the histograms in  Figure 1D–G and I–L .",
+    "original_url": "https://cdn.elifesciences.org/articles/50531/elife-50531-fig1-v1.tif",
+    "sha256": "56efcf24d5ab018fa0751a77f87edd22b0052b034a5ffcd1a67878fd5e135e42",
+    "width": 2405,
+    "height": 2149,
+    "display_path": "figures/elife_50531_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.46
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2405,
+      2149
+    ],
+    "display_sha256": "3c9ddc14788a958876e62e5f84f531025a07ec42bad24e815b045b0557b45b90"
+  },
+  "50531:4": {
+    "path": "figures/elife_50531_fig4.png",
+    "title": "Microglial depletion disrupts normal functional development of adult-born neurons in the olfactory bulb",
+    "authors": "Jenelle Wallace; Julia Lord; Lasse Dissing-Olesen; Beth Stevens; Venkatesh N Murthy",
+    "first": "Wallace",
+    "year": "2020",
+    "doi": "10.7554/eLife.50531",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wallace et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Microglial depletion after development has no effect on odor-evoked responses of abGCs. ( A ) Experimental timeline for microglial depletion after development of abGCs. AbGCs were labeled via lentivirus injection and allowed to mature for 3 months. A control imaging session was performed immediately before administration of PLX chow and the second imaging session occurred 3 weeks later. ( B ) Heatmap traces from the 100 ROIs with the largest odor-evoked Ca2+ signals across all mice ranked for each of 15 odors (molecular structures shown above). Black bar denotes odor time. Bottom, mean response time course for each odor across all ROIs. ( C ) Cumulative distribution showing that the distribution of responses (averaged across odors for each dendrite) is not different before and after PLX diet administration (Two sample Kolmogorov–Smirnov test, D = 0.087, p=0.45) and the noise distributions constructed from blank trials are also not different (D = 0.11, p=0.16). ( D ) Cumulative distribution showing the number of effective odors (odors that evoked responses above the ROC threshold 0.53, which was calculated across all dendrites from both groups). The median number of effective odors was not different between groups (Wilcoxon rank sum test, z = 0.0038, p=1.00). ( E ) Raincloud plot showing the distribution of lifetime sparseness across all dendrite. Above, kernel density estimate. Below, boxplot showing the median, interquartile range (box), and 1.5 times the interquartile range (whiskers) superimposed on a dot plot of all the data (one dot per dendrite). Median lifetime sparseness was not different between groups (Wilcoxon rank sum test, z = 0.18, p=0.87). n = 198 dendrites before and 185 dendrites after 3 weeks of PLX administration from three mice. ns, not significant. Figure 4—source data 1. This spreadsheet contains values from each dendrite for  Figure 4C,D and E .",
+    "original_url": "https://cdn.elifesciences.org/articles/50531/elife-50531-fig4-v1.tif",
+    "sha256": "da83725137821c53e5d49d304b226b47089f9a76cc7efea87c123841e7bc6cfb",
+    "width": 2482,
+    "height": 1911
+  },
+  "51512:1": {
+    "path": "figures/elife_51512_fig1.png",
+    "title": "LIS1 determines cleavage plane positioning by regulating actomyosin-mediated cell membrane contractility",
+    "authors": "Hyang Mi Moon; Simon Hippenmeyer; Liqun Luo; Anthony Wynshaw-Boris",
+    "first": "Moon",
+    "year": "2020",
+    "doi": "10.7554/eLife.51512",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Moon et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Cleavage plane formation and positioning in the neocortical neural progenitor cells (NPCs) in WT -MADM  and  Pafah1b1-MADM  embryos. ( A ) Wild-type (WT) NPCs displayed recruitment of Anillin to the basal equatorial cortex and ultimately the Anillin-ring moved to the apical surface of the ventricular zone, forming a ‘U’-like shape. ( B ) Schematic representation of  Pafah1b1-MADM  mating scheme and three types of neocortical NPCs with different LIS1 expression levels. Immunoreactivity (IR) from immunohistochemistry experiment with anti-GFP and anti-tdT-c-Myc antibodies was indicated. ( C ) (e) Midbody-associated Anillin localization in WT ( Pafah1b1 +/+ ) NPCs, (f,g) Midbody-associated Anillin distribution was not detected in  Pafah1b1  heterozygous ( Pafah1b1 ko/+ ) NPCs. (h) Complete knock-out (KO) of  Pafah1b1  ( Pafah1b1 ko/ko ) in NPCs results in mitotic arrest at the prometaphase- or metaphase-like time-points. ( D ) (i,j). WT NPCs displayed apical membrane-associated RhoA during cytokinesis. (k,l). RhoA was also co-localized with the midbody, at the future cleavage furrow. ( E ) (m,n). The cytosol from only one daughter cell retained RhoA-positive puncta in WT NPCs. (o) Complete KO of  Pafah1b1  ( Pafah1b1 ko/ko ) resulted in detachment of NPCs away from the RhoA-positive apical membrane. Gray arrowheads: ventricular surface (apical). Scale bars: 5 μm. Quantitative data were included in  Figure 1—source data 1 . Figure 1—source data 1. Quantification of apical NPCs (RGs).",
+    "original_url": "https://cdn.elifesciences.org/articles/51512/elife-51512-fig1-v2.tif",
+    "sha256": "b4d0d661ed40bf00dfa1fedda3af4f6f97b4cc7b21082f4018f4f2922ee229ec",
+    "width": 1896,
+    "height": 3180,
+    "display_path": "figures/elife_51512_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.435
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1896,
+      3180
+    ],
+    "display_sha256": "d84054826a29f4294df37c3abaff23737e287451b7a4e37e4bbdcf323f6152f6"
+  },
+  "51512:4": {
+    "path": "figures/elife_51512_fig4.png",
+    "title": "LIS1 determines cleavage plane positioning by regulating actomyosin-mediated cell membrane contractility",
+    "authors": "Hyang Mi Moon; Simon Hippenmeyer; Liqun Luo; Anthony Wynshaw-Boris",
+    "first": "Moon",
+    "year": "2020",
+    "doi": "10.7554/eLife.51512",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Moon et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Loss of  Pafah1b1  in mouse embryonic fibroblasts (MEFs) impairs normal cytokinesis and leads to binucleation of the daughter cells. ( A )  Pafah1b1  mutant mouse embryonic fibroblasts (MEFs) ( Pafah1b1 hc/ko ) displayed failure of cytokinesis, daughter cell separation, compared with WT MEFs, analyzed by time-lapse live-cell imaging. ( B ) Increased binucleation by fused daughter cells from MEFs with acutely deleted  Pafah1b1  ( CAGG-CreERT2; Pafah1b1 hc/hc ). ( C ) Increased apoptotic cell death from  Pafah1b1 hc/ko  MEFs compared with WT MEFs (green: cleaved caspase-3, red: α-Tubulin, blue: DAPI). ( D ) Acutely induced  Pafah1b1  conditional knock-out (CKO) mutant MEFs ( CAGG-CreERT2; Pafah1b1 hc/hc  + TM 12h ) also displayed less frequency of normal daughter cell separation compared with control MEFs ( CAGG-CreERT2; Pafah1b1 +/+  + TM 12h ). ( E ) An increased trend in binucleation was found in  Pafah1b1  CKO mutant MEFs relative to control MEFs. However, it did not reach significant. Scale bars: 50 μm. Quantitative data were included in  Figure 4—source data 1 . Figure 4—source data 1. Quantification of MEFs.",
+    "original_url": "https://cdn.elifesciences.org/articles/51512/elife-51512-fig4-v2.tif",
+    "sha256": "004eb61bba80e262cf0d5a8f670e468ce9b721afd4da21775c7055933ed91b4d",
+    "width": 2288,
+    "height": 3084
+  },
+  "56359:1": {
+    "path": "figures/elife_56359_fig1.png",
+    "title": "Therapeutic effects of anodal transcranial direct current stimulation in a rat model of ADHD",
+    "authors": "Da Hee Jung; Sung Min Ahn; Malk Eun Pak; Hong Ju Lee; Young Jin Jung; Ki Bong Kim; Yong-Il Shin; Hwa Kyoung Shin; Byung Tae Choi",
+    "first": "Jung",
+    "year": "2020",
+    "doi": "10.7554/eLife.56359",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Jung et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Effects of HD-tDCS application on cognitive behaviors in a rat model of ADHD. ( A ) Performance and mean speed on the open-field test. Hyperactivity in the open-field test was significantly reduced in the tDCS-PFC group compared with the sham group (n = 8). ( B ) A DNMTP of the T-maze results, total % of correct choices for 10 sessions. The % correct choices were significantly higher in all HD-tDCS and MPH-treated groups compared to the sham group (n = 7). ( C ) Modified Y-maze results, % of time in new arm. The time in the new arm was significantly decreased in the tDCS-M1 group compared with the SHR group (n = 8). ( D ) Y-maze spontaneous alternation task, % alternation performance of SAP, AAR, and SAR. SAR was significantly lower in the tDCS-PFC and MPH groups compared with the sham group (n = 7). ( E ) Passive avoidance test, latency. HD-tDCS and MPH-treated groups showed significantly higher latency compared to the sham group (n = 6). ( F ) Object-place recognition test, representative examples of movement path and discrimination ratio. The tDCS-PFC group showed a marked increase in time spent exploring the novel placed object compared to the sham group (n = 8). SAP; spontaneous alternation performance, AAR; alternate arm return. Data are presented as mean ± SEM. *p<0.05,  ** p<0.01, and  *** p<0.001 vs. WKY;  # p<0.05,  ## p<0.01, and  ### p<0.001 vs. SHR;  & p<0.05,  && p<0.01, and  &&& p<0.001 vs. sham;  $$ p<0.01 vs. tDCS-PFC. Figure 1—source data 1. Source files for behavior tests. This zip archive contains all source data on the cognitive behaviors shown in  Figure 1 .",
+    "original_url": "https://cdn.elifesciences.org/articles/56359/elife-56359-fig1-v2.tif",
+    "sha256": "7c4fed89b24ea889ebd8f67e6363d9f225b55ac20ac4f0440ff0e5e6f1b9d241",
+    "width": 1889,
+    "height": 821
+  },
+  "56359:4": {
+    "path": "figures/elife_56359_fig4.png",
+    "title": "Therapeutic effects of anodal transcranial direct current stimulation in a rat model of ADHD",
+    "authors": "Da Hee Jung; Sung Min Ahn; Malk Eun Pak; Hong Ju Lee; Young Jin Jung; Ki Bong Kim; Yong-Il Shin; Hwa Kyoung Shin; Byung Tae Choi",
+    "first": "Jung",
+    "year": "2020",
+    "doi": "10.7554/eLife.56359",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Jung et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Effects of HD-tDCS application over the prefrontal cortex on mBDNF- and pTrkB-positive cells in our rat model of ADHD. ( A, E ) Photomicrograph and histogram showing the mean number of mBDNF- and pTrkB-positive cells in the medial prefrontal cortex, ( B, F ) in the striatum, ( C, G ) in the dorsal hippocampus, and ( D, H ) in the SN/VTA. The mBDNF- and pTrkB-positive cells were significantly increased in the tDCS-PFC group compared to the sham animals at all sites except the SN. Significantly more mBDNF/pTrkB double-positive cells were also detected in the SN. Data are presented as the mean ± SEM.  & p<0.05,  && p<0.01 and  &&& p<0.001 vs. sham;  $ p<0.05,  $$ p<0.01 and  $$$ p<0.001 vs. tDCS-PFC. Scale bar = 100 µm. Figure 4—source data 1. Source files for quantification of BDNF and its activated receptor. This file contains all source data for BDNF and its activated receptor shown in  Figure 4 .",
+    "original_url": "https://cdn.elifesciences.org/articles/56359/elife-56359-fig4-v2.tif",
+    "sha256": "b59e1e36dede5a866de25e8372dcc97e47c944d8fc1b6f34ed2b3105957d40a3",
+    "width": 1654,
+    "height": 962
+  },
+  "58731:1": {
+    "path": "figures/elife_58731_fig1.png",
+    "title": "Alterations of specific cortical GABAergic circuits underlie abnormal network activity in a mouse model of Down syndrome",
+    "authors": "Javier Zorrilla de San Martin; Cristina Donato; Jérémy Peixoto; Andrea Aguirre; Vikash Choudhary; Angela Michela De Stasi; Joana Lourenço; Marie-Claude Potier; Alberto Bacci",
+    "first": "Zorrilla de San Martin",
+    "year": "2020",
+    "doi": "10.7554/eLife.58731",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Zorrilla de San Martin et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Synaptic enhancement of dendritic inhibition in DS. ( a ) Schematic of cortical inhibitory circuits involving PV interneurons, MCs and PNs. ( b ) Representative voltage-clamp current traces of uIPSCs recorded in MC-PN connected pair in a Eu (top) and a Ts (bottom) mouse, before (Ctrl) and after (α5IA) application of the α5-GABA A R inverse agonist α5IA (100 nM). Shown are averages of 50 traces. Right, bottom: population data of uIPSC amplitude block by α5IA in Eu and Ts mice. ( c ) Top: Representative traces of uIPSCs (lower traces) elicited by a train of 5 presynaptic action currents (50 Hz) in the MC (upper traces). Eu: individual (gray) and average (black) traces; Ts: individual (light blue) and average (blue) traces. Bottom panels: population data of uIPSC amplitude (p=0.0094, Mann-Whitney U-test), failure rate of the postsynaptic response evoked by the first action potential of the train (p=0.0201, Mann-Whitney U-test) and total charge, transferred during the 5 APs train (Q, p=0.006, Mann-Whitney U-test; n = 11 and 15 pairs for Eu and Ts, respectively). ( d ) Same as in  c , but for glutamatergic uEPSCs triggered by action currents in presynaptic PNs and recorded in postsynaptic MCs (Amplitude: p=0.0398, Mann-Whitney U-test; Failure Rate: p=0.0107, Mann-Whitney U-test; Q: p=0.0157, Students T-test; n = 7 for both, Eu and Ts). Figure 1—source data 1. Synaptic properties of the dendritic inhibitory loop.",
+    "original_url": "https://cdn.elifesciences.org/articles/58731/elife-58731-fig1-v2.tif",
+    "sha256": "45c3abccf6fee0c8ed34b18e70ed7df0fbc2615fc3e8280febd27ebaacb66cb1",
+    "width": 2248,
+    "height": 720
+  },
+  "58731:4": {
+    "path": "figures/elife_58731_fig4.png",
+    "title": "Alterations of specific cortical GABAergic circuits underlie abnormal network activity in a mouse model of Down syndrome",
+    "authors": "Javier Zorrilla de San Martin; Cristina Donato; Jérémy Peixoto; Andrea Aguirre; Vikash Choudhary; Angela Michela De Stasi; Joana Lourenço; Marie-Claude Potier; Alberto Bacci",
+    "first": "Zorrilla de San Martin",
+    "year": "2020",
+    "doi": "10.7554/eLife.58731",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Zorrilla de San Martin et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Altered excitability of PV cells in Ts mice. ( a ) Representative voltage traces in response to current steps of increased amplitudes applied to to PV-INs from Eu (gray) and Ts (blue). ( b ) Representative F-I curves recorded from Eu (top) and Ts (bottom) individual interneurons. Continuous lines represent logarithmic fit used to estimate Rheobase and Gain in each recorded cell. ( c ) Left: Rheobase population data for Eu (194.9 ± 22.4 pA) and Ts mice (85.0 ± 15.3 pA; p=0.00038, Mann-Whitney U-test). Middle: Gain population data for Eu (150.8 ± 22.6 Hz) and Ts mice (47.2 ± 9.4 Hz; p=0.00035, Mann-Whitney U-test). Right: Maximal spiking rate reached upon current injection (p=0.04, Mann-Whitney U-test, n = 28 and 26 cells for Eu and Ts, respectively). ( d ) Left: representative action-potential traces, scaled to the peak, from Eu (black) and Ts (blue) mice. Right: population data of AP width in the two genotypes. ( e ) Population data of input resistance measured in Eu and Ts PV-INs. ( f ) Quantification of PV-INs somas in the mPFC of Eu and Ts mice. Left: Epifluorescence images of immunolabeled PV cells in coronal slices from Ts::PV mice. Right: density of PV cells Eu and Ts (n = 6 and 7 mice for Eu and Ts, respectively; p=0.2602, Mann-Whitney test). *: p<0.05; **: p<0.01. Figure 4—source data 1. Excitability of PV cells.",
+    "original_url": "https://cdn.elifesciences.org/articles/58731/elife-58731-fig4-v2.tif",
+    "sha256": "186d6fc0422b06f5cd868223aa8c8763f1c08aa5fec63ea22a56e0e512f6728c",
+    "width": 4584,
+    "height": 2624
+  },
+  "58737:1": {
+    "path": "figures/elife_58737_fig1.png",
+    "title": "mTOR signaling regulates the morphology and migration of outer radial glia in developing human cortex",
+    "authors": "Madeline G Andrews; Lakshmi Subramanian; Arnold R Kriegstein",
+    "first": "Andrews",
+    "year": "2020",
+    "doi": "10.7554/eLife.58737",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Andrews et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. mTOR signaling is active in outer radial glial cells, but not other neural progenitor types, during human cortical development. ( A ) Simplified schematic of the mTORC1 signaling pathway. mTOR signaling has many mediators and regulates diverse processes throughout development. Experimental approaches to mTOR manipulation are included in the diagram. Green text indicates activation and red indicates inhibition. ( B ) Radial glia expressing SOX2, oRG cells expressing HOPX and neurons expressing NEUN are present during human corticogenesis at GW17-19. mTOR signaling is active in the cortex at this time, indicated by the presence of phosphorylated S6 (pS6) protein. Other mTOR pathway proteins like DEPDC5 and p4EBP1 are also expressed during this period. ( C ) mTOR pathway proteins are also expressed and active in the radial glia of eight week old cortical organoids. ( D ) pS6 is present in many, but not all, oRG cells in the oSVZ of the developing human cortex, indicating active mTOR signaling. White arrowheads indicate oRG cells co-expressing pS6 and HOPX. ( E ) pS6 is absent in SOX2+ vRGs in the VZ but present in laminin-expressing blood vessels. Of the neural progenitor populations, only SOX2+ oRG cells in the oSVZ co-express pS6 (white arrowheads). ( F ) pS6 is absent in TBR2+ IPCs in both the VZ and the oSVZ. ( G ) mTOR signaling is active in IBA1+ microglia (white arrows) and laminin+ blood vessels at the VZ (yellow arrowheads). However, in the oSVZ there is little mTOR activity in the microglia, but extensive co-labeling of SOX2+ oRG cells. ( H ) CRYAB+ tRGs do not express pS6. ( I ) Quantification of pS6+ cells co-labeled with each marker, SOX2, TBR2, CRYAB, LAMININ and IBA1, at the VZ or oSVZ expressed as a percentage of the total number of pS6+ cells. Significant mTOR activity is present only in the SOX2+ oRG cells in the oSVZ and in the laminin+ blood vessels in the VZ and oSVZ. (n = 28 sections from 3 individuals across eight independent experiments; D’Agostino-Pearson normality test: normally distributed; one way ANOVA with multiple comparisons: SOX2+ VZ vs SOX2+ oSVZ: **p<0.0031; SOX2 VZ vs Laminin VZ, Laminin oSVZ: ****p<0.0001; Scatter plot with individual data points, error bars indicate SD and the middle line is the mean). Figure 1—source data 1.",
+    "original_url": "https://cdn.elifesciences.org/articles/58737/elife-58737-fig1-v1.tif",
+    "sha256": "bf94ee8016da4bfe07c05bc536f416bf4f384faf31da01bfee0fddf5563d3b00",
+    "width": 1949,
+    "height": 2529
+  },
+  "58737:3": {
+    "path": "figures/elife_58737_fig3.png",
+    "title": "mTOR signaling regulates the morphology and migration of outer radial glia in developing human cortex",
+    "authors": "Madeline G Andrews; Lakshmi Subramanian; Arnold R Kriegstein",
+    "first": "Andrews",
+    "year": "2020",
+    "doi": "10.7554/eLife.58737",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Andrews et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Manipulation of mTOR signaling results in migration defects. ( A ) shRNAs were delivered along and electroporated onto the ventricular surface of primary cortical tissue which was then acutely sectioned and cultured for six days prior to collection. ( B ) After electroporation of  RPTOR  or  TSC2  shRNAs, GFP+ HOPX+ oRGs migrate less from the ventricular edge (n = 37 control, n = 33 Raptor and n = 27 TSC2-shRNA electroporated GFP+Hopx+ cells from three independent experiments; D’Agostino Pearson Normality Test: normally distributed; one-way ANOVA with multiple comparisons: Raptor shRNA: ****p<0.0001, TSC2 shRNA: ****p<0.0001, error bars represent SD). The distance of each HOPX+ GFP+ cell away from the VZ edge was measured as indicated by white brackets. ( C ) For dynamic imaging studies, primary cortical tissue was collected, dissociated, infected with a CMV::GFP adenovirus, and plated on glass-bottom 12 well plates. Small molecules were added one day later, two hours before the start of dynamic imaging. ( D ) GFP+ oRG cells undergo division via MST. Yellow arrowheads indicate cell body, white dot indicates initial position of cell body and pink arrowheads indicate two cell bodies after division. After inhibition of mTOR signaling oRG cells have shorter MSTs (n = 10 control and n = 8 rapamycin cells across two independent experiments; D’Agostino Pearson Normality Test: normally distributed; unpaired two-tailed student’s t-tests: **p<0.0082, error bars represent SD). ( E ) oRGs migrate less from their original position after mTOR inhibition (n = 9 vehicle treated and n = 12 rapamycin treated cells from two independent experiments; D’Agostino Pearson Normality Test: normally distributed; unpaired two-tailed student’s t-tests: **p<0.0058 error bars represent SD). White, yellow, and pink arrowheads indicate cell bodies at starting time-point. Multiple arrowheads of the same color over time indicate daughter cells from the same parent cell. Figure 3—source data 1.",
+    "original_url": "https://cdn.elifesciences.org/articles/58737/elife-58737-fig3-v1.tif",
+    "sha256": "0798a85bc28d80c8c50675e91e5a968ab906b89d5ad10f1c2c826c3d973cb1fe",
+    "width": 1950,
+    "height": 2411,
+    "display_path": "figures/elife_58737_fig3_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.41
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1950,
+      2411
+    ],
+    "display_sha256": "1824785395424a0758bae5b9f26f2ba6d197ee55c2d53685c4240d5d87d06b97"
+  },
+  "60351:1": {
+    "path": "figures/elife_60351_fig1.png",
+    "title": "<i>Cdon</i> mutation and fetal alcohol converge on Nodal signaling in a mouse model of holoprosencephaly",
+    "authors": "Mingi Hong; Annabel Christ; Anna Christa; Thomas E Willnow; Robert S Krauss",
+    "first": "Hong",
+    "year": "2020",
+    "doi": "10.7554/eLife.60351",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Time course of EtOH-Induced HPE in  Cdon -/-  Embryos. Frontal views of E14.0 embryos. Treatment of  Cdon -/-  embryos with EtOH at E7.25, but not E7.5, results in HPE (see  Table 1  for quantification). The  Cdon -/- embryo treated with EtOH at E7.25 displays a fused upper lip and single nostril (black arrow), whereas the  Cdon -/- embryo treated with EtOH at E7.5 does not and resembles the saline control (red arrow).",
+    "original_url": "https://cdn.elifesciences.org/articles/60351/elife-60351-fig1-v1.tif",
+    "sha256": "a011cb8fedc6964bae62278a4381d1a9a22530b3974367288b2f8ef0609ea555",
+    "width": 1667,
+    "height": 731
+  },
+  "60351:4": {
+    "path": "figures/elife_60351_fig4.png",
+    "title": "<i>Cdon</i> mutation and fetal alcohol converge on Nodal signaling in a mouse model of holoprosencephaly",
+    "authors": "Mingi Hong; Annabel Christ; Anna Christa; Thomas E Willnow; Robert S Krauss",
+    "first": "Hong",
+    "year": "2020",
+    "doi": "10.7554/eLife.60351",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Lefty2  Heterozygosity Suppresses EtOH-Induced HPE in  Cdon -/-  Embryos. Frontal views of E14.0 embryos. Removal of one copy of  Lefty2  suppressed formation of single nostril in  Cdon -/-  embryos in response to a dose of 3.48 g/kg EtOH (see  Table 3  for quantification). The EtOH-treated  Cdon -/-  embryo displays a fused upper lip and single nostril (black arrow), whereas the EtOH-treated  Cdon -/- ;Lefty2 +/-  embryo has a fused upper lip and two nostrils (red arrow).",
+    "original_url": "https://cdn.elifesciences.org/articles/60351/elife-60351-fig4-v1.tif",
+    "sha256": "a94bbf7acb306bb0c0ce68d3834333865e0f926d66ca6c94787f1603fe7ab216",
+    "width": 1888,
+    "height": 742
+  },
+  "62167:1": {
+    "path": "figures/elife_62167_fig1.png",
+    "title": "Microglial trogocytosis and the complement system regulate axonal pruning in vivo",
+    "authors": "Tony KY Lim; Edward S Ruthazer",
+    "first": "Lim",
+    "year": "2021",
+    "doi": "10.7554/eLife.62167",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Lim and Ruthazer",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. IB4-isolectin-conjugated fluorophores label microglial cells in developing  Xenopus laevis  tadpoles. ( A ) The tadpole brain colorized for identification (yellow = olfactory bulb and forebrain, green = optic tectum, blue = hindbrain). To label microglia, IB4-isolectin conjugated fluorophores are injected into the 3 rd  ventricle (red). ( B ) Dynamic cells with both ameboid-like and primitive ramified-like morphologies are labeled by IB4-isolectin. ( C ) The distribution in mobility of IB4-isolectin-labeled cells under normal conditions. Average velocity is 1.8 ± 0.5 μm/min (mean ± SD, n = 5). ( D ) Laser irradiation injury of the neuropil and response by IB4-isolectin-labeled cells. Laser irradiation injury induced a region of damaged, autofluorescent, tissue. IB4-isolectin-labeled cells mobilize to the injury site and remove the injured tissue by phagocytosis. IB4-isolectin-labeled cells are shown in red, and eGFP-labeled RGC axons are shown in green. Figure 1—source data 1. Microglia mobility measurements in  Figure 1C .",
+    "original_url": "https://cdn.elifesciences.org/articles/62167/elife-62167-fig1-v1.tif",
+    "sha256": "280e59cbfe299fd64dceb679ca96d648ffa0171f4c30b6d9f475ebf6faaf68ae",
+    "width": 1978,
+    "height": 1596
+  },
+  "62167:4": {
+    "path": "figures/elife_62167_fig4.png",
+    "title": "Microglial trogocytosis and the complement system regulate axonal pruning in vivo",
+    "authors": "Tony KY Lim; Edward S Ruthazer",
+    "first": "Lim",
+    "year": "2021",
+    "doi": "10.7554/eLife.62167",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Lim and Ruthazer",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. CSF1R antagonism depletes microglia from the optic tectum and increases axon arbor branch number. ( A ) Animals were treated with vehicle or 10 μM PLX5622. Brain structures and microglia were labeled using CellTracker Green BODIPY (green) and IB4-isolectin (red), respectively. The white dotted line indicates the border of the optic tectum. Single optical sections are shown. ( B ) PX5622 depletes microglia in the optic tectum. Mixed-effects REML model interaction F(3,39) = 14.23, p<0.0001. Sidak’s multiple comparison post-hoc test ****p<0.0001. Data are shown as mean ± SEM. ( C ) PLX5622 reduces the number of processes per microglia. Mixed-effects REML model main effect F(1,14)=18.42, ***p<0.001. Data are shown as mean ± SEM. ( D ) Monitoring of individual RGC axons in vehicle control and PLX5622-treated animals. ( E ) Microglial depletion with PLX5622 did not affect axon arbor length. Two-way RM ANOVA main effect F(1,24)=0.4141, p=0.53. Data are shown as mean ± SEM. ( F ) Microglial depletion with PLX5622 increased axon branch number. Two-way RM ANOVA main effect F(1,24)=5.581, p=0.027. Data are shown as mean ± SEM. Figure 4—source data 1. Microglia and axon morphometric properties from time lapse imaging over 4 days.",
+    "original_url": "https://cdn.elifesciences.org/articles/62167/elife-62167-fig4-v1.tif",
+    "sha256": "b893d1520596be9410cf0bac400506eaf7b16546adbc365a00022b892eed6bfe",
+    "width": 2047,
+    "height": 1695,
+    "display_path": "figures/elife_62167_fig4_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.48
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2047,
+      1695
+    ],
+    "display_sha256": "712458dc5347de981000164520b43386d66f92f471998950207d2cb8ae919f2e"
+  },
+  "78002:1": {
+    "path": "figures/elife_78002_fig1.png",
+    "title": "Attention-deficit hyperactivity disorder symptoms and brain morphology: Examining confounding bias",
+    "authors": "Lorenza Dall'Aglio; Hannah H Kim; Sander Lamballais; Jeremy Labrecque; Ryan L Muetzel; Henning Tiemeier",
+    "first": "Dall'Aglio",
+    "year": "2022",
+    "doi": "10.7554/eLife.78002",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Dall'Aglio, Kim, Lamballais et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Significant clusters in the association of attention-deficit/hyperactivity disorder (ADHD) symptoms with cortical surface area based on the Adolescent Brain Cognitive Development (ABCD) and Generation R Studies, for model 1. Note . Rows represent the results for the ABCD or Generation R Studies, and the columns represent the left and right hemispheres. Regions in red represent significant clusters from model 1 (adjusted for sex, age, race/ethnicity, and site [ABCD only]).",
+    "original_url": "https://cdn.elifesciences.org/articles/78002/elife-78002-fig1-v2.tif",
+    "sha256": "c1636f01f951ea372156a41e1018320f26ff52433d77ae12a6bdbfdac4e10f3e",
+    "width": 1969,
+    "height": 640
+  },
+  "78002:3": {
+    "path": "figures/elife_78002_fig3.png",
+    "title": "Attention-deficit hyperactivity disorder symptoms and brain morphology: Examining confounding bias",
+    "authors": "Lorenza Dall'Aglio; Hannah H Kim; Sander Lamballais; Jeremy Labrecque; Ryan L Muetzel; Henning Tiemeier",
+    "first": "Dall'Aglio",
+    "year": "2022",
+    "doi": "10.7554/eLife.78002",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Dall'Aglio, Kim, Lamballais et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Significant clusters in the association of attention-deficit/hyperactivity disorder (ADHD) symptoms with cortical surface area based on the Adolescent Brain Cognitive Development (ABCD) and Generation R Studies, for models 1–3. Note . Rows represent the results for the ABCD or Generation R Studies, and the columns represent the left and right hemispheres. The colors denote the different models. Regions in red represent significant clusters from model 1 (sex, age, race/ethnicity, and site [ABCD only]), orange from model 2 (model 1 + family income, maternal education, and maternal age at childbirth), and yellow from model 3 (model 2 + maternal smoking, substance use during pregnancy, psychopathology).",
+    "original_url": "https://cdn.elifesciences.org/articles/78002/elife-78002-fig3-v2.tif",
+    "sha256": "17468c0e7ee3bc6a10e8537f179342f2175dd6ec1c9ccd351979783f4ac9cf4f",
+    "width": 1969,
+    "height": 640
+  },
+  "78079:1": {
+    "path": "figures/elife_78079_fig1.png",
+    "title": "Label-free three-photon imaging of intact human cerebral organoids for tracking early events in brain development and deficits in Rett syndrome",
+    "authors": "Murat Yildirim; Chloe Delepine; Danielle Feldman; Vincent A Pham; Stephanie Chou; Jacque Ip; Alexi Nott; Li-Huei Tsai; Guo-Li Ming; Peter TC So; Mriganka Sur",
+    "first": "Yildirim",
+    "year": "2022",
+    "doi": "10.7554/eLife.78079",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Yildirim et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Three-photon microscope and imaging system. ( A ) Femtosecond laser pulses from a pump laser (1045 nm) were pumped through a noncollinear optical parametric amplifier (NOPA) to obtain 1300 nm excitation wavelength. Power control of these laser pulses was performed using a combination of a half-wave plate (HWP) and polarizing cube beam splitter (PCBS). A quarter-wave plate (QWP) was used to control the polarization state of the laser pulses to maximize the third harmonic generation (THG) signal. Laser beams were scanned by a pair of galvanometric scanning mirrors (SM), and passed through a scan lens (SL) and a tube lens (TL) on the back aperture of a 1.05 NA, 25×objective. The sample (S) was placed on a two-axis motorized stage, while the objective (OL) was placed on a one-axis motorized stage for nonlinear imaging. Emitted light was collected by a dichroic mirror (CM1), collection optics (CO), laser blocking filters (BF), and nonlinear imaging filters (F) and corresponding collection optics (COA, COB, and COC) for each photomultiplier tube (PMT A, PMT B, and PMT C). ( B ) Fixed intact organoids were placed inside imaging chamber gaskets on top of the bottom glass. Gaskets were filled with Hprotos and covered with a cover glass. ( C ) Live organoids were placed on top of the bottom plate of the incubator. Imaging gaskets were placed to secure organoids and cell medium was applied to fill the gaskets. Top plate was placed on top of the gaskets and the microincubator closed with 6 screws. Cell medium mixed with 5% CO 2 , 5%O 2 , and balanced N 2  was pumped to the chamber; incubator temperature was set to 37 °C.",
+    "original_url": "https://cdn.elifesciences.org/articles/78079/elife-78079-fig1-v1.tif",
+    "sha256": "6e1204dfe4a169a40b378070b3fbde4c366fbc39332e971996f6c0735995705f",
+    "width": 2861,
+    "height": 2458,
+    "display_path": "figures/elife_78079_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0.6,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2861,
+      2458
+    ],
+    "display_sha256": "a30f165270f3acddc4cb12d37b4c6dca5aa5f4c96a9ae4152fcfeff5b2813883"
+  },
+  "78079:4": {
+    "path": "figures/elife_78079_fig4.png",
+    "title": "Label-free three-photon imaging of intact human cerebral organoids for tracking early events in brain development and deficits in Rett syndrome",
+    "authors": "Murat Yildirim; Chloe Delepine; Danielle Feldman; Vincent A Pham; Stephanie Chou; Jacque Ip; Alexi Nott; Li-Huei Tsai; Guo-Li Ming; Peter TC So; Mriganka Sur",
+    "first": "Yildirim",
+    "year": "2022",
+    "doi": "10.7554/eLife.78079",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Yildirim et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Three-dimensional characterization of control (RTT-WT) and mutant (RTT-MT) VZ regions in intact organoids. ( A, B ). THG signal acquired from the whole RTT-WT ( A ) and RTT-MT ( B ) organoids (Line 1) (left) was segmented into individual ventricular regions (right). ( C ) (left; top) RTT-MT organoids showed slightly higher VZ volume than those in RTT-WT organoids (1.13±0.18 × 10 7  µm 3  for RTT-WT, and 1.39±0.15 × 10 7  µm 3  for RTT-MT organoids, p=0.3013; n=10 organoids, t-test). (left; bottom) The surface area of the VZ region in RTT-MT organoids was significantly higher than that in RTT-WT organoids (5.70±0.75 × 10 5  µm 2  for RTT-WT, and 11.0±0.71 × 10 5  µm 2  for RTT-MT organoids, p<0.0001; n=10 organoids, t-test). (right; top) The VZ thickness (V/A ratio) in RTT-MT organoids was significantly lower than that in RTT-WT organoids (23.11±4.12 µm for RTT-WT, and 9.99±0.27 µm for RTT-MT organoids, p<0.0001, n=10 organoids, t-test). (right; bottom) The number of ventricles was significantly higher in RTT-MT organoids than that in RTT-WT organoids (12.3±0.7 for RTT-WT, and 22.0±1.3 for RTT-MT organoids, p<0.0001, n=10 organoids, t-test). The data are collected from two lines (Line 1 and Line 2, see  Figure 4—figure supplements 2 – 5 ). Error bars are 90% of the confidence interval (CI).",
+    "original_url": "https://cdn.elifesciences.org/articles/78079/elife-78079-fig4-v1.tif",
+    "sha256": "b11da619c0e58940ab674773a3eb359bd3a5a6b69090ca5bbe71fa3bf0700d8b",
+    "width": 1888,
+    "height": 1935,
+    "display_path": "figures/elife_78079_fig4_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.28
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1888,
+      1935
+    ],
+    "display_sha256": "9fafb81d6bbf4bedc0ba98766346f941a14a0c58f23409311a65d6f991ce8045"
+  },
+  "78202:1": {
+    "path": "figures/elife_78202_fig1.png",
+    "title": "Trisomy 21 induces pericentrosomal crowding delaying primary ciliogenesis and mouse cerebellar development",
+    "authors": "Cayla E Jewett; Bailey L McCurdy; Eileen T O'Toole; Alexander J Stemm-Wolf; Katherine S Given; Carrie H Lin; Valerie Olsen; Whitney Martin; Laura Reinholdt; Joaquín M Espinosa; Kelly D Sullivan; Wendy B Macklin; Rytis Prekeris; Chad G Pearson",
+    "first": "Jewett",
+    "year": "2023",
+    "doi": "10.7554/eLife.78202",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Jewett et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Rapid PCNT and microtubule reorganization upon G0 arrest increases with HSA21 dosage. ( A ) Model figure showing the three main consequences of elevated PCNT in trisomy 21 ( T21 ) and tetrasomy 21 ( Q21 ) compared to disomy 21 ( D21 ) cells: (1) PCNT nucleates more microtubules; (2) PCNT forms large protein aggregates on microtubules; and (3) PCNT nucleates microtubules further away from the centrosome. These changes occur predominantly in the pericentrosomal region defined as 1.2–5 µm from the centroid of the centrosome. ( B ) Representative confocal images from time course experiments of RPE1 D21, T21, and Q21 cells grown on coverslips and serum depleted for 0, 2, 4, 8, 24, and 48 hr. Cells were stained with DM1a to label microtubules (MTs) and PCNT. Arrows point to cilium labeled by DM1a staining. ( C ) Quantitation of PCNT intensities in a 5 µm radial circle around the centrosome throughout the time course normalized to D21 average at 0 hr. Graph shows mean ± SD. N=3. ( D ) Quantitation of microtubule intensities in a 5 µm radial circle around the centrosome throughout the time course normalized to D21 average at 0 hr. Graph shows mean ± SD. N=3. ( E ) Quantitation of ciliation frequency throughout the time course using DM1a as a marker for cilia. Graph shows mean ± SD. N=3. ( F ) Quantitation of ciliation frequency per hour calculated by subtracting the percentage of ciliated cells at the starting time point from the percentage of ciliated cells at the ending time point and dividing the result by the total number of hours. Graph shows mean ± SD. N=3. Two-tailed unpaired t-test. Figure 1—source data 1. Values for biological and technical replicates for graphs in  Figure 1  and  Figure 1—figure supplement 1 .",
+    "original_url": "https://cdn.elifesciences.org/articles/78202/elife-78202-fig1-v1.tif",
+    "sha256": "fd904356de9103d66456f4c0c1a713c4ebd0eb4c080fa94ceab79e5f4f3012dc",
+    "width": 2410,
+    "height": 1990,
+    "display_path": "figures/elife_78202_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.3
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2410,
+      1990
+    ],
+    "display_sha256": "7f33a4f938eb7425daf6f633bd33e491f08c4609bc3e662a0419e1dca29ccc6f"
+  },
+  "78202:5": {
+    "path": "figures/elife_78202_fig5.png",
+    "title": "Trisomy 21 induces pericentrosomal crowding delaying primary ciliogenesis and mouse cerebellar development",
+    "authors": "Cayla E Jewett; Bailey L McCurdy; Eileen T O'Toole; Alexander J Stemm-Wolf; Katherine S Given; Carrie H Lin; Valerie Olsen; Whitney Martin; Laura Reinholdt; Joaquín M Espinosa; Kelly D Sullivan; Wendy B Macklin; Rytis Prekeris; Chad G Pearson",
+    "first": "Jewett",
+    "year": "2023",
+    "doi": "10.7554/eLife.78202",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Jewett et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 5. Decreased transition zone protein localization in ciliated trisomy 21  cells. ( A ) Representative confocal images of RPE1 D21 and T21 cells grown on coverslips and serum depleted for 24 hr. Cells were stained with GT335, PCNT, and the transition zone protein CEP290. Yellow arrows point to the CEP290 transition zone population and cyan arrows point to CEP290 satellites that colocalize with PCNT. ( B ) Quantitation of CEP290 transition zone intensity. Graph show mean ± SD. N=3. Mann-Whitney U test. ( C ) Quantitation of pericentrosomal CEP290 intensity in the 1.2–5 µm region around the centrosome. Graph show mean ± SD. N=3. Mann-Whitney U test. ( D, F, H ) Representative structured illumination microscopy images of RPE1 D21 and T21 cells grown on coverslips and serum depleted for 24 hr. Cells were stained with GT335 and the transition zone proteins RPGRIP1L ( D ), NPHP4 ( F ), or TMEM67 ( H ). ( E, G, I ) Quantitation of indicated transition zone protein intensities from confocal images. All values were normalized to the D21 average. Mean intensity values are indicated on graphs. Graphs show mean ± SD. N=3. Mann-Whitney U test. ( J ) 3D models from D21 and T21 cells that contained a primary cilium. An increase in vesicles (red spheres) and tubular membranes (blue-green) at the distal end of the mother centriole is evident in the D21 cell. A procentriole was observed at the T21 daughter centriole (violet). Scale bars are 200 nm. Movies of the complete volume and rotating models can be found in  Figure 5—videos 1 and 2 . ( K ) Quantitation of total membrane surface area at the centrosome in electron tomograms for D21 and T21 cells. N=1 reconstructed cell per cell line. Figure 5—source data 1. Values for biological and technical replicates for graphs in  Figure 5  and  Figure 5—figure supplement 1 .",
+    "original_url": "https://cdn.elifesciences.org/articles/78202/elife-78202-fig5-v1.tif",
+    "sha256": "d6c42f6b55d57f873cea8da8533f5019f0febf6074b7d2a8fee4af7732d2f3e5",
+    "width": 1388,
+    "height": 1585,
+    "display_path": "figures/elife_78202_fig5_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.327
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1388,
+      1585
+    ],
+    "display_sha256": "a5ed37acf90ce94dd54947d53ba3abd3811d6df8690e459235a3142331c0d8fa"
+  },
+  "82809:1": {
+    "path": "figures/elife_82809_fig1.png",
+    "title": "Dysregulation of mTOR signaling mediates common neurite and migration defects in both idiopathic and 16p11.2 deletion autism neural precursor cells",
+    "authors": "Smrithi Prem; Bharati Dev; Cynthia Peng; Monal Mehta; Rohan Alibutud; Robert J Connacher; Madeline St Thomas; Xiaofeng Zhou; Paul Matteson; Jinchuan Xing; James H Millonig; Emanuel DiCicco-Bloom",
+    "first": "Prem",
+    "year": "2024",
+    "doi": "10.7554/eLife.82809",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Prem et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Reduced neurite outgrowth and cell migration in both I-ASD and 16pDel neural precursor cells (NPCs). ( A ) Representative image: neurite outgrowth at 48 hr: Sib NPCs have more cells with neurites (black arrows) than I-ASD NPCs (red arrows). ( B ) Quantification of % neurites in three pairs of I-ASD and Sibs: I-ASD NPCs have fewer neurites (%) than Sib NPCs in all families. For neurite graphs, each dot represents the % of cells with neurites in a single dish. Colors represent different clones. ( C ) Representative image: Sib neurospheres have migrating carpet of cells (dark) that move further than that of I-ASD neurosphere. ( D ) Cell migration in three pairs of I-ASD and Sibs: I-ASD NPCs migrate less than Sib NPCs in all families. For migration graphs, each dot represents an individual neurosphere. Student’s t-test: all Sib vs I-ASD comparisons. ( E ) Neurite % in Sibs, NIH, I-ASD, and 16pDel ASD. Each dot represents data from a single dish with different colors denoting different individuals. Both 16pDel and I-ASD have reduced neurites compared to Sib and NIH NPCs. ( F ) NPC migration in Sibs, NIH, I-ASD, and 16pDel ASD. Both 16pDel and I-ASD NPCs have reduced migration compared to both Sib and NIH. One-way ANOVA for all 16pDel experiments. For all graphs: NS = p>0.05, p≤0.05 = *, p≤0.01 = **, p≤0.001 = ***, p≤0.0001 = ****. Error bars represent standard error of means (SEM). For detailed N values please see  Supplementary file 1 .",
+    "original_url": "https://cdn.elifesciences.org/articles/82809/elife-82809-fig1-v2.tif",
+    "sha256": "fe65d161aaef4c8d3bf7577d44057b3ae5df5d53c8480d8f905ac16446c77c9b",
+    "width": 2416,
+    "height": 3152,
+    "display_path": "figures/elife_82809_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.312
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2416,
+      3152
+    ],
+    "display_sha256": "884ccaf0e3d2cda36da440036003f1ba3d01c6d96aabf1115588ec10a66cd8fb"
+  },
+  "82809:4": {
+    "path": "figures/elife_82809_fig4.png",
+    "title": "Dysregulation of mTOR signaling mediates common neurite and migration defects in both idiopathic and 16p11.2 deletion autism neural precursor cells",
+    "authors": "Smrithi Prem; Bharati Dev; Cynthia Peng; Monal Mehta; Rohan Alibutud; Robert J Connacher; Madeline St Thomas; Xiaofeng Zhou; Paul Matteson; Jinchuan Xing; James H Millonig; Emanuel DiCicco-Bloom",
+    "first": "Prem",
+    "year": "2024",
+    "doi": "10.7554/eLife.82809",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Prem et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. P-S6 and S6 western analysis for I-ASD and 16pDel neural precursor cells (NPCs). All images show P-S6 and S6 blots with matched GAPDH loading control. Graphs show densitometry quantifications of normalized p-S6 (p-S6/GAPDH) divided by normalized S6 (S6/GAPDH). Student’s t-test utilized for all I-ASD vs Sib comparisons. ( A–D ) I-ASD-1 and -3 representative western blots showing reduced p-S6 but similar S6 and GAPDH in I-ASD-1 compared to Sib-1 ( A ) and in I-ASD-3 vs. Sib-3 ( C ). Graphs ( B and D ): reduced p-S6/S6 in I-ASD-1 vs. Sib-1 ( B ) and in I-ASD-3 vs Sib-3 ( D ). ( E ) I-ASD-2 representative western blot showing increased p-S6 but similar S6 in I-ASD-2 compared to Sib-2. ( F ) Graph: elevated p-S6/S6 in I-ASD-2 compared to Sib-2. ( G ) Western blot comparing a representative Sib, NIH control, and each 16pDel patient (M-1, M-2,  F ) showing increased p-S6 in all 16pDel NPCs compared to both NIH and Sib with similar total S6 and GAPDH. ( H ) Graph showing increased p-S6 in 16pDel compared to both Sibs and NIH (one-way ANOVA). For all graphs: p≤0.05 = *, p≤0.01 = **, p≤0.001 = ***, p≤0.0001 = ****. For detailed N values please see  Supplementary file 1 .",
+    "original_url": "https://cdn.elifesciences.org/articles/82809/elife-82809-fig4-v2.tif",
+    "sha256": "4d8a80b901b7b9fc1a3ed243ac149a68c1fd067f570ecc7ac6d5f99c4d5f8053",
+    "width": 2335,
+    "height": 3224
+  },
+  "88459:1": {
+    "path": "figures/elife_88459_fig1.png",
+    "title": "Deciphering neuronal deficit and protein profile changes in human brain organoids from patients with creatine transporter deficiency",
+    "authors": "Léa Broca-Brisson; Rania Harati; Clémence Disdier; Orsolya Mozner; Romane Gaston-Breton; Auriane Maïza; Narciso Costa; Anne-Cécile Guyot; Balazs Sarkadi; Agota Apati; Matthew R Skelton; Lucie Madrange; Frank Yates; Jean Armengaud; Rifat Hamoudi; Aloïse Mabondzo",
+    "first": "Broca-Brisson",
+    "year": "2023",
+    "doi": "10.7554/eLife.88459",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Broca-Brisson et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Generation and characterization of human creatine transporter deficiency (CTD) brain organoids. ( A ) Intracellular concentration of creatine in CTD iPSCs after 1 hr incubation with creatine-supplemented media. Healthy control is BJ. n=3–4, one-way ANOVA, Tukey’s multiple comparison test. ( B–D ) Intracellular concentration of creatine in CTD-rescue iPSCs CTD1-4 ( B ), CTD2-3 ( C ), and CTD3-7 ( D ) after 1 hr of incubation with creatine-supplemented media. Healthy controls are BJ and SP. n=3, two-way ANOVA, Šídák’s multiple comparisons test. ( E ) Schematic protocol of brain organoid development from iPSCs. Representative images are shown for each stage. Scale bar: 200 µm. ( F ) Relative mRNA expression of the telencephalon marker SIX3. n=6–10 ( G ) Quantification of the diameters of healthy (BJ) and pathological brain organoids at different time points. n=2–22 brain organoids per production, 4–6 productions per cell line. ( H–I ) Intracellular concentration of creatine in brain organoids and CTD-rescue brain organoids CTD1-4 ( H ) and CTD3-7 ( I ) after 6 h of incubation in creatine-supplemented media. Healthy controls are BJ and SP. n=2–4, two-way ANOVA, Šídák’s multiple comparisons test.",
+    "original_url": "https://cdn.elifesciences.org/articles/88459/elife-88459-fig1-v1.tif",
+    "sha256": "dd2c05f2a8e73c0cee4fcb91aee9a98060fceb45bcb66de476095afef400550b",
+    "width": 4936,
+    "height": 6548
+  },
+  "88459:4": {
+    "path": "figures/elife_88459_fig4.png",
+    "title": "Deciphering neuronal deficit and protein profile changes in human brain organoids from patients with creatine transporter deficiency",
+    "authors": "Léa Broca-Brisson; Rania Harati; Clémence Disdier; Orsolya Mozner; Romane Gaston-Breton; Auriane Maïza; Narciso Costa; Anne-Cécile Guyot; Balazs Sarkadi; Agota Apati; Matthew R Skelton; Lucie Madrange; Frank Yates; Jean Armengaud; Rifat Hamoudi; Aloïse Mabondzo",
+    "first": "Broca-Brisson",
+    "year": "2023",
+    "doi": "10.7554/eLife.88459",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Broca-Brisson et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Representation of heatmaps and graphs obtained by the absolute gene set enrichment analysis (GSEA) for significant pathways with enrichment scores. ( A–C ) Enrichment score and graphical representation for the GSEA for healthy vs creatine transporter deficiency (CTD)-derived brain organoids obtained across the gene sets c2_cp; c3_tft; c4_cgn; c5_bp; c5_mf; c7.",
+    "original_url": "https://cdn.elifesciences.org/articles/88459/elife-88459-fig4-v1.tif",
+    "sha256": "e5edfd240bd04ed25895ca195a5fc6991b799bb51f3312ce064600a3ee1409cc",
+    "width": 3676,
+    "height": 4709
+  },
+  "90313:1": {
+    "path": "figures/elife_90313_fig1.png",
+    "title": "Atypical local and global biological motion perception in children with attention deficit hyperactivity disorder",
+    "authors": "Junbin Tian; Fang Yang; Ying Wang; Li Wang; Ning Wang; Yi Jiang; Li Yang",
+    "first": "Tian",
+    "year": "2024",
+    "doi": "10.7554/eLife.90313",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Tian et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Schematic representation of biological motion (BM) and scrambled BM sequence. Intact walker contains information of local kinematics and global configuration. Local kinematics refers to the motion tracks of each critical joint illustrated by the chromatic dot. Global configuration is composed of the relative locations of each joint. In the scrambled BM sequence, global configuration cues have been removed, but local kinematics have been retained. (Figure reconstructed from  Wang et al., 2018 ).",
+    "original_url": "https://cdn.elifesciences.org/articles/90313/elife-90313-fig1-v1.tif",
+    "sha256": "b9b5786cf336683c092158360f19d7c80a31bdfa27fb376a0a976b6d84644962",
+    "width": 3706,
+    "height": 2506
+  },
+  "90313:3": {
+    "path": "figures/elife_90313_fig3.png",
+    "title": "Atypical local and global biological motion perception in children with attention deficit hyperactivity disorder",
+    "authors": "Junbin Tian; Fang Yang; Ying Wang; Li Wang; Ning Wang; Yi Jiang; Li Yang",
+    "first": "Tian",
+    "year": "2024",
+    "doi": "10.7554/eLife.90313",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Tian et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. The mean accuracy of the three tasks. Typically developing (TD) children had higher accuracies than children with attention deficit hyperactivity disorder (ADHD) in the three tasks in Experiment 1. Error bars show standard deviations. TD group: n = 36, ADHD group: n = 39; two-sample t-tests; **p<0.01, ***p<0.001.",
+    "original_url": "https://cdn.elifesciences.org/articles/90313/elife-90313-fig3-v1.tif",
+    "sha256": "99138920051f7456beaba0f9c05743a683a79dd7b7a16f52cfe49a9af5efe9f3",
+    "width": 3619,
+    "height": 2102
+  },
+  "90325:1": {
+    "path": "figures/elife_90325_fig1.png",
+    "title": "Temporal transcriptomic dynamics in developing macaque neocortex",
+    "authors": "Longjiang Xu; Zan Yuan; Jiafeng Zhou; Yuan Zhao; Wei Liu; Shuaiyao Lu; Zhanlong He; Boqin Qiang; Pengcheng Shu; Yang Chen; Xiaozhong Peng",
+    "first": "Xu",
+    "year": "2024",
+    "doi": "10.7554/eLife.90325",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Xu, Yuan, Zhou et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Cell types in macaque prenatal and fetal brain development. ( A ) Schematic diagram of sample collecting and data analysis. We collected the parietal lobe from the embryos across developmental stages from E40 to E90. ( B  and  C ) The transcriptome data of single cells were collected and used to do clustering using Seurat. Visualization of major types of cells using uniform manifold approximation and projection (UMAP). Dots, individual cells; color, clusters. ( D ) Violin plot of molecular markers for annotating cell types. ( E ) The expressions of the classic marker genes for each cell type were plotted for UMAP visualization. Light gray, no expression; dark blue, relative expression.",
+    "original_url": "https://cdn.elifesciences.org/articles/90325/elife-90325-fig1-v1.tif",
+    "sha256": "ed14e7db873c30d0fc29f07bb96f928b96b7710621c059a93bdab42a18a3b253",
+    "width": 2196,
+    "height": 2153,
+    "display_path": "figures/elife_90325_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      0.5,
+      0.23
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2196,
+      2153
+    ],
+    "display_sha256": "3c18e3aaacdc6d4ad7006b18c088f916f049028acb221c08b4d84ef56afabe53"
+  },
+  "90325:4": {
+    "path": "figures/elife_90325_fig4.png",
+    "title": "Temporal transcriptomic dynamics in developing macaque neocortex",
+    "authors": "Longjiang Xu; Zan Yuan; Jiafeng Zhou; Yuan Zhao; Wei Liu; Shuaiyao Lu; Zhanlong He; Boqin Qiang; Pengcheng Shu; Yang Chen; Xiaozhong Peng",
+    "first": "Xu",
+    "year": "2024",
+    "doi": "10.7554/eLife.90325",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Xu, Yuan, Zhou et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Transcriptional regulation of excitatory neuron lineage during prenatal cortical neurogenesis. ( A ) Uniform manifold approximation and projection (UMAP) shows the alignment of macaque cortical NPCs, intermediate progenitor cells (IPCs), and excitatory neurons. Left, cells are colored according to cell annotation. Different yellow/orange colors are used for deep-layer excitatory neuron subclusters (EN5 and EN10), and different red/pink colors are used for upper-layer excitatory neuron subclusters (EN1, EN2, EN3, EN4, EN6, EN7, EN9, and EN10). Right, cells are colored according to the time point of collection. ( B ) Dot plot showing the marker genes for the deep-layer excitatory neuron ( FEZF2 ) and upper-layer excitatory neuron ( DOK5 ). Light gray, no expression; dark blue, relative expression. ( C ) Pseudotime analysis by Slingshot projected on PCA plot of RGCs, oRGCs, IPCs, and excitatory neuron subclusters. The Slingshot result indicates the trajectories of lineages, and the arrows indicate the directions of the pseudotime. Dots: single cell; colors: cluster and subcluster identity. Framed numbers marked the start point, endpoint, and essential nodes of the Slingshot inference trajectory. Framed number ‘1’ was the excitatory neuron lineage trajectory start point (C10). Framed number ‘4’ marked immature neurons. Framed numbers ‘2’ and ‘3’ marked deep-layer and upper-layer neurons. Cells are colored according to cell annotation and pseudotime. ( D ) The heatmap shows the relative expression of the top 100 genes displaying significant changes along the pseudotime axis of each lineage branch. The columns represent the cells being ordered along the pseudotime axis. ( E ) Left, Slingshot branching tree related to Slingshot pseudotime analysis in C. The root is E40 earliest RG (C10), tips are deep-layer excitatory neurons generated at the early stage (E40, E50), and upper-layer excitatory neurons are generated at the later stage (E70, E80, E90). Right, branching trees showing the expression of marker genes of apical progenitors ( PAX6 ), outer radial glia cells ( HOPX ), intermediate progenitors ( EOMES ), and excitatory neurons ( NEUROD2 ), including callosal neurons ( SATB2 ,  CUX2 ), deeper layer neurons ( SOX5 ,  FEZF2 ), corticofugal neurons ( FEZF2 ,  TLE4 ). There is a sequential progression of radial glia cells, intermediate progenitors, and excitatory neurons.",
+    "original_url": "https://cdn.elifesciences.org/articles/90325/elife-90325-fig4-v1.tif",
+    "sha256": "04fb9e2029d19b1027c1f2ccc3ebde572b6eb24e8e1dbd3df2210400109f63a1",
+    "width": 2197,
+    "height": 2142,
+    "display_path": "figures/elife_90325_fig4_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.198
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2197,
+      2142
+    ],
+    "display_sha256": "18ac16b6e23c43592509a45d9f025a811ee25506f46030c312d7279cbe18218e"
+  },
+  "97150:1": {
+    "path": "figures/elife_97150_fig1.png",
+    "title": "A robust brain network for sustained attention from adolescence to adulthood that predicts later substance use",
+    "authors": "Yihe Weng; Johann Kruschwitz; Laura M Rueda-Delgado; Kathy L Ruddy; Rory Boyle; Luisa Franzen; Emin Serin; Tochukwu Nweze; Jamie Hanson; Alannah Smyth; Tom Farnan; Tobias Banaschewski; Arun LW Bokde; Sylvane Desrivières; Herta Flor; Antoine Grigis; Hugh Garavan; Penny A Gowland; Andreas Heinz; Rüdiger Brühl; Jean-Luc Martinot; Marie-Laure Paillère Martinot; Eric Artiges; Jane McGrath; Frauke Nees; Dimitri Papadopoulos Orfanos; Tomas Paus; Luise Poustka; Nathalie Holz; Juliane Fröhner; Michael N Smolka; Nilakshi Vaidya; Gunter Schumann; Henrik Walter; Robert Whelan",
+    "first": "Weng",
+    "year": "2024",
+    "doi": "10.7554/eLife.97150",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Weng et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Intra-individual coefficient of variation (ICV) changes over time. ( A ) ICV changes over time. ( B ) Correlation of ICV between timepoints within participants. †, p < 0.001.",
+    "original_url": "https://cdn.elifesciences.org/articles/97150/elife-97150-fig1-v1.tif",
+    "sha256": "d0a9c7afc2fbf173949d1dce9946f01f9e03b5fd7d8a9a54cd4ade7ea4fbf300",
+    "width": 2205,
+    "height": 1073
+  },
+  "97150:3": {
+    "path": "figures/elife_97150_fig3.png",
+    "title": "A robust brain network for sustained attention from adolescence to adulthood that predicts later substance use",
+    "authors": "Yihe Weng; Johann Kruschwitz; Laura M Rueda-Delgado; Kathy L Ruddy; Rory Boyle; Luisa Franzen; Emin Serin; Tochukwu Nweze; Jamie Hanson; Alannah Smyth; Tom Farnan; Tobias Banaschewski; Arun LW Bokde; Sylvane Desrivières; Herta Flor; Antoine Grigis; Hugh Garavan; Penny A Gowland; Andreas Heinz; Rüdiger Brühl; Jean-Luc Martinot; Marie-Laure Paillère Martinot; Eric Artiges; Jane McGrath; Frauke Nees; Dimitri Papadopoulos Orfanos; Tomas Paus; Luise Poustka; Nathalie Holz; Juliane Fröhner; Michael N Smolka; Nilakshi Vaidya; Gunter Schumann; Henrik Walter; Robert Whelan",
+    "first": "Weng",
+    "year": "2024",
+    "doi": "10.7554/eLife.97150",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Weng et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. The predictive performances and networks of intra-individual coefficient of variation (ICV) per timepoint derived from Successful stop trials. Correlation between observed and predicted ICV in positive, negative, and combined networks at ( A ) age 14, ( B ) age 19, and ( C ) age 23. Predictive networks for ICV are at ( D ) age 14, ( E ) age 19, and ( F ) age 23. Connectome of positive and negative networks of ICV at ( G ) age 14, ( H ) age 19, and ( I ) age 23. The edges depicted above are those selected in at least 95% of cross-validation folds. Red, blue, and green spheres/lines/scatters represent positive, negative, and combined networks respectively. MF, medial frontal; FP, frontoparietal; DMN, default mode; MOT, motor; VI, visual I; VII, visual II; VAs, visual association; SAL, salience; SC, subcortical; CBL, cerebellar. R/L, right/left hemisphere. *, p < 0.05; **, p < 0.01; ***, p < 0.001.",
+    "original_url": "https://cdn.elifesciences.org/articles/97150/elife-97150-fig3-v1.tif",
+    "sha256": "993471ae9eea85fe168c06f8e21764f2e2d95c4c3ab33bf55d5ffd1490ff8fee",
+    "width": 2205,
+    "height": 2894
+  },
+  "18683:5": {
+    "path": "figures/elife_18683_fig5.png",
+    "title": "Differences and similarities between human and chimpanzee neural progenitors during cerebral cortex development",
+    "authors": "Felipe Mora-Bermúdez; Farhath Badsha; Sabina Kanton; J Gray Camp; Benjamin Vernot; Kathrin Köhler; Birger Voigt; Keisuke Okita; Tomislav Maricic; Zhisong He; Robert Lachmann; Svante Pääbo; Barbara Treutlein; Wieland B Huttner",
+    "first": "Mora-Bermúdez",
+    "year": "2016",
+    "doi": "10.7554/eLife.18683",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Mora-Bermúdez et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.18683.015 Figure 5. Differences in prometaphase-metaphase length between APs of human developing neocortex, human organoids, chimpanzee organoids and mouse developing neocortex. Live tissue imaging of mitotic phases, as reported by chromosomes, in organotypic slice culture of developing neocortex and cerebral organoids. 0 min is anaphase onset. Time-lapse is  ∼ 1.1 min. ( A – D ) APs in a coronal slice of 13 wpc human frontal neocortex ( A ), in a slice of a D30 human cerebral organoid from iPSC line SC102A-1 ( B ), in a slice of a D30 chimpanzee cerebral organoid from iPSC line Sandra A ( C ), and in a coronal slice of E14.5 mouse neocortex. The time indicated on each image is when that image was taken, relative to anaphase onset (0 min). White dashed lines, ventricular surface. Scale bar, 5 μm. ( E – G ) Time between the start of chromosome congression and anaphase onset (referred to as 'prometaphase + metaphase') ( E ), between the start of chromosome congression and the formation of a metaphase plate (referred to as 'prometaphase') ( F ), and between the formation of a metaphase plate and anaphase onset (referred to as 'metaphase') ( G ), for APs in the four tissues described in ( A – D ). Data include APs from 11–13 wpc human neocortex, organoids from the human iPSC lines SC102A-1 and 409b2, and chimpanzee iPSC lines Sandra A and PR818-5, and are the mean ± SEM of ≥60 APs from ≥4 independent experiments each. Bracket with **p<0.01; brackets with ***p<0.001; ***p<0.001 (mouse vs. all primate tissues). DOI:   http://dx.doi.org/10.7554/eLife.18683.015 10.7554/eLife.18683.016 Figure 5—source data 1. Durations of all mitotic phases. Numerical values in minutes for the duration of all mitotic phases ± SEM used in the graphs in  Figures 5 ,  6  and  7 , in  Figure 5—figure supplement 1, 2 and 3 , and in  Figure 6—figure supplement 1 . DOI:   http://dx.doi.org/10.7554/eLife.18683.016",
+    "original_url": "https://cdn.elifesciences.org/articles/18683/elife-18683-fig5-v3.tif",
+    "sha256": "ade9c8ce527f45f618d84dfeedf38c563286a239e7991958b7e08b50d0742d3d",
+    "width": 2013,
+    "height": 1609
+  },
+  "88459:2": {
+    "path": "figures/elife_88459_fig2.png",
+    "title": "Deciphering neuronal deficit and protein profile changes in human brain organoids from patients with creatine transporter deficiency",
+    "authors": "Léa Broca-Brisson; Rania Harati; Clémence Disdier; Orsolya Mozner; Romane Gaston-Breton; Auriane Maïza; Narciso Costa; Anne-Cécile Guyot; Balazs Sarkadi; Agota Apati; Matthew R Skelton; Lucie Madrange; Frank Yates; Jean Armengaud; Rifat Hamoudi; Aloïse Mabondzo",
+    "first": "Broca-Brisson",
+    "year": "2023",
+    "doi": "10.7554/eLife.88459",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Broca-Brisson et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Creatine transporter deficiency (CTD) brain organoid organization and neurogenesis deficit. ( A ) Representative images of 2 month old brain organoid tissue sections immunostained for PAX6 (radial glial cell and forebrain marker), MAP2 (neuronal marker), PSD95 (post-synaptic marker), TBR1 (immature neuron marker), NeuN (neuronal marker), SOX2 (radial glial cell marker), β-III tubulin (intermediate progenitor marker), GFAP (astrocyte marker). DAPI marks nuclei in blue. Scale bar: 200 µm ( B ) Relative mRNA expression of PAX6 and SOX2 (radial glial cell markers), GRIA2 and vGluT1 (glutamatergic markers), GABBR1 (GABAergic marker), PSD95 (post-synaptic marker) and CREB. n=3–6, one-way ANOVA, Tukey’s multiple comparison test.",
+    "original_url": "https://cdn.elifesciences.org/articles/88459/elife-88459-fig2-v1.tif",
+    "sha256": "9244e5a327f17160d797ad43a87de5c8ea6c1d8026d7f645b6d235a6568a865b",
+    "width": 3612,
+    "height": 7387
+  },
+  "108134:6": {
+    "path": "figures/elife_108134_fig6.png",
+    "title": "Adrenomedullin restores the human cortical interneurons migration defects induced by hypoxia",
+    "authors": "Alyssa Puno; Wojciech P Michno; Li Li; Amanda Everitt; Kate McCluskey; Saw Htun; Dhriti Nagar; Jong Bin Choi; Yuqin Dai; Seyeon Park; Emily Gurwitz; Jeremy A Willsey; Fikri Birey; Anca M Pasca",
+    "first": "Puno",
+    "year": "2026",
+    "doi": "10.7554/eLife.108134",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Puno, Michno et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 6. Molecular mechanism of rescue by ADM. ( A ) Schematic of the previously reported main molecular pathways modulated by ADM; Created with  BioRender.com . ( B ) ( Left ) Quantification of cAMP concentration (pmol/μL) by individual hSOs in control versus hypoxia (one-way ANOVA, p>0.99) and, control versus hypoxia +ADM (one-way ANOVA, p=0.0007), ( Right ) Quantification of cAMP concentration (pmol/μL) by hiPSC line in control versus hypoxia (one-way ANOVA, p=0.99) and, control versus hypoxia +ADM (one-way ANOVA, p=0.002); ( C ) ( Left ) Quantification of PKA activity (O.D. 450 nm) by individual hSOs in control versus hypoxia (one-way ANOVA test, p=0.98) and control versus hypoxia +ADM (one-way ANOVA, p<0.0001); ( Right ) Quantification of PKA activity (O.D. 450 nm) by hiPSC line in control versus hypoxia (one-way ANOVA, p>0.99) and control versus hypoxia +ADM (one-way ANOVA, p<0.0001); ( D ) ( Left ) Quantification of pAKT/AKT by individual hSOs in control versus hypoxia (one-way ANOVA, p<0.0001) and control versus hypoxia +ADM (one-way ANOVA, p<0.0001); ( Right ) Quantification of pAKT/AKT by hiPSC line in control versus hypoxia (Kruskal-Wallis test, p=0.01) and control versus hypoxia +ADM (Kruskal-Wallis test, p=0.03); ( E ) ( Left ) Quantification of pERK/ERK by individual hSOs in control versus hypoxia (one-way ANOVA test, p=0.001) and control versus hypoxia +ADM (one-way ANOVA test, p=0.004); ( Right ) Quantification of pERK/ERK by hiPSC line in control versus hypoxia (one-way ANOVA test, p=0.02) and control versus hypoxia +ADM (one-way ANOVA test, p=0.04); ( F ) ( Left ) Quantification of pCREB/CREB by individual hSOs in control versus hypoxia (one-way ANOVA test, p=0.003) and control versus hypoxia +ADM (one-way ANOVA test, p=0.27); ( Right ) Quantification of pCREB/CREB by hiPSC line in control versus hypoxia (one-way ANOVA test, p=0.048) and control versus hypoxia +ADM (one-way ANOVA test, p=0.6); ( G ) Schematic of the proposed molecular pathway activation by exogenous ADM in hSOs, including the most common pentameric structure of the GABA A  receptor; Created with  BioRender.com . ( H ) ( Left ) Quantification (by q-PCR) of GABRA1 in hSOs samples in control versus hypoxia conditions (one-way ANOVA test, p=0.002) and control versus hypoxia +ADM (one-way ANOVA test, p=0.17); ( Center ) Quantification (by q-PCR) of GABRB2 in hSOs samples in control versus hypoxia (one-way ANOVA test, p=0.08) and control versus hypoxia +ADM (one-way ANOVA test, p=0.25); ( Right ) Quantification (by q-PCR) of GABRG2 in hSO samples in control versus hypoxia conditions (one-way ANOVA test, p=0.007) and control versus hypoxia +ADM (one-way ANOVA test, p=0.23); ( I ) ( Left ) Quantification (by q-PCR) of CXCR4 in hSOs samples in control versus hypoxia conditions (one-way ANOVA test, p=0.0005) and control versus hypoxia +ADM (one-way ANOVA test, p=0.0031); ( Center ) Quantification (by q-PCR) of CXCR7 in hSOs samples in control versus hypoxia conditions (one-way ANOVA test, p=0.026) and control versus hypoxia +ADM (one-way ANOVA test, p=0.043); ( Right ) Quantification (by q-PCR) of CXCL12 in hSOs samples in control versus hypoxia conditions (one-way ANOVA test, p=0.024) and control versus hypoxia +ADM (one-way ANOVA test, p=0.0039). Bar charts: mean ± s.e.m.; Different dot colors represent individual hiPSC lines.",
+    "original_url": "https://cdn.elifesciences.org/articles/108134/elife-108134-fig6-v1.tif",
+    "sha256": "fc81ec2560c54a7cb3a9a4418f07150e7ed6ffd2c69c2d56002e903a928e3087",
+    "width": 2205,
+    "height": 3018,
+    "display_path": "figures/elife_108134_fig6_panels.png",
+    "panel_crop_box": [
+      0,
+      0.505,
+      0.39,
+      0.755
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2205,
+      3018
+    ],
+    "display_sha256": "c29a0a4a4271eb80e1d14e473def04077dddc78a49734a59ad5e1b2c513f742a"
+  },
+  "88459:6": {
+    "path": "figures/elife_88459_fig6.png",
+    "title": "Deciphering neuronal deficit and protein profile changes in human brain organoids from patients with creatine transporter deficiency",
+    "authors": "Léa Broca-Brisson; Rania Harati; Clémence Disdier; Orsolya Mozner; Romane Gaston-Breton; Auriane Maïza; Narciso Costa; Anne-Cécile Guyot; Balazs Sarkadi; Agota Apati; Matthew R Skelton; Lucie Madrange; Frank Yates; Jean Armengaud; Rifat Hamoudi; Aloïse Mabondzo",
+    "first": "Broca-Brisson",
+    "year": "2023",
+    "doi": "10.7554/eLife.88459",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Broca-Brisson et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 6. Relationship between GSK3β and neurogenesis deficit. ( A–B ) Representative western blot of GSK3β and pSer9-GSK3β in creatine transporter deficiency (CTD) vs healthy brain organoids ( A ) and graph showing analysis of P-GSK3β/GSK3β ratio ( B ). n=8, one-way ANOVA, Dunnett’s multiple comparison test. ( C–D ) Representative western blot of SOX2 in CTD vs healthy brain organoids ( C ) and graph showing analysis of SOX2 relative expression ( D ). n=8, one-way ANOVA, Tukey’s multiple comparison test. ( E–L ) Representative western blot of PAK1 ( E ), MAP1B ( G ), GSK3β and pSer9-GSK3β ( I ), and SOX2 ( K ) in brain organoids obtained from CTD iPSCs and CTD-rescue iPSCs (CTD 1–4), and graphs showing analysis of PAK1 ( F ), MAP1B ( H ), P-GSK3β/GSK3β ratio ( J ), SOX2 ( L ) relative expression. n=2–8, one-way ANOVA, Dunnett’s multiple comparison test. ( I and J ) the lanes were run on the same gel but were noncontiguous. Figure 6—source data 1. Original files of the full raw unedited blots (colorimetric and chemiluminescence images) for  Figure 6A–B . Figure 6—source data 2. Original files of the full raw unedited blots (colorimetric and chemiluminescence images) for  Figure 6C–D . Figure 6—source data 3. Original files of the full raw unedited blots (colorimetric and chemiluminescence images) for  Figure 6E–H . Figure 6—source data 4. Original files of the full raw unedited blots (colorimetric and chemiluminescence images) for  Figure 6I–L . Figure 6—source data 5. Figures with the uncropped blots with the relevant bands labeled for  Figure 6 .",
+    "original_url": "https://cdn.elifesciences.org/articles/88459/elife-88459-fig6-v1.tif",
+    "sha256": "c935e1278f28ef68b2893f6829115a9de83fcbc57a92018e468d9fc641939906",
+    "width": 6647,
+    "height": 3242,
+    "display_path": "figures/elife_88459_fig6_panels.png",
+    "panel_crop_box": [
+      0,
+      0.65,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      6647,
+      3242
+    ],
+    "display_sha256": "b3363a10fd3d3211cd8095a2791f46de93e134066a6f57096f0431aecc30a71a"
+  },
+  "34593:6": {
+    "path": "figures/elife_34593_fig6.png",
+    "title": "Gradient-reading and mechano-effector machinery for netrin-1-induced axon guidance",
+    "authors": "Kentarou Baba; Wataru Yoshida; Michinori Toriyama; Tadayuki Shimada; Colleen F Manning; Michiko Saito; Kenji Kohno; James S Trimmer; Rikiya Watanabe; Naoyuki Inagaki",
+    "first": "Baba",
+    "year": "2018",
+    "doi": "10.7554/eLife.34593",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Baba et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.34593.024 Figure 6. Shootin1a–L1-CAM interaction mediates netrin-1–induced F-actin adhesion coupling and mechanoresponse for axon outgrowth. ( A ) Fluorescent feature images of mRFP-actin at axonal growth cones overexpressing myc-GST (control) or myc-shootin1a (1-125) in the absence (control) or presence of 4.4 nM netrin-1 (see  Video 2 ). Kymographs of the fluorescent features of mRFP-actin in filopodia at 5 s intervals are shown (F-actin flows are indicated by dashed yellow lines). ( B ) F-actin retrograde flow speed measured from the kymograph analysis in A; 120 fluorescent features (47 growth cones) were analyzed. One-way ANOVA with Tukey’s post hoc test was used. ( C ) DIC and fluorescence images (left panel) showing an axonal growth cone of a DIV2 neuron overexpressing EGFP and cultured on L1-CAM–coated polyacrylamide gel with embedded 200 nm fluorescent beads. The panels show representative images from time-lapse series taken every 3 s for 150 s before (control) and 60 min after netrin-1 (4.4 nM) stimulation (see  Video 3 ). The original and displaced positions of the beads in the gel are indicated by green and red colors, respectively. Dashed lines indicate the boundary of the growth cone. The kymographs (right panel) along the axis of bead displacement (white dashed arrows) at the indicated areas 1 and 2 of the growth cone show movement of beads recorded every 3 s. The bead in area two is a reference bead. ( D ) Analyses of the magnitude of the traction forces under axonal growth cones overexpressing myc-GST (control) or myc-shootin1a (1-125) before (control) or after netrin-1 stimulation (see  Figure 6—figure supplement 1A  for the direction of the traction forces,  n  = 14 growth cones). One-way ANOVA with Tukey’s post hoc test was performed. ( E ) Three hours after plating, hippocampal neurons overexpressing myc-GST (control) or myc-shootin1a (1-125) were incubated with BSA (control) or 4.4 nM netrin-1 for 40 hr, and then immunolabeled by anti-myc antibody (see  Figure 6—figure supplement 1B ). Axon length was then analyzed ( n  = 909 neurons). One-way ANOVA with Schaffer’s post hoc test was performed in the left graph, while an unpaired Student’s  t -test was used in the right graph. Data represent means ± SEM; ***p<0.01; *p<0.05; ns, not significant. Bars: 5 μm (in the kymographs of A, 2 μm). 10.7554/eLife.34593.027 Figure 6—source data 1. Quantitative data for F-actin retrograde flow speed related to  Figure 6B . 10.7554/eLife.34593.028 Figure 6—source data 2. Quantitative data for the magnitude of the traction forces related to  Figure 6D . 10.7554/eLife.34593.029 Figure 6—source data 3. Quantitative data for axon length and axon outgrowth by netrin-1 related to  Figure 6E .",
+    "original_url": "https://cdn.elifesciences.org/articles/34593/elife-34593-fig6-v1.tif",
+    "sha256": "b8ab557db9b58f3135d1728ea6cc3f33854e4c6368c5756df92f37090a0d16a6",
+    "width": 1894,
+    "height": 2971,
+    "display_path": "figures/elife_34593_fig6_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      0.33,
+      0.2
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1894,
+      2971
+    ],
+    "display_sha256": "3e2d1019e11d81bb26606f20a2409f2de6011d1680c9761a29634cbb3c7bff6c"
+  },
+  "34593:7": {
+    "path": "figures/elife_34593_fig7.png",
+    "title": "Gradient-reading and mechano-effector machinery for netrin-1-induced axon guidance",
+    "authors": "Kentarou Baba; Wataru Yoshida; Michinori Toriyama; Tadayuki Shimada; Colleen F Manning; Michiko Saito; Kenji Kohno; James S Trimmer; Rikiya Watanabe; Naoyuki Inagaki",
+    "first": "Baba",
+    "year": "2018",
+    "doi": "10.7554/eLife.34593",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Baba et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.34593.034 Figure 7. Shootin1a and shootin1a–L1-CAM interaction mediate netrin-1–induced axon guidance. ( A  and  B ) Time-lapse phase-contrast/fluorescence images of hippocampal neurons expressing control miRNA ( A ) and shootin1a miRNA ( B ) under the gradients of netrin-1 and Alexa Fluor 594-BSA. White and blue arrowheads indicate growth cones at the first and last time-points, respectively. See  Videos 6  and  7 . The right panels depict trajectories of individual growth cone migrations. The initial growth cone positions are normalized at (x = 0 μm, y = 0 μm). Bars: 50 μm. ( C ) Axon outgrowth velocity obtained from the analyses in ( A  and  B ) ( n  = 24 growth cones). See also the legend for  Figure 8C  about quantitative data. ( D ) Turning angle of axon toward the netrin-1 source was obtained from the analyses in ( A  and  B ), by calculating the difference between the angles of the axonal tip at the first and last time-points of the observations ( θ f -  θ l). The graph shows quantified data ( n  = 24 growth cones). See also the legend for  Figure 8D  about quantitative data. ( E  and  F ) Time-lapse phase-contrast/fluorescence images of hippocampal neurons expressing EGFP (control) ( E ) and EGFP-shootin1a (1-125) ( F ) under gradients of netrin-1 and Alexa Fluor 594-BSA (red). White and blue arrowheads indicate growth cones at the first and last time-points, respectively. See  Videos 8  and  9 . The right panels depict trajectories of individual growth cone migrations. The initial growth cone positions are normalized at (x = 0 μm, y = 0 μm). See also quantitative data in  Figure 7—figure supplement 3 . Bars: 50 μm. Data represent means ± SEM; ***p<0.01 (one-way ANOVA with Schaffer’s post hoc test). 10.7554/eLife.34593.048 Figure 7—source data 1. Quantitative data for axon outgrowth velocity related to  Figure 7C . 10.7554/eLife.34593.049 Figure 7—source data 2. Quantitative data for turning angle of axon toward the netrin-1 source related to  Figure 7D .",
+    "original_url": "https://cdn.elifesciences.org/articles/34593/elife-34593-fig7-v1.tif",
+    "sha256": "0c337c5806079b1791657fc540faed96710673726aedf60bf7757e374a532b4f",
+    "width": 1757,
+    "height": 3013,
+    "display_path": "figures/elife_34593_fig7_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.38
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1757,
+      3013
+    ],
+    "display_sha256": "f68a184495963e203f5b723fd83ec8bb4ce4bdbaef42fa7ddb139e3e618ce3b6"
+  }
+}

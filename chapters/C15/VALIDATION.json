@@ -1,0 +1,47 @@
+{
+  "slides": 80,
+  "content_slides": 78,
+  "book_chapter": 15,
+  "foundation_slides": 31,
+  "research_slides": 47,
+  "primary_figure_slides": 49,
+  "embedded_distinct_mp4s": 40,
+  "academic_recordings": 20,
+  "visual_recordings": 20,
+  "recordings_per_content_quarter": [
+    10,
+    10,
+    10,
+    10
+  ],
+  "maximum_video_free_content_gap": 2,
+  "recordings_in_final_ten_content_slides": 6,
+  "paragraphs": 234,
+  "rendered_paragraphs_passing": 234,
+  "generic_failures": 0,
+  "course_failures": 0,
+  "full_recording_decodes_passed": 40,
+  "original_movie_bytes_retained": 40,
+  "compatibility_conversions": 0,
+  "source_hashes_and_native_resolution_frame_rate_audio_verified": true,
+  "embedded_hashes_relationships_and_timing_verified": true,
+  "all_slides_visually_reviewed": true,
+  "source_figure_panels_reviewed": true,
+  "fonts": [
+    "BAAAAA+ArialMT",
+    "CAAAAA+Arial-BoldMT"
+  ],
+  "static_pdf_multimedia_annotations": 0,
+  "desktop_powerpoint_playback_tested": false,
+  "conversion_checks": [],
+  "pptx": {
+    "filename": "Building_the_Brain_Developing_Nervous_System_Chapter_15.pptx",
+    "bytes": 400840812,
+    "sha256": "db4777639ecd43382e11a573184b184f321a5d7bec10eca1c59ad463c4551afb"
+  },
+  "static_pdf": {
+    "filename": "Building_the_Brain_Developing_Nervous_System_Chapter_15_Static.pdf",
+    "bytes": 12965036,
+    "sha256": "f6a3ba0233219d9f16cccd92d48200de47550b6857093a5a24adf3574a23c1fc"
+  }
+}

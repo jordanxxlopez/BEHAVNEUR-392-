@@ -1,0 +1,682 @@
+[
+  {
+    "paper": "48964",
+    "purpose": "aesthetic",
+    "original_url": "https://cdn.elifesciences.org/articles/48964/elife-48964-video1.mp4",
+    "credit": "Emilie Guillon; Dipjyoti Das; Dörthe Jülich; Abdel-Rahman Hassan; Hannah Geller; Scott Holley",
+    "full_reference": "Emilie Guillon; Dipjyoti Das; Dörthe Jülich; Abdel-Rahman Hassan; Hannah Geller; Scott Holley (2020). Fibronectin is a smart adhesive that both influences and responds to the mechanics of early spinal column development. https://doi.org/10.7554/eLife.48964",
+    "doi": "10.7554/eLife.48964",
+    "source_legend": "Video 1. Changes in neural tube and PSM shapes over developmental time. This movie is a series of transverse sections from posterior to anterior from a fixed embryo showing Fibronectin localization (green) and cell nuclei (magenta). The development of the vertebrate trunk and tail proceeds from anterior to posterior, thus this series illustrates the medial convergence and shape changes of the neural tube and PSM over time. The quantification of these shapes in different genotypes is detailed in  Figures 1 ,  2  and  5 ,  Figure 1—figure supplement 1 ,  Figure 1—figure supplement 2 ,  Figure 2—figure supplement 1  and  Figure 5—figure supplement 1 .",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Guillon et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video1",
+    "caption": "Guillon et al. (2020), Video 1.",
+    "content_index": 0
+  },
+  {
+    "paper": "48964",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/48964/elife-48964-video2.mp4",
+    "credit": "Emilie Guillon; Dipjyoti Das; Dörthe Jülich; Abdel-Rahman Hassan; Hannah Geller; Scott Holley",
+    "full_reference": "Emilie Guillon; Dipjyoti Das; Dörthe Jülich; Abdel-Rahman Hassan; Hannah Geller; Scott Holley (2020). Fibronectin is a smart adhesive that both influences and responds to the mechanics of early spinal column development. https://doi.org/10.7554/eLife.48964",
+    "doi": "10.7554/eLife.48964",
+    "source_legend": "Video 2. Tracking Fibronectin matrix dynamics at tissue interfaces. Movies representing 105 min time-lapses (15 min interval) after local photoconversion (red spots) of Fn1a-mKikGR matrix (green) at 12 somite stage, either at the PSM|NT interface (top movie) or at the PSM|E interface (bottom movie). Dorsal views with anterior to the top.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Guillon et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video2",
+    "caption": "Guillon et al. (2020), Video 2.",
+    "content_index": 2
+  },
+  {
+    "paper": "100328",
+    "purpose": "aesthetic",
+    "original_url": "https://cdn.elifesciences.org/articles/100328/elife-100328-fig4-video1.mp4",
+    "credit": "María Pedraza; Valentina Grampa; Sophie Scotto-Lomassese; Julien Puech; Aude Muzerelle; Azka Mohammad; Sophie Lebon; Nicolas Renier; Christine Metin; Justine Masson",
+    "full_reference": "María Pedraza; Valentina Grampa; Sophie Scotto-Lomassese; Julien Puech; Aude Muzerelle; Azka Mohammad; Sophie Lebon; Nicolas Renier; Christine Metin; Justine Masson (2025). The ciliary kinesin KIF7 controls the development of the cerebral cortex by acting differentially on SHH signaling in dorsal and ventral forebrain. https://doi.org/10.7554/eLife.100328",
+    "doi": "10.7554/eLife.100328",
+    "source_legend": "Figure 4—video 1. Three-dimensional (3D) maximum intensity projection of thalamocortical axons in embryonic stage 14.5 (E14.5) wild-type (WT) brain. Whole-mount iDISCO+ immunolabeling for NG1a (in red) and TBR1(+) neurons (in green) imaged with light-sheet microscopy.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Pedraza, Grampa, Scotto-Lomassese et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "fig4-video1",
+    "caption": "Pedraza et al. (2025), fig4-Video 1.",
+    "content_index": 4
+  },
+  {
+    "paper": "51512",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/51512/elife-51512-video1.mp4",
+    "credit": "Hyang Mi Moon; Simon Hippenmeyer; Liqun Luo; Anthony Wynshaw-Boris",
+    "full_reference": "Hyang Mi Moon; Simon Hippenmeyer; Liqun Luo; Anthony Wynshaw-Boris (2020). LIS1 determines cleavage plane positioning by regulating actomyosin-mediated cell membrane contractility. https://doi.org/10.7554/eLife.51512",
+    "doi": "10.7554/eLife.51512",
+    "source_legend": "Video 1. Cytokinesis defects in  Pafah1b1  mutant MEFs. Time-lapse live cell imaging of mitotic cell division from  Pafah1b1  mutant MEFs ( CAGG-CreERT2; Pafah1b1 hc/hc  +TM 12 h ) treated with 4-hydroxy tamoxifen (TM). H2B-GFP and mCherry-α-Tubulin labeled fluorescence signals were acquired with a 1 min interval by Nikon Ti epifluorescence microscope. During cytokinesis of  Pafah1b1 -deficient MEFs, severe cytokinesis defects were observed such as vigorous cell shape oscillation and spindle rocking.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Moon et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video1",
+    "caption": "Moon et al. (2020), Video 1.",
+    "content_index": 6
+  },
+  {
+    "paper": "51512",
+    "purpose": "aesthetic",
+    "original_url": "https://cdn.elifesciences.org/articles/51512/elife-51512-video2.mp4",
+    "credit": "Hyang Mi Moon; Simon Hippenmeyer; Liqun Luo; Anthony Wynshaw-Boris",
+    "full_reference": "Hyang Mi Moon; Simon Hippenmeyer; Liqun Luo; Anthony Wynshaw-Boris (2020). LIS1 determines cleavage plane positioning by regulating actomyosin-mediated cell membrane contractility. https://doi.org/10.7554/eLife.51512",
+    "doi": "10.7554/eLife.51512",
+    "source_legend": "Video 2. Formation of binucleated daughter cells by cytokinesis failure in  Pafah1b1  mutant MEFs. Time-lapse live cell imaging of mitotic cell division from  Lis1  mutant MEFs ( CAGG-CreERT2; Pafah1b1 hc/hc  +TM 12 h ) treated with 4-hydroxy TM. H2B-GFP and mCherry-α-Tubulin labeled fluorescence signals were acquired with a 30 s interval by Nikon Ti epifluorescence microscope. The  Pafah1b1 -deficient MEFs underwent abnormal cytokinesis and resulted in formation of binucleated daughter cells.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Moon et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video2",
+    "caption": "Moon et al. (2020), Video 2.",
+    "content_index": 8
+  },
+  {
+    "paper": "51512",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/51512/elife-51512-video3.mp4",
+    "credit": "Hyang Mi Moon; Simon Hippenmeyer; Liqun Luo; Anthony Wynshaw-Boris",
+    "full_reference": "Hyang Mi Moon; Simon Hippenmeyer; Liqun Luo; Anthony Wynshaw-Boris (2020). LIS1 determines cleavage plane positioning by regulating actomyosin-mediated cell membrane contractility. https://doi.org/10.7554/eLife.51512",
+    "doi": "10.7554/eLife.51512",
+    "source_legend": "Video 3. Myosin II localization during cytokinesis of wild-type (WT) MEFs. Time-lapse live cell imaging of mitotic cell division from wild-type (WT) MEFs. Myosin regulatory light chain 1 (MRLC1)-GFP and H2B-tdTomato labeled fluorescence signals were acquired with a 30 s interval by Nikon Ti spinning disk confocal microscope. In normal cytokinesis, MRLC1 was recruited to the equatorial cortex and formed the cleavage furrow.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Moon et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video3",
+    "caption": "Moon et al. (2020), Video 3.",
+    "content_index": 10
+  },
+  {
+    "paper": "100328",
+    "purpose": "aesthetic",
+    "original_url": "https://cdn.elifesciences.org/articles/100328/elife-100328-fig6-video1.mp4",
+    "credit": "María Pedraza; Valentina Grampa; Sophie Scotto-Lomassese; Julien Puech; Aude Muzerelle; Azka Mohammad; Sophie Lebon; Nicolas Renier; Christine Metin; Justine Masson",
+    "full_reference": "María Pedraza; Valentina Grampa; Sophie Scotto-Lomassese; Julien Puech; Aude Muzerelle; Azka Mohammad; Sophie Lebon; Nicolas Renier; Christine Metin; Justine Masson (2025). The ciliary kinesin KIF7 controls the development of the cerebral cortex by acting differentially on SHH signaling in dorsal and ventral forebrain. https://doi.org/10.7554/eLife.100328",
+    "doi": "10.7554/eLife.100328",
+    "source_legend": "Figure 6—video 1. Migration of tdTomato-expressing Kif7 -/-  medial ganglionic eminence (MGE) cells. Forebrain slices 250 µm thick are imaged on an inverted microscope. Time-lapse between frames is 10 min.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Pedraza, Grampa, Scotto-Lomassese et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "fig6-video1",
+    "caption": "Pedraza et al. (2025), fig6-Video 1.",
+    "content_index": 12
+  },
+  {
+    "paper": "18683",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/18683/elife-18683-media1.mp4",
+    "credit": "Felipe Mora-Bermúdez; Farhath Badsha; Sabina Kanton; J Gray Camp; Benjamin Vernot; Kathrin Köhler; Birger Voigt; Keisuke Okita; Tomislav Maricic; Zhisong He; Robert Lachmann; Svante Pääbo; Barbara Treutlein; Wieland B Huttner",
+    "full_reference": "Felipe Mora-Bermúdez; Farhath Badsha; Sabina Kanton; J Gray Camp; Benjamin Vernot; Kathrin Köhler; Birger Voigt; Keisuke Okita; Tomislav Maricic; Zhisong He; Robert Lachmann; Svante Pääbo; Barbara Treutlein; Wieland B Huttner (2016). Differences and similarities between human and chimpanzee neural progenitors during cerebral cortex development. https://doi.org/10.7554/eLife.18683",
+    "doi": "10.7554/eLife.18683",
+    "source_legend": "10.7554/eLife.18683.021 Video 1. Differences in prometaphase-metaphase length between APs of human and chimpanzee cerebral organoids. Related to  Figure 5B and C  Live tissue imaging of mitotic phases, as reported by chromosomes, in organotypic slice culture of cerebral organoids. Time-lapse is  ∼ 1.1 min. Datasets are the same as in  Figure 5B and C . Left side: APs in a slice of a D30 human cerebral organoid from iPSC line SC102A-1. Right side: APs in a slice of a D30 chimpanzee cerebral organoid from iPSC line Sandra A. Growing colour bars at the bottom indicate time progression of the respective dividing AP and are synchronized to the beginning of prometaphase (in green). Metaphase plate time is in yellow and anaphase time is in red. Note the slower progression of the dividing human AP on the left. DOI:   http://dx.doi.org/10.7554/eLife.18683.021",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Mora-Bermúdez et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "media1",
+    "caption": "Mora-Bermúdez et al. (2016), media1.",
+    "content_index": 14
+  },
+  {
+    "paper": "23253",
+    "purpose": "aesthetic",
+    "original_url": "https://cdn.elifesciences.org/articles/23253/elife-23253-media1.mp4",
+    "credit": "Xin Heng; Qiuxia Guo; Alan W Leung; James YH Li",
+    "full_reference": "Xin Heng; Qiuxia Guo; Alan W Leung; James YH Li (2017). Analogous mechanism regulating formation of neocortical basal radial glia and cerebellar Bergmann glia. https://doi.org/10.7554/eLife.23253",
+    "doi": "10.7554/eLife.23253",
+    "source_legend": "10.7554/eLife.23253.015 Video 1. Movie of three-dimension rendering of  Mek1 DD -induced bRG in the mouse cortex. The red, green and blue channels represent antibody-staining for Hopx, GFP, and Sox2, respectively. DOI:   http://dx.doi.org/10.7554/eLife.23253.015",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Heng et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "media1",
+    "caption": "Heng et al. (2017), media1.",
+    "content_index": 16
+  },
+  {
+    "paper": "34593",
+    "purpose": "aesthetic",
+    "original_url": "https://cdn.elifesciences.org/articles/34593/elife-34593-video4.mp4",
+    "credit": "Kentarou Baba; Wataru Yoshida; Michinori Toriyama; Tadayuki Shimada; Colleen F Manning; Michiko Saito; Kenji Kohno; James S Trimmer; Rikiya Watanabe; Naoyuki Inagaki",
+    "full_reference": "Kentarou Baba; Wataru Yoshida; Michinori Toriyama; Tadayuki Shimada; Colleen F Manning; Michiko Saito; Kenji Kohno; James S Trimmer; Rikiya Watanabe; Naoyuki Inagaki (2018). Gradient-reading and mechano-effector machinery for netrin-1-induced axon guidance. https://doi.org/10.7554/eLife.34593",
+    "doi": "10.7554/eLife.34593",
+    "source_legend": "10.7554/eLife.34593.032 Video 4. A time-lapse movie of a hippocampal neuron under a gradient of netrin-1 without heparin. See the legend for  Figure 7—figure supplement 1A . The gradient of Alexa Fluor 594-BSA in  Figure 7—figure supplement 1A  is not shown.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Baba et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video4",
+    "caption": "Baba et al. (2018), Video 4.",
+    "content_index": 19
+  },
+  {
+    "paper": "34593",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/34593/elife-34593-video3.mp4",
+    "credit": "Kentarou Baba; Wataru Yoshida; Michinori Toriyama; Tadayuki Shimada; Colleen F Manning; Michiko Saito; Kenji Kohno; James S Trimmer; Rikiya Watanabe; Naoyuki Inagaki",
+    "full_reference": "Kentarou Baba; Wataru Yoshida; Michinori Toriyama; Tadayuki Shimada; Colleen F Manning; Michiko Saito; Kenji Kohno; James S Trimmer; Rikiya Watanabe; Naoyuki Inagaki (2018). Gradient-reading and mechano-effector machinery for netrin-1-induced axon guidance. https://doi.org/10.7554/eLife.34593",
+    "doi": "10.7554/eLife.34593",
+    "source_legend": "10.7554/eLife.34593.031 Video 3. Netrin-1-induced promotion of traction forces at an axonal growth cone. Left and right panels show bead displacement before and 60 min after netrin-1 stimulation, respectively. See the legend for  Figure 6C .",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Baba et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video3",
+    "caption": "Baba et al. (2018), Video 3.",
+    "content_index": 20
+  },
+  {
+    "paper": "62167",
+    "purpose": "aesthetic",
+    "original_url": "https://cdn.elifesciences.org/articles/62167/elife-62167-video1.mp4",
+    "credit": "Tony KY Lim; Edward S Ruthazer",
+    "full_reference": "Tony KY Lim; Edward S Ruthazer (2021). Microglial trogocytosis and the complement system regulate axonal pruning in vivo. https://doi.org/10.7554/eLife.62167",
+    "doi": "10.7554/eLife.62167",
+    "source_legend": "Video 1. IB4-isolectin-labeled cells in  Xenopus laevis  tadpoles are morphologically dynamic and highly mobile. (A) IB4-isolectin cells are highly mobile. Timestamp = HH:MM. (B) IB4-isolectin labeled cells have a dynamic morphology, switching back and forth between ameboid-like and primitive ramified-like morphologies.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Lim and Ruthazer",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video1",
+    "caption": "Lim et al. (2021), Video 1.",
+    "content_index": 22
+  },
+  {
+    "paper": "62167",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/62167/elife-62167-video4.mp4",
+    "credit": "Tony KY Lim; Edward S Ruthazer",
+    "full_reference": "Tony KY Lim; Edward S Ruthazer (2021). Microglial trogocytosis and the complement system regulate axonal pruning in vivo. https://doi.org/10.7554/eLife.62167",
+    "doi": "10.7554/eLife.62167",
+    "source_legend": "Video 4. In vivo real-time trogocytosis in  Xenopus laevis  tadpoles imaged by 2-photon microscopy. (A) A microglial cell increases in green fluorescence in real-time after an interaction with a pHtdGFP-labeled axon. The colocalization of green and red is colorized as white. Timestamp = HH:MM. (B) Another example of a microglial cell increasing in green fluorescence following an interaction with a pHtdGFP-labeled axon. This example is shown in  Figure 2E . Timestamp = HH:MM.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Lim and Ruthazer",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video4",
+    "caption": "Lim et al. (2021), Video 4.",
+    "content_index": 24
+  },
+  {
+    "paper": "62167",
+    "purpose": "aesthetic",
+    "original_url": "https://cdn.elifesciences.org/articles/62167/elife-62167-video3.mp4",
+    "credit": "Tony KY Lim; Edward S Ruthazer",
+    "full_reference": "Tony KY Lim; Edward S Ruthazer (2021). Microglial trogocytosis and the complement system regulate axonal pruning in vivo. https://doi.org/10.7554/eLife.62167",
+    "doi": "10.7554/eLife.62167",
+    "source_legend": "Video 3. Microglia surveil the tectal neuropil in developing  Xenopus laevis . (A) Microglia associate with the tectal neuropil in  Xenopus laevis . Timestamp = HH:MM. (B) The neuropil does not exclude microglia. Microglia can mobilize into the neuropil region from the cell body layer and can freely move through the neuropil region. Timestamp = HH:MM. (C) Microglia surveil the tectal neuropil by extending processes into the neuropil from the cell body layer. Timestamp = HH:MM.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Lim and Ruthazer",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video3",
+    "caption": "Lim et al. (2021), Video 3.",
+    "content_index": 26
+  },
+  {
+    "paper": "78079",
+    "purpose": "aesthetic",
+    "original_url": "https://cdn.elifesciences.org/articles/78079/elife-78079-fig3-video1.mp4",
+    "credit": "Murat Yildirim; Chloe Delepine; Danielle Feldman; Vincent A Pham; Stephanie Chou; Jacque Ip; Alexi Nott; Li-Huei Tsai; Guo-Li Ming; Peter TC So; Mriganka Sur",
+    "full_reference": "Murat Yildirim; Chloe Delepine; Danielle Feldman; Vincent A Pham; Stephanie Chou; Jacque Ip; Alexi Nott; Li-Huei Tsai; Guo-Li Ming; Peter TC So; Mriganka Sur (2022). Label-free three-photon imaging of intact human cerebral organoids for tracking early events in brain development and deficits in Rett syndrome. https://doi.org/10.7554/eLife.78079",
+    "doi": "10.7554/eLife.78079",
+    "source_legend": "Figure 3—video 1. Depth-resolved z-stack images of an intact, fixed RTT-MT organoid. Red color represents the 7AAD nuclear stain, and green color represents the label-free THG signal. Increments in the z direction are 2 µm and absolute values of the z-position are presented on the top-left part of each image.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Yildirim et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "fig3-video1",
+    "caption": "Yildirim et al. (2022), fig3-Video 1.",
+    "content_index": 28
+  },
+  {
+    "paper": "78079",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/78079/elife-78079-fig5-video2.mp4",
+    "credit": "Murat Yildirim; Chloe Delepine; Danielle Feldman; Vincent A Pham; Stephanie Chou; Jacque Ip; Alexi Nott; Li-Huei Tsai; Guo-Li Ming; Peter TC So; Mriganka Sur",
+    "full_reference": "Murat Yildirim; Chloe Delepine; Danielle Feldman; Vincent A Pham; Stephanie Chou; Jacque Ip; Alexi Nott; Li-Huei Tsai; Guo-Li Ming; Peter TC So; Mriganka Sur (2022). Label-free three-photon imaging of intact human cerebral organoids for tracking early events in brain development and deficits in Rett syndrome. https://doi.org/10.7554/eLife.78079",
+    "doi": "10.7554/eLife.78079",
+    "source_legend": "Figure 5—video 2. Neuronal migration in mutant (RTT-MT) intact live organoid imaged over the course of 12 hr. Neurons, identified with THG imaging, are observed migrating from the ventricular cavity (at top) through the ventricular zone towards the cortical plate (at bottom). Colored line for each neuron represents its migration trajectory. Color bar at bottom right represents instantaneous velocity (μm/hr) of neurons.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Yildirim et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "fig5-video2",
+    "caption": "Yildirim et al. (2022), fig5-Video 2.",
+    "content_index": 30
+  },
+  {
+    "paper": "50531",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/50531/elife-50531-video2.mp4",
+    "credit": "Jenelle Wallace; Julia Lord; Lasse Dissing-Olesen; Beth Stevens; Venkatesh N Murthy",
+    "full_reference": "Jenelle Wallace; Julia Lord; Lasse Dissing-Olesen; Beth Stevens; Venkatesh N Murthy (2020). Microglial depletion disrupts normal functional development of adult-born neurons in the olfactory bulb. https://doi.org/10.7554/eLife.50531",
+    "doi": "10.7554/eLife.50531",
+    "source_legend": "Video 2. Time series showing interactions between microglia and dendritic spines of abGCs. The movie shows a single plane taken from the z stack in  Video 1  across 48 min of imaging (images taken 3 min apart). The time course of the interaction between a microglial process and the mushroom spine shown in the example in  Figure 1  can be observed. The analysis in  Figure 1  was performed on individual planes from such time series.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wallace et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video2",
+    "caption": "Wallace et al. (2020), Video 2.",
+    "content_index": 32
+  },
+  {
+    "paper": "78079",
+    "purpose": "aesthetic",
+    "original_url": "https://cdn.elifesciences.org/articles/78079/elife-78079-fig3-video2.mp4",
+    "credit": "Murat Yildirim; Chloe Delepine; Danielle Feldman; Vincent A Pham; Stephanie Chou; Jacque Ip; Alexi Nott; Li-Huei Tsai; Guo-Li Ming; Peter TC So; Mriganka Sur",
+    "full_reference": "Murat Yildirim; Chloe Delepine; Danielle Feldman; Vincent A Pham; Stephanie Chou; Jacque Ip; Alexi Nott; Li-Huei Tsai; Guo-Li Ming; Peter TC So; Mriganka Sur (2022). Label-free three-photon imaging of intact human cerebral organoids for tracking early events in brain development and deficits in Rett syndrome. https://doi.org/10.7554/eLife.78079",
+    "doi": "10.7554/eLife.78079",
+    "source_legend": "Figure 3—video 2. Depth-resolved z-stack images of an intact, fixed RTT-WT organoid. Red color represents the 7AAD nuclear stain, and green color represents the label-free THG signal. Increments in the z direction are 2 µm and absolute values of the z-position are presented on the top-left part of each image.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Yildirim et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "fig3-video2",
+    "caption": "Yildirim et al. (2022), fig3-Video 2.",
+    "content_index": 34
+  },
+  {
+    "paper": "78079",
+    "purpose": "aesthetic",
+    "original_url": "https://cdn.elifesciences.org/articles/78079/elife-78079-fig3-video3.mp4",
+    "credit": "Murat Yildirim; Chloe Delepine; Danielle Feldman; Vincent A Pham; Stephanie Chou; Jacque Ip; Alexi Nott; Li-Huei Tsai; Guo-Li Ming; Peter TC So; Mriganka Sur",
+    "full_reference": "Murat Yildirim; Chloe Delepine; Danielle Feldman; Vincent A Pham; Stephanie Chou; Jacque Ip; Alexi Nott; Li-Huei Tsai; Guo-Li Ming; Peter TC So; Mriganka Sur (2022). Label-free three-photon imaging of intact human cerebral organoids for tracking early events in brain development and deficits in Rett syndrome. https://doi.org/10.7554/eLife.78079",
+    "doi": "10.7554/eLife.78079",
+    "source_legend": "Figure 3—video 3. Depth-resolved z-stack THG images up to 2 mm depth of an intact, fixed RTT-WT organoid. This video exemplifies that the maximum imaging depth of an intact, fixed organoid is limited by either the thickness of the organoid or the working distance of the objective lens. Increments in the z direction are 2 µm and absolute values of the z-position are presented on the top-left part of each image.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Yildirim et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "fig3-video3",
+    "caption": "Yildirim et al. (2022), fig3-Video 3.",
+    "content_index": 36
+  },
+  {
+    "paper": "76707",
+    "purpose": "aesthetic",
+    "original_url": "https://cdn.elifesciences.org/articles/76707/elife-76707-fig1-video1.mp4",
+    "credit": "Xin-Yao Sun; Xiang-Chun Ju; Yang Li; Peng-Ming Zeng; Jian Wu; Ying-Ying Zhou; Li-Bing Shen; Jian Dong; Yue-Jun Chen; Zhen-Ge Luo",
+    "full_reference": "Xin-Yao Sun; Xiang-Chun Ju; Yang Li; Peng-Ming Zeng; Jian Wu; Ying-Ying Zhou; Li-Bing Shen; Jian Dong; Yue-Jun Chen; Zhen-Ge Luo (2022). Generation of vascularized brain organoids to study neurovascular interactions. https://doi.org/10.7554/eLife.76707",
+    "doi": "10.7554/eLife.76707",
+    "source_legend": "Figure 1—video 1. Phosphate-buffered saline (PBS) fluid was microinjected into the vessel-like lumen in day (D) 40 vessel organoid (VOr) with continuous pressure, showing liquid flow and vessel wall expansion without leakage. Electrode inner diameter: 500 nm. Scale bar, 2 μm.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Sun et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "fig1-video1",
+    "caption": "Sun et al. (2022), fig1-Video 1.",
+    "content_index": 38
+  },
+  {
+    "paper": "78079",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/78079/elife-78079-fig5-video1.mp4",
+    "credit": "Murat Yildirim; Chloe Delepine; Danielle Feldman; Vincent A Pham; Stephanie Chou; Jacque Ip; Alexi Nott; Li-Huei Tsai; Guo-Li Ming; Peter TC So; Mriganka Sur",
+    "full_reference": "Murat Yildirim; Chloe Delepine; Danielle Feldman; Vincent A Pham; Stephanie Chou; Jacque Ip; Alexi Nott; Li-Huei Tsai; Guo-Li Ming; Peter TC So; Mriganka Sur (2022). Label-free three-photon imaging of intact human cerebral organoids for tracking early events in brain development and deficits in Rett syndrome. https://doi.org/10.7554/eLife.78079",
+    "doi": "10.7554/eLife.78079",
+    "source_legend": "Figure 5—video 1. Neuronal migration in isogenic control (RTT-WT) intact live organoid imaged over the course of 12 hr. Neurons, identified with third harmonic generation (THG) imaging, are observed migrating in the ventricular zone from the ventricular cavity (at top) towards the cortical plate (at bottom). Colored line for each neuron represents its migration trajectory. Color bar at bottom right represents instantaneous velocity (μm/hr) of neurons.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Yildirim et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "fig5-video1",
+    "caption": "Yildirim et al. (2022), fig5-Video 1.",
+    "content_index": 40
+  },
+  {
+    "paper": "78202",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/78202/elife-78202-fig2-video1.mp4",
+    "credit": "Cayla E Jewett; Bailey L McCurdy; Eileen T O'Toole; Alexander J Stemm-Wolf; Katherine S Given; Carrie H Lin; Valerie Olsen; Whitney Martin; Laura Reinholdt; Joaquín M Espinosa; Kelly D Sullivan; Wendy B Macklin; Rytis Prekeris; Chad G Pearson",
+    "full_reference": "Cayla E Jewett; Bailey L McCurdy; Eileen T O'Toole; Alexander J Stemm-Wolf; Katherine S Given; Carrie H Lin; Valerie Olsen; Whitney Martin; Laura Reinholdt; Joaquín M Espinosa; Kelly D Sullivan; Wendy B Macklin; Rytis Prekeris; Chad G Pearson (2023). Trisomy 21 induces pericentrosomal crowding delaying primary ciliogenesis and mouse cerebellar development. https://doi.org/10.7554/eLife.78202",
+    "doi": "10.7554/eLife.78202",
+    "source_legend": "Figure 2—video 1. Movie of D21 cell from  Figure 2  showing the electron tomogram volume, then model projecting from the image, then the model turning without image. Mother centriole (yellow), daughter centriole (magenta), microtubule minus ends (cyan spheres), microtubules (green), vesicles (red spheres), and smooth tubular membrane (blue-green). Note the proximity of vesicles to microtubules.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Jewett et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "fig2-video1",
+    "caption": "Jewett et al. (2023), fig2-Video 1.",
+    "content_index": 42
+  },
+  {
+    "paper": "78202",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/78202/elife-78202-fig2-video2.mp4",
+    "credit": "Cayla E Jewett; Bailey L McCurdy; Eileen T O'Toole; Alexander J Stemm-Wolf; Katherine S Given; Carrie H Lin; Valerie Olsen; Whitney Martin; Laura Reinholdt; Joaquín M Espinosa; Kelly D Sullivan; Wendy B Macklin; Rytis Prekeris; Chad G Pearson",
+    "full_reference": "Cayla E Jewett; Bailey L McCurdy; Eileen T O'Toole; Alexander J Stemm-Wolf; Katherine S Given; Carrie H Lin; Valerie Olsen; Whitney Martin; Laura Reinholdt; Joaquín M Espinosa; Kelly D Sullivan; Wendy B Macklin; Rytis Prekeris; Chad G Pearson (2023). Trisomy 21 induces pericentrosomal crowding delaying primary ciliogenesis and mouse cerebellar development. https://doi.org/10.7554/eLife.78202",
+    "doi": "10.7554/eLife.78202",
+    "source_legend": "Figure 2—video 2. Movie of T21 cell from  Figure 2  showing the electron tomogram volume, then model projecting from the image, then the model turning without image. Mother centriole (yellow), daughter centriole (magenta), microtubule minus ends (cyan spheres), microtubules (green), vesicles (red spheres), and smooth tubular membrane (blue-green). Note the proximity of vesicles to microtubules.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Jewett et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "fig2-video2",
+    "caption": "Jewett et al. (2023), fig2-Video 2.",
+    "content_index": 44
+  },
+  {
+    "paper": "78202",
+    "purpose": "aesthetic",
+    "original_url": "https://cdn.elifesciences.org/articles/78202/elife-78202-fig2-video3.mp4",
+    "credit": "Cayla E Jewett; Bailey L McCurdy; Eileen T O'Toole; Alexander J Stemm-Wolf; Katherine S Given; Carrie H Lin; Valerie Olsen; Whitney Martin; Laura Reinholdt; Joaquín M Espinosa; Kelly D Sullivan; Wendy B Macklin; Rytis Prekeris; Chad G Pearson",
+    "full_reference": "Cayla E Jewett; Bailey L McCurdy; Eileen T O'Toole; Alexander J Stemm-Wolf; Katherine S Given; Carrie H Lin; Valerie Olsen; Whitney Martin; Laura Reinholdt; Joaquín M Espinosa; Kelly D Sullivan; Wendy B Macklin; Rytis Prekeris; Chad G Pearson (2023). Trisomy 21 induces pericentrosomal crowding delaying primary ciliogenesis and mouse cerebellar development. https://doi.org/10.7554/eLife.78202",
+    "doi": "10.7554/eLife.78202",
+    "source_legend": "Figure 2—video 3. Movie of Q21 cell from  Figure 2  showing the electron tomogram volume, then model projecting from the image, then the model turning without image. Mother centriole (yellow), daughter centriole (magenta), microtubule minus ends (cyan spheres), microtubules (green), vesicles (red spheres), and smooth tubular membrane (blue-green). Note the proximity of vesicles to microtubules.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Jewett et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "fig2-video3",
+    "caption": "Jewett et al. (2023), fig2-Video 3.",
+    "content_index": 46
+  },
+  {
+    "paper": "51822",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/51822/elife-51822-video1.mp4",
+    "credit": "Steve Dos-Santos Carvalho; Maite M Moreau; Yeri Esther Hien; Mikael Garcia; Nathalie Aubailly; Deborah J Henderson; Vincent Studer; Nathalie Sans; Olivier Thoumine; Mireille Montcouquiol",
+    "full_reference": "Steve Dos-Santos Carvalho; Maite M Moreau; Yeri Esther Hien; Mikael Garcia; Nathalie Aubailly; Deborah J Henderson; Vincent Studer; Nathalie Sans; Olivier Thoumine; Mireille Montcouquiol (2020). Vangl2 acts at the interface between actin and N-cadherin to modulate mammalian neuronal outgrowth. https://doi.org/10.7554/eLife.51822",
+    "doi": "10.7554/eLife.51822",
+    "source_legend": "Video 1. Time lapse video with Differential Interference Contrast (DIC) microscopy of a control growth cone growing on NCad-Fc substrate for 45 min.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Dos-Santos Carvalho et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video1",
+    "caption": "Dos-Santos Carvalho et al. (2020), Video 1.",
+    "content_index": 48
+  },
+  {
+    "paper": "51822",
+    "purpose": "aesthetic",
+    "original_url": "https://cdn.elifesciences.org/articles/51822/elife-51822-video2.mp4",
+    "credit": "Steve Dos-Santos Carvalho; Maite M Moreau; Yeri Esther Hien; Mikael Garcia; Nathalie Aubailly; Deborah J Henderson; Vincent Studer; Nathalie Sans; Olivier Thoumine; Mireille Montcouquiol",
+    "full_reference": "Steve Dos-Santos Carvalho; Maite M Moreau; Yeri Esther Hien; Mikael Garcia; Nathalie Aubailly; Deborah J Henderson; Vincent Studer; Nathalie Sans; Olivier Thoumine; Mireille Montcouquiol (2020). Vangl2 acts at the interface between actin and N-cadherin to modulate mammalian neuronal outgrowth. https://doi.org/10.7554/eLife.51822",
+    "doi": "10.7554/eLife.51822",
+    "source_legend": "Video 2. Time lapse video with DIC microscopy of a  Vangl2  cKO growth cone growing on NCad-Fc substrate for 45 min.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Dos-Santos Carvalho et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video2",
+    "caption": "Dos-Santos Carvalho et al. (2020), Video 2.",
+    "content_index": 50
+  },
+  {
+    "paper": "90313",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/90313/elife-90313-video1.mp4",
+    "credit": "Junbin Tian; Fang Yang; Ying Wang; Li Wang; Ning Wang; Yi Jiang; Li Yang",
+    "full_reference": "Junbin Tian; Fang Yang; Ying Wang; Li Wang; Ning Wang; Yi Jiang; Li Yang (2024). Atypical local and global biological motion perception in children with attention deficit hyperactivity disorder. https://doi.org/10.7554/eLife.90313",
+    "doi": "10.7554/eLife.90313",
+    "source_legend": "Video 1. An intact walker without a mask. The dots in the video are rendered in chromatic colors for better illustration and displayed in white in the actual experiments.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Tian et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video1",
+    "caption": "Tian et al. (2024), Video 1.",
+    "content_index": 52
+  },
+  {
+    "paper": "90313",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/90313/elife-90313-video2.mp4",
+    "credit": "Junbin Tian; Fang Yang; Ying Wang; Li Wang; Ning Wang; Yi Jiang; Li Yang",
+    "full_reference": "Junbin Tian; Fang Yang; Ying Wang; Li Wang; Ning Wang; Yi Jiang; Li Yang (2024). Atypical local and global biological motion perception in children with attention deficit hyperactivity disorder. https://doi.org/10.7554/eLife.90313",
+    "doi": "10.7554/eLife.90313",
+    "source_legend": "Video 2. An example of biological motion (BM)-Local (a scrambled walker without a mask). The chromatic dots in this video correspond to the major joints of the intact walker in  Video 1  and are displayed in white in the actual experiments.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Tian et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video2",
+    "caption": "Tian et al. (2024), Video 2.",
+    "content_index": 54
+  },
+  {
+    "paper": "90313",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/90313/elife-90313-video3.mp4",
+    "credit": "Junbin Tian; Fang Yang; Ying Wang; Li Wang; Ning Wang; Yi Jiang; Li Yang",
+    "full_reference": "Junbin Tian; Fang Yang; Ying Wang; Li Wang; Ning Wang; Yi Jiang; Li Yang (2024). Atypical local and global biological motion perception in children with attention deficit hyperactivity disorder. https://doi.org/10.7554/eLife.90313",
+    "doi": "10.7554/eLife.90313",
+    "source_legend": "Video 3. An example of biological motion (BM)-Global (an intact or scrambled walker with a mask). The chromatic dots in this video correspond to the major joints of the intact walker in  Video 1  and are displayed in white in the actual experiments.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Tian et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video3",
+    "caption": "Tian et al. (2024), Video 3.",
+    "content_index": 56
+  },
+  {
+    "paper": "90313",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/90313/elife-90313-video4.mp4",
+    "credit": "Junbin Tian; Fang Yang; Ying Wang; Li Wang; Ning Wang; Yi Jiang; Li Yang",
+    "full_reference": "Junbin Tian; Fang Yang; Ying Wang; Li Wang; Ning Wang; Yi Jiang; Li Yang (2024). Atypical local and global biological motion perception in children with attention deficit hyperactivity disorder. https://doi.org/10.7554/eLife.90313",
+    "doi": "10.7554/eLife.90313",
+    "source_legend": "Video 4. Intact walkers facing five directions in biological motion (BM)-Global. The dots in this video are rendered in black for better illustration and displayed in white in the actual experiments.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Tian et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video4",
+    "caption": "Tian et al. (2024), Video 4.",
+    "content_index": 58
+  },
+  {
+    "paper": "90313",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/90313/elife-90313-video5.mp4",
+    "credit": "Junbin Tian; Fang Yang; Ying Wang; Li Wang; Ning Wang; Yi Jiang; Li Yang",
+    "full_reference": "Junbin Tian; Fang Yang; Ying Wang; Li Wang; Ning Wang; Yi Jiang; Li Yang (2024). Atypical local and global biological motion perception in children with attention deficit hyperactivity disorder. https://doi.org/10.7554/eLife.90313",
+    "doi": "10.7554/eLife.90313",
+    "source_legend": "Video 5. The example of biological motion (BM)-General (an intact walker with a mask). The chromatic dots in this video correspond to the major joints of the intact walker in  Video 1  and are displayed in white in the actual experiments.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Tian et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video5",
+    "caption": "Tian et al. (2024), Video 5.",
+    "content_index": 60
+  },
+  {
+    "paper": "100328",
+    "purpose": "aesthetic",
+    "original_url": "https://cdn.elifesciences.org/articles/100328/elife-100328-fig6-video2.mp4",
+    "credit": "María Pedraza; Valentina Grampa; Sophie Scotto-Lomassese; Julien Puech; Aude Muzerelle; Azka Mohammad; Sophie Lebon; Nicolas Renier; Christine Metin; Justine Masson",
+    "full_reference": "María Pedraza; Valentina Grampa; Sophie Scotto-Lomassese; Julien Puech; Aude Muzerelle; Azka Mohammad; Sophie Lebon; Nicolas Renier; Christine Metin; Justine Masson (2025). The ciliary kinesin KIF7 controls the development of the cerebral cortex by acting differentially on SHH signaling in dorsal and ventral forebrain. https://doi.org/10.7554/eLife.100328",
+    "doi": "10.7554/eLife.100328",
+    "source_legend": "Figure 6—video 2. Migration of tdTomato-expressing wild-type (WT) medial ganglionic eminence (MGE) cells treated with mouse Sonic Hedgehog (SHH). Forebrain slices 250 µm thick are imaged on an inverted microscope. Time-lapse between frames is 10 min.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Pedraza, Grampa, Scotto-Lomassese et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "fig6-video2",
+    "caption": "Pedraza et al. (2025), fig6-Video 2.",
+    "content_index": 62
+  },
+  {
+    "paper": "100328",
+    "purpose": "aesthetic",
+    "original_url": "https://cdn.elifesciences.org/articles/100328/elife-100328-fig6-video3.mp4",
+    "credit": "María Pedraza; Valentina Grampa; Sophie Scotto-Lomassese; Julien Puech; Aude Muzerelle; Azka Mohammad; Sophie Lebon; Nicolas Renier; Christine Metin; Justine Masson",
+    "full_reference": "María Pedraza; Valentina Grampa; Sophie Scotto-Lomassese; Julien Puech; Aude Muzerelle; Azka Mohammad; Sophie Lebon; Nicolas Renier; Christine Metin; Justine Masson (2025). The ciliary kinesin KIF7 controls the development of the cerebral cortex by acting differentially on SHH signaling in dorsal and ventral forebrain. https://doi.org/10.7554/eLife.100328",
+    "doi": "10.7554/eLife.100328",
+    "source_legend": "Figure 6—video 3. Migration of tdTomato-expressing wild-type (WT) medial ganglionic eminence (MGE) cells treated with mouse Sonic Hedgehog (SHH). Forebrain slices 250 µm thick are imaged on an inverted microscope. Time-lapse between frames is 10 min.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Pedraza, Grampa, Scotto-Lomassese et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "fig6-video3",
+    "caption": "Pedraza et al. (2025), fig6-Video 3.",
+    "content_index": 64
+  },
+  {
+    "paper": "48983",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/48983/elife-48983-video1.mp4",
+    "credit": "J Elliott Robinson; Gerard M Coughlin; Acacia M Hori; Jounhong Ryan Cho; Elisha D Mackey; Zeynep Turan; Tommaso Patriarchi; Lin Tian; Viviana Gradinaru",
+    "full_reference": "J Elliott Robinson; Gerard M Coughlin; Acacia M Hori; Jounhong Ryan Cho; Elisha D Mackey; Zeynep Turan; Tommaso Patriarchi; Lin Tian; Viviana Gradinaru (2019). Optical dopamine monitoring with dLight1 reveals mesolimbic phenotypes in a mouse model of neurofibromatosis type 1. https://doi.org/10.7554/eLife.48983",
+    "doi": "10.7554/eLife.48983",
+    "source_legend": "Video 1. Behavioral response of  Nf1 +/-  mouse to CS presentation during fear conditioning.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Robinson et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video1",
+    "caption": "Robinson et al. (2019), Video 1.",
+    "content_index": 66
+  },
+  {
+    "paper": "48983",
+    "purpose": "aesthetic",
+    "original_url": "https://cdn.elifesciences.org/articles/48983/elife-48983-video2.mp4",
+    "credit": "J Elliott Robinson; Gerard M Coughlin; Acacia M Hori; Jounhong Ryan Cho; Elisha D Mackey; Zeynep Turan; Tommaso Patriarchi; Lin Tian; Viviana Gradinaru",
+    "full_reference": "J Elliott Robinson; Gerard M Coughlin; Acacia M Hori; Jounhong Ryan Cho; Elisha D Mackey; Zeynep Turan; Tommaso Patriarchi; Lin Tian; Viviana Gradinaru (2019). Optical dopamine monitoring with dLight1 reveals mesolimbic phenotypes in a mouse model of neurofibromatosis type 1. https://doi.org/10.7554/eLife.48983",
+    "doi": "10.7554/eLife.48983",
+    "source_legend": "Video 2. Behavioral response of  Nf1 +/+  mouse to CS presentation during fear conditioning.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Robinson et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video2",
+    "caption": "Robinson et al. (2019), Video 2.",
+    "content_index": 68
+  },
+  {
+    "paper": "48983",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/48983/elife-48983-video3.mp4",
+    "credit": "J Elliott Robinson; Gerard M Coughlin; Acacia M Hori; Jounhong Ryan Cho; Elisha D Mackey; Zeynep Turan; Tommaso Patriarchi; Lin Tian; Viviana Gradinaru",
+    "full_reference": "J Elliott Robinson; Gerard M Coughlin; Acacia M Hori; Jounhong Ryan Cho; Elisha D Mackey; Zeynep Turan; Tommaso Patriarchi; Lin Tian; Viviana Gradinaru (2019). Optical dopamine monitoring with dLight1 reveals mesolimbic phenotypes in a mouse model of neurofibromatosis type 1. https://doi.org/10.7554/eLife.48983",
+    "doi": "10.7554/eLife.48983",
+    "source_legend": "Video 3. Behavioral response of  Nf1 +/-  mouse to CS presentation during tone-only and interleaved light trials.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Robinson et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video3",
+    "caption": "Robinson et al. (2019), Video 3.",
+    "content_index": 70
+  },
+  {
+    "paper": "100328",
+    "purpose": "aesthetic",
+    "original_url": "https://cdn.elifesciences.org/articles/100328/elife-100328-fig6-video4.mp4",
+    "credit": "María Pedraza; Valentina Grampa; Sophie Scotto-Lomassese; Julien Puech; Aude Muzerelle; Azka Mohammad; Sophie Lebon; Nicolas Renier; Christine Metin; Justine Masson",
+    "full_reference": "María Pedraza; Valentina Grampa; Sophie Scotto-Lomassese; Julien Puech; Aude Muzerelle; Azka Mohammad; Sophie Lebon; Nicolas Renier; Christine Metin; Justine Masson (2025). The ciliary kinesin KIF7 controls the development of the cerebral cortex by acting differentially on SHH signaling in dorsal and ventral forebrain. https://doi.org/10.7554/eLife.100328",
+    "doi": "10.7554/eLife.100328",
+    "source_legend": "Figure 6—video 4. Migration of tdTomato-expressing wild-type (WT) medial ganglionic eminence (MGE) cells treated with cyclopamine. Forebrain slices 250 µm thick are imaged on an inverted microscope. Time-lapse between frames is 10 min.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Pedraza, Grampa, Scotto-Lomassese et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "fig6-video4",
+    "caption": "Pedraza et al. (2025), fig6-Video 4.",
+    "content_index": 72
+  },
+  {
+    "paper": "78079",
+    "purpose": "aesthetic",
+    "original_url": "https://cdn.elifesciences.org/articles/78079/elife-78079-fig4-video1.mp4",
+    "credit": "Murat Yildirim; Chloe Delepine; Danielle Feldman; Vincent A Pham; Stephanie Chou; Jacque Ip; Alexi Nott; Li-Huei Tsai; Guo-Li Ming; Peter TC So; Mriganka Sur",
+    "full_reference": "Murat Yildirim; Chloe Delepine; Danielle Feldman; Vincent A Pham; Stephanie Chou; Jacque Ip; Alexi Nott; Li-Huei Tsai; Guo-Li Ming; Peter TC So; Mriganka Sur (2022). Label-free three-photon imaging of intact human cerebral organoids for tracking early events in brain development and deficits in Rett syndrome. https://doi.org/10.7554/eLife.78079",
+    "doi": "10.7554/eLife.78079",
+    "source_legend": "Figure 4—video 1. THG signal acquired form an intact RTT-MT organoid was segmented into individual ventricular regions. Each color represents a three-dimensional structure of an individual ventricular region.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Yildirim et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "fig4-video1",
+    "caption": "Yildirim et al. (2022), fig4-Video 1.",
+    "content_index": 74
+  },
+  {
+    "paper": "78202",
+    "purpose": "aesthetic",
+    "original_url": "https://cdn.elifesciences.org/articles/78202/elife-78202-fig4-video1.mp4",
+    "credit": "Cayla E Jewett; Bailey L McCurdy; Eileen T O'Toole; Alexander J Stemm-Wolf; Katherine S Given; Carrie H Lin; Valerie Olsen; Whitney Martin; Laura Reinholdt; Joaquín M Espinosa; Kelly D Sullivan; Wendy B Macklin; Rytis Prekeris; Chad G Pearson",
+    "full_reference": "Cayla E Jewett; Bailey L McCurdy; Eileen T O'Toole; Alexander J Stemm-Wolf; Katherine S Given; Carrie H Lin; Valerie Olsen; Whitney Martin; Laura Reinholdt; Joaquín M Espinosa; Kelly D Sullivan; Wendy B Macklin; Rytis Prekeris; Chad G Pearson (2023). Trisomy 21 induces pericentrosomal crowding delaying primary ciliogenesis and mouse cerebellar development. https://doi.org/10.7554/eLife.78202",
+    "doi": "10.7554/eLife.78202",
+    "source_legend": "Figure 4—video 1. Movie of D21 cell from  Figure 4  showing the electron tomogram volume, then model projecting from the image, then the model turning without image. Mother centriole (yellow), daughter centriole (magenta), vesicles (red spheres), smooth tubular membrane (blue-green), and ciliary vesicle (red structure at distal end of mother centriole).",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Jewett et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "fig4-video1",
+    "caption": "Jewett et al. (2023), fig4-Video 1.",
+    "content_index": 76
+  },
+  {
+    "paper": "78202",
+    "purpose": "academic",
+    "original_url": "https://cdn.elifesciences.org/articles/78202/elife-78202-fig5-video1.mp4",
+    "credit": "Cayla E Jewett; Bailey L McCurdy; Eileen T O'Toole; Alexander J Stemm-Wolf; Katherine S Given; Carrie H Lin; Valerie Olsen; Whitney Martin; Laura Reinholdt; Joaquín M Espinosa; Kelly D Sullivan; Wendy B Macklin; Rytis Prekeris; Chad G Pearson",
+    "full_reference": "Cayla E Jewett; Bailey L McCurdy; Eileen T O'Toole; Alexander J Stemm-Wolf; Katherine S Given; Carrie H Lin; Valerie Olsen; Whitney Martin; Laura Reinholdt; Joaquín M Espinosa; Kelly D Sullivan; Wendy B Macklin; Rytis Prekeris; Chad G Pearson (2023). Trisomy 21 induces pericentrosomal crowding delaying primary ciliogenesis and mouse cerebellar development. https://doi.org/10.7554/eLife.78202",
+    "doi": "10.7554/eLife.78202",
+    "source_legend": "Figure 5—video 1. Movie of D21 cell with a primary cilium from  Figure 5  showing the electron tomogram volume, then model projecting from the image, then the model turning without image. Mother centriole and ciliary axoneme (yellow), daughter centriole (magenta), vesicles (red spheres), smooth tubular membrane (blue-green).",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Jewett et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "fig5-video1",
+    "caption": "Jewett et al. (2023), fig5-Video 1.",
+    "content_index": 77
+  }
+]

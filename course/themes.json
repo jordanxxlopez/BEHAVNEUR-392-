@@ -15,7 +15,9 @@
     "11": "charcoal / brick red",
     "9": "dusk blue / paper white",
     "12": "stone brown / porcelain",
-    "13": "blue gray / chalk"
+    "13": "blue gray / chalk",
+    "14": "deep ocean steel / white paper",
+    "15": "slate rose / paper"
   },
   "palettes": {
     "midnight-silver": {
@@ -719,6 +721,19 @@
       "tint": "F0F4F7",
       "accent": "536F7C",
       "rule": "CDD9E2"
+    },
+    "slate-rose-paper": {
+      "label": "slate rose / paper",
+      "title_bg": "FFFFFF",
+      "title_text": "573E48",
+      "title_muted": "000000",
+      "bg": "FFFFFF",
+      "heading": "573E48",
+      "text": "000000",
+      "muted": "000000",
+      "tint": "F5F0F2",
+      "accent": "795765",
+      "rule": "DCCFD5"
     }
   }
 }

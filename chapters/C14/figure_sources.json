@@ -1,0 +1,1036 @@
+{
+  "110320:1": {
+    "path": "figures/elife_110320_fig1.png",
+    "title": "Neural categorization of visual words of alphabetic and non-alphabetic languages",
+    "authors": "Guo Zheng; Shihui Han",
+    "first": "Zheng",
+    "year": "2026",
+    "doi": "10.7554/eLife.110320",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Zheng and Han",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Illustrations of the repetition suppression (RS) paradigm and univariate/multivariate analyses of brain activities in response to words. ( a ) The RS paradigm. Words of two different languages (e.g., Chinese vs. English, or English vs. German) were presented alternately in the Alt-Cond, and words of one language were presented repeatedly in the Rep-Cond. ( b ) Univariate analyses. The RS effect was quantified as the decrease of averaged neural responses to words of one language in the Rep-Cond vs. Alt-Cond. This RS effect manifested habituation of the integrated neural activities that supported classification of words into one or another category and occurred more frequently in the Rep-Cond (vs. Alt-Cond). ( c ) Multivariate analyses. Correlation distances between neural responses to two words were calculated to estimate how words of one language were clustered (i.e., intra-language similarity) and how words of two languages were separated (i.e., inter-language difference) during language-based word categorization.",
+    "original_url": "https://cdn.elifesciences.org/articles/110320/elife-110320-fig1-v1.tif",
+    "sha256": "8a0655e41e8b7e0938bcace81a5b3429cddfb0dde984df464cf38c268094b38f",
+    "width": 2016,
+    "height": 2443,
+    "display_path": "figures/elife_110320_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.35
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2016,
+      2443
+    ],
+    "display_sha256": "63eb99368225af1e06ec870b0cb236e34576a790b813b20b3777f95a53433dc4"
+  },
+  "110320:3": {
+    "path": "figures/elife_110320_fig3.png",
+    "title": "Neural categorization of visual words of alphabetic and non-alphabetic languages",
+    "authors": "Guo Zheng; Shihui Han",
+    "first": "Zheng",
+    "year": "2026",
+    "doi": "10.7554/eLife.110320",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Zheng and Han",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Magnetoencephalography (MEG) results combined Chinese and English words across Chinese and English speakers in Experiments 7a and 8a. ( a ) Significant clusters of repetition suppression (RS) effects on magnetometer signals (the left two panels) and gradiometer signals (the right panel) ( N  = 68). ( b ) Results of the whole-brain source analyses. Shown are left, right, and ventral views of brain regions in which MEG signals in response to words of the same language decreased significantly in the Rep-Cond (vs. Alt-Cond). ( c ) Illustration of the regions of interest used in the following MEG data analyses. ( d ) Source-space MEG signals in the brain regions showing significant RS effects. Time windows of the significant clusters are shown for each brain region. LFULG = left fusiform and lingual gyrus; RFULG = right fusiform and lingual gyrus; LPHC = left parahippocampal cortex; RPHC = right parahippocampal cortex; LATL = left anterior temporal lobe; RATL = right anterior temporal lobe; LI = left insula; RI = right insula; LOFC = left orbital frontal cortex; ROFC = right orbital frontal cortex; LSTS = left superior temporal sulcus.",
+    "original_url": "https://cdn.elifesciences.org/articles/110320/elife-110320-fig3-v1.tif",
+    "sha256": "da456621207cd71d68a672aeb86229f085168c95ec8a01d68b4bbb12f3051e13",
+    "width": 2016,
+    "height": 1843,
+    "display_path": "figures/elife_110320_fig3_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.248
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2016,
+      1843
+    ],
+    "display_sha256": "9bb05137bb38291503b279f778978fda5b631a02845eed1387f9f07db76c24a2"
+  },
+  "12577:2": {
+    "path": "figures/elife_12577_fig2.png",
+    "title": "The auditory representation of speech sounds in human motor cortex",
+    "authors": "Connie Cheung; Liberty S Hamilton; Keith Johnson; Edward F Chang",
+    "first": "Cheung",
+    "year": "2016",
+    "doi": "10.7554/eLife.12577",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Cheung et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.12577.006 Figure 2. Site-by-site differences in vSMC neural activity when speaking and listening to CV syllables. ( a ) Top, vocal tract schematics for three syllables (/ba/, /da/, /ga/) produced by occlusion at the lips, tongue tip, and tongue body, respectively (arrow). ( b ) Acoustic waveforms and spectrograms of spoken syllables. ( c ) Average neural activity at electrodes along the vSMC for speaking (blue) and listening (red) to the three syllables (high gamma z-score). Solid lines indicate activity was significantly different from pre-stimulus silence activity (p<0.01). Transparent lines indicate activity was not different from pre-stimulus silence activity (p>0.01). Vertical dashed line denotes the onset of the syllable acoustics (t=0). ( d ) Location of electrodes 1–13 in panel c, shown on whole brain and with inset detail. CS = central sulcus, SF = Sylvian fissure. DOI:   http://dx.doi.org/10.7554/eLife.12577.006",
+    "original_url": "https://cdn.elifesciences.org/articles/12577/elife-12577-fig2-v2.tif",
+    "sha256": "19d7cef547be051d91c9e13ea651f9dec9e2546e46e6ec62e7ab9a481f8c511b",
+    "width": 1535,
+    "height": 1666
+  },
+  "12577:4": {
+    "path": "figures/elife_12577_fig4.png",
+    "title": "The auditory representation of speech sounds in human motor cortex",
+    "authors": "Connie Cheung; Liberty S Hamilton; Keith Johnson; Edward F Chang",
+    "first": "Cheung",
+    "year": "2016",
+    "doi": "10.7554/eLife.12577",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Cheung et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.12577.009 Figure 4. Organization of motor cortex activity patterns. ( a ) Consonants of all syllable tokens organized by place and manner of articulation. Where consonants appear in pairs, the right is a voiced consonant, and the left is a voiceless consonant. ( b ) Relational organization of vSMC patterns (similarity) using multidimensional scaling (MDS) during speaking. Neural pattern similarity is proportional to the Euclidean distance (that is, similar response patterns are grouped closely together, whereas dissimilar patterns are positioned far apart). Tokens are colored by the main place of articulation of the consonants (labial, velar, or alveolar). ( c ) Similarity of vSMC response patterns during listening. Same coloring by place of articulation. ( d ) Organization by motor articulators. K-means clustering was used to assign mean neural responses to 3 groups (labial, alveolar, velar) for both listening and speaking neural organizations ( b , c ). The similarity of the grouping to known major articulators was measured by the adjusted Rand Index. An index of 1 indicates neural responses group by place of articulation features. ***p<0.001, Wilcoxon rank-sum ( e ) Organization of mean STG responses using MDS when listening. In contrast to c and d, tokens are now colored by their main acoustic feature (fricative, voiced plosive, or voiceless plosive). ( f ) Organization of mean vSMC responses using MDS when listening colored by their main acoustic feature. (Identical to C, but recolored here by acoustic features). ( g ) Organization by manner of articulation acoustic features (fricative, voiced plosive, voiceless plosive) for both STG and vSMC organizations when listening ( e ,  f ). The similarity of the grouping to known acoustic feature groupings was measured by the adjusted Rand Index. ***p<0.001, Wilcoxon rank sum. ( h ) During listening, responses in vSMC show significantly greater organization by acoustic manner features compared to place features as assessed by the adjusted Rand Index, indicating an acoustic rather than articulatory representation (***p<0.001, Wilcoxon rank-sum). Bars in this panel are the same as the red bars in ( d ) and ( g ). In ( d ), ( g ), and ( h ), bars indicate mean ± standard deviation, DOI:   http://dx.doi.org/10.7554/eLife.12577.009",
+    "original_url": "https://cdn.elifesciences.org/articles/12577/elife-12577-fig4-v2.tif",
+    "sha256": "f22728dc00ba8c887502faf6b2a7a5490ce8b687d69a550223bc9621c8dc8781",
+    "width": 1535,
+    "height": 1827
+  },
+  "18554:1": {
+    "path": "figures/elife_18554_fig1.png",
+    "title": "High performance communication by people with paralysis using an intracortical brain-computer interface",
+    "authors": "Chethan Pandarinath; Paul Nuyujukian; Christine H Blabe; Brittany L Sorice; Jad Saab; Francis R Willett; Leigh R Hochberg; Krishna V Shenoy; Jaimie M Henderson",
+    "first": "Pandarinath",
+    "year": "2017",
+    "doi": "10.7554/eLife.18554",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    },
+    "legend": "10.7554/eLife.18554.003 Figure 1. Experimental setup and typing rates during free-paced question and answer sessions. ( a ) Electrical activity was recorded using 96-channel silicon microelectrode arrays implanted in the hand area of motor cortex. Signals were filtered to extract multiunit spiking activity and high frequency field potentials, which were decoded to provide ‘point-and-click’ control of a computer cursor. ( b ) Performance achieved by participant T6 over the three days that question and answer sessions were conducted. The width of each black bar represents the duration of that particular block. The black bands along the gray bar just below the black blocks denote filter calibration times. The average typing rate across all blocks was 24.4 ± 3.3 correct characters per minute (mean ± s.d.).  Video 1  shows an example of T6’s free typing. The filter calibration and assessment stages that preceded these typing blocks are detailed in  Figure 1—figure supplement 3 . DOI:   http://dx.doi.org/10.7554/eLife.18554.003",
+    "original_url": "https://cdn.elifesciences.org/articles/18554/elife-18554-fig1-v1.tif",
+    "sha256": "af0ceecbceb108f4c62b386e330b88dcbd23193e7d6db5c258b0179af11dd67c",
+    "width": 1685,
+    "height": 1229
+  },
+  "18554:3": {
+    "path": "figures/elife_18554_fig3.png",
+    "title": "High performance communication by people with paralysis using an intracortical brain-computer interface",
+    "authors": "Chethan Pandarinath; Paul Nuyujukian; Christine H Blabe; Brittany L Sorice; Jad Saab; Francis R Willett; Leigh R Hochberg; Krishna V Shenoy; Jaimie M Henderson",
+    "first": "Pandarinath",
+    "year": "2017",
+    "doi": "10.7554/eLife.18554",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    },
+    "legend": "10.7554/eLife.18554.018 Figure 3. Information throughput in the grid task. ( a ) Performance in the grid task across 5 days for participant T6. T6 averaged 2.2 ± 0.4 bits per second (mean ± s.d.). ( b ) Performance in the grid task across 2 days for participant T5. T5 averaged 3.7 ± 0.4 bits per second. ( c ) Performance in the grid task across 2 days for participant T7. T7 averaged 1.4 ± 0.1 bits per second. X-axis denotes number of days since array was implanted. *Participant T7 did not use an HMM for selection. DOI:   http://dx.doi.org/10.7554/eLife.18554.018",
+    "original_url": "https://cdn.elifesciences.org/articles/18554/elife-18554-fig3-v1.tif",
+    "sha256": "9456d3f771d682be31985937fb2af85a71b0a9853720fbd61508d2bb049f62a1",
+    "width": 2820,
+    "height": 633
+  },
+  "18554:4": {
+    "path": "figures/elife_18554_fig4.png",
+    "title": "High performance communication by people with paralysis using an intracortical brain-computer interface",
+    "authors": "Chethan Pandarinath; Paul Nuyujukian; Christine H Blabe; Brittany L Sorice; Jad Saab; Francis R Willett; Leigh R Hochberg; Krishna V Shenoy; Jaimie M Henderson",
+    "first": "Pandarinath",
+    "year": "2017",
+    "doi": "10.7554/eLife.18554",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    },
+    "legend": "10.7554/eLife.18554.027 Figure 4. Performance of the BCI with movements suppressed. A potential concern is that the demonstrated performance improvement for participant T6 relative to previous studies is due to her retained movement ability. Participant T6 was capable of dexterous finger movements (as opposed to participants T5 and T7, who retained no functional movements of their limbs). To control for the possibility that physical movements underlie the demonstrated improvement in neural control, we measured T6’s BCI performance during the same quantitative performance evaluation tasks, but asked her to suppress her movements as best as she could. In these sessions, decoders were calibrated based on imagined (rather than attempted) finger movements. ( a ) During copy typing evaluations with movements suppressed, T6’s average performance using the OPTI-II keyboard was 28.6 ± 2.0 ccpm (mean ± s.d.), and her average performance using the QWERTY keyboard was 19.9 ± 4.3 ccpm (as discussed in the main text, her performance while moving freely was 31.6 ± 8.7 ccpm and 23.9 ± 6.5 ccpm for the OPTI-II and QWERTY keyboards, respectively). ( b ) During grid evaluations with movements suppressed, T6’s achieved bitrate was 2.2 ± 0.17 bps (compared to 2.2 ± 0.4 bps while moving freely). We note that using the BCI while suppressing movements is a more difficult and cognitively demanding task - since the participant’s natural, intuitive attempts to move actually generate physical movements, she needed instead to imagine movements, and restrict her motor cortical activity to patterns that do not generate movement. (This is supported by the participants own comment regarding the difficulty in controlling the BCI while imagining movement without actually moving: ‘It is a learning curve for me to not move while imagining.’) Despite this additional cognitive demand, performance with movements suppressed was quite similar to performance when the participant moved freely (within 0–20%) - in all three cases, the differences in performance were not significant (p>0.2 in all cases, Student’s  t  test). Data are from T6’s trial days 595 and 598. DOI:   http://dx.doi.org/10.7554/eLife.18554.027",
+    "original_url": "https://cdn.elifesciences.org/articles/18554/elife-18554-fig4-v1.tif",
+    "sha256": "d58c5705df5338b866708cb56774e73fe870f6c7b32f56b2a5e9abd08a7b2c93",
+    "width": 712,
+    "height": 564
+  },
+  "20557:1": {
+    "path": "figures/elife_20557_fig1.png",
+    "title": "Dyslexics’ faster decay of implicit memory for sounds and words is manifested in their shorter neural adaptation",
+    "authors": "Sagi Jaffe-Dax; Or Frenkel; Merav Ahissar",
+    "first": "Jaffe-Dax",
+    "year": "2017",
+    "doi": "10.7554/eLife.20557",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Jaffe-Dax et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.20557.003 Figure 1. The three parameters that additively determine performance in frequency discrimination : frequency difference within a trial  ( Δ f ) , Global context  (the difference between the current  f 1  and the global mean) and  Recent context  (the difference between the current  f 1  and the previous  f 1 ). ( A ) A schematic illustration of the  Global bias :four trials and the direction of the contraction, which contracts the representation of the first tone in the trial towards the global mean. ( B ) A schematic illustration of the same four trials and the direction of the  Recent bias,  which pulls the representation of this tone towards the recent  f 1  frequency. ( C ) The estimated contribution ( β ) of each of the three parameters to the overall performance of each group. Dyslexics differed from controls only in the smaller magnitude of the contribution of their  Global  predictor (p<0.01). Filled bars denote the mean  β  values; controls in blue and dyslexics in red. Error bars denote SEM. DOI:   http://dx.doi.org/10.7554/eLife.20557.003",
+    "original_url": "https://cdn.elifesciences.org/articles/20557/elife-20557-fig1-v2.tif",
+    "sha256": "eecc6513ea753240e196f4c8d2eaecdca905cdf95efcbb73df0951c2f119db20",
+    "width": 1181,
+    "height": 1430
+  },
+  "20557:3": {
+    "path": "figures/elife_20557_fig3.png",
+    "title": "Dyslexics’ faster decay of implicit memory for sounds and words is manifested in their shorter neural adaptation",
+    "authors": "Sagi Jaffe-Dax; Or Frenkel; Merav Ahissar",
+    "first": "Jaffe-Dax",
+    "year": "2017",
+    "doi": "10.7554/eLife.20557",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Jaffe-Dax et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.20557.005 Figure 3. Dyslexics’ decay of N1 adaptation was faster than that of controls. ( A ) Grand average ERPs, plotted separately for blocks with different ITIs, for controls ( n  = 23; blue, left) and dyslexics ( n  = 25; red, right). Timing of the two tones in each trial is denoted by the short black bars under the plots.  Insets : N1 range enlarged. Dyslexics’ N1 almost reached its full magnitude at an ITI of 3 s, whereas controls’ N1 reached its near-full magnitude only at an ITI of 6 s. ( B ) The decrease in N1 adaptation (circles) and the fitted exponential decay model (lines) as a function of ITI (curves were fitted to groups’ means). ( C ) Groups’ mean and SEMs of individually fitted estimated parameters of the exponential decay model of N1 recovery from adaptation. Only  τ  significantly differed between the two groups (p<0.0001). DOI:   http://dx.doi.org/10.7554/eLife.20557.005",
+    "original_url": "https://cdn.elifesciences.org/articles/20557/elife-20557-fig3-v2.tif",
+    "sha256": "120a37cf9aeb637a8642954c1bdf5b1346e8aa57ce8856242c8c581c542e11ef",
+    "width": 2102,
+    "height": 1268
+  },
+  "25964:1": {
+    "path": "figures/elife_25964_fig1.png",
+    "title": "Rapid short-term reorganization in the language network",
+    "authors": "Gesa Hartwigsen; Danilo Bzdok; Maren Klein; Max Wawrzyniak; Anika Stockert; Katrin Wrede; Joseph Classen; Dorothee Saur",
+    "first": "Hartwigsen",
+    "year": "2017",
+    "doi": "10.7554/eLife.25964",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hartwigsen et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.25964.003 Figure 1. Experimental design and behavioural results.  ( A ) Subjects received effective or sham cTBS either over supramarginal gyrus (SMG) or angular gyrus (AG) in different sessions. Thereafter, they performed semantic and phonological tasks in two fMRI runs. ( B ) Tasks were divided into 10 miniblocks per task and run, each consisting of 6 stimuli (e.g. ‘Katze’ (‘ cat ’)) with varying stimulus onset asynchrony. min=minutes; s=seconds. ( C ) Effects of cTBS over AG and SMG on reaction times (RTs) and accuracy. *p<0.05; SEM= standard error of the mean. DOI:   http://dx.doi.org/10.7554/eLife.25964.003",
+    "original_url": "https://cdn.elifesciences.org/articles/25964/elife-25964-fig1-v2.tif",
+    "sha256": "f87346569afeefb79595aaf2d50261823a7e3680bc088d8a5a7161e3e85332e3",
+    "width": 2693,
+    "height": 3425,
+    "display_path": "figures/elife_25964_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.49
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2693,
+      3425
+    ],
+    "display_sha256": "d5d629e7eb66eb5cc322bf80177ae5cbd162ce3d458ead6e02d6163d870f87e7"
+  },
+  "25964:3": {
+    "path": "figures/elife_25964_fig3.png",
+    "title": "Rapid short-term reorganization in the language network",
+    "authors": "Gesa Hartwigsen; Danilo Bzdok; Maren Klein; Max Wawrzyniak; Anika Stockert; Katrin Wrede; Joseph Classen; Dorothee Saur",
+    "first": "Hartwigsen",
+    "year": "2017",
+    "doi": "10.7554/eLife.25964",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hartwigsen et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.25964.008 Figure 3. Semantic network effects. ( A ) Illustration of the strong cTBS-induced suppression in the semantic network (in blue) and the upregulation of the phonological network (in red). ( B ) The strength of the individual inhibition of left AG after cTBS (effect sizes for AG/sham cTBS received from the effect of interest at x,y,z= −42,–64, 25) predicted the upregulation of left SMG (effect sizes for AG/sham cTBS extracted from the effect of interest at x,y,z= −45,–40, 46). ( C ) Three-dimensional tractography rendering illustrating the underlying anatomical fiber connections mediating the remote effects of cTBS. AG and aIFG were most probably connected via the middle longitudinal fasciculus and extreme capsule. DOI:   http://dx.doi.org/10.7554/eLife.25964.008",
+    "original_url": "https://cdn.elifesciences.org/articles/25964/elife-25964-fig3-v2.tif",
+    "sha256": "60f231d2194258f0ca0a56c21752d28873475e5b521d0e94e4692c314f67a59d",
+    "width": 4942,
+    "height": 2199
+  },
+  "46015:1": {
+    "path": "figures/elife_46015_fig1.png",
+    "title": "Neural ensemble dynamics in dorsal motor cortex during speech in people with paralysis",
+    "authors": "Sergey D Stavisky; Francis R Willett; Guy H Wilson; Brian A Murphy; Paymon Rezaii; Donald T Avansino; William D Memberg; Jonathan P Miller; Robert F Kirsch; Leigh R Hochberg; A Bolu Ajiboye; Shaul Druckmann; Krishna V Shenoy; Jaimie M Henderson",
+    "first": "Stavisky",
+    "year": "2019",
+    "doi": "10.7554/eLife.46015",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    },
+    "legend": "Figure 1. Speech-related neuronal spiking activity in dorsal motor cortex. ( A ) Participants heard a syllable or word prompt played from a computer speaker and were instructed to speak it back after hearing a go cue. Motor cortical signals and audio were simultaneously recorded during the task. The timeline shows example audio data recorded during one trial. ( B ) Participants’ MRI-derived brain anatomy. Blue squares mark the locations of the two chronic 96-electrode arrays. Insets show electrode locations, with shading indicating the number of different syllables for which that electrode recorded significantly modulated firing rates (darker shading = more syllables). Non-functioning electrodes are shown as smaller dots. CS is central sulcus. ( C ) Raster plot showing spike times of an example neuron across multiple trials of participant T5 speaking nine different syllables, or silence. Data are aligned to the prompt, the go cue, and acoustic onset (AO). ( D ) Trial-averaged firing rates (mean ± s.e.) for the same neuron and two others. Insets show these neurons’ action potential waveforms (mean ± s.d.). The electrodes where these neurons were recorded are circled in the panel B insets using colors corresponding to these waveforms. ( E ) Time course of overall neural modulation for each syllable after hearing the prompt (left alignment) and when speaking (right alignment). Population neural distances between the spoken and silent conditions were calculated from TCs using an unbiased measurement of firing rate vector differences (see Methods). This metric yields signed values near zero when population firing rates are essentially the same between conditions. Firing rate changes were significantly greater (p < 0.01, sign-rank test) during speech production (comparison epoch shown by the black window after Go) compared to after hearing the prompt (gray window after Prompt). Each syllable’s mean modulation across the comparison epoch is shown with the corresponding color’s horizontal tick to the right of the plot. The vertical scale is the same across participants, revealing the larger speech-related modulation in T5’s recordings.",
+    "original_url": "https://cdn.elifesciences.org/articles/46015/elife-46015-fig1-v2.tif",
+    "sha256": "70e325cfe0e1c59d3c0550dc2f718ebc22c21ada485594c8cd60084a696c461a",
+    "width": 3149,
+    "height": 2838,
+    "display_path": "figures/elife_46015_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.17
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      3149,
+      2838
+    ],
+    "display_sha256": "74ad4e1262332fa7ff53e392b98a152a79bf0aa41118601d1f2a964956a2072a"
+  },
+  "46015:3": {
+    "path": "figures/elife_46015_fig3.png",
+    "title": "Neural ensemble dynamics in dorsal motor cortex during speech in people with paralysis",
+    "authors": "Sergey D Stavisky; Francis R Willett; Guy H Wilson; Brian A Murphy; Paymon Rezaii; Donald T Avansino; William D Memberg; Jonathan P Miller; Robert F Kirsch; Leigh R Hochberg; A Bolu Ajiboye; Shaul Druckmann; Krishna V Shenoy; Jaimie M Henderson",
+    "first": "Stavisky",
+    "year": "2019",
+    "doi": "10.7554/eLife.46015",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    },
+    "legend": "Figure 3. Speech can be decoded from intracortical activity. ( A ) To quantify the speech-related information in the neural population activity, we constructed a feature vector for each trial consisting of each electrode’s spike count and HLFP power in ten 100 ms bins centered on AO. For visualization, two-dimensional t-SNE projections of this feature vector are shown for all trials of the T5-syllables dataset. Each point corresponds to one trial. Even in this two-dimensional view of the underlying high-dimensional neural data, different syllables’ trials are discriminable and phonetically similar sounds’ clusters are closer together. ( B ) The high-dimensional neural feature vectors were classified using a multiclass SVM. Confusion matrices are shown for each participant’s leave-one-trial-out classification when speaking syllables (top row) and words (bottom row). Each matrix element shows the percentage of trials of the corresponding row’s sound that were classified as the sound of the corresponding column. Diagonal elements show correct classifications. ( C ) Bar heights show overall classification accuracies for decoding neural activity during speech (black bars, summarizing panel B) and decoding neural activity following the audio prompt (gray bars). Each small point corresponds to the accuracy for one class (silence, syllable, or word). Brown boxes show the range of chance performance: each box’s bottom/center/top correspond to minimum/mean/maximum overall classification accuracy for shuffled labels.",
+    "original_url": "https://cdn.elifesciences.org/articles/46015/elife-46015-fig3-v2.tif",
+    "sha256": "5b294417aabed2c5a97aea36228ab84ce4cb353034753cfc16761b0983808d7f",
+    "width": 1101,
+    "height": 2525,
+    "display_path": "figures/elife_46015_fig3_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.325
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1101,
+      2525
+    ],
+    "display_sha256": "239ac4f9f7dee9b63b3f366fe95fbd6333c8ec7c0436ea459a574767d8176f94"
+  },
+  "53086:2": {
+    "path": "figures/elife_53086_fig2.png",
+    "title": "Uncovering the functional anatomy of the human insula during speech",
+    "authors": "Oscar Woolnough; Kiefer James Forseth; Patrick Sarahan Rollo; Nitin Tandon",
+    "first": "Woolnough",
+    "year": "2019",
+    "doi": "10.7554/eLife.53086",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Woolnough et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Spectrotemporal representations of activity in the ROIs. Broadband gamma activity ( A–D ) and spectrogram ( E–H ) plots of activity within each ROI, averaged across subjects during the complex reading (A,E; n = 27), monosyllabic naming (B,F; n = 23), multisyllabic naming (C,G; n = 23) and listening (D,H; n = 21) tasks. Colored bars under the BGA plots represent regions of significant activation (q < 0.05). Responses are time locked to speech onset in the reading and naming tasks and to the stimulus onset in listening. Figure 2—source data 1. Source data for  Figure 2A–D .",
+    "original_url": "https://cdn.elifesciences.org/articles/53086/elife-53086-fig2-v2.tif",
+    "sha256": "bf1a79a428d51c8dbf221492b978b6422abc1b958f0a5c81c46506cf7582681a",
+    "width": 2222,
+    "height": 1517
+  },
+  "53086:4": {
+    "path": "figures/elife_53086_fig4.png",
+    "title": "Uncovering the functional anatomy of the human insula during speech",
+    "authors": "Oscar Woolnough; Kiefer James Forseth; Patrick Sarahan Rollo; Nitin Tandon",
+    "first": "Woolnough",
+    "year": "2019",
+    "doi": "10.7554/eLife.53086",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Woolnough et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. MEMA map showing left hemispheric activity in the pre (−500 to −100 ms) and post (200 to 600 ms) articulatory periods during the reading task. Regions are shown for clusters with significant activity (p<0.01, corrected), absolute BGA change of >10% and coverage of at least three patients. Regions excluded for lack of patient coverage are shown in black.",
+    "original_url": "https://cdn.elifesciences.org/articles/53086/elife-53086-fig4-v2.tif",
+    "sha256": "01d3747869870e60b5c7c125b14db3e4bff7b0d462aa3472d6f48c49992cc886",
+    "width": 1360,
+    "height": 441
+  },
+  "54277:1": {
+    "path": "figures/elife_54277_fig1.png",
+    "title": "Short-term modulation of the lesioned language network",
+    "authors": "Gesa Hartwigsen; Anika Stockert; Louise Charpentier; Max Wawrzyniak; Julian Klingbeil; Katrin Wrede; Hellmuth Obrig; Dorothee Saur",
+    "first": "Hartwigsen",
+    "year": "2020",
+    "doi": "10.7554/eLife.54277",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hartwigsen et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Overview of the experimental design. ( A ) After a short training session, patients received effective or sham continuous theta burst stimulation (cTBS-600) either over the anterior or posterior inferior frontal gyrus (a/pIFG) in different sessions. Thereafter, they performed phonological and semantic word judgement tasks in two fMRI runs. ( B ) Tasks were divided into 10 miniblocks per task and run, each consisting of 6 German words (e.g. ‘Zebra’ or ‘Computer’) with varying stimulus onset asynchrony. min = minutes; s = seconds.",
+    "original_url": "https://cdn.elifesciences.org/articles/54277/elife-54277-fig1-v1.tif",
+    "sha256": "163f6b547a7be7c371eaddb985dc83e17582fbcccb122c052a320cf7f8ae2e09",
+    "width": 2116,
+    "height": 1379
+  },
+  "54277:3": {
+    "path": "figures/elife_54277_fig3.png",
+    "title": "Short-term modulation of the lesioned language network",
+    "authors": "Gesa Hartwigsen; Anika Stockert; Louise Charpentier; Max Wawrzyniak; Julian Klingbeil; Katrin Wrede; Hellmuth Obrig; Dorothee Saur",
+    "first": "Hartwigsen",
+    "year": "2020",
+    "doi": "10.7554/eLife.54277",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hartwigsen et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Residual language network after sham continuous theta burst stimulation. ( A ) Phonological decisions compared to rest and ( B ) semantic decisions compared to rest. Voxels with at least one lesion are masked in dark grey and were excluded from the analysis. Results are shown at p<0.001 uncorrected for display reasons. ",
+    "original_url": "https://cdn.elifesciences.org/articles/54277/elife-54277-fig3-v1.tif",
+    "sha256": "771f7503a26981ecd8266dae374f959887227862c679182be1dbf76f60bf2d40",
+    "width": 3190,
+    "height": 864
+  },
+  "54591:2": {
+    "path": "figures/elife_54591_fig2.png",
+    "title": "A universal reading network and its modulation by writing system and reading ability in French and Chinese children",
+    "authors": "Xiaoxia Feng; Irene Altarelli; Karla Monzalvo; Guosheng Ding; Franck Ramus; Hua Shu; Stanislas Dehaene; Xiangzhi Meng; Ghislaine Dehaene-Lambertz",
+    "first": "Feng",
+    "year": "2020",
+    "doi": "10.7554/eLife.54591",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Feng et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Neural correlates of inter-individual variability in reading scores. ( A ) The figure shows the regions whose activation in the words versus fixation contrast was positively correlated with reading scores across all participants at the whole-brain level (voxel-wise p<0.001 and cluster-wise p<0.05 FWE corrected).( B, C ) Regions positively correlated with reading scores in Chinese and French children (voxel-wise p<0.001, cluster-level uncorrected).",
+    "original_url": "https://cdn.elifesciences.org/articles/54591/elife-54591-fig2-v2.tif",
+    "sha256": "afd28f763992f31274ef2f7a05c4a6b42ff2da85bb64417500eb0a7c0150f432",
+    "width": 1731,
+    "height": 2194,
+    "display_path": "figures/elife_54591_fig2_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.48
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1731,
+      2194
+    ],
+    "display_sha256": "704327683049171a9c991bd2de8fd10409ed692938c27a055752307d9dcb5cf0"
+  },
+  "54591:4": {
+    "path": "figures/elife_54591_fig4.png",
+    "title": "A universal reading network and its modulation by writing system and reading ability in French and Chinese children",
+    "authors": "Xiaoxia Feng; Irene Altarelli; Karla Monzalvo; Guosheng Ding; Franck Ramus; Hua Shu; Stanislas Dehaene; Xiangzhi Meng; Ghislaine Dehaene-Lambertz",
+    "first": "Feng",
+    "year": "2020",
+    "doi": "10.7554/eLife.54591",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Feng et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Effects of Reading ability and Language on the words versus fixation contrast in the selected ROIs. Brain slices showed the literature-based ROIs (cyan) overlaid on the reading circuit (red-yellow) in our participants (Words > [Faces, Houses]). Plots show the mean activation for words > fixation, in each of the four groups and ROIs. The words ‘Reading ability’ and ‘Language’ indicate a significant main effect of reading ability and a main effect of language in the ANOVA (after FDR correction for a total of 13 ROIs). Note that no ROI showed a significant interaction of language × reading ability. Brackets indicate significant post-hoc analyses: **p<0.005, **<0.01, *<0.05, †=0.052. Figure 4—source data 1. Activation to words in each of the four groups and ROIs.",
+    "original_url": "https://cdn.elifesciences.org/articles/54591/elife-54591-fig4-v2.tif",
+    "sha256": "e5ecd018abd21a01275fa6e29363518ad0e47158a4ec18444e420e047087eeef",
+    "width": 1786,
+    "height": 1624
+  },
+  "56972:1": {
+    "path": "figures/elife_56972_fig1.png",
+    "title": "Shared and modality-specific brain regions that mediate auditory and visual word comprehension",
+    "authors": "Anne Keitel; Joachim Gross; Christoph Kayser",
+    "first": "Keitel",
+    "year": "2020",
+    "doi": "10.7554/eLife.56972",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Keitel et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Trial structure and behavioural performance. ( A ) Trial structure was identical in the auditory and visual conditions. Participants listened to stereotypical sentences while a fixation dot was presented (auditory condition) or watched videos of a speaker saying sentences (visual condition). The face of the speaker is obscured for visualisation here only. After each trial, a prompt on the screen asked which adjective (or number) appeared in the sentence and participants chose one of four alternatives by pressing a corresponding button. Target words (here ‘beautiful’) occupied the 2 nd  or 3 rd  last position in the sentence. ( B ) Participants’ behavioural performance in auditory (blue) and visual (orange) conditions, and their individual SNR values (grey) used for the auditory condition. Dots represent individual participants (n = 20), boxes denote median and interquartile ranges, whiskers denote minima and maxima (no outliers present). MEG data of two participants (shaded in a lighter colour) were not included in neural analyses due to excessive artefacts. Participants exceeding a performance of 95% correct (grey line) were excluded from the neuro-behavioural analysis (which was the case for three participants in the visual condition). ( C ) Example sentence with target adjective marked in blue.",
+    "original_url": "https://cdn.elifesciences.org/articles/56972/elife-56972-fig1-v2.tif",
+    "sha256": "d119e439283d3d8b2a582993795cda7bddc646429665f74eec087403fb5d7219",
+    "width": 1764,
+    "height": 957
+  },
+  "56972:3": {
+    "path": "figures/elife_56972_fig3.png",
+    "title": "Shared and modality-specific brain regions that mediate auditory and visual word comprehension",
+    "authors": "Anne Keitel; Joachim Gross; Christoph Kayser",
+    "first": "Keitel",
+    "year": "2020",
+    "doi": "10.7554/eLife.56972",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Keitel et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Cortical areas in which neural word representations predict participants’ response. Coloured areas denote significant group-level effects (surface projection of the cluster-based permutation statistics, corrected at p<0.05 FWE). ( A ) In the auditory condition (n = 18), we found five clusters (cluster peaks are marked with dots). Three were in left ventral regions, in the inferior frontal gyrus, the inferior temporal gyrus, and the occipital gyrus, the other two were in the right hemisphere, in the angular gyrus and the supplementary motor area. ( B ) In the visual condition (n = 15; three participants were excluded due to near ceiling performance), we found four clusters: In the left (dorsal) inferior frontal gyrus, the right anterior cingulum stretching to left dorsal frontal regions, in the right angular gyrus and the right superior temporal gyrus (all peaks are marked with dots). Panel ( C ) overlays the significant effects from both conditions. There was no overlap. However, both auditory and visual effects were found in adjacent regions within the left IFG and the right AG. Panel ( D ) shows distributions of grid point-wise Bayes factors for a difference between auditory and visual conditions for these clusters (red: evidence for differences between conditions, that is in favour of H1 [alternative hypothesis]; blue: evidence for no difference between conditions, that is in favour of H0 [null hypothesis]).",
+    "original_url": "https://cdn.elifesciences.org/articles/56972/elife-56972-fig3-v2.tif",
+    "sha256": "aea23c3189dc37f2d17bdf947ae2a74d7bb5ca5984867e656260563889e89fd7",
+    "width": 1766,
+    "height": 2074
+  },
+  "63905:1": {
+    "path": "figures/elife_63905_fig1.png",
+    "title": "Neural dynamics of semantic categorization in semantic variant of primary progressive aphasia",
+    "authors": "V Borghesani; CL Dale; S Lukic; LBN Hinkley; M Lauricella; W Shwe; D Mizuiri; S Honma; Z Miller; B Miller; JF Houde; ML Gorno-Tempini; SS Nagarajan",
+    "first": "Borghesani",
+    "year": "2021",
+    "doi": "10.7554/eLife.63905",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Borghesani et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Experimental paradigm, behavioral performance, and cortical atrophy. ( A ) Cartoon representation of the experimental setting. Colored drawings were presented for 2 s, with an inter-stimuli interval jittered between 1.7 and 2.1 s. Subjects responded with a button press with their dominant hand. ( B ) Behavioral performance during the semantic categorization tasks in controls and semantic variant primary progressive aphasia (svPPA) patients, across the two stimuli conditions (living vs. nonliving items). There were no statistically significant effects of diagnosis, category, nor their interaction neither in percentage accuracy (healthy controls [HC]: living: 97.1 ± 6.6, nonliving: 96.8 ± 6.6; svPPA: living: 91.5 ± 6.2, nonliving: 95.9 ± 8.1) nor in reaction times (HC: living: 826.3 ± 112.5, nonliving: 856.9 ± 104.4; svPPA: living: 869.8 ± 179.8, nonliving: 911.1 ± 194.45). ( C ) Voxel-based morphometry (VBM)-derived atrophy pattern showing significantly reduced gray matter volumes in svPPA patients’ anterior temporal lobes, views from top to bottom: lateral, medial, ventral (thresholded at p<0.05 with family-wise error [FWE] correction, cluster threshold of 100 voxels).",
+    "original_url": "https://cdn.elifesciences.org/articles/63905/elife-63905-fig1-v2.tif",
+    "sha256": "714caa8a53c04cf5a809c42e34d2182f8c42c9eed07bfd2c774bfa8bbc672e96",
+    "width": 846,
+    "height": 619
+  },
+  "63905:3": {
+    "path": "figures/elife_63905_fig3.png",
+    "title": "Neural dynamics of semantic categorization in semantic variant of primary progressive aphasia",
+    "authors": "V Borghesani; CL Dale; S Lukic; LBN Hinkley; M Lauricella; W Shwe; D Mizuiri; S Honma; Z Miller; B Miller; JF Houde; ML Gorno-Tempini; SS Nagarajan",
+    "first": "Borghesani",
+    "year": "2021",
+    "doi": "10.7554/eLife.63905",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Borghesani et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Stimulus-locked (0 ms = stimulus onset) between-group analyses of changes in oscillatory power. Rendering of the results in the high-gamma ( a ), low-gamma ( b ), beta ( c ), alpha ( d ), and theta ( e ) bands. Purple color = more synchronization in semantic variant primary progressive aphasia (svPPA) (vs. healthy controls [HC]). Brown color = less synchronization in svPPA (vs. HC).  Table 2  summarizes the temporal windows, peaks of local maxima, and t-values of all clusters isolated by the direct comparison of the two cohorts. Between-group analyses were performed, with no additional smoothing, on normalized reconstructions using statistical nonparametric mapping (SnPM two-sample, two-tailed t-test).",
+    "original_url": "https://cdn.elifesciences.org/articles/63905/elife-63905-fig3-v2.tif",
+    "sha256": "7bd5a17f46653c6e5ba99587944f1ed2fe7526487f16e19635d638b0474cb01d",
+    "width": 805,
+    "height": 830
+  },
+  "81681:1": {
+    "path": "figures/elife_81681_fig1.png",
+    "title": "Early language exposure affects neural mechanisms of semantic representations",
+    "authors": "Xiaosha Wang; Bijun Wang; Yanchao Bi",
+    "first": "Wang",
+    "year": "2023",
+    "doi": "10.7554/eLife.81681",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wang et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. The word stimuli, task fMRI procedure, and regions of interest (ROIs) in this study. ( a ) Word stimuli in the task fMRI. Ninety words were used, including 40 concrete/object words and 50 abstract/nonobject words, which were grouped into fine-grained categories based on k-means clustering of the group-averaged semantic space of 32 hearing participants. The left panel shows the group-averaged semantic representational matrices (RDM) in hearing participants, native signers, and delayed signers. The right panel shows the Spearman’s rho between each deaf participant’s semantic RDM and the group-averaged semantic RDM in hearing participants. n = 16 in the native group; n = 21 in the delayed group. Error bars indicate 1 s.e.m. n.s., not significant, p > 0.05, Welch’s  t -test. ( b ) Task fMRI procedure. During scanning, participants were asked to think about each of 90 target word meanings (displayed in black, e.g. ‘panda’, ‘reason’) and to determine whether occasional words displayed in red (catch trials, e.g. ‘justification’) were semantically related to the previous word. There were 90 target word trials (each word appeared once) and 14 catch trials in each run. ( c ) Semantic ROIs were functionally identified by contrasting abstract/nonobject words with concrete/object words in 33 hearing participants at the threshold of voxel-level p < 0.001, cluster-level FWE-corrected p < 0.05. dATL, dorsal anterior temporal lobe; IFG, inferior frontal gyrus; pMTG, posterior middle temporal gyrus. L, left hemisphere; R, right hemisphere. Figure 1—source data 1. Ninety words in the fMRI task, grouped into 10 semantic clusters based on k-means clustering of the group-mean hearing semantic space. Figure 1—source data 2. Spearman’s rho between each deaf participant’s semantic representational distance matrix (RDM) and the group-averaged semantic RDM in hearing participants. Figure 1—source data 3. Details of semantic regions of interest (ROIs), including cluster location, extent, peak t values, and Montreal Neurological Institute (MNI) coordinates.",
+    "original_url": "https://cdn.elifesciences.org/articles/81681/elife-81681-fig1-v2.tif",
+    "sha256": "4d5b02487844dede22b298c994cf2e7bd585538832f05ab2b1efd18489612246",
+    "width": 2754,
+    "height": 1889
+  },
+  "81681:3": {
+    "path": "figures/elife_81681_fig3.png",
+    "title": "Early language exposure affects neural mechanisms of semantic representations",
+    "authors": "Xiaosha Wang; Bijun Wang; Yanchao Bi",
+    "first": "Wang",
+    "year": "2023",
+    "doi": "10.7554/eLife.81681",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wang et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Effects of early language exposure on neural representations of abstract/nonobject words in the left dorsal anterior temporal lobe (dATL). The two representational distance matrices (RDMs) at the top illustrate the categorical and the continuous behavioral semantic RDMs of 50 abstract/nonobject words constructed in an independent group of hearing individuals. The bar plots at the bottom show the Fisher-transformed Spearman’s correlations between the neural and semantic RDMs for each deaf subject. Error bars indicate 1 s.e.m. *, p < 0.05; **, p < 0.01; ***, p < 0.001. RSA results were assessed using one-sample  t -tests (one-tailed) for each group; group differences were examined using two-tailed Welch’s  t -tests. n = 16 in the native group; n = 23 in the delayed group. Figure 3—source data 1. Representational similarity analysis (RSA) results for the abstract/nonobject words in the two deaf groups.",
+    "original_url": "https://cdn.elifesciences.org/articles/81681/elife-81681-fig3-v2.tif",
+    "sha256": "b29e37e4c872b97a6614beffe9c2fa308244d811779a1fcaf9c0bc9d2069951b",
+    "width": 1732,
+    "height": 1146
+  },
+  "82088:1": {
+    "path": "figures/elife_82088_fig1.png",
+    "title": "Fiber-specific structural properties relate to reading skills in children and adolescents",
+    "authors": "Steven Lee Meisler; John DE Gabrieli",
+    "first": "Meisler",
+    "year": "2022",
+    "doi": "10.7554/eLife.82088",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Meisler and Gabrieli",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Methodological overview of the study. Top: description of primary and secondary analyses. Bottom: schematic depicting interpretations of changes in examined metrics. Depictions of bundles, axons, and neurites are not drawn to scale. DWI, diffusion-weighted imaging; DTI, diffusion tensor imaging; DKI, diffusion kurtosis imaging; NODDI, neurite orientation density and dispersion index; FA, fractional anisotropy; KFA, kurtosis fractional anisotropy; MD, mean diffusivity; MK, mean kurtosis; NDI, neurite density index; ODI, orientation dispersion index; FODF, fiber orientation distribution function; FD, fiber density; FC, fiber cross-section; FDC, fiber density and cross-section product.",
+    "original_url": "https://cdn.elifesciences.org/articles/82088/elife-82088-fig1-v2.tif",
+    "sha256": "a8bb87adfca4fc5bbe7170ee13c11e79e96ccd587b92fd9bedf9215f2cf5782e",
+    "width": 3974,
+    "height": 5013,
+    "display_path": "figures/elife_82088_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0.49,
+      1,
+      0.66
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      3974,
+      5013
+    ],
+    "display_sha256": "47a7a8a9729b3808a7af97afa1ab9465eb896f4db5553e73e91f89aacb1f6a52"
+  },
+  "82088:3": {
+    "path": "figures/elife_82088_fig3.png",
+    "title": "Fiber-specific structural properties relate to reading skills in children and adolescents",
+    "authors": "Steven Lee Meisler; John DE Gabrieli",
+    "first": "Meisler",
+    "year": "2022",
+    "doi": "10.7554/eLife.82088",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Meisler and Gabrieli",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Significant fixels ( q F D R < 0.05 ) for relating fiber density and cross-section product (FDC) to raw composite Tests of Word Reading Efficiency (TOWRE) scores, colored by effect size ( Δ ⁢ R a ⁢ d ⁢ j 2 ). Model confounds included a spline fit for age and linear fits for sex, site, neighbor correlation, and log(ICV). Top and bottom panels are left and right hemispheres, respectively. Sagittal slices go from lateral-to-medial. Blue arrows point to larger clusters of fixels in bilateral temporoparietal and cerebellar white matter that were associated with higher effect sizes relative to fixels in the rest of the hemisphere. The template fiber orientation distribution (FOD) image was used as the background image.",
+    "original_url": "https://cdn.elifesciences.org/articles/82088/elife-82088-fig3-v2.tif",
+    "sha256": "7d430add512897ad2689d5df2f499d3eec34978530630a5b272993c07f4488a4",
+    "width": 1890,
+    "height": 2564,
+    "display_path": "figures/elife_82088_fig3_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.54
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1890,
+      2564
+    ],
+    "display_sha256": "caa8ddbf803bd416d433cd4c9db3ff790bfc518364f22555a4372c36bfe97138"
+  },
+  "86797:1": {
+    "path": "figures/elife_86797_fig1.png",
+    "title": "What happens to the inhibitory control functions of the right inferior frontal cortex when this area is dominant for language?",
+    "authors": "Esteban Villar-Rodríguez; Cristina Cano-Melle; Lidón Marin-Marin; Maria Antònia Parcet; César Avila",
+    "first": "Villar-Rodríguez",
+    "year": "2024",
+    "doi": "10.7554/eLife.86797",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Villar-Rodríguez et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Hemispheric lateralization of inhibitory control according to language lateralization. ( a ) ROI analysis of the main components of the inhibitory control network. Graphs depict adjusted mean BOLD signal during successful inhibitions on the stop-signal task (‘stop >go’ contrast) for both hemispheres and both groups (n=50 typical and 36 atypical). All four structures showed significant Hemisphere × Group interactions in a repeated-measures MANOVA (p<0.05). Error bars represent one standard error. pOper = pars opercularis, pTri = pars triangularis, preSMA = presupplementary motor area, and STN = subthalamic nucleus. ( b ) Voxel-wise whole-brain analysis of functional asymmetry. Significance maps (voxel-wise p<0.001; FWE cluster-corrected at p<0.05; color bar represents  t  value) are displayed in three-dimensional reconstructions plus coronal and transversal slices using MNI space. ( c ) Mean BOLD values of the significant regions found in the voxel-wise whole-brain analysis. Graphic depicts BOLD values for every region, hemisphere, and group. IFC = inferior frontal cortex, preSMA = presupplementary motor area, AngG = angular gyrus, MTG = middle temporal gyrus, Thal = thalamus, STN = subthalamic nucleus, Caud = caudate. ( d ) Functional overlap between language production and inhibitory control in the IFC of ambilateral participants. Overlapping maps for inhibition (voxel-wise p<0.001; FWE cluster-corrected at p<0.05) and language (voxel-wise p<0.05; uncorrected) are displayed in coronal, sagittal and transversal slices using MNI space. VGT = verb generation task, SST = stop-signal task.",
+    "original_url": "https://cdn.elifesciences.org/articles/86797/elife-86797-fig1-v1.tif",
+    "sha256": "9df58a9b0812061f03055ef312351b7cc259b0269d6c7e75a2af5f59b6cd750f",
+    "width": 1859,
+    "height": 1001
+  },
+  "89311:1": {
+    "path": "figures/elife_89311_fig1.png",
+    "title": "Finding structure during incremental speech comprehension",
+    "authors": "Bingjiang Lyu; William D Marslen-Wilson; Yuxing Fang; Lorraine K Tyler",
+    "first": "Lyu",
+    "year": "2024",
+    "doi": "10.7554/eLife.89311",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Lyu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Example spoken sentence stimuli and plausible structured interpretations. The two target sentences in each set differ only in the transitivity of the first verb (Verb1). Each sentence has two possible structured interpretations before the actual main verb is presented: an active interpretation, where the subject noun (SN) performs the action, and a passive interpretation, where the SN is the recipient of the action. The interpretative preference hinges on the likelihood of the SN acting as an agent or a patient (i.e. its thematic role) in conjunction with the transitivity of Verb1. As the sentence progresses to the prepositional phrase, a combination of higher SN agenthood and greater Verb1 intransitivity (i.e. a higher active index) generally favours an active interpretation. Conversely, increased SN patienthood coupled with higher Verb1 transitivity (i.e. a higher passive index) may lead to a passive interpretation. Note that while the SN is the same for the two target sentences within the same set, it varies across different sentence sets. All images were generated using Midjourney for illustrative purposes.",
+    "original_url": "https://cdn.elifesciences.org/articles/89311/elife-89311-fig1-v1.tif",
+    "sha256": "c86fc5ad028c8a1c1e41707c47164daa368f9b5c8e0a14b3ab9e55973270ad2c",
+    "width": 2199,
+    "height": 1293
+  },
+  "89311:3": {
+    "path": "figures/elife_89311_fig3.png",
+    "title": "Finding structure during incremental speech comprehension",
+    "authors": "Bingjiang Lyu; William D Marslen-Wilson; Yuxing Fang; Lorraine K Tyler",
+    "first": "Lyu",
+    "year": "2024",
+    "doi": "10.7554/eLife.89311",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Lyu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Incremental interpretation of sentential structure by BERT. ( A ) Context-free dependency parse trees of two plausible structural interpretations. Left: passive interpretation where V1 is the head of a reduced relative clause. Right:aActive interpretation where V1 is the main verb. ( B ) Incremental input to BERT structural probing model, with the lightness of dots encoding different positions in the target sentences. Det: determiner; SN: subject noun; V1: Verb1; PP1–PP3: prepositional phrase; MV: main verb; END: the last word in the sentence. ( C ) BERT structural probing model is trained to output a parse depth vector, representing the parse depths of all the words in the sentence input. The BERT parse depth for a specific word is updated incrementally as the sentence unfolds word-by-word. In this example, the parse depth of ‘ found’  increases with the presence of the prepositional phrase, indicating an increased preference for the passive interpretation according to the context-free parse depths in ( A ). ( D ) Incremental interpretation of the dependency between SN and V1 in the model space consisting of the parse depth of Det, SN, and V1. Upper: Each coloured circle represents the parse depth vector up to V1 derived at a certain position in the sentence (with the same colour scheme as in  B ). The hollow triangle and circle represent the context-free dependency parse vectors for passive and active interpretations in ( A ). Lower: incremental interpretation of the two target sentence types represented by the trajectories of median parse depth. ( E ) Distance from passive and active landmarks in the model space as the sentence unfolds (between each coloured circle and the two landmarks in the upper panel of  D ) (two-tailed two-sample  t -test, *p<0.05, **p<0.001, n = 60 for both HiTrans and LoTrans sentences, error bars represent SEM).",
+    "original_url": "https://cdn.elifesciences.org/articles/89311/elife-89311-fig3-v1.tif",
+    "sha256": "f624d39fbbe81fe56f75c63ca9470733cf677ad4f90b066e7a18f488c4820e2c",
+    "width": 2197,
+    "height": 1896
+  },
+  "91327:1": {
+    "path": "figures/elife_91327_fig1.png",
+    "title": "Early parafoveal semantic integration in natural reading",
+    "authors": "Yali Pan; Steven Frisson; Kara D Federmeier; Ole Jensen",
+    "first": "Pan",
+    "year": "2024",
+    "doi": "10.7554/eLife.91327",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Pan et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. The paradigm and the eye movement metrics. ( A ) After the presentation of a cross-fixation at the screen centre for 1.2–1.6 s, a gaze-contingent box appeared near the left edge of the screen. Fixing the box for 0.2 s triggered the full sentence presentation. Participants (n=34) read 160 one-line sentences silently while brain activity and eye movements were recorded. Each sentence was embedded with one congruent or incongruent target word (see the dashed rectangle; not shown in the actual experiment). The target words could not be predicted based on the sentence context and word-level properties of congruent and incongruent targets were balanced by swapping them between two sentence frames. The target words were tagged by changing the luminance of the underlying patch (with a Gaussian mask) in a 60 Hz sinusoid throughout the sentence presentation (depicted as a bright blob, not shown in the actual experiment). Additionally, we included a small disk at the bottom right of the screen that displayed the tagging signal and was recorded by a photodiode throughout each trial. After reading, gazing at the bottom box for 0.2 s triggered the sentence offset. Twelve percent of the sentences were followed by a simple yes-or-no comprehension question. ( B ) The first fixation durations on the pre-target and target words when the target words were incongruent (in blue) or congruent (in orange) with the sentence context. Each dot indicates one participant (n=34). ***p<0.001; n.s., not statistically significant; ITI, inter-trial interval.",
+    "original_url": "https://cdn.elifesciences.org/articles/91327/elife-91327-fig1-v1.tif",
+    "sha256": "15898c156e04b24c9ff9c5e9cee5b186824a24f24d8a6374c3b5e43645796922",
+    "width": 2480,
+    "height": 2160,
+    "display_path": "figures/elife_91327_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.5
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2480,
+      2160
+    ],
+    "display_sha256": "c6b90ed600521e2897810560d9fc95e04730d867e784514eab3d61f83a289ff3"
+  },
+  "91327:3": {
+    "path": "figures/elife_91327_fig3.png",
+    "title": "Early parafoveal semantic integration in natural reading",
+    "authors": "Yali Pan; Steven Frisson; Kara D Federmeier; Ole Jensen",
+    "first": "Pan",
+    "year": "2024",
+    "doi": "10.7554/eLife.91327",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Pan et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Neural evidence for parafoveal semantic integration. ( A ) The pre-target coherence spectrum averaged over the rapid invisible frequency tagging (RIFT) response sensors at the group level (n=29) when the subsequent target words were incongruent with the sentence context (top panel), congruent with the sentence context (middle panel), and the difference between the two conditions (bottom panel). The horizontal line indicates the tagging frequency at 60 Hz. The two vertical lines indicate the first fixation onset of the pre-target words and the average fixation offset. ( B ) The averaged 60 Hz coherence during the minimum pre-target intervals for each participant (97.4±14.1ms, M ± SD; denoted as a dashed rectangle) with respect to the incongruent and congruent target words. Each dot indicates one participant, the horizontal lines inside of the violins indicate the mean values. The upright inserted figure shows the pre-target coherence difference over participants with the error bar as SE. ( C ) The onset latency of the pre-target coherence at the group level (n=29). The onset latency refers to the time when the coherence curve reaches its half maximum, denoted by the dotted lines. Zero time-point indicates the first fixation onset of the pre-target words. The shaded area shows SE around the mean value. *p<.05.",
+    "original_url": "https://cdn.elifesciences.org/articles/91327/elife-91327-fig3-v1.tif",
+    "sha256": "c26909c8ac3f323c490ce014a30e30938144ca00aa88290586a2c17483bae6fb",
+    "width": 2480,
+    "height": 2466
+  },
+  "91636:1": {
+    "path": "figures/elife_91636_fig1.png",
+    "title": "Language experience shapes predictive coding of rhythmic sound sequences",
+    "authors": "Piermatteo Morucci; Sanjeev Nara; Mikel Lizarazu; Clara Martin; Nicola Molinaro",
+    "first": "Morucci",
+    "year": "2024",
+    "doi": "10.7554/eLife.91636",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Morucci et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Experimental design and rationale of the study. Panels  A  and  B  illustrate the contrast between functor-initial and functor-final word order in Spanish and Basque, as well as its consequences on their prosodic structure. Panels  C  and  D  show the design of the experimental and control conditions, respectively. Notes represent individual tones. The structure of the design is the same in both conditions ( ababab ), with 30 s sequences of two tones alternating at fixed inter-stimulus intervals and occasional omissions. In the experimental condition, tones alternate in duration but not frequency, whereas in the control condition tones alternate in frequency but not duration. Panels  E  and  F  depict the hypothesized error responses associated with the different types of omissions for experimental and control conditions, respectively. Round brackets above the tones reflect the grouping bias of the two languages, based on their word-order constraints. Dotted lines reflect short-term predictions based on the transition probabilities of the previous stimuli. Solid lines reflect long-term predictions based on the phrasal chunking scheme of the two languages.",
+    "original_url": "https://cdn.elifesciences.org/articles/91636/elife-91636-fig1-v1.tif",
+    "sha256": "606f190c7c0c9e6c6ad4537a25d4ab596518bca374b3d80e569ee38d0a716f12",
+    "width": 1888,
+    "height": 1893
+  },
+  "91636:3": {
+    "path": "figures/elife_91636_fig3.png",
+    "title": "Language experience shapes predictive coding of rhythmic sound sequences",
+    "authors": "Piermatteo Morucci; Sanjeev Nara; Mikel Lizarazu; Clara Martin; Nicola Molinaro",
+    "first": "Morucci",
+    "year": "2024",
+    "doi": "10.7554/eLife.91636",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Morucci et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Source activity underlying the omission response network and long-term predictions. Panel  A  shows brain maps representing the ratio of source activity of tone to the omission (neural activity index, NAI =  S Omission / S Tone ) over the 0.100–0.250 s time window. Panel  B  shows the source activity peaks from the two clusters in the left superior temporal gyrus (STG) for each group and condition separately. Panels  C  and  D  show the time course of source activity associated with the omission mismatch negativity (MMN) over distinct regions of interest (ROIs) of the left STG and inferior frontal gyrus (IFG). Dashed rectangles indicate the two temporal clusters within the 0.100–0.250 s time window. Error bars reflect standard errors (n = 20 per group). In Panels C and D, asterisks indicate statistical significance for each contrast using a one-sided, independent sample  t -test (statistical significance: * signifies p < 0.05,  ns  signifies p > 0.05).",
+    "original_url": "https://cdn.elifesciences.org/articles/91636/elife-91636-fig3-v1.tif",
+    "sha256": "b6ea4c29a95992d36fa85949c849e810865c663f4623e0947892f13187fbe2a7",
+    "width": 1864,
+    "height": 2339,
+    "display_path": "figures/elife_91636_fig3_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.25
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1864,
+      2339
+    ],
+    "display_sha256": "f34fba979c5e7a40b8d097f3aec1eb7f4a2dbbd45c5a148f7569320f11b7bc8b"
+  },
+  "95393:1": {
+    "path": "figures/elife_95393_fig1.png",
+    "title": "Sensitivity to vocal emotions emerges in newborns at 37 weeks gestational age",
+    "authors": "Xinlin Hou; Peng Zhang; Licheng Mo; Cheng Peng; Dandan Zhang",
+    "first": "Hou",
+    "year": "2024",
+    "doi": "10.7554/eLife.95393",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hou, Zhang et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Mismatch response (MMR) waveforms were recorded across six electrodes in different gestational age (GA) groups. The MMR is extracted by subtracting the event-related potential (ERP) elicited by the standard stimulus (neutral condition) from the ERP evoked by the deviant stimulus (happy condition).",
+    "original_url": "https://cdn.elifesciences.org/articles/95393/elife-95393-fig1-v1.tif",
+    "sha256": "8b7b9d2f799fa821f5ae8900dfa69f5a4a19368387ce5d8e8218698e1b8aa74d",
+    "width": 2205,
+    "height": 1875
+  },
+  "95393:3": {
+    "path": "figures/elife_95393_fig3.png",
+    "title": "Sensitivity to vocal emotions emerges in newborns at 37 weeks gestational age",
+    "authors": "Xinlin Hou; Peng Zhang; Licheng Mo; Cheng Peng; Dandan Zhang",
+    "first": "Hou",
+    "year": "2024",
+    "doi": "10.7554/eLife.95393",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hou, Zhang et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Oscillograms and spectrograms displaying vocal and nonvocal auditory stimuli for the syllable ‘dada’ (international phonetic symbol: [ta ta]).",
+    "original_url": "https://cdn.elifesciences.org/articles/95393/elife-95393-fig3-v1.tif",
+    "sha256": "ec0487b550504e0e93e6c4d4e52eef27e93892d8b238f334f8105bbc499f581f",
+    "width": 2205,
+    "height": 1541
+  },
+  "speech:1": {
+    "title": "A high-performance speech neuroprosthesis",
+    "authors": "Willett Francis R.; Kunz Erin M.; Fan Chaofei; Avansino Donald T.; Wilson Guy H.; Choi Eun Young; Kamdar Foram; Glasser Matthew F.; Hochberg Leigh R.; Druckmann Shaul; Shenoy Krishna V.; Henderson Jaimie M.",
+    "first": "Willett",
+    "year": "2023",
+    "doi": "10.1038/s41586-023-06377-x",
+    "license": {
+      "license": "Original publisher attribution retained; see original article license."
+    },
+    "path": "figures/nature_speech_fig1.png",
+    "legend": "Fig. 1 Neural representation of orofacial movement and attempted speech. a , Microelectrode array locations (cyan squares) are shown on top of MRI-derived brain anatomy (CS, central sulcus).  b , Neural tuning to orofacial movements, phonemes and words was evaluated in an instructed delay task.  c , Example responses of an electrode in area 6v that was tuned to a variety of speech articulator motions, phonemes and words. Each line shows the mean threshold crossing (TX) rate across all trials of a single condition ( n  = 20 trials for orofacial movements and words,  n  = 16 for phonemes). Shaded regions show 95% confidence intervals (CIs). Neural activity was denoised by convolving with a Gaussian smoothing kernel (80 ms s.d.).  d , Bar heights denote the classification accuracy of a naive Bayes decoder applied to 1 s of neural population activity from area 6v (red bars) or area 44 (purple bars) across all movement conditions (33 orofacial movements, 39 phonemes, 50 words). Black lines denote 95% CIs.  e , Red and blue lines represent classification accuracy across time for each of the four arrays and three types of movement. Classification was performed with a 100 ms window of neural population activity for each time point. Shaded regions show 95% CIs. Grey lines denote normalized speech volume for phonemes and words (indicating speech onset and offset).  f , Tuning heatmaps for both arrays in area 6v, for each movement category. Circles are drawn if binned firing rates on that electrode were significantly different across the given set of conditions ( P  < 1 × 10 –5  assessed with one-way analysis of variance; bin width, 800 ms). Shading indicates the fraction of variance accounted for (FVAF) by across-condition differences in mean firing rate.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06377-x/MediaObjects/41586_2023_6377_Fig1_HTML.png",
+    "sha256": "7b54092c43d98813eac16f0aa7e244ab8dd201aad7db5f924b68b8ab86162443",
+    "width": 2112,
+    "height": 1359,
+    "display_path": "figures/nature_speech_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.32
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2112,
+      1359
+    ],
+    "display_sha256": "46cd007768d68ff4872e19d8de2b4894822543aa5953ccb2cd1a6c987952b800"
+  },
+  "speech:2": {
+    "title": "A high-performance speech neuroprosthesis",
+    "authors": "Willett Francis R.; Kunz Erin M.; Fan Chaofei; Avansino Donald T.; Wilson Guy H.; Choi Eun Young; Kamdar Foram; Glasser Matthew F.; Hochberg Leigh R.; Druckmann Shaul; Shenoy Krishna V.; Henderson Jaimie M.",
+    "first": "Willett",
+    "year": "2023",
+    "doi": "10.1038/s41586-023-06377-x",
+    "license": {
+      "license": "Original publisher attribution retained; see original article license."
+    },
+    "path": "figures/nature_speech_fig2.png",
+    "legend": "Fig. 2 Neural decoding of attempted speech in real time. a , Diagram of the decoding algorithm. First, neural activity (multiunit threshold crossings and spike band power) is temporally binned and smoothed on each electrode. Second, an RNN converts a time series of this neural activity into a time series of probabilities for each phoneme (plus the probability of an interword ‘silence’ token and a ‘blank’ token associated with the connectionist temporal classification training procedure). The RNN is a five-layer, gated recurrent-unit architecture trained using TensorFlow 2. Finally, phoneme probabilities are combined with a large-vocabulary language model (a custom, 125,000-word trigram model implemented in Kaldi) to decode the most probable sentence. Phonemes in this diagram are denoted using the International Phonetic Alphabet.  b , Open circles denote word error rates for two speaking modes (vocalized versus silent) and vocabulary size (50 versus 125,000 words). Word error rates were aggregated across 80 trials per day for the 125,000-word vocabulary and 50 trials per day for the 50-word vocabulary. Vertical lines indicate 95% CIs.  c , Same as in  b , but for speaking rate (words per minute).  d , A closed-loop example trial demonstrating the ability of the RNN to decode sensible sequences of phonemes (represented in ARPABET notation) without a language model. Phonemes are offset vertically for readability, and ‘<sil>’ indicates the silence token (which the RNN was trained to produce at the end of all words). The phoneme sequence was generated by taking the maximum-probability phonemes at each time step. Note that phoneme decoding errors are often corrected by the language model, which still infers the correct word. Incorrectly decoded phonemes and words are denoted in red.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06377-x/MediaObjects/41586_2023_6377_Fig2_HTML.png",
+    "sha256": "73d9628ae00ec96ecadfda16f6a19c712f568acdab881e23a164f764b19ef1ef",
+    "width": 1399,
+    "height": 1577,
+    "display_path": "figures/nature_speech_fig2_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.43
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1399,
+      1577
+    ],
+    "display_sha256": "127ed0c2d9633ebb6a551bb9752395bcb287c419c6a420dc310eb470d3f08848"
+  },
+  "speech:3": {
+    "title": "A high-performance speech neuroprosthesis",
+    "authors": "Willett Francis R.; Kunz Erin M.; Fan Chaofei; Avansino Donald T.; Wilson Guy H.; Choi Eun Young; Kamdar Foram; Glasser Matthew F.; Hochberg Leigh R.; Druckmann Shaul; Shenoy Krishna V.; Henderson Jaimie M.",
+    "first": "Willett",
+    "year": "2023",
+    "doi": "10.1038/s41586-023-06377-x",
+    "license": {
+      "license": "Original publisher attribution retained; see original article license."
+    },
+    "path": "figures/nature_speech_fig3.png",
+    "legend": "Fig. 3 Preserved articulatory representation of phonemes. a , Representational similarity across consonants for neural data (left) and articulatory data from an example subject who can speak normally, obtained from the USC-TIMIT database (right). Each square in the matrix represents pairwise similarity for two consonants (as measured by cosine angle between neural or articulatory vectors). Ordering consonants by place of articulation shows a block-diagonal structure in neural data that is also reflected in articulatory data.  b , Neural activity is significantly more correlated with an articulatory representation than would be expected by chance. The blue distribution shows correlations expected by chance (estimated from 10,000 reshufflings of phoneme labels).  c , Low-dimensional representation of phonemes articulatorily (left) and neurally (right). Neural data were rotated within the top eight principal components (PC), using cross-validated Procrustes, to show visual alignment with articulatory data.  d , Representational similarity for vowels, ordered by articulatory similarity. Diagonal banding in the neural similarity matrix indicates a similar neural representation. For reference, the first and second formants of each vowel are plotted below the similarity matrices 38 .  e , Neural activity correlates with the known two-dimensional structure of vowels.  f , Same as  c  but for vowels, with an additional within-plane rotation applied to align the (high versus low) and (front versus back) axes along the vertical and horizontal.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06377-x/MediaObjects/41586_2023_6377_Fig3_HTML.png",
+    "sha256": "1db7c9677d7fdac1080a9f5b16a2c5cfcb88aa69d304179ed649d58a92262c5a",
+    "width": 2126,
+    "height": 714
+  },
+  "stutter:1": {
+    "title": "Large-scale genome-wide analyses of stuttering",
+    "authors": "Polikowsky Hannah G.; Scartozzi Alyssa C.; Shaw Douglas M.; Pruett Dillon G.; Chen Hung-Hsin; Petty Lauren E.; Petty Alexander S.; Lowther Emily J.; Cho Shu-Hsien; Yu Yao; Mozaffari Sahar; Avery Christy L.; Harris Kathleen Mullan; Gordon Reyna L.; Beilby Janet M.; Viljoen Kathryn Z.; Jones Robin M.; Huff Chad D.; Highland Heather M.; Kraft Shelly Jo; Below Jennifer E.",
+    "first": "Polikowsky",
+    "year": "2025",
+    "doi": "10.1038/s41588-025-02267-2",
+    "license": {
+      "license": "Original publisher attribution retained; see original article license."
+    },
+    "path": "figures/nature_stutter_fig1.png",
+    "legend": "Fig. 1 Miami plot of EUR female and EUR male GWAS. The EUR female association study (top panel) included 570,071 total samples (40,137 self-reported stuttering cases) and 29,449,463 autosomal variants. Nine loci reached genome-wide significance (dotted line,  P  < 5.00 × 10 −8 ) through logistic regression (see  Methods ). The EUR male association study (bottom panel) included 374,279 total samples (38,257 self-reported stuttering cases) and 29,409,446 autosomal variants. Ten loci reached genome-wide significance (dotted line,  P  < 5.00 × 10 −8 ) through logistic regression (see  Methods ). The  x  axis represents chromosome base pair coordinates in human genome build 37, and the  y  axis represents observed −log 10 ( P ) for each analysis. Annotated genes for each GWAS are the predicted functional gene for each locus (when available) according to the Open Targets Genetics V2G pipeline (see  Methods ).",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-025-02267-2/MediaObjects/41588_2025_2267_Fig1_HTML.png",
+    "sha256": "fd921f3b9a6297872c2e9040765b2e3510265feb19628e460c6521e809f3b53a",
+    "width": 1510,
+    "height": 1104
+  },
+  "stutter:4": {
+    "title": "Large-scale genome-wide analyses of stuttering",
+    "authors": "Polikowsky Hannah G.; Scartozzi Alyssa C.; Shaw Douglas M.; Pruett Dillon G.; Chen Hung-Hsin; Petty Lauren E.; Petty Alexander S.; Lowther Emily J.; Cho Shu-Hsien; Yu Yao; Mozaffari Sahar; Avery Christy L.; Harris Kathleen Mullan; Gordon Reyna L.; Beilby Janet M.; Viljoen Kathryn Z.; Jones Robin M.; Huff Chad D.; Highland Heather M.; Kraft Shelly Jo; Below Jennifer E.",
+    "first": "Polikowsky",
+    "year": "2025",
+    "doi": "10.1038/s41588-025-02267-2",
+    "license": {
+      "license": "Original publisher attribution retained; see original article license."
+    },
+    "path": "figures/nature_stutter_fig4.png",
+    "legend": "Fig. 4 Performance of self-reported stuttering PRS model in independent EUR stuttering datasets. PRS were developed using EUR male or EUR female GWAS results and applied to clinically validated ISP and self-report Add Health subjects, and demonstrate increased stuttering liability within stuttering cases. The model was developed and trained using the default auto-phi shrinkage parameter through PRScs. LD panels were constructed using 1000 Genomes Project phase 3 EUR reference data.  a , AUC model performance in the ISP cohort.  b , AUC model performance in the Add Health cohort.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-025-02267-2/MediaObjects/41588_2025_2267_Fig4_HTML.png",
+    "sha256": "179bd8e8cb1192e596af817b8555411d033962f97f038e5fc7cab0dcb63e8fc9",
+    "width": 1059,
+    "height": 1624
+  },
+  "hand:1": {
+    "title": "High-performance brain-to-text communication via handwriting",
+    "authors": "Willett, Francis R.; Avansino, Donald T.; Hochberg, Leigh R.; Henderson, Jaimie M.; Shenoy, Krishna V.",
+    "first": "Willett",
+    "year": "2021",
+    "doi": "10.1038/s41586-021-03506-2",
+    "license": {
+      "license": "Original publisher attribution retained; see original article license."
+    },
+    "path": "figures/nature_hand_fig1.png",
+    "legend": "Fig. 1: Neural representation of attempted handwriting. a , To assess the neural representation of attempted handwriting, participant T5 attempted to handwrite each character one at a time, following the instructions given on a computer screen (bottom panels depict what is shown on the screen, following the timeline). Credit: drawing of the human silhouette created by E. Woodrum.  b , Neural activity in the top 3 principal components (PCs) is shown for three example letters (d, e and m) and 27 repetitions of each letter (trials). The colour scale was normalized within each panel separately for visualization.  c , Time-warping the neural activity to remove trial-to-trial changes in writing speed reveals consistent patterns of activity unique to each letter. In the inset above  c , example time-warping functions are shown for the letter ‘m’ and lie relatively close to the identity line (the warping function of each trial is plotted with a different coloured line).  d , Decoded pen trajectories are shown for all 31 tested characters. Intended 2D pen-tip velocity was linearly decoded from the neural activity using cross-validation (each character was held out), and decoder output was denoised by averaging across trials. Orange circles denote the start of the trajectory.  e , A 2D visualization of the neural activity made using t-SNE. Each circle is a single trial (27 trials are shown for each of 31 characters).",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-021-03506-2/MediaObjects/41586_2021_3506_Fig1_HTML.png",
+    "sha256": "0cbe2faf14babda1b5bd0d5a2cf83c8e381c2c10ccbe772bd84e7364864bb2c7",
+    "width": 1796,
+    "height": 1699,
+    "display_path": "figures/nature_hand_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      0.55,
+      0.47
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1796,
+      1699
+    ],
+    "display_sha256": "36a703b9f3d8fbd934ac79aff19bb9c1440b3f5167c8663e641fee4675282318",
+    "legend_status": "Full original legend retrieved from publisher figure page."
+  },
+  "hand:2": {
+    "title": "High-performance brain-to-text communication via handwriting",
+    "authors": "Willett, Francis R.; Avansino, Donald T.; Hochberg, Leigh R.; Henderson, Jaimie M.; Shenoy, Krishna V.",
+    "first": "Willett",
+    "year": "2021",
+    "doi": "10.1038/s41586-021-03506-2",
+    "license": {
+      "license": "Original publisher attribution retained; see original article license."
+    },
+    "path": "figures/nature_hand_fig2.png",
+    "legend": "Fig. 2: Neural decoding of attempted handwriting in real time.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-021-03506-2/MediaObjects/41586_2021_3506_Fig2_HTML.png",
+    "sha256": "642caaeeabc58c1fdfb40d532ffa9f945d3b26cfb23b69f1013c5bec2b776157",
+    "width": 2120,
+    "height": 1256
+  },
+  "hand:3": {
+    "title": "High-performance brain-to-text communication via handwriting",
+    "authors": "Willett, Francis R.; Avansino, Donald T.; Hochberg, Leigh R.; Henderson, Jaimie M.; Shenoy, Krishna V.",
+    "first": "Willett",
+    "year": "2021",
+    "doi": "10.1038/s41586-021-03506-2",
+    "license": {
+      "license": "Original publisher attribution retained; see original article license."
+    },
+    "path": "figures/nature_hand_fig3.png",
+    "legend": "Fig. 3: Performance remains high when daily decoder retraining is shortened (or unsupervised). a , To account for changes in neural activity that accrue over time, we retrained our handwriting decoder each day before evaluating it. Here, we simulated offline how decoding performance would have changed if fewer than the original 50 calibration sentences were used. Lines show the mean error rate across all data and shaded regions indicate 95% CIs.  b , Copy-typing data from eight sessions were used to assess whether fewer calibration data are required if sessions occur closer in time. All session pairs (X, Y) were considered. Decoders were first initialized using training data from session X and earlier, and then evaluated on session Y under different retraining methods (no retraining, retraining with limited calibration data, or unsupervised retraining). Lines show the average raw error rate and shaded regions indicate 95% CIs.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-021-03506-2/MediaObjects/41586_2021_3506_Fig3_HTML.png",
+    "sha256": "0624b48afac6c4dd7c41d12bd2abdd97e76117e4455188d4403afd365a801c5c",
+    "width": 1061,
+    "height": 491,
+    "legend_status": "Full original legend retrieved from publisher figure page."
+  },
+  "synthesis:1": {
+    "title": "Speech synthesis from neural decoding of spoken sentences",
+    "authors": "Anumanchipalli, Gopala K.; Chartier, Josh; Chang, Edward F.",
+    "first": "Anumanchipalli",
+    "year": "2019",
+    "doi": "10.1038/s41586-019-1119-1",
+    "license": {
+      "license": "Original publisher attribution retained; see original article license."
+    },
+    "path": "figures/nature_synthesis_fig1.png",
+    "legend": "Figure 1: Speech synthesis from neurally decoded spoken sentences. a , The neural decoding process begins by extracting relevant signal features from high-density cortical activity.  b , A bi-directional long short-term memory (bLSTM) neural network decodes kinematic representations of articulation from ECoG signals.  c , An additional bLSTM decodes acoustics from the previously decoded kinematics. Acoustics are spectral features (e.g. Mel-frequency cepstral coefficients (MFCCs)) extracted from the speech waveform.  d , Decoded signals are synthesized into an acoustic waveform.  e , Spectrogram shows the frequency content of two sentences spoken by a participant.  f , Spectrogram of synthesized speech from brain signals recorded simultaneously with the speech in  e (repeated 5 times with similar results). Mel-cepstral distortion (MCD) was computed for each sentence between the original and decoded audio. 5-fold cross-validation used to find consistent decoding.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-019-1119-1/MediaObjects/41586_2019_1119_Fig1_HTML.png",
+    "sha256": "96b16cbd3ecedad2f61929c32f8039cd3a657982344c807c446d2b4079eb83fb",
+    "width": 1678,
+    "height": 1111
+  },
+  "synthesis:2": {
+    "title": "Speech synthesis from neural decoding of spoken sentences",
+    "authors": "Anumanchipalli, Gopala K.; Chartier, Josh; Chang, Edward F.",
+    "first": "Anumanchipalli",
+    "year": "2019",
+    "doi": "10.1038/s41586-019-1119-1",
+    "license": {
+      "license": "Original publisher attribution retained; see original article license."
+    },
+    "path": "figures/nature_synthesis_fig2.png",
+    "legend": "Figure 2: Synthesized speech intelligibility and feature-specific performance. a , Listening tests for identification of excerpted single words (n=325) and full sentences (n=101) for synthesized speech from participant P1. Points represent mean word identification rate. Words were grouped by syllable length (n=75, 158, 68, 24). Listeners identified speech by selecting from a set of choices (10, 25, 50).  b , Listening tests for closed vocabulary transcription of synthesized sentences (n=101). Responses were constrained in word choice (25, 50), but not in sequence length. Outlines are kernel density estimates of the distributions.  c , Spectral distortion, measured by Mel-Cepstral Distortion (MCD) (lower values are better), between original spoken sentences and neurally decoded sentences (n=101, 100, 93, 81, 44, respectively). Reference MCD refers to the synthesis of original (inferred) kinematics without neural decoding.  d , Correlation of original and decoded kinematic and acoustic features (n=101, 100, 93, 81, 44 sentences, respectively). Kinematic and acoustic values represent mean correlation of 33 and 32 features, respectively.  e , Mean MCD of sentences (n=101) decoded from models trained on varying amounts of training data. The neural decoder with an articulatory intermediate stage (purple) performed better than direct ECoG to acoustics decoder (grey) (all data sizes: p < 1e-5, n = 101 sentences; WSRT).  f , Anatomical reconstruction of a single participant’s brain (P1) with the following regions used for neural decoding: ventral sensorimotor cortex (vSMC), superior temporal gyrus (STG), and inferior frontal gyrus (IFG).  g , Difference in median MCD of sentences (n=101) between decoder trained on all regions and decoders trained on all-but-one region. Exclusion of any region resulted in decreased performance (p < 3e-4, n = 101 sentences; WSRT). All box plots depict median (horizontal line inside box), 25th and 75th percentiles (box), 25/75th percentiles ±1.5× interquartile range (whiskers), and outliers (circles). Distributions were compared with each as other as indicated or with chance-level distributions using two-tailed Wilcoxon signed-rank tests (WSRT). *** indicates p<0.001. All error bars are SEM.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-019-1119-1/MediaObjects/41586_2019_1119_Fig2_HTML.png",
+    "sha256": "12994a497f0aa604ab979ba44b85c907c3ebadae21317f8c5317f0d9735c4c8a",
+    "width": 1054,
+    "height": 1390,
+    "display_path": "figures/nature_synthesis_fig2_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.25
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1054,
+      1390
+    ],
+    "display_sha256": "4aa34e7219226671f1b8ae2e3f2b8dc1a3fcb8782b8525f4d1831d9f2bb5b9b0"
+  },
+  "synthesis:3": {
+    "title": "Speech synthesis from neural decoding of spoken sentences",
+    "authors": "Anumanchipalli, Gopala K.; Chartier, Josh; Chang, Edward F.",
+    "first": "Anumanchipalli",
+    "year": "2019",
+    "doi": "10.1038/s41586-019-1119-1",
+    "license": {
+      "license": "Original publisher attribution retained; see original article license."
+    },
+    "path": "figures/nature_synthesis_fig3.png",
+    "legend": "Figure 3: Speech synthesis from neural decoding of silently mimed speech. a - c , Spectrograms of original spoken sentence ( a ), neural decoding from audible production ( b ), and neural decoding from silently mimed production ( c ) (repeated 5 times with similar results).  d ,  e , Median spectral distortion (MCD) ( d ) and correlation of original and decoded spectral features ( e ) for audibly and silently produced speech (n=58 sentences). Decoded sentences were significantly better than chance-level decoding for both speaking conditions (audible: p=3e-11, mimed: p=5e-11, n = 58; Wilcoxon signed-rank test). Box plots as described in  Figure 2 . *** indicates p<0.001.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-019-1119-1/MediaObjects/41586_2019_1119_Fig3_HTML.png",
+    "sha256": "9ed260fc0173031b035185292a42d2ac53684fd7dfe788c7bec82d2d629b70c9",
+    "width": 1038,
+    "height": 1575,
+    "display_path": "figures/nature_synthesis_fig3_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.75
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1038,
+      1575
+    ],
+    "display_sha256": "f1cd6d3b9245ee4835226f5c27a461a6bd8bd2ec840288a9ffc84b48b2205804"
+  },
+  "86797:2": {
+    "path": "figures/elife_86797_fig2.png",
+    "title": "What happens to the inhibitory control functions of the right inferior frontal cortex when this area is dominant for language?",
+    "authors": "Esteban Villar-Rodríguez; Cristina Cano-Melle; Lidón Marin-Marin; Maria Antònia Parcet; César Avila",
+    "first": "Villar-Rodríguez",
+    "year": "2024",
+    "doi": "10.7554/eLife.86797",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Villar-Rodríguez et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Correlation between the LIs of the verb generation and stop-signal tasks. r  = −0.583, two-tailed p<0.001,  R 2 =0.339. Negative values indicate rightward lateralization, whereas positive values indicate leftward lateralization. Segregated and ambilateral phenotypes are also depicted according to the background color. The green area corresponds to segregated individuals (both functions strongly lateralized), and the red area corresponds to integrated individuals (at least one function ambilaterally controlled). Numbers inside each quadrant denote the number of individuals (n) contained in it. Each individual datapoint is symbolized according to its functional organization: 〇=typical segregation; ⬤=reversed segregation; △=ambilateral inhibition; ▽=ambilateral language; ◇=ambilateral language and inhibition.",
+    "original_url": "https://cdn.elifesciences.org/articles/86797/elife-86797-fig2-v1.tif",
+    "sha256": "b3bbfb04f9133c72c99e8a35514e875537a480da90f98c09625e55c29544b8a8",
+    "width": 1873,
+    "height": 1829
+  }
+}

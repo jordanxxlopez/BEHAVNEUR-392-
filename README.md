@@ -103,3 +103,19 @@ A separate 80-slide lecture with 78 teaching slides, 40 embedded original record
 - [Download PowerPoint](https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C13/From_Experience_to_Memory_Learning_and_Memory_Chapter_13.pptx)
 - [Static PDF](https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C13/From_Experience_to_Memory_Learning_and_Memory_Chapter_13_Static.pdf)
 - [Sources and validation](chapters/C13/STATUS.md)
+
+## Chapter 14: From Words to Meaning: The Neural Systems of Human Communication
+
+A separate 80-slide lecture with 78 teaching slides, 40 embedded original recordings, original source figures, full teaching notes, and credits. All 234 teaching paragraphs pass the rendered five-to-seven-line audit.
+
+- [Download PowerPoint](https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C14/From_Words_to_Meaning_Human_Communication_Chapter_14.pptx)
+- [Static PDF](https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C14/From_Words_to_Meaning_Human_Communication_Chapter_14_Static.pdf)
+- [Sources and validation](chapters/C14/STATUS.md)
+
+## Chapter 15: Building the Brain: Development, Experience, and Neurodiversity
+
+A separate 80-slide lecture with 78 teaching slides, 40 embedded original recordings, original source figures, full teaching notes, and credits. All 234 teaching paragraphs pass the rendered five-to-seven-line audit.
+
+- [Download PowerPoint](https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C15/Building_the_Brain_Developing_Nervous_System_Chapter_15.pptx)
+- [Static PDF](https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C15/Building_the_Brain_Developing_Nervous_System_Chapter_15_Static.pdf)
+- [Sources and validation](chapters/C15/STATUS.md)
