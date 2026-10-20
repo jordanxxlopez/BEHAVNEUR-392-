@@ -1,0 +1,321 @@
+{
+  "recordings": [
+    {
+      "file": "media/PMC8101055_mmc3.mp4",
+      "slide": 2,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0,
+      "source_timestamp_mux_warning": "[null @ 0x55d5f8f661c0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 1953 >= 1952",
+      "full_decode_frame_count": {
+        "nb_frames": "1954",
+        "nb_read_frames": "1954"
+      },
+      "verification_method": "Every frame decoded by ffprobe -count_frames. Decoded count equals source frame count. The original publisher timestamps produce a null-output muxer warning near the final frames; source bytes and timing are preserved."
+    },
+    {
+      "file": "media/PMC8101055_mmc5.mp4",
+      "slide": 4,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC9388130_pnas.2204754119.sm01.mp4",
+      "slide": 6,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC5114016_elife-17267-media1.mp4",
+      "slide": 8,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC5114016_elife-17267-media2.mp4",
+      "slide": 10,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC9388130_pnas.2204754119.sm03.mp4",
+      "slide": 12,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC8101055_mmc2.mp4",
+      "slide": 14,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0,
+      "source_timestamp_mux_warning": "[null @ 0x55e8c3fcd400] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 994 >= 993",
+      "full_decode_frame_count": {
+        "nb_frames": "995",
+        "nb_read_frames": "995"
+      },
+      "verification_method": "Every frame decoded by ffprobe -count_frames. Decoded count equals source frame count. The original publisher timestamps produce a null-output muxer warning near the final frames; source bytes and timing are preserved."
+    },
+    {
+      "file": "media/PMC11828481_elife-98280-video1.mp4",
+      "slide": 16,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC7968927_elife-63329-video1.mp4",
+      "slide": 18,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/playable_PMC4305081_elife03868v001.mp4",
+      "slide": 20,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 0.993579,
+      "quality_frames": 60,
+      "full_decode_frame_count": {
+        "nb_read_frames": 4499,
+        "nb_frames": 4499
+      },
+      "verification_method": "Every source and playable frame decoded for an exact timestamp comparison. All 4499 actual frames retained; 6461 AAC packet hashes identical.",
+      "frame_timing_verification": {
+        "original_actual_decoded_frames": 4499,
+        "playable_actual_decoded_frames": 4499,
+        "maximum_frame_timestamp_difference_seconds": 0.0,
+        "original_audio_packets": 6461,
+        "playable_audio_packets": 6461,
+        "audio_packet_hashes_identical": true
+      }
+    },
+    {
+      "file": "media/PMC7968927_elife-63329-video2.mp4",
+      "slide": 23,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC7968927_elife-63329-video3.mp4",
+      "slide": 25,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC5648528_elife-26519-video1.mp4",
+      "slide": 27,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/playable_PMC4606453_elife07000v001.mp4",
+      "slide": 29,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 0.99469,
+      "quality_frames": 60
+    },
+    {
+      "file": "media/playable_PMC4606453_elife07000v002.mp4",
+      "slide": 31,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 0.994892,
+      "quality_frames": 60
+    },
+    {
+      "file": "media/PMC6435325_elife-39777-video1.mp4",
+      "slide": 33,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC6435325_elife-39777-video2.mp4",
+      "slide": 35,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC6435325_elife-39777-video3.mp4",
+      "slide": 37,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC7758068_elife-62071-video2.mp4",
+      "slide": 41,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC7758068_elife-62071-video3.mp4",
+      "slide": 43,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC9242645_elife-75769-video2.mp4",
+      "slide": 44,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC5834245_elife-33220-video1.mp4",
+      "slide": 46,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC9242645_elife-75769-video1.mp4",
+      "slide": 48,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC5834245_elife-33220-video5.mp4",
+      "slide": 50,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC6703899_elife-48311-video1.mp4",
+      "slide": 54,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC6703899_elife-48311-video2.mp4",
+      "slide": 56,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC6703899_elife-48311-video3.mp4",
+      "slide": 58,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC6703899_elife-48311-video4.mp4",
+      "slide": 60,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC7609064_elife-60853-video1.mp4",
+      "slide": 62,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC4515473_elife07643v002.mp4",
+      "slide": 64,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC11217450_41422_2024_956_MOESM12_ESM.mp4",
+      "slide": 66,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC11217450_41422_2024_956_MOESM13_ESM.mp4",
+      "slide": 68,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC5747517_elife-24779-fig2-video1.mp4",
+      "slide": 70,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC5747517_elife-24779-fig2-video2.mp4",
+      "slide": 72,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/playable_PMC9896879_PNASNEXUS-PNASNEXUS-2022-00175-T-s01.mp4",
+      "slide": 74,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 0.994538,
+      "quality_frames": 60
+    },
+    {
+      "file": "media/PMC7012598_elife-52343-video1.mp4",
+      "slide": 76,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC9270026_elife-74327-video1.mp4",
+      "slide": 78,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC9270026_elife-74327-video2.mp4",
+      "slide": 80,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC10188108_elife-81084-video1.mp4",
+      "slide": 82,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC8101055_mmc9.mp4",
+      "slide": 84,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0,
+      "source_timestamp_mux_warning": "[null @ 0x561525fcb040] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 1114 >= 1113",
+      "full_decode_frame_count": {
+        "nb_frames": "1115",
+        "nb_read_frames": "1115"
+      },
+      "verification_method": "Every frame decoded by ffprobe -count_frames. Decoded count equals source frame count. The original publisher timestamps produce a null-output muxer warning near the final frames; source bytes and timing are preserved."
+    }
+  ],
+  "all_full_decodes_pass": true,
+  "note": "SSIM compares the first 60 decoded frames for converted recordings; original MP4 bytes retained have identity 1.0. Full decoding checks every deliverable frame. Desktop PowerPoint playback remains untested."
+}

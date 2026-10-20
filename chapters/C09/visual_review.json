@@ -1,0 +1,22 @@
+{
+  "all_86_slides_rendered": true,
+  "all_slide_contact_sheets_reviewed": true,
+  "full_size_slides_reviewed": [
+    1,
+    27,
+    40,
+    81
+  ],
+  "source_figures_and_recording_posters_reviewed": true,
+  "refinements": "Removed neighboring panel fragments, retained original axes and legends, selected a complete serotonin sleep-response panel, normalized two source-credit separators.",
+  "final_credits_checked": [
+    70,
+    72
+  ],
+  "body_and_caption_clipping_observed": false,
+  "scientific_images_generated_or_redrawn": false,
+  "full_size_review_note": "All slides reviewed in contact sheets; representative title, recording, fluid-measurement, and fMRI slides checked at full size. Final credit-only changes preserve layout.",
+  "final_pdf_sha256": "16caadf2c2e6e964a814cdc61ac53d89029839cc9e683aa18d9dfae5e71b910a",
+  "final_pptx_sha256": "471459b1ce218aeec47edd55ffd34a632ab8f8082979282c3dbe58d2276aac4e",
+  "desktop_powerpoint_playback_tested": false
+}

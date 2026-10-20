@@ -1,0 +1,13 @@
+{
+  "slides": 86,
+  "width": 1280,
+  "height": 720,
+  "direct_sections": true,
+  "escaped_single_speaker_note_per_slide": true,
+  "https_images_only": true,
+  "tailwind_utilities_only": true,
+  "fonts": [
+    "Arial"
+  ],
+  "temporary_html_cleanup": true
+}

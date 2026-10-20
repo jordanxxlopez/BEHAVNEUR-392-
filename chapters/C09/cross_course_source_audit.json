@@ -1,0 +1,724 @@
+{
+  "neuroethology_commit": "fa278dba43f4bb18527b3237845da0189a37ec24",
+  "source_files_scanned": 125,
+  "neuroethology_distinct_dois": 629,
+  "behavioral_neuroscience_distinct_dois": 266,
+  "candidates": [
+    {
+      "source": "PMC10322707",
+      "doi": "10.1038/s41586-023-06203-4",
+      "title": "Wake-like skin patterning and neural activity during octopus sleep",
+      "neuroethology_files": [
+        "lectures/L89/PAPERS.md",
+        "lectures/L89/lecture.json",
+        "lectures/L89/media_sources.json"
+      ],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": true
+    },
+    {
+      "source": "PMC8101055",
+      "doi": "10.1016/j.isci.2021.102223",
+      "title": "Cyclic alternation of quiet and active sleep states in the octopus",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC9388130",
+      "doi": "10.1073/pnas.2204754119",
+      "title": "Regularly occurring bouts of retinal movements suggest an REM sleep–like state in jumping spiders",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC3368927",
+      "doi": "10.1371/journal.pone.0038125",
+      "title": "A Preliminary Analysis of Sleep-Like States in the Cuttlefish Sepia officinalis\n",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC8162929",
+      "doi": "10.1016/j.cub.2021.01.026",
+      "title": "Real-time dialogue between experimenters and dreamers during REM sleep",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC12340670",
+      "doi": "10.1016/j.cell.2024.11.027",
+      "title": "Norepinephrine-driven slow vasomotion drives glymphatic clearance in sleep",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC11156584",
+      "doi": "10.1038/s41593-024-01638-y",
+      "title": "Brain clearance is reduced during sleep and anesthesia",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC7081717",
+      "doi": "10.1038/s41586-019-1336-7",
+      "title": "Neural signatures of sleep in zebrafish",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC4313820",
+      "doi": "10.1073/pnas.1418490112",
+      "title": "Evening use of light-emitting eReaders negatively affects sleep, circadian timing, and next-morning alertness",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC4657156",
+      "doi": "10.1126/scitranslmed.aac5125",
+      "title": "Effects of caffeine on the human circadian clock in vivo and in vitro",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC11379823",
+      "doi": "10.1038/s41598-024-70594-1",
+      "title": "TAK-861, a potent, orally available orexin receptor 2-selective agonist, produces wakefulness in monkeys and improves narcolepsy-like phenotypes in mouse models",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC10746140",
+      "doi": "10.7554/eLife.86749",
+      "title": "Imaging microglia surveillance during sleep-wake cycles in freely behaving mice",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [
+        "chapters/C02/PAPERS.md",
+        "chapters/C02/lecture.json",
+        "chapters/C02/media_sources.json",
+        "chapters/C02/sources.json"
+      ],
+      "overlap": true
+    },
+    {
+      "source": "PMC11828481",
+      "doi": "10.7554/eLife.98280",
+      "title": "Sleep need driven oscillation of glutamate synaptic phenotype",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC7173968",
+      "doi": "10.7554/eLife.54275",
+      "title": "Dual orexin and MCH neuron-ablated mice display severe sleep attacks and cataplexy",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [
+        "chapters/C04/PAPERS.md",
+        "chapters/C04/lecture.json",
+        "chapters/C04/media_sources.json",
+        "chapters/C04/sources.json"
+      ],
+      "overlap": true
+    },
+    {
+      "source": "PMC7968927",
+      "doi": "10.7554/eLife.63329",
+      "title": "Cortical astrocytes independently regulate sleep depth and duration via separate GPCR pathways",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC6548506",
+      "doi": "10.7554/eLife.44928",
+      "title": "GABA neurons in the ventral tegmental area regulate non-rapid eye movement sleep in mice",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [
+        "chapters/C04/PAPERS.md",
+        "chapters/C04/lecture.json",
+        "chapters/C04/media_sources.json",
+        "chapters/C04/sources.json"
+      ],
+      "overlap": true
+    },
+    {
+      "source": "PMC6435325",
+      "doi": "10.7554/eLife.39777",
+      "title": "Cholinergic modulation of hippocampal calcium activity across the sleep-wake cycle",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC5114016",
+      "doi": "10.7554/eLife.17267",
+      "title": "Rotating waves during human sleep spindles organize global patterns of activity that repeat precisely through the night",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC9242645",
+      "doi": "10.7554/eLife.75769",
+      "title": "Waveform detection by deep learning reveals multi-area spindles that are selectively modulated by memory load",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC9270026",
+      "doi": "10.7554/eLife.74327",
+      "title": "Circadian programming of the ellipsoid body sleep homeostat in Drosophila",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC5747517",
+      "doi": "10.7554/eLife.24779",
+      "title": "Salt-inducible kinase 3 regulates the mammalian circadian clock by destabilizing PER2 protein",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC7012598",
+      "doi": "10.7554/eLife.52343",
+      "title": "Casein kinase 1 dynamics underlie substrate selectivity and the PER2 circadian phosphoswitch",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC10188108",
+      "doi": "10.7554/eLife.81084",
+      "title": "Sensory conflict disrupts circadian rhythms in the sea anemone Nematostella vectensis",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC11479589",
+      "doi": "10.7554/eLife.97754",
+      "title": "Light-driven synchronization of optogenetic clocks",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC9977281",
+      "doi": "10.7554/eLife.80984",
+      "title": "The circadian clock controls temporal and spatial patterns of floral development in sunflower",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC11182646",
+      "doi": "10.7554/eLife.92095",
+      "title": "Homeostatic regulation of rapid eye movement sleep by the preoptic area of the hypothalamus",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC11884783",
+      "doi": "10.7554/eLife.90826",
+      "title": "The reuniens nucleus of the thalamus facilitates hippocampo-cortical dialogue during sleep",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC11534334",
+      "doi": "10.7554/eLife.90930",
+      "title": "Difficulty in artificial word learning impacts targeted memory reactivation and its underlying neural signatures",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC12227200",
+      "doi": "10.7554/eLife.98634",
+      "title": "Multifaceted role of galanin in brain excitability",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC5800846",
+      "doi": "10.7554/eLife.32637",
+      "title": "Hypocretin underlies the evolution of sleep loss in the Mexican cavefish",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC4305081",
+      "doi": "10.7554/eLife.03868",
+      "title": "A single pair of neurons links sleep to memory consolidation in Drosophila melanogaster",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC4686423",
+      "doi": "10.7554/eLife.08760",
+      "title": "Thalamic reticular nucleus induces fast and local modulation of arousal state",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC6298770",
+      "doi": "10.7554/eLife.39681",
+      "title": "Odor-evoked category reactivation in human ventromedial prefrontal cortex during sleep promotes memory consolidation",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC5653286",
+      "doi": "10.1016/j.cub.2017.08.014",
+      "title": "The jellyfish Cassiopea exhibits a sleep-like state",
+      "neuroethology_files": [
+        "lectures/L46/PAPERS.md",
+        "lectures/L46/lecture.json"
+      ],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": true
+    },
+    {
+      "source": "PMC8687663",
+      "doi": "10.7554/eLife.70137",
+      "title": "Light sets the brain’s daily clock by regional quickening and slowing of the molecular clockworks at dawn and dusk",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC11217450",
+      "doi": "10.1038/s41422-024-00956-x",
+      "title": "System-level time computation and representation in the suprachiasmatic nucleus revealed by large-scale calcium imaging and machine learning",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC9896879",
+      "doi": "10.1093/pnasnexus/pgac112",
+      "title": "Nested calcium dynamics support daily cell unity and diversity in the suprachiasmatic nuclei of free-behaving mice",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC4137275",
+      "doi": "10.7554/eLife.03357",
+      "title": "Lhx1 maintains synchrony among circadian oscillator neurons of the SCN",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC8631794",
+      "doi": "10.7554/eLife.68179",
+      "title": "Daily electrical activity in the master circadian clock of a diurnal mammal",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC6867713",
+      "doi": "10.7554/eLife.49578",
+      "title": "Seasonal plasticity in GABAA signaling is necessary for restoring phase synchrony in the master circadian clock network",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC12305049",
+      "doi": "10.1073/pnas.2505074122",
+      "title": "Sleeping upside-down: Knockdown of a sleep-associated gene induces daytime sleep in the jellyfish Cassiopea",
+      "neuroethology_files": [
+        "lectures/L46/PAPERS.md",
+        "lectures/L46/lecture.json"
+      ],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": true
+    },
+    {
+      "source": "PMC6703899",
+      "doi": "10.7554/eLife.48311",
+      "title": "Activity dynamics of amygdala GABAergic neurons during cataplexy of narcolepsy",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC12393882",
+      "doi": "10.7554/eLife.103738",
+      "title": "Orexin population activity precisely reflects net body movement across behavioral and metabolic states",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC6548533",
+      "doi": "10.7554/eLife.44927",
+      "title": "Dissociating orexin-dependent and -independent functions of orexin neurons using novel Orexin-Flp knock-in mice",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC11517251",
+      "doi": "10.7554/eLife.96576",
+      "title": "Regional response to light illuminance across the human hypothalamus",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC4606453",
+      "doi": "10.7554/eLife.07000",
+      "title": "Norepinephrine is required to promote wakefulness and for hypocretin-induced arousal in zebrafish",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC7758068",
+      "doi": "10.7554/eLife.62071",
+      "title": "Neurovascular coupling and bilateral connectivity during NREM and REM sleep",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC5834245",
+      "doi": "10.7554/eLife.33220",
+      "title": "A sleep state in Drosophila larvae required for neural stem cell proliferation",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC6117154",
+      "doi": "10.7554/eLife.37105",
+      "title": "Acute control of the sleep switch in Drosophila reveals a role for gap junctions in regulating behavioral responsiveness",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC4515473",
+      "doi": "10.7554/eLife.07643",
+      "title": "Sleep deprivation suppresses aggression in Drosophila",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC7609064",
+      "doi": "10.7554/eLife.60853",
+      "title": "Modulation of sleep-courtship balance by nutritional status in Drosophila",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC5648528",
+      "doi": "10.7554/eLife.26519",
+      "title": "Sleep homeostasis regulated by 5HT2b receptor in a small subset of neurons in the dorsal fan-shaped body of drosophila",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    }
+  ],
+  "selected_sources": [
+    {
+      "source": "PMC8101055",
+      "doi": "10.1016/j.isci.2021.102223",
+      "title": "Cyclic alternation of quiet and active sleep states in the octopus",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC9388130",
+      "doi": "10.1073/pnas.2204754119",
+      "title": "Regularly occurring bouts of retinal movements suggest an REM sleep–like state in jumping spiders",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC8162929",
+      "doi": "10.1016/j.cub.2021.01.026",
+      "title": "Real-time dialogue between experimenters and dreamers during REM sleep",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC12340670",
+      "doi": "10.1016/j.cell.2024.11.027",
+      "title": "Norepinephrine-driven slow vasomotion drives glymphatic clearance in sleep",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC11156584",
+      "doi": "10.1038/s41593-024-01638-y",
+      "title": "Brain clearance is reduced during sleep and anesthesia",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC7081717",
+      "doi": "10.1038/s41586-019-1336-7",
+      "title": "Neural signatures of sleep in zebrafish",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC4657156",
+      "doi": "10.1126/scitranslmed.aac5125",
+      "title": "Effects of caffeine on the human circadian clock in vivo and in vitro",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC11379823",
+      "doi": "10.1038/s41598-024-70594-1",
+      "title": "TAK-861, a potent, orally available orexin receptor 2-selective agonist, produces wakefulness in monkeys and improves narcolepsy-like phenotypes in mouse models",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC11828481",
+      "doi": "10.7554/eLife.98280",
+      "title": "Sleep need driven oscillation of glutamate synaptic phenotype",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC7968927",
+      "doi": "10.7554/eLife.63329",
+      "title": "Cortical astrocytes independently regulate sleep depth and duration via separate GPCR pathways",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC6435325",
+      "doi": "10.7554/eLife.39777",
+      "title": "Cholinergic modulation of hippocampal calcium activity across the sleep-wake cycle",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC5114016",
+      "doi": "10.7554/eLife.17267",
+      "title": "Rotating waves during human sleep spindles organize global patterns of activity that repeat precisely through the night",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC9242645",
+      "doi": "10.7554/eLife.75769",
+      "title": "Waveform detection by deep learning reveals multi-area spindles that are selectively modulated by memory load",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC9270026",
+      "doi": "10.7554/eLife.74327",
+      "title": "Circadian programming of the ellipsoid body sleep homeostat in Drosophila",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC5747517",
+      "doi": "10.7554/eLife.24779",
+      "title": "Salt-inducible kinase 3 regulates the mammalian circadian clock by destabilizing PER2 protein",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC7012598",
+      "doi": "10.7554/eLife.52343",
+      "title": "Casein kinase 1 dynamics underlie substrate selectivity and the PER2 circadian phosphoswitch",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC10188108",
+      "doi": "10.7554/eLife.81084",
+      "title": "Sensory conflict disrupts circadian rhythms in the sea anemone Nematostella vectensis",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC11884783",
+      "doi": "10.7554/eLife.90826",
+      "title": "The reuniens nucleus of the thalamus facilitates hippocampo-cortical dialogue during sleep",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC11534334",
+      "doi": "10.7554/eLife.90930",
+      "title": "Difficulty in artificial word learning impacts targeted memory reactivation and its underlying neural signatures",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC4305081",
+      "doi": "10.7554/eLife.03868",
+      "title": "A single pair of neurons links sleep to memory consolidation in Drosophila melanogaster",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC8687663",
+      "doi": "10.7554/eLife.70137",
+      "title": "Light sets the brain’s daily clock by regional quickening and slowing of the molecular clockworks at dawn and dusk",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC11217450",
+      "doi": "10.1038/s41422-024-00956-x",
+      "title": "System-level time computation and representation in the suprachiasmatic nucleus revealed by large-scale calcium imaging and machine learning",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC9896879",
+      "doi": "10.1093/pnasnexus/pgac112",
+      "title": "Nested calcium dynamics support daily cell unity and diversity in the suprachiasmatic nuclei of free-behaving mice",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC6703899",
+      "doi": "10.7554/eLife.48311",
+      "title": "Activity dynamics of amygdala GABAergic neurons during cataplexy of narcolepsy",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC11517251",
+      "doi": "10.7554/eLife.96576",
+      "title": "Regional response to light illuminance across the human hypothalamus",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC4606453",
+      "doi": "10.7554/eLife.07000",
+      "title": "Norepinephrine is required to promote wakefulness and for hypocretin-induced arousal in zebrafish",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC7758068",
+      "doi": "10.7554/eLife.62071",
+      "title": "Neurovascular coupling and bilateral connectivity during NREM and REM sleep",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC5834245",
+      "doi": "10.7554/eLife.33220",
+      "title": "A sleep state in Drosophila larvae required for neural stem cell proliferation",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC4515473",
+      "doi": "10.7554/eLife.07643",
+      "title": "Sleep deprivation suppresses aggression in Drosophila",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC7609064",
+      "doi": "10.7554/eLife.60853",
+      "title": "Modulation of sleep-courtship balance by nutritional status in Drosophila",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    },
+    {
+      "source": "PMC5648528",
+      "doi": "10.7554/eLife.26519",
+      "title": "Sleep homeostasis regulated by 5HT2b receptor in a small subset of neurons in the dorsal fan-shaped body of drosophila",
+      "neuroethology_files": [],
+      "previous_behavioral_neuroscience_files": [],
+      "overlap": false
+    }
+  ],
+  "selected_source_count": 31,
+  "selected_overlaps": 0,
+  "additional_latest_course_check": {
+    "ref": "a59aa30727e6f83d9473c514f1f1a4b48d4a0b48",
+    "chapter": "C08",
+    "files": [
+      "figure_sources.json",
+      "media_sources.json",
+      "PAPERS.md"
+    ],
+    "overlaps": []
+  },
+  "concurrently_published_course_checks": {
+    "ref": "fd049ec54dc662e47448d2a29f6057a6f565016d",
+    "chapters": [
+      {
+        "chapter": "C10",
+        "overlaps": []
+      },
+      {
+        "chapter": "C11",
+        "overlaps": []
+      }
+    ]
+  }
+}

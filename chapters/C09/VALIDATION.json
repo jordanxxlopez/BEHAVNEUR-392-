@@ -1,0 +1,54 @@
+{
+  "slides": 86,
+  "content_slides": 84,
+  "foundation_slides": 32,
+  "research_slides": 52,
+  "article_figure_slides": 51,
+  "embedded_distinct_mp4s": 40,
+  "academic_recordings": 20,
+  "visual_recordings": 20,
+  "recordings_per_content_quarter": [
+    10,
+    10,
+    10,
+    10
+  ],
+  "maximum_content_gap": 3,
+  "recordings_in_final_ten_content_slides": 5,
+  "paragraphs": 252,
+  "rendered_paragraph_audit": "252/252 pass 5\u20137 actual rendered lines; hashes identify final files.",
+  "all_source_and_embedded_video_hashes_match": true,
+  "all_package_relationships_resolve": true,
+  "native_video_timing_entries": true,
+  "full_video_decode_pass": true,
+  "source_dimensions_frame_rates_audio_presence_channels_and_sample_rates_preserved": true,
+  "one_pixel_padding_for_odd_source_dimensions": 3,
+  "h264_transcodes": 4,
+  "unchanged_original_mp4s": 36,
+  "audio_compatibility_conversions": "No source audio streams were re-encoded. The converted Haynes MP4 copies all 6461 original AAC packets unchanged.",
+  "minimum_conversion_first_60_frames_ssim": 0.993579,
+  "original_timestamp_notes": [
+    "media/PMC8101055_mmc3.mp4",
+    "media/PMC8101055_mmc2.mp4",
+    "media/PMC8101055_mmc9.mp4"
+  ],
+  "timestamp_note": "Three original publisher clips have a final-frame timestamp reversal reported by FFmpeg null muxing. Every source frame decodes, and decoded counts equal source counts. Original bytes and timing retained.",
+  "static_pdf_pages": 86,
+  "static_pdf_contains_no_video_attachments": true,
+  "fonts": [
+    "Arial"
+  ],
+  "selected_primary_papers": 31,
+  "selected_paper_overlaps_with_checked_courses": 0,
+  "desktop_powerpoint_playback_tested": false,
+  "pptx": {
+    "filename": "The_Rhythmic_Brain_Sleep_and_Biological_Rhythms.pptx",
+    "bytes": 987254984,
+    "sha256": "471459b1ce218aeec47edd55ffd34a632ab8f8082979282c3dbe58d2276aac4e"
+  },
+  "static_pdf": {
+    "filename": "The_Rhythmic_Brain_Sleep_and_Biological_Rhythms_Static.pdf",
+    "bytes": 10045215,
+    "sha256": "16caadf2c2e6e964a814cdc61ac53d89029839cc9e683aa18d9dfae5e71b910a"
+  }
+}

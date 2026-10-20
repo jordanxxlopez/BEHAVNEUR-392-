@@ -63,3 +63,11 @@ For Chapter 6, the instructor authorizes 85–90 total slides. Use 90 total slid
 ## Instructor-authorized separate audition lectures
 
 Preserve the completed nonauditory Chapter 7 deck. Audition is split into two independent lectures: peripheral hearing (80 total slides, completed separately in chapters/C07/Audition1) and central auditory processing (100 total slides, the current task). The central deck lives in chapters/C07_Audition2 and uses internal schedule ID 702, with book chapter number 7. Include 50 distinct embedded videos, internally 25 plus 25 by the existing purpose classes, distributed 13/12/13/12 across the 98 teaching slides and at least five in the final ten. Include behavioral and cognitive neuroscience, engaging original demonstrations, music and the brain, verified USC Brain and Creativity Institute studies, and a brief relevant ferret callback. Teach brainstem and cortical processing; exclude peripheral ear anatomy, mechanics, hair-cell transduction, cochlear mechanics, and implant hardware. All original-image, explanatory three-paragraph/5–7-rendered-line, transcript, sourcing, and validation rules persist.
+
+## Instructor preference for distinct papers across courses
+
+Prefer primary papers, figures, and recordings that have not already appeared in the Neuroethology course. The instructor clarified this preference while requesting Chapter 9. Shared foundational concepts and the assigned chapter remain appropriate; shared papers are exceptions when a specific landmark result is difficult to replace and serves a distinct teaching purpose. Check the current Neuroethology source lists before finalizing new lecture selections and record overlaps honestly. Do not revise previously delivered lectures unless requested.
+
+## Instructor-authorized Chapter 9 expansion
+
+For Sleep and Biological Rhythms, the instructor requests 80–90 total slides. Use 86 total slides (84 teaching slides, title, takeaways), keeping the original explanatory prose, source-image, 40-video, distributed-recording, and validation requirements. Check for previous article use across Neuroethology and this course before final selection; choose fresh papers whenever scientifically appropriate. This exception does not change other chapters.

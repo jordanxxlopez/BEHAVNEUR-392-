@@ -47,7 +47,7 @@
     7
   ],
   "require_actual_rendered_line_check": true,
-  "body_word_target": "Superseded by actual 5–7 rendered lines per teaching paragraph.",
+  "body_word_target": "Superseded by actual 5\u20137 rendered lines per teaching paragraph.",
   "chapter_overrides": {
     "1": {
       "authorized_history_expansion_total_slides": [
@@ -81,7 +81,7 @@
         90
       ],
       "planned_total_slides": 90,
-      "expanded_scope": "Instructor requests visual illusions, general vision, and a short rewired-ferret/neural-plasticity section; 85–90 total slides. All existing media and prose requirements persist."
+      "expanded_scope": "Instructor requests visual illusions, general vision, and a short rewired-ferret/neural-plasticity section; 85\u201390 total slides. All existing media and prose requirements persist."
     },
     "702": {
       "authorized_total_slide_range": [
@@ -106,6 +106,14 @@
         12
       ],
       "expanded_scope": "Instructor authorizes separate 100-slide central audition lecture with 50 embedded videos. Peripheral hearing reserved for separate 80-slide lecture."
+    },
+    "9": {
+      "authorized_total_slide_range": [
+        80,
+        90
+      ],
+      "planned_total_slides": 86,
+      "expanded_scope": "Instructor authorizes 80\u201390 slides for Sleep and Biological Rhythms; standard 40-video requirement and ten-per-quarter distribution persist. Prefer distinct primary articles across courses."
     }
   },
   "video_distribution_from_chapter": 3,

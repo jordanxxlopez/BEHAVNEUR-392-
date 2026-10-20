@@ -95,9 +95,15 @@
     },
     {
       "n": 9,
-      "date": "Date TBD",
-      "title": "Chapter 9: TITLE PENDING TEXTBOOK VERIFICATION",
-      "verified": false
+      "date": "Fall 2026",
+      "title": "The Rhythmic Brain: Why We Sleep and How the Body Keeps Time",
+      "verified": true,
+      "book_chapter_title": "Sleep and Biological Rhythms",
+      "textbook_printed_pages": "266–300",
+      "book_scope_verified_from": "Uploaded Physiology of Behavior, Global Edition, 13th edition, Part4of6, PDF pp.16–50. Chapter 10 begins printed p.301 on PDF p.51.",
+      "display_title_authorized": true,
+      "display_title_authorization": "Instructor requested Chapter 9 with a descriptive title, established course guidelines, and 80–90 slides.",
+      "status": "Complete: 86 slides, 40 embedded recordings, validated editable PPTX and static PDF."
     },
     {
       "n": 10,

@@ -1,0 +1,869 @@
+[
+  {
+    "content_index": 3,
+    "source_article": "PMC8101055",
+    "figure_number": "2",
+    "original_image": "figures/PMC8101055_fig2.jpg",
+    "original_sha256": "56ac94a0a9c3311ffd52cb2cdb207899819a970fae43df798d6e58cbba901b9b",
+    "box": [
+      0,
+      0.235,
+      1,
+      0.6
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_03.png",
+    "output_sha256": "a449fc92d8fed940bd79a0077b51d0a0386c20320359bb8c539514d438ae7b60"
+  },
+  {
+    "content_index": 5,
+    "source_article": "PMC9388130",
+    "figure_number": "1",
+    "original_image": "figures/PMC9388130_fig1.jpg",
+    "original_sha256": "f020a4ed3b16062ba13d4987bae22684794d8d54ff509e6af6d1b0a7859eb5d5",
+    "box": [
+      0,
+      0.32,
+      1,
+      1
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_05.png",
+    "output_sha256": "b2cdb504ab0212565d2e1d1135467fcde02d781bdecb2f662fcfb1a4ab88828e"
+  },
+  {
+    "content_index": 7,
+    "source_article": "PMC5114016",
+    "figure_number": "2",
+    "original_image": "figures/PMC5114016_fig2.jpg",
+    "original_sha256": "d13a5bc3dd819a878bb8bbceae0f965a985f70b663d5c5cfcc94f305b7db986d",
+    "box": [
+      0,
+      0.5,
+      1,
+      1
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_07.png",
+    "output_sha256": "de7efb26a630c7f9c4dcde05c593df745fedf3969e32857daddee498776a7800"
+  },
+  {
+    "content_index": 9,
+    "source_article": "PMC5114016",
+    "figure_number": "3",
+    "original_image": "figures/PMC5114016_fig3.jpg",
+    "original_sha256": "d3a6638d84d9970039a677d687c4756dfb0e41517398444f83e11dae8c0770a4",
+    "box": [
+      0,
+      0,
+      1,
+      0.48
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_09.png",
+    "output_sha256": "55fd1325b3c95cb1635eaf2d40163e1cd2f3c3ad3e8ce7ca932d116d3f6cad6d"
+  },
+  {
+    "content_index": 11,
+    "source_article": "PMC9388130",
+    "figure_number": "1",
+    "original_image": "figures/PMC9388130_fig1.jpg",
+    "original_sha256": "f020a4ed3b16062ba13d4987bae22684794d8d54ff509e6af6d1b0a7859eb5d5",
+    "box": [
+      0.49,
+      0.67,
+      1,
+      1
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_11.png",
+    "output_sha256": "13c766c69af3b209211b30706fccd9ee0535a6e90f4ad7709a03c77b8d33c1dd"
+  },
+  {
+    "content_index": 13,
+    "source_article": "PMC8101055",
+    "figure_number": "2",
+    "original_image": "figures/PMC8101055_fig2.jpg",
+    "original_sha256": "56ac94a0a9c3311ffd52cb2cdb207899819a970fae43df798d6e58cbba901b9b",
+    "box": [
+      0,
+      0,
+      0.475,
+      0.23
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_13.png",
+    "output_sha256": "88fd17758f8f48ac1d5ced23cad73a6ee9ac940b26554a1297d4eba6adcd0858"
+  },
+  {
+    "content_index": 15,
+    "source_article": "PMC11828481",
+    "figure_number": "1",
+    "original_image": "figures/PMC11828481_fig1.jpg",
+    "original_sha256": "073388f5d6a4e4d2216481cacd1b441fec68494c890d26911dbd55e2e8941c8e",
+    "box": [
+      0,
+      0.64,
+      1,
+      1
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_15.png",
+    "output_sha256": "8ffd9ae6e7816f94e541e668a2081a10d19b2d850474378659072c410efb776c"
+  },
+  {
+    "content_index": 17,
+    "source_article": "PMC7968927",
+    "figure_number": "1",
+    "original_image": "figures/PMC7968927_fig1.jpg",
+    "original_sha256": "ca886720553da9ae0cfbe0def4f119b8dbd24b12a500dd3ae0bb0a1abce250ac",
+    "box": [
+      0,
+      0,
+      1,
+      0.245
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_17.png",
+    "output_sha256": "b52ae77e70e3c090408e1d62475d6099e0be0a2f2aace1bfe937711d8bbd8ce2"
+  },
+  {
+    "content_index": 19,
+    "source_article": "PMC4305081",
+    "figure_number": "1",
+    "original_image": "figures/PMC4305081_fig1.jpg",
+    "original_sha256": "a050f3e7d16008f1fa96efe37103d827022275306567d03e336f19281b1a591b",
+    "box": [
+      0,
+      0,
+      1,
+      0.25
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_19.png",
+    "output_sha256": "3a5cc26a524bbbc84ced66f40de701ad389571d461de873992bbe515bf8f438b"
+  },
+  {
+    "content_index": 20,
+    "source_article": "PMC7081717",
+    "figure_number": "1",
+    "original_image": "figures/PMC7081717_fig1.jpg",
+    "original_sha256": "0c04ebd09d91cf3652ea38010a664396691983501dc9471be331056112dcfecd",
+    "box": [
+      0,
+      0,
+      1,
+      0.72
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_20.png",
+    "output_sha256": "2e008de22f30bdbeacc2372a241cd490cb981e0d6ca02eb35ad1fa343e34d2c4"
+  },
+  {
+    "content_index": 21,
+    "source_article": "PMC4305081",
+    "figure_number": "5",
+    "original_image": "figures/PMC4305081_fig5.jpg",
+    "original_sha256": "5ecfabb945850424bbfc68fbce921a4f7d1e2c00ff9138182633bd137300b4c3",
+    "box": [
+      0,
+      0,
+      0.51,
+      1
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_21.png",
+    "output_sha256": "c337363e316f6275217737b3a45a321f7268fad97ac6c9ae240dbde0bbaf3830"
+  },
+  {
+    "content_index": 22,
+    "source_article": "PMC7968927",
+    "figure_number": "3",
+    "original_image": "figures/PMC7968927_fig3.jpg",
+    "original_sha256": "7e66f9580876ad3c762c06d0d728bc056abaaf46246e45608d31fb9496d128cb",
+    "box": [
+      0,
+      0.24,
+      1,
+      0.49
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_22.png",
+    "output_sha256": "1458c92f6941cc1a5f19b04fb6ee3adf741ddce5748afa92cb702dccf5adc00a"
+  },
+  {
+    "content_index": 23,
+    "source_article": "PMC7968927",
+    "figure_number": "4",
+    "original_image": "figures/PMC7968927_fig4.jpg",
+    "original_sha256": "c6f9ef6b97eede28d508f17ddea0360c8a6522245523d1e1b9448480d9c90fe0",
+    "box": [
+      0,
+      0,
+      1,
+      0.48
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_23.png",
+    "output_sha256": "16fe75b25866cfe7b3bb93e1ea293ff37a29824ff9cc42e1ee94b6f218de8240"
+  },
+  {
+    "content_index": 24,
+    "source_article": "PMC7968927",
+    "figure_number": "6",
+    "original_image": "figures/PMC7968927_fig6.jpg",
+    "original_sha256": "0436154609227ce3f70a676764c8d5809717125b4d23e050bb21d4563ebff556",
+    "box": [
+      0,
+      0.31,
+      1,
+      0.645
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_24.png",
+    "output_sha256": "43b642b7fb7fee9ab9402b6723c8757ae15ee73480d81088b09d29570c1d639a"
+  },
+  {
+    "content_index": 26,
+    "source_article": "PMC5648528",
+    "figure_number": "1",
+    "original_image": "figures/PMC5648528_fig1.jpg",
+    "original_sha256": "891881837a0f50423f3ee5d66e714a03cef323117e80b1c626854b1d65997e7c",
+    "box": [
+      0,
+      0.38,
+      1,
+      0.552
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_26.png",
+    "output_sha256": "6594bdf5be91b9a270534cfb55a4815e5c904a8d539fd1478efb69f43f1d913d"
+  },
+  {
+    "content_index": 28,
+    "source_article": "PMC4606453",
+    "figure_number": "7",
+    "original_image": "figures/PMC4606453_fig7.jpg",
+    "original_sha256": "f16f3f84bd6463dd9afa5914823b512b3ee11da425dce7006e49e519e19a7a56",
+    "box": [
+      0,
+      0,
+      1,
+      0.55
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_28.png",
+    "output_sha256": "577ab6ae1e2e7892a2d52a67132dff6af0742d65727d49ee043cebb611896c12"
+  },
+  {
+    "content_index": 30,
+    "source_article": "PMC4606453",
+    "figure_number": "7",
+    "original_image": "figures/PMC4606453_fig7.jpg",
+    "original_sha256": "f16f3f84bd6463dd9afa5914823b512b3ee11da425dce7006e49e519e19a7a56",
+    "box": [
+      0,
+      0.56,
+      1,
+      1
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_30.png",
+    "output_sha256": "d28321fd4a40ed2a07f14125adb1311845cc81d010d758f4ed80b794087c076f"
+  },
+  {
+    "content_index": 32,
+    "source_article": "PMC6435325",
+    "figure_number": "1",
+    "original_image": "figures/PMC6435325_fig1.jpg",
+    "original_sha256": "c32b73e83e7e86a9d6027affe4a944c11ab68faa0c548f81596fda83fb02a5e2",
+    "box": [
+      0.78,
+      0,
+      1,
+      0.27
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_32.png",
+    "output_sha256": "e32b90955c0d922d0f2bef96f8fe798ba7e3d561bb152c8ded2943451db36191"
+  },
+  {
+    "content_index": 34,
+    "source_article": "PMC6435325",
+    "figure_number": "3",
+    "original_image": "figures/PMC6435325_fig3.jpg",
+    "original_sha256": "d4ac3b01f52ef914301299c34ff1b9b895e8069b99e27b4cbc24ecd7234448f3",
+    "box": [
+      0,
+      0,
+      0.731,
+      0.371
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_34.png",
+    "output_sha256": "c500c8fe0ebf6f974760ac7606d0dc74866dd3443954cd07947bb1755c492115"
+  },
+  {
+    "content_index": 36,
+    "source_article": "PMC6435325",
+    "figure_number": "4",
+    "original_image": "figures/PMC6435325_fig4.jpg",
+    "original_sha256": "089a11f5c4ac431d34bd7a62334a95b17554deff3a36245ddbce154ddc37e30a",
+    "box": [
+      0,
+      0,
+      0.355,
+      0.7
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_36.png",
+    "output_sha256": "a2f9c2ccb86922afd6e51c1494427ee33f438886bf13b5576670e6c426e1e128"
+  },
+  {
+    "content_index": 37,
+    "source_article": "PMC12340670",
+    "figure_number": "1",
+    "original_image": "figures/PMC12340670_fig1.jpg",
+    "original_sha256": "323e4a6de91d74c50af48ddb9f205ea4e65d87283d43e9e2bed4f7f7c91fc436",
+    "box": [
+      0,
+      0,
+      1,
+      0.322
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_37.png",
+    "output_sha256": "ad3ab787ee9d8513e3e1ba18ea1ce926bdb4b6b7643fca9c3d5c67146fd03885"
+  },
+  {
+    "content_index": 38,
+    "source_article": "PMC12340670",
+    "figure_number": "1",
+    "original_image": "figures/PMC12340670_fig1.jpg",
+    "original_sha256": "323e4a6de91d74c50af48ddb9f205ea4e65d87283d43e9e2bed4f7f7c91fc436",
+    "box": [
+      0,
+      0,
+      1,
+      0.322
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_38.png",
+    "output_sha256": "ad3ab787ee9d8513e3e1ba18ea1ce926bdb4b6b7643fca9c3d5c67146fd03885"
+  },
+  {
+    "content_index": 39,
+    "source_article": "PMC11156584",
+    "figure_number": "1",
+    "original_image": "figures/PMC11156584_fig1.jpg",
+    "original_sha256": "9ac2322b259e316a412cf2ccd6fa122e3b010a11ea8402cd64795f23bc9c0f3c",
+    "box": [
+      0,
+      0,
+      1,
+      0.457
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_39.png",
+    "output_sha256": "b3a11dc62431f363144f8272f4e68caf223d344e65ad4641a47d2ede9bca0bae"
+  },
+  {
+    "content_index": 41,
+    "source_article": "PMC12340670",
+    "figure_number": "6",
+    "original_image": "figures/PMC12340670_fig6.jpg",
+    "original_sha256": "438f2dd7684117e7f7ce204aa4e4bc78f2b70a3fd6feabf23f7c84a3ce162360",
+    "box": [
+      0,
+      0.73,
+      1,
+      1
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_41.png",
+    "output_sha256": "9db75edf1f4a803fbe70d928593fb903c98fc11afa043857a32c881e004e4502"
+  },
+  {
+    "content_index": 42,
+    "source_article": "PMC7758068",
+    "figure_number": "3",
+    "original_image": "figures/PMC7758068_fig3.jpg",
+    "original_sha256": "2b90aa88f1512f388b7d603c1bbeea5d51d838c56a1e3ddcdeca6f142e1c09c0",
+    "box": [
+      0,
+      0.39,
+      1,
+      1
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_42.png",
+    "output_sha256": "669ae1a03c9a80e48b0aa1269ec800c78991a0f20afb38cd48dac866625ee94a"
+  },
+  {
+    "content_index": 43,
+    "source_article": "PMC9242645",
+    "figure_number": "2",
+    "original_image": "figures/PMC9242645_fig2.jpg",
+    "original_sha256": "db76303ba4c3d8b48953fac94fc67ffefb3ad0652014e7b931ffd6b72f357776",
+    "box": [
+      0,
+      0,
+      1,
+      0.592
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_43.png",
+    "output_sha256": "f14ed352013367f0c9918a3e2898203d1bfa62bee907f8bd36d0cc3d40062069"
+  },
+  {
+    "content_index": 45,
+    "source_article": "PMC5834245",
+    "figure_number": "1",
+    "original_image": "figures/PMC5834245_fig1.jpg",
+    "original_sha256": "868d3ddaa924937c717740e609c99fb8ad9a331cb7938caeb49a9c5d6bf2a309",
+    "box": [
+      0,
+      0,
+      0.5,
+      0.5
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_45.png",
+    "output_sha256": "310e91b310c4abfe70d6d0c05248546ec0ee199f6773c22ae684b2901648856a"
+  },
+  {
+    "content_index": 46,
+    "source_article": "PMC11884783",
+    "figure_number": "2",
+    "original_image": "figures/PMC11884783_fig2.jpg",
+    "original_sha256": "ddb4975cae53177db50c386e17c69c521031b1ab13fd00832402adc6d23eb13b",
+    "box": [
+      0,
+      0,
+      1,
+      0.248
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_46.png",
+    "output_sha256": "3e4baa0ccad4d1610ca0f66bc4d1028a2dc0d1a9bb0857ebb787681e311116c2"
+  },
+  {
+    "content_index": 47,
+    "source_article": "PMC9242645",
+    "figure_number": "4",
+    "original_image": "figures/PMC9242645_fig4.jpg",
+    "original_sha256": "b976d419714783b5411a4383a521924058f4fb9bd4aec028c0afe080b5a0c16b",
+    "box": [
+      0,
+      0.65,
+      1,
+      1
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_47.png",
+    "output_sha256": "c6969648e8ef5a886c9a0dfa9a60860fd3cb9829070839888338d3ab774c1c5d"
+  },
+  {
+    "content_index": 48,
+    "source_article": "PMC11534334",
+    "figure_number": "1",
+    "original_image": "figures/PMC11534334_fig1.jpg",
+    "original_sha256": "de6ba6de56b4faef74ff4bc4ed951de919f1c74487651d89f617715faa2ead0d",
+    "box": [
+      0,
+      0.3,
+      1,
+      1
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_48.png",
+    "output_sha256": "332811e50efcabf96ae2fe290d6c3f14dbd465f422b43a6e2ceec9d397bec59d"
+  },
+  {
+    "content_index": 49,
+    "source_article": "PMC5834245",
+    "figure_number": "6",
+    "original_image": "figures/PMC5834245_fig6.jpg",
+    "original_sha256": "71afb70414ec785448dcd3d301a9d4774ec2019122c43dd105e27b4b58d25cc4",
+    "box": [
+      0,
+      0,
+      1,
+      0.48
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_49.png",
+    "output_sha256": "c2e7a264b83d1d09cad229f6a8d80e96e3de4f588c269f0be0a81d7757074a4d"
+  },
+  {
+    "content_index": 53,
+    "source_article": "PMC6703899",
+    "figure_number": "1",
+    "original_image": "figures/PMC6703899_fig1.jpg",
+    "original_sha256": "2d9d8c21400b51d61d6d5196f13150376e1a8958fd94a05ed8ca0c6f69ddacbd",
+    "box": [
+      0,
+      0.31,
+      1,
+      0.78
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_53.png",
+    "output_sha256": "66cb46735bdb5876a4dba6665823ffb6f519956b86cf934d2f95037bc0c20d32"
+  },
+  {
+    "content_index": 54,
+    "source_article": "PMC11379823",
+    "figure_number": "4",
+    "original_image": "figures/PMC11379823_fig4.jpg",
+    "original_sha256": "6d4e97afad139494ec73e16281a72c6879c95150ca1a41844c4b5ac51c12fba3",
+    "box": [
+      0,
+      0,
+      1,
+      0.245
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_54.png",
+    "output_sha256": "5a28f417995e92e06a8dd89da61355158da01edefa1d4debdae53fb78e8616cc"
+  },
+  {
+    "content_index": 55,
+    "source_article": "PMC6703899",
+    "figure_number": "3",
+    "original_image": "figures/PMC6703899_fig3.jpg",
+    "original_sha256": "b5502b6ab51c3a7a2710b2f7ea111f7032bca09721f399a4d9376707620cdfed",
+    "box": [
+      0,
+      0,
+      1,
+      0.42
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_55.png",
+    "output_sha256": "a061bad1a758c10ce4c2c955b4e52cacab29db8334f38b67e4c3fa94b7c0bf7a"
+  },
+  {
+    "content_index": 57,
+    "source_article": "PMC6703899",
+    "figure_number": "4",
+    "original_image": "figures/PMC6703899_fig4.jpg",
+    "original_sha256": "9a9a6730330e059c76a00d52f24c01c9451bd7a7c9e0af6a5e50d6deef911062",
+    "box": [
+      0,
+      0.282,
+      1,
+      0.575
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_57.png",
+    "output_sha256": "b6d899ad50385ab430ac93b9f7a7b2fb6f0bdde0323a9875d395096de110c2cd"
+  },
+  {
+    "content_index": 59,
+    "source_article": "PMC6703899",
+    "figure_number": "4",
+    "original_image": "figures/PMC6703899_fig4.jpg",
+    "original_sha256": "9a9a6730330e059c76a00d52f24c01c9451bd7a7c9e0af6a5e50d6deef911062",
+    "box": [
+      0,
+      0.282,
+      1,
+      0.575
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_59.png",
+    "output_sha256": "b6d899ad50385ab430ac93b9f7a7b2fb6f0bdde0323a9875d395096de110c2cd"
+  },
+  {
+    "content_index": 61,
+    "source_article": "PMC7609064",
+    "figure_number": "1",
+    "original_image": "figures/PMC7609064_fig1.jpg",
+    "original_sha256": "94447de60cb0976428aff9647ef14424f29f2eae4ce0c3235772b97424f17dfa",
+    "box": [
+      0,
+      0.62,
+      0.408,
+      0.8
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_61.png",
+    "output_sha256": "b02343a6fc3409026eda40d401fa7507fde9467d43652cc9369629a741996a77"
+  },
+  {
+    "content_index": 63,
+    "source_article": "PMC4515473",
+    "figure_number": "1",
+    "original_image": "figures/PMC4515473_fig1.jpg",
+    "original_sha256": "326015854460868a227763a2cd4b60d4b6b7585ab50019a2294a192635f76465",
+    "box": [
+      0,
+      0,
+      1,
+      0.31
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_63.png",
+    "output_sha256": "76e1830f09138d25c346cbcadffc9054e0abc301b2f5663b9f20e233805b8f6c"
+  },
+  {
+    "content_index": 65,
+    "source_article": "PMC11217450",
+    "figure_number": "1",
+    "original_image": "figures/PMC11217450_fig1.jpg",
+    "original_sha256": "3690a472f8b67719af074ea75ea2a9645d478bfe4baf12b5827d0e494edf4ae7",
+    "box": [
+      0,
+      0,
+      1,
+      0.34
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_65.png",
+    "output_sha256": "a2e91a3b82893b1f9be8b8812182fe3e42c5f5ca7f41c4589dd2aaa259c7e5ab"
+  },
+  {
+    "content_index": 67,
+    "source_article": "PMC11217450",
+    "figure_number": "4",
+    "original_image": "figures/PMC11217450_fig4.jpg",
+    "original_sha256": "44620bdeebb2ed62d240f2841e05ed1928b6a052e78ac023d3ca16be92c97cd5",
+    "box": [
+      0,
+      0.25,
+      1,
+      0.5
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_67.png",
+    "output_sha256": "138868c166fb99cb8f0157cd6fde2c647b41db077954675e39466d42fb7f12b0"
+  },
+  {
+    "content_index": 69,
+    "source_article": "PMC5747517",
+    "figure_number": "2",
+    "original_image": "figures/PMC5747517_fig2.jpg",
+    "original_sha256": "f2f6cf5be6ed4b50a5def577c2efb2778fd9041df82395bc00349f2585a69377",
+    "box": [
+      0.755,
+      0,
+      1,
+      0.25
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_69.png",
+    "output_sha256": "cd85c1b37285f428bb5ccb0599596fc1f25eb894cd60b2094873f5c9d650044f"
+  },
+  {
+    "content_index": 71,
+    "source_article": "PMC5747517",
+    "figure_number": "2",
+    "original_image": "figures/PMC5747517_fig2.jpg",
+    "original_sha256": "f2f6cf5be6ed4b50a5def577c2efb2778fd9041df82395bc00349f2585a69377",
+    "box": [
+      0.755,
+      0.24,
+      1,
+      0.502
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_71.png",
+    "output_sha256": "3a4ed57fbffd881035dca41161693f97641909711f7d4ea6138dddc9adf2913e"
+  },
+  {
+    "content_index": 72,
+    "source_article": "PMC8687663",
+    "figure_number": "2",
+    "original_image": "figures/PMC8687663_fig2.jpg",
+    "original_sha256": "c2b5345b0f0ee3b41a7b4ea8c466156ee2eee2375578143bf8b82757ba7936d4",
+    "box": [
+      0,
+      0,
+      1,
+      0.575
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_72.png",
+    "output_sha256": "fcb969e23b4c23ef84f0b2d170abec9d59a140987dbec97383bb957d8d65dbf6"
+  },
+  {
+    "content_index": 73,
+    "source_article": "PMC9896879",
+    "figure_number": "1",
+    "original_image": "figures/PMC9896879_fig1.jpg",
+    "original_sha256": "3b9ac5610f74d6e0f02048fae64a4beaf862e60a40c831c78423eaef7ab5797c",
+    "box": [
+      0,
+      0,
+      1,
+      0.27
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_73.png",
+    "output_sha256": "5e744bb378f4b00fdedf9c6fe2710b71921b260b49237d7dc34eb824c142eed4"
+  },
+  {
+    "content_index": 75,
+    "source_article": "PMC7012598",
+    "figure_number": "2",
+    "original_image": "figures/PMC7012598_fig2.jpg",
+    "original_sha256": "3beb7bb33d4fe76db0a060637b5844e6ff08dbfec3bdc2065cda1c56839fbdbd",
+    "box": [
+      0,
+      0,
+      1,
+      0.48
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_75.png",
+    "output_sha256": "718e6954bd7a9766fbcaa099a7840f46de56f6827ad3e432aa3aa8744531c4c9"
+  },
+  {
+    "content_index": 76,
+    "source_article": "PMC4657156",
+    "figure_number": "1",
+    "original_image": "figures/PMC4657156_fig1.jpg",
+    "original_sha256": "b1f5e1577acabc3cdea3dc8f4f1aaaf770024f1985bf53a1a24cc19407879449",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_76.png",
+    "output_sha256": "49cb8acdaf83e6c8ac22d5427c212bbb346b878946a6fb215e9fe7718053e515"
+  },
+  {
+    "content_index": 77,
+    "source_article": "PMC9270026",
+    "figure_number": "1",
+    "original_image": "figures/PMC9270026_fig1.jpg",
+    "original_sha256": "a21612aead92affe816a9228de9c7807c173f57492f26e3ce6b3a1de9953a25c",
+    "box": [
+      0,
+      0,
+      0.5,
+      0.595
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_77.png",
+    "output_sha256": "cb466d397d56a612c60af31146b6413461788b2d9e49764bcca3dd0f22f7b5cf"
+  },
+  {
+    "content_index": 79,
+    "source_article": "PMC9270026",
+    "figure_number": "2",
+    "original_image": "figures/PMC9270026_fig2.jpg",
+    "original_sha256": "0c2ed54780ac1a67b3d9d61299907c5c907a989ae784208225dadcd81826271d",
+    "box": [
+      0,
+      0,
+      0.53,
+      0.325
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_79.png",
+    "output_sha256": "9ab4e15a6b4708dcf49411c7ec263c380204a1b357eaeef532f56fb2b0f39ae5"
+  },
+  {
+    "content_index": 80,
+    "source_article": "PMC11517251",
+    "figure_number": "2",
+    "original_image": "figures/PMC11517251_fig2.jpg",
+    "original_sha256": "367fb047e05567eebf28af2e1b87e40a737023ed2db37bdb7794357f107f554d",
+    "box": [
+      0,
+      0,
+      1,
+      0.533
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_80.png",
+    "output_sha256": "827d815d71243679114a2ddf7af1e689ae534a9995f29f2ef7e3b46c555f7ab0"
+  },
+  {
+    "content_index": 81,
+    "source_article": "PMC10188108",
+    "figure_number": "2",
+    "original_image": "figures/PMC10188108_fig2.jpg",
+    "original_sha256": "1c6a91c80645d4c34c17c96a2444e189f987adcf41994dd3537b171b7074f81f",
+    "box": [
+      0.65,
+      0,
+      1,
+      0.51
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_81.png",
+    "output_sha256": "bd1a14dbc8b8de60b2b5ea57affc6bc39eb025ff6e1602c6a33ac61545a13f78"
+  },
+  {
+    "content_index": 83,
+    "source_article": "PMC8101055",
+    "figure_number": "6",
+    "original_image": "figures/PMC8101055_fig6.jpg",
+    "original_sha256": "40776689f69a2bbc2e42fa15797d37ae167f9701281fa8206aff7c4b70940404",
+    "box": [
+      0,
+      0.52,
+      1,
+      1
+    ],
+    "coordinate_basis": "Fractions of an unaltered original-image PDF wrapper.",
+    "crop_tool": "tools/crop_figure.py",
+    "output": "figures/slide_83.png",
+    "output_sha256": "3c2c38033fbf4b80804bdec52d3a03e4eea2afa04f7e20d1be87ee5d312020fe"
+  }
+]

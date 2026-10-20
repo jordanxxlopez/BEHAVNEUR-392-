@@ -1,0 +1,522 @@
+{
+  "9.1": {
+    "kind": "textbook",
+    "part": 4,
+    "isbn": "9781292430256",
+    "edition": "13th, Global Edition",
+    "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+    "path": "figures/book_9_1.png",
+    "figure_id": "9.1",
+    "pdf_page": 18,
+    "printed_page": 268,
+    "source_cropbox_points": [
+      341,
+      487,
+      502,
+      730
+    ],
+    "crop_tool_box": [
+      0.550655071977256,
+      0.6108618192417973,
+      0.7839884053105893,
+      0.8930917843985917
+    ],
+    "coordinate_basis": "Native CropBox points converted to MediaBox fractions for tools/crop_figure.py.",
+    "caption": "Carlson and Birkett (2022), Fig. 9.1, p. 268.",
+    "sha256": "812b094f9be32f917cd1ad2b9d89663467ac917eb2b9e63a32f14abe8a098404"
+  },
+  "9.2": {
+    "kind": "textbook",
+    "part": 4,
+    "isbn": "9781292430256",
+    "edition": "13th, Global Edition",
+    "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+    "path": "figures/book_9_2.png",
+    "figure_id": "9.2",
+    "pdf_page": 19,
+    "printed_page": 269,
+    "source_cropbox_points": [
+      81,
+      607,
+      300,
+      749
+    ],
+    "crop_tool_box": [
+      0.17384347777435746,
+      0.7502346415414489,
+      0.4912347821221835,
+      0.9151591479293699
+    ],
+    "coordinate_basis": "Native CropBox points converted to MediaBox fractions for tools/crop_figure.py.",
+    "caption": "Carlson and Birkett (2022), Fig. 9.2, p. 269.",
+    "sha256": "2a58c2bbe55985b895543e683d6c8a7b5411cb4002cccda651d0282f63d48512"
+  },
+  "table9.1": {
+    "kind": "textbook",
+    "part": 4,
+    "isbn": "9781292430256",
+    "edition": "13th, Global Edition",
+    "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+    "path": "figures/book_table9_1.png",
+    "figure_id": "table9.1",
+    "pdf_page": 20,
+    "printed_page": 270,
+    "source_cropbox_points": [
+      32,
+      93,
+      550,
+      339
+    ],
+    "crop_tool_box": [
+      0.10282898502073426,
+      0.153254386024608,
+      0.8535536227018937,
+      0.4389686717388937
+    ],
+    "coordinate_basis": "Native CropBox points converted to MediaBox fractions for tools/crop_figure.py.",
+    "caption": "Carlson and Birkett (2022), Table 9.1, p. 270.",
+    "sha256": "6bbea5a7cdbea5c4161c69f382258886ac71bf7be87a60e1f965fb459e58498d"
+  },
+  "9.3": {
+    "kind": "textbook",
+    "part": 4,
+    "isbn": "9781292430256",
+    "edition": "13th, Global Edition",
+    "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+    "path": "figures/book_9_3.png",
+    "figure_id": "9.3",
+    "pdf_page": 21,
+    "printed_page": 271,
+    "source_cropbox_points": [
+      78,
+      98,
+      302,
+      253
+    ],
+    "crop_tool_box": [
+      0.16949565168740094,
+      0.15906158695376016,
+      0.4941333328468212,
+      0.3390848157574768
+    ],
+    "coordinate_basis": "Native CropBox points converted to MediaBox fractions for tools/crop_figure.py.",
+    "caption": "Carlson and Birkett (2022), Fig. 9.3, p. 271.",
+    "sha256": "7da88af0cb658af78f69e47086542a16f108413b440a5b921b63862f55191c6f"
+  },
+  "9.4": {
+    "kind": "textbook",
+    "part": 4,
+    "isbn": "9781292430256",
+    "edition": "13th, Global Edition",
+    "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+    "path": "figures/book_9_4.png",
+    "figure_id": "9.4",
+    "pdf_page": 21,
+    "printed_page": 271,
+    "source_cropbox_points": [
+      330,
+      496,
+      580,
+      739
+    ],
+    "crop_tool_box": [
+      0.5347130429917487,
+      0.6213147809142712,
+      0.8970318835714589,
+      0.9035447460710656
+    ],
+    "coordinate_basis": "Native CropBox points converted to MediaBox fractions for tools/crop_figure.py.",
+    "caption": "Carlson and Birkett (2022), Fig. 9.4, p. 271.",
+    "sha256": "0f9795331c46e1deea02fc35b345715a61b40710b7ee5dac01e000ae3e23509d"
+  },
+  "9.7": {
+    "kind": "textbook",
+    "part": 4,
+    "isbn": "9781292430256",
+    "edition": "13th, Global Edition",
+    "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+    "path": "figures/book_9_7.png",
+    "figure_id": "9.7",
+    "pdf_page": 27,
+    "printed_page": 277,
+    "source_cropbox_points": [
+      65,
+      160,
+      313,
+      300
+    ],
+    "crop_tool_box": [
+      0.150655071977256,
+      0.2310708784752468,
+      0.5100753618323285,
+      0.393672504491507
+    ],
+    "coordinate_basis": "Native CropBox points converted to MediaBox fractions for tools/crop_figure.py.",
+    "caption": "Carlson and Birkett (2022), Fig. 9.7, p. 277.",
+    "sha256": "cf3da9dc65348bf9ebf0aaf16a5ab1a5848ab1d6dd1902253d7a541c26544da5"
+  },
+  "9.9": {
+    "kind": "textbook",
+    "part": 4,
+    "isbn": "9781292430256",
+    "edition": "13th, Global Edition",
+    "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+    "path": "figures/book_9_9.png",
+    "figure_id": "9.9",
+    "pdf_page": 29,
+    "printed_page": 279,
+    "source_cropbox_points": [
+      65,
+      132,
+      315,
+      264
+    ],
+    "crop_tool_box": [
+      0.150655071977256,
+      0.19855055327199478,
+      0.5129739125569661,
+      0.3518606578016115
+    ],
+    "coordinate_basis": "Native CropBox points converted to MediaBox fractions for tools/crop_figure.py.",
+    "caption": "Carlson and Birkett (2022), Fig. 9.9, p. 279.",
+    "sha256": "37d8525f08c78fbbca851b8a1b1087cc31f905deabca60d885fb7aab0238e084"
+  },
+  "9.10": {
+    "kind": "textbook",
+    "part": 4,
+    "isbn": "9781292430256",
+    "edition": "13th, Global Edition",
+    "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+    "path": "figures/book_9_10.png",
+    "figure_id": "9.10",
+    "pdf_page": 30,
+    "printed_page": 280,
+    "source_cropbox_points": [
+      73,
+      113,
+      509,
+      383
+    ],
+    "crop_tool_box": [
+      0.16224927487580673,
+      0.1764831897412166,
+      0.7941333328468212,
+      0.49007203991543263
+    ],
+    "coordinate_basis": "Native CropBox points converted to MediaBox fractions for tools/crop_figure.py.",
+    "caption": "Carlson and Birkett (2022), Fig. 9.10, p. 280.",
+    "sha256": "1950f68cc4c1098f1aa72cd7f71ec0f4494dbc8a7493e78be52e603447e2f103"
+  },
+  "9.11": {
+    "kind": "textbook",
+    "part": 4,
+    "isbn": "9781292430256",
+    "edition": "13th, Global Edition",
+    "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+    "path": "figures/book_9_11.png",
+    "figure_id": "9.11",
+    "pdf_page": 30,
+    "printed_page": 280,
+    "source_cropbox_points": [
+      46,
+      480,
+      271,
+      750
+    ],
+    "crop_tool_box": [
+      0.12311884009319803,
+      0.6027317379409843,
+      0.44920579661493715,
+      0.9163205881152003
+    ],
+    "coordinate_basis": "Native CropBox points converted to MediaBox fractions for tools/crop_figure.py.",
+    "caption": "Carlson and Birkett (2022), Fig. 9.11, p. 280.",
+    "sha256": "3f1e66f01cc66fdd2995ebc5158e312c8e393e4f4027b18d11e75cf5b911c5a9"
+  },
+  "9.12": {
+    "kind": "textbook",
+    "part": 4,
+    "isbn": "9781292430256",
+    "edition": "13th, Global Edition",
+    "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+    "path": "figures/book_9_12.png",
+    "figure_id": "9.12",
+    "pdf_page": 31,
+    "printed_page": 281,
+    "source_cropbox_points": [
+      104,
+      110,
+      544,
+      329
+    ],
+    "crop_tool_box": [
+      0.2071768111076908,
+      0.1729988691837253,
+      0.8448579705279806,
+      0.42735426988058944
+    ],
+    "coordinate_basis": "Native CropBox points converted to MediaBox fractions for tools/crop_figure.py.",
+    "caption": "Carlson and Birkett (2022), Fig. 9.12, p. 281.",
+    "sha256": "ef18bd2f8735dab230dd7af95b79ac687d460644efd3c73f8c06af8f89422e87"
+  },
+  "9.14": {
+    "kind": "textbook",
+    "part": 4,
+    "isbn": "9781292430256",
+    "edition": "13th, Global Edition",
+    "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+    "path": "figures/book_9_14.png",
+    "figure_id": "9.14",
+    "pdf_page": 32,
+    "printed_page": 282,
+    "source_cropbox_points": [
+      103,
+      121,
+      478,
+      314
+    ],
+    "crop_tool_box": [
+      0.20572753574537195,
+      0.18577471122786005,
+      0.7492057966149371,
+      0.409932667093133
+    ],
+    "coordinate_basis": "Native CropBox points converted to MediaBox fractions for tools/crop_figure.py.",
+    "caption": "Carlson and Birkett (2022), Fig. 9.14, p. 282.",
+    "sha256": "a35c9017ca6910f4c8b7594388e664ef0feb7c7533322863953aaba4be53aba3"
+  },
+  "9.17": {
+    "kind": "textbook",
+    "part": 4,
+    "isbn": "9781292430256",
+    "edition": "13th, Global Edition",
+    "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+    "path": "figures/book_9_17.png",
+    "figure_id": "9.17",
+    "pdf_page": 35,
+    "printed_page": 285,
+    "source_cropbox_points": [
+      75,
+      154,
+      571,
+      299
+    ],
+    "crop_tool_box": [
+      0.16514782560044441,
+      0.22410223736026422,
+      0.8839884053105893,
+      0.39251106430567656
+    ],
+    "coordinate_basis": "Native CropBox points converted to MediaBox fractions for tools/crop_figure.py.",
+    "caption": "Carlson and Birkett (2022), Fig. 9.17, p. 285.",
+    "sha256": "761e0374e9a59a2d8239ec126064f17363cbdfbe11c810d2aada726bcb3c42ad"
+  },
+  "9.18": {
+    "kind": "textbook",
+    "part": 4,
+    "isbn": "9781292430256",
+    "edition": "13th, Global Edition",
+    "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+    "path": "figures/book_9_18.png",
+    "figure_id": "9.18",
+    "pdf_page": 35,
+    "printed_page": 285,
+    "source_cropbox_points": [
+      329,
+      409,
+      575,
+      610
+    ],
+    "crop_tool_box": [
+      0.53326376762943,
+      0.5202694847470238,
+      0.8897855067598647,
+      0.7537189620989402
+    ],
+    "coordinate_basis": "Native CropBox points converted to MediaBox fractions for tools/crop_figure.py.",
+    "caption": "Carlson and Birkett (2022), Fig. 9.18, p. 285.",
+    "sha256": "60e26594863e67e1dd7081a82d1304c3a886980f847197f65e1ef52101be58f4"
+  },
+  "9.20": {
+    "kind": "textbook",
+    "part": 4,
+    "isbn": "9781292430256",
+    "edition": "13th, Global Edition",
+    "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+    "path": "figures/book_9_20.png",
+    "figure_id": "9.20",
+    "pdf_page": 36,
+    "printed_page": 286,
+    "source_cropbox_points": [
+      298,
+      142,
+      545,
+      382
+    ],
+    "crop_tool_box": [
+      0.48833623139754584,
+      0.21016495513029906,
+      0.8463072458902995,
+      0.4889105997296022
+    ],
+    "coordinate_basis": "Native CropBox points converted to MediaBox fractions for tools/crop_figure.py.",
+    "caption": "Carlson and Birkett (2022), Fig. 9.20, p. 286.",
+    "sha256": "e7f6ac57285a1c03c67999ccb975c086b1b74596a6544d4c0cbeb7b6f8c13bcd"
+  },
+  "9.24": {
+    "kind": "textbook",
+    "part": 4,
+    "isbn": "9781292430256",
+    "edition": "13th, Global Edition",
+    "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+    "path": "figures/book_9_24.png",
+    "figure_id": "9.24",
+    "pdf_page": 38,
+    "printed_page": 288,
+    "source_cropbox_points": [
+      315,
+      109,
+      533,
+      354
+    ],
+    "crop_tool_box": [
+      0.5129739125569661,
+      0.1718374289978949,
+      0.8289159415424734,
+      0.45639027452635017
+    ],
+    "coordinate_basis": "Native CropBox points converted to MediaBox fractions for tools/crop_figure.py.",
+    "caption": "Carlson and Birkett (2022), Fig. 9.24, p. 288.",
+    "sha256": "fcf23087eea9a7d8b51a9f940e7e2f7b910965563e44c29a9509c6011978d51c"
+  },
+  "9.25": {
+    "kind": "textbook",
+    "part": 4,
+    "isbn": "9781292430256",
+    "edition": "13th, Global Edition",
+    "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+    "path": "figures/book_9_25.png",
+    "figure_id": "9.25",
+    "pdf_page": 43,
+    "printed_page": 293,
+    "source_cropbox_points": [
+      326,
+      490,
+      578,
+      752
+    ],
+    "crop_tool_box": [
+      0.5289159415424733,
+      0.6143461397992886,
+      0.8941333328468212,
+      0.9186434684868612
+    ],
+    "coordinate_basis": "Native CropBox points converted to MediaBox fractions for tools/crop_figure.py.",
+    "caption": "Carlson and Birkett (2022), Fig. 9.25, p. 293.",
+    "sha256": "2fe2151ce63775eacf75c73e1b2e5afa7f85f0d89725c13c64879c2a058cc94c"
+  },
+  "9.27": {
+    "kind": "textbook",
+    "part": 4,
+    "isbn": "9781292430256",
+    "edition": "13th, Global Edition",
+    "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+    "path": "figures/book_9_27.png",
+    "figure_id": "9.27",
+    "pdf_page": 45,
+    "printed_page": 295,
+    "source_cropbox_points": [
+      146,
+      537,
+      497,
+      709
+    ],
+    "crop_tool_box": [
+      0.2680463763250821,
+      0.6689338285333188,
+      0.7767420284989951,
+      0.8687015404961528
+    ],
+    "coordinate_basis": "Native CropBox points converted to MediaBox fractions for tools/crop_figure.py.",
+    "caption": "Carlson and Birkett (2022), Fig. 9.27, p. 295.",
+    "sha256": "f938be2f12844a968247a45e88d440e7b1edf1e7276f51defccf333a4b6d99b9"
+  },
+  "9.28": {
+    "kind": "textbook",
+    "part": 4,
+    "isbn": "9781292430256",
+    "edition": "13th, Global Edition",
+    "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+    "path": "figures/book_9_28.png",
+    "figure_id": "9.28",
+    "pdf_page": 46,
+    "printed_page": 296,
+    "source_cropbox_points": [
+      96,
+      609,
+      486,
+      762
+    ],
+    "crop_tool_box": [
+      0.19558260820914006,
+      0.7525575219131098,
+      0.7607999995134879,
+      0.9302578703451655
+    ],
+    "coordinate_basis": "Native CropBox points converted to MediaBox fractions for tools/crop_figure.py.",
+    "caption": "Carlson and Birkett (2022), Fig. 9.28, p. 296.",
+    "sha256": "e9c5d303b733edba1b19c14b7339b4da37f589fa1a7aee4b1d80ef8863eac589"
+  },
+  "9.29": {
+    "kind": "textbook",
+    "part": 4,
+    "isbn": "9781292430256",
+    "edition": "13th, Global Edition",
+    "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+    "path": "figures/book_9_29.png",
+    "figure_id": "9.29",
+    "pdf_page": 47,
+    "printed_page": 297,
+    "source_cropbox_points": [
+      89,
+      573,
+      557,
+      762
+    ],
+    "crop_tool_box": [
+      0.18543768067290817,
+      0.7107456752232143,
+      0.8636985502381256,
+      0.9302578703451655
+    ],
+    "coordinate_basis": "Native CropBox points converted to MediaBox fractions for tools/crop_figure.py.",
+    "caption": "Carlson and Birkett (2022), Fig. 9.29, p. 297.",
+    "sha256": "efd32b127af38c8f7139e88a52220652063bc33e22d2bed91b7b0d04d9b6a9e5"
+  },
+  "9.31": {
+    "kind": "textbook",
+    "part": 4,
+    "isbn": "9781292430256",
+    "edition": "13th, Global Edition",
+    "source_url": "https://books.google.com/books?vid=ISBN9781292430256",
+    "path": "figures/book_9_31.png",
+    "figure_id": "9.31",
+    "pdf_page": 49,
+    "printed_page": 299,
+    "source_cropbox_points": [
+      82,
+      110,
+      545,
+      283
+    ],
+    "crop_tool_box": [
+      0.17529275313667628,
+      0.1729988691837253,
+      0.8463072458902995,
+      0.37392802133238967
+    ],
+    "coordinate_basis": "Native CropBox points converted to MediaBox fractions for tools/crop_figure.py.",
+    "caption": "Carlson and Birkett (2022), Fig. 9.31, p. 299.",
+    "sha256": "440734394e8b0aec89e3703f9c21a695d4c0054321260997f050199d6fb6892f"
+  }
+}

@@ -66,6 +66,12 @@ Download the [editable PowerPoint](https://media.githubusercontent.com/media/jor
 
 [From Intention to Action: The Neural Control of Movement](chapters/C08/STATUS.md) contains **75 slides** covering muscle physiology, spinal circuits, motor planning, basal ganglia, cerebellum, skilled action, and movement disorders. Download the [editable PowerPoint](https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C08/From_Intention_to_Action_Control_of_Movement_Chapter_8.pptx) or [static PDF preview](chapters/C08/From_Intention_to_Action_Control_of_Movement_Chapter_8_Static.pdf). The lecture contains 29 foundation slides, 44 research slides, full teaching transcripts, and 40 distinct embedded recordings. All 219 teaching paragraphs pass the rendered five-to-seven-line check. Sources, original-media records, and validation accompany the files.
 
+## Chapter 9: sleep and biological rhythms
+
+[The Rhythmic Brain: Why We Sleep and How the Body Keeps Time](chapters/C09/STATUS.md) contains **86 slides and 40 embedded recordings**, distributed ten per quarter. It covers sleep stages, glial and arousal mechanisms, memory, lucid dreaming, sleep disorders, and circadian clocks, including recent imaging, vascular, and molecular studies. The 31 selected papers have no overlap in the checked Neuroethology and prior Behavioral Neuroscience source catalogs.
+
+Download the [editable PowerPoint](https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C09/The_Rhythmic_Brain_Sleep_and_Biological_Rhythms.pptx) or [static PDF](chapters/C09/The_Rhythmic_Brain_Sleep_and_Biological_Rhythms_Static.pdf). All 252 teaching paragraphs pass the rendered five-to-seven-line audit. Full references, matching teaching notes, source and crop records, and validation accompany the files. Arial throughout. Desktop PowerPoint playback remains untested.
+
 ## Chapter 10: From Reproduction to Care: Hormones, Social Circuits, and Parenting
 
 A separate 80-slide lecture with 78 teaching slides, 40 embedded original recordings, source figures, full teaching notes and credits.

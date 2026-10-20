@@ -1,0 +1,662 @@
+{
+  "812b094f9be32f917cd1ad2b9d89663467ac917eb2b9e63a32f14abe8a098404": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/book_9_1----c0c85999-3fbc-4457-bc91-b64b3e560cb0.png",
+    "file": "figures/book_9_1.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 793305
+  },
+  "1950f68cc4c1098f1aa72cd7f71ec0f4494dbc8a7493e78be52e603447e2f103": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/book_9_10----a73c5426-a291-42a8-9265-949d175dbb69.webp",
+    "file": "figures/book_9_10.png",
+    "upload_mime": "image/webp",
+    "upload_bytes": 843588
+  },
+  "3f1e66f01cc66fdd2995ebc5158e312c8e393e4f4027b18d11e75cf5b911c5a9": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/book_9_11----30b32159-5eb6-4de3-ade8-f41bc036a444.png",
+    "file": "figures/book_9_11.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 53566
+  },
+  "ef18bd2f8735dab230dd7af95b79ac687d460644efd3c73f8c06af8f89422e87": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/book_9_12----c4c9c270-7ad9-4fb9-800d-5a60c3c22ea9.webp",
+    "file": "figures/book_9_12.png",
+    "upload_mime": "image/webp",
+    "upload_bytes": 816574
+  },
+  "a35c9017ca6910f4c8b7594388e664ef0feb7c7533322863953aaba4be53aba3": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/book_9_14----1916c820-cf20-456a-bb6a-fc1cf9671182.png",
+    "file": "figures/book_9_14.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 803656
+  },
+  "761e0374e9a59a2d8239ec126064f17363cbdfbe11c810d2aada726bcb3c42ad": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/book_9_17----94d6c045-5b4a-4974-b8da-9598b43d07de.png",
+    "file": "figures/book_9_17.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 113010
+  },
+  "60e26594863e67e1dd7081a82d1304c3a886980f847197f65e1ef52101be58f4": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/book_9_18----4704e06e-ac5e-4247-a0c3-d0777e31cbc2.png",
+    "file": "figures/book_9_18.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 94177
+  },
+  "2a58c2bbe55985b895543e683d6c8a7b5411cb4002cccda651d0282f63d48512": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/book_9_2----cbaf94b2-3fc8-4df4-b120-b8cc64e0b838.png",
+    "file": "figures/book_9_2.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 40172
+  },
+  "e7f6ac57285a1c03c67999ccb975c086b1b74596a6544d4c0cbeb7b6f8c13bcd": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/book_9_20----b633f788-e9b8-4dd4-9d9f-689bb3535d9c.png",
+    "file": "figures/book_9_20.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 112871
+  },
+  "fcf23087eea9a7d8b51a9f940e7e2f7b910965563e44c29a9509c6011978d51c": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/book_9_24----ffea430c-4c27-4225-83f5-c9e5f24550b3.png",
+    "file": "figures/book_9_24.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 93113
+  },
+  "2fe2151ce63775eacf75c73e1b2e5afa7f85f0d89725c13c64879c2a058cc94c": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/book_9_25----7740efcf-4801-405c-9f9e-26d1daec4029.png",
+    "file": "figures/book_9_25.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 57958
+  },
+  "f938be2f12844a968247a45e88d440e7b1edf1e7276f51defccf333a4b6d99b9": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/book_9_27----758c3ac0-71e9-4710-8910-c5530aa42ce3.png",
+    "file": "figures/book_9_27.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 550357
+  },
+  "e9c5d303b733edba1b19c14b7339b4da37f589fa1a7aee4b1d80ef8863eac589": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/book_9_28----96aa0bb9-4dcd-4138-909c-2e6e6e0850b5.png",
+    "file": "figures/book_9_28.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 88373
+  },
+  "efd32b127af38c8f7139e88a52220652063bc33e22d2bed91b7b0d04d9b6a9e5": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/book_9_29----7e72421c-a39c-48a3-8538-c4bd22dfd743.png",
+    "file": "figures/book_9_29.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 136198
+  },
+  "7da88af0cb658af78f69e47086542a16f108413b440a5b921b63862f55191c6f": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/book_9_3----827ba8ab-097e-4fa9-a09a-603a0e6c1ab4.png",
+    "file": "figures/book_9_3.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 38133
+  },
+  "440734394e8b0aec89e3703f9c21a695d4c0054321260997f050199d6fb6892f": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/book_9_31----d3338150-24d6-4fc8-bb6a-c30bbfe94c8f.png",
+    "file": "figures/book_9_31.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 871172
+  },
+  "0f9795331c46e1deea02fc35b345715a61b40710b7ee5dac01e000ae3e23509d": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/book_9_4----8c159ff6-73c5-4655-81da-aef3654a64ad.png",
+    "file": "figures/book_9_4.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 487544
+  },
+  "cf3da9dc65348bf9ebf0aaf16a5ab1a5848ab1d6dd1902253d7a541c26544da5": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/book_9_7----f826a619-21d2-420b-b7a2-1b8ba97ed597.png",
+    "file": "figures/book_9_7.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 51940
+  },
+  "37d8525f08c78fbbca851b8a1b1087cc31f905deabca60d885fb7aab0238e084": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/book_9_9----2f2a96a3-00cf-48ef-8de0-30e1233cea2e.png",
+    "file": "figures/book_9_9.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 43412
+  },
+  "6bbea5a7cdbea5c4161c69f382258886ac71bf7be87a60e1f965fb459e58498d": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/book_table9_1----fc043ad0-05f1-49af-9f49-a6834bd57f5e.png",
+    "file": "figures/book_table9_1.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 171379
+  },
+  "a449fc92d8fed940bd79a0077b51d0a0386c20320359bb8c539514d438ae7b60": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_03----263f8d1a-c4ba-4168-b666-5a47448c1b36.png",
+    "file": "figures/slide_03.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 338581
+  },
+  "b2cdb504ab0212565d2e1d1135467fcde02d781bdecb2f662fcfb1a4ab88828e": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_05----7c40e8cf-06ad-4ccc-872c-98897b7285ae.png",
+    "file": "figures/slide_05.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 121641
+  },
+  "de7efb26a630c7f9c4dcde05c593df745fedf3969e32857daddee498776a7800": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_07----a0178aa2-396d-46ac-9901-3a3026258b30.png",
+    "file": "figures/slide_07.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 293911
+  },
+  "55fd1325b3c95cb1635eaf2d40163e1cd2f3c3ad3e8ce7ca932d116d3f6cad6d": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_09----04815f1f-a89d-4701-8fb8-aef0671469bd.png",
+    "file": "figures/slide_09.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 429951
+  },
+  "13c766c69af3b209211b30706fccd9ee0535a6e90f4ad7709a03c77b8d33c1dd": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_11----d519b5a4-1fb8-4817-b969-042059179de8.png",
+    "file": "figures/slide_11.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 16153
+  },
+  "88fd17758f8f48ac1d5ced23cad73a6ee9ac940b26554a1297d4eba6adcd0858": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_13----41e99ee0-2abf-4c2f-b3a0-5419fc75a76a.png",
+    "file": "figures/slide_13.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 100370
+  },
+  "8ffd9ae6e7816f94e541e668a2081a10d19b2d850474378659072c410efb776c": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_15----48ae52bb-b3be-4715-97a6-d5baf7cd8014.png",
+    "file": "figures/slide_15.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 165721
+  },
+  "b52ae77e70e3c090408e1d62475d6099e0be0a2f2aace1bfe937711d8bbd8ce2": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_17----398209b5-8525-46ba-8be9-a8a6b2481000.png",
+    "file": "figures/slide_17.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 748682
+  },
+  "3a5cc26a524bbbc84ced66f40de701ad389571d461de873992bbe515bf8f438b": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_19----76420564-f2fc-4ba2-b374-9c046738ca41.png",
+    "file": "figures/slide_19.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 892839
+  },
+  "2e008de22f30bdbeacc2372a241cd490cb981e0d6ca02eb35ad1fa343e34d2c4": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_20----7507cb83-0b4f-444a-8eb3-d103eff72664.webp",
+    "file": "figures/slide_20.png",
+    "upload_mime": "image/webp",
+    "upload_bytes": 619716
+  },
+  "c337363e316f6275217737b3a45a321f7268fad97ac6c9ae240dbde0bbaf3830": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_21----a0d38093-77fa-4d35-8bee-e4df203b60c1.png",
+    "file": "figures/slide_21.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 647604
+  },
+  "1458c92f6941cc1a5f19b04fb6ee3adf741ddce5748afa92cb702dccf5adc00a": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_22----9bda8533-a82b-406d-95ab-66078734c2bb.png",
+    "file": "figures/slide_22.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 316851
+  },
+  "16fe75b25866cfe7b3bb93e1ea293ff37a29824ff9cc42e1ee94b6f218de8240": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_23----a77e2739-3209-4d72-a588-dcd1afe8c628.png",
+    "file": "figures/slide_23.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 683977
+  },
+  "43b642b7fb7fee9ab9402b6723c8757ae15ee73480d81088b09d29570c1d639a": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_24----932ef55b-7503-4093-b59a-9532439a4435.png",
+    "file": "figures/slide_24.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 436062
+  },
+  "fe3dc40be614627e8a86e069e78a8ad3862e521fa9903a43a1154be3db9f00de": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_26----525dba48-b455-49b4-b4d1-979885199adb.png",
+    "file": "figures/slide_26.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 221417
+  },
+  "577ab6ae1e2e7892a2d52a67132dff6af0742d65727d49ee043cebb611896c12": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_28----98359b75-54aa-4e94-b7a0-0d6d41bb8065.webp",
+    "file": "figures/slide_28.png",
+    "upload_mime": "image/webp",
+    "upload_bytes": 832764
+  },
+  "d28321fd4a40ed2a07f14125adb1311845cc81d010d758f4ed80b794087c076f": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_30----9e7008bf-9ed8-4c1c-924c-8502743a1ef9.png",
+    "file": "figures/slide_30.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 535481
+  },
+  "e32b90955c0d922d0f2bef96f8fe798ba7e3d561bb152c8ded2943451db36191": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_32----6210d3f6-68f1-4a07-9430-4eba2a6d0e40.png",
+    "file": "figures/slide_32.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 249718
+  },
+  "c500c8fe0ebf6f974760ac7606d0dc74866dd3443954cd07947bb1755c492115": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_34----8dcdc1c2-9e39-4f43-8433-facf056bd2fd.webp",
+    "file": "figures/slide_34.png",
+    "upload_mime": "image/webp",
+    "upload_bytes": 1980066
+  },
+  "a2f9c2ccb86922afd6e51c1494427ee33f438886bf13b5576670e6c426e1e128": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_36----cd52dc7c-43f2-4887-8d8c-b4d31cb4566d.webp",
+    "file": "figures/slide_36.png",
+    "upload_mime": "image/webp",
+    "upload_bytes": 1257026
+  },
+  "ad3ab787ee9d8513e3e1ba18ea1ce926bdb4b6b7643fca9c3d5c67146fd03885": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_38----fee01b5b-5be0-4d78-bfe5-66852c0d28d0.png",
+    "file": "figures/slide_38.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 796294
+  },
+  "b3a11dc62431f363144f8272f4e68caf223d344e65ad4641a47d2ede9bca0bae": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_39----a7296861-0404-4c8f-9da8-2cebc1f25bad.png",
+    "file": "figures/slide_39.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 81871
+  },
+  "9db75edf1f4a803fbe70d928593fb903c98fc11afa043857a32c881e004e4502": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_41----f4fe449c-94e5-44dd-91eb-0746d7e97e54.png",
+    "file": "figures/slide_41.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 652113
+  },
+  "669ae1a03c9a80e48b0aa1269ec800c78991a0f20afb38cd48dac866625ee94a": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_42----4cd2e9cf-a46d-43ab-be5a-685e5853a467.webp",
+    "file": "figures/slide_42.png",
+    "upload_mime": "image/webp",
+    "upload_bytes": 1301468
+  },
+  "f14ed352013367f0c9918a3e2898203d1bfa62bee907f8bd36d0cc3d40062069": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_43----19ae0da0-2eb4-4e8e-a341-e8ec5a217a61.png",
+    "file": "figures/slide_43.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 559002
+  },
+  "310e91b310c4abfe70d6d0c05248546ec0ee199f6773c22ae684b2901648856a": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_45----bc1addf9-9e3d-473b-b3f5-b57135e362bb.png",
+    "file": "figures/slide_45.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 411293
+  },
+  "3e4baa0ccad4d1610ca0f66bc4d1028a2dc0d1a9bb0857ebb787681e311116c2": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_46----d5bdf77a-8941-4661-9702-fd81b6fd4421.png",
+    "file": "figures/slide_46.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 435885
+  },
+  "c6969648e8ef5a886c9a0dfa9a60860fd3cb9829070839888338d3ab774c1c5d": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_47----ee64b27b-0f38-4ad9-80ac-8d512356d8bb.png",
+    "file": "figures/slide_47.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 230250
+  },
+  "332811e50efcabf96ae2fe290d6c3f14dbd465f422b43a6e2ceec9d397bec59d": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_48----28b24088-432f-4bce-b97d-996425d4a92a.png",
+    "file": "figures/slide_48.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 755813
+  },
+  "c2e7a264b83d1d09cad229f6a8d80e96e3de4f588c269f0be0a81d7757074a4d": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_49----389c29ed-15a8-4166-801a-22acc3a98d21.png",
+    "file": "figures/slide_49.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 871033
+  },
+  "66cb46735bdb5876a4dba6665823ffb6f519956b86cf934d2f95037bc0c20d32": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_53----82d1130c-f6c8-43f3-afdc-5d1b141ce855.webp",
+    "file": "figures/slide_53.png",
+    "upload_mime": "image/webp",
+    "upload_bytes": 973814
+  },
+  "5a28f417995e92e06a8dd89da61355158da01edefa1d4debdae53fb78e8616cc": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_54----961182aa-69b1-419b-b43a-269cfd65fac0.png",
+    "file": "figures/slide_54.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 94376
+  },
+  "a061bad1a758c10ce4c2c955b4e52cacab29db8334f38b67e4c3fa94b7c0bf7a": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_55----e7f05c90-7acd-4ae0-86dd-75f5102d10b3.webp",
+    "file": "figures/slide_55.png",
+    "upload_mime": "image/webp",
+    "upload_bytes": 811768
+  },
+  "b6d899ad50385ab430ac93b9f7a7b2fb6f0bdde0323a9875d395096de110c2cd": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_59----17c7a3e8-44dc-472e-b9b1-7216475ac16e.webp",
+    "file": "figures/slide_59.png",
+    "upload_mime": "image/webp",
+    "upload_bytes": 3748176
+  },
+  "b02343a6fc3409026eda40d401fa7507fde9467d43652cc9369629a741996a77": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_61----57b893fb-360b-4ed4-98b1-4acb12af43c6.png",
+    "file": "figures/slide_61.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 63199
+  },
+  "76e1830f09138d25c346cbcadffc9054e0abc301b2f5663b9f20e233805b8f6c": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_63----35df5a8d-8345-48da-9584-436f64bc8cba.png",
+    "file": "figures/slide_63.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 425973
+  },
+  "a2e91a3b82893b1f9be8b8812182fe3e42c5f5ca7f41c4589dd2aaa259c7e5ab": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_65----4078cd0c-7012-4dfd-b8ac-b930e5beb433.png",
+    "file": "figures/slide_65.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 292292
+  },
+  "138868c166fb99cb8f0157cd6fde2c647b41db077954675e39466d42fb7f12b0": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_67----bc8618e2-4955-4883-a15a-1a9fcec60004.png",
+    "file": "figures/slide_67.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 182211
+  },
+  "cd85c1b37285f428bb5ccb0599596fc1f25eb894cd60b2094873f5c9d650044f": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_69----460b46fe-a3a2-46eb-94a5-9fd50fb3d68b.png",
+    "file": "figures/slide_69.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 208661
+  },
+  "3a4ed57fbffd881035dca41161693f97641909711f7d4ea6138dddc9adf2913e": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_71----2e6388c7-9183-4f3b-8267-2c4bd3685d89.png",
+    "file": "figures/slide_71.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 298764
+  },
+  "fcb969e23b4c23ef84f0b2d170abec9d59a140987dbec97383bb957d8d65dbf6": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_72----d4e4c0f4-f0a4-4005-ac64-2c33f6394103.webp",
+    "file": "figures/slide_72.png",
+    "upload_mime": "image/webp",
+    "upload_bytes": 955302
+  },
+  "5e744bb378f4b00fdedf9c6fe2710b71921b260b49237d7dc34eb824c142eed4": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_73----6379d402-7d12-46ca-ab16-d545625c274e.png",
+    "file": "figures/slide_73.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 156647
+  },
+  "718e6954bd7a9766fbcaa099a7840f46de56f6827ad3e432aa3aa8744531c4c9": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_75----33bc2b4a-01e2-47b3-bb2d-192ceb546d48.webp",
+    "file": "figures/slide_75.png",
+    "upload_mime": "image/webp",
+    "upload_bytes": 1241666
+  },
+  "49cb8acdaf83e6c8ac22d5427c212bbb346b878946a6fb215e9fe7718053e515": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_76----2717791e-eebd-4677-84da-71c8f283a490.png",
+    "file": "figures/slide_76.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 189183
+  },
+  "cb466d397d56a612c60af31146b6413461788b2d9e49764bcca3dd0f22f7b5cf": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_77----b1ac3985-f68a-4275-aba0-192806e308fe.png",
+    "file": "figures/slide_77.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 150074
+  },
+  "9ab4e15a6b4708dcf49411c7ec263c380204a1b357eaeef532f56fb2b0f39ae5": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_79----3282840a-12fc-4c06-8d91-6649cff531bf.png",
+    "file": "figures/slide_79.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 174878
+  },
+  "827d815d71243679114a2ddf7af1e689ae534a9995f29f2ef7e3b46c555f7ab0": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_80----08fc4a13-63a4-4d4a-990b-f7bdcde31201.png",
+    "file": "figures/slide_80.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 847216
+  },
+  "bd1a14dbc8b8de60b2b5ea57affc6bc39eb025ff6e1602c6a33ac61545a13f78": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_81----90c674c3-aa1a-4859-9533-0a377fcbfd9a.png",
+    "file": "figures/slide_81.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 191594
+  },
+  "3c2c38033fbf4b80804bdec52d3a03e4eea2afa04f7e20d1be87ee5d312020fe": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_83----f69f454c-e483-4e2a-b937-61487b1f7c7b.png",
+    "file": "figures/slide_83.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 89069
+  },
+  "7abaf2e9c3bca38b26fbda945aaf0ed17c24db57e6d1e98e13c0eea3642293b9": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC10188108_elife-81084-video1_poster----b2ce2b7b-d977-4d0d-9e28-06a99e61548b.jpg",
+    "file": "media/PMC10188108_elife-81084-video1_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 13518
+  },
+  "f45deda41047b02cce5aef26dc00b09173e83ad350960cbf43e491c8e4ae3d1b": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC11217450_41422_2024_956_MOESM12_ESM_poster----c8432eed-1b1a-4e90-991f-2139c46b5c72.jpg",
+    "file": "media/PMC11217450_41422_2024_956_MOESM12_ESM_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 274895
+  },
+  "6a65843e3ac379ab1363dc071ef5c2cd6d6e97eef79fa14794977f9f2d364718": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC11217450_41422_2024_956_MOESM13_ESM_poster----cc3119c3-3132-4688-ac9e-358770325e96.jpg",
+    "file": "media/PMC11217450_41422_2024_956_MOESM13_ESM_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 33494
+  },
+  "ccea55b2cbf9c2913cc805d676cae8381d77ec1eee15f6ec72c9db2bbfbc1ccb": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC11828481_elife-98280-video1_poster----a460debd-2d71-4039-9e49-298c2b096f20.jpg",
+    "file": "media/PMC11828481_elife-98280-video1_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 104021
+  },
+  "4988d7ae975fd2474f8823935b80edfb34b662fdbb575a949092e868174f9ece": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC4515473_elife07643v002_poster----f6ab5048-8e83-4109-908a-e9e1a559eaec.jpg",
+    "file": "media/PMC4515473_elife07643v002_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 6156
+  },
+  "9ee4893fde033fe7091e39c08edfc16cd506da2658509c295f6983bfaa88f6ba": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC5114016_elife-17267-media1_poster----089b8952-844a-47c1-b334-cb75e739a282.jpg",
+    "file": "media/PMC5114016_elife-17267-media1_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 89490
+  },
+  "1c3f65a8322fb217eb847b8bf1d9aaa809c095bf3ad7bf195c6fd82b3aada1d3": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC5114016_elife-17267-media2_poster----f93b7e46-1731-49ac-bc78-09228c64fa47.jpg",
+    "file": "media/PMC5114016_elife-17267-media2_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 73405
+  },
+  "8cff4cdca4f0a3e34a0251a00e489d226991347e928404f01d7cfb59a5081bf2": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC5648528_elife-26519-video1_poster----30cf1f30-98ba-4899-a6d3-625ed926449b.jpg",
+    "file": "media/PMC5648528_elife-26519-video1_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 77807
+  },
+  "45e3d3e2565a4e154523ada1d67d9aeab17b12edb01ec2bfa58694fa3be263b5": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC5747517_elife-24779-fig2-video1_poster----3e555445-b55b-42d5-8519-5201b4ddb511.jpg",
+    "file": "media/PMC5747517_elife-24779-fig2-video1_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 41443
+  },
+  "09a5ce088f28bef9e550a6d4ca346f837df7fce6ac57916bbe145fd6271600d4": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC5747517_elife-24779-fig2-video2_poster----74636ed9-a15c-47f5-89e4-94cb9ef7f6c9.jpg",
+    "file": "media/PMC5747517_elife-24779-fig2-video2_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 17973
+  },
+  "4733d9aab3319a050238e59d9d6a0f27bfac26eb199494c24fa02eeed059b6c6": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC5834245_elife-33220-video1_poster----1806a58b-1507-419f-ba1d-c6336dbb4c04.jpg",
+    "file": "media/PMC5834245_elife-33220-video1_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 79659
+  },
+  "f068214d787c85b9d43b8884c8f4437d6d502e0c53a609aeb7889b9c4d82049a": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC5834245_elife-33220-video5_poster----d419820c-91d3-446f-94e1-e8afdd9c4899.jpg",
+    "file": "media/PMC5834245_elife-33220-video5_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 13124
+  },
+  "78d1ec531a1892ad2eaa4d4e41c68c545e63aee22a6d434b73c0aad5fbcbfc65": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC6435325_elife-39777-video1_poster----d76d0c8d-988b-4db1-b686-d234065fea0d.jpg",
+    "file": "media/PMC6435325_elife-39777-video1_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 121007
+  },
+  "26886bfdc4540f34ae235e83f22bb0206dc3e171470cab85c00f514dfcf581de": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC6435325_elife-39777-video2_poster----77679e73-9c80-4c71-bba8-4ee48d090768.jpg",
+    "file": "media/PMC6435325_elife-39777-video2_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 243699
+  },
+  "c6b3009e973256a6a649a475c5b788780f112b998ba35afbbb031b030921f3d9": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC6435325_elife-39777-video3_poster----78257905-4585-46d9-9f8b-7d927ba3796e.jpg",
+    "file": "media/PMC6435325_elife-39777-video3_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 143475
+  },
+  "7068e814de2a0c2dadd87d311b80d7555b917cef813330bdde7009b008126cfd": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC6703899_elife-48311-video1_poster----6a581431-5602-4707-aa0d-687f22c47bbe.jpg",
+    "file": "media/PMC6703899_elife-48311-video1_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 13831
+  },
+  "196ef4573a31be94b344589a77033bcdca450ee5de12476babc064314ff74e2a": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC6703899_elife-48311-video2_poster----7ce881c2-e8c0-4119-8cd4-994178fc9f2b.jpg",
+    "file": "media/PMC6703899_elife-48311-video2_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 53297
+  },
+  "0495616c9ffc7a26ed3803ed2bace2653ff75cbe9d39d54e250e6ce53a6312cc": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC6703899_elife-48311-video3_poster----a526e247-7ac1-40fd-8401-c953284e9ecd.jpg",
+    "file": "media/PMC6703899_elife-48311-video3_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 116961
+  },
+  "f6fc27992f7a80457896ef804fe403ad46bd6d05445ed97a150633c5902c4255": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC6703899_elife-48311-video4_poster----5e1d0547-dca2-4c8b-ae26-66bc4df9070c.jpg",
+    "file": "media/PMC6703899_elife-48311-video4_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 116790
+  },
+  "39ee23e075669982262177d7387912912614bc541d62a1d86f5ed7c96baee6a4": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC7012598_elife-52343-video1_poster----85dbb3c0-f948-4e80-b4ef-32380305cfb5.jpg",
+    "file": "media/PMC7012598_elife-52343-video1_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 66258
+  },
+  "b3399242d22b78ba9fa15589e1797c89cb966b4f84ea0437e04c60afa7cd1b34": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC7609064_elife-60853-video1_poster----4930d297-e689-4563-a681-41b70ff41e43.jpg",
+    "file": "media/PMC7609064_elife-60853-video1_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 44766
+  },
+  "b70991e94567733d4aefef123e5bd9e36d488c6232c206f18984eac83001eca9": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC7758068_elife-62071-video2_poster----a77b6d5a-83e7-479f-ae1a-c7a70444600d.jpg",
+    "file": "media/PMC7758068_elife-62071-video2_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 135998
+  },
+  "c8be86f22e97587d0cfe569c5f8db75a0707177e88535691ae17a2583be14be4": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC7758068_elife-62071-video3_poster----31d36d38-942f-415a-aa59-81a6591dbc3a.jpg",
+    "file": "media/PMC7758068_elife-62071-video3_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 139980
+  },
+  "818846dc39875d0f8dbe1ecba4aa71571725608f683fdf8acc662115c1770902": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC7968927_elife-63329-video1_poster----7959ee5f-23d3-4b8d-8866-ef141fadef25.jpg",
+    "file": "media/PMC7968927_elife-63329-video1_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 19795
+  },
+  "2bac8977bc7304d553d04d19fbb554db7112f4f4480ce30643701a29a6967d61": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC7968927_elife-63329-video2_poster----eb77ce41-047b-48c1-b03d-ad5bcb908913.jpg",
+    "file": "media/PMC7968927_elife-63329-video2_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 42614
+  },
+  "58e715082200021c87ef474a6ef75465bd5081397571d70bf342522c053aec6b": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC7968927_elife-63329-video3_poster----412d323c-1512-4bb7-950d-859e4a24da7c.jpg",
+    "file": "media/PMC7968927_elife-63329-video3_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 21237
+  },
+  "b18a81e8b4a5cf502d4c8ad396fb2d8e9a6b35ce7d88123fbb89c3c30321c517": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC8101055_mmc2_poster----579ad975-d3ec-4495-9aa5-001c415ac197.jpg",
+    "file": "media/PMC8101055_mmc2_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 102694
+  },
+  "a1f449487c85b7185b381c55bc877872ed6bb29e859d9e2d42da0af2f2827969": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC8101055_mmc3_poster----932264e5-8eeb-4a7c-bd79-8a78dece64a6.jpg",
+    "file": "media/PMC8101055_mmc3_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 79772
+  },
+  "06bb51cf8f0a428be67c89a6f8ca9275c4233c7a00a881d805617827ede25580": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC8101055_mmc5_poster----3cfe665c-b76c-4802-8948-a94dfd000c73.jpg",
+    "file": "media/PMC8101055_mmc5_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 88727
+  },
+  "7d00176c41b151af4e0fd8232d3aebae213ec526aa686f4610a9864b1bb5864c": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC8101055_mmc9_poster----1402f628-5160-4284-8d15-80edde8d0e48.jpg",
+    "file": "media/PMC8101055_mmc9_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 99944
+  },
+  "64d52163f0a4556afe2df552071bd5fca342f42bc3fe32c2cc4be2ff55fd391c": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC9242645_elife-75769-video1_poster----a506d33a-40ab-4d17-9154-290b4ce631f2.jpg",
+    "file": "media/PMC9242645_elife-75769-video1_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 32599
+  },
+  "1bf12b337bb2f053c9b6459afdf07fe3d8bf62c0a0040dbe9fff8831fbc79fcc": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC9242645_elife-75769-video2_poster----ae99df07-98a2-4f01-8e42-896c71d78516.jpg",
+    "file": "media/PMC9242645_elife-75769-video2_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 28547
+  },
+  "28341dc69d296d546dce4d0aa7e5bc78e00ea809ff676d68f28bb89a67cb881b": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC9270026_elife-74327-video1_poster----b2ff4014-56a9-43a8-99a4-344695ff26ac.jpg",
+    "file": "media/PMC9270026_elife-74327-video1_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 23456
+  },
+  "d9115187a6149614f6f3e6a0d278b67bc9bf302eaffdd0567f60f4aca3a154b6": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC9270026_elife-74327-video2_poster----e00004b9-6d01-41b8-a5a4-8d93cc6ccb5f.jpg",
+    "file": "media/PMC9270026_elife-74327-video2_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 22923
+  },
+  "0235f907fc4240e16a462f8d17a350226fcd7829ec528601aea0bda117383713": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC9388130_pnas2204754119sm01_poster----2ab95354-aee6-4b16-92a2-18d9e746e7fa.jpg",
+    "file": "media/PMC9388130_pnas.2204754119.sm01_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 73848
+  },
+  "77e20a0a9261352e4460137dc85462754d4d7ecda7f6af89eab641ee7f94d5a0": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/PMC9388130_pnas2204754119sm03_poster----64b4a73e-83d1-4b5d-b91f-56d83fa96ecc.jpg",
+    "file": "media/PMC9388130_pnas.2204754119.sm03_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 43960
+  },
+  "582501e2728843a6c8af876aac1054cdb85d8203e5d2644e07ae6adc45b187c4": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/playable_PMC4305081_elife03868v001_poster----7aacc999-5381-41a2-9283-2cf25a8385b3.jpg",
+    "file": "media/playable_PMC4305081_elife03868v001_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 42765
+  },
+  "7e0529b84d0d7b077e175372a91177d6d83c1f9728731ac05890a63977c4b49b": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/playable_PMC4606453_elife07000v001_poster----b1ed6948-17df-4a28-8aca-eea90074a3c4.jpg",
+    "file": "media/playable_PMC4606453_elife07000v001_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 791
+  },
+  "7e92abab01b73daa692e6e5f2531150375a2663c172e8bddba331780fca285ec": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/playable_PMC4606453_elife07000v002_poster----841360a0-a451-4cab-800f-955990369eac.jpg",
+    "file": "media/playable_PMC4606453_elife07000v002_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 639
+  },
+  "2894f61b810dd8a6b5101487dc4406cc6005d4e1e56d3f14b4e7542e63a2ab2e": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/playable_PMC9896879_PNASNEXUS-PNASNEXUS-2022-00175-T-s01_poster----529b1afa-d973-4ca3-80bf-caed867f0da6.jpg",
+    "file": "media/playable_PMC9896879_PNASNEXUS-PNASNEXUS-2022-00175-T-s01_poster.jpg",
+    "upload_mime": "image/jpeg",
+    "upload_bytes": 91479
+  },
+  "6594bdf5be91b9a270534cfb55a4815e5c904a8d539fd1478efb69f43f1d913d": {
+    "url": "https://presenton-public-eu.s3.eu-central-1.amazonaws.com/images/slide_26----c86ec37a-74ef-4d90-baa3-efee811f9da9.png",
+    "file": "figures/slide_26.png",
+    "upload_mime": "image/png",
+    "upload_bytes": 710880
+  }
+}

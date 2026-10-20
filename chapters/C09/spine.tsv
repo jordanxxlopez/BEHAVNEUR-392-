@@ -1,0 +1,84 @@
+1|F|book|9.1|Sleep changes responsiveness while the brain stays active|PMC8101055:1
+2|F|book|9.1|Several signals are needed to identify a sleep stage|
+3|R|PMC8101055|2|An octopus alternates between quiet and active sleep|PMC8101055:3
+4|F|book|table9.1|NREM stages have distinct electrical patterns|
+5|R|PMC9388130|1|Retinal movements occur during a spider's rest|PMC9388130:0
+6|F|book|9.2|Slow waves reflect coordinated changes in cortical activity|
+7|R|PMC5114016|2|A sleep spindle can travel across the cortex|PMC5114016:0
+8|F|book|9.24|REM sleep combines activation with muscle inhibition|
+9|R|PMC5114016|3|Some spindle patterns recur with precise spatial timing|PMC5114016:1
+10|F|book|9.3|Sleep architecture changes across the night|
+11|R|PMC9388130|1|Twitches and retinal movements can occur together|PMC9388130:2
+12|F|book|9.4|Dream reports depend on when a sleeper is awakened|
+13|R|PMC8101055|2|Quiet behavior alone does not establish sleep|PMC8101055:0
+14|F|book|9.20|Sleep pressure and clock time provide different signals|
+15|R|PMC11828481|1|Sleep deprivation changes excitatory synapses|PMC11828481:0
+16|F|book|9.7|Sleep can change how newly learned information is retained|
+17|R|PMC7968927|1|Astrocyte calcium activity changes with behavioral state|PMC7968927:0
+18|F|book|9.9|Adenosine changes the balance between sleep and waking|
+19|R|PMC4305081|1|Activating memory-related fly neurons promotes sleep|PMC4305081:0
+20|R|PMC7081717|1|Zebrafish show more than one neural sleep signature|
+21|R|PMC4305081|5|Inhibition helps shared sleep and memory circuits operate|
+22|R|PMC7968927|3|Astrocyte Gi signaling changes NREM sleep depth|PMC7968927:1
+23|R|PMC7968927|4|Sleep depth and sleep duration can change separately|
+24|R|PMC7968927|6|Astrocyte Gq signaling changes sleep duration|PMC7968927:2
+25|F|book|9.17|Sleep and wake circuits inhibit one another|
+26|R|PMC5648528|1|Serotonin-producing fly neurons reach many brain regions|PMC5648528:0
+27|F|book|9.14|Arousal depends on several chemical systems|
+28|R|PMC4606453|7|A light-only control tests apparent neural responses|PMC4606453:0
+29|F|book|9.12|Locus coeruleus neurons distribute norepinephrine|
+30|R|PMC4606453|7|Hypocretin stimulation recruits locus coeruleus neurons|PMC4606453:1
+31|F|book|9.18|Orexin helps sustain a stable waking state|
+32|R|PMC6435325|1|Hippocampal activity differs across sleep and waking|PMC6435325:0
+33|F|book|9.10|Acetylcholine changes cortical and hippocampal activity|
+34|R|PMC6435325|3|Activating cholinergic neurons changes population activity|PMC6435325:1
+35|F|book|9.11|A transmitter can support different activity patterns|
+36|R|PMC6435325|4|Muscarinic blockade changes hippocampal signals|PMC6435325:2
+37|R|PMC12340670|1|Norepinephrine fluctuations help drive fluid movement|
+38|R|PMC12340670|1|Vascular contractions can move cerebrospinal fluid|
+39|R|PMC11156584|1|Fluid entry and solute clearance are different measurements|
+40|F|book|9.3|Sleep state also changes circulation and body activity|PMC7758068:1
+41|R|PMC12340670|6|A sleep drug can alter vascular and fluid dynamics|
+42|R|PMC7758068|3|REM sleep has a distinctive vascular signature|PMC7758068:2
+43|R|PMC9242645|2|Known simulated waves can test a spindle detector|PMC9242645:1
+44|F|book|9.7|Sleep rhythms organize communication for memory|
+45|R|PMC5834245|1|Young fly larvae alternate between activity and sleep|PMC5834245:0
+46|R|PMC11884783|2|Sleep events align hippocampus, thalamus, and cortex|
+47|R|PMC9242645|4|Widespread spindles change after a memory task|PMC9242645:0
+48|R|PMC11534334|1|Sounds during sleep can reactivate learned material|
+49|R|PMC5834245|6|Early sleep loss reduces neural progenitor division|PMC5834245:4
+50|F|book|9.4|Dreaming involves active perception and altered control|
+51|R|PMC8162929|2|Some lucid dreamers can answer questions during REM|
+52|F|book|9.18|Orexin loss can destabilize boundaries between states|
+53|R|PMC6703899|1|Amygdala activity can be recorded during cataplexy|PMC6703899:0
+54|R|PMC11379823|4|An orexin agonist restores wake-promoting signals|
+55|R|PMC6703899|3|Predator odor acts differently in narcoleptic mice|PMC6703899:1
+56|F|book|9.24|Failure of REM muscle inhibition permits dream enactment|
+57|R|PMC6703899|4|Spontaneous cataplexy recruits a particular neuronal group|PMC6703899:2
+58|F|book|9.3|NREM parasomnias differ from REM dream enactment|
+59|R|PMC6703899|4|Emotion-related cataplexy recruits another activity pattern|PMC6703899:3
+60|F|book|9.20|Insomnia involves disrupted sleep and persistent arousal|
+61|R|PMC7609064|1|Nutrition changes competition between sleep and courtship|PMC7609064:0
+62|F|book|9.1|Sleep apnea repeatedly interrupts breathing and sleep|
+63|R|PMC4515473|1|Sleep deprivation suppresses aggression in fruit flies|PMC4515473:1
+64|F|book|9.25|Circadian rhythms persist without a daily light signal|
+65|R|PMC11217450|1|Thousands of SCN neurons carry diverse calcium signals|PMC11217450:0
+66|F|book|9.27|Retinal signals synchronize the brain's central clock|
+67|R|PMC11217450|4|SCN modules represent different time features|PMC11217450:1
+68|F|book|9.29|Clock proteins create a delayed negative-feedback cycle|
+69|R|PMC5747517|2|Individual clock cells normally keep coordinated rhythms|PMC5747517:0
+70|F|book|9.28|Light can advance or delay a circadian clock|
+71|R|PMC5747517|2|SIK3 loss destabilizes molecular clock coordination|PMC5747517:1
+72|R|PMC8687663|2|Dawn and dusk reshape molecular clock waveforms|
+73|R|PMC9896879|1|A living SCN contains fast and slow calcium rhythms|PMC9896879:0
+74|F|book|9.31|Melatonin communicates the timing of darkness|
+75|R|PMC7012598|2|Protein phosphorylation changes the lifetime of PER2|PMC7012598:0
+76|R|PMC4657156|1|Evening caffeine can delay the human melatonin rhythm|
+77|R|PMC9270026|1|Morning sleep loss produces strong rebound in flies|PMC9270026:0
+78|F|book|9.25|Jet lag and shift work misalign internal and external time|
+79|R|PMC9270026|2|The same sleep loss produces less rebound in the evening|PMC9270026:1
+80|R|PMC11517251|2|Light changes activity across the human hypothalamus|
+81|R|PMC10188108|2|Conflicting time cues can disrupt an animal's rhythms|PMC10188108:0
+82|F|book|9.28|Brain and body clocks coordinate different daily functions|
+83|R|PMC8101055|6|Sleep cycles can repeat within the daily rhythm|PMC8101055:7
+84|F|book|9.20|Measure sleep pressure and clock timing separately|
