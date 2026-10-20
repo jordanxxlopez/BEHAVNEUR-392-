@@ -1,0 +1,75 @@
+{
+  "slides": 80,
+  "content_slides": 78,
+  "book_chapter": 11,
+  "foundation_slides": 31,
+  "research_slides": 47,
+  "primary_figure_slides": 47,
+  "embedded_distinct_mp4s": 40,
+  "academic_recordings": 20,
+  "visual_recordings": 20,
+  "recordings_per_content_quarter": [
+    10,
+    10,
+    10,
+    10
+  ],
+  "maximum_video_free_content_gap": 1,
+  "recordings_in_final_ten_content_slides": 6,
+  "paragraphs": 234,
+  "rendered_paragraphs_passing": 234,
+  "generic_failures": 0,
+  "course_failures": 0,
+  "full_recording_decodes_passed": 40,
+  "original_movie_bytes_retained": 37,
+  "compatibility_conversions": 3,
+  "source_hashes_and_native_resolution_frame_rate_audio_verified": true,
+  "embedded_hashes_relationships_and_timing_verified": true,
+  "all_slides_visually_reviewed": true,
+  "source_figure_panels_reviewed": true,
+  "fonts": [
+    "BAAAAA+ArialMT",
+    "CAAAAA+Arial-BoldMT"
+  ],
+  "static_pdf_multimedia_annotations": 0,
+  "desktop_powerpoint_playback_tested": false,
+  "conversion_checks": [
+    {
+      "file": "media/elife-06633-media9.mp4",
+      "frames": 3090,
+      "source_frames_without_container_timestamp": 0,
+      "timestamp_check": "Every timestamped frame compared relative to first frame; decoded frame count includes frames lacking source container timestamps.",
+      "maximum_relative_frame_timestamp_difference_seconds": 0.0,
+      "native_dimensions_preserved": true,
+      "audio_presence_channels_and_sample_rate_preserved": true
+    },
+    {
+      "file": "media/elife-01385-media2.mp4",
+      "frames": 2959,
+      "source_frames_without_container_timestamp": 1,
+      "timestamp_check": "Every timestamped frame compared relative to first frame; decoded frame count includes frames lacking source container timestamps.",
+      "maximum_relative_frame_timestamp_difference_seconds": 1.00000000458067e-06,
+      "native_dimensions_preserved": true,
+      "audio_presence_channels_and_sample_rate_preserved": true
+    },
+    {
+      "file": "media/elife-01385-media1.mp4",
+      "frames": 3597,
+      "source_frames_without_container_timestamp": 1,
+      "timestamp_check": "Every timestamped frame compared relative to first frame; decoded frame count includes frames lacking source container timestamps.",
+      "maximum_relative_frame_timestamp_difference_seconds": 1.00000000458067e-06,
+      "native_dimensions_preserved": true,
+      "audio_presence_channels_and_sample_rate_preserved": true
+    }
+  ],
+  "pptx": {
+    "filename": "Feeling_and_Acting_Emotion_Chapter_11.pptx",
+    "bytes": 213936424,
+    "sha256": "1d75b4a0c0a4ffa9ddb1fb9a62bfc2dc21df3cb17c5879306b8b7ae7d2fa99d9"
+  },
+  "static_pdf": {
+    "filename": "Feeling_and_Acting_Emotion_Chapter_11_Static.pdf",
+    "bytes": 11552860,
+    "sha256": "2f0e1535bff196fcf88bcf91a75b84852494273aa1b5cf48826fb3aac2a8df8a"
+  }
+}

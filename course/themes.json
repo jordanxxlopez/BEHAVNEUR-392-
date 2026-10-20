@@ -10,7 +10,9 @@
     "7": "sapphire / silver",
     "71": "midnight navy / silver",
     "702": "rosewood / paper white",
-    "8": "carbon gray / paper white"
+    "8": "carbon gray / paper white",
+    "10": "cobalt / white",
+    "11": "charcoal / brick red"
   },
   "palettes": {
     "midnight-silver": {

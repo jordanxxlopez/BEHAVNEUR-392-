@@ -1,0 +1,242 @@
+[
+  {
+    "content_index": 0,
+    "source": "107352",
+    "label": "video1",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 2,
+    "source": "107352",
+    "label": "video2",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 4,
+    "source": "107352",
+    "label": "video5",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 6,
+    "source": "107352",
+    "label": "video3",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 8,
+    "source": "47198",
+    "label": "fig3-video1",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 10,
+    "source": "107352",
+    "label": "video4",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 12,
+    "source": "96344",
+    "label": "fig2-video2",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 14,
+    "source": "96344",
+    "label": "fig3-video3",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 16,
+    "source": "96344",
+    "label": "fig2-video1",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 18,
+    "source": "107352",
+    "label": "video9",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 20,
+    "source": "96344",
+    "label": "fig4-video1",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 21,
+    "source": "96344",
+    "label": "fig3-video1",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 22,
+    "source": "39495",
+    "label": "video1",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 23,
+    "source": "39495",
+    "label": "video2",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 24,
+    "source": "39495",
+    "label": "video3",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 26,
+    "source": "52701",
+    "label": "video3",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 28,
+    "source": "86464",
+    "label": "fig2-video1",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 32,
+    "source": "86464",
+    "label": "fig2-video2",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 36,
+    "source": "63493",
+    "label": "video1",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 38,
+    "source": "63493",
+    "label": "video2",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 40,
+    "source": "52701",
+    "label": "video1",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 42,
+    "source": "52701",
+    "label": "video2",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 44,
+    "source": "52701",
+    "label": "video6",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 46,
+    "source": "52701",
+    "label": "video8",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 48,
+    "source": "87029",
+    "label": "video1",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 50,
+    "source": "87029",
+    "label": "video2",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 52,
+    "source": "carcea",
+    "label": "1",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 54,
+    "source": "carcea",
+    "label": "2",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 56,
+    "source": "carcea",
+    "label": "3",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 58,
+    "source": "64680",
+    "label": "video2",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 60,
+    "source": "marlin",
+    "label": "3",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 62,
+    "source": "carcea",
+    "label": "4",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 64,
+    "source": "64680",
+    "label": "video3",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 66,
+    "source": "carcea",
+    "label": "5",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 68,
+    "source": "carcea",
+    "label": "6",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 70,
+    "source": "carcea",
+    "label": "7",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 72,
+    "source": "carcea",
+    "label": "8",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 74,
+    "source": "carcea",
+    "label": "9",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 76,
+    "source": "carcea",
+    "label": "11",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 77,
+    "source": "carcea",
+    "label": "12",
+    "purpose": "academic"
+  }
+]

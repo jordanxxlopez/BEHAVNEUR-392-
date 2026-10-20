@@ -1,0 +1,16 @@
+"""Crop original uploaded pages, preserving published labels and source colors."""
+import json,subprocess,hashlib
+from pathlib import Path
+import fitz
+ROOT=Path(__file__).resolve().parents[2];D=Path(__file__).resolve().parent
+crops=[('11.1', 4, 89, [0.545, 0.095, 0.945, 0.245]), ('11.2', 4, 90, [0.055, 0.61, 0.46, 0.965]), ('11.3', 4, 90, [0.49, 0.4, 0.9, 0.96]), ('11.4', 4, 91, [0.115, 0.78, 0.94, 0.95]), ('11.5', 4, 92, [0.06, 0.18, 0.89, 0.54]), ('11.6', 4, 92, [0.52, 0.75, 0.86, 0.955]), ('11.7', 4, 95, [0.54, 0.565, 0.95, 0.955]), ('11.9', 4, 97, [0.19, 0.79, 0.83, 0.96]), ('11.11', 4, 98, [0.49, 0.13, 0.88, 0.45]), ('11.13', 4, 99, [0.54, 0.635, 0.94, 0.835]), ('11.14', 4, 101, [0.18, 0.14, 0.87, 0.45]), ('11.15', 4, 102, [0.5, 0.195, 0.88, 0.47]), ('11.16', 4, 104, [0.06, 0.135, 0.89, 0.515]), ('11.17', 4, 105, [0.155, 0.17, 0.9, 0.31]), ('11.18', 4, 105, [0.13, 0.75, 0.93, 0.965]), ('11.19', 4, 107, [0.11, 0.13, 0.95, 0.51]), ('11.20', 4, 109, [0.545, 0.185, 0.94, 0.505]), ('11.21', 4, 110, [0.19, 0.81, 0.79, 0.955]), ('11.22', 4, 111, [0.3, 0.635, 0.77, 0.96]), ('11.24', 4, 112, [0.49, 0.57, 0.885, 0.98]), ('11.25', 4, 113, [0.11, 0.8, 0.535, 0.975]), ('11.26', 4, 113, [0.55, 0.205, 0.94, 0.305]), ('11.27', 4, 114, [0.185, 0.18, 0.76, 0.44]), ('11.28', 4, 114, [0.49, 0.61, 0.89, 0.735]), ('11.29', 4, 116, [0.065, 0.2, 0.44, 0.85]), ('11.30', 4, 116, [0.52, 0.655, 0.87, 0.97]), ('11.31', 4, 117, [0.11, 0.56, 0.51, 0.97]), ('11.32', 4, 118, [0.19, 0.18, 0.755, 0.37]), ('11.33', 4, 120, [0.18, 0.13, 0.77, 0.79]), ('11.34', 4, 121, [0.11, 0.695, 0.45, 0.96]), ('11.33a', 4, 120, [0.18, 0.13, 0.77, 0.37]), ('11.33e', 4, 120, [0.18, 0.65, 0.77, 0.79])]
+crops.append(('11.3a',4,90,[.49,.410,.90,.623]))
+out={}
+for num,part,page,box in crops:
+ pdf=next(Path('/workspace/attachments').glob(f'*/Physiology*Part{part}of6*.pdf'));doc=fitz.open(pdf);obj=doc[page-1];cb=obj.cropbox;mb=obj.mediabox;tb=[(cb.x0+box[0]*cb.width)/mb.width,(cb.y0+box[1]*cb.height)/mb.height,(cb.x0+box[2]*cb.width)/mb.width,(cb.y0+box[3]*cb.height)/mb.height];p=D/'figures'/('book_'+num.replace('.','_')+'.png')
+ subprocess.run(['/workspace/.venvs/behavneur/bin/python',str(ROOT/'tools/crop_figure.py'),str(pdf),str(page),'--dpi','220','--box',*map(str,tb),'-o',str(p)],check=True)
+ printed=page+(172 if part==3 else 250);out[num]={'path':str(p.relative_to(D)),'kind':'textbook','figure_id':num,'pdf_page':page,'printed_page':printed,'part':part,'box':box,'crop_tool_box':tb,'coordinate_basis':'Normalized visible CropBox converted to MediaBox coordinates for crop_figure.py','isbn':'9781292430256','edition':'13th, Global Edition','caption':f'Carlson and Birkett (2022), Fig. {num}, p. {printed}.','source_url':'https://books.google.com/books?vid=ISBN9781292430256','sha256':hashlib.sha256(p.read_bytes()).hexdigest()}
+for key,label in [('11.33a','first two theory rows'),('11.33e','facial feedback row')]:out[key]['figure_id']='11.33';out[key]['caption']='Carlson and Birkett (2022), Fig. 11.33, '+label+', p. 370.'
+out['11.3a']['figure_id']='11.3'
+out['11.3a']['caption']='Carlson and Birkett (2022), Fig. 11.3, selected output branches, p. 340.'
+(D/'textbook_crops.json').write_text(json.dumps(out,indent=2)+'\n')

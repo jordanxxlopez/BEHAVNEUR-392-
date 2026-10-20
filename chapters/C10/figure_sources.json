@@ -1,0 +1,1164 @@
+{
+  "103109:2": {
+    "path": "figures/elife_103109_fig2.png",
+    "title": "Cellular evolution of the hypothalamic preoptic area of behaviorally divergent deer mice",
+    "authors": "Jenny Chen; Phoebe R Richardson; Christopher Kirby; Sean R Eddy; Hopi E Hoekstra",
+    "first": "Chen",
+    "year": "2025",
+    "doi": "10.7554/eLife.103109",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Chen et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Differential abundance of cell types across species and sex. ( A ) Schematic of procedure used to test for differential abundance of cell clusters. ( B ) Barplots of log 2 (fold change) across species ( P. pol  /  P. man , left) and across sex (male/female, right) for each cell cluster. Bars are colored by -log 10 (FDR). ( C ) Boxplots of cell abundances (y-axis) of four cell types differentially abundant across species and ( D ) of two cell types differentially abundant across sex. Cell abundances across samples are normalized using TMM normalization (Methods). Figure 2—source data 1. Related to  Figure 2B .",
+    "original_url": "https://cdn.elifesciences.org/articles/103109/elife-103109-fig2-v1.tif",
+    "sha256": "d56cac9d4b78f7431147399175165268c63745589e6099fcde5f398b346188d1",
+    "width": 2205,
+    "height": 2857,
+    "display_path": "figures/elife_103109_fig2_panels.png",
+    "panel_crop_box": [
+      0.63,
+      0.195,
+      1,
+      0.714
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2205,
+      2857
+    ],
+    "display_sha256": "c2f0a726acbe6ab037bc7dc1b1bd9f83c8b3d7e9ebd49a2c5cd72ca98d5c9789"
+  },
+  "103109:5": {
+    "path": "figures/elife_103109_fig5.png",
+    "title": "Cellular evolution of the hypothalamic preoptic area of behaviorally divergent deer mice",
+    "authors": "Jenny Chen; Phoebe R Richardson; Christopher Kirby; Sean R Eddy; Hopi E Hoekstra",
+    "first": "Chen",
+    "year": "2025",
+    "doi": "10.7554/eLife.103109",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Chen et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 5. Differential gene expression across sex. ( A ) Barplots of the number of sex-biased genes for each cell cluster (bars) in  P. maniculatus  (top) and  P. polionotus  (bottom), colored by female- or male-bias. ( B ) Barplot of the number of female- and male-biased genes aggregated across all cell clusters in  P. maniculatus  (orange),  P. polionotus  (blue), or shared across both species (gray). ( C ) Scatter plots of cell cluster abundance (x-axis) and number of differentially expressed (DE) genes (y-axis) identified in each cell cluster (dots) for  P. maniculatus  (left) and  P. polionotus  (right). Line of best fit (gray line) and 95% confidence interval (gray shading) are shown in each scatter plot.",
+    "original_url": "https://cdn.elifesciences.org/articles/103109/elife-103109-fig5-v1.tif",
+    "sha256": "b69139cb6a8b1a59a320da4c24363997de7ab0b8d630b263b89f5403c78edb13",
+    "width": 2080,
+    "height": 1992
+  },
+  "106347:1": {
+    "path": "figures/elife_106347_fig1.png",
+    "title": "Esr1-dependent signaling and transcriptional maturation in the medial preoptic area of the hypothalamus shape the development of mating behavior during adolescence",
+    "authors": "Koichi Hashikawa; Yoshiko Hashikawa; Brandy Briones; Kentaro K Ishii; Yuejia Liu; Mark Rossi; Marcus L Basiri; Jane Y Chen; Omar Ahmad; Rishi Mukundan; Nathan Johnston; Rhiana Simon; James Soetedjo; Jason Siputro; Jenna McHenry; Richard D Palmiter; David Rubinow; Larry S Zweifel; Garret D Stuber",
+    "first": "Hashikawa",
+    "year": "2026",
+    "doi": "10.7554/eLife.106347",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hashikawa, Hashikawa et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Esr1  in MPOAVgat  Vgat+Esr1+  neurons governs adolescent maturation of sexual behaviors. ( a ) Schematic timeline for behavioral experiments testing the role of Esr1 in MPOA Vgat+Esr1+  during adolescent maturation of mating behaviors in  Slc32a1 Flp :: Esr1 lox/lox  mice (Vgat-Esr1KO), refers to panels  b–h . ( b ) Representative images of viral-reporter and Esr1 expression from Control (left) and Cre (right) groups. Quantification of Esr1 in the MPOA. ( c–e ) Quantitative comparisons of female mice: first vaginal opening (VO) age ( c ), estrous age ( d , left), receptive age ( d , right), number of intromissions received ( e , left), and receptivity ( e , right). ( f–h ) Quantitative comparisons of male mice: balanopreputial separation (BPS) age ( f ), first mount age ( g ), number of mounts ( h , left), and thrusts ( h , right). ( i ) Schematic timeline for behavioral experiments testing the role of Esr1 in MPOA Vglut2+Esr1+  during adolescent maturation of mating behaviors in  Slc17a6 Flp :: Esr1 lox/lox  mice (Vglut2-Esr1KO), refers to panels  j–p . ( j ) Representative images of viral-reporter and Esr1 expression from Control (left) and Cre (right) groups. Quantification of Esr1 in the MPOA. ( k–m ) Quantitative comparisons of female mice: first vaginal opening (VO) age ( k ), estrous age ( l , left), receptive age ( l , right), number of intromissions received ( m , left), and receptivity ( m , right). ( n–p ) Quantitative comparisons of male mice: BPS age ( n ), first mount age ( o ), number of mounts ( p , left), and thrusts ( p , right). Line plots are shown in mean ± SEM and analyzed with a two-way repeated measures ANOVA followed by multiple comparisons. Box plots are shown with box (25%, median line, and 75%) and whiskers and analyzed with unpaired t-test. ***p<0.001, **p<0.01. *p<0.05. Statistical details in Materials and methods.",
+    "original_url": "https://cdn.elifesciences.org/articles/106347/elife-106347-fig1-v1.tif",
+    "sha256": "a8bf12a28b19691234d78043b1aef70b5d048e7c72d630fd94b1d7dc154718ca",
+    "width": 1565,
+    "height": 1978,
+    "display_path": "figures/elife_106347_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.17
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1565,
+      1978
+    ],
+    "display_sha256": "7162765d76d92a85a7e972682c53051c2bd4c61bab58d7b7d8b49b23a1f86484"
+  },
+  "106347:7": {
+    "path": "figures/elife_106347_fig7.png",
+    "title": "Esr1-dependent signaling and transcriptional maturation in the medial preoptic area of the hypothalamus shape the development of mating behavior during adolescence",
+    "authors": "Koichi Hashikawa; Yoshiko Hashikawa; Brandy Briones; Kentaro K Ishii; Yuejia Liu; Mark Rossi; Marcus L Basiri; Jane Y Chen; Omar Ahmad; Rishi Mukundan; Nathan Johnston; Rhiana Simon; James Soetedjo; Jason Siputro; Jenna McHenry; Richard D Palmiter; David Rubinow; Larry S Zweifel; Garret D Stuber",
+    "first": "Hashikawa",
+    "year": "2026",
+    "doi": "10.7554/eLife.106347",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hashikawa, Hashikawa et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 7. Regulation of adolescent transcriptional dynamics via  Esr1  activation in MPOAVgat  Vgat+Esr1+  neurons. ( a ) Schematic illustrating cell type and site-specific deletion of  Esr1  in MPOA using viral vector AAV-frtFlex-Cre in  Slc32a1 Flp :: Esr1 lox/lox  mice, followed by scRNAseq. ( b ) Heatmaps show the scaled average expression (z-score) of Vgat +HA DEGs for Esr1+and hormoneR Low  cells across Esr1KO, GDX, and P50 groups for females (left) and males (right). ( c, d ) UMAP visualization of Vgat +Esr1+ cells and their transcriptional trajectories depicted by a solid black line in females ( c ) and males ( d ). Vgat +Esr1+ cells are color coded by group (left) and pseudotime (right), where progression of time is delineated from dark to bright coloring. ( e, g ) Box plots showing scaled gene expression of Vgat +Esr1+branch enriched genes for each group in female ( e ) and male ( g ) mice. ( f, h ) Box plots showing Vgat +Esr1+ cell placement along pseudotime for each group. ( i, k ) Volcano plot comparing gene expression between late and early trajectories in female ( i ) and male ( k ). Sex-specific and shared gene programs are highlighted (shared: yellow; female-specific: salmon; male-specific: blue). ( j, l ) Box and line plots showing scaled expression of sex-specific and shared enriched genes from early to late trajectories in females ( j ) and males ( l ). Box plots are shown with box (25%, median line, and 75%) and whiskers and analyzed with Kruskal-Wallis H test followed by multiple comparisons test. p-values were Bonferroni corrected. ***p<0.001. Statistical details in Materials and methods. HA-DEG: hormone-associated differentially expressed gene; GDX: gonadectomy; OVX: ovariectomy; ORX: orchiectomy.",
+    "original_url": "https://cdn.elifesciences.org/articles/106347/elife-106347-fig7-v1.tif",
+    "sha256": "3eff70b21752888b058b31b88177926eb5bda44e3ec686ed0ce4716d169b931d",
+    "width": 1942,
+    "height": 2068
+  },
+  "107352:1": {
+    "path": "figures/elife_107352_fig1.png",
+    "title": "Distinct waves of ovarian follicles contribute to mouse oocyte production",
+    "authors": "Qi Yin; Allan C Spradling",
+    "first": "Yin",
+    "year": "2025",
+    "doi": "10.7554/eLife.107352",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Yin and Spradling",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Wave 1 follicles are remodeled prior to peri-puberty. ( A ) Schematic diagrams of fetal and postnatal ovaries at the indicated stages (E = embryonic day; P = postnatal day). Wave 1 follicles, located in the ovarian medulla (below the dashed line), retain bipotential pre-granulosa (BPG, green) cells and develop without delay. In contrast, cortical follicles, which become quiescent primordial follicles (wave 2), undergo replacement of BPGs by epithelial pre-granulosa (EPG, yellow) cells. This replacement is completed by P5. By P21 (3 wk), wave 1 follicles undergo atresia, characterized by oocyte loss. Germ cells/oocytes are shown in blue. Dashed line: medullary–cortical boundary. ( B ) Postnatal follicular developmental timeline: wave 1 antral follicles emerge by 3 wk ( Figure 1—figure supplement 1A–C ); juvenile sexual development (peri-puberty) occurs at 4–5 wk; ovulation takes place around 7–8 wk. ( C ) Annotation of total follicles in P5 and P10 ovaries using Imaris software (gray spheres). Each follicle with a DDX4-positive oocyte was manually counted and labeled using the Imaris spot model. Scale bars: left, 50 µm; right, 70 µm. ( D ) Total follicle counts in P5 and P10 ovaries (mean ± SD;  N  = 3–4). ns, not significant. ( E ) Annotation of wave 1 follicles in P5 and P10 ovaries using Imaris software (gray spheres). Follicles with oocytes larger than 20 µm in diameter, primarily located in the medulla, are classified as wave 1 follicles at the indicated times. Each gray sphere represents one follicle. Scale bars: left, 50 µm; right, 70 µm. ( F ) Wave 1 follicle counts in P5 and P10 ovaries (mean ± SD;  N  = 3–4). ns, not significant. ( G ) 3D projection of the ovary at P14, reconstructed using the Imaris surface model. Scale bars = 50 µm. ( H ) Oocyte volume increase in wave 1 follicles over time (mean ± SD;  N  = 10). (Note: Nuclear volume is excluded, as DDX4 is a cytoplasmic protein.) ****p < 0.0001. ( I ) Representative images of ovaries at 4 and 5 wk. Left (4 wk): arrowheads indicate an atretic follicle with a distorted oocyte and disorganized granulosa cells; arrow indicates a developing healthy secondary follicle. Right (5 wk): arrowheads indicate degrading follicles at various stages; arrow indicates a developing healthy secondary follicle. Scale bars = 100 µm. ( J ) Wave 1 follicle remodeling, indicated by oocyte loss over time (mean ± SD;  N  = 3–4). Oocyte loss begins around 3 wk and continues through 5 wk, accompanied by granulosa cell disorganization and cell death. ns, not significant; **p < 0.01; ****p < 0.0001.",
+    "original_url": "https://cdn.elifesciences.org/articles/107352/elife-107352-fig1-v1.tif",
+    "sha256": "b90606b6c17825f701b5011eff4a4d88f1ebfdc449ea1121a5cd5300b7e90cea",
+    "width": 2205,
+    "height": 3182
+  },
+  "107352:5": {
+    "path": "figures/elife_107352_fig5.png",
+    "title": "Distinct waves of ovarian follicles contribute to mouse oocyte production",
+    "authors": "Qi Yin; Allan C Spradling",
+    "first": "Yin",
+    "year": "2025",
+    "doi": "10.7554/eLife.107352",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Yin and Spradling",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 5. Single-cell RNA sequencing of 2- to 6-wk ovaries. ( A ) UMAP plot of ovaries from 2 to 6 wk, showing 31 initial clusters (c0–c30) represented in different colors. Sequencing data from different ages were merged before being analyzed in Seurat (see Methods for details; see  Source data 1 ). ( B ) Ovarian cells from 2 to 6 wk contribute to almost every cluster in the UMAP plot. O2w: scRNA-seq data from 2-wk ovary. O3w: 3-wk ovary. O4w: 4-wk ovary. O5w: 5-wk ovary. O6w: 6-wk ovary. ( C ) Cell type groups are indicated by colored regions, with their relationship to the numbered initial clusters as shown in ( A ). Granulosa cells: c1, c2, c3, c5, c10, c12, c20, c21, c24, and c30; stromal cells: c0, c4, c7, c8, c9, c13, c17, and c19; theca cells: c16; hematopoietic cells: c23; endothelial cells: c22 and c27; pericytes: c18; smooth muscle cells: c26; epithelial cells: c25 and c28; low UMI clusters: c6, c11, c15, and c29; TBD (to be determined): c14. ( D ) Multi-violin plot of selected marker gene expression across different cell types.  Y -axis: gene names with expression levels normalized for display.  X -axis: cell types.",
+    "original_url": "https://cdn.elifesciences.org/articles/107352/elife-107352-fig5-v1.tif",
+    "sha256": "ed6ebc6dfe6bc75ca6ba6cefdd2ebede1928579dcc5926c25258c7fdc577a95b",
+    "width": 2205,
+    "height": 2584,
+    "display_path": "figures/elife_107352_fig5_panels.png",
+    "panel_crop_box": [
+      0,
+      0.61,
+      0.565,
+      0.96
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2205,
+      2584
+    ],
+    "display_sha256": "758e65f7542b8cc2c79439695a5f5341d59b2cdd84867cb0c82c34d2422e3bb7"
+  },
+  "109215:3": {
+    "path": "figures/elife_109215_fig3.png",
+    "title": "Prolonged oscillating preoptic area kisspeptin neuron activity underlies the preovulatory luteinizing hormone surge in mice",
+    "authors": "Ziyue Zhou; Cheng-Yu Huang; Allan Edward Herbison",
+    "first": "Zhou",
+    "year": "2026",
+    "doi": "10.7554/eLife.109215",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Zhou et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Relationship of rostral periventricular area of the third ventricle kisspeptin (RP3V KISS ) neuron activity to the LH surge on proestrus. ( A, B ) Two representative examples showing the relationship between the increase in GCaMP activity (black) with luteinizing hormone (LH) surge (red) assessed with 2–4 hr tail tip blood samples. Light-off period is represented by gray shaded area.",
+    "original_url": "https://cdn.elifesciences.org/articles/109215/elife-109215-fig3-v1.tif",
+    "sha256": "b0c7c45b4d6e6f02962d7b9a79f882716bb487cb42b51eaf776ff817276201e3",
+    "width": 689,
+    "height": 464
+  },
+  "109215:8": {
+    "path": "figures/elife_109215_fig8.png",
+    "title": "Prolonged oscillating preoptic area kisspeptin neuron activity underlies the preovulatory luteinizing hormone surge in mice",
+    "authors": "Ziyue Zhou; Cheng-Yu Huang; Allan Edward Herbison",
+    "first": "Zhou",
+    "year": "2026",
+    "doi": "10.7554/eLife.109215",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Zhou et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 8. Effects of ovariectomy and estrogen replacement on rostral periventricular area of the third ventricle kisspeptin (RP3V KISS ) neuron activity. Experimental plan is shown at the top with times of photometry recordings highlighted in blue. Representative examples of 22 hr photometry recordings from two female mice (right and left) in ( A ) diestrus, ( B ) one week after ovariectomy (OVX), ( C ) five days after the estradiol implant (OVX+E2), ( D ) on the day of estradiol benzoate injection (OVX+E2+EB), ( E ) at the time of the expected estradiol-induced luteinizing hormone (LH) surge (OVX+E2+EB surge), and for comparison ( F ) in proestrus (before ovariectomy). Light-off period is represented by gray shaded area.",
+    "original_url": "https://cdn.elifesciences.org/articles/109215/elife-109215-fig8-v1.tif",
+    "sha256": "53b1338810d7cb4e3a3530f679488350c82652f1bae2badbea8889a6a90918b2",
+    "width": 1566,
+    "height": 1754,
+    "display_path": "figures/elife_109215_fig8_panels.png",
+    "panel_crop_box": [
+      0,
+      0.67,
+      1,
+      0.798
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1566,
+      1754
+    ],
+    "display_sha256": "02246c6eac1a6765cfe3ed96fb8948127d9143f390c0b3dd64193d934b0b29bc"
+  },
+  "16246:2": {
+    "path": "figures/elife_16246_fig2.png",
+    "title": "High-frequency stimulation-induced peptide release synchronizes arcuate kisspeptin neurons and excites GnRH neurons",
+    "authors": "Jian Qiu; Casey C Nestor; Chunguang Zhang; Stephanie L Padilla; Richard D Palmiter; Martin J Kelly; Oline K Rønnekleiv",
+    "first": "Qiu",
+    "year": "2016",
+    "doi": "10.7554/eLife.16246",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Qiu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.16246.004 Figure 2. Slow excitatory postsynaptic potential (slow EPSP) is frequency and duration dependent. ( A ) Illustration of experimental approach. ( B – C ), Overlay of epifluorescence (YFP) and differential interference contrast (DIC) images during whole-cell recording (pipette tip can be seen) from Kiss1 neurons in ARH ( B ) and AVPV ( C ) brain slices from a Kiss1-Cre::Ai32 mouse (scale bar = 200 µm). ( B , C ) Insets show high power magnification of labeled cells in each area (scale bar = 10 µm). ARH, hypothalamic arcuate nucleus; AVPV, anteroventral periventricular nucleus. ( D ) Confirmation of  Kiss1  expression in YFP-expressing neurons from Kiss1-Cre::Ai32. Representative gel illustrating single-cell RT-PCR identification of  Kiss1  mRNA following whole-cell recording in ChR2-YFP neurons. RNA extracted from the medial basal hypothalamic tissue control (TC) was included as positive (+, with RT) and negative (-, without RT) controls. MM, molecular marker. ( E ) Slow EPSP induced by a 10-s photostimulation (light intensity 0.9 mW and pulse duration, 10 ms) with varied frequencies in the same neuron. The insets show the measurement of slow EPSP after low-pass filtering. 1–5 Hz photostimulation did not induce any post-stimulus depolarization ( arrow ,  middle trace ); but ≥10 Hz stimulation generated a significant post-stimulus depolarization ( double arrow ,  lower trace ). ( F ), Examples of synaptic responses induced by a train of stimuli (0.9 mW, 10 ms pulse-width) delivered at 20 Hz with varied duration in the same Kiss1 ARH  neuron. ( G – H ), Bar graphs summarizing slow EPSP responses induced by a train of stimulation at 10, 20, 30 and 50 Hz with duration of 10 s ( G ) and by a 20 Hz-stimulation delivered at 5, 10 and 15 s ( H ), current-clamped to -70 mV. The slow EPSP was larger when induced by 10-s and 20 Hz photostimulation (one-way ANOVA, effect of treatment, F (3, 53)  = 9.912, p<0.0001 ( G ); F (2, 44)  = 12.69, p<0.0001 ( H ); Newman-Keuls’s Multiple-comparison test, ***, **, * indicates p<0.005, 0.01 and 0.05, respectively. (I–K), Slow EPSP is unique to arcuate Kiss1 neurons. ( I ) Photostimulation induced auto-inhibition in AVPV Kiss1 neuron, ( J ) ARH POMC neuron and ( K ) AgRP neuron from Kiss1-Cre::Ai32, POMC-Cre::Ai32 and AgRP-Cre::Ai32 mice, respectively. ( L ) Light evoked slow EPSP in Kiss1 ARH  neurons was reduced by E2 treatment and varied during the ovulatory cycle. Bar graphs summarizing slow EPSP responses induced by 20 Hz, 10 s photostimulation in slices obtained from diestrous or proestrous females, or OVX females treated with either oil vehicle or E2 that had received injection of AAV-DIO-ChR2:YFP into ARH. Slow EPSP was larger in low estrogen states (one-way ANOVA, effect of treatment, F ( 3, 51 ) = 15.43, p<0.0001; Newman-Keuls’s Multiple-comparison test. ****, ** indicates p<0.001 and 0.01, respectively. DOI:   http://dx.doi.org/10.7554/eLife.16246.004",
+    "original_url": "https://cdn.elifesciences.org/articles/16246/elife-16246-fig2-v1.tif",
+    "sha256": "c6c91646b7ba1d49719ae9eceb348351a8ed8773826b9799d5d0e31a8d9e6418",
+    "width": 1866,
+    "height": 1775
+  },
+  "24080:2": {
+    "path": "figures/elife_24080_fig2.png",
+    "title": "Freezing suppression by oxytocin in central amygdala allows alternate defensive behaviours and mother-pup interactions",
+    "authors": "Elizabeth Rickenbacher; Rosemarie E Perry; Regina M Sullivan; Marta A Moita",
+    "first": "Rickenbacher",
+    "year": "2017",
+    "doi": "10.7554/eLife.24080",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Rickenbacher et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.24080.005 Figure 2. Maternal response is dependent on stage. ( A ) Schematic of experimental design. Rat dams (PP4-6, n=10, PP19-21, n=12) were first exposed with their own pups (ex. PP4-6 pups), reconditioned, and then re-exposed to the threat in the presence of age mismatched pups (PP19-21 pups). ( B ) Box plots show time PP4-6 dams spent (after 1 st odor) behaving towards the threat (left) or pups (right) when in the presence of their own (matched, PP4-6 pups) and in the presence of PP19-21 pups (mismatched). ( C ) Same as in B for PP19-21 dams. ** denotes p<0.01. DOI:   http://dx.doi.org/10.7554/eLife.24080.005",
+    "original_url": "https://cdn.elifesciences.org/articles/24080/elife-24080-fig2-v1.tif",
+    "sha256": "69ce7903498485cf550d66c49c26bd8e1e2fe664e3f1ce6e6b06d183fb028a88",
+    "width": 1544,
+    "height": 950
+  },
+  "31373:3": {
+    "path": "figures/elife_31373_fig3.png",
+    "title": "Oxytocin signaling in the medial amygdala is required for sex discrimination of social cues",
+    "authors": "Shenqin Yao; Joseph Bergan; Anne Lanjuin; Catherine Dulac",
+    "first": "Yao",
+    "year": "2017",
+    "doi": "10.7554/eLife.31373",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Yao et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.31373.008 Figure 3. Aromatase-expressing neurons in the MeApd are the cellular substrate mediating OT signaling in sexual discrimination. ( A ) Virus-mediated ablation of OXTR in the MeA (Upper) and BNST (Bottom) of  Oxtr flox/flox  mice. Illustrations of the MeAp and BNST were adapted from the Paxinos and Franklin mouse brain atlas. The AAV-eGFP and AAV-Cre-eGFP viruses are stereotaxically injected into the MeAp and BNST of  Oxtr flox/flox  male. ( B–D ) Time spent investigating each odor cue, odor preference scores, and total time investigating odor cues of  Oxtr flox/flox  mice with either AAV-eGFP or AAV-Cre-eGFP injection of the MeAp. t test, **p<0.01, ns, not significant. ( E–G ) Effects of OXTR ablation in the BNST on time investigating each odor cue, odor preference scores, and total time investigating odor cues. t test, ***p<0.001, **p<0.01, ns, not significant. ( H ) Virus-mediated expression of OXTR in the MeA and BNST via the AAV-OXTR-IRES-eGFP virus. ( I–N ) Time spent investigating each odor cue, odor preference scores, and total time investigating odor cues of  Oxtr flox/flox  (control) and  Cyp19a1-Cre; Oxtr flox/flox  ( A-Oxtr flox/flox ) mice with MeAp ( I–K ) or BNST ( L–N ) virus injection. t test, ***p<0.001, **p<0.01, *p<0.05.",
+    "original_url": "https://cdn.elifesciences.org/articles/31373/elife-31373-fig3-v2.tif",
+    "sha256": "d1cf65dc254c98e74f6222eefa81a78ea5b718e590a60ff8ba93faf2e2590866",
+    "width": 2329,
+    "height": 2675
+  },
+  "31373:5": {
+    "path": "figures/elife_31373_fig5.png",
+    "title": "Oxytocin signaling in the medial amygdala is required for sex discrimination of social cues",
+    "authors": "Shenqin Yao; Joseph Bergan; Anne Lanjuin; Catherine Dulac",
+    "first": "Yao",
+    "year": "2017",
+    "doi": "10.7554/eLife.31373",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Yao et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.31373.010 Figure 5. Acute pharmacological inhibition of OXTR leads to impaired social interaction preference and altered neuronal response profile in the MeA. ( A–C ) Comparison of times spent in each interaction zone (t test), social preference scores (paired t test) and distance traveled (paired t test) of the subjects ( Oxtr flox/flox ) before and after IP injection of OXTR antagonist (OXTR-A). ***p<0.001, **p<0.01. ( D ) Structure of combined pharmacology and electrophysiology experiments. Sensory responses were determined prior to drug application (~50 min), followed by a 10 min baseline period. Drugs were injected IP, and a second baseline period was collected. Finally, sensory responses were determined after drug application. ( E ) Firing rate (spikes/second) for single units in the absence of sensory stimuli (abscissa: firing rate before antagonist; ordinate: firing rate after antagonist; log scale). ( F ) Responses of a single MeA unit to sensory stimuli before and after the mouse was injected with OXTR-A. For each panel, raster plots indicating the timing of individual action potentials elicited by multiple presentations of the same stimulus (shaded region). Histograms of the mean response and standard error for the same data are shown below each raster plot. Time zero indicates alignment to the start of stimulus presentation. ( G ) Comparison of responses to male, female, and predator stimuli before and after antagonist injection. Grey bars: percentage of single MeA units that responded to each stimulus (nonparametric ANOVA; p<=0.05). Colored bars: percentage of single units that responded most strongly for the indicated stimulus. Asterisks indicate a significant difference in the fraction of responsive units before and after OXTR-A injection (permutation t-test; *p<0.05; **p<0.001) ( H ) Comparison of response strength before and after OXTR-A injection for all single units responding to a given stimulus. Grey points indicate single units with a statistically significant response to the stimulus plotted in each axis. Colored points indicate units with a significant response that was also the strongest response (compared with responses to the other stimuli). Abscissa: (post-pre)/(post + pre) prior to OXTR-A injection. Ordinate: (post-pre) / (post + pre) after OTRA injection. ( I–J ) Selectivity of MeA units to sensory stimuli before ( I ) and after ( J ) OXTR-A injection. Each point represents the sensory responses of an individual unit with at least one significant response to male, female, or predator stimuli.",
+    "original_url": "https://cdn.elifesciences.org/articles/31373/elife-31373-fig5-v2.tif",
+    "sha256": "4508868a9d94471ca4ef91ac839f57de15e9890936920bc4888f774f10009a7b",
+    "width": 1569,
+    "height": 2293
+  },
+  "33676:1": {
+    "path": "figures/elife_33676_fig1.png",
+    "title": "BDNF-TrkB signaling in oxytocin neurons contributes to maternal behavior",
+    "authors": "Kristen R Maynard; John W Hobbs; BaDoi N Phan; Amolika Gupta; Sumita Rajpurohit; Courtney Williams; Anandita Rajpurohit; Joo Heon Shin; Andrew E Jaffe; Keri Martinowich",
+    "first": "Maynard",
+    "year": "2018",
+    "doi": "10.7554/eLife.33676",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Maynard et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.33676.002 Figure 1. Disruption of BDNF from promoters I and II leads to impaired maternal care. ( a ) Schematic of  Bdnf  transcript production. Transcription is initiated from promoters upstream of individual 5’-untranslated regions (UTRs) and spliced to the common coding exon IX. Each transcript produces an identical BDNF protein. ( b ) Design of Bdnf -/- mice using Bdnf-e1 -/- as a representative example. Targeting vectors were designed to insert an enhanced green fluorescent protein (eGFP) upstream of the exon’s splice donor site. Bdnf-e1 -/- mice express a  Bdnf -I-eGFP-STOP- Bdnf  IX transcript leading to the production of GFP in lieu of BDNF. ( c ) Average litter size over time for WT, Bdnf-e1 -/-, and Bdnf-e2 -/- postpartum mothers exposed to the pup retrieval test one day after giving birth. Bdnf-e1 -/- mothers show significant pup loss compared to WT mothers (2-way ANOVA with mixed effect model; p<0.001). ( d ) Average litter size over time for WT and Bdnf-e1 -/- postpartum mothers remaining in the homecage. Bdnf-e1 -/- mothers show significant pup loss compared to WT mothers even in a naturalistic setting (2-way ANOVA with mixed effect model; p<0.001). ( e ) Percentage of postpartum mothers losing their entire litter by postnatal day 3 (P3). Approximately 1/3 of postpartum Bdnf-e1 -/- mothers lose their entire litter by P3 (1-way ANOVA with Bonferroni’s multiple comparisons; p<0.05). ( f ) Proportion of WT, Bdnf-e1 -/- and Bdnf-e2 -/- with different maternal types including parenting (P), disorganized parenting (DP), partial parenting (PP), disorganized partial parenting (DPP), and non-parenting (NP). There is a significant decrease in the proportion of Bdnf-e1 -/- postpartum mothers with parenting behavior compared to WT (one-tailed Mann-Whitney-Wilcoxon rank sum test, p<0.05). Bdnf-e1 -/- postpartum mothers show corresponding elevations in non-parenting behaviors. ( g ) Bar graph depicting nest building behavior before parturition. Bdnf-e1 and -e2 -/- show impaired nest building compared to WT (Kruskal-Wallis test with Dunn’s multiple comparisons, p<0.01). ( h–j ) Latency to first retrieval ( h ) time carrying first pup ( i ) and time nesting with first pup ( j ) during the pup retrieval test. Bdnf-e1 -/- postpartum mothers show increased latency to retrieval, longer time carrying the first pup to the nest, and reduced nesting time with first pup (1-way ANOVA with Bonferroni’s multiple comparisons, p<0.05). Bdnf-e2 -/- postpartum mothers show similar, albeit milder phenotypes. ( k ) Percentage of postpartum mothers successfully retrieving all pups and nesting for at least 2 continuous minutes. Significantly fewer Bdnf-e1 -/- postpartum mothers successfully retrieve pups and continuously nest compared to WT (1-way ANOVA with Bonferroni’s multiple comparisons, p<0.05). ( l ) Bar graph depicting nest building behavior of WT and Bdnf-e1virgins 24 hr prior to pup retrieval test. Bdnf-e1 -/- virgins show impairments in nest building compared to WT virgins (Mann-Whitney test, p<0.05). ( m–o ) Maternal ( m ), abnormal parenting ( n ) and retrieval ( o ) indices for WT and Bdnf-e1 -/- virgins during foreign pup retrieval test. Bdnf-e1 -/- virgin females show reductions in maternal and retrieval indices and a strong trend for increased abnormal parenting (Mann-Whitney tests, p<0.01, p<0.05, and p=0.0529, respectively). ( p ) Proportion of WT and Bdnf-e1 -/- virgin females with different maternal types including parenting ( P ) partial parenting (PP), irregular parenting (IP), non-parenting (NP), and attack (A). There is a significant decrease in the proportion of Bdnf-e1 -/- virgins with parenting behavior compared to WT. Bdnf-e1 -/- virgins show corresponding elevations in attack behavior (one-tailed Mann-Whitney-Wilcoxon rank sum test, p<0.05). Data are means ± SEM. (n = 16 WT postpartum mothers; n = 22 Bdnf-e1 -/- postpartum mothers; n = 17 Bdnf-e2 -/- postpartum mothers; n = 12 WT virgins; n = 12 Bdnf-e1 -/- virgins; *p<0.05, **p<0.01, and p<0.001, #p<0.0001).",
+    "original_url": "https://cdn.elifesciences.org/articles/33676/elife-33676-fig1-v2.tif",
+    "sha256": "6de1c26a896040459f69bf632d7297db4faceaea4bf2d5d216f25f47de9ac5f9",
+    "width": 1519,
+    "height": 1807,
+    "display_path": "figures/elife_33676_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0.17,
+      0.565,
+      0.44
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1519,
+      1807
+    ],
+    "display_sha256": "912f3297da835c75e0a4d9acb4e510e3d4c09a56927ea500161c67752223906e"
+  },
+  "33676:3": {
+    "path": "figures/elife_33676_fig3.png",
+    "title": "BDNF-TrkB signaling in oxytocin neurons contributes to maternal behavior",
+    "authors": "Kristen R Maynard; John W Hobbs; BaDoi N Phan; Amolika Gupta; Sumita Rajpurohit; Courtney Williams; Anandita Rajpurohit; Joo Heon Shin; Andrew E Jaffe; Keri Martinowich",
+    "first": "Maynard",
+    "year": "2018",
+    "doi": "10.7554/eLife.33676",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Maynard et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.33676.006 Figure 3. Loss of TrkB in OXT neurons leads to parenting deficits in postpartum mothers and virgin females. ( a ) Confocal  z -projections of  Oxt  and  Ntrk2  transcripts in brain slices containing the PVN from an adult female visualized with RNAscope in situ hybridization. TrkB transcripts (green) are highly expressed in OXT neurons (red). ( b ) Breeding strategy used to obtain Oxt Cre ; TrkB flox/flox  mice. ( c ) Average litter size over time for TrkB flox/flox  and Oxt Cre ; TrkB flox/flox  postpartum mothers exposed to the pup retrieval test one day post parturition. Mothers lacking TrkB in OXT neurons show normal pup survival compared to control (2-way ANOVA with mixed effect model; p>0.05). ( d ) Latency to first retrieval during pup retrieval test. Oxt Cre ; TrkB flox/flox  postpartum mothers show increased latency to retrieve first pup (Student’s  t -test; p<0.05). ( e ) Number of times postpartum mothers move away from pups without retrieving. Oxt Cre ; TrkB flox/flox  mothers show a strong trend for increased move-aways. ( f ) Proportion of Oxt Cre ; TrkB flox/flox  and control mothers with different maternal types including parenting (P), disorganized parenting (DP), partial parenting (PP), disorganized partial parenting (DPP), and non-parenting (NP). There is no significant change in the proportion of Oxt Cre ; TrkB flox/flox  mothers with parenting behavior compared to control (one-tailed Mann-Whitney-Wilcoxon rank sum test, p>0.05). However, a substantial proportion of Oxt Cre ; TrkB flox/flox  mothers show non-parenting behaviors. ( g ) Maternal index for control and Oxt Cre ; TrkB flox/flox  virgin females during foreign pup retrieval test. Oxt Cre ; TrkB flox/flox  virgin females show a trend for reduced maternal index. ( h ) Proportion of Oxt Cre ; TrkB flox/flox  and control mothers with different maternal types including parenting (P), partial parenting (PP), irregular parenting (IP), non-parenting (NP), and attack (A). There is a significant decrease in the proportion of Oxt Cre ; TrkB flox/flox  virgins with parenting behavior compared to control (one-tailed Mann-Whitney-Wilcoxon rank sum test, p<0.05). Data are means ± SEM. (n = 14 TrkB flox/flox  postpartum mothers; n = 14 Oxt Cre ; TrkB flox/flox  postpartum mothers; n = 8 TrkB flox/flox  virgins; n = 10 Oxt Cre ; TrkB flox/flox  virgins; *p<0.05).",
+    "original_url": "https://cdn.elifesciences.org/articles/33676/elife-33676-fig3-v2.tif",
+    "sha256": "28d1f9b046e1b34a864042a7412f86e2d9e9151e7bcd119defc7c3c0ec0fa413",
+    "width": 1514,
+    "height": 939
+  },
+  "39495:2": {
+    "path": "figures/elife_39495_fig2.png",
+    "title": "Neuropeptide B mediates female sexual receptivity in medaka fish, acting in a female-specific but reversible manner",
+    "authors": "Towako Hiraki-Kajiyama; Junpei Yamashita; Keiko Yokoyama; Yukiko Kikuchi; Mikoto Nakajo; Daichi Miyazoe; Yuji Nishiike; Kaito Ishikawa; Kohei Hosono; Yukika Kawabata-Sakata; Satoshi Ansai; Masato Kinoshita; Yoshitaka Nagahama; Kataaki Okubo",
+    "first": "Hiraki-Kajiyama",
+    "year": "2019",
+    "doi": "10.7554/eLife.39495",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hiraki-Kajiyama et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.39495.005 Figure 2. Sexually dimorphic  npba  expression can be reversed by altering the sex steroid milieu. Temporal changes in  npba  expression in Vs/Vp and PMm/PMg of 11-ketotestosterone (KT)-treated females ( A, B, C ), aromatase inhibitor (AI)-treated females ( D, E, F ), and estradiol-17β ( E2 )-treated males ( G, H, I ) (n = 5 per treatment and sampling day). ( A, D, G ) Number of  npba -expressing neurons in Vs/Vp and PMm/PMg. ***, p<0.001 (versus day 0, Dunnett’s  post hoc  test). ( B, E, H ) Total area of  npba  expression in Vs/Vp and PMm/PMg. *, p<0.05; **, p<0.01; ***, p<0.001 (versus day 0, Dunnett’s  post hoc  test). ( C, F, I ) Representative micrographs showing  npba  expression in Vs/Vp and PMm/PMg. Scale bars represent 50 μm. See also  Figure 2—figure supplement 1  and  Figure 2—figure supplement 2 .",
+    "original_url": "https://cdn.elifesciences.org/articles/39495/elife-39495-fig2-v1.tif",
+    "sha256": "08212d807dd1031124c90791d34c641dd114c3753e698031ff93d4fd57f39da4",
+    "width": 2003,
+    "height": 1458
+  },
+  "39495:7": {
+    "path": "figures/elife_39495_fig7.png",
+    "title": "Neuropeptide B mediates female sexual receptivity in medaka fish, acting in a female-specific but reversible manner",
+    "authors": "Towako Hiraki-Kajiyama; Junpei Yamashita; Keiko Yokoyama; Yukiko Kikuchi; Mikoto Nakajo; Daichi Miyazoe; Yuji Nishiike; Kaito Ishikawa; Kohei Hosono; Yukika Kawabata-Sakata; Satoshi Ansai; Masato Kinoshita; Yoshitaka Nagahama; Kataaki Okubo",
+    "first": "Hiraki-Kajiyama",
+    "year": "2019",
+    "doi": "10.7554/eLife.39495",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hiraki-Kajiyama et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.39495.021 Figure 7. Npba/Npbb/Npbwr2 signaling is involved in female sexual receptivity. ( A ) Various parameters in the mating behavior of  npba / npbb  double knockout ( npba -/- / npbb -/- ) females (n = 31) and  npbwr2  knockout ( npbwr2 -/- ) females (n = 38) were measured and compared with wild-type females (n = 55). Blue, ocher, and beige columns represent wild-type,  npba / npbb  double knockout, and  npbwr2  knockout females, respectively. *, p<0.05; **, p<0.01; ***, p<0.001 (Dunnett’s  post hoc  test for data on number, latency, and duration; Fisher’s exact test for data on percentage). ( B ) The latency data were further analyzed using Kaplan-Meier plots. Blue triangles, ocher diamonds, and beige circles represent wild-type,  npba / npbb  double knockout, and  npbwr2  knockout females, respectively. *, p<0.05; ***, p<0.001 (Gehan-Breslow-Wilcoxon test with Bonferroni’s correction). See  Video 1 ,  Video 2 , and  Video 3 . Supplementary Data List.",
+    "original_url": "https://cdn.elifesciences.org/articles/39495/elife-39495-fig7-v1.tif",
+    "sha256": "70fd9e2ad84ac717aa8961ba0ea8369bcb7d63f4c35cbd2a9b6dd497d522c996",
+    "width": 2015,
+    "height": 1039
+  },
+  "43999:7": {
+    "path": "figures/elife_43999_fig7.png",
+    "title": "Genetic dissection of the different roles of hypothalamic kisspeptin neurons in regulating female reproduction",
+    "authors": "Luhong Wang; Charlotte Vanacker; Laura L Burger; Tammy Barnes; Yatrik M Shah; Martin G Myers; Suzanne M Moenter",
+    "first": "Wang",
+    "year": "2019",
+    "doi": "10.7554/eLife.43999",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wang et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.43999.017 Figure 7. Schematic diagram of estradiol feedback regulation on ERα in AVPV and arcuate kisspeptin neurons in adulthood. Knockdown of ERα in AVPV kisspeptin neurons blunted LH surge but did not alter reproductive cyclicity whereas knockdown of ERα in arcuate kisspeptin neurons disrupted the cyclicity.",
+    "original_url": "https://cdn.elifesciences.org/articles/43999/elife-43999-fig7-v2.tif",
+    "sha256": "e373dbb58988048eccc86a4546d2ef3d335a1aeeb03876e093092c9c427f15ff",
+    "width": 2043,
+    "height": 1404
+  },
+  "47198:3": {
+    "path": "figures/elife_47198_fig3.png",
+    "title": "Defective AMH signaling disrupts GnRH neuron development and function and contributes to hypogonadotropic hypogonadism",
+    "authors": "Samuel Andrew Malone; Georgios E Papadakis; Andrea Messina; Nour El Houda Mimouni; Sara Trova; Monica Imbernon; Cecile Allet; Irene Cimino; James Acierno; Daniele Cassatella; Cheng Xu; Richard Quinton; Gabor Szinnai; Pascal Pigny; Lur Alonso-Cotchico; Laura Masgrau; Jean-Didier Maréchal; Vincent Prevot; Nelly Pitteloud; Paolo Giacobini",
+    "first": "Malone",
+    "year": "2019",
+    "doi": "10.7554/eLife.47198",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Malone et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.47198.006 Figure 3. GnRH migration and olfactory innervation are perturbed in  Amhr2 -/-  mice. ( a ) Schematic representation depicting whole-body iDISCO experiments in E13.5  Amhr2 +/+  and  Amhr2 -/-  embryos. E13.5 embryos ( n  = 2 per genotype) were immunolabelled for Peripherin and GnRH, rendered optically transparent using iDISCO and imaged with a light-sheet microscope (LSM). ( b, c ) Frontal projection of the embryo heads, arrowheads indicate noticeable differences in Peripherin-positive fibers innervating the olfactory bulb (OB). Lateral projection views ( d, e ) showing defective GnRH migration and terminal nerve projections to the ventral forebrain (vFB, arrows). ( f, g ) Higher magnification photomicrographs depicting olfactory axon innervations of the right OB shown in  b  and  c . Dotted circles define the anatomical border of the OB. ( h, i ) 3D rendering of figures in  f  and  g . Arrowheads indicate observed differences in olfactory axon innervation between  Amhr2 +/+  and  Amhr2 -/-  embryos. ( j, k ) 3D rendering of peripherin and GnRH staining observed from a lateral projection in a representative  Amhr2 +/+  and  Amhr2 -/-  embryo. Cx: cortex; VNO: vomeronasal organ. Scale bars: ( b ) 400 μm; ( d ) 300 μm; ( f ) 130 μm.",
+    "original_url": "https://cdn.elifesciences.org/articles/47198/elife-47198-fig3-v1.tif",
+    "sha256": "4adc0a50e9be788c579b72f07612396017ff8528ede24608a8e4fae348d2e903",
+    "width": 2835,
+    "height": 1839
+  },
+  "47198:6": {
+    "path": "figures/elife_47198_fig6.png",
+    "title": "Defective AMH signaling disrupts GnRH neuron development and function and contributes to hypogonadotropic hypogonadism",
+    "authors": "Samuel Andrew Malone; Georgios E Papadakis; Andrea Messina; Nour El Houda Mimouni; Sara Trova; Monica Imbernon; Cecile Allet; Irene Cimino; James Acierno; Daniele Cassatella; Cheng Xu; Richard Quinton; Gabor Szinnai; Pascal Pigny; Lur Alonso-Cotchico; Laura Masgrau; Jean-Didier Maréchal; Vincent Prevot; Nelly Pitteloud; Paolo Giacobini",
+    "first": "Malone",
+    "year": "2019",
+    "doi": "10.7554/eLife.47198",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Malone et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.47198.014 Figure 6. AMH  and  AMHR2  heterozygous mutations in CHH probands. ( a ) Schematic illustration of  AMH  mutations in nCHH and KS probands. ( b ) Pedigrees of patients harboring  AMH  mutations. Circles denote females, squares denote males. The phenotype interpretation is explained in the square legend on the top of the figure. ( c ) The  AMH  mutations affect evolutionarily conserved amino acid residues. Alignment of partial protein sequences of  AMH  orthologs showing in red text the amino acid residues evolutionarily conserved. Purple highlights correspond to variants identified in nCHH probands and orange highlights correspond to variants identified in the KS cohort. ( d ) Schematic of the AMHR2 signal peptide (SP), activin receptor, transmembrane and kinase functional domains along with the p.Gly445_Leu453del variant identified in the cohort. This deletion lies within the catalytic intracellular serine/threonine kinase domain (PKinase) of the receptor. ( e ) Pedigree of the patient harboring the deletion in  AMHR2 . Circles denote females, squares denote males, double diagonal lines indicate divorce, single diagonal line indicates death. The phenotype interpretation is explained in the square legend on the top of the figure. ( f ) Alignment of partial protein sequences of mammalian AMHR2 orthologs flanking the deletion site.",
+    "original_url": "https://cdn.elifesciences.org/articles/47198/elife-47198-fig6-v1.tif",
+    "sha256": "52a5619d11525bb5e3677ac8666841cc4c323dc5b40e15e0914663b272688f72",
+    "width": 4347,
+    "height": 4993,
+    "display_path": "figures/elife_47198_fig6_panels.png",
+    "panel_crop_box": [
+      0,
+      0.235,
+      1,
+      0.458
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      4347,
+      4993
+    ],
+    "display_sha256": "8ed309d07063735020ff5007f4763d78a86c361b58b1afa1e9c00c913fb26739"
+  },
+  "52701:1": {
+    "path": "figures/elife_52701_fig1.png",
+    "title": "Sex-determining genes distinctly regulate courtship capability and target preference via sexually dimorphic neurons",
+    "authors": "Kenichi Ishii; Margot Wohl; Andre DeSouza; Kenta Asahina",
+    "first": "Ishii",
+    "year": "2020",
+    "doi": "10.7554/eLife.52701",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Ishii et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Sex of the target fly influences behaviors triggered by the optogenetic activation of social behavior-promoting neurons. ( A ) Expression of CsChrimson:tdTomato under the control of  dsx GAL4  and  fru FLP  (red in A 1 , black in  A 2,3 ) in a male brain is visualized together with a neuropil marker BRP (blue in A 1 ) by immunohistochemistry. Labeled cell body clusters are enlarged in A 3 . Scale bar: 100 μm ( A 1 ), 10 μm ( A 3 ). ( B ) Mean number of cell bodies per hemibrain visualized by anti-DsRed antibody in male (left) and female (right) brains. ( C ) Schematics of the design of behavioral assays. ( D ) Schematics of the optogenetic stimulation paradigm. Time windows 1–4 represent periods in which behavioral parameters are pooled and calculated in subsequent panels. ( E, G ) Rasters of behaviors (indicated in left) performed by male tester flies that express CsChrimson:tdTomato under the control of  dsx GAL4  and  fru FLP . Pink bar: LED-on periods, horizontal bar: 10 min (also see  D ), vertical bar: 10 flies. LED stimulation condition is indicated at the bottom. ( F, H ): Boxplots of time orienting ( F 1 , H 1 ), lunges ( F 2 , H 2 ), and wing extension ( F 3 , H 3 ) by the tester flies during the time windows 1–4 (see  D ). Testers’ genotypes and pair numbers are indicated below the plots. Gray lines represent single testers. In gray: **p<0.01, n.s. p>0.05 (Kruskal-Wallis one-way ANOVA and post-hoc Wilcoxon signed rank test). In black: **p<0.01, n.s., p>0.05 (Kruskal-Wallis one-way ANOVA and post-hoc Mann-Whitney U-test). Target flies are either wild-type group-housed males ( E, F ) or mated females ( G, H ). ( I ) Comparison of time orienting (I 1 ), lunges (I 2 ), and wing extension (I 3 ) performed by tester flies that express CsChrimson:tdTomato under the control of  dsx GAL4  and  fru FLP  in males (data replotted from  F ,  H ) toward male or female target flies (indicated above). Number of pairs tested and time windows compared are indicated below the panels. **p<0.01 (Mann-Whitney U-test). For detailed methods to quantify behaviors, see Materials and methods.",
+    "original_url": "https://cdn.elifesciences.org/articles/52701/elife-52701-fig1-v1.tif",
+    "sha256": "041e12be5345632f13156e44ba1b8a40f57fe3adfd81f04d7ee3d68d95a3d0d7",
+    "width": 1772,
+    "height": 2113
+  },
+  "52701:5": {
+    "path": "figures/elife_52701_fig5.png",
+    "title": "Sex-determining genes distinctly regulate courtship capability and target preference via sexually dimorphic neurons",
+    "authors": "Kenichi Ishii; Margot Wohl; Andre DeSouza; Kenta Asahina",
+    "first": "Ishii",
+    "year": "2020",
+    "doi": "10.7554/eLife.52701",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Ishii et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 5. P1 a  neurons are distinct from NP2631 ∩ dsx FLP  neurons. ( A, C ) Expression of CsChrimson:tdTomato under the control of  NP2631  and  dsx FLP  (yellow), GCaMP6f under the control of  R15A01-LexA  (green in  A ) or  R71G01-LexA  (green in  C ), and a neuropil marker BRP (blue) in a representative male brain are visualized by immunohistochemistry. Scale bar: 100 μm. An inset represents a magnified view of the posterior cell body cluster in the white rectangle (scale bar: 10 μm). An open arrowhead in  C ) indicates a neural tract from LexA-expressing neurons that appear distinct from the tract from neurons labeled by  NP2631  and  dsx FLP  (white arrowhead). ( B, D ) Mean number of cell bodies per hemibrain with immunohistochemical signal by anti-DsRed antibody (orange), anti-GFP antibody (green), and both antibodies (purple) in brains of the genotype represented in A ( B ) or in C ( D ). In D, all LexA-expressing neurons located near  NP2631  and  dsx FLP  neurons are included, although some may belong to different neuronal clusters. Error bars: S.D. Gray lines represent single hemibrains. ( E–G ) Z-projection of the registered and averaged images of CsChrimson:tdTomato expression under the control of  P1 a -GAL4  (cyan in  E 1 , G , black in  E 2 ), and  NP2631  and  dsx FLP  (orange in  F 1 , G , black in  F 2 ; duplication from  Figure 3H ) neurons. A part of the standard  Drosophila  brain is shown in gray. Number of hemibrains used are indicated in  E 2  and  F 2 .",
+    "original_url": "https://cdn.elifesciences.org/articles/52701/elife-52701-fig5-v1.tif",
+    "sha256": "a4b15ac0458e4e3c5a13a36ec4d637c7ac5d320afe5e64deb770b8164dbd6c29",
+    "width": 2140,
+    "height": 721
+  },
+  "59376:1": {
+    "path": "figures/elife_59376_fig1.png",
+    "title": "Oxytocin modulates human chemosensory decoding of sex in a dose-dependent manner",
+    "authors": "Kepu Chen; Yuting Ye; Nikolaus F Troje; Wen Zhou",
+    "first": "Chen",
+    "year": "2021",
+    "doi": "10.7554/eLife.59376",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Chen et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Experimental procedure and design. ( A ) Schematic illustration of a trial in the gender identification task. Each trial began with a 500 ms fixation cross, followed by a dynamic point-light walker (PLW) presented for 500 ms (0.5 walking cycle). Participants then pressed one of two buttons to indicate whether it was a male or a female walker. The physical gender of the PLW was denoted by a Z score and ranged in seven equal steps from feminine (−0.45 SD) to masculine (0.45 SD) with the center (0) individually adjusted to approximately perceived gender neutrality in the absence of drug treatment and olfactory stimulus. ( B ) Participants’ gender judgments for PLWs were fitted with a psychometric function that contained two parameters: point of subjective equality (PSE) and difference limen. The PSE is the physical gender of a PLW (Z value) that corresponds to a probability of 50% on the fitted psychometric function (gray circle on the x-axis), where the participant perceived the PLW as equally masculine and feminine. The difference limen is half the interquartile range of the fitted function. ( C ) Participants’ PSEs when smelling either chemosignal were compared with those when smelling the carrier control alone (gray circle). A negative PSE shift relative to the carrier control condition (dark gray arrow) corresponds to an overall leftward shift of the psychometric curve and reflects an increased tendency to judge the PLWs as male, hence a masculine bias in gender perception. Conversely, a positive PSE shift (light gray arrow) indicates a feminine bias in gender perception. All curves here are hypothetical. ( D ) Experiments 1 and 2 tested heterosexual and homosexual men, respectively. Drug treatment (60 µg atosiban, 24 IU oxytocin, 24 IU vasopressin) served as a between-subjects factor whereas olfactory condition (androstadienone, estratetraenol, carrier control) served as a within-subjects factor. Participants performed the experimental blocks of the gender identification task 35 min after nasal drug administration, under the continuous exposure of an olfactory stimulus. ( E ) Experiments 3 and 5 tested high AQ (AQ scores ≥ 25) and low AQ (AQ scores < 25) heterosexual men, respectively. Both drug treatment (no drug, 12 IU oxytocin, 24 IU oxytocin, 12 IU vasopressin, 24 IU vasopressin) and olfactory condition (estratetraenol, carrier control) were manipulated in a within-subjects fashion.",
+    "original_url": "https://cdn.elifesciences.org/articles/59376/elife-59376-fig1-v1.tif",
+    "sha256": "a5f4b66c96b39aba89aabac822be05e264446f6fc0f6cd0e60029dfd5900e0b4",
+    "width": 1411,
+    "height": 1353
+  },
+  "59376:3": {
+    "path": "figures/elife_59376_fig3.png",
+    "title": "Oxytocin modulates human chemosensory decoding of sex in a dose-dependent manner",
+    "authors": "Kepu Chen; Yuting Ye; Nikolaus F Troje; Wen Zhou",
+    "first": "Chen",
+    "year": "2021",
+    "doi": "10.7554/eLife.59376",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Chen et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Central tendencies of androstadienone- and estratetraenol- induced point of subjective equality (PSE) shifts in heterosexual and homosexual men across drug conditions. Each subfigure shows the bivariate distributions of bootstrapped sample means for heterosexual men (1000 cyan dots) and homosexual men (1000 lime dots) plotted against the horizontal and vertical axes representing androstadienone- and estratetraenol-induced PSE shifts, respectively, following the nasal administration of 60 µg atosiban, 24 IU oxytocin, or 24 IU vasopressin. A positive value on either axis indicates a feminine bias, that is, a bias toward perceiving the point-light walkers (PLWs) as more feminine, whereas a negative value indicates a masculine bias, that is, a bias toward perceiving the PLWs as more masculine. Figure 3—source data 1. Experiments 1 and 2. Degrees of gender perception biases induced by chemosensory sexual cues in high AQ and low AQ individuals.",
+    "original_url": "https://cdn.elifesciences.org/articles/59376/elife-59376-fig3-v1.tif",
+    "sha256": "1225396eda1d6d5fa2f4513cfc73d8f3a9a892d21ece430f95e1209415501b9b",
+    "width": 1319,
+    "height": 423
+  },
+  "59436:2": {
+    "path": "figures/elife_59436_fig2.png",
+    "title": "Mother brain is wired for social moments",
+    "authors": "Ortal Shimon-Raz; Roy Salomon; Miki Bloch; Gabi Aisenberg Romano; Yaara Yeshurun; Adi Ulmer Yaniv; Orna Zagoory-Sharon; Ruth Feldman",
+    "first": "Shimon-Raz",
+    "year": "2021",
+    "doi": "10.7554/eLife.59436",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Shimon-Raz et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Maternal condition main effect. Figures representing activations from 3-factorial ANOVA 'maternal condition' main effect (FDR corrected, Cluster threshold 200 voxels) including the cingulate gyrus, bilateral insula, bilateral frontal lobe areas, bilateral STG to TP, bilateral parahippocampal gyrus, bilateral anterior cerebellum, bilateral basal ganglia- putamen, occipital lobe areas and right cuneus. STG, superior temporal gyrus; TP, temporal pole.",
+    "original_url": "https://cdn.elifesciences.org/articles/59436/elife-59436-fig2-v2.tif",
+    "sha256": "f4bc03b39cb2a0ae5000ab0e2eff07dc2f2a0764a49835f283e45f8cdaaaa2b4",
+    "width": 1232,
+    "height": 784
+  },
+  "59436:4": {
+    "path": "figures/elife_59436_fig4.png",
+    "title": "Mother brain is wired for social moments",
+    "authors": "Ortal Shimon-Raz; Roy Salomon; Miki Bloch; Gabi Aisenberg Romano; Yaara Yeshurun; Adi Ulmer Yaniv; Orna Zagoory-Sharon; Ruth Feldman",
+    "first": "Shimon-Raz",
+    "year": "2021",
+    "doi": "10.7554/eLife.59436",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Shimon-Raz et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Significant interaction effects of  Maternal Condition × PBO-OT . ( A ) A significant interaction effect of  Maternal Condition ×  PBO-OT  was found for the maternal network. This was driven by attenuation in brain response to the  social  condition after oxytocin administration. Brain response to the  Unavailable  and  Unresponsive  Maternal conditions did not differ between the two scans. ( B-F ) Interaction effects of  Maternal Condition × PBO-OT  in seven preregistered ROIs of the maternal brain shown for demonstration purposes only. Bars depict Standard error of the mean. OT, Oxytocin; PBO, placebo; PHG, parahippocmpal gyrus; ACC, Anterior cingulate; TP, Temporal pole; VTA, ventral tegmental area.",
+    "original_url": "https://cdn.elifesciences.org/articles/59436/elife-59436-fig4-v2.tif",
+    "sha256": "516c90c83676f3cac3313fb11a3ad48e4ef7a0b286d8331ec8be4e712728513b",
+    "width": 2311,
+    "height": 1512
+  },
+  "64680:3": {
+    "path": "figures/elife_64680_fig3.png",
+    "title": "<i>Urocortin-3</i> neurons in the mouse perifornical area promote infant-directed neglect and aggression",
+    "authors": "Anita E Autry; Zheng Wu; Vikrant Kapoor; Johannes Kohl; Dhananjay Bambah-Mukku; Nimrod D Rubinstein; Brenda Marin-Rodriguez; Ilaria Carta; Victoria Sedwick; Ming Tang; Catherine Dulac",
+    "first": "Autry",
+    "year": "2021",
+    "doi": "10.7554/eLife.64680",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Autry et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. PeFA Ucn3  optogenetic activation in virgin females suppresses parental behavior. ( A ) Setup for optogenetic activation of PeFA Ucn3  neurons in virgin female mice. ( B , left) Cumulative retrieval of pups in virgin females injected with a control virus (n = 15). Friedman statistic (3, 27)  = 41.84 followed by Dunn’s multiple comparisons tests. (Right) Cumulative retrieval of pups in virgin females injected with conditional virus expressing ChR2 (n = 16). Friedman statistic  (3, 24)  = 17.19, followed by Dunn’s multiple comparisons test. ( C ) Latency to retrieve in control (open dots) and ChR2-expressing (blue dots) females across three sessions. Two-way repeated measures ANOVA reveals no main effect of virus treatment F 1-29  = 0.7892, but significant effects of session F 2,58  = 6.181 (p=0.0037) and interaction F 2,58  = 13.42 (p<0.0001). Post-hoc analysis by Bonferroni’s multiple comparisons. ( D ) Duration of parental behaviors displayed by control (open dots) and ChR2-expressing (blue dots) females. Two-way repeated measures ANOVA reveals no main effect of virus F1−29 = 2.721 or session F 2,58  = 1.178, but a significant main interaction effect F 2,58  = 4.747 (p=0.0123) followed by Tukey’s post-hoc analysis. ( E , left) Duration of time spent investigating pups in a single bout across three sessions in control (open dots) versus ChR2 (blue dots) females. Two-way repeated measures ANOVA reveals no significant main effect of virus treatment F 1-29  = 1.637 or session F 2,58  = 0.6324, but a significant interaction effect F 2,58  = 3.746 (p=0.0295). Post-hoc analysis by Tukey’s multiple comparisons test. (Right) Time spent in the nest with pups. Two-way repeated measures ANOVA shows a significant main interaction effect F 2,58  = 3.746 (p<0.03). Post-hoc analysis by Tukey’s multiple comparisons test. ( F ) Number of females displaying parental behaviors across three sessions in control and ChR2 females (accelerated failure regression model with first session as time-point baseline and control as treatment baseline, significant difference between control and ChR2 females in second laser ON session p<0.04). ( G ) Number of females in control or ChR2 groups displaying aggressive behaviors toward pups. ( H , left) Locomotion velocity in control or ChR2 females with or without laser stimulation is not significantly affected. (Right) Aggression toward an adult male intruder is unaffected.",
+    "original_url": "https://cdn.elifesciences.org/articles/64680/elife-64680-fig3-v2.tif",
+    "sha256": "156c1b211a50b456647020998dfc2cd5f240068b67837e35ddeac65667c207b7",
+    "width": 1336,
+    "height": 1658
+  },
+  "64680:9": {
+    "path": "figures/elife_64680_fig9.png",
+    "title": "<i>Urocortin-3</i> neurons in the mouse perifornical area promote infant-directed neglect and aggression",
+    "authors": "Anita E Autry; Zheng Wu; Vikrant Kapoor; Johannes Kohl; Dhananjay Bambah-Mukku; Nimrod D Rubinstein; Brenda Marin-Rodriguez; Ilaria Carta; Victoria Sedwick; Ming Tang; Catherine Dulac",
+    "first": "Autry",
+    "year": "2021",
+    "doi": "10.7554/eLife.64680",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Autry et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 9. Specific projections from PeFA Ucn3  neurons mediate infant-directed neglect and aggression. ( A ) Optogenetic stimulation of PeFA Ucn3  to ventromedial hypothalamus (VMH) fiber terminals. ( B ) Number of females showing parental behavior. ( C , left) Cumulative retrieval of pups is significantly different among groups (Friedman statistic  (3-15)  = 19.57, p<0.0001; n = 9). Dunn’s multiple comparisons test reveals difference between ON vs. ON2 (***) and OFF vs. ON2 (*). (Right) One-way repeated measures ANOVA revealed a significant main effect in investigation bout length F (1, 11)  = 10.12 (p<0.005) among groups. Tukey’s multiple comparisons revealed differences between ON vs. OFF (*) and OFF vs. ON2 (*). ( D , left) Number of females showing pup-directed aggression and (right) percent time displaying aggression show no differences across sessions. ( E , left) Time in the nest with pups and (right) grooming were not altered by PeFA Ucn3  to VMH fiber stimulation. ( F , left) Duration of parental behaviors and (right) latency to retrieve pups were not changed. ( G ) Optogenetic stimulation of PeFA Ucn3  to lateral septum (LS) terminals. ( H ) Number of females showing parental behavior is not affected (n = 10). ( I , left) Cumulative retrieval of pups is suppressed and significantly affected over the course of the experiment analyzed by Friedman test, Friedman statistic  (3-7)  = 10.21 (p<0.0041). Dunn’s multiple comparisons test reveals significant differences in OFF vs. ON2 comparison (*). (Right) One-way repeated measures ANOVA reveals that grooming is significantly reduced over the course of the experiment F 2-16  = 6.368 (p<0.0102). Tukey’s multiple comparisons test reveals significant differences between ON vs. OFF (*) and ON vs. ON2 (*). ( J , left) Number of females showing aggression and (left) time spent aggressive toward pups is not changed. ( K , left) Time in the nest and (right) investigation bout length are not affected. ( L , left) Parental behaviors and (right) latency to retrieve are unaffected. ( M ) Schematic of optogenetic stimulation of PeFA Ucn3  to amygdalohippocampal area (AHi) terminal stimulation. ( N ) Number of females showing parental behaviors was significant reduced between ON vs. ON2 conditions (chi-square p<0.0191). (Right) One-way repeated measures ANOVA revealed reversibly reduced grooming by stimulating of PeFA Ucn3  to AHi axonal terminals F 2,18  = 11.40 (p<0.0006). Tukey’s multiple comparisons test showed differences between ON vs. OFF (**) and OFF vs. ON2 (**). ( O , left) Friedman test reveals that cumulative retrieval of pups is significantly affected (p<0.0095). Dunn’s multiple comparisons shows significant differences between ON vs. ON2 (*). (Right) Time spent in the nest with pups was significantly reduced between ON vs. ON2 conditions (repeated measures ANOVA F 2,14  = 4.297, p<0.0351, followed by Tukey’s post-hoc test). ( P , left) Number of females showing aggressive behaviors toward pups is significantly different between laser ON and laser OFF groups (chi-square test p<0.02; n = 10). (Right) Friedman test reveals a significant difference in the time spent displaying aggressive behavior over the course of the experiment (p<0.0247). ( Q , left) Time spent in the nest with pups was significantly reduced between ON vs. ON2 conditions (repeated measures ANOVA F (2,14)  = 4.297, p<0.0351, followed by Tukey’s post-hoc test) (right) and investigation bout length were unaffected. ( R , left) Duration of parental behaviors and (right) latency to retrieve were unchanged across sessions.",
+    "original_url": "https://cdn.elifesciences.org/articles/64680/elife-64680-fig9-v2.tif",
+    "sha256": "00990c311733193e742ebe20da8ed1b62e68ef89519fb224db3f3f4febbf58f5",
+    "width": 2220,
+    "height": 1718,
+    "display_path": "figures/elife_64680_fig9_panels.png",
+    "panel_crop_box": [
+      0,
+      0.325,
+      1,
+      0.52
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2220,
+      1718
+    ],
+    "display_sha256": "54910d2156172be368549adc94270199b9633efaede1d5028cbbde693923907f"
+  },
+  "80517:3": {
+    "path": "figures/elife_80517_fig3.png",
+    "title": "Prolonged partner separation erodes nucleus accumbens transcriptional signatures of pair bonding in male prairie voles",
+    "authors": "Julie M Sadino; Xander G Bradeen; Conor J Kelly; Liza E Brusman; Deena M Walker; Zoe R Donaldson",
+    "first": "Sadino",
+    "year": "2023",
+    "doi": "10.7554/eLife.80517",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Sadino et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Prolonged separation erodes pair bond transcriptional signatures. ( A ) Opposite-sex and same-sex pairs were paired for 2 weeks prior to a baseline partner preference test. Pairs were then separated for either 48 hours (short-term) or 4 weeks (long-term) prior to collecting fresh nucleus accumbens tissue for RNAseq. Animals in the Remain Paired group are analyzed in  Figure 2  to define the Combined Pair Bond transcriptional signature. ( B ) Baseline partner preference scores of males included in RNA sequencing for the opposite- and same-sex separation groups (one-tailed t-test relative to 50%: opposite-sex T 11 =11.56, p=1.71 X 10 –7 ; same-sex T 9 =6.07, p=1.87 X 10 –4 ). Black dotted line indicates a 50% partner preference score and the grey dotted line indicates 66%. There were no differences in partner preference score between opposite-sex and same-sex separated animals used for RNAseq (two-tailed t-test: T 14.33  = 0.33, p=0.75). ( C ) Transcriptional analysis workflow similar to  Figure 2 . ( D ) Heatmap of the scaled log 2 FoldChange for every gene where short- and long-term separation is compared to the combined pair bond gene signature. ( E ) RRHO using the combined pair bond, short-term separated, and long-term separated ranked transcript lists show that short-term separated animals retain a gene expression pattern concordant with pair bond transcription while there is a dramatic erosion of pair bond gene expression following long-term separation. ( F, G ) Upset plot showing overlap of genes in the UU or DD quadrants of  2F  and  3E  RRHO was determined using a Fisher’s Exact test. The difference between the intersections of the pair-bond:short-term sep. and pair-bond:long-term sep. was used to define the eroded gene lists. ( H, I ) The RRHO gene lists of eroded pair bond genes were used to filter the DESeq heatmap in  2D . Eroded genes from the UU quadrants show upregulation during pair bonding and short-term separation but downregulation after long-term separation ( H ) while the eroded genes from the DD quadrants show the opposite pattern ( I ). ( J, K ) GO and IPA analysis of RRHO quadrant gene lists and pair bond eroded gene lists. Scale represents the –log 10 (p-adjusted) where any non-significant terms are white. ( J ) Glial associated GO terms of the UU quadrants are less significantly represented after separation and are highly significantly represented among the eroded genes. Significant upstream regulators of the eroded genes include Sox2, estrogen receptor, Erbb3, and Ctnnb1. ( K ) Vesicle docking and synapse organization associated GO terms of the DD quadrants are less significantly represented after separation and are more significantly represented among the pair bond eroded genes. Significant upstream regulators of the eroded genes include Hnf4a, Calmodulin, Hdac4, and Adora2a.",
+    "original_url": "https://cdn.elifesciences.org/articles/80517/elife-80517-fig3-v4.tif",
+    "sha256": "3d1ad23139b7c5dec8f01c8de602aa6e9d2ebc18151193611485d765eef0918f",
+    "width": 2327,
+    "height": 2788
+  },
+  "86464:2": {
+    "path": "figures/elife_86464_fig2.png",
+    "title": "Courtship behaviour reveals temporal regularity is a critical social cue in mouse communication",
+    "authors": "Catherine Perrodin; Colombine Verzat; Daniel Bendor",
+    "first": "Perrodin",
+    "year": "2023",
+    "doi": "10.7554/eLife.86464",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Perrodin et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Female mice preferentially approach playbacks of male songs over silence. ( A ) Video frame showing the testing box with a soundproof partition (middle) positioned between two ultrasonic loudspeakers. White outlines show the two ‘speaker zones’ used as regions of interest for quantifying the animal’s position. ( B ) Experimental timeline. ( C ) Tracking of the animal’s position during an example behavioural session, in which a silent baseline period (leftmost panel) is followed by the playback of intact songs from one side contrasted with silence from the other side (coloured panels). Colour saturation indicates time since start of the experimental period of interest. Dark grey outlines indicate the speaker zones. ( D ) Time the animal spent in the speaker zones during the silent baseline period in ( C ). ( E ) Index quantifying the animal’s relative place preference to the left vs right speaker zones during the silent baseline. This index was computed as the difference between the time spent in either speaker zones, normalised by the sum of the time in both speaker zones (see ‘Methods’). A preference index value close to zero indicates no preference to either side. ( F ) Time spent in the speaker zones corresponding to song playback and silence during each song presentation trial (coloured circles). The black circle shows the median of the four sound presentation trials. Error bars: standard error of the mean. ( G ) Preference index in response to the playback of intact songs compared to silence over the course of the example session. The black circle shows the median of the four sound presentation trials. The preference index is the difference between the time in the song playback and the silent speaker zones, divided by the sum of the time in both speaker zones. A positive index value reflects the animal’s preferential approach to the sources of song playback over silence. ( H ) Population summary of female approach response to playback of intact male songs (positive values) over silence (negative). Each circle is the preference index displayed by individual animals in one behavioural session (median of four sound presentation trials). The red circle corresponds to the example session in ( C ) and ( G ). Open circles: sound playback at 58 dB SPL, filled circles: 68 dB SPL. Bar plot shows mean preference index across sessions and 95% confidence interval (CI). One-sample two-tailed  t -test, **p<0.01. ( I ) Temporal profile of approach behaviour over the four sound presentation trials in the example session in ( C ), calculated as the cumulative sum of time in the intact song playback (positively weighted) vs silent (negatively weighted) speaker zone. ( J ) Trial-averaged profile of approach behaviour to song playback in the example session, calculated as in ( I ). ( K ) Population-averaged approach behaviour time course in response to intact mouse songs vs silence, calculated as in ( J ). The dark grey trace indicates the mean of trial-based temporal profiles across all sessions (n = 29). For each session, the median of four sound presentation trials (e.g. black trace in  J ) was normalised to its maximal amplitude. The horizontal black bar indicates time bins during the course of a sound playback trial in which the cumulative approach behaviour significantly deviates from zero (one-sample two-tailed  t -test). ( L ) Normalised temporal profiles of approach behaviour to mouse songs vs silence over the course of four sound presentation trials (x-axis, coloured bars) for each of the behavioural sessions (y-axis, each animal is one line, n = 29), calculated as in ( I ). Sessions (lines) are ordered by the amplitude of their last element. ( F, G, I, J ) Black traces indicate the session average (median) across the four sound presentation trials (coloured traces).",
+    "original_url": "https://cdn.elifesciences.org/articles/86464/elife-86464-fig2-v1.tif",
+    "sha256": "597e3b767a002bdc201c3aef99e65bbb0632604dbf0f88259ced68b6f1879969",
+    "width": 2137,
+    "height": 3526
+  },
+  "86464:3": {
+    "path": "figures/elife_86464_fig3.png",
+    "title": "Courtship behaviour reveals temporal regularity is a critical social cue in mouse communication",
+    "authors": "Catherine Perrodin; Colombine Verzat; Daniel Bendor",
+    "first": "Perrodin",
+    "year": "2023",
+    "doi": "10.7554/eLife.86464",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Perrodin et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Female approach behaviour is not affected by changes to global song structure or the removal of syllable spectro-temporal dynamics. ( A ) Female approach behaviour during simultaneous playback of intact male songs (top) and corresponding randomised syllable sequences (bottom), displayed as in  Figure 2H . Each circle is the preference index displayed by individual animals in one behavioural session (median of four sound presentation trials). Open circles indicate sound playback at 58 dB SPL, filled circles at 68 dB SPL. Bar plot shows mean preference index across sessions, and error bar show 95% confidence interval (CI). One-sample two-tailed  t -test, ns: non-significant, p>0.05. ( B ) Population time course of approach behaviour during the playback of intact (positively weighted) vs randomised songs (negatively weighted), displayed as in  Figure 2K . The dark grey trace indicates the population mean of trial-based temporal profiles across all sessions (n = 21 sessions). For each session, the median of four sound presentation trials (e.g. black trace in  J ) was normalised to the absolute value of its maximal amplitude. At no time bins during the course of a sound playback trial did the cumulative approach behaviour significantly deviate from zero (one-sample two-tailed  t -test, all p>0.05). ( C ) Playback of intact songs (top) contrasted with temporally reversed songs (bottom). ( D ) Typical time course of approach behaviour during the playback of intact (positively weighted) vs reversed songs (negatively weighted). ( E ) Playback of intact songs (top) and sequences of phase-scrambled syllables (bottom). ( F ) Typical time course of approach behaviour during the playback of intact (positively weighted) vs phase-scrambled syllable sequences (negatively weighted). ( G ) Playback of intact songs (top) contrasted with sequences of pure tones (bottom). ( H ) Typical time course of approach behaviour during the playback of intact (positively weighted) vs pure tone sequences (negatively weighted).",
+    "original_url": "https://cdn.elifesciences.org/articles/86464/elife-86464-fig3-v1.tif",
+    "sha256": "82372f0d5cf84939d273c0ba34776c014443ae8f0f4a948dff67b67101179d1f",
+    "width": 2749,
+    "height": 3080,
+    "display_path": "figures/elife_86464_fig3_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.25
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2749,
+      3080
+    ],
+    "display_sha256": "2606b1dfc957ef193fce93a173f137ca48106109aa64c4dad1cec314b9b6d669"
+  },
+  "87029:3": {
+    "path": "figures/elife_87029_fig3.png",
+    "title": "Sexual coordination in a whole-brain map of prairie vole pair bonding",
+    "authors": "Morgan L Gustison; Rodrigo Muñoz-Castañeda; Pavel Osten; Steven M Phelps",
+    "first": "Gustison",
+    "year": "2024",
+    "doi": "10.7554/eLife.87029",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Gustison et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. A brain-wide functional network is active during pair bond formation. ( A ) Map of bonding-associated voxels is shown in coronal sections (rostral to caudal) spanning the vole brain. Brightness indicates significance levels for comparisons of hypothesized and null generalized linear models (GLMs) to predict c-Fos+ cell counts across 189 vole brain samples. For each voxel, an analysis of variance (ANOVA) test was used to compare null and hypothesized GLMs. False discovery rate (FDR)  q -values were computed from the ANOVA results to account for multiple comparisons across voxels (alpha threshold of q = 0.1). Warm colored voxels have higher mean c-Fos+ cell counts in mates ( n  = 94) compared to siblings ( n  = 95) (GLM test statistic for partner type > 0). Cool colored voxels have lower mean c-Fos+ cell counts in mates compared to siblings (GLM test statistic for partner type < 0). ( B ) Identification of significant and mutually exclusive regions of interest (ROIs,  n  = 68 chosen and 824 total ROIs) is shown sorted by anatomical division and  F -statistic. For each ROI, an ANOVA test was used to compare null and hypothesized GLMs. The significance levels of ANOVAs were determined by comparing the observed  F -statistic to its null distribution from shuffled data (10,000 permutations). False discovery rate (FDR)  q -values were computed to adjust for multiple comparisons acros ROIs (alpha threshold of  q  = 0.1). Colored symbols for ROIs match their cluster group assignments in ( C ) and ( D ). ( C ) Hierarchical clustering of chosen ROIs ( n  = 68, permutation tests with FDR  q  < 0.1) is shown alongside pairwise Pearson correlations of c-Fos+ cell counts. Full ROI names are listed in  Supplementary file 4 . ( D ) Multi-dimensional scaling (MDS) coordinate space of the correlations is shown between chosen ROIs ( n  = 68). The most significant ROIs per cluster are labeled with the symbol size scaled by the  F -statistic. Darkness and thickness of connecting lines reflect Pearson correlation coefficients. ( E ) Time course trajectories of total c-Fos+ cell counts are shown for each cluster. Counts per cluster are scaled across samples with means taken for each experiment group ( n  = 11-12 animals/group). Red lines represent mates and blue lines represent siblings (females – lighter, males – darker). In ( C ,  D ,  E ), each cluster group is given a label to summarize the most significant ROIs within it. Cluster group labels include ‘BST’ (bed nucleus of the stria terminalus) in dark purple, ‘AOB’ (accessory olfactory bulb) in light purple, ‘PFC’ (prefrontal cortex) in green, ‘POA-VMH’ (preoptic area, ventromedial hypothalamus) in dark blue, ‘PVH’ (paraventricular hypothalamus) in light blue, ‘Thal’ (thalamus) in red, ’Aud’ (auditory cortex) in light orange, and ‘Amyg’ (amygdala) in dark orange.",
+    "original_url": "https://cdn.elifesciences.org/articles/87029/elife-87029-fig3-v2.tif",
+    "sha256": "cbd38635dc4073b8eea74cdcf7b65dd60f74cc02a644ad61486cd2d0f7242646",
+    "width": 2041,
+    "height": 2313,
+    "display_path": "figures/elife_87029_fig3_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.277
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2041,
+      2313
+    ],
+    "display_sha256": "ac5a6ab09a2f7264b858e56c217e73078fe30352d1465dd947d3210b78a2e075"
+  },
+  "91765:4": {
+    "path": "figures/elife_91765_fig4.png",
+    "title": "Post-ejaculatory inhibition of female sexual drive via heterogeneous neuronal ensembles in the medial preoptic area",
+    "authors": "Kentaro K Ishii; Koichi Hashikawa; Jane Chea; Shihan Yin; Rebecca Erin Fox; Suyang Kan; Meha Shah; Zhe Charles Zhou; Jovana Navarrete; Alexandria D Murry; Eric R Szelenyi; Sam A Golden; Garret D Stuber",
+    "first": "Ishii",
+    "year": "2025",
+    "doi": "10.7554/eLife.91765",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Ishii et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Male ejaculation signal is strongly represented in the MPOA of the female mice. ( A ) Schematic of  in vivo  calcium imaging from medial preoptic area (MPOA) Vgat and Vglut2 neurons. AAVDj EF1a-DIO-GCaMP6s was injected into the MPOA of Vgat-Cre or Vglut2-Cre female mice. A GRIN lens was placed above the MPOA following virus injection. ( B ) Calcium activity was imaged from a female subject during a free moving mating assay with a sexually experienced male partner. ( C ) Representative maximum projected image of the field of view during calcium imaging. Vgat: 87±28 cells, n=6. Vglut2: 68±42 cells, n=4. ( D ) Representative coronal section showing GCaMP6s expression and GRIN lens placement. ( E ) Representative raster plot showing behavior events during the mating assay and a heatmap showing calcium activity from cells imaged during the assay. Behaviors quantified: female-to-male sniffing (Sniff), female self-grooming (Self-groom), male-to-female anogenital sniffing (Ano. sniff), male mounting (Mount), male intromission (Intromission) and male ejaculation (Ejaculation). ( F ) Heatmap showing peri-event calcium activity around behavior onset. Cells are ordered by the average response after male ejaculation. ( G ) Line plot showing average calcium activity around behavior onset. Vgat neurons, blue. Vglut cells, orange. ( H ) Average calcium response magnitude following behavior onset per cell. Vgat-Cre: n=522 cells, Vglut2-Cre: n=271 cells. Sniff: t(791)=6.46, ***p=1.08E-09. Grooming: t(791)=-7.25, ***p=5.89E-12. Male anogenital sniffing: t(791)=6.64, ***p=3.41E-10. Mount: t(791)=0.34, p=1. Intromission: t(791)=-0.32, p=1. Ejaculation: t(791)=4.00, ***p=0.00042. ( I ) Proportion of cells which responded positively or negatively to behavior onset (>2δ). Positive: Sniff; Vgat 29/522 cells vs. Vglut2 1/271 cells, **p=0.00169. Grooming; Vgat 2/522 cells vs. Vglut2 0/271 cells, p=1. Male Anogenital Sniffing; Vgat 9/522 cells vs. Vglut2 0/271 cells, p=0.178. Mount; Vgat 58/522 cells vs. Vglut2 22/271 cells, p=1. Intromission; Vgat 57/522 cells vs. Vglut2 26/271 cells, p=1. Ejaculation; Vgat 184/522 cells vs. Vglut2 35/271 cells, ***p=1.52E-10. Negative: Sniff; Vgat 0/522 cells vs. Vglut2 0/271 cells, no statistic. Grooming; Vgat 5/522 cells vs. Vglut2 0/271 cells, p=0.636. Male Anogenital Sniffing; Vgat 0/522 cells vs. Vglut2 0/271 cells, no statistic. Mount; Vgat 7/522 cells vs. Vglut2 3/271 cells, p=1. Intromission; Vgat 17/522 cells vs. Vglut2 4/271 cells, p=0.831. Ejaculation; Vgat 33/522 cells vs. Vglut2 17/271 cells, p=1. All data are shown as mean ± 95% confidence interval and were analyzed by Student’s t-test with Bonferroni correction ( H ) and chi-square test with Bonferroni correction ( I ).  ∗ p<0.05,  ∗∗ p<0.01, ∗∗∗p<0.001; ns, not significant. Scale bar, 1 mm.",
+    "original_url": "https://cdn.elifesciences.org/articles/91765/elife-91765-fig4-v1.tif",
+    "sha256": "4e18ed727836190ea3f93ee91c88620b16be4ff93330d82a485f5272e4c86fb0",
+    "width": 2205,
+    "height": 2710
+  },
+  "91765:7": {
+    "path": "figures/elife_91765_fig7.png",
+    "title": "Post-ejaculatory inhibition of female sexual drive via heterogeneous neuronal ensembles in the medial preoptic area",
+    "authors": "Kentaro K Ishii; Koichi Hashikawa; Jane Chea; Shihan Yin; Rebecca Erin Fox; Suyang Kan; Meha Shah; Zhe Charles Zhou; Jovana Navarrete; Alexandria D Murry; Eric R Szelenyi; Sam A Golden; Garret D Stuber",
+    "first": "Ishii",
+    "year": "2025",
+    "doi": "10.7554/eLife.91765",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Ishii et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 7. Activation of a subpopulation of medial preoptic area (MPOA) labeled following mating is sufficient to suppress female sexual behavior. ( A ) Schematic of selective labeling of MPOA neurons using TRAP2. AAV5 EF1a-DIO-hM3Dq-mCherry or AAV5 EF1a-DIO-eYFP as control was injected into the MPOA of the female TRAP2 subjects. After incubation of the virus, the female subjects went through procedures to targeted recombination in active populations method (TRAP) cells in MPOA (further described in  C ). ( B ) Schematic of pharmaco-genetic activation of MPOA neurons during a female self-paced mating assay. Female subjects were primed with hormone before the experiment day. On the experiment day, subjects were injected i.p. with clozapine-N-oxide (CNO) to activate TRAP cells, or saline as control. 30 min after the injection, the male partner was placed into the apparatus and the animal behavior was recorded for 2 hr. ( C ) After incubation of the virus, the female subjects were administered with hormones, then received an ejaculation from the male partner or only interacted without mating. Immediately after, the subjects were administrated with 4-hydroxytamoxifen (4-OHT). ( D ) Representative image showing TRAP cells MPN from post-ejaculatory-eYFP, appetitive-hM3Dq and post-ejaculatory-hM3Dq group. Further histological analysis is shown in  Figure 7—figure supplement 1 . Scale bar, 100 μm. ( E ) Raster plots of time spent in the interaction zone the female self-paced mating assay (post-ejaculatory-eYFP: gray. appetitive-hM3Dq: green, consummatory-hM3Dq: blue, post-ejaculatory-hM3Dq: orange). ( F ) Number of zone transitions per 10 min. Post-ejaculatory-hM3Dq; *p=0.03125. Post-ejaculatory-eYFP; p=1. Appetitive-hM3Dq; p=0.875. Consummatory-hM3Dq; p=0.0625. ( G ) Average time in isolation zone. Post-ejaculatory-hM3Dq; *p=0.03125. Post-ejaculatory-eYFP; p=1. Appetitive-hM3Dq; p=0.875. Consummatory-hM3Dq; p=0.125. ( H ) Number of female-to-male sniff. Post-ejaculatory-hM3Dq; p=0.11197. Post-ejaculatory-eYFP; p=0.375. Appetitive-hM3Dq; p=1. Consummatory-hM3Dq; p=0.4594. ( I ) Number of female self-grooming. Post-ejaculatory-hM3Dq; p=0.0625. Post-ejaculatory-eYFP; p=1. Appetitive-hM3Dq; p=1. Consummatory-hM3Dq; p=0.552. ( J ) Number of male mount. Post-ejaculatory-hM3Dq; p=0.0625. Post-ejaculatory-eYFP; p=0.875. Appetitive-hM3Dq; p=1. Consummatory-hM3Dq; p=1. ( K ) Number of male intromission. Post-ejaculatory-hM3Dq; *p=0.03125. Post-ejaculatory-eYFP; p=0.625. Appetitive-hM3Dq; p=1. Consummatory-hM3Dq; p=0.2716. ( L ) Receptive score (number of mount episodes with intromissions/number of all mount episodes). Post-ejaculatory-hM3Dq; p=0.03125. Post-ejaculatory-eYFP; p=1. Appetitive-hM3Dq; p=0.625. Consummatory-hM3Dq; p=0.2716. ( M ) Schematic illustration summarizing how MPOA neurons suppress female sexual motivation after male ejaculation. All data are shown by thin lines for individual subjects and thick lines for mean. The data were analyzed by Wilcoxon rank sum test with Bonferroni correction ( F–L ). post-ejaculatory-eYFP: n=6, appetitive-hM3Dq: n=7, consummatory-hM3Dq: n=8. post-ejaculatory-hM3Dq: n=8.  ∗ p<0.05,  ∗∗ p<0.01, ∗∗∗p<0.001; ns, not significant.",
+    "original_url": "https://cdn.elifesciences.org/articles/91765/elife-91765-fig7-v1.tif",
+    "sha256": "d5a61565f0eda4e8fedb9c24b4ddf12b58c55c0f7247cc2c74f8f17295c68652",
+    "width": 2205,
+    "height": 1622
+  },
+  "92200:1": {
+    "path": "figures/elife_92200_fig1.png",
+    "title": "Comparative neuroimaging of sex differences in human and mouse brain anatomy",
+    "authors": "Elisa Guma; Antoine Beauchamp; Siyuan Liu; Elizabeth Levitis; Jacob Ellegood; Linh Pham; Rogier B Mars; Armin Raznahan; Jason P Lerch",
+    "first": "Guma",
+    "year": "2024",
+    "doi": "10.7554/eLife.92200",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    },
+    "legend": "Figure 1. Effects of sex on total tissue volume (TTV) in humans and mice. Distributions of TTV are shown for the effects of sex in humans ( A ) and mice ( B ). Data are represented using individual points, boxplot, and half-violin plot. Linear model used to test for sex differences in each species (correcting for age in both species, Euler number in humans, and background strain in mice) ***p<0.0001 . M=male, F=female.",
+    "original_url": "https://cdn.elifesciences.org/articles/92200/elife-92200-fig1-v1.tif",
+    "sha256": "782c6509943ee67949797c9bc508d19b9cf22f74f83d59138a9456646b51bab7",
+    "width": 2005,
+    "height": 695
+  },
+  "92200:3": {
+    "path": "figures/elife_92200_fig3.png",
+    "title": "Comparative neuroimaging of sex differences in human and mouse brain anatomy",
+    "authors": "Elisa Guma; Antoine Beauchamp; Siyuan Liu; Elizabeth Levitis; Jacob Ellegood; Linh Pham; Rogier B Mars; Armin Raznahan; Jason P Lerch",
+    "first": "Guma",
+    "year": "2024",
+    "doi": "10.7554/eLife.92200",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    },
+    "legend": "Figure 3. Sex differences in the variability of regional brain volumes (accounting for TTV differences) in humans and mice. Distribution of z-scored total brain volume measures across all humans ( A ) and mouse subjects ( B ). Uncorrected ( P <0.05; left) and significant (q<0.05; right) sex differences in variability (based on Levene’s test) shown on the human brain. Uncorrected ( P <0.05) sex differences in variability in the mouse brain (purple = more variable in males; green = more variable in females). Note: all regional human volumes were residualized for TTV, age, and Euler, while regional mouse volumes were residualized for TTV, age, and background strain; n for humans = 516F/454M, n for mice = 213F/216M. Levene’s test for equality of variances used to test for sex differences in variance (corrected for age and TTV in both species, Euler number in humans, and background strain in mice). P-values were corrected with FDR to derive q-values.",
+    "original_url": "https://cdn.elifesciences.org/articles/92200/elife-92200-fig3-v1.tif",
+    "sha256": "46f5f299c9871993377c203ea17c8799d26048615b6a9d2ee9763a648524b506",
+    "width": 2299,
+    "height": 3300
+  },
+  "96344:3": {
+    "path": "figures/elife_96344_fig3.png",
+    "title": "The satiety hormone cholecystokinin gates reproduction in fish by controlling gonadotropin secretion",
+    "authors": "Lian Hollander-Cohen; Omer Cohen; Miriam Shulman; Tomer Aiznkot; Pierre Fontanaud; Omer Revah; Patrice Mollard; Matan Golan; Berta Levavi-Sivan",
+    "first": "Hollander-Cohen",
+    "year": "2024",
+    "doi": "10.7554/eLife.96344",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hollander-Cohen et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Gonadotropin-releasing hormone (GnRH) induces a synchronized increase of calcium in all luteinizing hormone (LH) cells and partial increase in follicle-stimulating hormone (FSH) cells. ( A ) Top: Image of a dissected head with pituitary exposed from the ventral side of the fish used for the ex vivo assays (OB, olfactory bulb; OC, optic chiasm; PIT, pituitary; TH, thalamus; MO, medulla oblongata). Bottom: A diagram describing the ex vivo setup with a constant flow of artificial cerebrospinal fluid (ACSF), a side tube to inject stimuli, and a collecting tube. ( B ) A representative analysis of basal calcium activity of LH and FSH cells. The left panel is a heatmap of calcium traces (ΔF/F), where each line represents a cell, with the mean calcium trace on top, the separated line at the bottom of each heatmap is the calcium trace of the chosen region of interest (ROI). The color-coded data points on the right are superimposed on the imaged cells and represent the maximum cross-correlation coefficient between a calcium trace of an active chosen ROI to those of the rest of the cells in the same population, the matrix on the right represent the maximum cross-correlation coefficient values between all the cells (see  Figure 3—figure supplement 2  for additional cell activity parameters, scale bar = 20 µm). ( C ) An analysis of calcium response to GnRH stimulation in two representative imaging sessions, fish 1 where both LH and FSH cells respond, and fish 2 where only LH respond. (see  Figure 4—figure supplement 1  for detailed coefficient values distribution in each fish, scale bar = 20 µm). ( D ) The mean of max cross-correlation coefficient values in each cell type under each treatment (n=10, 3 males, 7 females, one-way ANOVA, ****p<0.0001, see  Figure 4—figure supplement 1A  for cell-specific vlaues). ( E ) The percentage of cells responsive to GnRH stimulus (i.e. coefficient values higher than the 80 percentiles of basal values). Each dot represents one fish (n=10, 3 males, 7 females, unpaired  t -test, ***p<0.001).",
+    "original_url": "https://cdn.elifesciences.org/articles/96344/elife-96344-fig3-v1.tif",
+    "sha256": "18c7ed6862f81c6b2934c50d2023bb0ffc752a66cd8fcaa13119f5c55f725470",
+    "width": 2205,
+    "height": 2519
+  },
+  "96344:4": {
+    "path": "figures/elife_96344_fig4.png",
+    "title": "The satiety hormone cholecystokinin gates reproduction in fish by controlling gonadotropin secretion",
+    "authors": "Lian Hollander-Cohen; Omer Cohen; Miriam Shulman; Tomer Aiznkot; Pierre Fontanaud; Omer Revah; Patrice Mollard; Matan Golan; Berta Levavi-Sivan",
+    "first": "Hollander-Cohen",
+    "year": "2024",
+    "doi": "10.7554/eLife.96344",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hollander-Cohen et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Follicle-stimulating hormone (FSH) cells are directly stimulated by cholecystokinin (CCK). ( A ) Example of calcium analysis of FSH and luteinizing hormone (LH) cells during CCK stimulation: fish1 with only FSH cells responding, and fish2 with FSH and LH cells responding. For each fish, the left panels are a heatmaps of calcium traces (ΔF/F), where each line represents a cell. On top of each heatmap is a graph showing the mean calcium trace, the separated line at the bottom of the heat map is the calcium trace of the chosen region of interest (ROI). On the right are color-coded data points that are superimposed on the imaged cells, showing the maximum cross-correlation coefficient between a calcium trace of a chosen active ROI and those of the rest of the cells in the same population, next to it is a matrix of max cross-correlation coefficients between all the cells. (scale bar = 20 µm) ( B ) The mean of max cross-correlation coefficient values in each cell type (n=7, 4 males, 3 females, one-way ANOVA, ****p<0.0001, see  Figure 4—figure supplement 1B  for detailed coefficient values distribution in each fish). ( C ) The percentage of active cells (i.e. a coefficient value higher than the 80 percentiles of basal levels) during CCK stimulation. Each dot represents one fish (n=7, 4 males, 3 females, unpaired  t -test, *p<0.05).",
+    "original_url": "https://cdn.elifesciences.org/articles/96344/elife-96344-fig4-v1.tif",
+    "sha256": "0ab1970b2589587c40367051bc19a0b7c1ba57d85192c9cfe8abe12a94e08c00",
+    "width": 2205,
+    "height": 1585,
+    "display_path": "figures/elife_96344_fig4_panels.png",
+    "panel_crop_box": [
+      0,
+      0.57,
+      0.59,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2205,
+      1585
+    ],
+    "display_sha256": "6265cd5c22d2cf9b30bc0fe634caddb8c42cd4c3de2eea3dd98c71dfcee9b8a1"
+  },
+  "96543:4": {
+    "path": "figures/elife_96543_fig4.png",
+    "title": "PVN-mPFC OT projections modulate pup-directed pup care or attacking in virgin mandarin voles",
+    "authors": "Lu Li; Yin Li; Caihong Huang; Wenjuan Hou; Zijian Lv; Lizi Zhang; Yishan Qu; Yahan Sun; Kaizhe Huang; Xiao Han; Zhixiong He; Fadao Tai",
+    "first": "Li",
+    "year": "2024",
+    "doi": "10.7554/eLife.96543",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Li et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Oxytocin (OT) release in the medial prefrontal cortex (mPFC) upon pup-directed behaviors. ( a ) Recording instrument settings. ( b ) Illustrations of viral expression and optical fiber location. ( c ) Representative histological image of OT1.0 sensor (green) and optical fiber locations. Blue, DAPI. Objective: ×4. Scale bars, 500 μm. ( d, e ) Area under the curve (AUC) per second for pup-care female ( d ) and male ( e ) voles approaching pups for the first, second, and third time (n = 8). *p<0.05 vs. first. **p<0.01 vs. first. One-way rmANOVA. ( f ) Representative ΔF/F traces in pup-care female ( f , top) and male ( f , bottom) voles during interaction with pups. ( g–k ) Post-event histograms (PETHs) of z-score of OT1.0 sensor for the following pup-directed behaviors: approach ( g ), investigate ( h ), retrieve ( i ), grooming ( j ), and crouch ( k ). ( l, m ) The mean AUC of z-scores for pup-care female ( l ) and male ( m ) voles across various pup-directed behaviors (n = 8). Female: **p<0.01 vs. approach. p<0.01 vs. retrieve. Male: *p<0.05 vs. approach. p<0.05 vs. retrieve. One-way rmANOVA. ( n ) Representative ΔF/F traces in infanticide female ( n , top) and male ( n , bottom) voles during interaction with pups. ( o, p ) PETHs of z-score of OT1.0 sensor for approach and infanticide in infanticide voles. ( q, r ) The mean AUC of z-score of OT1.0 sensor for pre-pup exposure, approach, and infanticide in infanticide female ( q ) and male ( r ) voles (n = 8). **p<0.01 vs. infanticide. One-way rmANOVA. Error bars indicate SEM. Figure 4—source data 1. Area under the curve per second for pre-pup exposure, approach, and infanticide behaviors in infanticide voles and area under the curve per second for first, second, and third approaches to pups, as well as pre-pup exposure, approach, investigation, retrieval, grooming, and crouching behaviors in pup-care voles.",
+    "original_url": "https://cdn.elifesciences.org/articles/96543/elife-96543-fig4-v1.tif",
+    "sha256": "aaef678e3171d4ccae67681b70f797992b7799b37c606ad95ed7496ff1e7f247",
+    "width": 2205,
+    "height": 1461
+  },
+  "96543:6": {
+    "path": "figures/elife_96543_fig6.png",
+    "title": "PVN-mPFC OT projections modulate pup-directed pup care or attacking in virgin mandarin voles",
+    "authors": "Lu Li; Yin Li; Caihong Huang; Wenjuan Hou; Zijian Lv; Lizi Zhang; Yishan Qu; Yahan Sun; Kaizhe Huang; Xiao Han; Zhixiong He; Fadao Tai",
+    "first": "Li",
+    "year": "2024",
+    "doi": "10.7554/eLife.96543",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Li et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 6. Effects of optogenetic activation of the paraventricular nucleus (PVN) oxytocin (OT) neuron projection fibers on pup-directed behaviors. ( a ) Schematic of virus injection and optical fiber implantation. ( b ) Schematic diagram of the behavioral test. ( c ) Illustration of optical fiber implantation in the target brain region. ( d ) Representative histological pictures of the fiber position and projection fibers. Blue, DAPI. Objective: ×20. Scale bars, 50 μm. ( e ) Timeline of the experiment. ( f–i ) Changes in approach latency ( f, h ) and infanticide latency ( g, i ) of female ( f, g ) and male ( h, i ) infanticide voles in CHR2 and control mCherry group before and after delivery of light (n = 6). **p<0.01 vs. CHR2 OFF; ***p<0.001 vs. CHR2 OFF. Two-way ANOVA (factors: treatment × stimulus). ( j–n ) Approach latency ( j ), retrieval latency ( k ), grooming time ( l ), sniffing time ( m ), and crouching time ( n ) in control mCherry and CHR2 group of pup-care female voles (n = 6). ( o–s ) Approach latency ( o ), retrieval latency ( p ), grooming time ( q ), sniffing time ( r ), and crouching time ( s ) in control mCherry and CHR2 group of pup-care male voles (n = 6). **p<0.01 vs. CHR2 OFF. Two-way rmANOVA (factors: treatment × stimulus). Error bars indicate SEM. Figure 6—source data 1. Statistical results of the latency to approach and attack pups in infanticide voles, and the latency to approach, retrieve pups, duration of grooming, sniffing, and crouching in pup-care voles.",
+    "original_url": "https://cdn.elifesciences.org/articles/96543/elife-96543-fig6-v1.tif",
+    "sha256": "53441bb5bb0cf4d97739e13fea820a542a21c3e74209796a36f8e8f24a8b5be0",
+    "width": 2205,
+    "height": 2116,
+    "display_path": "figures/elife_96543_fig6_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      0.59,
+      0.4
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2205,
+      2116
+    ],
+    "display_sha256": "b06223eb1b73565a89fae99e48c70b984be84ec3a4b3b89b1a2b707a0726867f"
+  },
+  "97106:1": {
+    "path": "figures/elife_97106_fig1.png",
+    "title": "Brain-derived estrogens facilitate male-typical behaviors by potentiating androgen receptor signaling in medaka",
+    "authors": "Yuji Nishiike; Shizuku Maki; Daichi Miyazoe; Kiyoshi Nakasone; Yasuhiro Kamei; Takeshi Todo; Tomoko Ishikawa-Fujiwara; Kaoru Ohno; Takeshi Usami; Yoshitaka Nagahama; Kataaki Okubo",
+    "first": "Nishiike",
+    "year": "2026",
+    "doi": "10.7554/eLife.97106",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Nishiike et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. cyp19a1b -deficient males exhibit severely impaired male-typical mating and aggressive behaviors. ( A, B ) Levels of E2, testosterone, and 11-ketotestosterone (11KT) in the brain ( A ) and periphery ( B ) of adult  cyp19a1b +/+ ,  cyp19a1b +/− , and  cyp19a1b −/−  males (n=3 per genotype). ( C ) Brain  cyp19a1b  transcript levels in  cyp19a1b +/+ ,  cyp19a1b +/− , and  cyp19a1b −/−  males (n=6 per genotype). Mean value for  cyp19a1b +/+  males was arbitrarily set to 1. ( D ) Setup for testing the mating behavior of  cyp19a1b +/+ ,  cyp19a1b +/− , and  cyp19a1b −/−  males. ( E ) Latency of  cyp19a1b +/+ ,  cyp19a1b +/− , and  cyp19a1b −/−  males (n=18 per genotype) to initiate each mating act toward the stimulus female. ( F ) Setup for testing mating behavior using an  esr2b -deficient female as the stimulus. ( G ) Latency of  cyp19a1b +/+ ,  cyp19a1b +/− , and  cyp19a1b −/−  males (n=16, 16, and 17, respectively) to initiate each mating act toward the  esr2b -deficient female. ( H ) Number of each mating act performed. ( I ) Latency of  cyp19a1b +/+  and  cyp19a1b −/−  males and  cyp19a1b +/+  females (n=15 each) to receive courtship displays from the  esr2b -deficient female. ( J ) Setup for testing aggressive behavior among grouped males. ( K ) Total number of each aggressive act performed by  cyp19a1b +/+ ,  cyp19a1b +/− , and  cyp19a1b −/−  males. Each data point represents the sum of acts recorded for the 4 males of the same genotype in a single tank (n=6, 7, and 6 tanks, respectively). Statistical differences were assessed by Bonferroni’s or Dunn’s post hoc test ( A, B, C, H, K ) and Gehan-Breslow-Wilcoxon test with Bonferroni’s correction ( E, G, I ). Error bars represent SEM. *p<0.05, **p<0.01, ***p<0.001. Figure 1—source data 1. Source data for  Figure 1 .",
+    "original_url": "https://cdn.elifesciences.org/articles/97106/elife-97106-fig1-v1.tif",
+    "sha256": "f7097f0cb70050bc8e8d452abc03a250b4600886e81da96a62f014f6a3686f0a",
+    "width": 2034,
+    "height": 1893
+  },
+  "97106:4": {
+    "path": "figures/elife_97106_fig4.png",
+    "title": "Brain-derived estrogens facilitate male-typical behaviors by potentiating androgen receptor signaling in medaka",
+    "authors": "Yuji Nishiike; Shizuku Maki; Daichi Miyazoe; Kiyoshi Nakasone; Yasuhiro Kamei; Takeshi Todo; Tomoko Ishikawa-Fujiwara; Kaoru Ohno; Takeshi Usami; Yoshitaka Nagahama; Kataaki Okubo",
+    "first": "Nishiike",
+    "year": "2026",
+    "doi": "10.7554/eLife.97106",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Nishiike et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Estrogens directly stimulate the transcription of ARs through ESRs. ( A, B ) Schematic of  ara  ( A ) and  arb  ( B ) loci showing the location of the canonical bipartite ERE-like sequences. Bent arrows mark the transcription initiation sites. Nucleotides of the ERE-like sequences are denoted by capital letters, and those identical to the consensus ERE (AGGTCAnnnTGACCT) are gray-shaded. ( C ) Ability of E2 to directly activate  ara  transcription. Cultured cells were transfected with a luciferase reporter construct containing a genomic fragment upstream of exon 3 of  ara , together with an Esr1, Esr2a, or Esr2b expression construct. The cells were stimulated with different concentrations of E2, and luciferase activity was measured. ( D ) Effect of mutations in the ERE-like sequences on the E2-induced activation of  ara  transcription. Cultured cells were transfected with a wild-type luciferase construct or a construct carrying a mutation in the ERE-like sequence at position +1699 (mut +1699) or +2050 (mut+2050), together with an Esr1, Esr2a, or Esr2b expression construct. The cells were stimulated with or without E2, and luciferase activity was measured. ( E ) Ability of E2 to directly activate  arb  transcription. The assay described in C was performed with a luciferase construct containing a genomic fragment upstream of the first methionine codon of  arb . ( F ) Effect of mutations in the ERE-like sequences on the E2-induced activation of  arb  transcription. The assay described in D was performed with luciferase constructs, each carrying a mutation in the ERE-like sequence at position –1272 (mut–1272), –2180 (mut–2180), or –3327 (mut–3327). Values are expressed as a fold change relative to a control without E2 stimulation ( C, E ) or a control using the wild-type construct without E2 stimulation ( D, F ). Statistical differences were assessed by Dunnett’s post hoc test ( C, E ) and unpaired  t  test with Bonferroni-Dunn correction ( D, F ). Error bars represent SEM. **p<0.01; ***p<0.001. Figure 4—source data 1. Source data for  Figure 4 .",
+    "original_url": "https://cdn.elifesciences.org/articles/97106/elife-97106-fig4-v1.tif",
+    "sha256": "152197856923bb1e3f153742375ce429a5f01a9c81fbfafc881b6f0743c610e2",
+    "width": 2017,
+    "height": 1375
+  },
+  "wu:1": {
+    "title": "Galanin neurons in the medial preoptic area govern parental behaviour",
+    "authors": "Wu, Zheng; Autry, Anita E.; Bergan, Joseph F.; Watabe-Uchida, Mitsuko; Dulac, Catherine G.",
+    "year": "2014",
+    "doi": "10.1038/nature13307",
+    "first": "Wu",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_wu_fig1.png",
+    "legend": "Figure 1: Pup-directed behaviour of  Trpc2 −/−  and  Trpc2 +/−  virgin animals and switch from attack to parenting in males after mating.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature13307/MediaObjects/41586_2014_Article_BFnature13307_Fig1_HTML.jpg",
+    "sha256": "196157ca8c8f48771686f7b8d24ec00e0fe12aa73012efedf560bb2d06739180",
+    "width": 1047,
+    "height": 1423
+  },
+  "wu:2": {
+    "title": "Galanin neurons in the medial preoptic area govern parental behaviour",
+    "authors": "Wu, Zheng; Autry, Anita E.; Bergan, Joseph F.; Watabe-Uchida, Mitsuko; Dulac, Catherine G.",
+    "year": "2014",
+    "doi": "10.1038/nature13307",
+    "first": "Wu",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_wu_fig2.png",
+    "legend": "Figure 2: Parenting activates galanin-expressing neurons in the MPOA.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature13307/MediaObjects/41586_2014_Article_BFnature13307_Fig2_HTML.jpg",
+    "sha256": "8e6a4bec4881639ee7ed03fa7529c420339580b8bf3ba73d33baf663bc123576",
+    "width": 1050,
+    "height": 2016
+  },
+  "wu:3": {
+    "title": "Galanin neurons in the medial preoptic area govern parental behaviour",
+    "authors": "Wu, Zheng; Autry, Anita E.; Bergan, Joseph F.; Watabe-Uchida, Mitsuko; Dulac, Catherine G.",
+    "year": "2014",
+    "doi": "10.1038/nature13307",
+    "first": "Wu",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_wu_fig3.png",
+    "legend": "Figure 3: Ablation of MPOA  Gal +  neurons impairs maternal behaviour in virgin females.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature13307/MediaObjects/41586_2014_Article_BFnature13307_Fig3_HTML.jpg",
+    "sha256": "11baa099ecd9a0dc88590a03edaf28c6d5cb4ed7c3b5ae6e294a24fd7fdb5a60",
+    "width": 1937,
+    "height": 943
+  },
+  "wu:4": {
+    "title": "Galanin neurons in the medial preoptic area govern parental behaviour",
+    "authors": "Wu, Zheng; Autry, Anita E.; Bergan, Joseph F.; Watabe-Uchida, Mitsuko; Dulac, Catherine G.",
+    "year": "2014",
+    "doi": "10.1038/nature13307",
+    "first": "Wu",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_wu_fig4.png",
+    "legend": "Figure 4: Ablation of MPOA  Gal +  neurons impairs paternal behaviour in fathers.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature13307/MediaObjects/41586_2014_Article_BFnature13307_Fig4_HTML.jpg",
+    "sha256": "5d3fe39cddf4ffadb0d26937b1a0cc6fbabc66ec13187c873468cc474b44aa86",
+    "width": 1942,
+    "height": 948
+  },
+  "wu:5": {
+    "title": "Galanin neurons in the medial preoptic area govern parental behaviour",
+    "authors": "Wu, Zheng; Autry, Anita E.; Bergan, Joseph F.; Watabe-Uchida, Mitsuko; Dulac, Catherine G.",
+    "year": "2014",
+    "doi": "10.1038/nature13307",
+    "first": "Wu",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_wu_fig5.png",
+    "legend": "Figure 5: Optogenetic activation of MPOA  Gal +  neurons in males suppresses attack and promotes pup grooming.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature13307/MediaObjects/41586_2014_Article_BFnature13307_Fig5_HTML.jpg",
+    "sha256": "4a36553fb016f49404579242dd0478c2f1d83891d537dc310efe0072f0a340f8",
+    "width": 1839,
+    "height": 1164
+  },
+  "marlin:1": {
+    "title": "Oxytocin enables maternal behaviour by balancing cortical inhibition",
+    "authors": "Marlin, Bianca J.; Mitre, Mariela; D’amour, James A.; Chao, Moses V.; Froemke, Robert C.",
+    "year": "2015",
+    "doi": "10.1038/nature14402",
+    "first": "Marlin",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_marlin_fig1.png",
+    "legend": "Figure 1: Oxytocin enables pup retrieval.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature14402/MediaObjects/41586_2015_BFnature14402_Fig1_HTML.jpg",
+    "sha256": "895ea48ff47281fdf9e2d1e3d36747d22cf3c6ea89b2b8b2d04401f6184d4b95",
+    "width": 1036,
+    "height": 1219
+  },
+  "marlin:2": {
+    "title": "Oxytocin enables maternal behaviour by balancing cortical inhibition",
+    "authors": "Marlin, Bianca J.; Mitre, Mariela; D’amour, James A.; Chao, Moses V.; Froemke, Robert C.",
+    "year": "2015",
+    "doi": "10.1038/nature14402",
+    "first": "Marlin",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_marlin_fig2.png",
+    "legend": "Figure 2: Oxytocin receptor expression in female auditory cortex.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature14402/MediaObjects/41586_2015_BFnature14402_Fig2_HTML.jpg",
+    "sha256": "a2e4e0c7ced5eca0e55eb81879bdb0399347f69d0403d7b65c39b1555d9738b9",
+    "width": 1043,
+    "height": 1227
+  },
+  "marlin:3": {
+    "title": "Oxytocin enables maternal behaviour by balancing cortical inhibition",
+    "authors": "Marlin, Bianca J.; Mitre, Mariela; D’amour, James A.; Chao, Moses V.; Froemke, Robert C.",
+    "year": "2015",
+    "doi": "10.1038/nature14402",
+    "first": "Marlin",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_marlin_fig3.png",
+    "legend": "a , Muscimol infused into the left AI reduced retrieval by experienced animals (pre-muscimol retrieval: 96.9 ± 2.0%, 16 out of 16 animals retrieved at least once; muscimol: 48.8 ± 10.0%,  P  < 0.002, Fisher’s one-way exact test, 11 out of 16 animals retrieved,  P  < 0.025). ** P  < 0.01. Error bars denote mean ± s.e.m.  b , Muscimol in the right AI did not impair retrieval (pre-muscimol: 100.0 ± 0.0%, muscimol: 87.5 ± 12.5%,  P  > 0.9; 5 out of 5 animals retrieved).  c , Oxytocin in the left AI of naive virgins accelerated time to first retrieval <12 h of co-housing (oxytocin: 12 out of 16 animals,  P  < 0.05; optogenetic stimulation: 7 out of 8 animals,  P  < 0.04; saline: 3 out of 11 animals). Error bars denote mean ± 95% confidence interval.  d , Retrieval of experienced animals with the oxytocin receptor antagonists (antag) OTA (baseline: 96.3 ± 2.6%, OTA: 80.0 ± 6.8%,  P  > 0.05; 8 out of 8 animals) or L-368,899 (baseline: 100.0 ± 0.0%, L-368,899: 86.7 ± 3.3%,  P  > 0.1,  n  = 3; 3 out of 3 animals) infused into the left AI. \n PowerPoint slide \n \n Source data \n",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature14402/MediaObjects/41586_2015_BFnature14402_Fig3_HTML.jpg",
+    "sha256": "8a0ccac1c38d27454963ed7ce2cf43fc52e631c552d71eb2cfe7a61c3da63115",
+    "width": 961,
+    "height": 1013,
+    "legend_url": "https://www.nature.com/articles/nature14402/figures/3"
+  },
+  "marlin:4": {
+    "title": "Oxytocin enables maternal behaviour by balancing cortical inhibition",
+    "authors": "Marlin, Bianca J.; Mitre, Mariela; D’amour, James A.; Chao, Moses V.; Froemke, Robert C.",
+    "year": "2015",
+    "doi": "10.1038/nature14402",
+    "first": "Marlin",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_marlin_fig4.png",
+    "legend": "Figure 4: Pup calls evoke reliable spikes in experienced female left AI.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature14402/MediaObjects/41586_2015_BFnature14402_Fig4_HTML.jpg",
+    "sha256": "c417e84c4c6aae77ae7bf786c2fed3715461fc894976af5cf63e4c32dab96896",
+    "width": 1052,
+    "height": 1580
+  },
+  "marlin:5": {
+    "title": "Oxytocin enables maternal behaviour by balancing cortical inhibition",
+    "authors": "Marlin, Bianca J.; Mitre, Mariela; D’amour, James A.; Chao, Moses V.; Froemke, Robert C.",
+    "year": "2015",
+    "doi": "10.1038/nature14402",
+    "first": "Marlin",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_marlin_fig5.png",
+    "legend": "Figure 5: Pup calls evoke correlated patterns of excitatory and inhibitory responses in left AI of experienced females.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature14402/MediaObjects/41586_2015_BFnature14402_Fig5_HTML.jpg",
+    "sha256": "386b57fe3f2ed493362aa2af53caacc241ec1f7c9e65899373bab0cf69678049",
+    "width": 1052,
+    "height": 1441
+  },
+  "marlin:6": {
+    "title": "Oxytocin enables maternal behaviour by balancing cortical inhibition",
+    "authors": "Marlin, Bianca J.; Mitre, Mariela; D’amour, James A.; Chao, Moses V.; Froemke, Robert C.",
+    "year": "2015",
+    "doi": "10.1038/nature14402",
+    "first": "Marlin",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_marlin_fig6.png",
+    "legend": "a , Call-evoked IPSCs from virgin left AI neuron before and during optogenetic (blue) or oxytocin (red) pairing.  b , Oxytocin reduced inhibition within 40–60 s (top; optogenetic pairing,  n  = 4,  P  < 0.002, Student’s paired two-tailed  t -test; oxytocin pairing,  n  = 12,  P  < 0.04).  c , Voltage-clamp recording from virgin left AI neuron (pre-pairing IPSCs: 8.3 ± 1.1 pA, pre-pairing EPSCs: −8.0 ± 1.2 pA,  r ei-paired : 0.13; pairing IPSCs: 6.5 ± 1.5 pA, EPSCs: −10.4 ± 3.0 pA,  r ei-paired : −0.12; 10–15 min after pairing IPSCs: 4.9 ± 0.9 pA,  P  < 0.0009, EPSCs: −15.4 ± 1.3 pA,  P  < 0.005,  r ei-paired : −0.14; 45–50 min after pairing IPSCs: 9.6 ± 2.1 pA,  P  > 0.5, EPSCs: −13.4 ± 2.4 pA,  P  < 0.002,  r ei-paired : 0.27). Error bars denote mean ± s.e.m.  d , Synaptic modifications. Top, individual neurons after oxytocin (EPSC increase: 43.5 ± 15.7%,  n  = 10,  P  < 0.03; IPSC decrease: −33.7 ± 7.8%,  P  < 0.004) or optogenetic pairing (EPSC increase: 47.5 ± 13.2%,  n  = 6,  P  < 0.02; IPSC decrease: −20.0 ± 4.3%,  P  < 0.02). Bottom, excitatory–inhibitory correlation ( n  = 28 cells, 17 animals;  r ei-paired  pre-pairing: −0.07 ± 0.05,  r ei-paired  0–45 min after pairing: 0.02 ± 0.04,  P  > 0.1;  r ei-paired  1–3 h post-pairing: 0.24 ± 0.06,  P  < 0.0002).  e , Two current-clamp recordings from same virgin; first cell before optogenetic pairing ( z -score:0.04,  r : 0.01), during pairing ( z : 0.51,  r : 0.00), 10–15 min post-pairing ( z : 0.57,  r : 0.03); second cell 180–190 min after pairing ( z : 1.60,  r : 0.11).  f , Spiking. Top, call-evoked spiking ( n  = 28 cells, 13 animals;  z -score pre-pairing: −0.13 ± 0.11, 0–45 min post-pairing: 0.91 ± 0.27,  P  < 0.003;  z -score 1–3 h post-pairing: 1.21 ± 0.25,  P  < 10 −4 ). Bottom, trial-by-trial correlation (pre-pairing  r : 0.01 ± 0.01; 0–45 min post-pairing: 0.05 ± 0.02,  P  > 0.1; 1–3 h post-pairing: 0.14 ± 0.03,  P  < 10 −4 ). \n PowerPoint slide \n \n Source data \n",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature14402/MediaObjects/41586_2015_BFnature14402_Fig6_HTML.jpg",
+    "sha256": "72a7e6be2dbc8a39c9b0188142bcaaaeb3a24d1467c3bd3c87847117d35ee926",
+    "width": 1042,
+    "height": 1473,
+    "legend_url": "https://www.nature.com/articles/nature14402/figures/6"
+  },
+  "carcea:1": {
+    "title": "Oxytocin neurons enable social transmission of maternal behaviour",
+    "authors": "Carcea, Ioana; Caraballo, Naomi López; Marlin, Bianca J.; Ooyama, Rumi; Riceberg, Justin S.; Mendoza Navarro, Joyce M.; Opendak, Maya; Diaz, Veronica E.; Schuster, Luisa; Alvarado Torres, Maria I.; Lethin, Harper; Ramos, Daniel; Minder, Jessica; Mendoza, Sebastian L.; Bair-Marshall, Chloe J.; Samadjopoulos, Grace H.; Hidema, Shizu; Falkner, Annegret; Lin, Dayu; Mar, Adam; Wadghiri, Youssef Z.; Nishimori, Katsuhiko; Kikusui, Takefumi; Mogi, Kazutaka; Sullivan, Regina M.; Froemke, Robert C.",
+    "year": "2021",
+    "doi": "10.1038/s41586-021-03814-7",
+    "first": "Carcea",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_carcea_fig1.png",
+    "legend": "Fig. 1: Dams shepherd virgins to nest. Full size image a , System for continuous monitoring of behaviour and neural activity.  b , Ethogram showing activities of co-housed dam and virgin mice over a period of four days.  c , Co-housing with dam and pups led to earlier retrieval by virgins. Left, individual retrieval rates. Right, mean retrieval probability.  d , Day of retrieval onset was earlier in D+ virgins.  e , Time in nest for dams and co-housed virgin mice.  f , Correlation between virgin nest entry during day 1 and virgin retrieval at the end of day 1.  g , Illustration of shepherding behaviour; arrows, movement direction; dashed circle, nest area.  h , Probabilities of dam starting (yellow) and ending (orange) chasing of a co-housed virgin, relative to nest position (circle indicates the nest, radius approximately 10 cm).  i , Distances from nest of dam→virgin chases.  j , Frequency of shepherding events (grey, individual dyads; red, daily averages across cages) was more frequent than dam→virgin chases in the absence of pups (0.2, indicated by dashed line).  k , Correlation between shepherding during day 1 and virgin retrieval at day 1 end. Data are mean ± s.e.m.; * P  < 0.05, ** P  < 0.01.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-021-03814-7/MediaObjects/41586_2021_3814_Fig1_HTML.png",
+    "sha256": "2e829141251f641c41313cb30f76109ae973cc6ad19e52e1a5a5c20cbd7f298b",
+    "width": 1053,
+    "height": 1323,
+    "display_path": "figures/nature_carcea_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0.56,
+      1,
+      0.75
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1053,
+      1323
+    ],
+    "display_sha256": "b6fe0341da27d2be897dd01c146fc199acc09a30ed7c4937b49330c16aa05dac"
+  },
+  "carcea:2": {
+    "title": "Oxytocin neurons enable social transmission of maternal behaviour",
+    "authors": "Carcea, Ioana; Caraballo, Naomi López; Marlin, Bianca J.; Ooyama, Rumi; Riceberg, Justin S.; Mendoza Navarro, Joyce M.; Opendak, Maya; Diaz, Veronica E.; Schuster, Luisa; Alvarado Torres, Maria I.; Lethin, Harper; Ramos, Daniel; Minder, Jessica; Mendoza, Sebastian L.; Bair-Marshall, Chloe J.; Samadjopoulos, Grace H.; Hidema, Shizu; Falkner, Annegret; Lin, Dayu; Mar, Adam; Wadghiri, Youssef Z.; Nishimori, Katsuhiko; Kikusui, Takefumi; Mogi, Kazutaka; Sullivan, Regina M.; Froemke, Robert C.",
+    "year": "2021",
+    "doi": "10.1038/s41586-021-03814-7",
+    "first": "Carcea",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_carcea_fig2.png",
+    "legend": "Fig. 2: Shepherding and nest entry activate virgin PVN/OT-PVN neurons. Full size image a , Left, DREADDi–mCherry in OT-PVN cells. Right, CNO treatment during initial co-housing reduced retrieval in DREADDi-expressing mice.  b , Optically tagged OT-PVN neurons in vivo. Left, µCT image used to localize electrodes. Middle, ChETA–eGFP expression in OT-PVN neurons. Right, raster plot of photo-tagged OT-PVN neuron; inset, waveform; blue bar, light pulse.  c ,  d , Raster plot ( c ) and before–after plot ( d ) of PVN single unit from co-housed virgin during shepherding (shading).  e , Change in spiking rate during shepherding for individual units. Filled bars indicate significant changes in spiking rate.  f , Units with significant rate changes during shepherding (red) fired less during virgin→dam chases (grey).  g , Simultaneously recorded PVN cells including OT-PVN cell (u3) during nest entry event. Units are numbered u1–u9.  h , u3 spiking during nest entry ( n  = 140 events).  i , Firing rate during nest entry.  j , Spiking rate when virgin entered nest after shepherding (red) or voluntarily (grey). Data are mean ± s.e.m.; * P  < 0.05, ** P  < 0.01.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-021-03814-7/MediaObjects/41586_2021_3814_Fig2_HTML.png",
+    "sha256": "207d1584f24a95799dfdaa2bac93142cee166f480e9b9d94d91ab08ec0f5c253",
+    "width": 1401,
+    "height": 1229
+  },
+  "carcea:3": {
+    "title": "Oxytocin neurons enable social transmission of maternal behaviour",
+    "authors": "Carcea, Ioana; Caraballo, Naomi López; Marlin, Bianca J.; Ooyama, Rumi; Riceberg, Justin S.; Mendoza Navarro, Joyce M.; Opendak, Maya; Diaz, Veronica E.; Schuster, Luisa; Alvarado Torres, Maria I.; Lethin, Harper; Ramos, Daniel; Minder, Jessica; Mendoza, Sebastian L.; Bair-Marshall, Chloe J.; Samadjopoulos, Grace H.; Hidema, Shizu; Falkner, Annegret; Lin, Dayu; Mar, Adam; Wadghiri, Youssef Z.; Nishimori, Katsuhiko; Kikusui, Takefumi; Mogi, Kazutaka; Sullivan, Regina M.; Froemke, Robert C.",
+    "year": "2021",
+    "doi": "10.1038/s41586-021-03814-7",
+    "first": "Carcea",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_carcea_fig3.png",
+    "legend": "Fig. 3: Observation of pup retrieval. Full size image a , Illustration of spontaneous retrieval by dam; arrows, movement direction; dashed lines, nest area; red circle, dropped pup.  b , Activities of simultaneously recorded virgin PVN cells including OT-PVN cell (blue) during spontaneous retrieval episode by dam. Green, pup dropped; grey, pup retrieval. Top, frequency of emitted sounds.  c , Spiking rate change in virgins during spontaneous retrievals by dams.  d , Heterogeneous responses ( n  = 35 (PVN),  n  = 9 (OT-PVN) units) during nest entry, shepherding, and maternal retrieval. Top, OT-PVN; bottom, PVN.  e , Pup retrieval by D− virgins.  f , Retrieval by D− virgins retrieval was higher after exposure to dam retrieval with or without a transparent barrier compared with an opaque barrier or with OXTR-KO virgins.  g , Cumulative distributions (Kaplan–Meier) for retrieval onset.  h , Example virgin PVN unit responding to both observation of maternal retrieval and self-performance of retrieval (time 0, pup retrieved).  i , Change in virgin PVN firing rate for units recorded during observation of dam retrievals (blue) and self-performance (white).  j , PVN unit activity increased during observation in learners ( n  = 65 units,  N  = 3 virgins) but not non-learners ( n  = 103 units,  N  = 5 virgins). * P  < 0.05, ** P  < 0.01.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-021-03814-7/MediaObjects/41586_2021_3814_Fig3_HTML.png",
+    "sha256": "e6e31bb22db7a7f7ffd36365b1a9237a6ab735603e3f9f4bc77319529e115965",
+    "width": 1078,
+    "height": 1286
+  },
+  "carcea:4": {
+    "title": "Oxytocin neurons enable social transmission of maternal behaviour",
+    "authors": "Carcea, Ioana; Caraballo, Naomi López; Marlin, Bianca J.; Ooyama, Rumi; Riceberg, Justin S.; Mendoza Navarro, Joyce M.; Opendak, Maya; Diaz, Veronica E.; Schuster, Luisa; Alvarado Torres, Maria I.; Lethin, Harper; Ramos, Daniel; Minder, Jessica; Mendoza, Sebastian L.; Bair-Marshall, Chloe J.; Samadjopoulos, Grace H.; Hidema, Shizu; Falkner, Annegret; Lin, Dayu; Mar, Adam; Wadghiri, Youssef Z.; Nishimori, Katsuhiko; Kikusui, Takefumi; Mogi, Kazutaka; Sullivan, Regina M.; Froemke, Robert C.",
+    "year": "2021",
+    "doi": "10.1038/s41586-021-03814-7",
+    "first": "Carcea",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_carcea_fig4.png",
+    "legend": "Fig. 4: PVN modulation and plasticity of left auditory cortex. Full size image a , Example photometry recording from virgin female left auditory cortex (AC).  b , Change in photometry signal during co-housing in example animal.  c , Summary of photometry data in AC.   d , Schematic of simultaneous auditory cortex photometry and PVN single-unit recording during retrieval observation with a transparent barrier.  e , Example single-trial auditory cortex photometry (insets, pup vocalizations) and PVN spiking before (left) and after (right) virgin began retrieving. Time is zero at dam pup retrieval.  f , Summary of single-trial responses during dam retrievals.  g , Schematic of photometry from virgin PVN projections to left AC during transparent-barrier observations.  h , Photometric responses of auditory cortex from virgin females during observation. Time is zero at dam pup retrieval.  i , Single-trial (grey) and per-animal responses (red).  j , Effect of OTA or saline infusion in non-co-housed virgin left auditory cortex before dam retrieval observation.  k , Optogenetic stimulation (opto stim) of left auditory cortex OT-ChETA fibres during opaque-barrier testing increased virgin retrieval. Data are mean ± s.e.m.; * P  < 0.05.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-021-03814-7/MediaObjects/41586_2021_3814_Fig4_HTML.png",
+    "sha256": "6ac6b79f097aa2502009cce3296a843e9f882c7c6014f55349d7f4d5a695e8d0",
+    "width": 1050,
+    "height": 1457,
+    "display_path": "figures/nature_carcea_fig4_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      0.71,
+      0.17
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1050,
+      1457
+    ],
+    "display_sha256": "848d4ebee9a37cdb3b299b5688d911c127cfa5371345ec830c064b9d33496a70"
+  }
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "content_index": 0,
+    "source": "06633",
+    "label": "media7",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 2,
+    "source": "101980",
+    "label": "video1",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 4,
+    "source": "06633",
+    "label": "media9",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 6,
+    "source": "69333",
+    "label": "video1",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 8,
+    "source": "54302",
+    "label": "video1",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 10,
+    "source": "86737",
+    "label": "video2",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 12,
+    "source": "06633",
+    "label": "media1",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 14,
+    "source": "06633",
+    "label": "media2",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 16,
+    "source": "06633",
+    "label": "media5",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 18,
+    "source": "57148",
+    "label": "video3",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 20,
+    "source": "06633",
+    "label": "media3",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 22,
+    "source": "69333",
+    "label": "video3",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 24,
+    "source": "69333",
+    "label": "video4",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 26,
+    "source": "06633",
+    "label": "media8",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 28,
+    "source": "69333",
+    "label": "video5",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 30,
+    "source": "11346",
+    "label": "media4",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 32,
+    "source": "11346",
+    "label": "media1",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 34,
+    "source": "77968",
+    "label": "video2",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 36,
+    "source": "11346",
+    "label": "media2",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 38,
+    "source": "77968",
+    "label": "video1",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 40,
+    "source": "79581",
+    "label": "fig3-video1",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 42,
+    "source": "57148",
+    "label": "video1",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 44,
+    "source": "79581",
+    "label": "fig3-video2",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 46,
+    "source": "79581",
+    "label": "fig3-video3",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 48,
+    "source": "79581",
+    "label": "fig3-video4",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 50,
+    "source": "79581",
+    "label": "fig3-video5",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 52,
+    "source": "79581",
+    "label": "fig3-video7",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 54,
+    "source": "79581",
+    "label": "fig3-video8",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 56,
+    "source": "89873",
+    "label": "video1",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 58,
+    "source": "79581",
+    "label": "fig3-video9",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 60,
+    "source": "48764",
+    "label": "video1",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 62,
+    "source": "79581",
+    "label": "fig3-video10",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 64,
+    "source": "86737",
+    "label": "video1",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 66,
+    "source": "79581",
+    "label": "fig3-video11",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 68,
+    "source": "79581",
+    "label": "fig3-video12",
+    "purpose": "aesthetic"
+  },
+  {
+    "content_index": 70,
+    "source": "79581",
+    "label": "fig3-video14",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 72,
+    "source": "32740",
+    "label": "video2",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 74,
+    "source": "32740",
+    "label": "video4",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 76,
+    "source": "01385",
+    "label": "media2",
+    "purpose": "academic"
+  },
+  {
+    "content_index": 77,
+    "source": "01385",
+    "label": "media1",
+    "purpose": "academic"
+  }
+]

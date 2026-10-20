@@ -1,0 +1,286 @@
+{
+  "checked": 40,
+  "passed": 40,
+  "results": [
+    {
+      "file": "media/elife-107352-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-107352-video2.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-107352-video5.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-107352-video3.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-47198-fig3-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-107352-video4.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-96344-fig2-video2.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-96344-fig3-video3.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-96344-fig2-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-107352-video9.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-96344-fig4-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-96344-fig3-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-39495-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-39495-video2.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-39495-video3.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-52701-video3.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-86464-fig2-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-86464-fig2-video2.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-63493-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-63493-video2.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-52701-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-52701-video2.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-52701-video6.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-52701-video8.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-87029-video1.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-87029-video2.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/41586_2021_3814_MOESM3_ESM.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/41586_2021_3814_MOESM4_ESM.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/41586_2021_3814_MOESM5_ESM.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-64680-video2.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/41586_2015_BFnature14402_MOESM307_ESM.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/41586_2021_3814_MOESM6_ESM.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/elife-64680-video3.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/41586_2021_3814_MOESM7_ESM.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/41586_2021_3814_MOESM8_ESM.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/41586_2021_3814_MOESM9_ESM.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/41586_2021_3814_MOESM10_ESM.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/41586_2021_3814_MOESM11_ESM.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/41586_2021_3814_MOESM13_ESM.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    },
+    {
+      "file": "media/41586_2021_3814_MOESM14_ESM.mp4",
+      "sha256_matches": true,
+      "exit_code": 0,
+      "errors": "",
+      "full_decode_pass": true
+    }
+  ]
+}

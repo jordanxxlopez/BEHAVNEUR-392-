@@ -101,15 +101,27 @@
     },
     {
       "n": 10,
-      "date": "Date TBD",
-      "title": "Chapter 10: TITLE PENDING TEXTBOOK VERIFICATION",
-      "verified": false
+      "date": "Fall 2026",
+      "title": "From Reproduction to Care: Hormones, Social Circuits, and Parenting",
+      "verified": true,
+      "book_chapter": 10,
+      "book_chapter_title": "Reproductive and Parental Behavior",
+      "display_title_authorized": true,
+      "display_title_authorization": "Instructor requested separate Chapter 10 and Chapter 11 lectures, exactly 80 slides each, with separate editable PowerPoint files.",
+      "textbook_printed_pages": "301–336",
+      "book_scope_verified_from": "Uploaded Physiology of Behavior Part4of6, PDF pp.51–86"
     },
     {
       "n": 11,
-      "date": "Date TBD",
-      "title": "Chapter 11: TITLE PENDING TEXTBOOK VERIFICATION",
-      "verified": false
+      "date": "Fall 2026",
+      "title": "Feeling and Acting: The Neural Systems of Emotion",
+      "verified": true,
+      "book_chapter": 11,
+      "book_chapter_title": "Emotion",
+      "display_title_authorized": true,
+      "display_title_authorization": "Instructor requested separate Chapter 10 and Chapter 11 lectures, exactly 80 slides each, with separate editable PowerPoint files.",
+      "textbook_printed_pages": "337–374",
+      "book_scope_verified_from": "Uploaded Physiology of Behavior Part4of6, PDF pp.87–124"
     },
     {
       "n": 12,

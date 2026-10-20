@@ -65,3 +65,19 @@ Download the [editable PowerPoint](https://media.githubusercontent.com/media/jor
 ## Chapter 8: control of movement
 
 [From Intention to Action: The Neural Control of Movement](chapters/C08/STATUS.md) contains **75 slides** covering muscle physiology, spinal circuits, motor planning, basal ganglia, cerebellum, skilled action, and movement disorders. Download the [editable PowerPoint](https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C08/From_Intention_to_Action_Control_of_Movement_Chapter_8.pptx) or [static PDF preview](chapters/C08/From_Intention_to_Action_Control_of_Movement_Chapter_8_Static.pdf). The lecture contains 29 foundation slides, 44 research slides, full teaching transcripts, and 40 distinct embedded recordings. All 219 teaching paragraphs pass the rendered five-to-seven-line check. Sources, original-media records, and validation accompany the files.
+
+## Chapter 10: From Reproduction to Care: Hormones, Social Circuits, and Parenting
+
+A separate 80-slide lecture with 78 teaching slides, 40 embedded original recordings, source figures, full teaching notes and credits.
+
+- [Download PowerPoint](https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C10/From_Reproduction_to_Care_Chapter_10.pptx)
+- [Static PDF](https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C10/From_Reproduction_to_Care_Chapter_10_Static.pdf)
+- [Sources and validation](chapters/C10/STATUS.md)
+
+## Chapter 11: Feeling and Acting: The Neural Systems of Emotion
+
+A separate 80-slide lecture with 78 teaching slides, 40 embedded original recordings, source figures, full teaching notes and credits.
+
+- [Download PowerPoint](https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C11/Feeling_and_Acting_Emotion_Chapter_11.pptx)
+- [Static PDF](https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C11/Feeling_and_Acting_Emotion_Chapter_11_Static.pdf)
+- [Sources and validation](chapters/C11/STATUS.md)

@@ -1,0 +1,55 @@
+{
+  "slides": 80,
+  "content_slides": 78,
+  "book_chapter": 10,
+  "foundation_slides": 31,
+  "research_slides": 47,
+  "primary_figure_slides": 47,
+  "embedded_distinct_mp4s": 40,
+  "academic_recordings": 20,
+  "visual_recordings": 20,
+  "recordings_per_content_quarter": [
+    10,
+    10,
+    10,
+    10
+  ],
+  "maximum_video_free_content_gap": 3,
+  "recordings_in_final_ten_content_slides": 6,
+  "paragraphs": 234,
+  "rendered_paragraphs_passing": 234,
+  "generic_failures": 0,
+  "course_failures": 0,
+  "full_recording_decodes_passed": 40,
+  "original_movie_bytes_retained": 39,
+  "compatibility_conversions": 1,
+  "source_hashes_and_native_resolution_frame_rate_audio_verified": true,
+  "embedded_hashes_relationships_and_timing_verified": true,
+  "all_slides_visually_reviewed": true,
+  "source_figure_panels_reviewed": true,
+  "fonts": [
+    "BAAAAA+ArialMT",
+    "CAAAAA+Arial-BoldMT"
+  ],
+  "static_pdf_multimedia_annotations": 0,
+  "desktop_powerpoint_playback_tested": false,
+  "conversion_checks": [
+    {
+      "file": "media/41586_2015_BFnature14402_MOESM307_ESM.mp4",
+      "frames": 293,
+      "maximum_relative_frame_timestamp_difference_seconds": 0.0009670000000010504,
+      "native_dimensions_preserved": true,
+      "audio_presence_channels_and_sample_rate_preserved": true
+    }
+  ],
+  "pptx": {
+    "filename": "From_Reproduction_to_Care_Chapter_10.pptx",
+    "bytes": 532166118,
+    "sha256": "a06ac2197c9ba5702d510afde566be34a2cb01a9b4dad4399f0fbfba43d04a88"
+  },
+  "static_pdf": {
+    "filename": "From_Reproduction_to_Care_Chapter_10_Static.pdf",
+    "bytes": 12506448,
+    "sha256": "5db0a716d5783bce27462e8146c7dd3e162fbe810b3a75f5a3d986ad0d786231"
+  }
+}

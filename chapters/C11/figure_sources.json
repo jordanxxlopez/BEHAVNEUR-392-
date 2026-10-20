@@ -1,0 +1,950 @@
+{
+  "01385:1": {
+    "path": "figures/elife_01385_fig1.png",
+    "title": "Pro-social behavior in rats is modulated by social experience",
+    "authors": "Inbal Ben-Ami Bartal; David A Rodgers; Maria Sol Bernardez Sarria; Jean Decety; Peggy Mason",
+    "first": "Ben-Ami Bartal",
+    "year": "2014",
+    "doi": "10.7554/eLife.01385",
+    "license": {
+      "license": "CC-BY-3.0",
+      "holder": "Ben-Ami Bartal et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/3.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.01385.003 Figure 1. Rats were as motivated to help strangers of the same strain (SD stranger; right) as they were to help cagemates (SD cagemate; left). In both experimental conditions (diagrammed at top), SD rats were housed with another SD rat. However in the cagemate condition, the cagemate served as the trapped rat (‘a’) whereas in the stranger condition, the trapped rat was a stranger (‘?’) and not the cagemate (‘b’). Across the days of testing, the median latency to door-opening (bottom) decreased for both conditions. DOI:   http://dx.doi.org/10.7554/eLife.01385.003",
+    "original_url": "https://cdn.elifesciences.org/articles/01385/elife-01385-fig1-v1.tif",
+    "sha256": "f407ff8959eea04284b8bbd92b70f683a5f71f07b20f5a09616972433b1df9fe",
+    "width": 1793,
+    "height": 2152
+  },
+  "01385:3": {
+    "path": "figures/elife_01385_fig3.png",
+    "title": "Pro-social behavior in rats is modulated by social experience",
+    "authors": "Inbal Ben-Ami Bartal; David A Rodgers; Maria Sol Bernardez Sarria; Jean Decety; Peggy Mason",
+    "first": "Ben-Ami Bartal",
+    "year": "2014",
+    "doi": "10.7554/eLife.01385",
+    "license": {
+      "license": "CC-BY-3.0",
+      "holder": "Ben-Ami Bartal et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/3.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.01385.006 Figure 3. Fostered SD rats were minimally exposed to other SD rats from birth. This diagram indicates how many LE pups (black dots) and SD pups (red dots) were present in each litter during postnatal (P) days 0–14 (x-axis) for rats in the fostered+LE ( A ) and fostered+SD ( B ) conditions (see  Figure 4 ). On P0–P1, two SD pups (n = 32) were transferred into each LE litter (n = 16). If both pups survived one of the two SD pups was removed at P6, leaving a single SD pup with an LE dam and LE littermates. As red dots indicate other SD pups, the number of red dots is representative of the amount of exposure each fostered SD rat had to other SD pups during their lives. Individual rats are arranged from the most exposure to SD rats (upper left in each group) to the least exposure (bottom right). Following P11, no fostered rat was exposed to other SD rats until testing. In two cases (both in the fostered+SD condition illustrated in  B ), the SD pup in the LE litter died at a later date (P11, P12). In these cases, an SD male who had been removed from an LE litter 5 or 7 days before was then re-added to the LE litter. Note that only one animal (upper left in  B ) was exposed to SD rats with his eyes open; this rat proved to be the only door-opener in the fostered+SD condition. Lines above the dots represent the strain of the dam (red: SD; black: LE). DOI:   http://dx.doi.org/10.7554/eLife.01385.006",
+    "original_url": "https://cdn.elifesciences.org/articles/01385/elife-01385-fig3-v1.tif",
+    "sha256": "687a4502f98f60dd92ba7fa6ff90cbf91ec97916949f570445e827e0850577d7",
+    "width": 2717,
+    "height": 2667
+  },
+  "06633:1": {
+    "path": "figures/elife_06633_fig1.png",
+    "title": "Ventromedial hypothalamic neurons control a defensive emotion state",
+    "authors": "Prabhat S Kunwar; Moriel Zelikowsky; Ryan Remedios; Haijiang Cai; Melis Yilmaz; Markus Meister; David J Anderson",
+    "first": "Kunwar",
+    "year": "2015",
+    "doi": "10.7554/eLife.06633",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Kunwar et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.06633.003 Figure 1. Characterization of SF1 +  neurons and their optogenetic activation. ( A ) Schematic illustrating brain circuits involved in defensive behaviors. ( B ) Coronal section of the mouse brain showing the location of VMHdm (Allen Brain Atlas). VMH is indicated by the blue outline. ( C – E ) Representative images of the VMH in a wild type mouse showing double-label immunostaining for SF1 (green) and progesterone receptor (PR), a marker of VMHvl neurons involved in social behaviors (red). ( F ) Percentage of cells in VMHdm/c (white bars) and VMHvl (black bars) that are SF1 +  or PR + . n = 3 animals for each condition. ( G – I ) Representative images of VMH from an SF1-Cre transgenic mouse injected in VMH with a Cre-dependent AAV encoding mCherry (red) and immunolabeled with anti-SF1 antibody (green). ( J ) Percentage of overlap between VMHdm/c SF1 +  cells and mCherry. n = 3 animals for each condition. ( K – M ) Representative images of VMH as in ( G – I ), double labeled for mCherry +  (red) and PR +  cells (green). ( N ) Percentage of total neurons that are mCherry +  in VMHdm/c and VMHvl (defined by domain of PR expression). n = 3 animals for each condition. ( O ) Schematic illustrating preparation for whole-cell patch clamp recordings of SF1 +  neurons. ( P ) Representative photomicrograph of ChR2-eYFP-expressing (SF1 + ) cells (red arrow) patched for recording; DIC, differential interference contrast. ( Q ) Photostimulation-evoked spiking in neurons recorded as in ( P ). ( R ) Percent spike fidelity in ( Q ). n = 7 cells. ( S ) Schematic for in vivo electrophysiological response recordings from VMHdm/c in mice expressing ChR2 in SF1 +  neurons. ( T ) Time-course of mean firing rate change in vivo in response to photostimulation. n = 6 units. ( U ) Average number of Fos +  neurons per section of VMHdm/c from photostimulated mice expressing ChR2 in SF1 +  neurons. Control non-stimulated contralateral side within each animal. n = 4 animals for each condition. Values are represented as mean ± SEM. *p < 0.05. DOI:   http://dx.doi.org/10.7554/eLife.06633.003",
+    "original_url": "https://cdn.elifesciences.org/articles/06633/elife-06633-fig1-v2.tif",
+    "sha256": "36794bb91de05570e91f35ed59239589d2c0a0b559f914ce60f14e67eb693faa",
+    "width": 3329,
+    "height": 4870,
+    "display_path": "figures/elife_06633_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.19
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      3329,
+      4870
+    ],
+    "display_sha256": "1a4ac20bf8f2f7797d38f627b5fc59528d653efd89df81846f79eb4b19996747"
+  },
+  "06633:4": {
+    "path": "figures/elife_06633_fig4.png",
+    "title": "Ventromedial hypothalamic neurons control a defensive emotion state",
+    "authors": "Prabhat S Kunwar; Moriel Zelikowsky; Ryan Remedios; Haijiang Cai; Melis Yilmaz; Markus Meister; David J Anderson",
+    "first": "Kunwar",
+    "year": "2015",
+    "doi": "10.7554/eLife.06633",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Kunwar et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.06633.010 Figure 4. Optogenetic stimulation of SF1 +  neurons induces aversion and interrupts ongoing consummatory behaviors. ( A ) Representative tracking traces of ChR2 mouse (top) and eYFP control mouse (bottom) in a real-time place avoidance assay (RTPA). Photostimulation (blue bar) was delivered in a manual closed-loop manner depending on the animal's behavior (see text). ( B ) Percentage of total time (20 min) spent in stimulated side during 20-min trial. ( C ) Average latency to withdraw from the stimulated side. ( D ) Average velocity to enter or exit the stimulated side for the first (left) vs last trial (right). ( E ) Latency to withdraw from the stimulated side for the first vs last trials. n = 6–7 animals for each condition in  D  and  E . ( F ) Sample video still frames taken from consummatory behavioral assays. ( G ) Percentage of indicated behavior episodes terminated by light stimulation during the behavior within 6 s of photostimulation onset. ( H ) Latency to terminate respective consummatory behavior during photostimulation. n = 4–6 mice per condition. Values are displayed as mean ± SEM. ****p < 0.001; ***p < 0.001; **p < 0.01; *p < 0.05. DOI:   http://dx.doi.org/10.7554/eLife.06633.010",
+    "original_url": "https://cdn.elifesciences.org/articles/06633/elife-06633-fig4-v2.tif",
+    "sha256": "f2d5df8d6c8e6a9afdd6055da147a312a1798789a8f957c496b268b74bfa0e0f",
+    "width": 4216,
+    "height": 1967
+  },
+  "101518:3": {
+    "path": "figures/elife_101518_fig3.png",
+    "title": "Unravelling the neurocognitive mechanisms underlying counterconditioning in humans",
+    "authors": "Lisa Wirz; Maxime C Houtekamer; Jette de Vos; Joseph E Dunsmoor; Judith Homberg; Marloes JAG Henckens; Erno Hermans",
+    "first": "Wirz",
+    "year": "2026",
+    "doi": "10.7554/eLife.101518",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wirz, Houtekamer et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Differential pupil dilation responses (PDRs) during the last two trials of counterconditioning or extinction and the first two trials of the spontaneous recovery test. Differential PDRs show selective spontaneous recovery after extinction (Ext, open bars) but not after counterconditioning (CC, solid bars). During the first two trials of the spontaneous recovery test, differential PDRs are increased in the Ext group as compared to the CC group (CS-type x Group interaction, N=31). Insets show PDRs to the CS+ (red) and CS- (blue) during the last two trials of CC/Ext and the first two trials of the spontaneous recovery test. While the Ext group shows differential responding during the spontaneous recovery test (paired t-test, N=15), the CC group does not (paired t-test, N=16). Error bars represent ± standard error of the mean. *=p<0.05, #=p<0.05 one-tailed significance.",
+    "original_url": "https://cdn.elifesciences.org/articles/101518/elife-101518-fig3-v2.tif",
+    "sha256": "0ed0919a8f97ff0687b1c0d73d9c07c1627b8acd15d8665614cf3d8adb5044c4",
+    "width": 2205,
+    "height": 1189
+  },
+  "101518:5": {
+    "path": "figures/elife_101518_fig5.png",
+    "title": "Unravelling the neurocognitive mechanisms underlying counterconditioning in humans",
+    "authors": "Lisa Wirz; Maxime C Houtekamer; Jette de Vos; Joseph E Dunsmoor; Judith Homberg; Marloes JAG Henckens; Erno Hermans",
+    "first": "Wirz",
+    "year": "2026",
+    "doi": "10.7554/eLife.101518",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wirz, Houtekamer et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 5. ROI analyses during the counterconditioning (CC)/extinction task reveal distinct activity in the hippocampus and left ventromedial prefrontal cortex (vmPFC). During the CC/extinction task, stimulus-specific activation of the hippocampus ( C ) and left vmPFC ( D ) changes differently between groups (N=46). ** p <0.01, * p <0.05, ≠ indicates that the bar is significantly different from 0. Group F-images FWE-SVC at  p <0.05, cluster-forming threshold  p =0.001, along with post-hoc tests on mean parameter estimates from complete ROI included in the analyses.",
+    "original_url": "https://cdn.elifesciences.org/articles/101518/elife-101518-fig5-v2.tif",
+    "sha256": "0d25899a3aa6fe956ca31e74a804d580418e856701ed8205d14f5c1364a6220b",
+    "width": 2205,
+    "height": 734
+  },
+  "101980:4": {
+    "path": "figures/elife_101980_fig4.png",
+    "title": "Valence and salience encoding in the central amygdala",
+    "authors": "Mi-Seon Kong; Ethan Ancell; Daniela M Witten; Larry S Zweifel",
+    "first": "Kong",
+    "year": "2025",
+    "doi": "10.7554/eLife.101980",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Kong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Responses of CeA neurons during Pavlovian fear conditioning. ( A ) Heat maps of CeA neurons aligned to CS Shock  onset (519 neurons) from day 1 of Pavlovian fear conditioning. Solid orange lines indicate CS Shock , and a dotted red line represents shock delivery. ( B ) Left: Proportion of CS Shock -excited (orange), CS Shock -inhibited (blue), and not significant neurons (grey) on day 1 of fear conditioning (total 519 neurons). Right: Heat maps of CS Shock -excited neurons (top, n=19) and CS Shock -inhibited neurons (bottom, n=24) from all trials (10 trials). Solid orange lines indicate CS Shock  onset and offset. ( C ) The average Z-scored activity of each response type (orange, CS Shock -excited; blue, CS Shock -inhibited; grey, not significant). The dark lines and shaded areas represent the mean and s.e.m. The orange area represents 10 s of CS Shock . ( D ) Left: Proportion of shock-excited (orange), shock-inhibited (blue), and not significant neurons (grey) on day 1 of fear conditioning (total 519 neurons). Right: Averaged heat maps of shock-excited neurons (top, n=157) and shock-inhibited neurons (bottom, n=62) from all trials (10 trials). A dotted red line represents shock delivery. ( E ) The average Z-scored activity of each response type (orange, shock-excited; blue, shock-inhibited; grey, not significant). The dark lines and shaded areas represent the mean and s.e.m.",
+    "original_url": "https://cdn.elifesciences.org/articles/101980/elife-101980-fig4-v1.tif",
+    "sha256": "77d774104a792cb90823504403fdbe34a60a86e5ae881be6309720ddd99574f3",
+    "width": 2205,
+    "height": 473
+  },
+  "101980:5": {
+    "path": "figures/elife_101980_fig5.png",
+    "title": "Valence and salience encoding in the central amygdala",
+    "authors": "Mi-Seon Kong; Ethan Ancell; Daniela M Witten; Larry S Zweifel",
+    "first": "Kong",
+    "year": "2025",
+    "doi": "10.7554/eLife.101980",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Kong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 5. Salience and valence encoding in the CeA. ( A ) Among 872 neurons from appetitive conditioning and 519 neurons from fear conditioning, 303 neurons were registered during both learning. Heat maps of these 303 neurons during –10 s to 25 s after CS Food  onset from appetitive (left) and during –10 s to 25 s after CS Shock  onset from fear conditioning (right). All neurons are aligned to their activity to food. The same neuron is represented in the same row. Solid mint lines indicate CS Food , and a dotted darker mint line represents food delivery, solid orange lines indicate CS Shock , and a dotted red line represents shock delivery. ( B ) Top: the proportion of significant neurons to food and shock (both; white), food-only (blue), shock-only (red), and not significant to both (grey). Bottom: detailed response types of all possible categories (excited, inhibited, not significant) for food vs. shock. White represents salience-encoding neurons showing the same response types to food and shock (n=46, 15%), and black represents valence-encoding neurons showing different response types to food and shock (n=198, 65%). Grey represents not significant neurons (n=59, 20%). ( C ) Salience-encoding neurons: the average Z-scored activity of neurons that were excited to both food and shock (n=36, left) and inhibited to both food and shock (n=10, right). Inserted bar graphs indicate average AUC of the Z-scored activity after food and shock delivery (0–10 s, mean ± s.e.m.). ( D ) Valence-encoding neurons: the average Z-scored activity of neurons that were excited to food but inhibited to shock (n=16, left) and inhibited to food but excited to shock (n=25, right). Average AUC of the Z-scored activity after food and shock delivery are shown in inserted bar graphs (0–10 s, mean ± s.e.m.). ( E ) The average Z-scored activity of neurons that were excited to food but not responsive to shock (n=60, first), neurons that were inhibited to food but not responsive to shock (n=50, second), neurons that were not responsive to food but excited to shock (n=34, third), and neurons that were not responsive to food but inhibited to shock (n=13, fourth). Inserted bar graphs indicate average AUC of the Z-scored activity after food and shock delivery (0–10 s, mean ± s.e.m.). The dark lines and shaded areas represent the mean and s.e.m. ( F ) Proportion of significant neurons to CS Food  and CS Shock  (both; white), CS Food -only (mint), CS Shock -only (orange), and not significant to both (grey). ( G ) Detailed response type of all possible categories (excited, inhibited, not significant) for CS Food  vs. CS Shock . White represents salience-encoding neurons showing the same response types to CS Food  and CS Shock  (n=7, 2%), and black represents valence-encoding neurons showing different response types to CS Food  and CS Shock  (n=57, 19%). Grey represents not significant neurons (n=239, 79%). * P < 0.05, **** P < 0.0001. Detailed information about statistical results is provided in  Supplementary file 1 .",
+    "original_url": "https://cdn.elifesciences.org/articles/101980/elife-101980-fig5-v1.tif",
+    "sha256": "15b29dbde048e5cde701d220536e45b316da96121aa686845f34b8b14b326029",
+    "width": 2205,
+    "height": 3391,
+    "display_path": "figures/elife_101980_fig5_panels.png",
+    "panel_crop_box": [
+      0,
+      0.33,
+      1,
+      0.57
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2205,
+      3391
+    ],
+    "display_sha256": "ab67d36c37bf83febbd6928470458cb58fc95f54916ee6091b80bff13740506b"
+  },
+  "105528:2": {
+    "path": "figures/elife_105528_fig2.png",
+    "title": "Functional specialization of mPFC-BLA and mPFC-NAc pathways in affective state representation",
+    "authors": "Chien-Hsien Lai; Gyeongah Park; Pan Xu; Xiaoqian Sun; Qian Ge; Zhen Jin; Sarah Betts; Xiaojie Liu; Qing-Song Liu; Rahul Simha; Chen Zeng; Hui Lu; Jianyang Du",
+    "first": "Lai",
+    "year": "2026",
+    "doi": "10.7554/eLife.105528",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Lai, Park, Xu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Distinct encoding of emotional status by center-ON neurons in the mPFC pathways. ( A ) Ca 2+  traces of the averaged activity of center-ON neuron ensembles around the onset of center entry (5 seconds before to 5 seconds after). The total number of 24 center-ON neurons (n=24) recorded in a mouse of the mPFC→BLA groups that used to calculate the representative averaged trace. Solid lines represent the averaged value. ( B ) Representative heatmaps depicting the activity patterns of mPFC→BLA neurons across four different behavioral contexts: Center, Corner, Sniffing, and Grooming. Each column corresponds to a different behavior, with the intensity of color indicating the level of neuronal activity. ( C ) Left: spatial distributions of center-ON neurons among the mPFC→BLA and mPFC→NAc neurons in one representative mouse from each group. Right: quantification of the percentage of center-ON neurons showed that the BLA pathway contained a significantly higher proportion of center-ON neurons compared to the NAc pathway. * p<0.05, Mann–Whitney U test (Mann–Whitney U=47, p=0.049). ( D ) Spatial heatmaps of neuronal activity across the open field arena of all observed center-ON neurons in one example mouse of mPFC→BLA and mPFC→NAc groups. The color bar indicates the averaged normalized z-score. ( E ) Normalized transient rate of neuronal activity across behavioral states for mPFC→BLA and mPFC→NAc neurons. A two-way mixed-design ANOVA revealed a significant Region ×Behavior interaction (p=0.048), indicating that mPFC→NAc neurons exhibited higher activity during sniffing compared to mPFC→BLA neurons, while no regional differences were found in center, corner, or grooming states. * p<0.05; two-way mixed-design ANOVA followed by Tukey’s post hoc test. ( F ) PCA plots illustrating the distribution of neuronal activity patterns during different behaviors for mPFC→BLA and mPFC→NAc pathways. Points are color-coded by behavior type (Center: blue, Corner: red, Sniffing: green, Grooming: purple). ( G ) Summary of the distances from the center of Corner behavior in terms of neuronal activity for each behavior in both mPFC pathways. ** p<0.01, *** p<0.001, Mann–Whitney U test. Error bars represent SEM.",
+    "original_url": "https://cdn.elifesciences.org/articles/105528/elife-105528-fig2-v1.tif",
+    "sha256": "a68c27a070791e2bbae68a226435b8e9c558c6abd65caf822a5d0cf20ff459b1",
+    "width": 1802,
+    "height": 1553,
+    "display_path": "figures/elife_105528_fig2_panels.png",
+    "panel_crop_box": [
+      0,
+      0.327,
+      1,
+      0.648
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1802,
+      1553
+    ],
+    "display_sha256": "4349fcf2165804c33b84c5b9198992bc4c3d50a3ac454558755a3e2c26e099c6"
+  },
+  "105528:5": {
+    "path": "figures/elife_105528_fig5.png",
+    "title": "Functional specialization of mPFC-BLA and mPFC-NAc pathways in affective state representation",
+    "authors": "Chien-Hsien Lai; Gyeongah Park; Pan Xu; Xiaoqian Sun; Qian Ge; Zhen Jin; Sarah Betts; Xiaojie Liu; Qing-Song Liu; Rahul Simha; Chen Zeng; Hui Lu; Jianyang Du",
+    "first": "Lai",
+    "year": "2026",
+    "doi": "10.7554/eLife.105528",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Lai, Park, Xu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 5. Comparative analysis of all neurons and center-ON subsets reflects divergent encoding patterns in the mPFC→BLA and mPFC→NAc pathways. ( A ) PCA plots showing the activity of all recorded neurons in the mPFC→BLA and mPFC→NAc pathways during interactions with a social stimulus (mouse, M1) and a nonsocial stimulus (object, O) in a modified three-chamber test (mTC). The plots reveal distinct clustering of neural activity patterns for each stimulus within both pathways. ( B ) Distances between all neuronal activity clusters for nonsocial (O) interactions from the center of that for M1 interaction, compared across mPFC→BLA and mPFC→NAc pathways. Significant difference is demonstrated in the mPFC→BLA pathway. ( C ) PCA plots for center-ON neurons identified during the open-field test (OFT). These plots illustrate the activity of these neurons in the mPFC→BLA and mPFC→NAc pathways during the same social and nonsocial stimuli. Clusters show how center-ON neurons specifically respond to each type of stimulus. ( D ) Distances of all center-ON neuronal activity clusters from the center of that for M1 interaction, compared across mPFC→BLA and mPFC→NAc pathways. Significant difference is demonstrated in the mPFC→NAc pathway. Data are represented as mean ± SEM. ***p<0.001, Mann–Whitney U test. Error bars represent SEM.",
+    "original_url": "https://cdn.elifesciences.org/articles/105528/elife-105528-fig5-v1.tif",
+    "sha256": "c2596f9310df2da3abc3ac92275d1e6073001d53125d7c34294aeca7647baec0",
+    "width": 1554,
+    "height": 1908
+  },
+  "106070:3": {
+    "path": "figures/elife_106070_fig3.png",
+    "title": "Dynamic fMRI networks of human emotion",
+    "authors": "Niels Janssen; Uriel KA Elvira; Joost Janssen; Theo GM van Erp",
+    "first": "Janssen",
+    "year": "2026",
+    "doi": "10.7554/eLife.106070",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Janssen et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Results from group spatial independent component analysis (ICA) with six dimensions. Plotted are both the spatial maps and the component time courses averaged across subjects and conditions associated with each IC. Consideration of both spatial and temporal properties of these six ICs led to the identification of four ICs as signal (IC0, IC1, IC2, IC4) and two as noise (IC3, IC5). Note the noise components had spatial distributions associated with non-gray-matter regions (CSF, draining veins). Note also the networks are labeled and ordered as explained in the text. Bottom bar denotes the different stages of the behavioral task. The amplitude of the component time courses reflects the strength of engagement of each independent component over time, in z-scored units. Modulation of these time courses by emotions is investigated further below.",
+    "original_url": "https://cdn.elifesciences.org/articles/106070/elife-106070-fig3-v1.tif",
+    "sha256": "41b488e1dd0a62857d31dbb0a9c4cc1134d36e6175eb86c33a6cb42239eca8be",
+    "width": 2569,
+    "height": 1677
+  },
+  "106070:7": {
+    "path": "figures/elife_106070_fig7.png",
+    "title": "Dynamic fMRI networks of human emotion",
+    "authors": "Niels Janssen; Uriel KA Elvira; Joost Janssen; Theo GM van Erp",
+    "first": "Janssen",
+    "year": "2026",
+    "doi": "10.7554/eLife.106070",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Janssen et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 7. Explanation of curve-fitting procedure ( A ), goodness of fit results from Gaussian curve fitting ( B ), and graphical overview of how peak value ( C ), time to peak ( D ), and duration ( E ) differ between the four IC networks. Note that goodness of fit values were relatively equal across IC networks, and that there were earlier time-to-peak values for IC1 compared to IC0. Error bars reflect standard error of mode coefficients, Different letters above bars indicate a significant difference in mixed effect models with component as a fixed effect and subject as a random intercept (p<0.05, Bonferroni-corrected) from 22 participants.",
+    "original_url": "https://cdn.elifesciences.org/articles/106070/elife-106070-fig7-v1.tif",
+    "sha256": "3eab014ca57c1e5b2cd28310b06d5ce6a59ebc6921d89f7f9b9dac807293d148",
+    "width": 2069,
+    "height": 1324
+  },
+  "107223:2": {
+    "path": "figures/elife_107223_fig2.png",
+    "title": "Human neurocomputational mechanisms of guilt-driven and shame-driven altruistic behavior",
+    "authors": "Ruida Zhu; Huanqing Wang; Chunliang Feng; Linyuan Yin; Ran Zhang; Yi Zeng; Chao Liu",
+    "first": "Zhu",
+    "year": "2025",
+    "doi": "10.7554/eLife.107223",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Zhu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Behavioral results. ( A ) Harm had a stronger effect on guilt than on shame. ( B ) Responsibility revealed a stronger effect on shame than on guilt. ( A, B ) We created regression equations for guilt and shame ratings using the coefficient estimates from the linear mixed-effect regression analyses. To illustrate the impacts of harm and responsibility, we visualized the regression lines based on these equations. ( C ) The coefficient estimates from the linear mixed-effect regression model showed that, compared with shame, guilt exerted a larger effect on compensation. ( D ) Participants’ average guilt and shame feelings showed no significant difference. ( C, D ) Data are shown as the mean ± standard error with overlaid dot plots.  * p < 0.05,  *** p < 0.001; NS, not significant.",
+    "original_url": "https://cdn.elifesciences.org/articles/107223/elife-107223-fig2-v1.tif",
+    "sha256": "879ba2d7c17f8c972f57d7e56b064a9ac6b22f988c909ef471f367113e3bfe8c",
+    "width": 1877,
+    "height": 1654
+  },
+  "107223:4": {
+    "path": "figures/elife_107223_fig4.png",
+    "title": "Human neurocomputational mechanisms of guilt-driven and shame-driven altruistic behavior",
+    "authors": "Ruida Zhu; Huanqing Wang; Chunliang Feng; Linyuan Yin; Ran Zhang; Yi Zeng; Chao Liu",
+    "first": "Zhu",
+    "year": "2025",
+    "doi": "10.7554/eLife.107223",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Zhu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Neural representation of cognitive antecedents and neural basis of emotion sensitivity. ( A ) The quotient of harm divided by the number of wrongdoers (i.e. average harm per person) is represented by the striatum and posterior insula (pINS). ( B ) The neural responses to average harm per person in the two clusters containing temporoparietal junction (TPJ)/ superior temporal sulcus (STS) and precentral cortex (PRC)/postcentral cortex (POC)/ supplementary motor area (SMA) were negatively correlated with responsibility-driven shame sensitivity. ( A, B ) Negative  T  values indicate negative correlation. Whole-brain FWE-cluster correction at p<0.05 after cluster-forming-threshold at p<0.001. ( C ) The TPJ/STS and PRC/POC/SMA clusters showed a significantly stronger negative correlation with shame-driven sensitivity than with guilt-driven sensitivity. Each line represents the least squares fit with shading showing the 95% confidence interval.",
+    "original_url": "https://cdn.elifesciences.org/articles/107223/elife-107223-fig4-v1.tif",
+    "sha256": "af56ce87e2aee0da6803178b32791f7b675a68f03679406ea3326aff1af59864",
+    "width": 1460,
+    "height": 2598
+  },
+  "107636:2": {
+    "path": "figures/elife_107636_fig2.png",
+    "title": "The representation of facial emotion expands from sensory to prefrontal cortex with development",
+    "authors": "Xiaoxu Fan; Abhishek Tripathi; Kelly Bijanki",
+    "first": "Fan",
+    "year": "2026",
+    "doi": "10.7554/eLife.107636",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Fan et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Prediction performance of encoding models in dorsolateral prefrontal cortex (DLPFC). ( A ) Spatial distribution of electrodes in DLPFC. Electrodes in all participants from each group are projected onto the Montreal Neurological Institute (MNI) space and shown on the average brain. Red shaded areas indicate middle frontal cortex provided by the FreeSurfer Desikan-Killiany atlas ( Desikan et al., 2006 ). Electrodes outside the DLPFC are not shown. ( B ) Averaged prediction accuracy across participants for speech condition. The performance of the encoding model is measured as Pearson correlation coefficient ( r ) between measured and predicted brain activities. ( C ) Averaged prediction accuracy across participants for music condition. ( D ) Prediction accuracy difference between speech condition and music condition for each group. Error bars are standard error of the mean. * p <0.05. (N childhood =8, N post-childhood =13). Figure 2—source data 1. Prediction performance of encoding models in dorsolateral prefrontal cortex (DLPFC).",
+    "original_url": "https://cdn.elifesciences.org/articles/107636/elife-107636-fig2-v1.tif",
+    "sha256": "4866b9ce50d6b929f9f8ae2910847c7d8bfc123cc131f9e3a03260fae66aa7a8",
+    "width": 2569,
+    "height": 1872
+  },
+  "107636:3": {
+    "path": "figures/elife_107636_fig3.png",
+    "title": "The representation of facial emotion expands from sensory to prefrontal cortex with development",
+    "authors": "Xiaoxu Fan; Abhishek Tripathi; Kelly Bijanki",
+    "first": "Fan",
+    "year": "2026",
+    "doi": "10.7554/eLife.107636",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Fan et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Prediction performance of encoding models in posterior superior temporal cortex (pSTC). ( A ) The electrode distribution in the native brain space for the four children. Electrodes in pSTC are green, and electrodes in dorsolateral prefrontal cortex (DLPFC) are yellow. ( B ) Prediction accuracy of encoding models in children. Bars indicate mean prediction accuracy across participants and lines indicate individual data. ( C ) Prediction accuracy of encoding models for S19 in both DLPFC and pSTC. ( D ) Spatial distribution of recording contacts in post-childhood participants’ pSTC. The pSTC electrodes identified in individual space are projected onto Montreal Neurological Institute (MNI) space and shown on the average brain. Contacts other than pSTC are not shown. Blue shaded areas indicate superior temporal cortex provided by the FreeSurfer Desikan-Killiany atlas ( Desikan et al., 2006 ). ( E ) Averaged prediction accuracy across post-childhood participants (N=25). Error bars are standard error of the mean. ** p <0.01. * p <0.05. Figure 3—source data 1. Prediction performance of encoding models in posterior superior temporal cortex (pSTC).",
+    "original_url": "https://cdn.elifesciences.org/articles/107636/elife-107636-fig3-v1.tif",
+    "sha256": "ab41cc197f70a39cbacb0cef2487483b00e5dc8840fc9b1c17b072ee2940c1b0",
+    "width": 3589,
+    "height": 2365
+  },
+  "11346:3": {
+    "path": "figures/elife_11346_fig3.png",
+    "title": "P1 interneurons promote a persistent internal state that enhances inter-male aggression in <i>Drosophila</i>",
+    "authors": "Eric D Hoopfer; Yonil Jung; Hidehiko K Inagaki; Gerald M Rubin; David J Anderson",
+    "first": "Hoopfer",
+    "year": "2015",
+    "doi": "10.7554/eLife.11346",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hoopfer et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.11346.011 Figure 3. Optogenetic stimulation of P1 neurons acutely suppresses aggression and promotes wing extension. ( A–B ) Frequency titration of 685 nm light on pairs of P1 a >CsChrimson::venus ( A ) or BDPG4U>CsChrimson::venus ( B ) males. Blocks of 30 s photostimulation (PS, gray bars) with increasing stimulation frequency separated by 1 min intervals were sequentially delivered to the males.  Top : raster plots showing lunging (blue ticks) and wing extensions (red ticks) by each pair.  Bottom : fraction of flies performing lunging or wing extension in 10 s time bins. n=20 pairs for P1 a >CsChrimson and 18 pairs for BDPG4U>CsChrimson.  Figure 3—figure supplement 1  shows functional imaging of P1 neuronal responses to Chrimson activation over the same range of stimulation frequencies. ( C, D ) Frequency of lunging ( C ) and wing extension ( D ) by P1 a >CsChrimson and BDPG4U>CsChrimson male pairs during each stimulation (gray bars) and post-stimulation period. Baseline refers to the 2 min prior to the first PS. Bars are mean ± s.e.m.; asterisks are Dunn’s corrected  P -values for between-genotype comparisons. See  Figure 3—figure supplement 2A  for comparison of P1 a >CsChrimson behavior during each interval with pre-stimulation baseline. ( E ) Fraction of flies performing lunges from baseline to the 30 Hz PS period (0 to 9:30 min) in P1 a >CsChrimson and BDPG4U>CsChrimson genotypes (data are from the experiments shown in A & B, blue lines). A linear regression was fit to each curve (see Materials and methods). The slope of both the BDPG4U and P1 a  linear regressions was significantly different from zero,  P <0.0001. The fraction of flies performing lunging was calculated as in ( A ). ( F ) Fraction of P1 a >CsChrimson males performing lunging (blue; same analysis as in panel ( E ) reproduced for purposes of comparison) or wing extension (red) over the same period. The slopes of the lines are significantly different ( P <0.0001). Data are from the experiment shown in ( A ), blue and red lines. ( G ) Proportion of lunges to wing extensions performed by P1 a >CsChrimson males from the post-20 Hz through post-50 Hz intervals (8.5–15 min in A). Behavior index = (lunges – wing ext.)/(lunges + wing ext.). Lunging and wing extension rates (bouts per min) for each pair were divided by the maximum lunge and wing extension rates in order to normalize between the two behaviors. Bars are mean ± s.e.m. Asterisks represent significant deviation from zero (Wilcoxon signed-rank test). See also  Figure 3—figure supplement 2C-E  for velocity of pairs and single males. ( H ) Epistasis experiment between P1 and TK FruM  neurons.  Top : Schematic of experimental genotypes. P1 a >CsChrimson was used to activate P1 neurons while silencing TK FruM  neurons with TK-GAL4 1 >UAS::eGFP-Kir2.1.  Bottom : Lunge (left) and wing extension (right) frequency per pair after PS with continuous 627nm light at 0.2 mW/mm 2  for 30 s. n=14–22 pairs per genotype; asterisks are Bonferroni-adjusted  P -values. See also  Figure 3—figure supplement 3  for raster plots and quantification of behavior during PS. ( I ) Lunging by photostimulated P1 a >ReaChR males ('Tester') towards 'Target' males with intact (oe+) or ablated (oe-) oenocytes. All males were group-housed to reduce baseline aggression. PS was 1 min of 530 nm light (10 Hz, 20 ms pulse-width, 0.2 mW/mm 2 ). Pairs were allowed to interact for 1 min prior to PS ('Pre') and 2 min after PS ('Post'). Gray lines are individual pairs and bold lines are mean ± s.e.m. Asterisks in gray are within genotype comparison and asterisks in black are between genotype comparisons. n=11 pairs (oe+) and 16 pairs (oe-). DOI:   http://dx.doi.org/10.7554/eLife.11346.011",
+    "original_url": "https://cdn.elifesciences.org/articles/11346/elife-11346-fig3-v2.tif",
+    "sha256": "bfedeab4696b3ea678cd380d2f5f2dabe0eaac17b3b4c387b7edf9d3065b49e7",
+    "width": 1535,
+    "height": 1994
+  },
+  "11346:5": {
+    "path": "figures/elife_11346_fig5.png",
+    "title": "P1 interneurons promote a persistent internal state that enhances inter-male aggression in <i>Drosophila</i>",
+    "authors": "Eric D Hoopfer; Yonil Jung; Hidehiko K Inagaki; Gerald M Rubin; David J Anderson",
+    "first": "Hoopfer",
+    "year": "2015",
+    "doi": "10.7554/eLife.11346",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hoopfer et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.11346.019 Figure 5. P1 activation induces a persistent state that is fly intrinsic. ( A, B ) Assay and experimental design used to separate optogenetic activation from social interaction. Males were placed on opposite sides of a removable opaque barrier ( left ; experimental design on  right ). After acclimation to the arena, a 1 min PS with 530 nm light (10 Hz, 20 ms pulse-width, 0.2 mW/mm 2 ) was delivered to the separated males. The barrier was removed 1 or 10 min after the end of PS and male interactions were recorded for 5 min. ( B–C ) Behavior of P1 a >ReaChR ( B ) and BDPGU>ReaChR ( C ) males when the barrier was removed 1 min after PS (barrier removal is represented by the black line). ( D, E ) Behavior of P1 a >ReaChR ( D ) and BDPG4U>ReaChR ( E ) males when the barrier was removed 10 min after the end of PS. Velocity of P1 a >ReaChR males before the barrier removal is shown in  Figure 5—figure supplement 1C . ( F ) Wing extensions per minute performed by separated P1 a >ReaChR males in the 10 min time period before barrier removal in the experiment shown in ( D ). ( G ) Lunges per minute performed by pairs of the indicated genotypes after the barrier was removed. Latency to increased aggression is shown in  Figure 5—figure supplement 1D−E . ( H ) Comparison of lunges per minute after barrier removal for P1 a >ReaChR pairs with or without photostimulation. Asterisks are Bonferroni-adjusted  P -values. DOI:   http://dx.doi.org/10.7554/eLife.11346.019",
+    "original_url": "https://cdn.elifesciences.org/articles/11346/elife-11346-fig5-v2.tif",
+    "sha256": "f8756db524e722cd08eb57467e13eebc763e8320f280fb90adf1ce73a68e31ca",
+    "width": 1253,
+    "height": 1885
+  },
+  "12669:3": {
+    "path": "figures/elife_12669_fig3.png",
+    "title": "Amygdala-ventral striatum circuit activation decreases long-term fear",
+    "authors": "Susana S Correia; Anna G McGrath; Allison Lee; Ann M Graybiel; Ki A Goosens",
+    "first": "Correia",
+    "year": "2016",
+    "doi": "10.7554/eLife.12669",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Correia et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.12669.009 Figure 3. Recruitment of a BLA-NAc circuit is greater following fear extinction with reward conditioning than fear extinction alone. ( A ) Experimental design. Coronal slices encompassing the amygdala were stained for cFos protein and imaged, and numbers of CTB+ cells, cFos+ nuclei and double-labeled cells were counted ( Ext-Ext  group, B and C: n = 22 from 3 rats, E: n = 15 from 4 rats;  Ext-RC  group, B and C: n = 21 from 5 rats, E: n = 11 from 3 rats;  RC  group, B and C: n = 24 images from 3 rats, E: n = 19 images from 5 rats). ( B ) BLA cells double-labeled for CTB and cFos, normalized to the total of CTB+ cells (p<0.05; inset p= n.s. ). ( C ) Number of cFos+ cells per µm 3  in the BLA (top panel, p=0.07; inset p= n.s. ). Representative images for data shown on panels B and C (bottom panel). ( D ) Coronal slices encompassing the NAc were stained for Nr4a3 protein and for nuclei (DAPI) and imaged, and numbers of Nr4a3+ nuclei were counted. A Z-projection of each imaged channel is represented. Scale bar represents 10 μm. ( E ) Number of Nr4a3+ cells per µm 3 , in the NAc (p<0.001; inset p= n.s ). 'n' represents the number of images analyzed. Statistical significance was calculated with two-tail t-test for unpaired data (B, C inset) or two-tail Mann-Whitney test (B inset, C, E, E inset). All data are mean ± s.e.m. *p<0.05, ***p<0.001. DOI:   http://dx.doi.org/10.7554/eLife.12669.009",
+    "original_url": "https://cdn.elifesciences.org/articles/12669/elife-12669-fig3-v1.tif",
+    "sha256": "8a5949c9b017ed487aa49759e0c96fbe1aa81f5a1a956ca020519d8b6183ca0c",
+    "width": 2789,
+    "height": 2135
+  },
+  "15192:1": {
+    "path": "figures/elife_15192_fig1.png",
+    "title": "Instructed knowledge shapes feedback-driven aversive learning in striatum and orbitofrontal cortex, but not the amygdala",
+    "authors": "Lauren Y Atlas; Bradley B Doll; Jian Li; Nathaniel D Daw; Elizabeth A Phelps",
+    "first": "Atlas",
+    "year": "2016",
+    "doi": "10.7554/eLife.15192",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    },
+    "legend": "10.7554/eLife.15192.003 Figure 1. Experimental design. ( A ) Prior to the conditioning phase of the experiment, participants in the Instructed Group saw each image and were informed about initial probabilities. Participants in the Uninstructed Group also saw the images prior to the experiment, but were not told about contingencies. ( B ) Participants in both groups underwent a Pavlovian fear conditioning task with serial reversals. There were three reversals across the duration of the task, leading to four continuous blocks of twenty trials. In each block, one image (the conditioned stimulus, or CS+) was paired with a shock (the unconditioned stimulus, or US) 30% of the time, leading to 4 reinforced trials and 8 unreinforced trials, whereas a second image (the CS-) was never paired with a shock. Images were presented for 4 s, followed by a 12-second inter-stimulus interval. ( C ) Upon each reversal, the Instructed Group was informed that contingencies had reversed. Button presses were included to ensure participants were paying attention to the instructions but had no effect on the task itself or task timing. Instructions were always immediately followed by at least two unreinforced presentations of each CS before the new CS+ was paired with a shock. The figure presents one of two pseudorandom trial orders used during the experiment (see Materials and methods). DOI:   http://dx.doi.org/10.7554/eLife.15192.003",
+    "original_url": "https://cdn.elifesciences.org/articles/15192/elife-15192-fig1-v2.tif",
+    "sha256": "a3fef82b96a1464e57ca4b7296d2e94d44a5dbd01557e9261ca77c84a514df29",
+    "width": 1486,
+    "height": 1059
+  },
+  "15192:4": {
+    "path": "figures/elife_15192_fig4.png",
+    "title": "Instructed knowledge shapes feedback-driven aversive learning in striatum and orbitofrontal cortex, but not the amygdala",
+    "authors": "Lauren Y Atlas; Bradley B Doll; Jian Li; Nathaniel D Daw; Elizabeth A Phelps",
+    "first": "Atlas",
+    "year": "2016",
+    "doi": "10.7554/eLife.15192",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    },
+    "legend": "10.7554/eLife.15192.015 Figure 4. Dissociable effects of instructed and feedback-driven learning in the Instructed Group. ( A ) ROI-based effects of feedback-driven and instruction based EV signaling within Instructed Group learners from the model including both signals (see Materials and Methods). Direct model comparisons within Instructed Group learners revealed a significant effect of Model in the amygdala (p<0.05). VMPFC differences were marginal within learners (p = 0.11) and were significant when all Instructed Group participants were included in analyses (p<0.05). Error bars reflect standard error of the mean. ***p<0.001; *p<0.05; †p<0.10. ( B ) Voxelwise direct comparison between feedback-driven and instruction based EV signaling within the Instructed Group. Regions in warm colors, including bilateral amygdala (left), showed preferential correlations with feedback-driven EV. Regions in cool colors, including left caudate (middle), dorsal anterior cingulate and medial prefrontal cortex (right), showed higher correlations with instruction-based EV. Additional regions that showed significant differences as a function of model are presented in  Figure 4—figure supplement 1 ,  Figure 4—figure supplement 1—source data 1  and  2 . DOI:   http://dx.doi.org/10.7554/eLife.15192.015",
+    "original_url": "https://cdn.elifesciences.org/articles/15192/elife-15192-fig4-v2.tif",
+    "sha256": "a634c4c16cc3d85ba0d7f1aa1f95c825bf4cd416e3f9c0b895be7ad6ae493454",
+    "width": 1486,
+    "height": 1060
+  },
+  "18247:3": {
+    "path": "figures/elife_18247_fig3.png",
+    "title": "Locus coeruleus to basolateral amygdala noradrenergic projections promote anxiety-like behavior",
+    "authors": "Jordan G McCall; Edward R Siuda; Dionnet L Bhatti; Lamley A Lawson; Zoe A McElligott; Garret D Stuber; Michael R Bruchas",
+    "first": "McCall",
+    "year": "2017",
+    "doi": "10.7554/eLife.18247",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "McCall et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.18247.005 Figure 3. Photostimulation of LC terminals in the BLA alters neuronal activity. ( A ) Schematic illustrating single-unit extracellular recording paradigm of BLA neurons modulated by ChR2-expressing LC-BLA terminals. ( B ) Representative principal component analysis plot showing the first two principal components with clear clustering of a single unit (maroon) from the noise (grey). Inset shows the waveform and spikes making up the isolated unit. Y-scale is 150 microvolts and x-scale is 500 ms. ( C ) Recordings from eight hemispheres of six  Th -Cre LC-BLA:ChR2  mice show the distribution of firing rates present in BLA neurons prior to and following LC-BLA terminal photostimulation (473 nm, 5 Hz, 3 min). ( D ) Average normalized firing rate of neurons that increase (maroon), decrease (grey), or do not change (black) firing rate in response to photostimulation. Inset, shows number of neurons in each group. Representative histograms (1 s bins) of isolated single-units showing increase ( E ) or decrease ( F ), or no change ( G ) in neuronal firing in response to photostimulation (473 nm, 5 Hz, 3 min).  Z -scored population responses of neurons showing increase ( H ) or decrease ( I ), or no change ( J ) in neuronal firing in response to photostimulation. ( K ) Response latency following onset of photostimulation for cells that did not alter firing (=) (n = 29), increased firing (+) (n = 9), or decreased firing (-) (n = 4). (Data represented as mean ± SD). ( L ) The same cells sorted by baseline firing rate. (Data represented as mean ± SEM. Kruskal-Wallis test one-way ANOVA for non-parametric data with Dunn’s multiple comparisons test, Kruskal-Wallis statistic = 6.536, p=0.0381; + vs. – Mean rank difference = −18.75, adjusted *p=0.0329; + vs. + Mean rank difference = −6.828, adjusted p=0.4341; - vs. = Mean rank difference = 11.92, adjusted p=0.2053.) ( M ) Waveform similarity, within group distribution of linear correlations. Inset, every average waveform for each recorded unit separated by response profile (= black, + maroon, - grey). ( N–P ) Bursting profiles for each recorded neuron. ( N ) Number of bursts per second. (Data represented as mean ± SEM). ( O ) Mean firing rate within bursts for each neuron. (Data represented as mean ± SEM). ( P ) Proportion of recorded spikes that occurred during bursts. (Data represented as mean ± SEM). DOI:   http://dx.doi.org/10.7554/eLife.18247.005",
+    "original_url": "https://cdn.elifesciences.org/articles/18247/elife-18247-fig3-v2.tif",
+    "sha256": "66d7c6b58e21f7d6926dde4c0a77a101c9d19a247b6b6ab130261b1e358e95b2",
+    "width": 2001,
+    "height": 2771,
+    "display_path": "figures/elife_18247_fig3_panels.png",
+    "panel_crop_box": [
+      0,
+      0.215,
+      1,
+      0.414
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2001,
+      2771
+    ],
+    "display_sha256": "a73c91df36cfa6e35889223675f29dde0979f4bcb129ec2f02e6220a0be7fca1"
+  },
+  "18247:5": {
+    "path": "figures/elife_18247_fig5.png",
+    "title": "Locus coeruleus to basolateral amygdala noradrenergic projections promote anxiety-like behavior",
+    "authors": "Jordan G McCall; Edward R Siuda; Dionnet L Bhatti; Lamley A Lawson; Zoe A McElligott; Garret D Stuber; Michael R Bruchas",
+    "first": "McCall",
+    "year": "2017",
+    "doi": "10.7554/eLife.18247",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "McCall et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.18247.009 Figure 5. Photostimulation of LC terminals in the BLA causes conditioned aversion. ( A ) Cartoon of viral and fiber optic delivery strategy and calendar of real-time place testing studies. ( B ) Representative traces of behavior at different frequencies. ( C ) Frequency response of RTPT and ( D ) locomotor activity at 5 and 60 Hz. Data represented as mean ± SEM, n = 4 eYFP, 5 ChR2. ( E ) Conditioned place aversion (CPA) behavioral calendar. ( F ) Representative CPA traces. ( G )  Th IRES-Cre ::LC-BLA:ChR2 mice (maroon; n = 9) show a conditioned aversive response to chamber paired with photostimulation compared to  Th IRES-Cre ::LC-BLA:eYFP controls (grey; n = 8) (Data represented as mean ± SEM, Student’s t-test, Mean difference = 131.3, t (15)  = 2.39, *p=0.0303, 95% CI [14.32 to 248.4) following two days of conditioning with ( H ) no significant differences in locomotor behavior during conditioning day 1 (CD1) and or conditioning day 2 (CD2) in CPA. DOI:   http://dx.doi.org/10.7554/eLife.18247.009",
+    "original_url": "https://cdn.elifesciences.org/articles/18247/elife-18247-fig5-v2.tif",
+    "sha256": "bd9efe9326008f1b4b31fcdcb5ff11e57198dc8fa302ae17fcbc52c452c82371",
+    "width": 2447,
+    "height": 1327
+  },
+  "32740:2": {
+    "path": "figures/elife_32740_fig2.png",
+    "title": "The causal role of the somatosensory cortex in prosocial behaviour",
+    "authors": "Selene Gallo; Riccardo Paracampo; Laura Müller-Pinzler; Mario Carlo Severo; Laila Blömer; Carolina Fernandes-Henriques; Anna Henschel; Balint Kalista Lammes; Tatjana Maskaljunas; Judith Suttrup; Alessio Avenanti; Christian Keysers; Valeria Gazzola",
+    "first": "Gallo",
+    "year": "2018",
+    "doi": "10.7554/eLife.32740",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Gallo et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.32740.015 Figure 2. ROIs and TMS results. ( A ) The relationship between InputMovie intensity, as assigned by an independent pool of participants during the movies validation procedure, and given donation for hand and face videos. Each point is the group average donation for the specific intensity. Error bars represent S.E.M. ( B ) Pain Localizer ROIs.  Left:  results of the pain localizer within the primary somatosensory cortices (see 'Supplementary information') shown on the Colin brain together with contours of regions associated with hand (blue) and face (red) movements. These contours were generated using the meta-analyses tool Neurosynth ( Yarkoni et al., 2011 ). Specifically, we generated reverse inference maps using the search terms ‘grasping’ and ‘speech production’ to probe movements of the hand and of the face, respectively, and intersected each with an anatomical map of the left SI from the anatomy toolbox (as the union of BA1, 2, 3a and 3b).  Right:  schematic visualization of the dorsal and ventral ROIs within the EEG template space, and approximate site of the TMS stimulation. ( C ) Interaction Condition x TMS results. *p<0.05. Error bars represent S.E.M. ( D ) The left render shows the location of the five HD-tDCS electrodes on the scalp and where the central anode is positioned relative to our d-SIL ROI (red). The image was created by inserting fish oil omega three pills in place of the HD-tDCS electrodes inside the electrodes holders. A participant was wearing the montage while a T1-weighted anatomical image was acquired (TR = 8.2 ms, TE = 3.8 ms, flip angle = 8°, FOV = 240 mm × 240 mm, 1 × 1 × 1 mm isotropic voxels). The right render shows the 3D simulation of current density changes expected from our tDCS montage, obtained using the electrostatic finite element method (FEM) offered by the Matlab toolbox COMETS 2 ( Jung et al., 2013 ). 10.7554/eLife.32740.016 Figure 2—source data 1. Average donation given by participants for the specific intensity and condition. Data source of  Figure 2A . 10.7554/eLife.32740.017 Figure 2—source data 2. dSI-L and vSI-L ROIs and BEM model used in  Figure 2A . 10.7554/eLife.32740.018 Figure 2—source data 3. Single participants’ robust slopes between the intensity of Input Movie and given donation in the TMS study. Data source of  Figure 2C .",
+    "original_url": "https://cdn.elifesciences.org/articles/32740/elife-32740-fig2-v2.tif",
+    "sha256": "912af71de9710cec94e59f1c9d9617c339dec26957583e3cec721b1216aae5e0",
+    "width": 1028,
+    "height": 2562,
+    "display_path": "figures/elife_32740_fig2_panels.png",
+    "panel_crop_box": [
+      0,
+      0.545,
+      1,
+      0.788
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1028,
+      2562
+    ],
+    "display_sha256": "f2733a528e60e7425a1e36e43d10dcdd2ddaeb57ab399cdfa9f07c0767ef38de"
+  },
+  "32740:3": {
+    "path": "figures/elife_32740_fig3.png",
+    "title": "The causal role of the somatosensory cortex in prosocial behaviour",
+    "authors": "Selene Gallo; Riccardo Paracampo; Laura Müller-Pinzler; Mario Carlo Severo; Laila Blömer; Carolina Fernandes-Henriques; Anna Henschel; Balint Kalista Lammes; Tatjana Maskaljunas; Judith Suttrup; Alessio Avenanti; Christian Keysers; Valeria Gazzola",
+    "first": "Gallo",
+    "year": "2018",
+    "doi": "10.7554/eLife.32740",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Gallo et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.32740.019 Figure 3. Regression between SI activity and donation. ( A )  Left:  relationship between brain activity of one example participant at a given time-point and the Z-donation for all the trials of that participant. The linear trend represents the slope of the robust regression performed on these values.  Right:  time-course of the robust regression slopes (betas) for the same example participant. ( B ) Time-course of the Hotelling's t-squared (Ht2) test on the slopes for the significant ROI and condition. Because the two significant Hand clusters are very close in time, for illustrative purposes only, they have been evidenced by a single yellow band. ( C ) Grand averages for high (darker lines) and low (lighter lines) donation for each dipole, SI-ROI and condition. ( D ) Right hemisphere results. Significant clusters based on Ht2 are shown in yellow. 10.7554/eLife.32740.020 Figure 3—source data 1. Brain activity of one example participant at a given time-point and the Z-donation for all the trials of that participant. Time-course of beta of the same participant. Data source of  Figure 3A . 10.7554/eLife.32740.021 Figure 3—source data 2. Time-course of the Hotelling's t-squared (Ht2) test on the slopes for the significant ROI and condition. Data source of  Figure 3B . 10.7554/eLife.32740.022 Figure 3—source data 3. Group average of the brain activity in each time point and condition. Data source of  Figure 3C . 10.7554/eLife.32740.023 Figure 3—source data 4. Time-course of the Hotelling's t-squared (Ht2) test on the slopes for the mirror ROI and condition. Data source of  Figure 3D .",
+    "original_url": "https://cdn.elifesciences.org/articles/32740/elife-32740-fig3-v2.tif",
+    "sha256": "757774306e86409cfa75fe677d4dd4f7d5a7c8cf2818232bdfa9a91d0f999c33",
+    "width": 1028,
+    "height": 2273
+  },
+  "48764:3": {
+    "path": "figures/elife_48764_fig3.png",
+    "title": "The bottom-up and top-down processing of faces in the human occipitotemporal cortex",
+    "authors": "Xiaoxu Fan; Fan Wang; Hanyu Shao; Peng Zhang; Sheng He",
+    "first": "Fan",
+    "year": "2020",
+    "doi": "10.7554/eLife.48764",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Fan et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Temporal response characteristics and granger causality analysis for face-selective ROIs during perception of Mooney and normal faces. ( A ) Normal and Mooney face images. ( B ) The peak latency averaged across subjects for each face-selective ROI (mean ± SEM). Mooney faces elicited a response with significantly longer latency in rOFA than normal faces (paired t test, t 23  = 4.009, p=0.001). ( C ) Time courses averaged across subjects for bilateral OFA and pFFA. Gray line is OFA and red line is pFFA. Shaded areas denote SEM. ﻿The circles above time courses represent peak latencies of individual subjects. rOFA was engaged significantly later than rpFFA when processing Mooney faces (Paired permutation test p=0.02. Bonferroni corrected). ( D ) Granger causality analysis performed within a series of 50 ms time windows. Arrows represent statistically significant causal effects (p<0.05, FDR corrected, F test. See Materials and methods for details).",
+    "original_url": "https://cdn.elifesciences.org/articles/48764/elife-48764-fig3-v2.tif",
+    "sha256": "7b0f97beed3eca3f8cf4904ae72b3c0938adb0dd28e235f2fc34072385672f2b",
+    "width": 2239,
+    "height": 2458,
+    "display_path": "figures/elife_48764_fig3_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.255
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2239,
+      2458
+    ],
+    "display_sha256": "3e394e5220bfcc3b01f9292745cac997c80b9f4f6460cdbe642bee3316e45fb4"
+  },
+  "57148:2": {
+    "path": "figures/elife_57148_fig2.png",
+    "title": "Dynamic encoding of social threat and spatial context in the hypothalamus",
+    "authors": "Piotr Krzywkowski; Beatrice Penna; Cornelius T Gross",
+    "first": "Krzywkowski",
+    "year": "2020",
+    "doi": "10.7554/eLife.57148",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Krzywkowski et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Dynamic encoding of spatial context in VMHvl. ( a ) In vivo calcium endoscopy was carried out in mice subjected to (left, middle) social defeat and then exposed again to (right) the defeat context one day later. ( b, e ) Activity traces of representative neurons showing increased (+) signal when the mouse enters the far or home chamber (dark color) or its immediately adjacent part of the corridor (light color). ( c, f ) Summary of activity of all neurons across the transition into the far or home chamber. ( d, g ) Histogram of area under the receiver operator curve for all neurons with significantly responding neurons indicated in color and average z-score traces ± SD (N = 9–10) of representative significant positive and negative responding neurons shown at right (p<0.05). Vertical lines in histogram indicate high (0.65) and low (0.35) cut-off for scoring positively responding neurons. ( h–k ) Correlation of neuron auROC scores between chambers and/or behavior. Distributions are shown outside the axes. ( l, o ) Overlap of Far chamber+, Home+, Assessment+, and Defeat+ neurons (N = 7). ( m, p ) LDA plot of neuron ensemble activity for a representative mouse in the home, far chamber, or corridor. Each data point represents a frame of calcium imaging data projected onto the first two linear discriminants. ( n, q ) Average distances between clusters of frames representing neuron ensemble activity for all mice (*p<0.05, **p<0.01, pre vs post - > F hr distance p=0.0075, t = 2.997, df = 9; F-C distance: p=0.005, t = 3.252, df = 9, H-C distance: p=0.037, t = 2.0213, df = 9). ( r–u ) Histograms of area under the receiver operator curve for all neurons with significantly responding neurons indicated in color. Vertical lines indicate high (0.65) and low (0.35) cut-off for scoring positively responding neurons. ( m, n, r, t ) Habituation phase before social defeat, and ( p, q, s, u ) context phase after social defeat (N = 4).",
+    "original_url": "https://cdn.elifesciences.org/articles/57148/elife-57148-fig2-v1.tif",
+    "sha256": "fe1379f5b79f90d842cc44018ef8a644aeb6fa86f3da305340a2d33d1d297197",
+    "width": 1969,
+    "height": 2895
+  },
+  "57148:5": {
+    "path": "figures/elife_57148_fig5.png",
+    "title": "Dynamic encoding of social threat and spatial context in the hypothalamus",
+    "authors": "Piotr Krzywkowski; Beatrice Penna; Cornelius T Gross",
+    "first": "Krzywkowski",
+    "year": "2020",
+    "doi": "10.7554/eLife.57148",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Krzywkowski et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 5. Social defeat remodels VMHvl function. ( a–b ) Optogenetic stimulation of Esr1+ neurons following local delivery of AAV- Ef1a ::FLEX-ChR2-eYFP into the VMHvl of  Esr1 ::Cre mice. ( c ) Mice were stimulated intermittently (20 Hz, 20 ms pulse, 30 s ON) following the introduction of a subordinate mouse into the home cage before (Pre-Defeat) and/or after (Post-Defeat) two episodes of social defeat in the far chamber. ( d–e ) Trial-averaged (N = 4–5 trials) behavioral measures before (Pre, 30 s), during (Light, 30 s), and after (Post, 30 s) optogenetic stimulation of Esr1+ neurons in VMHvl during either the (Blue – mice expressing ChR2; Grey – control mice expressing YFP) ( d ) Post-Defeat or ( e ) Pre-Defeat episodes (N = 3–7, *p<0.05, **p<0.01, ***p<0.001; Pre-defeat: Freezing – ANOVA F = 1, p=0.42, Flight – ANOVA F = 1, p=0.42, Interaction – ANOVA F = 0.68, p=0.54, Immobility – ANOVA F = 0.25, p=0.79; Post-defeat: Freezing – ANOVA F = 7.1, p=0.0075, Tukey’s: Pre vs Light p=0.013, Light vs Post p=0.017, Pre vs Post p=0.99, Flight – ANOVA F = 13.8, p=0.0005, Tukey’s: Pre vs Light p=0.0012, Light vs Post p=0.0012, Pre vs Post p=0.10, Interaction – ANOVA F = 19.15, p=0.0001, Tukey’s: Pre vs Light p=0.0001, Light vs Post p=0.019, Pre vs Post p=0.021, Immobility – ANOVA F = 11.2, p=0.0012, Tukey’s: Pre vs Light p=0.0014, Light vs Post p=0.0083, Pre vs Post p=0.63).",
+    "original_url": "https://cdn.elifesciences.org/articles/57148/elife-57148-fig5-v1.tif",
+    "sha256": "251560338fd535a783fd30df31a0d479b714d9fb483e979fda03709f991f4e41",
+    "width": 1827,
+    "height": 1323,
+    "display_path": "figures/elife_57148_fig5_panels.png",
+    "panel_crop_box": [
+      0,
+      0.28,
+      1,
+      0.61
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1827,
+      1323
+    ],
+    "display_sha256": "263a8bb11980f95fab9f8b5e310a8c48cd8f51865d88e69b37e3f99f1997f63e"
+  },
+  "66043:3": {
+    "path": "figures/elife_66043_fig3.png",
+    "title": "Neural mechanisms of modulations of empathy and altruism by beliefs of others’ pain",
+    "authors": "Taoyu Wu; Shihui Han",
+    "first": "Wu",
+    "year": "2021",
+    "doi": "10.7554/eLife.66043",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wu and Han",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. EEG results of Experiment 3. ( a ) Mean rating scores of pain intensity to pain versus neutral expressions of faces with patient or actor/actress identities. ( b ) ERPs to faces with patient or actor/actress identities at frontal electrodes. The voltage topography shows the scalp distribution of the P2 amplitude with the maximum over the central/frontal region. ( c ) Mean differential P2 amplitudes to pain versus neutral expressions of faces with patient or actor/actress identities. The voltage topographies illustrate the scalp distribution of the P2 difference waves to pain versus neutral expressions of faces with patient or actor/actress identities, respectively. Shown are group means (large dots), standard deviation (bars), measures of each individual participant (small dots), and distribution (violin shape) in ( a ) and ( c ). EEG, electroencephalography; ERP, event-related potential.   Figure 3—source data 1. Pain intensity rating scores.     Figure 3—source data 2. Mean differential P2 amplitudes.  ",
+    "original_url": "https://cdn.elifesciences.org/articles/66043/elife-66043-fig3-v3.tif",
+    "sha256": "0bb3a9a76eed88738ac686dc20d2898af9fd4bd97b5a4779a406c36300f123be",
+    "width": 2124,
+    "height": 700
+  },
+  "69178:4": {
+    "path": "figures/elife_69178_fig4.png",
+    "title": "Dorsal premammillary projection to periaqueductal gray controls escape vigor from innate and conditioned threats",
+    "authors": "Weisheng Wang; Peter J Schuette; Mimi Q La-Vu; Anita Torossian; Brooke C Tobias; Marta Ceko; Philip A Kragel; Fernando MCV Reis; Shiyu Ji; Megha Sehgal; Sandra Maesta-Pereira; Meghmik Chakerian; Alcino J Silva; Newton S Canteras; Tor Wager; Jonathan C Kao; Avishek Adhikari",
+    "first": "Wang",
+    "year": "2021",
+    "doi": "10.7554/eLife.69178",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wang et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. PMd ensemble activity represents distance from threat and escape velocity. ( A ) A general linearized model (GLM) was used to decode the position of each animal along the length of the enclosure from the neural data. The line plots depict the actual location (gray line) and GLM-predicted location (blue line) from example toy rat/rat and pre-shock/fear retrieval sessions. Note that the predicted location is more accurate for threat than control assays. ( B ) Bars show the mean squared error (MSE) of the GLM-predicted location from the actual location. The MSE is significantly lower for threat than control assays (Wilcoxon signed-rank test; n = 9 mice). The dotted red line indicates chance error, calculated by training and testing the GLM on circularly permuted data. Only threat assay error was significantly lower than chance (Wilcoxon signed-rank test; rat p<0.001, fear retrieval p=0.003). ( C ) Similar to ( A ), a GLM was used to predict the velocity away from (top) and toward (bottom) the threat in a representative mouse. ( D ) Similar to ( B ), bars depict the MSE of the GLM-predicted velocity away from (top) and toward (bottom) the threat. The GLM more accurately decodes threat than control velocities for samples in which the mice move away from the threat (top). As in ( B ), only threat assay error was significantly lower than chance (Wilcoxon signed-rank test; rat p=0.004, fear retrieval p=0.012). The accuracy does not differ in threat and control assays for samples in which the mice move toward the threat (bottom). (Wilcoxon test; n = 9 mice) **p<0.01.",
+    "original_url": "https://cdn.elifesciences.org/articles/69178/elife-69178-fig4-v2.tif",
+    "sha256": "82b3f1182a9db296b5b75860beb241b60d79cacbe687bb391fdc5f117fbbf22a",
+    "width": 2698,
+    "height": 2297
+  },
+  "69333:1": {
+    "path": "figures/elife_69333_fig1.png",
+    "title": "The entorhinal cortex modulates trace fear memory formation and neuroplasticity in the mouse lateral amygdala via cholecystokinin",
+    "authors": "Hemin Feng; Junfeng Su; Wei Fang; Xi Chen; Jufang He",
+    "first": "Feng",
+    "year": "2021",
+    "doi": "10.7554/eLife.69333",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Feng et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Trace fear memory formation deficit in  Cck -/-  mice. ( a ) Schematic diagram of the fear conditioning paradigm with a long trace interval of 20 s. Gray and light blue shadowed areas indicate the time frames before and after the onset of the CS (before-CS, after-CS). CS, conditioned stimulus; US, unconditioned stimulus. ( b–c ) Freezing percentages before ( b ) and after ( c ) the CS. Freezing percentages were recorded at baseline on the pre-conditioning day and post-training on the post-conditioning day. WT, wildtype, N = 14;  Cck -/- , CCK-knockout, N = 10. *p < 0.05; **p < 0.01; ***p < 0.001; NS, not significant. Statistical significance was determined by two-way RM ANOVA with Bonferroni post hoc pairwise comparison. RM ANOVA, repeated-measures analysis of variance. ( d ) Freezing score plot of the two groups of mice during the testing session. The freezing score was binned in a 2 s interval. Solid lines indicate the mean value, and shadowed areas indicate the SEM. The black bar indicates the presence of the CS from 0 to 10 s. Two-way RM ANOVA with a Greenhouse-Geisser correction, interaction significant, F(8.214, 180.716) = 2.149, p < 0.05; post hoc Bonferroni multiple pairwise comparisons between two groups in each bin, *p < 0.05. SEM, standard error of the mean. ( e ) Schematic diagram of the fear conditioning paradigm with a short-trace interval of 2 s. (f–g) Freezing percentages before ( f ) and after ( g ) the CS. WT, N = 11;  Cck -/- , N = 14. ( h ) Freezing score plot of the two groups of mice during the testing session. Freezing score was binned in a 1 s interval. The black bar indicates the presence of the CS from 0 to 3 s. Two-way RM ANOVA with a Greenhouse-Geisser correction, interaction significant, F(8.093, 186.145) = 2.499, p < 0.05; post hoc Bonferroni multiple comparisons in each bin, *p < 0.05. Figure 1—source data 1. Summary of freezing percentage in long and short trace fear conditioning.",
+    "original_url": "https://cdn.elifesciences.org/articles/69333/elife-69333-fig1-v2.tif",
+    "sha256": "4bceb64cc8360b63694c964b56c8d897ce941e66af3b70a68289566bc6d043d3",
+    "width": 2145,
+    "height": 1589
+  },
+  "69333:2": {
+    "path": "figures/elife_69333_fig2.png",
+    "title": "The entorhinal cortex modulates trace fear memory formation and neuroplasticity in the mouse lateral amygdala via cholecystokinin",
+    "authors": "Hemin Feng; Junfeng Su; Wei Fang; Xi Chen; Jufang He",
+    "first": "Feng",
+    "year": "2021",
+    "doi": "10.7554/eLife.69333",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Feng et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Neural plasticity deficit in the LA of  Cck -/-  mice and the rescuing effect of exogenous cholecystokinin (CCK). ( a ) Schematic diagram of in vivo recording in the LA. EC, entorhinal cortex; LA, lateral amygdala. STI, stimulation. REC, recording. ( b ) Post hoc verification of electrode tracks and recording area. ( c ) Representative AEP traces in response to different levels of noise stimulus. AEP, auditory evoked potential. ( d ) Representative traces of multiunit spikes to different levels of noise stimulus. ( e ) Representative input/output (I/O) curve of the slope of AEP vs. noise intensity. fEPSP, field excitatory postsynaptic potential. ( f ) Schematic diagram of the pairing protocol to induce LTP of AEP via theta-burst stimulation (TBS). LTP, long-term potentiation; ES, electrical stimulation; AS, auditory stimulation. ( g ) Time course plot of the normalized AEP slope during LTP. The wildtype (WT) group is indicated in black, and the  Cck -/-  in red. Representative traces of the AEP before (dotted line) and after (solid line) TBS are shown in inset panels for both groups. The average normalized slopes 10 min before pairing (−10–0 min, before) and 10 min after pairing (50–60 min, after) in the two groups of mice are shown on the right. **p < 0.01; two-way RM ANOVA with post hoc Bonferroni pairwise comparison; RM ANOVA, repeated-measures analysis of variance; NS, not significant. ( h ) Immunofluorescent staining of CCK B receptor (CCKBR) in brain slices from WT,  Cck -/- , CCKBR-KO, and CCKAB-KO mice. Magnified images are shown on the right. CCKBR-KO, CCK B receptor knock-out mouse; CCKAB-KO, CCK A receptor and B receptor double knock-out mouse. ( i ) Experimental timeline for (j–o). ( j ) Schematic diagram of the CS-US presentation. Gray and light blue shadowed areas indicate the time frames before and after CS presentation (before-CS, after-CS). (k–l) Freezing percentages before ( k ) and after ( l ) the CS during fear conditioning training on training day. Animals underwent six trials during a 2-day training (days 2 and 3). Two-way RM ANOVA with Bonferroni pairwise comparison, *p < 0.05. (m–n) Freezing percentages before ( m ) and after ( n ) the CS on the pre-training day (baseline) and the post-training day. CCK-4, N = 6; VEH, N = 7; *p < 0.05; NS, not significant; two-way RM ANOVA with Bonferroni post hoc pairwise test; RM ANOVA, repeated-measures analysis of variance. ( o ) Freezing score plot of the two groups of mice during the testing session on day 5. Solid lines indicate the mean value, and shadowed areas indicate the SEM. The black bar indicates the presence of the CS from 0 to 3 s. Two-way RM ANOVA with a Huynh-Feldt correction, interaction significant, F(17.22, 189.417) = 1.932, p = 0.017 < 0.05; post hoc Bonferroni multiple comparisons, *p < 0.05. Figure 2—source data 1. AEP-LTP induction in WT and CCK-KO mice.",
+    "original_url": "https://cdn.elifesciences.org/articles/69333/elife-69333-fig2-v2.tif",
+    "sha256": "e24702513d3f9467fbe9f439445088605675cbfa1323bde64f1c55092c380a7d",
+    "width": 2316,
+    "height": 2390
+  },
+  "77968:3": {
+    "path": "figures/elife_77968_fig3.png",
+    "title": "Early life stressful experiences escalate aggressive behavior in adulthood via changes in transthyretin expression and function",
+    "authors": "Rohit Singh Rawat; Aksheev Bhambri; Muneesh Pal; Avishek Roy; Suman Jain; Beena Pillai; Arpita Konar",
+    "first": "Rawat",
+    "year": "2022",
+    "doi": "10.7554/eLife.77968",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Rawat et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Peripubertal stress induced long term changes in TTR expression in brain-region and sex-specific diametrically opposed pattern. ( A ) Experimental timeline for TTR expression analysis.  Ttr  mRNA expression profile in ( B ) Hypo and PFC of peripubertal stress exposed (PPS) adult male (SEagg) and female (SNAgg) mice with control (Ctrl), 24 hr after RI session and ( C ) Hypo and PFC of peripubertal male and female mice 24 hr after stress exposure (PPS) with control [no stress exposure (NS)] counterparts. (N=12 mice/biological replicates per group). Data are presented as mean (± SD) and analyzed by three-way ANOVA followed by Bonferroni’s post hoc test (**** p<0.0001). ( D ) Representative immunoblot of TTR protein levels with N=3 mice/biological replicates per group. Data are presented as mean (± SD) and analyzed by two-way ANOVA followed by Bonferroni’s post hoc test (**** p<0.0001, ***p=0.0001, *p<0.05). Immunofluorescence analysis (N=3 mice/ biological replicates per group) with left panels showing TTR immunoreactive cells (arrowheads) in Hypo ( E ) and PFC ( G ) and right panel showing TTR immunoreactivity in Hypo ( F ) and PFC ( H ) of Ctrl and SEagg mice. Figure 3—source data 1. Uncropped immunoblot of TTR and GAPDH.",
+    "original_url": "https://cdn.elifesciences.org/articles/77968/elife-77968-fig3-v2.tif",
+    "sha256": "12154955ef7f01c585c1e9cf9036aee97a3ac444f0bac7836062c42d1a6c8d97",
+    "width": 2016,
+    "height": 2843
+  },
+  "77968:5": {
+    "path": "figures/elife_77968_fig5.png",
+    "title": "Early life stressful experiences escalate aggressive behavior in adulthood via changes in transthyretin expression and function",
+    "authors": "Rohit Singh Rawat; Aksheev Bhambri; Muneesh Pal; Avishek Roy; Suman Jain; Beena Pillai; Arpita Konar",
+    "first": "Rawat",
+    "year": "2022",
+    "doi": "10.7554/eLife.77968",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Rawat et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 5. Ttr  knockdown in hypothalamus resulting in escalated aggression and reduced thyroid hormone levels. ( A ) Experimental strategy of stereotaxic surgeries followed by behavioral and molecular experiments ( B ) Comparative analysis of behavioural profile during RI session between hypothalamus injected  Ttr  esiRNA (N=16 mice/biological replicates per group) and scrambled siRNA (Scr) males (N=15 mice/biological replicates per group). ( C ) T3 content in hypothalamus (Hypo) of Ttr esiRNA (N=7 mice per group) and Scr males (N=6 mice/biological replicates per group). ( D )  Ttr  mRNA,  Nrgn  mRNA,  Hr  mRNA and  Trh  mRNA expression analysis in Hypo of  Ttr  esiRNA and Scr males (N=9 mice/ biological replicates per group). Data are presented as mean (± SD) and analysed by unpaired Student’s t-test [*** (p< 0.001)] between Scr vs  Ttr  esiRNA group. Figure 5—source data 1. Data points for RI behavioral scoring. Figure 5—source data 2. Data points for T3 ELISA.",
+    "original_url": "https://cdn.elifesciences.org/articles/77968/elife-77968-fig5-v2.tif",
+    "sha256": "05b324f35e5fe80ecce7cf7812b644e4f8d03eeedec614acfe3a768d40560d80",
+    "width": 4367,
+    "height": 5282
+  },
+  "79581:3": {
+    "path": "figures/elife_79581_fig3.png",
+    "title": "Quantifying dynamic facial expressions under naturalistic conditions",
+    "authors": "Jayson Jeganathan; Megan Campbell; Matthew Hyett; Gordon Parker; Michael Breakspear",
+    "first": "Jeganathan",
+    "year": "2022",
+    "doi": "10.7554/eLife.79581",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Jeganathan et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Dynamic facial states inferred from time-frequency representation of Denver Intensity of Spontaneous Facial Action (DISFA) dataset. ( a ) Mean of the observation model for each state, showing their mapping onto action units and frequency bands. Avatar faces (top row) for each state show the relative contribution of each action unit, whereas their spectral projection (bottom row) shows their corresponding dynamic content. ( b ) Sequence of most likely states for each participant at each time point. Vertical lines demarcate transition between stimulus clips with different affective annotations. ( c ) Most common states across participants, using a 4 s sliding temporal window. ( d ) Proportion of participants expressing the most common state. Blue shading indicates 5–95% bootstrap confidence bands for the estimate. Grey shading indicates the 95th percentile for the null distribution, estimated using time-shifted surrogate data. ( e ) Transition probabilities displayed as a weighted graph. Each node corresponds to a state. Arrow thickness indicates the transition probability between states. For visualisation clarity, only the top 20% of transition probabilities are shown. States are positioned according to a force-directed layout where edge length is the inverse of the transition probability.",
+    "original_url": "https://cdn.elifesciences.org/articles/79581/elife-79581-fig3-v2.tif",
+    "sha256": "6331c15b0fb12a46d8f9ea1adc82da9f4cc11b34deb3e5d028bea2dede9b0f3b",
+    "width": 3220,
+    "height": 2513
+  },
+  "79581:6": {
+    "path": "figures/elife_79581_fig6.png",
+    "title": "Quantifying dynamic facial expressions under naturalistic conditions",
+    "authors": "Jayson Jeganathan; Megan Campbell; Matthew Hyett; Gordon Parker; Michael Breakspear",
+    "first": "Jeganathan",
+    "year": "2022",
+    "doi": "10.7554/eLife.79581",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Jeganathan et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 6. Hidden Markov model (HMM) inferred from time-frequency representation of melancholia dataset. ( a ) Contribution of action units and their spectral expression to each state. Avatar faces for each state show the relative contribution of each action unit. ( b ) State sequence for each participant at each time point, for controls (top) and participants with melancholia (bottom). Vertical lines demarcate stimulus clips. ( c ) Most common state across participants, using a 4 s sliding temporal window. ( d ) Proportion of participants expressing the most common state for control (blue) and melancholia cohorts (black). Shading indicates 5% and 95% bootstrap confidence bands. ( e ) Transition probabilities displayed as a weighted graph, with the top 20% of transition probabilities shown. States are positioned according to a force-directed layout where edge length is the inverse of transition probability. ( f ) Differences in mean transition probabilities between participants with melancholia and controls. Each row/column represents an HMM state. Colours indicate (melancholia–controls) values.",
+    "original_url": "https://cdn.elifesciences.org/articles/79581/elife-79581-fig6-v2.tif",
+    "sha256": "33d21ceae6ca39ebafbd8c389a085e90abdb74281d3f737cfb67ac41f818ac8b",
+    "width": 3230,
+    "height": 2180,
+    "display_path": "figures/elife_79581_fig6_panels.png",
+    "panel_crop_box": [
+      0.5,
+      0.43,
+      1,
+      0.675
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      3230,
+      2180
+    ],
+    "display_sha256": "1bc771d4b58401c1fc08a613b3a59df0194bb4b909e95a5fedd7b4064d6cbc64"
+  },
+  "84566:2": {
+    "path": "figures/elife_84566_fig2.png",
+    "title": "Multi-centre analysis of networks and genes modulated by hypothalamic stimulation in patients with aggressive behaviours",
+    "authors": "Flavia Venetucci Gouveia; Jurgen Germann; Gavin JB Elias; Alexandre Boutet; Aaron Loh; Adriana Lucia Lopez Rios; Cristina Torres Diaz; William Omar Contreras Lopez; Raquel Chacon Ruiz Martinez; Erich Talamoni Fonoff; Juan Carlos Benedetti-Isaac; Peter Giacobbe; Pablo M Arango Pava; Han Yan; George M Ibrahim; Nir Lipsman; Andres Lozano; Clement Hamani",
+    "first": "Gouveia",
+    "year": "2023",
+    "doi": "10.7554/eLife.84566",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Gouveia, Germann et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Patient demographics and treatment outcome. ( A ) Patients were divided in three main groups according to age: pediatric population (≤17years, 11 out of 33), young adults (18–30years, 14 out of 33) and older adults (31–52years, 8 out of 33). ( B ) Distribution of males (21 out of 33) and females (12 out of 33) in this study. ( C ) Patient distribution according to the percentage of symptomatic improvement (≤20: 3 out of 33; 21–40: 1 out of 33; 41–60: 7 out of 33; 61–80: 1 out of 33; 81–100: 21 out of 33). Note that the majority of individuals presented over 30% improvement following treatment (criteria for being considered a treatment responder), and a large proportion of patients presented an improvement greater than 80%. ( D ) Age at surgery was significantly negatively correlated with postoperative symptomatic improvement ( R =–0.61; R2=0.38; *** p<0.001). ( E ) There was no significant difference in the percentage of symptomatic improvement between male and female patients.",
+    "original_url": "https://cdn.elifesciences.org/articles/84566/elife-84566-fig2-v2.tif",
+    "sha256": "b231e4ffb6aa0e4d0b05e0e7da62b385afe7e636e235619f3c32d0cfae5c2857",
+    "width": 2016,
+    "height": 1412
+  },
+  "84566:4": {
+    "path": "figures/elife_84566_fig4.png",
+    "title": "Multi-centre analysis of networks and genes modulated by hypothalamic stimulation in patients with aggressive behaviours",
+    "authors": "Flavia Venetucci Gouveia; Jurgen Germann; Gavin JB Elias; Alexandre Boutet; Aaron Loh; Adriana Lucia Lopez Rios; Cristina Torres Diaz; William Omar Contreras Lopez; Raquel Chacon Ruiz Martinez; Erich Talamoni Fonoff; Juan Carlos Benedetti-Isaac; Peter Giacobbe; Pablo M Arango Pava; Han Yan; George M Ibrahim; Nir Lipsman; Andres Lozano; Clement Hamani",
+    "first": "Gouveia",
+    "year": "2023",
+    "doi": "10.7554/eLife.84566",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Gouveia, Germann et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Structural connectivity mapping. ( A ) Magnetic resonance imaging (MRI) in the sagittal plane showing the fiber density of streamlines connected to the volumes of activated tissue (VATs) associated with significantly greater symptomatic improvement. ( B ) 3D reconstruction of the streamlines associated with significantly greater improvement illustrated on the MNI152 brain ( https://www.bic.mni.mcgill.ca/ServicesAtlases/ICBM152NLin2009 ); the posterior hypothalamic nucleus label (in red) was derived from a previously published high-resolution MRI atlas of the human hypothalamic region ( https://zenodo.org/record/3903588#.YHiE7pNKiF0 ). ( C ) MRI showing the relation between VATs responsible for eliciting at least 50% improvement and the fiber density map (from top to bottom: sagittal, coronal and axial views). The results presented in A and C are illustrated on a 100micron resolution, 7.0 Tesla FLASH brain ( https://openneuro.org/datasets/ds002179/versions/1.1.0 ) in MNI152 space. Abbreviations: AFP: Amygdalofugal Pathway; ALIC: Anterior Limb of the Internal Capsule; CTT: Central-Tegmental Tract; FPT: Frontopontine Tract; MFB: Medial Forebrain Bundle; ML: Medial Lemniscus; MLF: Medial-Longitudinal Fasciculus; MP: Motor Projections; RBT: Rubrospinal Tract; SCP: Superior Cerebellar Peduncle; STT: Spino-Thalamic Tract.",
+    "original_url": "https://cdn.elifesciences.org/articles/84566/elife-84566-fig4-v2.tif",
+    "sha256": "af6dcb50dd4f9b59f9c91eb3a9d8d7337f9d5aafd36095170e905c155d011830",
+    "width": 2016,
+    "height": 2613
+  },
+  "85567:5": {
+    "path": "figures/elife_85567_fig5.png",
+    "title": "Ingestible pills reveal gastric correlates of emotions",
+    "authors": "Giuseppina Porciello; Alessandro Monti; Maria Serena Panasiti; Salvatore Maria Aglioti",
+    "first": "Porciello",
+    "year": "2024",
+    "doi": "10.7554/eLife.85567",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Porciello et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 5. Association between the Stomach pH and perceived emotions (three-way interaction between item, stomach pH, and type of video-clip). This figure illustrates the association between stomach pH and perceived emotions (disgust, fear, happiness, and sadness) across the five categories of video clips (disgusting, fearful, happy, neutral, and sad). Notably, it highlights the main differences, primarily observed in the left panel, concerning the disgusting video clips. Panel on the upper right highlights the main differences concerning the fearful video clips. Dots represent participants’ VAS ratings following the different types of video clip, shadows indicate Confidence Intervals. The pH has been mean-centred and scaled. *p≤0.05; ** p≤0.01.",
+    "original_url": "https://cdn.elifesciences.org/articles/85567/elife-85567-fig5-v1.tif",
+    "sha256": "e43c27058fd1401dc015a1f3e2da87ee81fce1183e401d2aed1c823f90bee128",
+    "width": 3390,
+    "height": 2107
+  },
+  "85567:6": {
+    "path": "figures/elife_85567_fig6.png",
+    "title": "Ingestible pills reveal gastric correlates of emotions",
+    "authors": "Giuseppina Porciello; Alessandro Monti; Maria Serena Panasiti; Salvatore Maria Aglioti",
+    "first": "Porciello",
+    "year": "2024",
+    "doi": "10.7554/eLife.85567",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Porciello et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 6. Changes of stomach pH as function of type of video clip (left panel) and time, i.e. datapoints, (right panel). *p≤0.05; ** p≤0.001.",
+    "original_url": "https://cdn.elifesciences.org/articles/85567/elife-85567-fig6-v1.tif",
+    "sha256": "d2365e140d18b4dcd58c49b60d2863d721e8e707219e746130092a7565a2055e",
+    "width": 3001,
+    "height": 1101
+  },
+  "86737:3": {
+    "path": "figures/elife_86737_fig3.png",
+    "title": "Chemo- and optogenetic activation of hypothalamic <i>Foxb1</i>-expressing neurons and their terminal endings in the rostral-dorsolateral PAG leads to tachypnea, bradycardia, and immobility",
+    "authors": "Reto B Cola; Diana M Roccaro-Waldmeyer; Samara Naim; Alexandre Babalian; Petra Seebeck; Gonzalo Alvarez-Bolado; Marco R Celio",
+    "first": "Cola",
+    "year": "2024",
+    "doi": "10.7554/eLife.86737",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Cola et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Optogenetic activation of hypothalamic Foxb1+ terminals in the rostral dlPAG induces freezing-like behavior. ( a ) A representative example of track visualizations with underlying density maps for a ChR2-expressing Foxb1-Cre mouse belonging to the ‘OnTarget_antPAG’ group during 3 min of baseline (left) and 3 min of optogenetic stimulation (right). Note that the mouse remained immobile for the entire duration of the stimulation period. The color coding scales are not fixed between the two conditions. Open field arena dimensions are 40x40cm. Track visualization with underlying density maps for all other mice can be found in  Supplementary file 3 . ( b ) A representative example of a zone visit diagram taken from the same recording as the track visualizations in ( a ). Note, that the zone transitions stop completely after the onset of optogenetic stimulation. Zone visit diagrams for all other mice can be found in  Supplementary file 4 . ( c ) A visual representation of the arena partitioning into the different zones (i.e. arena, periphery, center, and four corners). ( d-h ) Comparison of multiple parameters extracted from the open field experiments. Optogenetic activation of parvafox Foxb1  terminals in the PAG reduces distance moved ( d ), speed.moving ( e ), and time in center ( h ), while time spent immobile ( f ) and time in periphery ( g ) increases. Optogenetic silencing of parvafox Foxb1  terminals in the PAG induces opposing effects.",
+    "original_url": "https://cdn.elifesciences.org/articles/86737/elife-86737-fig3-v1.tif",
+    "sha256": "f2c1755dab08b817dac7ba952c5e976af2ff76706c2aded8f57f2ebc7f9902e2",
+    "width": 1889,
+    "height": 1173
+  },
+  "86737:6": {
+    "path": "figures/elife_86737_fig6.png",
+    "title": "Chemo- and optogenetic activation of hypothalamic <i>Foxb1</i>-expressing neurons and their terminal endings in the rostral-dorsolateral PAG leads to tachypnea, bradycardia, and immobility",
+    "authors": "Reto B Cola; Diana M Roccaro-Waldmeyer; Samara Naim; Alexandre Babalian; Petra Seebeck; Gonzalo Alvarez-Bolado; Marco R Celio",
+    "first": "Cola",
+    "year": "2024",
+    "doi": "10.7554/eLife.86737",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Cola et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 6. Optogenetic activation of Foxb1+ terminals in the rostral dlPAG alters heart rate. ( a ) Telemetric recording of heart rate of mouse 34-21/10 in an open field. Average every 10 s, 40 min long recording. Heart rate increases from 700 to 740 during the first few minutes and remain at this level until the start of the optogenetic activation of the Foxb1 endings in the dlPAG. During the 2 min of flashing blue light, heart rate drops to under 640 but has an initial, short recovery to 690. During the following 10 min of baseline recording, the cardiovascular system is slightly dysregulated, with an increased variability in heart rate. During the second photo-stimulation, the drop in heartbeats has an amplitude comparable to the one during the first stimulation. ( b ) Telemetric recording of heart rate (blue curve) and movements (red curve) of mouse 106-21/10 in an open field. Average every 10 s, 20 min long recording. Heart rate values are around 740 during the first minutes (baseline condition), while the mouse is continuously moving around in the open field. Shortly after the beginning of the optogenetic activation of the Foxb1 endings in the dlPAG, the heartbeat drops massively (by ~40 %) from 740 to 450 bpm and remains around this value during the 2 min of blue light flashing (photo-stimulation). Notice the complete immobility of the mouse during this period. At the end of the optogenetic activation, heart rate rapidly returns to the baseline level of approximately 740 bpm.",
+    "original_url": "https://cdn.elifesciences.org/articles/86737/elife-86737-fig6-v1.tif",
+    "sha256": "92eadee36561549e405651e5c83c253349342bfae45b80ad4b0ccf6a96196f15",
+    "width": 2487,
+    "height": 2439
+  },
+  "88733:3": {
+    "path": "figures/elife_88733_fig3.png",
+    "title": "Periaqueductal gray activates antipredatory neural responses in the amygdala of foraging rats",
+    "authors": "Eun Joo Kim; Mi-Seon Kong; Sanggeon Park; Jeiwon Cho; Jeansok John Kim",
+    "first": "Kim",
+    "year": "2024",
+    "doi": "10.7554/eLife.88733",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Kim et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Dorsal periaqueductal gray (dPAG) optical stimulation and amygdala recordings. ( A ) Virus injection in dPAG and tetrode array implantation targeting basolateral amygdala (BLA). Light stimulation during single-unit recordings in freely moving rats. ( B ) Stimulation testing sessions: in pre- and post-stim trials, rats freely procured pellets; in stim trials, optical stimulation prevented procurement of pellets. ( C, D ) During dPAG stimulation, animals showed increased outbound foraging time ( C ;  Χ 2  = 117.8, p<0.0001, Friedman test; ps<0.0001, Dunn’s test, n = 78 recording days from 7 rats) and decreased success rate ( D ;  Χ 2  = 154.0, p<0.0001, Friedman test; ps<0.0001, Dunn’s test, n = 78 recording days from 7 rats). ****p<0.0001 compared to pre-robot and post-robot sessions. ####p<0.0001 compared pre-robot session. ( E ) Subset of BLA units (10.0%) responsive to optical stimulation (Stim cells; left), and a representative (center) and all stimulation-responsive (Stim cells; right; n = 320 cells) raster plots with peri-event time histograms (PETHs). ( F ) Subset of animals (n = 3 rats) underwent additional robot trials following the post-stim session. ( G ) Increased outbound foraging time during robot session compared to post-stimulation session ( t (15) = 6.655, p<0.0001; paired  t -test; 16 recording days from 3 rats). ****p<0.0001. ( H ) Twenty-two BLA units were dPAG stimulation-responsive. ( I ) Representative raster plots of dPAG stimulation-responsive and -nonresponsive units. ( J ) Proportions of robot vs. non-robot cells differed between stimulation-responsive and -nonresponsive units ( Χ 2  = 11.134, p<0.001; chi-square test). ***p<0.001. ( K ) PETHs of stim (n = 23 cells) and non-stim cells (n = 62 cells) during stimulation and robot sessions. ( L ) Relationship between maximal firing rates during first 500 ms subsequent to robot activation and maximal firing rates during first 500 ms after stimulation onset ( r (85) = 0.405, p<0.001; Pearson correlation). ( M ) Population cross-correlograms (CCs) with significant synchrony during robot session (n = 26 CCs) were higher than other sessions. Dotted vertical lines indicate 0–100 ms window for testing significance. Gray, blue, and dark yellow ***p<0.001 compared to pre-stimulation, stimulation, and post-stimulation sessions, respectively. ( N ) Among synchronized BLA cell pairs, those including dPAG stimulation-responsive cell(s) (stim pairs; 61.5%; n = 16 pairss) showed increased correlated firings (area under the curve [AUC] during 0–100 ms window) during the robot session compared to other sessions. In contrast, synchronized BLA cell pairs that consisted of stimulation nonresponsive cells only (n = 10 pairs) showed no AUC differences across sessions. Gray *, blue **, and dark yellow **p<0.05 compared to pre-stimulation, p<0.01 compared to stimulation, and p<0.001 compared to post-stimulation sessions, respectively. ( O ) Comparing CCs during testing windows (0–50 ms and 50–100 ms) between stim (n = 16) and non-stim pairs (n = 10), stim pairs exhibited higher correlated firing than non-stim pairs during the 0–50 ms block ( t (21.99) = 2.342, p=0.0286;  t -test), while displaying decreased correlated firings in the second block (50–100 ms;  U  = 42, p=0.045; Mann–Whitney  U  test). *p<0.05 compared to the non-stim pairs. Panels  B  and  F  created with  BioRender.com , and published using a CC BY-NC-ND license with permission. © 2024, BioRender Inc 2024 BioRender Inc https://creativecommons.org/licenses/by-nc-nd/4.0/ Figure 3B was created using  BioRender , and is published under a  CC BY-NC-ND 4.0.  Further reproductions must adhere to the terms of this license. © 2024, BioRender Inc 2024 BioRender Inc https://creativecommons.org/licenses/by-nc-nd/4.0/ Figure 3F was created using  BioRender , and is published under a  CC BY-NC-ND 4.0 . Further reproductions must adhere to the terms of this license.",
+    "original_url": "https://cdn.elifesciences.org/articles/88733/elife-88733-fig3-v1.tif",
+    "sha256": "0703f230a65a2c6417e88eaba2a2a351ed70187696b68dda5263728acdddd164",
+    "width": 2205,
+    "height": 2298
+  },
+  "89873:2": {
+    "path": "figures/elife_89873_fig2.png",
+    "title": "Multi-level processing of emotions in life motion signals revealed through pupil responses",
+    "authors": "Tian Yuan; Li Wang; Yi Jiang",
+    "first": "Yuan",
+    "year": "2024",
+    "doi": "10.7554/eLife.89873",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Yuan et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Time course of pupil responses to happy, sad, and neutral biological motion (BM) in Experiments 1–4. Solid lines represent pupil diameter under each emotional condition as a function of time (happy: red; sad: blue; neutral: gray); shaded areas represent the standard error of the mean (SEM) between participants (N = 24); colored horizontal lines indicate periods during which there are statistically significant differences among conditions at p < 0.05; and black horizontal lines indicate significant differences after cluster-based permutation correction. All the pupil data are in arbitrary units (a.u.) ( A ) In Experiment 1a, the happy BM evoked larger pupil response as compared to the sad and neutral BM, and the sad BM evoked smaller pupil size than the neutral BM. ( B ) In Experiment 2, the inverted BM failed to produce such emotional modulation effects. ( C ) In Experiment 3, the emotional BM that is deprived of the local motion feature exerted no emotional modulation on pupil responses. ( D ) In Experiment 4, both the happy and sad local BM induced a larger pupil response than the neutral local BM, and such dilation effect started from a relatively early time point.",
+    "original_url": "https://cdn.elifesciences.org/articles/89873/elife-89873-fig2-v1.tif",
+    "sha256": "470b6b1d5b1d49866e3c918a9ade4995dd46218889028e7043b4d18edb97cd6d",
+    "width": 1887,
+    "height": 1688
+  },
+  "89873:3": {
+    "path": "figures/elife_89873_fig3.png",
+    "title": "Multi-level processing of emotions in life motion signals revealed through pupil responses",
+    "authors": "Tian Yuan; Li Wang; Yi Jiang",
+    "first": "Yuan",
+    "year": "2024",
+    "doi": "10.7554/eLife.89873",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Yuan et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Normalized mean pupil responses using the neutral condition as baseline, plotted against happy and sad conditions. ( A ) In Experiment 1a, the group average pupil response to happy intact biological motion (BM) is significantly larger than that to sad and neutral BM, while the pupil size induced by sad BM is significantly smaller than that evoked by neutral BM. ( B, C ) Moreover, such an emotional modulation on pupil sizes was again identified in the test and retest of the replication experiment (Experiment 1b). ( D ) In Experiment 2, no significant differences in pupil responses were observed for inverted BM. ( E ) In Experiment 3, when the biological characteristic was deprived from the emotional BM, it failed to induce any modulations on pupil sizes. ( F ) In Experiment 4, both the happy and sad local BM induced a significantly larger pupil size than neutral local BM, with no significant difference between the happy and sad condition. All the pupil data are in arbitrary units (a.u.). Each point represents one individual data. Error bars showed standard errors of the mean (N = 24). *p < 0.05, **p < 0.01, ***p < 0.001.",
+    "original_url": "https://cdn.elifesciences.org/articles/89873/elife-89873-fig3-v1.tif",
+    "sha256": "13c6d823f2c432382f78cafd0e79f3c43059121127ddb46a8e6975b2f6a3edc4",
+    "width": 2651,
+    "height": 2049
+  },
+  "95599:2": {
+    "path": "figures/elife_95599_fig2.png",
+    "title": "Cardiac afferent signals can facilitate visual dominance in binocular rivalry",
+    "authors": "John P Veillette; Fan Gao; Howard C Nusbaum",
+    "first": "Veillette",
+    "year": "2024",
+    "doi": "10.7554/eLife.95599",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Veillette et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Paired differences in subjects’ mean dominance durations. (Left) Subjects’ mean dominance durations for grating stimuli that pulse in-phase with cardiac systole compared to those that pulse in diastole are shown on top. The colored lines denote individual subjects and connect their condition means. Bootstrap distributions and 95% confidence intervals of the paired differences between conditions are shown below. (Middle) The same visualization is shown for only stimuli presented to the left eye (Right) and only to the right eye.",
+    "original_url": "https://cdn.elifesciences.org/articles/95599/elife-95599-fig2-v1.tif",
+    "sha256": "23cadb060df3caa79b94cce73afe76f98480cf5a6e6684e9bd3a8d7c268cdea5",
+    "width": 2205,
+    "height": 1155
+  },
+  "95599:3": {
+    "path": "figures/elife_95599_fig3.png",
+    "title": "Cardiac afferent signals can facilitate visual dominance in binocular rivalry",
+    "authors": "John P Veillette; Fan Gao; Howard C Nusbaum",
+    "first": "Veillette",
+    "year": "2024",
+    "doi": "10.7554/eLife.95599",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Veillette et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Bayesian mixture model of interoceptive accuracy. ( a ) Observed accuracies on the heartbeat discrimination task are modeled as a mixture between an at-chance Binomial distribution and an above-chance Beta-Binomial distribution, the conditional posterior predictive likelihoods of which are shown. ( b ) Conditional likelihoods can be combined with the estimated population prevalence of above-chance performers to assign of posterior probability of belonging to each distribution to any given subject.",
+    "original_url": "https://cdn.elifesciences.org/articles/95599/elife-95599-fig3-v1.tif",
+    "sha256": "805806263df2df30bbb2cbba9235f080b6d4230815cc3382d827462c1c89e2d8",
+    "width": 2205,
+    "height": 809
+  }
+}
