@@ -1,0 +1,35 @@
+{
+  "content_commit": "aa96e37cb42abb0a9b0f6b29f0b6e731990138f4",
+  "verified_at_utc": "2026-10-20T06:21:24.025911+00:00",
+  "files": [
+    {
+      "kind": "pptx",
+      "url": "https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/aa96e37cb42abb0a9b0f6b29f0b6e731990138f4/chapters/C05/Reading_and_Rewriting_the_Brain_Chapter_5.pptx",
+      "status": 206,
+      "bytes": 876147833,
+      "content_range": "bytes 0-255/876147833",
+      "correct_binary_magic": true
+    },
+    {
+      "kind": "static_pdf",
+      "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/aa96e37cb42abb0a9b0f6b29f0b6e731990138f4/chapters/C05/Reading_and_Rewriting_the_Brain_Chapter_5_Static.pdf",
+      "status": 206,
+      "bytes": 13287972,
+      "content_range": "bytes 0-255/13287972",
+      "correct_binary_magic": true
+    }
+  ],
+  "presenton_pdf": {
+    "url": "https://api.presenton.ai/s/gVv6O6WEmWy1tuvCpAjP5uvFL90sT8UR",
+    "message": null,
+    "id": 19474
+  },
+  "presenton_preview": {
+    "url": "https://presenton.ai/presentation-preview?t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiaHRtbC10by1hbnktcHJldmlldyIsImh0bWxfdG9fYW55X2NyZWF0aW9uIjoxOTQ3NCwiZXhwIjoxNzkyNTYzMjg5fQ.uMU0FmYtIEo4Jh3WXsgASyCxn9nXofETr5NEnPs8VUg"
+  },
+  "fonts": [
+    "Arial"
+  ],
+  "preview_static": true,
+  "desktop_powerpoint_playback_tested": false
+}
