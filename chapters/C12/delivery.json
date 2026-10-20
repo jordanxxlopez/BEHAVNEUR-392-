@@ -1,0 +1,38 @@
+{
+  "commit": "32357cc5d584c9a7942994b4cb86d4ea5bc4506b",
+  "slides": 80,
+  "desktop_powerpoint_playback_tested": false,
+  "pptx": {
+    "url": "https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/32357cc5d584c9a7942994b4cb86d4ea5bc4506b/chapters/C12/Hunger_Thirst_and_Satiety_Ingestive_Behavior_Chapter_12.pptx",
+    "bytes": 410059267,
+    "http_status": 206,
+    "signature_verified": true,
+    "checked_at_utc": "2026-10-20T20:23:18.091388+00:00"
+  },
+  "static_pdf": {
+    "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/32357cc5d584c9a7942994b4cb86d4ea5bc4506b/chapters/C12/Hunger_Thirst_and_Satiety_Ingestive_Behavior_Chapter_12_Static.pdf",
+    "bytes": 14072516,
+    "http_status": 206,
+    "signature_verified": true,
+    "checked_at_utc": "2026-10-20T20:23:18.262683+00:00"
+  },
+  "presenton": {
+    "title": "Hunger, Thirst, and Satiety: How the Brain Controls Ingestion",
+    "slides": 80,
+    "format": "pdf",
+    "export": {
+      "url": "https://api.presenton.ai/s/T7NMGoT2PE1KVAsv-taQMV6mt7zMX39n",
+      "message": null,
+      "id": 19871
+    },
+    "preview": {
+      "url": "https://presenton.ai/presentation-preview?t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiaHRtbC10by1hbnktcHJldmlldyIsImh0bWxfdG9fYW55X2NyZWF0aW9uIjoxOTg3MSwiZXhwIjoxNzkyNjEzODUyfQ.g3fPosHdvUwMpfk_xPBpA12bt9-Ee4b8S9jaAn3jF-Y"
+    },
+    "fonts": [
+      "Arial"
+    ],
+    "native_pdf_sha256": "8e049b08f1794556842f62c09d3739261d6359c364a76202677b649e64d9eb7d",
+    "source": "Final native static PDF pages, with original credits; full source book and article PDFs not uploaded.",
+    "expires": "Presenton export and preview links expire after 24 hours."
+  }
+}
