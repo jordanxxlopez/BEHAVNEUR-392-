@@ -1,24 +1,29 @@
 {
+  "revision": "fd597847c373e27f1a8d986b02960005b47e453e",
   "native_downloads": [
     {
       "kind": "pptx",
-      "url": "https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C04/Chemical_Control_of_Behavior_Chapter_4.pptx",
+      "url": "https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/fd597847c373e27f1a8d986b02960005b47e453e/chapters/C04/Chemical_Control_of_Behavior_Chapter_4.pptx",
       "status": 206,
-      "total_bytes": 378611203,
-      "content_range": "bytes 0-255/378611203",
+      "total_bytes": 378610623,
+      "content_range": "bytes 0-255/378610623",
       "correct_binary_magic": true
     },
     {
       "kind": "pdf",
-      "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C04/Chemical_Control_of_Behavior_Chapter_4_Static.pdf",
+      "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/fd597847c373e27f1a8d986b02960005b47e453e/chapters/C04/Chemical_Control_of_Behavior_Chapter_4_Static.pdf",
       "status": 206,
-      "total_bytes": 9788886,
-      "content_range": "bytes 0-255/9788886",
+      "total_bytes": 9795739,
+      "content_range": "bytes 0-255/9795739",
       "correct_binary_magic": true
     }
   ],
-  "presenton_pdf": "https://api.presenton.ai/s/r85X-ZZCa20dK7OwKBNHDgnm5QCzLRni",
-  "presenton_export_id": 19415,
+  "canonical_main_urls": [
+    "https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C04/Chemical_Control_of_Behavior_Chapter_4.pptx",
+    "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C04/Chemical_Control_of_Behavior_Chapter_4_Static.pdf"
+  ],
+  "presenton_pdf": "https://api.presenton.ai/s/kKNT3SSeem_a-B5E_6Kkm_q3cIOBUwXR",
+  "presenton_export_id": 19448,
   "companion_link_checks": [
     {
       "name": "Presenton PDF",
@@ -34,5 +39,6 @@
   "fonts": [
     "Arial"
   ],
-  "web_preview_lifetime": "24 hours; temporary link returned to instructor"
+  "web_preview_lifetime": "24 hours; temporary link returned to instructor",
+  "teaching_style": "course/TEACHING_STYLE.md"
 }
