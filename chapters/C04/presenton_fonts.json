@@ -1,0 +1,8 @@
+{
+  "fonts": [
+    "Arial"
+  ],
+  "source": "System font; no web-font source",
+  "applies_to": "Presenton static PDF preview",
+  "slides": 75
+}

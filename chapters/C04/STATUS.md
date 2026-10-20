@@ -27,3 +27,5 @@ python3 tools/check_course.py chapters/C04/lecture.json chapters/C04/Chemical_Co
 ```
 
 Embed only into a freshly rebuilt base deck. Chapters 1–3 are unchanged.
+
+Presenton static companion PDF: https://api.presenton.ai/s/r85X-ZZCa20dK7OwKBNHDgnm5QCzLRni. The companion and native deck use Arial. The principal static PDF is the locally rendered, paragraph-audited native deck.
