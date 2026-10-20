@@ -1,0 +1,682 @@
+[
+  {
+    "paper": "70600",
+    "original_url": "https://cdn.elifesciences.org/articles/70600/elife-70600-fig1-video1.mp4",
+    "credit": "Marissa C Applegate; Dmitriy Aronov",
+    "full_reference": "Marissa C Applegate; Dmitriy Aronov (2022). Flexible use of memory by food-caching birds. https://doi.org/10.7554/eLife.70600",
+    "doi": "10.7554/eLife.70600",
+    "source_legend": "Figure 1—video 1. Caching task. One min of a session of the Caching task. The bird can be seen drawing food from multiple feeders as well as caching, retrieving, and checking sites. Site interactions are indicated by text on the back wall of the apparatus.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Applegate and Aronov",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video1",
+    "caption": "Applegate et al. (2022), Video 1.",
+    "content_index": 0,
+    "purpose": "aesthetic"
+  },
+  {
+    "paper": "70600",
+    "original_url": "https://cdn.elifesciences.org/articles/70600/elife-70600-fig1-video2.mp4",
+    "credit": "Marissa C Applegate; Dmitriy Aronov",
+    "full_reference": "Marissa C Applegate; Dmitriy Aronov (2022). Flexible use of memory by food-caching birds. https://doi.org/10.7554/eLife.70600",
+    "doi": "10.7554/eLife.70600",
+    "source_legend": "Figure 1—video 2. Retrieval task. One trial of the Retrieval task. The bird can be seen caching into one site in the feeder-open phase, then checking and retrieving the food in the feeder-closed phase. Task phase is indicated by text on the back wall of the apparatus. The delay phase of the task is truncated for clarity.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Applegate and Aronov",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video2",
+    "caption": "Applegate et al. (2022), Video 2.",
+    "content_index": 2,
+    "purpose": "aesthetic"
+  },
+  {
+    "paper": "105422",
+    "original_url": "https://cdn.elifesciences.org/articles/105422/elife-105422-video1.mp4",
+    "credit": "Seetha Krishnan; Can Dong; Heather Ratigan; Denisse Morales-Rodriguez; Chery Cherian; Mark Sheffield",
+    "full_reference": "Seetha Krishnan; Can Dong; Heather Ratigan; Denisse Morales-Rodriguez; Chery Cherian; Mark Sheffield (2025). A contextual fear conditioning paradigm in head-fixed mice exploring virtual reality. https://doi.org/10.7554/eLife.105422",
+    "doi": "10.7554/eLife.105422",
+    "source_legend": "Video 1. The video shows the behavior of a mouse on Recall Day 1 in the neutral environment that was not paired with shocks. Video was recorded immediately after the mouse transitioned to the virtual reality (VR) environment, and they were collected at a sampling rate of 30 frames/s.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Krishnan, Dong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video1",
+    "caption": "Krishnan et al. (2025), Video 1.",
+    "content_index": 4,
+    "purpose": "aesthetic"
+  },
+  {
+    "paper": "69333",
+    "original_url": "https://cdn.elifesciences.org/articles/69333/elife-69333-video1.mp4",
+    "credit": "Hemin Feng; Junfeng Su; Wei Fang; Xi Chen; Jufang He",
+    "full_reference": "Hemin Feng; Junfeng Su; Wei Fang; Xi Chen; Jufang He (2021). The entorhinal cortex modulates trace fear memory formation and neuroplasticity in the mouse lateral amygdala via cholecystokinin. https://doi.org/10.7554/eLife.69333",
+    "doi": "10.7554/eLife.69333",
+    "source_legend": "Video 1. Freezing response of wildtype (WT) mice to the conditioned stimulus (CS) in the test session after long-trace fear conditioning paradigm, related to  Figure 1b–c . WT mice showed significant freezing response to the CS after training.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Feng et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video1",
+    "caption": "Feng et al. (2021), Video 1.",
+    "content_index": 6,
+    "purpose": "academic"
+  },
+  {
+    "paper": "69333",
+    "original_url": "https://cdn.elifesciences.org/articles/69333/elife-69333-video2.mp4",
+    "credit": "Hemin Feng; Junfeng Su; Wei Fang; Xi Chen; Jufang He",
+    "full_reference": "Hemin Feng; Junfeng Su; Wei Fang; Xi Chen; Jufang He (2021). The entorhinal cortex modulates trace fear memory formation and neuroplasticity in the mouse lateral amygdala via cholecystokinin. https://doi.org/10.7554/eLife.69333",
+    "doi": "10.7554/eLife.69333",
+    "source_legend": "Video 2. Freezing response of  Cck -/-  mice to the conditioned stimulus (CS) in the test session after long-trace fear conditioning paradigm, related to  Figure 1b–c . Cck -/-  mice showed impaired freezing response to the CS after training.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Feng et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video2",
+    "caption": "Feng et al. (2021), Video 2.",
+    "content_index": 8,
+    "purpose": "academic"
+  },
+  {
+    "paper": "105422",
+    "original_url": "https://cdn.elifesciences.org/articles/105422/elife-105422-video2.mp4",
+    "credit": "Seetha Krishnan; Can Dong; Heather Ratigan; Denisse Morales-Rodriguez; Chery Cherian; Mark Sheffield",
+    "full_reference": "Seetha Krishnan; Can Dong; Heather Ratigan; Denisse Morales-Rodriguez; Chery Cherian; Mark Sheffield (2025). A contextual fear conditioning paradigm in head-fixed mice exploring virtual reality. https://doi.org/10.7554/eLife.105422",
+    "doi": "10.7554/eLife.105422",
+    "source_legend": "Video 2. The video shows the freezing behavior of a mouse on Recall Day 1 in the contextual fear conditioning (CFC) virtual reality (VR). Video was recorded immediately after the mouse transitioned to the VR environment, and they were collected at a sampling rate of 30 frames/s.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Krishnan, Dong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video2",
+    "caption": "Krishnan et al. (2025), Video 2.",
+    "content_index": 10,
+    "purpose": "academic"
+  },
+  {
+    "paper": "69333",
+    "original_url": "https://cdn.elifesciences.org/articles/69333/elife-69333-video3.mp4",
+    "credit": "Hemin Feng; Junfeng Su; Wei Fang; Xi Chen; Jufang He",
+    "full_reference": "Hemin Feng; Junfeng Su; Wei Fang; Xi Chen; Jufang He (2021). The entorhinal cortex modulates trace fear memory formation and neuroplasticity in the mouse lateral amygdala via cholecystokinin. https://doi.org/10.7554/eLife.69333",
+    "doi": "10.7554/eLife.69333",
+    "source_legend": "Video 3. Freezing response of wildtype (WT) mice to the conditioned stimulus (CS) in the test session after short-trace fear conditioning paradigm, related to  Figure 1f–g . WT mice showed significant freezing response to the CS after training.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Feng et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video3",
+    "caption": "Feng et al. (2021), Video 3.",
+    "content_index": 12,
+    "purpose": "aesthetic"
+  },
+  {
+    "paper": "69333",
+    "original_url": "https://cdn.elifesciences.org/articles/69333/elife-69333-video4.mp4",
+    "credit": "Hemin Feng; Junfeng Su; Wei Fang; Xi Chen; Jufang He",
+    "full_reference": "Hemin Feng; Junfeng Su; Wei Fang; Xi Chen; Jufang He (2021). The entorhinal cortex modulates trace fear memory formation and neuroplasticity in the mouse lateral amygdala via cholecystokinin. https://doi.org/10.7554/eLife.69333",
+    "doi": "10.7554/eLife.69333",
+    "source_legend": "Video 4. Freezing response of  Cck -/-  mice to the conditioned stimulus (CS) in the test session after short-trace fear conditioning paradigm, related to  Figure 1f–g . Cck -/-  mice showed impaired freezing response to the CS after training.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Feng et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video4",
+    "caption": "Feng et al. (2021), Video 4.",
+    "content_index": 14,
+    "purpose": "aesthetic"
+  },
+  {
+    "paper": "69333",
+    "original_url": "https://cdn.elifesciences.org/articles/69333/elife-69333-video5.mp4",
+    "credit": "Hemin Feng; Junfeng Su; Wei Fang; Xi Chen; Jufang He",
+    "full_reference": "Hemin Feng; Junfeng Su; Wei Fang; Xi Chen; Jufang He (2021). The entorhinal cortex modulates trace fear memory formation and neuroplasticity in the mouse lateral amygdala via cholecystokinin. https://doi.org/10.7554/eLife.69333",
+    "doi": "10.7554/eLife.69333",
+    "source_legend": "Video 5. Freezing response to the conditioned stimulus (CS) of  Cck -/-  mice treated with cholecystokinin tetrapeptide (CCK-4) in the test session after short-trace fear conditioning paradigm, related to  Figure 2m–n . CCK-4-treated mice showed significant freezing response to the CS after training.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Feng et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video5",
+    "caption": "Feng et al. (2021), Video 5.",
+    "content_index": 16,
+    "purpose": "academic"
+  },
+  {
+    "paper": "83897",
+    "original_url": "https://cdn.elifesciences.org/articles/83897/elife-83897-video1.mp4",
+    "credit": "Hao Li; Jingyu Feng; Mengying Chen; Min Xin; Xi Chen; Wenhao Liu; Liping Wang; Kuan Hong Wang; Jufang He",
+    "full_reference": "Hao Li; Jingyu Feng; Mengying Chen; Min Xin; Xi Chen; Wenhao Liu; Liping Wang; Kuan Hong Wang; Jufang He (2024). Cholecystokinin facilitates motor skill learning by modulating neuroplasticity in the motor cortex. https://doi.org/10.7554/eLife.83897",
+    "doi": "10.7554/eLife.83897",
+    "source_legend": "Video 1. Example of ‘miss’ performance of a mouse.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Li et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video1",
+    "caption": "Li et al. (2024), Video 1.",
+    "content_index": 18,
+    "purpose": "aesthetic"
+  },
+  {
+    "paper": "83897",
+    "original_url": "https://cdn.elifesciences.org/articles/83897/elife-83897-video2.mp4",
+    "credit": "Hao Li; Jingyu Feng; Mengying Chen; Min Xin; Xi Chen; Wenhao Liu; Liping Wang; Kuan Hong Wang; Jufang He",
+    "full_reference": "Hao Li; Jingyu Feng; Mengying Chen; Min Xin; Xi Chen; Wenhao Liu; Liping Wang; Kuan Hong Wang; Jufang He (2024). Cholecystokinin facilitates motor skill learning by modulating neuroplasticity in the motor cortex. https://doi.org/10.7554/eLife.83897",
+    "doi": "10.7554/eLife.83897",
+    "source_legend": "Video 2. Example of ‘no-grasp’ performance of a mouse.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Li et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video2",
+    "caption": "Li et al. (2024), Video 2.",
+    "content_index": 20,
+    "purpose": "academic"
+  },
+  {
+    "paper": "83897",
+    "original_url": "https://cdn.elifesciences.org/articles/83897/elife-83897-video3.mp4",
+    "credit": "Hao Li; Jingyu Feng; Mengying Chen; Min Xin; Xi Chen; Wenhao Liu; Liping Wang; Kuan Hong Wang; Jufang He",
+    "full_reference": "Hao Li; Jingyu Feng; Mengying Chen; Min Xin; Xi Chen; Wenhao Liu; Liping Wang; Kuan Hong Wang; Jufang He (2024). Cholecystokinin facilitates motor skill learning by modulating neuroplasticity in the motor cortex. https://doi.org/10.7554/eLife.83897",
+    "doi": "10.7554/eLife.83897",
+    "source_legend": "Video 3. Example of ‘drop’ performance of a mouse.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Li et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video3",
+    "caption": "Li et al. (2024), Video 3.",
+    "content_index": 22,
+    "purpose": "aesthetic"
+  },
+  {
+    "paper": "83897",
+    "original_url": "https://cdn.elifesciences.org/articles/83897/elife-83897-video4.mp4",
+    "credit": "Hao Li; Jingyu Feng; Mengying Chen; Min Xin; Xi Chen; Wenhao Liu; Liping Wang; Kuan Hong Wang; Jufang He",
+    "full_reference": "Hao Li; Jingyu Feng; Mengying Chen; Min Xin; Xi Chen; Wenhao Liu; Liping Wang; Kuan Hong Wang; Jufang He (2024). Cholecystokinin facilitates motor skill learning by modulating neuroplasticity in the motor cortex. https://doi.org/10.7554/eLife.83897",
+    "doi": "10.7554/eLife.83897",
+    "source_legend": "Video 4. Example of ‘success’ performance of a mouse.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Li et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video4",
+    "caption": "Li et al. (2024), Video 4.",
+    "content_index": 24,
+    "purpose": "aesthetic"
+  },
+  {
+    "paper": "66227",
+    "original_url": "https://cdn.elifesciences.org/articles/66227/elife-66227-video1.mp4",
+    "credit": "Wenbo Tang; Justin D Shin; Shantanu P Jadhav",
+    "full_reference": "Wenbo Tang; Justin D Shin; Shantanu P Jadhav (2021). Multiple time-scales of decision-making in the hippocampus and prefrontal cortex. https://doi.org/10.7554/eLife.66227",
+    "doi": "10.7554/eLife.66227",
+    "source_legend": "Video 1. Slow-motion video of behavioral-timescale and theta-sequence decoding in CA1 when the rat is running a Center-to-Right outbound trajectory. The video plays 7.5 times slower than real time. To better visualize fast theta sequences, when a significant theta sequence is detected, the video plays 15 times slower. Audio represents spiking of all example units shown on the raster ( top left ; each spike was correspondingly sped up 7.5 times around spike detection for better perception).  Bottom left : Decoding plot. For each theta sequence, reconstruction of only the decoded trajectory was shown for clarity.  Right : Behavioral video. Green circle: true position. White circle with a pair of arrowheads: estimated position decoded at the behavioral timescale (arrowhead colors indicate trajectory type, blue for L-side trajectory, red for R-side trajectory; solid arrowheads: decoded trajectory type. hollow ones: the alternative). Note that the raster only shows cells that participated in theta sequences for better visualization, whereas the decoding was performed using all place cells recorded.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Tang et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video1",
+    "caption": "Tang et al. (2021), Video 1.",
+    "content_index": 26,
+    "purpose": "aesthetic"
+  },
+  {
+    "paper": "66227",
+    "original_url": "https://cdn.elifesciences.org/articles/66227/elife-66227-video2.mp4",
+    "credit": "Wenbo Tang; Justin D Shin; Shantanu P Jadhav",
+    "full_reference": "Wenbo Tang; Justin D Shin; Shantanu P Jadhav (2021). Multiple time-scales of decision-making in the hippocampus and prefrontal cortex. https://doi.org/10.7554/eLife.66227",
+    "doi": "10.7554/eLife.66227",
+    "source_legend": "Video 2. Slow-motion video of behavioral-timescale and theta-sequence decoding in CA1 when the rat is running a Right-to-Center inbound trajectory. The video is presented as in  Video 1 .",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Tang et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video2",
+    "caption": "Tang et al. (2021), Video 2.",
+    "content_index": 28,
+    "purpose": "academic"
+  },
+  {
+    "paper": "66227",
+    "original_url": "https://cdn.elifesciences.org/articles/66227/elife-66227-video3.mp4",
+    "credit": "Wenbo Tang; Justin D Shin; Shantanu P Jadhav",
+    "full_reference": "Wenbo Tang; Justin D Shin; Shantanu P Jadhav (2021). Multiple time-scales of decision-making in the hippocampus and prefrontal cortex. https://doi.org/10.7554/eLife.66227",
+    "doi": "10.7554/eLife.66227",
+    "source_legend": "Video 3. Video of CA1 replay sequences representing possible future choices. The video is displayed in real time, but two times slower during immobility at the reward well to better visualize fast replay sequences.  Top left : Raster of example CA1 cells ordered and color coded by place field center on the actual future trajectory (C-to-L).  Bottom left : Raster of the same CA1 population shown on top left, but ordered and color coded by place field center on the alternative future trajectory (C-to-R).  Right : Behavioral video. Green circle: true position. Large arrowhead: estimated location at the behavioral timescale. Due to the long immobility period at the reward well (9.58 s), only 1 s around each replay event detected was shown. When a replay sequence is detected, the decoded trajectory is represented by an arrowheaded line (colored according to the trajectory type, blue for L-side trajectory, red for R-side trajectory).",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Tang et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video3",
+    "caption": "Tang et al. (2021), Video 3.",
+    "content_index": 30,
+    "purpose": "aesthetic"
+  },
+  {
+    "paper": "69333",
+    "original_url": "https://cdn.elifesciences.org/articles/69333/elife-69333-video9.mp4",
+    "credit": "Hemin Feng; Junfeng Su; Wei Fang; Xi Chen; Jufang He",
+    "full_reference": "Hemin Feng; Junfeng Su; Wei Fang; Xi Chen; Jufang He (2021). The entorhinal cortex modulates trace fear memory formation and neuroplasticity in the mouse lateral amygdala via cholecystokinin. https://doi.org/10.7554/eLife.69333",
+    "doi": "10.7554/eLife.69333",
+    "source_legend": "Video 9. Freezing response to the conditioned stimulus (CS) of hM4Di-expressing cholecystokinin (CCK)-Cre mice treated with vehicle in test session after long-trace fear conditioning paradigm, related to  Figure 4k–l . Vehicle-treated mice showed significant freezing response to the CS after training.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Feng et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video9",
+    "caption": "Feng et al. (2021), Video 9.",
+    "content_index": 32,
+    "purpose": "aesthetic"
+  },
+  {
+    "paper": "105422",
+    "original_url": "https://cdn.elifesciences.org/articles/105422/elife-105422-video3.mp4",
+    "credit": "Seetha Krishnan; Can Dong; Heather Ratigan; Denisse Morales-Rodriguez; Chery Cherian; Mark Sheffield",
+    "full_reference": "Seetha Krishnan; Can Dong; Heather Ratigan; Denisse Morales-Rodriguez; Chery Cherian; Mark Sheffield (2025). A contextual fear conditioning paradigm in head-fixed mice exploring virtual reality. https://doi.org/10.7554/eLife.105422",
+    "doi": "10.7554/eLife.105422",
+    "source_legend": "Video 3. The video shows a mouse’s behavior on Recall Day 1 in the contextual fear conditioning (CFC) virtual reality (VR). This mouse displays more avoidance-like behaviors, such as slowing down and making backward movements. Video was recorded immediately after the mouse transitioned to the VR environment, and they were collected at a sampling rate of 30 frames/s.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Krishnan, Dong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video3",
+    "caption": "Krishnan et al. (2025), Video 3.",
+    "content_index": 34,
+    "purpose": "academic"
+  },
+  {
+    "paper": "70586",
+    "original_url": "https://cdn.elifesciences.org/articles/70586/elife-70586-video1.mp4",
+    "credit": "Hannah Twarkowski; Victor Steininger; Min Jae Kim; Amar Sahay",
+    "full_reference": "Hannah Twarkowski; Victor Steininger; Min Jae Kim; Amar Sahay (2022). A dentate gyrus-CA3 inhibitory circuit promotes evolution of hippocampal-cortical ensembles during memory consolidation. https://doi.org/10.7554/eLife.70586",
+    "doi": "10.7554/eLife.70586",
+    "source_legend": "Video 1. Example recording of calcium activity in ACC neurons in lenti-shNT injected mice. Normalized (dF/F) calcium signals acquired during a 6-min baseline recording. This example video was spatially (4 x) and temporally (2 x) downsampled.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Twarkowski et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video1",
+    "caption": "Twarkowski et al. (2022), Video 1.",
+    "content_index": 36,
+    "purpose": "academic"
+  },
+  {
+    "paper": "80661",
+    "original_url": "https://cdn.elifesciences.org/articles/80661/elife-80661-video1.mp4",
+    "credit": "Garrett J Blair; Changliang Guo; Shiyun Wang; Michael S Fanselow; Peyman Golshani; Daniel Aharoni; Hugh T Blair",
+    "full_reference": "Garrett J Blair; Changliang Guo; Shiyun Wang; Michael S Fanselow; Peyman Golshani; Daniel Aharoni; Hugh T Blair (2023). Hippocampal place cell remapping occurs with memory storage of aversive experiences. https://doi.org/10.7554/eLife.80661",
+    "doi": "10.7554/eLife.80661",
+    "source_legend": "Video 1. Video demonstrating behavior and calcium imaging recorded from one rat performing linear alternation along the short path of the maze. ( A ) Position of the rat (red dot). ( B ) Motion-corrected video of calcium fluorescence. ( C ) Processed demixed/denoised CaImAn output (spatial contours modulated by denoised calcium trace). ( D ) Right half shows calcium activity of 290 identified neurons in the video, sorted by their preferred firing direction (teal/pink) and location along the track. Current time highlighted in the center gray region.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Blair et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video1",
+    "caption": "Blair et al. (2023), Video 1.",
+    "content_index": 38,
+    "purpose": "academic"
+  },
+  {
+    "paper": "70586",
+    "original_url": "https://cdn.elifesciences.org/articles/70586/elife-70586-video2.mp4",
+    "credit": "Hannah Twarkowski; Victor Steininger; Min Jae Kim; Amar Sahay",
+    "full_reference": "Hannah Twarkowski; Victor Steininger; Min Jae Kim; Amar Sahay (2022). A dentate gyrus-CA3 inhibitory circuit promotes evolution of hippocampal-cortical ensembles during memory consolidation. https://doi.org/10.7554/eLife.70586",
+    "doi": "10.7554/eLife.70586",
+    "source_legend": "Video 2. Example recording of calcium activity in ACC neurons in lenti-shRNA injected mice. Normalized (dF/F) calcium signals acquired during a 6-min baseline recording. This example video was spatially (4 x) and temporally (2 x) downsampled.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Twarkowski et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video2",
+    "caption": "Twarkowski et al. (2022), Video 2.",
+    "content_index": 40,
+    "purpose": "academic"
+  },
+  {
+    "paper": "70586",
+    "original_url": "https://cdn.elifesciences.org/articles/70586/elife-70586-video3.mp4",
+    "credit": "Hannah Twarkowski; Victor Steininger; Min Jae Kim; Amar Sahay",
+    "full_reference": "Hannah Twarkowski; Victor Steininger; Min Jae Kim; Amar Sahay (2022). A dentate gyrus-CA3 inhibitory circuit promotes evolution of hippocampal-cortical ensembles during memory consolidation. https://doi.org/10.7554/eLife.70586",
+    "doi": "10.7554/eLife.70586",
+    "source_legend": "Video 3. example recording of calcium activity in CA1 neurons in lenti-shNT injected mice. Normalized (dF/F) calcium signals acquired during a 6-min baseline recording. This example video was spatially (4 x) and temporally (2 x) downsampled.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Twarkowski et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video3",
+    "caption": "Twarkowski et al. (2022), Video 3.",
+    "content_index": 42,
+    "purpose": "academic"
+  },
+  {
+    "paper": "70586",
+    "original_url": "https://cdn.elifesciences.org/articles/70586/elife-70586-video4.mp4",
+    "credit": "Hannah Twarkowski; Victor Steininger; Min Jae Kim; Amar Sahay",
+    "full_reference": "Hannah Twarkowski; Victor Steininger; Min Jae Kim; Amar Sahay (2022). A dentate gyrus-CA3 inhibitory circuit promotes evolution of hippocampal-cortical ensembles during memory consolidation. https://doi.org/10.7554/eLife.70586",
+    "doi": "10.7554/eLife.70586",
+    "source_legend": "Video 4. example recording of calcium activity in CA1 neurons in lenti-shRNA injected mice. Normalized (dF/F) calcium signals acquired during a 6-min baseline recording. This example video was spatially (4 x) and temporally (2 x) downsampled.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Twarkowski et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video4",
+    "caption": "Twarkowski et al. (2022), Video 4.",
+    "content_index": 44,
+    "purpose": "academic"
+  },
+  {
+    "paper": "51972",
+    "original_url": "https://cdn.elifesciences.org/articles/51972/elife-51972-fig1-video1.mp4",
+    "credit": "J Karimi Abadchi; Mojtaba Nazari-Ahangarkolaee; Sandra Gattas; Edgar Bermudez-Contreras; Artur Luczak; Bruce L McNaughton; Majid H Mohajerani",
+    "full_reference": "J Karimi Abadchi; Mojtaba Nazari-Ahangarkolaee; Sandra Gattas; Edgar Bermudez-Contreras; Artur Luczak; Bruce L McNaughton; Majid H Mohajerani (2020). Spatiotemporal patterns of neocortical activity around hippocampal sharp-wave ripples. https://doi.org/10.7554/eLife.51972",
+    "doi": "10.7554/eLife.51972",
+    "source_legend": "Figure 1—video 1. Spontaneous neocortical voltage activity with concurrently recorded hippocampal LFP and ripple activity. Example of neocortical spontaneous voltage activity captured by voltage-sensitive dye imaging under urethane anesthesia and filtered in 0.5–6 Hz band. The blue traces are concurrently recorded hippocampal local field potential filtered in two frequency bands: 0.1–1000 Hz (middle) and 100–250 Hz (bottom).",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Karimi Abadchi et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video1",
+    "caption": "Karimi Abadchi et al. (2020), Video 1.",
+    "content_index": 46,
+    "purpose": "academic"
+  },
+  {
+    "paper": "51972",
+    "original_url": "https://cdn.elifesciences.org/articles/51972/elife-51972-fig1-video2.mp4",
+    "credit": "J Karimi Abadchi; Mojtaba Nazari-Ahangarkolaee; Sandra Gattas; Edgar Bermudez-Contreras; Artur Luczak; Bruce L McNaughton; Majid H Mohajerani",
+    "full_reference": "J Karimi Abadchi; Mojtaba Nazari-Ahangarkolaee; Sandra Gattas; Edgar Bermudez-Contreras; Artur Luczak; Bruce L McNaughton; Majid H Mohajerani (2020). Spatiotemporal patterns of neocortical activity around hippocampal sharp-wave ripples. https://doi.org/10.7554/eLife.51972",
+    "doi": "10.7554/eLife.51972",
+    "source_legend": "Figure 1—video 2. Wake/sleep scoring. Example of the physiological signals used for wake/sleep scoring recorded during a transition from awake state to NREM and then REM sleep. Notice the lack of any movement during NREM and the facial muscle twitches during REM sleep.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Karimi Abadchi et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video2",
+    "caption": "Karimi Abadchi et al. (2020), Video 2.",
+    "content_index": 48,
+    "purpose": "academic"
+  },
+  {
+    "paper": "83897",
+    "original_url": "https://cdn.elifesciences.org/articles/83897/elife-83897-video5.mp4",
+    "credit": "Hao Li; Jingyu Feng; Mengying Chen; Min Xin; Xi Chen; Wenhao Liu; Liping Wang; Kuan Hong Wang; Jufang He",
+    "full_reference": "Hao Li; Jingyu Feng; Mengying Chen; Min Xin; Xi Chen; Wenhao Liu; Liping Wang; Kuan Hong Wang; Jufang He (2024). Cholecystokinin facilitates motor skill learning by modulating neuroplasticity in the motor cortex. https://doi.org/10.7554/eLife.83897",
+    "doi": "10.7554/eLife.83897",
+    "source_legend": "Video 5. Example of calcium signals of neurons in the motor cortex under the miniscope.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Li et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video5",
+    "caption": "Li et al. (2024), Video 5.",
+    "content_index": 50,
+    "purpose": "aesthetic"
+  },
+  {
+    "paper": "69333",
+    "original_url": "https://cdn.elifesciences.org/articles/69333/elife-69333-video10.mp4",
+    "credit": "Hemin Feng; Junfeng Su; Wei Fang; Xi Chen; Jufang He",
+    "full_reference": "Hemin Feng; Junfeng Su; Wei Fang; Xi Chen; Jufang He (2021). The entorhinal cortex modulates trace fear memory formation and neuroplasticity in the mouse lateral amygdala via cholecystokinin. https://doi.org/10.7554/eLife.69333",
+    "doi": "10.7554/eLife.69333",
+    "source_legend": "Video 10. Freezing response to the conditioned stimulus (CS) of hM4Di-expressing cholecystokinin (CCK)-Cre mice treated with clozapine (CLZ) in test session after long-trace fear conditioning paradigm, related to  Figure 4k–l . CLZ-treated mice showed impaired freezing response to the CS after training.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Feng et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video10",
+    "caption": "Feng et al. (2021), Video 10.",
+    "content_index": 52,
+    "purpose": "aesthetic"
+  },
+  {
+    "paper": "69333",
+    "original_url": "https://cdn.elifesciences.org/articles/69333/elife-69333-video11.mp4",
+    "credit": "Hemin Feng; Junfeng Su; Wei Fang; Xi Chen; Jufang He",
+    "full_reference": "Hemin Feng; Junfeng Su; Wei Fang; Xi Chen; Jufang He (2021). The entorhinal cortex modulates trace fear memory formation and neuroplasticity in the mouse lateral amygdala via cholecystokinin. https://doi.org/10.7554/eLife.69333",
+    "doi": "10.7554/eLife.69333",
+    "source_legend": "Video 11. Freezing response to the conditioned stimulus (CS) of Jaws-expressing mice (Exp) in test session after long-trace fear conditioning along with opto-inhibition, related to  Figure 8c–e . Exp mice showed impaired freezing response to the CS after training.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Feng et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video11",
+    "caption": "Feng et al. (2021), Video 11.",
+    "content_index": 54,
+    "purpose": "aesthetic"
+  },
+  {
+    "paper": "69333",
+    "original_url": "https://cdn.elifesciences.org/articles/69333/elife-69333-video12.mp4",
+    "credit": "Hemin Feng; Junfeng Su; Wei Fang; Xi Chen; Jufang He",
+    "full_reference": "Hemin Feng; Junfeng Su; Wei Fang; Xi Chen; Jufang He (2021). The entorhinal cortex modulates trace fear memory formation and neuroplasticity in the mouse lateral amygdala via cholecystokinin. https://doi.org/10.7554/eLife.69333",
+    "doi": "10.7554/eLife.69333",
+    "source_legend": "Video 12. Freezing response to the conditioned stimulus (CS) of mCherry-expressing mice (Ctrl) in test session after long-trace fear conditioning along with opto-inhibition, related to  Figure 8c–e . Ctrl mice showed significant freezing response to the CS after training.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Feng et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video12",
+    "caption": "Feng et al. (2021), Video 12.",
+    "content_index": 56,
+    "purpose": "aesthetic"
+  },
+  {
+    "paper": "69333",
+    "original_url": "https://cdn.elifesciences.org/articles/69333/elife-69333-video13.mp4",
+    "credit": "Hemin Feng; Junfeng Su; Wei Fang; Xi Chen; Jufang He",
+    "full_reference": "Hemin Feng; Junfeng Su; Wei Fang; Xi Chen; Jufang He (2021). The entorhinal cortex modulates trace fear memory formation and neuroplasticity in the mouse lateral amygdala via cholecystokinin. https://doi.org/10.7554/eLife.69333",
+    "doi": "10.7554/eLife.69333",
+    "source_legend": "Video 13. Freezing response to the conditioned stimulus (CS) of Jaws-expressing mice (Exp) in test session after long-delay fear conditioning along with opto-inhibition, related to  Figure 8f–h . Exp mice showed significant freezing response to the CS after training.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Feng et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video13",
+    "caption": "Feng et al. (2021), Video 13.",
+    "content_index": 58,
+    "purpose": "aesthetic"
+  },
+  {
+    "paper": "80622",
+    "original_url": "https://cdn.elifesciences.org/articles/80622/elife-80622-fig1-video1.mp4",
+    "credit": "Victor C Wong; Patrick R Houlihan; Hui Liu; Deepika Walpita; Michael C DeSantis; Zhe Liu; Erin K O'Shea",
+    "full_reference": "Victor C Wong; Patrick R Houlihan; Hui Liu; Deepika Walpita; Michael C DeSantis; Zhe Liu; Erin K O'Shea (2024). Plasticity-induced actin polymerization in the dendritic shaft regulates intracellular AMPA receptor trafficking. https://doi.org/10.7554/eLife.80622",
+    "doi": "10.7554/eLife.80622",
+    "source_legend": "Figure 1—video 1. Timelapse sequence of GluA1-HT-JF 549  after block-and-chase labeling with JF 646 -HTL and JF 549 -HTL in the dendrite of a cultured rat hippocampal neuron. Scale bar, 5 μm. Top left: all GluA1-HT labeled with JF 646 -HTL (block; GluA1-HT-JF 646 ). Top right: newly synthesized GluA1-HT labeled with JF 549 -HTL (chase; GluA1-HT-JF 549 ). Bottom left: GFP-Homer1c. Bottom right: GluA1-HT-JF 549  (green) overlaid onto GFP-Homer1c (magenta).",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video1",
+    "caption": "Wong et al. (2024), Video 1.",
+    "content_index": 60,
+    "purpose": "academic"
+  },
+  {
+    "paper": "80622",
+    "original_url": "https://cdn.elifesciences.org/articles/80622/elife-80622-fig1-video2.mp4",
+    "credit": "Victor C Wong; Patrick R Houlihan; Hui Liu; Deepika Walpita; Michael C DeSantis; Zhe Liu; Erin K O'Shea",
+    "full_reference": "Victor C Wong; Patrick R Houlihan; Hui Liu; Deepika Walpita; Michael C DeSantis; Zhe Liu; Erin K O'Shea (2024). Plasticity-induced actin polymerization in the dendritic shaft regulates intracellular AMPA receptor trafficking. https://doi.org/10.7554/eLife.80622",
+    "doi": "10.7554/eLife.80622",
+    "source_legend": "Figure 1—video 2. Timelapse sequence of GluA1-HT-JF 549  after block-and-chase labeling with JF 646 -HTL and JF 549 -HTL in a dendrite that has been treated with Nocodazole. Scale bar, 5 μm. Left: GFP-Homer1c. Center: GluA1-HT-JF 549  (chase). Right: GluA1-HT-JF 549  (green) overlaid onto GFP-Homer1c (magenta). Related to  Figure 1—figure supplement 5 .",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video2",
+    "caption": "Wong et al. (2024), Video 2.",
+    "content_index": 62,
+    "purpose": "aesthetic"
+  },
+  {
+    "paper": "80622",
+    "original_url": "https://cdn.elifesciences.org/articles/80622/elife-80622-fig1-video3.mp4",
+    "credit": "Victor C Wong; Patrick R Houlihan; Hui Liu; Deepika Walpita; Michael C DeSantis; Zhe Liu; Erin K O'Shea",
+    "full_reference": "Victor C Wong; Patrick R Houlihan; Hui Liu; Deepika Walpita; Michael C DeSantis; Zhe Liu; Erin K O'Shea (2024). Plasticity-induced actin polymerization in the dendritic shaft regulates intracellular AMPA receptor trafficking. https://doi.org/10.7554/eLife.80622",
+    "doi": "10.7554/eLife.80622",
+    "source_legend": "Figure 1—video 3. Timelapse sequence of GluA1-HT-JF 549 i on the surface of a dendrite after block-and-chase labeling with JF 646 -HTL and JF 549 i-HTL. Scale bar, 5 μm. Left: GFP-Homer1c. Center: GluA1-HT-JF 549 i (chase; surface). Right: GluA1-HT-JF 549 i (green) overlaid onto GFP-Homer1c (magenta). Related to  Figure 1—figure supplement 6 .",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video3",
+    "caption": "Wong et al. (2024), Video 3.",
+    "content_index": 64,
+    "purpose": "aesthetic"
+  },
+  {
+    "paper": "80622",
+    "original_url": "https://cdn.elifesciences.org/articles/80622/elife-80622-fig1-video4.mp4",
+    "credit": "Victor C Wong; Patrick R Houlihan; Hui Liu; Deepika Walpita; Michael C DeSantis; Zhe Liu; Erin K O'Shea",
+    "full_reference": "Victor C Wong; Patrick R Houlihan; Hui Liu; Deepika Walpita; Michael C DeSantis; Zhe Liu; Erin K O'Shea (2024). Plasticity-induced actin polymerization in the dendritic shaft regulates intracellular AMPA receptor trafficking. https://doi.org/10.7554/eLife.80622",
+    "doi": "10.7554/eLife.80622",
+    "source_legend": "Figure 1—video 4. Timelapse sequence of GluA1-HT-JF 549  after block-and-chase labeling with JF 646 -HTL and JF 549 -HTL, with GluA1-HT-JF 549  particles that colocalize with GFP-Homer1c highlighted. Scale bar, 5 μm. Left: GFP-Homer1c. Center: GluA1-HT-JF 549  (chase). Right: GluA1-HT-JF 549  (green) overlaid onto GFP-Homer1c (magenta). Blue boxes highlight GluA1-HT-JF 549  particles that colocalize with GFP-Homer1c. Related to  Figure 1—figure supplement 7 .",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video4",
+    "caption": "Wong et al. (2024), Video 4.",
+    "content_index": 66,
+    "purpose": "academic"
+  },
+  {
+    "paper": "80622",
+    "original_url": "https://cdn.elifesciences.org/articles/80622/elife-80622-fig1-video5.mp4",
+    "credit": "Victor C Wong; Patrick R Houlihan; Hui Liu; Deepika Walpita; Michael C DeSantis; Zhe Liu; Erin K O'Shea",
+    "full_reference": "Victor C Wong; Patrick R Houlihan; Hui Liu; Deepika Walpita; Michael C DeSantis; Zhe Liu; Erin K O'Shea (2024). Plasticity-induced actin polymerization in the dendritic shaft regulates intracellular AMPA receptor trafficking. https://doi.org/10.7554/eLife.80622",
+    "doi": "10.7554/eLife.80622",
+    "source_legend": "Figure 1—video 5. Timelapse sequence of GluA1-HT-JF 549  after block-and-chase labeling with JF 646 -HTL and JF 549 -HTL in a dendrite with no stimulation. Scale bar, 5 μm. Left: GFP-Homer1c. Center: GluA1-HT-JF 549  (chase). Right: GluA1-HT-JF 549  (green) overlaid onto GFP-Homer1c (magenta).",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video5",
+    "caption": "Wong et al. (2024), Video 5.",
+    "content_index": 68,
+    "purpose": "academic"
+  },
+  {
+    "paper": "80622",
+    "original_url": "https://cdn.elifesciences.org/articles/80622/elife-80622-fig1-video6.mp4",
+    "credit": "Victor C Wong; Patrick R Houlihan; Hui Liu; Deepika Walpita; Michael C DeSantis; Zhe Liu; Erin K O'Shea",
+    "full_reference": "Victor C Wong; Patrick R Houlihan; Hui Liu; Deepika Walpita; Michael C DeSantis; Zhe Liu; Erin K O'Shea (2024). Plasticity-induced actin polymerization in the dendritic shaft regulates intracellular AMPA receptor trafficking. https://doi.org/10.7554/eLife.80622",
+    "doi": "10.7554/eLife.80622",
+    "source_legend": "Figure 1—video 6. Timelapse sequence of GluA1-HT-JF 549  after block-and-chase labeling with JF 646 -HTL and JF 549 -HTL in a dendrite during cLTP induction. Scale bar, 5 μm. Left: GFP-Homer1c. Center: GluA1-HT-JF 549  (chase). Right: GluA1-HT-JF 549  (green) overlaid onto GFP-Homer1c (magenta).",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video6",
+    "caption": "Wong et al. (2024), Video 6.",
+    "content_index": 70,
+    "purpose": "academic"
+  },
+  {
+    "paper": "83176",
+    "original_url": "https://cdn.elifesciences.org/articles/83176/elife-83176-fig1-video1.mp4",
+    "credit": "Felix Christopher Nebeling; Stefanie Poll; Lena Christine Justus; Julia Steffen; Kevin Keppler; Manuel Mittag; Martin Fuhrmann",
+    "full_reference": "Felix Christopher Nebeling; Stefanie Poll; Lena Christine Justus; Julia Steffen; Kevin Keppler; Manuel Mittag; Martin Fuhrmann (2023). Microglial motility is modulated by neuronal activity and correlates with dendritic spine plasticity in the hippocampus of awake mice. https://doi.org/10.7554/eLife.83176",
+    "doi": "10.7554/eLife.83176",
+    "source_legend": "Figure 1—video 1. Microglial motility in an anesthetized mouse. Microglia fine process motility recorded in the hippocampus of a mouse under isoflurane anesthesia (1% in O 2 ) using two-photon microscopy over 45 min. Z-stacks were acquired 5 min apart each spanning 100 µm starting under the CA1 cell layer. For analysis, a maximum intensity projection of 25 µm was created for each time point. Scale bar: 10 μm.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Nebeling et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video1",
+    "caption": "Nebeling et al. (2023), Video 1.",
+    "content_index": 72,
+    "purpose": "aesthetic"
+  },
+  {
+    "paper": "83176",
+    "original_url": "https://cdn.elifesciences.org/articles/83176/elife-83176-fig1-video2.mp4",
+    "credit": "Felix Christopher Nebeling; Stefanie Poll; Lena Christine Justus; Julia Steffen; Kevin Keppler; Manuel Mittag; Martin Fuhrmann",
+    "full_reference": "Felix Christopher Nebeling; Stefanie Poll; Lena Christine Justus; Julia Steffen; Kevin Keppler; Manuel Mittag; Martin Fuhrmann (2023). Microglial motility is modulated by neuronal activity and correlates with dendritic spine plasticity in the hippocampus of awake mice. https://doi.org/10.7554/eLife.83176",
+    "doi": "10.7554/eLife.83176",
+    "source_legend": "Figure 1—video 2. Microglial motility in an awake mouse. Microglia fine process motility recorded in the hippocampus of an awake mouse head-fixed on a circular treadmill using two-photon microscopy. Z-stacks were taken 5 min apart each spanning 100 µm starting under the CA1 cell layer. For analysis a maximum intensity projection of 25 µm was created for each time point. Scale bar: 10 μm.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Nebeling et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video2",
+    "caption": "Nebeling et al. (2023), Video 2.",
+    "content_index": 74,
+    "purpose": "aesthetic"
+  },
+  {
+    "paper": "83176",
+    "original_url": "https://cdn.elifesciences.org/articles/83176/elife-83176-fig1-video3.mp4",
+    "credit": "Felix Christopher Nebeling; Stefanie Poll; Lena Christine Justus; Julia Steffen; Kevin Keppler; Manuel Mittag; Martin Fuhrmann",
+    "full_reference": "Felix Christopher Nebeling; Stefanie Poll; Lena Christine Justus; Julia Steffen; Kevin Keppler; Manuel Mittag; Martin Fuhrmann (2023). Microglial motility is modulated by neuronal activity and correlates with dendritic spine plasticity in the hippocampus of awake mice. https://doi.org/10.7554/eLife.83176",
+    "doi": "10.7554/eLife.83176",
+    "source_legend": "Figure 1—video 3. Calcium imaging of CA1 pyramidal neurons under isoflurane anesthesia. Exemplary video of Ca 2+  imaging (GCaMP6m) in CamKII+ cells in the CA1 region of the hippocampus in an anesthetized mouse (isoflurane, 1% in O 2 ) over 60 s. Scale bar: 50 µm.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Nebeling et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "video3",
+    "caption": "Nebeling et al. (2023), Video 3.",
+    "content_index": 76,
+    "purpose": "academic"
+  },
+  {
+    "paper": "80622",
+    "original_url": "https://cdn.elifesciences.org/articles/80622/elife-80622-fig5-video3.mp4",
+    "credit": "Victor C Wong; Patrick R Houlihan; Hui Liu; Deepika Walpita; Michael C DeSantis; Zhe Liu; Erin K O'Shea",
+    "full_reference": "Victor C Wong; Patrick R Houlihan; Hui Liu; Deepika Walpita; Michael C DeSantis; Zhe Liu; Erin K O'Shea (2024). Plasticity-induced actin polymerization in the dendritic shaft regulates intracellular AMPA receptor trafficking. https://doi.org/10.7554/eLife.80622",
+    "doi": "10.7554/eLife.80622",
+    "source_legend": "Figure 5—video 3. Timelapse sequence of GluA1-HT-SEP exocytosis in a dendrite pre-sLTP (Figure 5—video 3, Pre-sLTP, left) and post-sLTP (Figure 5—video 3, Post-sLTP, right). Scale bar, 5 μm. Yellow dot indicates site of MNI uncaging. White circles denote sites of exocytosis outside the 30 μm region flanking the uncaging site (OUT). Green circles denote sites of exocytosis inside the 30 μm region flanking the uncaging site (IN).",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "movie_identifier": "fig5-video3",
+    "caption": "Wong et al. (2024), fig5-Video 3.",
+    "content_index": 77,
+    "purpose": "academic"
+  }
+]

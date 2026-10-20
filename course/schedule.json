@@ -131,15 +131,27 @@
     },
     {
       "n": 12,
-      "date": "Date TBD",
-      "title": "Chapter 12: TITLE PENDING TEXTBOOK VERIFICATION",
-      "verified": false
+      "date": "Fall 2026",
+      "title": "Hunger, Thirst, and Satiety: How the Brain Controls Ingestion",
+      "verified": true,
+      "book_chapter": 12,
+      "book_chapter_title": "Ingestive Behavior",
+      "display_title_authorized": true,
+      "display_title_authorization": "Instructor requested Chapters 12 and 13 separately, continuing the preceding separate 80-slide lecture format.",
+      "textbook_printed_pages": "375–413",
+      "book_scope_verified_from": "Uploaded Physiology of Behavior Part4of6, PDF pp.125–163"
     },
     {
       "n": 13,
-      "date": "Date TBD",
-      "title": "Chapter 13: TITLE PENDING TEXTBOOK VERIFICATION",
-      "verified": false
+      "date": "Fall 2026",
+      "title": "From Experience to Memory: Learning, Plasticity, and Recall",
+      "verified": true,
+      "book_chapter": 13,
+      "book_chapter_title": "Learning and Memory",
+      "display_title_authorized": true,
+      "display_title_authorization": "Instructor requested Chapters 12 and 13 separately, continuing the preceding separate 80-slide lecture format.",
+      "textbook_printed_pages": "414–455",
+      "book_scope_verified_from": "Uploaded Physiology of Behavior Part5of6, PDF pp.1–42"
     },
     {
       "n": 14,

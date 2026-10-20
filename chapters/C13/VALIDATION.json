@@ -1,0 +1,47 @@
+{
+  "slides": 80,
+  "content_slides": 78,
+  "book_chapter": 13,
+  "foundation_slides": 31,
+  "research_slides": 47,
+  "primary_figure_slides": 47,
+  "embedded_distinct_mp4s": 40,
+  "academic_recordings": 20,
+  "visual_recordings": 20,
+  "recordings_per_content_quarter": [
+    10,
+    10,
+    10,
+    10
+  ],
+  "maximum_video_free_content_gap": 1,
+  "recordings_in_final_ten_content_slides": 6,
+  "paragraphs": 234,
+  "rendered_paragraphs_passing": 234,
+  "generic_failures": 0,
+  "course_failures": 0,
+  "full_recording_decodes_passed": 40,
+  "original_movie_bytes_retained": 40,
+  "compatibility_conversions": 0,
+  "source_hashes_and_native_resolution_frame_rate_audio_verified": true,
+  "embedded_hashes_relationships_and_timing_verified": true,
+  "all_slides_visually_reviewed": true,
+  "source_figure_panels_reviewed": true,
+  "fonts": [
+    "BAAAAA+ArialMT",
+    "CAAAAA+Arial-BoldMT"
+  ],
+  "static_pdf_multimedia_annotations": 0,
+  "desktop_powerpoint_playback_tested": false,
+  "conversion_checks": [],
+  "pptx": {
+    "filename": "From_Experience_to_Memory_Learning_and_Memory_Chapter_13.pptx",
+    "bytes": 204817371,
+    "sha256": "1479aa5049ca005acfab0ad92dbe7b0324975a955baefb4aa3bb95f86a1acb39"
+  },
+  "static_pdf": {
+    "filename": "From_Experience_to_Memory_Learning_and_Memory_Chapter_13_Static.pdf",
+    "bytes": 12115800,
+    "sha256": "3ddeaa3f5c2b05aad50ade56f38bc228895a6ba7e93434e8437bbc16ca03ad68"
+  }
+}

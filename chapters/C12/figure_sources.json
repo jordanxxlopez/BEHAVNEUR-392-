@@ -1,0 +1,1374 @@
+{
+  "101325:1": {
+    "path": "figures/elife_101325_fig1.png",
+    "title": "3D directional tuning in the orofacial sensorimotor cortex during natural feeding and drinking",
+    "authors": "Victoria B Hosack; Fritzie Arce-McShane",
+    "first": "Hosack",
+    "year": "2025",
+    "doi": "10.7554/eLife.101325",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hosack and Arce-McShane",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Direction of tongue motion in each behavioral task. ( A ) Schematic of the location of three spouts, left (L), middle (M), and right (R), for the drinking task. Tongue direction was categorized based on spout location. ( B ) Calculation of 3D tongue direction during feeding. θ is the instantaneous 3D direction of the tongue tip over a 100 ms interval between its positions at t1 and t2, where t1=0 and t2=t1+100. The dotted line shows the actual trajectory during this interval.",
+    "original_url": "https://cdn.elifesciences.org/articles/101325/elife-101325-fig1-v1.tif",
+    "sha256": "486b4d39e0410d4190e8b016961d82bfd960b55936ef7f17fbaf6e4b31b52ea0",
+    "width": 2205,
+    "height": 965
+  },
+  "101325:9": {
+    "path": "figures/elife_101325_fig9.png",
+    "title": "3D directional tuning in the orofacial sensorimotor cortex during natural feeding and drinking",
+    "authors": "Victoria B Hosack; Fritzie Arce-McShane",
+    "first": "Hosack",
+    "year": "2025",
+    "doi": "10.7554/eLife.101325",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hosack and Arce-McShane",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 9. Effect of nerve block on drinking kinematics in Monkey R. ( A ) Tongue tip trajectories from starting position to one of three drinking spouts in the control and nerve block conditions. ( B ) Drinking trajectory endpoints, where the black dot represents the mean endpoint position.",
+    "original_url": "https://cdn.elifesciences.org/articles/101325/elife-101325-fig9-v1.tif",
+    "sha256": "fc5e43bf0feed7bc975b5bd4ad54243467de1d4c429dc51d4be264f2d8043206",
+    "width": 2205,
+    "height": 1527
+  },
+  "101391:3": {
+    "path": "figures/elife_101391_fig3.png",
+    "title": "Microglia are required for developmental specification of AgRP innervation in the hypothalamus of offspring exposed to maternal high-fat diet during lactation",
+    "authors": "Haley N Mendoza-Romero; Jessica E Biddinger; Michelle N Bedenbaugh; Richard Simerly",
+    "first": "Mendoza-Romero",
+    "year": "2025",
+    "doi": "10.7554/eLife.101391",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Mendoza-Romero et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. MHFD-L: Microglial morphology in the BST. Microglial cells (green) and labeled Agouti-related peptide (AgRP) terminals (red) in the BST of mice at P16 ( A, B ) or P30 ( C, D ) that were exposed to NCD ( A, C ) or MHFD-L ( B, D ). Graphical comparisons between groups to show that microglial ramification complexity ( E ), process length ( F ), cell territory ( G ), and cell volume ( H ) did not significantly change between P16 and P30, nor were they changed as a result of diet. The density of microglia in the BST decreased between P16 and P30, irrespective of diet ( I ). The density of AgRP terminals increased between P16 and P30, but there was no effect of maternal diet ( J ). Bars represent the mean ± SEM and each point represents one animal. * P p<0.05. Abbreviations: BST, bed nucleus of the stria terminalis; MHFD-L, maternal HFD during lactation; NCD, normal chow diet.",
+    "original_url": "https://cdn.elifesciences.org/articles/101391/elife-101391-fig3-v1.tif",
+    "sha256": "5656d76f36f7270fd1a9a7f74cfff1894bebdfb92408514ca357036f3fce6ec3",
+    "width": 1816,
+    "height": 3072
+  },
+  "103191:1": {
+    "path": "figures/elife_103191_fig1.png",
+    "title": "<i>Accept–reject</i> decision-making revealed via a quantitative and ethological study of <i>C. elegans</i> foraging",
+    "authors": "Jessica A Haley; Tianyi Chen; Mikio Aoi; Sreekanth H Chalasani",
+    "first": "Haley",
+    "year": "2025",
+    "doi": "10.7554/eLife.103191",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Haley et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. C .  elegans  forage in a patchy environment with an explore-then-exploit strategy. ( A ) An example animal’s midbody location (colored to represent time in the experiment) as it forages in an environment bounded by a large (30 mm diameter) arena containing 19 small (~1.8 mm diameter) bacterial patches (gray). Each patch was made by pipetting ~0.5 µl of OP50  E. coli  diluted to OD 600  ~10 and grown at room temperature for ~1 hr. ( B ) Distance between the example animal’s midbody position and the nearest patch edge (positive indicates inside patch) is plotted (black) for every time point. Putative encounters with a bacterial patch are indicated (gray). ( C ) Patch encounters (colored to represent the duration of the encounter) for 50 individuals foraging in these environments are plotted. ( D ) The number of total and unique patch encounters for each animal is shown. ( E ) Duration for each patch encounter was computed and classified as either short (0–2 min) or long (2–60 min) using a Gaussian mixture model. The distributions of all observed short and long encounters are plotted with duration binned logarithmically. ( F ) The observed start time of each patch encounter is shown for all short- and long-duration encounters. Long-duration encounters occur significantly later (one-tailed Mann–Whitney  U -test). ( G ) The probability of residing on patch was computed for all worms across time (black) and compared to the probability of residing on patch if patch locations were semi-randomly permuted (pink). Smoothed median values are plotted with bootstrap-derived 2.5% and 97.5% quantiles shown in shaded regions. Time points where observed probabilities of residing on patch significantly exceed permuted probabilities are indicated by a black line (one-tailed Fisher’s exact test with Benjamini–Hochberg correction). ( H ) The track of the example animal in ( A ) is replotted with color used to represent the animal’s instantaneous velocity at each time point. ( I ) Velocity of the example animal over time is plotted (black) alongside patch encounters (gray) as previously identified in ( B ). Example encounters – one early, short duration (green) and one late, long duration (blue) – are indicated. ( J ,  K ) A 60-s time window surrounding the start of these example encounters is enlarged. ( L ) Velocity trajectories were aligned to patch entry for every encounter. Mean encounter-aligned (black/gray) and randomly aligned (pink) trajectories are plotted for each animal (light) and across all animals (dark). ( M ) Deceleration upon encounter with the patch edge is plotted for every encounter and grouped by duration type. Deceleration was significantly lower for encounter-aligned as compared to randomly aligned trajectories (pink) for all duration types (one-tailed Mann–Whitney  U -tests with Bonferroni correction). ( N ) Mean velocity as a function of the distance from the edge of bacterial patches (computed for 50 μm bins) is shown for every animal (gray) and across all animals (black). ( O ) Each animal’s mean velocity during time spent on and off (midpoint at least –0.46 mm from patch edge) patch is shown. Velocity on patch was significantly slower than off patch (one-tailed paired-sample  t -test). Sample data for one animal (worm #1) are shown in ( A – C ,  H – K ). Summary data for all animals ( N  = 50 worms) and encounters ( N  = 419 total encounters) are shown in ( D – G ,  L – O ). Violin plots in ( D ,  F ,  M ,  O ) give the kernel density estimate (KDE) and quartiles for each measure. Asterisks denote statistical significance (***p < 0.001). See also  Figure 1—figure supplements 1 – 5  and  Videos 1 – 4 . Figure 1—source data 1. Number of total and unique patch encounters in  Figure 1D . Figure 1—source data 2. Duration of patch encounters in  Figure 1E . Figure 1—source data 3. Start time of patch encounters in  Figure 1F . Figure 1—source data 4. On-patch residence in  Figure 1G . Figure 1—source data 5. Velocity of animals upon encounter with patch edge in  Figure 1L . Figure 1—source data 6. Deceleration of animals upon encounter with patch edge in  Figure 1M . Figure 1—source data 7. Velocity of animals upon encounter with patch edge in  Figure 1N . Figure 1—source data 8. Velocity on and off patch in  Figure 1O .",
+    "original_url": "https://cdn.elifesciences.org/articles/103191/elife-103191-fig1-v1.tif",
+    "sha256": "7515b31f88f98cf71307f016d0d25b1bd33ad133ec77ab64c52a4f79474310bf",
+    "width": 2205,
+    "height": 1283
+  },
+  "103191:4": {
+    "path": "figures/elife_103191_fig4.png",
+    "title": "<i>Accept–reject</i> decision-making revealed via a quantitative and ethological study of <i>C. elegans</i> foraging",
+    "authors": "Jessica A Haley; Tianyi Chen; Mikio Aoi; Sreekanth H Chalasani",
+    "first": "Haley",
+    "year": "2025",
+    "doi": "10.7554/eLife.103191",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Haley et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Exploitation decisions are driven by available sensory information, satiety, and prior experience. ( A ) Schematic of the covariates  x k \\begin{document}$\\boldsymbol{x}_{k}$\\end{document}  used in our logistic regression model to predict the probability of  exploiting  a patch upon any given encounter  p ( y k = 1 | β ⋅ x k ) \\begin{document}$p\\left (y_{k}=1|\\boldsymbol{\\beta }\\cdot \\boldsymbol{x}_{k}\\right)$\\end{document} .  x k \\begin{document}$\\boldsymbol{x}_{k}$\\end{document}  includes the relative density of the encountered patch  k   ( ρ k ) \\begin{document}$k\\ (\\rho _{k})$\\end{document} , the duration of time spent off food since departing the last  exploited  patch ( τ s \\begin{document}$\\tau _{s}$\\end{document} ), the relative density of the patch encountered immediately before encounter  k   ( ρ k ) \\begin{document}$k\\ (\\rho_k)$\\end{document} , and the relative density of the last  exploited  patch ( ρ e \\begin{document}$\\rho _{e}$\\end{document} ). ( B ) To account for uncertainty in our classification of sensation, we produced 100 sets of observations wherein we probabilistically included  sensed  encounters ( v k = 1 \\begin{document}$v_{k}=1$\\end{document} ) estimated from the distribution  v k | w k ∼ Bern ( p ( v k = 1 | w k ) ) \\begin{document}$v_{k}|\\boldsymbol{w}_{k}\\sim \\text{Bern}\\left (p\\left (v_{k}=1|\\boldsymbol{w}_{k}\\right)\\right)$\\end{document}  where  p ( v k = 1 | w k ) \\begin{document}$p\\left (v_{k}=1|\\boldsymbol{w}_{k}\\right)$\\end{document}  is the probability that the patch was  sensed  as estimated in  Figure 2I . To account for uncertainty in our classification of  exploitation , we substitute the response variable  y k \\begin{document}$y_{k}$\\end{document}  with our estimate of the probability that the patch was  exploited   p ( y k = 1 | z k ) \\begin{document}$p\\left (y_{k}=1|\\boldsymbol{z}_{k}\\right)$\\end{document}  as estimated in  Figure 2H , a procedure analogous to including  exploitations  ( y k = 1 \\begin{document}$y_{k}=1$\\end{document} ) estimated from the distribution  y k | z k ∼ Bern ( p ( y k = 1 | z k ) ) \\begin{document}$y_{k}|\\boldsymbol{z}_{k}\\sim \\text{Bern}\\left (p\\left (y_{k}=1|\\boldsymbol{z}_{k}\\right)\\right)$\\end{document} . A schematic of these procedures is shown (see Models of exploitation probability). ( C ) Coefficient values for each covariate in the GLM were estimated across 50,000 replicates (500 replicates of hierarchically bootstrapped animals in combination with 100 sets of probabilistically  sensed  encounters). All coefficients are significantly greater than or less than 0 (two-tailed, one-sample bootstrap hypothesis tests with Bonferroni correction). ( D ) Using observed  p y k = 1 z k \\begin{document}$p\\left (y_{k}=1|\\boldsymbol{z}_{k}\\right)$\\end{document}  and estimated  p y k = 1 β ⋅ x k \\begin{document}$p\\left (y_{k}=1|\\boldsymbol{\\beta }\\cdot \\boldsymbol{x}_{k}\\right)$\\end{document}  probabilities of  exploitation ,  exploitation  events were simulated from a Bernoulli distribution. Distributions of the probability of first  exploiting  as a function of the number of encounters as estimated by the model with covariates added one-by-one and as observed are shown for animals foraging in single-density, multi-patch environments of relative density 1 or 10. ( E ) A schematic of multi-density, multi-patch assays where animals foraged in environments containing small (~1.8 mm diameter) bacterial patches (gray) of varying combinations of OP50  E. coli  with relative densities 1, 4, and 7 are shown. ( F ) The probability of exploitation as estimated with ( p y k = 1 β 0 + β k ρ k + β s τ s + β h ρ h + β e ρ e \\begin{document}$p\\left (y_{k}=1|\\beta _{0}+\\beta _{k}\\rho _{k}+\\beta _{s}\\tau _{s}+\\beta _{h}\\rho _{h}+\\beta _{e}\\rho _{e}\\right)$\\end{document} ) and without ( p y k = 1 β 0 + β k ρ k + β s τ s \\begin{document}$p\\left (y_{k}=1|\\beta _{0}+\\beta _{k}\\rho _{k}+\\beta _{s}\\tau _{s}\\right)$\\end{document} ) the history-dependent terms and as observed  p y k = 1 z k \\begin{document}$p\\left (y_{k}=1|\\boldsymbol{z}_{k}\\right)$\\end{document}  is shown for every pairing of current patch density ( ρ k \\begin{document}$\\rho _{k}$\\end{document} ) combined with the density of recently encountered ( ρ h \\begin{document}$\\rho _{h}$\\end{document} ) or  exploited  ( ρ e \\begin{document}$\\rho _{e}$\\end{document} ) patches. Heat maps for observed values were interpolated between the nine patch density pairings tested. ( G )  Exploitation  events were simulated from the distribution  y k | z k ∼ B e r n ( p ( y k = 1 | z k ) ) \\begin{document}$y_{k}|\\boldsymbol{z}_{k} \\sim \\mathrm{B}\\mathrm{e}\\mathrm{r}\\mathrm{n}\\left (p\\left (y_{k}=1|\\boldsymbol{z}_{k}\\right)\\right)$\\end{document}  and used to calculate the probability of observing  exploitation  for the first time as a function of the number of encounters for N2,  mec-4 , and  osm-6  animals foraging in single-density, multi-patch environments of relative density 1 or 10. ( H ) Coefficient values for each covariate were estimated using ridge regression models for each strain across 50,000 replicates. A subset of these coefficients significantly varied between wild-type and mutant strains (mean of differences tests with Benjamini–Hochberg correction). Summary data for all animals ( N  = 443 total worms;  N  = 20–50 worms per condition) and encounters ( μ  = 2659.8,  σ  = 15.9) in the single-density, multi-patch assay are shown in ( C ,  D ). Summary data for all animals ( N  = 198 total worms;  N  = 20–40 worms per condition) and  sensed  encounters ( μ  = 1724.6,  σ  = 9.9) in the multi-density, multi-patch assay are shown in ( F ). Summary data for all wild-type and mutant animals ( N  = 221 total worms;  N  = 14–44 worms per condition) and encounters ( N  = 1352 total encounters) in a single-density, multi-patch assay are shown in ( G ,  H ). Violin plots in ( C ,  H ) show the kernel density estimate (KDE) and quartiles for each measure. Asterisks denote statistical significance ( † p unadjusted  < 0.05; *p < 0.05; **p < 0.01; ***p < 0.001). See also  Figure 4—figure supplements 1 – 5 . Figure 4—source data 1. Coefficients of linear regression model in  Figure 4C . Figure 4—source data 2. Probability of exploitation occurring for the first time as a function of the number of encounters in  Figure 4D . Figure 4—source data 3. Observed and predicted (with and without history dependence) posterior probabilities of exploitation in  Figure 4F . Figure 4—source data 4. Probability of exploitation occurring for the first time as a function of the number of encounters for animals with sensory mutations in  Figure 4G . Figure 4—source data 5. Coefficients of linear regression model in  Figure 4H .",
+    "original_url": "https://cdn.elifesciences.org/articles/103191/elife-103191-fig4-v1.tif",
+    "sha256": "d96b7ac73ee30b745461e92e91b8ac2be585adfc56ad182f6ddc81a194b1df80",
+    "width": 2205,
+    "height": 3077,
+    "display_path": "figures/elife_103191_fig4_panels.png",
+    "panel_crop_box": [
+      0.52,
+      0,
+      1,
+      0.26
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2205,
+      3077
+    ],
+    "display_sha256": "3df91987062e4bdff98a21ef215d65867c0e7b207af281c32e0763a556ddaed7"
+  },
+  "108639:1": {
+    "path": "figures/elife_108639_fig1.png",
+    "title": "The nucleus accumbens shell regulates hedonic feeding via a rostral hotspot",
+    "authors": "Alina-Măriuca Marinescu; Eshita Kamal; Peter Leary; Keila Navarro I Batista; Manuel Klug; Nataša Savić; Christelle Le Foll; Marie A Labouesse",
+    "first": "Marinescu",
+    "year": "2026",
+    "doi": "10.7554/eLife.108639",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Marinescu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. D1-SPNs in the rostral vs. caudal medNAcSh respond differentially to reward consumption. ( a ) Surgery schematics of Drd1-cre mice injected with a cre-dependent calcium indicator (jGCaMP8m) and implanted with unilateral optic fibers in the rostral or caudal medNAcSh to image calcium photometry signals. Stereotaxic coordinates for injection and optic fiber implantation in the rostral and caudal are shown on the right. ( b ) Representative coronal images of rostral (left) vs. caudal (right) medNAcSh mice. ( c ) Protocol for the unpredicted reward consumption behavioral task: 30 rewards were available for 10 s at random intervals. ( d ) Left: Average calcium activity in D1-SPNs (all trials) shown as normalized fluorescence (ΔF/F0, %) in the rostral medNAcSh over time aligned to the onset of reward consumption, that is first lick onset (0 s). Grey shading represents the 10 s epoch for reward consumption. Right: Heatmap showing average calcium activity across individual trials (each row represents an animal) aligned to reward consumption, i.e. lick onset (0 s, thick dotted line). Thin dotted line: end of reward access. On average, mice completed 16.2 of 30 trials successfully (54%). ( e ) Quantification of the data in ( d ) depicts a significant decrease in rostral medNAcSh activity upon reward consumption, as shown by a significant decrease in ΔF/F0 minima in the 0–5 s reward epoch vs. –6 to –1 s pre-reward epoch. Paired t-test, t(4) = 4.610, p=0.0100. N=5 mice, 1 female, 4 male. ( f ) same as ( d ) for the caudal medNAcSh. Animals completed an average of 17.67 successful trials out of 30 (59%). ( g ) Quantification of the data in ( f ) depicts a significant increase in caudal medNAcSh activity upon reward consumption, as shown by a significant increase in ΔF/F0 maxima in the 0–5 s reward epoch vs. –6 to –1 s pre-reward epoch. Paired t-test, t(5) = 3.059, p=0.0281. N=6 mice, 4 female, 2 male. Data is mean ± SEM. *p<0.05; **p<0.01; ***p<0.001. Panel a was created with  BioRender . See also  Figure 1—figure supplement 1 .",
+    "original_url": "https://cdn.elifesciences.org/articles/108639/elife-108639-fig1-v1.tif",
+    "sha256": "590885086c0eb260aee9d16b8953f42c2d61a98be606214304d826f75c89f0d8",
+    "width": 2337,
+    "height": 2646,
+    "display_path": "figures/elife_108639_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0.47,
+      1,
+      0.73
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2337,
+      2646
+    ],
+    "display_sha256": "b6c45aa1e4121045d74b117568cbecdd58f8b70e7a76c1301d7e1a79db18ab64"
+  },
+  "108639:2": {
+    "path": "figures/elife_108639_fig2.png",
+    "title": "The nucleus accumbens shell regulates hedonic feeding via a rostral hotspot",
+    "authors": "Alina-Măriuca Marinescu; Eshita Kamal; Peter Leary; Keila Navarro I Batista; Manuel Klug; Nataša Savić; Christelle Le Foll; Marie A Labouesse",
+    "first": "Marinescu",
+    "year": "2026",
+    "doi": "10.7554/eLife.108639",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Marinescu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. In vivo optogenetic stimulation of rostral medNAcSh inhibits reward consumption. ( a ) Surgery schematics of Drd1-cre mice injected with a cre-dependent activating opsin (ChrimsonR) or mCherry control AAV and implanted with bilateral optic fibers in the rostral or caudal medNAcSh to stimulate local D1-SPNs. ( b ) Representative coronal images of rostral (left) vs. caudal (right) medNAcSh mice expressing relevant AAVs. ( c ) Protocol for the proof-of-concept reward consumption experiment: mice had unlimited access to the reward spout. Blocks of 8 min without (laser off, ‘non-opto’) or with opto-stimulation (laser on, ‘opto’) were alternated (off/on/off) for a total of three blocks. ( d ) Quantification of the lick counts per min in mCherry mice vs. ChrimsonR (rostral medNAcSh) mice, showing a lower lick count per min in rostral medNAcSh mice during opto stimulation vs. ‘non-opto’ epochs; lick counts unchanged across epochs in mCherry mice. ( e ) Quantification of mean licks per session in the opto-stimulation vs. non-opto-stimulation epochs shows a significant decrease in lick counts following stimulation of rostral medNAcSh D1-SPNs (and not in mCherry controls) confirming published studies. Two-way RM-ANOVA (group x epoch). Main effects: group F(1,6) = 0.4089, p=0.5461; epoch F(1,6) = 18.44, p=0.0051; group x epoch F(1,6) = 7.846, p=0.0311. Sidak post-hoc opto-stimulation vs. non-opto-stimulation: Controls t(6) = 1.219, p=0.4648; ChrimsonR Rostral medNAcSh t(6) = 4.488, p=0.0083; N=5 Controls, 3 female, 2 male; N=3 ChrimsonR Rostral medNAcSh, 1 female, 2 male. ( f ) Protocol for the full reward consumption experiment: mice had unlimited access to the reward spout. Blocks of 5 min with or without opto-stimulation were alternated (on/off/on/off/on) for a total of five blocks. ( g ) Quantification of the lick counts per min, showing that ChrimsonR rostral medNAcSh mice eat less during on vs. off epochs as in ( d ); there is a trend for a similar observation for ChrimsonR caudal medNAcSh mice. No change across epochs for mCherry control mice, as in ( d ). ( h ) Quantification of mean licks per session in the opto-stimulation vs. non-opto-stimulation epochs shows a significant decrease in lick counts following stimulation of rostral, but not caudal medNAcSh D1-SPNs (and no change in mCherry controls), indicating that activation of rostral but not caudal medNAcSh D1-SPNs significantly decreases reward consumption. Two-way RM-ANOVA (group x epoch). Main effects: group F(2,31) = 4.548, p=0.0185; epoch F(1,31) = 10.58, p=0.0028; group x epoch F(2,31) = 6.651, p=0.0039. Sidak post-hoc opto-stimulation vs. non-opto-stimulation: Controls t(31) = 0.2669, p=0.9909; Rostral medNAcSh t(31) = 5.010, p<0.0001; Caudal medNAcSh t(31) = 1.253, p=0.5244. N=10 Controls, 5 female, 5 male; N=13 Rostral medNAcSh, 6 female, 7 male; N=11 Caudal medNAcSh, 4 female, 7 male. ( i ) Pie charts showing % of mice showing food intake inhibition (mean Δlick counts non-opto/opto >0) in each group: 100% of ChrimsonR rostral medNAcSh mice, 30% of controls; and although caudal medNAcSh opto-stimulation does not lead to significant reward consumption inhibition as shown in ( h ), 64% of mice show an inhibition, indicating the effect is present but the effect size is too small to get captured statistically. Data is mean ± SEM. *p<0.05; **p<0.01; ***p<0.001. See also  Figure 2—figure supplement 1 .",
+    "original_url": "https://cdn.elifesciences.org/articles/108639/elife-108639-fig2-v1.tif",
+    "sha256": "04783bab6d2637044ec640f02b93a205a58791873e73bd93ea2da9f93bf736a9",
+    "width": 2435,
+    "height": 1845
+  },
+  "108663:3": {
+    "path": "figures/elife_108663_fig3.png",
+    "title": "The Crunchometer, a low-cost, open-source acoustic analysis of feeding microstructure",
+    "authors": "Elvi Gil Lievana; Benjamin Arroyo; Jesús Pérez-Ortega; Axel Lopez; Luis Rodriguez-Blanco; Xarenny Diaz; Gustavo Hernandez; Alam Coss; Emily Alway; Naama Reicher; Enrique Hernández-Lemus; Maya Kaelberer; Diego V Bohórquez; Ranier Gutierrez",
+    "first": "Gil Lievana",
+    "year": "2026",
+    "doi": "10.7554/eLife.108663",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Gil Lievana, Arroyo et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. The Crunchometer captures detailed differences in feeding microstructure between satiated and fasted states. ( A ) Representative feeding ethograms from a satiated (Fed) and a food-deprived (Fasted) mouse. Lines indicate bouts of high-fat diet (HFD) consumption (pink), standard Chow consumption (yellow), and non-edible gnawing (black). The lower panel shows the cumulative feeding time (only for Chow and HFD pellets, gnawing is excluded) over a two-hour session for the fed (green) and fasted (purple) groups (n=6 mice). Shaded areas indicate the standard error of the mean (± SEM). ( B ) The top panel shows the mean Inter-Bout Interval (IBI) in 10 min bins, illustrating the progression toward satiety. The bottom panel shows the corresponding feeding rate; red dots indicate a significant difference between fed and fasted states. The scatter plot (right) shows a significant correlation between total feeding time and food intake (R²=0.49, p=0.011). ( C ) Quantification of feeding parameters, including total feeding time, number of bouts, bout size, latency to first bite, and mean IBI. Data are expressed as mean ± SEM. *p<0.05, **p<0.01, ***p<0.001.",
+    "original_url": "https://cdn.elifesciences.org/articles/108663/elife-108663-fig3-v1.tif",
+    "sha256": "527367bd27f7cc1e2c1b13773deba9799e9c81971fd19c63108f116ef7e6e68a",
+    "width": 2257,
+    "height": 2603
+  },
+  "108663:4": {
+    "path": "figures/elife_108663_fig4.png",
+    "title": "The Crunchometer, a low-cost, open-source acoustic analysis of feeding microstructure",
+    "authors": "Elvi Gil Lievana; Benjamin Arroyo; Jesús Pérez-Ortega; Axel Lopez; Luis Rodriguez-Blanco; Xarenny Diaz; Gustavo Hernandez; Alam Coss; Emily Alway; Naama Reicher; Enrique Hernández-Lemus; Maya Kaelberer; Diego V Bohórquez; Ranier Gutierrez",
+    "first": "Gil Lievana",
+    "year": "2026",
+    "doi": "10.7554/eLife.108663",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Gil Lievana, Arroyo et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Semaglutide suppresses appetite and reduces the preference for a high-fat diet (HFD). ( A ) Feeding bouts and cumulative intake in fasted mice following subcutaneous administration of saline (control group, Ctrl). ( B ) The same parameters were measured in the same mice 24 hr later, under fasting conditions, following subcutaneous semaglutide administration (Sem group). ( C ) Feeding behavior recorded 24 hr after semaglutide administration under fed conditions (Post-Sem group). In the ethograms, pink lines represent HFD pellet consumption, yellow lines indicate pellet consumption, and black lines denote gnawing events. In cumulative intake plots, solid lines show group averages (n=6 mice), and shaded areas represent the ± SEM. All three experimental conditions (Ctrl, Sem, and Post-Sem) were tested sequentially in the same animals, with 24 hr intervals between sessions, as indicated by the arrow in the experimental timeline. ( D ) Percentage change in the body weight of mice. The mice were weighed prior to the onset of the Crunchometer test. The black arrow indicates the administration of semaglutide. The percentage change was calculated by subtracting the body weight recorded on the saline administration day (Ctrl) from the weights on subsequent days (semaglutide and post-semaglutide), then dividing by the baseline (Ctrl) weight and multiplying by 100. Asterisks indicate statistically significant differences between Ctrl vs D1, D4, and D5 Post-sem. Data are expressed as mean ± SEM. *p<0.05, **p<0.01, ***p<0.001. ( E ) Bar plots of food intake, feeding time, and number of bouts for Chow pellet (yellow bars) and HFD pellet (pink bars) across the three experimental groups. The sum of the yellow and pink bars represents the total food intake. Asterisks indicate statistically significant differences between experimental groups (Ctrl [Sal/Fasted], Sem [Sem/Fasted], and Post-sem [Post-semaglutide/Fed]), while the hash symbol (#) denotes significant differences between Chow and HFD pellets within the same group. ( F ) Quantitative analysis of feeding variables measured using the Crunchometer: latency to the first bite, bout size, IBI, and intake of a 10% sucrose solution. Data are expressed as mean ± SEM. *p<0.05, **p<0.01, ***p<0.001. ( G ) Average IBIs and feeding rate calculated in 10 min bins across the session. For the feeding rate, red dots indicate a significant difference between groups two-way ANOVA, time effect: F (11,165)  = 1.386, p= 0.1837, Treatment effect: F (2,15)  = 7.310, p=0.0061, and interaction: F (22,165)  = 0.8404, p = 0.6721; post hoc analysis: Ctrl vs Post-sem time bins = 0.17 hr, 0.33 hr, 1 hr (p<0.05); Ctrl vs Sem time bins = 0.33 hr, 1 hr (p<0.05). Asterisks indicate statistically significant differences between Ctrl vs Sem (Sal/Fasted vs Sem/Fasted), while a hash symbol denotes significant differences between Ctrl vs Post-sem (Sal/Fasted vs Post-semaglutide/Fed). The scatter plot in the right panel shows the correlation between feeding time and total food intake (R²=0.57, p=0.00031). A group analysis, as shown here, can be performed using the ‘short.mat’ files generated by the Crunchometer software, via Tab 6 (Group analysis). The ‘short.mat’ files need to be in a folder named after each experimental group.",
+    "original_url": "https://cdn.elifesciences.org/articles/108663/elife-108663-fig4-v1.tif",
+    "sha256": "18f894357364a384b6e566f0466b545d76275e6a4246a6f7616a19e5360c363c",
+    "width": 2538,
+    "height": 3186,
+    "display_path": "figures/elife_108663_fig4_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.345
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2538,
+      3186
+    ],
+    "display_sha256": "90c87e74d7b41eeed3dd0ddef358267425cb14fb172fbbd72be620a190fee699"
+  },
+  "11190:1": {
+    "path": "figures/elife_11190_fig1.png",
+    "title": "Hippocampus ghrelin signaling mediates appetite through lateral hypothalamic orexin pathways",
+    "authors": "Ted M Hsu; Joel D Hahn; Vaibhav R Konanur; Emily E Noble; Andrea N Suarez; Jessica Thai; Emily M Nakamoto; Scott E Kanoski",
+    "first": "Hsu",
+    "year": "2015",
+    "doi": "10.7554/eLife.11190",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hsu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.11190.003 Figure 1. Representative vHP injection site is shown as localization of pontamine sky blue ink following a 100 nl injection. CA1sp, CA3sp: CA1 and CA3 pyramidal cells; alv = alveus. DOI:   http://dx.doi.org/10.7554/eLife.11190.003",
+    "original_url": "https://cdn.elifesciences.org/articles/11190/elife-11190-fig1-v1.tif",
+    "sha256": "c63df81ef891d557d0b09f36a7f9caa1832e3639f9bf823f97a0b090122a24d1",
+    "width": 709,
+    "height": 547
+  },
+  "11190:5": {
+    "path": "figures/elife_11190_fig5.png",
+    "title": "Hippocampus ghrelin signaling mediates appetite through lateral hypothalamic orexin pathways",
+    "authors": "Ted M Hsu; Joel D Hahn; Vaibhav R Konanur; Emily E Noble; Andrea N Suarez; Jessica Thai; Emily M Nakamoto; Scott E Kanoski",
+    "first": "Hsu",
+    "year": "2015",
+    "doi": "10.7554/eLife.11190",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hsu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.11190.008 Figure 5. Effects of vHP-dpLHA unilateral disconnection on vHP ghrelin-mediated hyperphagia. Cumulative chow intake following unilateral vHP injections of ghrelin (300 pmol) that was: ( A ) Ipsilateral to a unilateral dpLHA lesion, ( B ) ipsilateral to a dpLHA sham lesion. ( C ) contralateral to a dpLHA lesion, and ( D ) contralateral to a dpLHA sham lesion. Data are mean ± SEM; *p<0.05; Ŧ p<0.07. DOI:   http://dx.doi.org/10.7554/eLife.11190.008",
+    "original_url": "https://cdn.elifesciences.org/articles/11190/elife-11190-fig5-v1.tif",
+    "sha256": "9e99504054f5c7d88a8ec89b256a0491f47e3137707ec4f63b4079165fcb0cb0",
+    "width": 1535,
+    "height": 1179
+  },
+  "18640:1": {
+    "path": "figures/elife_18640_fig1.png",
+    "title": "Hunger neurons drive feeding through a sustained, positive reinforcement signal",
+    "authors": "Yiming Chen; Yen-Chu Lin; Christopher A Zimmerman; Rachel A Essner; Zachary A Knight",
+    "first": "Chen",
+    "year": "2016",
+    "doi": "10.7554/eLife.18640",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Chen et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.18640.002 Figure 1. Prestimulation of AgRP neurons promotes sustained consummatory behavior. ( A ) Current model of feeding control by AgRP neurons illustrating the disconnect between the natural dynamics and orexigenic function of these cells. ( B ) Schematic of the prestimulation experiment. ( C ) Expression of ChR2-eYFP in AgRP neurons and optical fiber placement above arcuate nucleus. ( D – J ) Prestimulating ARC AgRP  neurons evokes food consumption in fed mice. ( D ) Raster plots showing temporal relationship between food pellet consumption events (black vertical bars) and opto-stimulation patterns (blue boxes). ( E ) Plots of cumulative food intake by mice after 0 min prestim (black n = 7), 60 min prestim (red n = 7) and overnight fasting (blue n = 6). Filled areas indicate S.E.M. ( F ) Food intake evoked by prestimulation with varied duration (n = 8). ( G ) First order association between average total food intake and prestimulation durations (Equation: Y = Y0 + (Plateau-Y0)*(1-exp(-K*x)). ( H ) Food intake evoked by protocols with different duration of delay between prestimulation and food availability (n = 8). ( I ) Bout size analysis of different prestimulation protocols (n = 7). ( J ) Bout number analysis of prestimulation protocols (n = 7). Asterisks on top of bar plots indicate significance levels compared to no stimulation control and asterisks on top of brackets indicate significance levels for comparisons with the respective protocols, using one-way-ANOVA with Holm-Sidak’s correction for multiple comparisons (****p≤0.0001, ***0.0001<p≤0.001, **0.001<p≤0.01, *0.01<p≤0.05, ns p>0.05). DOI:   http://dx.doi.org/10.7554/eLife.18640.002",
+    "original_url": "https://cdn.elifesciences.org/articles/18640/elife-18640-fig1-v2.tif",
+    "sha256": "63d9375714bd87e0427aaf383eb7e17d9f1dcb87591ca9504b9a8f38ffb419d9",
+    "width": 1976,
+    "height": 1650
+  },
+  "25641:3": {
+    "path": "figures/elife_25641_fig3.png",
+    "title": "Energy imbalance alters Ca<sup>2+</sup> handling and excitability of POMC neurons",
+    "authors": "Lars Paeger; Andreas Pippow; Simon Hess; Moritz Paehler; Andreas C Klein; Andreas Husch; Christophe Pouzat; Jens C Brüning; Peter Kloppenburg",
+    "first": "Paeger",
+    "year": "2017",
+    "doi": "10.7554/eLife.25641",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Paeger et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.25641.004 Figure 3. Diet-induced obesity changes the endogenous Ca 2+ -handling properties of POMC neurons. Ca 2+  handling was analyzed using a combination of patch-clamp recordings, ratiometric Ca 2+  imaging, and the ‘added buffer approach’. ( A ) Ca 2+  resting level. The concentration of free cytosolic Ca 2+  was increased in DIO mice. ( B–G ) Ca 2+ -handling properties. ( B ) fura-2 loading curve. POMC neurons were loaded via the patch pipette with the ratiometric Ca 2+  indicator fura-2, which also serves as the added Ca 2+  buffer. Fura-2 fluorescence was acquired at 360 nm excitation (isosbestic point of fura-2) every 30 s, and converted into fura-2 concentrations. ( C ) Decay kinetics of voltage-induced Ca 2+  transients of the POMC neuron in ( B ). The images (left panels) were acquired at times indicated in ( B ) and demonstrate the increasing fura-2 concentration during loading. The graphs (right panels) demonstrate the effect of increasing added Ca 2+  buffer (fura-2) concentrations on the decay kinetics of voltage-evoked Ca 2+  transients. ( C and D ) Analysis of endogenous Ca 2+ -handling parameters in a single cell. With increasing fura-2 concentrations, the amplitudes of transients decreased, and the time constants (τ transient ) for decay were prolonged ( C and D ). The decay time constants were plotted against the Ca 2+ -binding ratios of fura-2 (κ B ) ( D ). κ B  was calculated from the intracellular fura-2 concentration, the  K d  of fura-2, and the resting concentration of free intracellular Ca 2+ . The solid line represents the linear fit to the data. An estimate of κ S  was obtained as the negative x-axis intercept. The Ca 2+  extrusion rate is estimated from the slope of the fit and the endogenous decay time constant from the intercept with the y-axis. ( E ) The decay time constants of all recorded neurons were plotted as a function of κ B  for all POMC neurons of the control and DIO mice. The best linear fits with 95% confidence bands are shown. ( F and G ) To estimate the variance of the endogenous Ca 2+ -binding ratio ( κ S ) and the extrusion rate ( γ ), we used a bootstrap method (1000 samples), which provided bootstrap distributions (n = 1000) of the parameters for the control and DIO mice. Vertical lines indicate the means. ( F ) Distributions of  κ S . Sixteen counts for the control and one count for the DIO cohort between 2000 and 7500 are not shown. ( G ) Distribution of  γ.  Eighteen counts for the control and one count for the DIO cohort between 400 and 1350 are not shown. Subsequently, the distributions were log-transformed to bring them closer to a Gaussian, before applying unpaired t-tests. ***p<0.001. DOI:   http://dx.doi.org/10.7554/eLife.25641.004",
+    "original_url": "https://cdn.elifesciences.org/articles/25641/elife-25641-fig3-v1.tif",
+    "sha256": "52f6729e76add34fc9e845538b647ddb3ba4a2e92c0be1c3b6457a7a9726e616",
+    "width": 1386,
+    "height": 2142
+  },
+  "33710:3": {
+    "path": "figures/elife_33710_fig3.png",
+    "title": "POMC neurons expressing leptin receptors coordinate metabolic responses to fasting via suppression of leptin levels",
+    "authors": "Alexandre Caron; Heather M Dungan Lemko; Carlos M Castorena; Teppei Fujikawa; Syann Lee; Caleb C Lord; Newaz Ahmed; Charlotte E Lee; William L Holland; Chen Liu; Joel K Elmquist",
+    "first": "Caron",
+    "year": "2018",
+    "doi": "10.7554/eLife.33710",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Caron et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.33710.006 Figure 3. Deletion of LEPRs in adult POMC neurons impairs fasting-induced expression of orexigenic neuropeptides in the mediobasal hypothalamus. ( A )  Pomc , ( B )  Agrp  and ( C )  Npy  mRNA expression in mediobasal hypothalamus of fed and fasted (48 hr)  Pomc CreERt2 :: Lepr flox/flox  and littermate control mice four weeks after tamoxifen was given (n = 8–14). The data are expressed as the mean ± SEM. ***p<0.001 versus littermate controls.",
+    "original_url": "https://cdn.elifesciences.org/articles/33710/elife-33710-fig3-v2.tif",
+    "sha256": "762502709267cd1bf234cb7a4ae9b1fc8ba3753cdef2fad015f48b997b17add0",
+    "width": 1326,
+    "height": 568
+  },
+  "38704:2": {
+    "path": "figures/elife_38704_fig2.png",
+    "title": "Insulin regulates POMC neuronal plasticity to control glucose metabolism",
+    "authors": "Garron T Dodd; Natalie J Michael; Robert S Lee-Young; Salvatore P Mangiafico; Jack T Pryor; Astrid C Munder; Stephanie E Simonds; Jens Claus Brüning; Zhong-Yin Zhang; Michael A Cowley; Sofianos Andrikopoulos; Tamas L Horvath; David Spanswick; Tony Tiganis",
+    "first": "Dodd",
+    "year": "2018",
+    "doi": "10.7554/eLife.38704",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Dodd et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.38704.005 Figure 2. Pharmacogenetic stimulation or inhibition of hypothalamic POMC neurons modulates hepatic glucose metabolism. 8-week-old  Pomc -Cre mice (on the  Pomc -eGFP reporter background) were bilaterally injected with rAAV-hSyn-DIO-hM4D(Gi)-mCherry into the ARC. ( a ) Inhibitory DREADD experimental paradigm schematic and ( b ) C57BL/6 feeding profile. ( c–e ) Two weeks post-AAV injection mice were administered vehicle or clozapine-N-oxide (CNO; 0.3 mg/kg, intraperitoneal) as indicated for either 30 min (one injection) or 6 hr (two injections 3 hr apart) prior to being processed for ( c ) pyruvate tolerance tests (0.75 mg/g; statistical differences were determined using a two-way ANOVA with repeated measures followed by Sidak multiple comparison test. In separate experiments mice were administered vehicle or CNO (0.3 mg/kg, intraperitoneal) over 6 hr (two injections 3 hr apart) and livers extracted for ( d ) immunoblotting (data was analysed using a two-tailed t-test) and ( e ) quantitative PCR, (data was analysed using a two-tailed t-test) or ( f-h ) mice were subjected to hyperinsulinemic-euglycemic conscious clamps (data was analysed using a two-way ANOVA with repeated measures followed by Sidak multiple comparison test). ( f ) Glucose infusion rates (GIR), ( g ) glucose disappearance rates (Rd) and basal and clamped endogenous glucose production (EGP; glucose appearance rate minus GIR) were determined and ( h ) livers extracted for quantitative PCR (data was analysed using a two-tailed t-test). ( i–l ) 8-week-old  Pomc -Cre mice were bilaterally injected with rAAV-hSyn-DIO-hM3D(Gq)-mCherry into the ARC. ( i ) Excitatory DREADD experimental paradigm schematic. Two weeks post AAV injection mice were fasted overnight and administered vehicle or CNO (0.3 mg/kg, intraperitoneal) either 30 min (one injection) or 6 hr (two injections 3 hr apart) prior to being processed for ( j ) pyruvate tolerance tests (1.25 mg/g); significance was assessed using a two-way ANOVA with repeated measures followed by Sidak multiple comparison test. In a separate experiment, mice were fasted overnight and administered vehicle or CNO (0.3 mg/kg, intraperitoneal) as indicated over 6 hr (two injections 3 hr apart) and livers extracted for ( k ) immunoblotting and ( l ) quantitative PCR with significance being assessed using a two-tailed t-test in each case. Representative and quantified results are shown (means ± SEM) for the indicated number of mice.",
+    "original_url": "https://cdn.elifesciences.org/articles/38704/elife-38704-fig2-v2.tif",
+    "sha256": "f9627896ffb4f53544c25aa60655cb7b14df9a694f5f1f699547cf539f50c604",
+    "width": 2473,
+    "height": 3298
+  },
+  "43775:3": {
+    "path": "figures/elife_43775_fig3.png",
+    "title": "A bidirectional network for appetite control in larval zebrafish",
+    "authors": "Caroline Lei Wee; Erin Yue Song; Robert Evan Johnson; Deepak Ailani; Owen Randlett; Ji-Yoon Kim; Maxim Nikitchenko; Armin Bahl; Chao-Tsung Yang; Misha B Ahrens; Koichi Kawakami; Florian Engert; Sam Kunes",
+    "first": "Wee",
+    "year": "2019",
+    "doi": "10.7554/eLife.43775",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wee et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Caudal and lateral hypothalamic responses to prey sensory cues are anti-correlated over short timescales. ( a ) Top: Transgenic fish (2 hr food-deprived) with GCaMP6s expressed in cH and LH neurons were paralyzed, tethered in agarose with their eyes and nostrils freed and exposed to live paramecia (prey), as described in Materials and methods. Top image: GCaMP expression in the cH and LH driven by two transgenic lines,  Tg(116A:Gal4) and Tg(76A:Gal4)  respectively. Bottom image: Downsampled image stack used for analysis in ( f ). ( b ) Top: Mean calcium activity (Δf/f) from respective hypothalamic ROIs (shown in ( a )) from four individual fish during a baseline food-deprived period (Dep.), exposure to water alone (Water), and a dense water drop of paramecia (Para). Traces from left and right hypothalamic lobes of the same animal are overlain, revealing a high degree of correlated activity on opposite sides of the midline. Paramecia presentation increases activity in the LH and reduces activity in the cH, revealing opposing activity on short timescales. Bottom: Δf/f traces within area marked by gray box (top), displayed at higher magnification. An increase in LH activity and corresponding reduction in cH activity is observable within seconds of paramecia presentation, except for fish D in which maximal responses only occur after a few minutes (beyond the displayed time window). ( c ) Average Δf/f triggered on lLH calcium spikes (left and right lobes averaged) shows a mean corresponding reduction in cH activity (n = 159 lLH spikes extracted from mean Δf/f traces from 14 fish across the entire duration of the experiment). ( d ) Raster plots showing mean calcium activity from the hypothalamic lobes (left and right lobes averaged) of 14 fish before and after presentation of water alone and water with paramecia. ( e ) Quantification of integrated fluorescence (sum Δf/f %), calcium spike frequency (spikes/min) and calcium spike amplitude (Δf/f %) per fish across experimental epochs (300 s food-deprived baseline (D), 300 s after water (W) delivery or 600 s after paramecia delivery (P)). Each colored line represents data from an individual fish (left and right lobes averaged). Water alone was sufficient to significantly reduce cH integrated fluorescence (p = 6.1×10 −5 ) and spike frequency (p = 0.0127) but not spike amplitude (p = 0.9324). Water alone was similarly sufficient to increase lLH integrated fluorescence (p = 0.029) and spike frequency (p = 0.0098) but not spike amplitude (p = 0.13). Conversely, water alone was not sufficient to significantly modulate mLH integrated fluorescence (p = 0.48) or spike frequency (p = 0.20), but was sufficient to increase spike amplitude (p = 0.039). Paramecia delivery significantly increased mLH and lLH integrated fluorescence (mLH, p = 1.2×10 −4 ; lLH, p = 0.045) and spike frequency (mLH, p = 6.1×10 −5 ; lLH, 6.1 × 10 −4 ), while only significantly increasing mLH spike amplitude (mLH, p = 0.045; lLH, p = 0.43), relative to water delivery. In contrast, paramecia delivery significantly reduced cH integrated fluorescence relative to water delivery alone (p = 3.1×10 −4 ), but not spike frequency (p = 0.52) nor spike amplitude (p = 0.85). Asterisks denote p<0.05, one-tailed Wilcoxon signed-rank test. ( f ) Top: Cross-correlogram of hypothalamic cell-sized voxels (cells and/or neuropil from downsampled image stacks, see ( a )) from four fish. The cH and LH voxels were mostly anti-correlated, whereas voxels within each cluster displayed correlated activity. Black arrowheads indicate region of lLH that appears to be most anti-correlated with the cH. Bottom: Correlation coefficients of other hypothalamic voxels relative to a selected voxel with the cH, mLH or lLH. See color key for numerical translation of color maps. ( g ) Summary of data from 14 fish, showing the probability of the n th  most anti-correlated voxel belonging to each of the other regions (cH, mLH or lLH), normalized to chance probability (gray line) of belonging to each region (i.e. the fraction of all voxels occupied by each region). For example, if we consider all the voxels within the cH, there is a four-fold probability relative to chance of their most anti-correlated voxels (Rank = 1) being part of the lLH.",
+    "original_url": "https://cdn.elifesciences.org/articles/43775/elife-43775-fig3-v3.tif",
+    "sha256": "ad557de76c774098dba565cea1b92eaf335422195e1c4a8ecbce051b3bd6d0d0",
+    "width": 2505,
+    "height": 2956
+  },
+  "43818:3": {
+    "path": "figures/elife_43818_fig3.png",
+    "title": "Low wnt/β-catenin signaling determines leaky vessels in the subfornical organ and affects water homeostasis in mice",
+    "authors": "Fabienne Benz; Viraya Wichitnaowarat; Martin Lehmann; Raoul FV Germano; Diana Mihova; Jadranka Macas; Ralf H Adams; M Mark Taketo; Karl-Heinz Plate; Sylvaine Guérit; Benoit Vanhollebeke; Stefan Liebner",
+    "first": "Benz",
+    "year": "2019",
+    "doi": "10.7554/eLife.43818",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Benz et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.43818.007 Figure 3. Heterogeneous barrier phenotype in vessels of the adult wild type subfornical organ (SFO). ( A ) Sagittal scheme of all circumventricular organs (CVOs) (left overview), the SFO in detail (middle sagittal, right coronal) provide an orientation. ( B ) Heterogenous barrier phenotype in coronal fluorescence images, ( C ) sagittal confocal projections of the rostral SFO tip and ( D ) light sheet projections of whole mount SFO samples with leaky MECA32 +  and tight Cldn5 +  vessels. Scale bars: ( B ) 100 µm, ( D ) first picture 50 µm and following 20 µm. SFO, Subfornical organ; OVLT, organum vasculosum of lamina terminalis; ME, median eminence; PP, posterior pituitary; SCO, subcommisural organ; PI, pinal organ; AP, area postrema; SV, septal veins; V-III, third ventricle; CP, choroid plexus; CC, corpus callosum; SF, septofimbrial nucleus; TL, tomato lectin; VR, volume rendering.",
+    "original_url": "https://cdn.elifesciences.org/articles/43818/elife-43818-fig3-v2.tif",
+    "sha256": "460db557b8666076264fe480cf78ee2b1ec60599ee9610a67bee02723dd31353",
+    "width": 1960,
+    "height": 2633
+  },
+  "43818:6": {
+    "path": "figures/elife_43818_fig6.png",
+    "title": "Low wnt/β-catenin signaling determines leaky vessels in the subfornical organ and affects water homeostasis in mice",
+    "authors": "Fabienne Benz; Viraya Wichitnaowarat; Martin Lehmann; Raoul FV Germano; Diana Mihova; Jadranka Macas; Ralf H Adams; M Mark Taketo; Karl-Heinz Plate; Sylvaine Guérit; Benoit Vanhollebeke; Stefan Liebner",
+    "first": "Benz",
+    "year": "2019",
+    "doi": "10.7554/eLife.43818",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Benz et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.43818.022 Figure 6. Reduction of vascular permeability by endothelial specific β-catenin gain-of-function (GOF). ( A ) Overview and ( C ) high magnification shows leakage of FITC labelled albumin within the SFO of Cre -  and Cre +  mice. Dashed lines indicate SFO ( A ) or vessel outline ( C ). ( B ) Quantification of FITC-positive SFO area normalized to the vessel area (Cre -  = 4 mice, Cre +  = 3 mice). Scale bars: ( A ) 100 µm; ( C ) 50 µm; error bars show ±SEM. 10.7554/eLife.43818.023 Figure 6—source data 1. Quantification of FITC-BSA extravasation in the vasculature of the subfornical organ (SFO) in Cdh5(PAC)-CreERT2:Ctnnb1Ex3fl/wt mice.",
+    "original_url": "https://cdn.elifesciences.org/articles/43818/elife-43818-fig6-v2.tif",
+    "sha256": "f6e67221c723bc5e1e6194c028fee0acf06a1a950a01b89e28a72ba93fa4c486",
+    "width": 2196,
+    "height": 2714
+  },
+  "46348:3": {
+    "path": "figures/elife_46348_fig3.png",
+    "title": "Sustained NPY signaling enables AgRP neurons to drive feeding",
+    "authors": "Yiming Chen; Rachel A Essner; Seher Kosar; Oliver H Miller; Yen-Chu Lin; Sheyda Mesgarzadeh; Zachary A Knight",
+    "first": "Chen",
+    "year": "2019",
+    "doi": "10.7554/eLife.46348",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Chen et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.46348.006 Figure 3. The requirement for NPY is rescued by reexpression of NPY in AgRP neurons. ( a ) Experimental setup for optogenetic stimulation with alternating laser ON and OFF epochs. ( b ) Pattern of pellet consumption for NPY +and NPY- mice in response to alternating laser ON and OFF epochs (2 min each). Each pair of laser ON and OFF epochs (period) is 4 min and the entire trial is 2 hr. Each row is a representative trial from an individual mouse. ( c ) Superimposed raster plots showing total pellet consumption of NPY+ and NPY- mice in relationship to the onset and offset of opto-stimulation for a 2 hr trial. Each row is a representative trial from an individual mouse. Raster plots were generated by superimposing the pellet consumption pattern from all periods of a trial. ( d ) Example of the temporal pattern of pellet consumption for a single NPY+ and NPY- mouse with successive periods of a single trial arranged vertically. ( e ) Superimposed raster plots of total pellet consumption across a 2 hr trial by AgRP+, AgRP-, GABA+, and GABA- mice in relationship to opto-stimulation pattern. ( f ) Cumulative pellet consumption by AgRP+ (N = 6), AgRP- (N = 5), GABA+ (N = 6), GABA- (N = 6), NPY+ (N = 5) and NPY- (N = 6) mice in relationship to opto-stimulation pattern. g-i, Percentage of food intake that occurs during the laser ON epochs of an intermittent stimulation trial by AgRP+ (N = 6) and AgRP- (N = 5) ( g ), GABA+ (N = 6) and GABA- (N = 6) ( h ), and NPY+ (N = 5) and NPY- (N = 6) ( i ) mice. ( j ) Schematic for the rescue of NPY expression selectively in AgRP neurons. ( k ) Expression of EYFP (cyan) and NPY (magenta) in ARC (left) and PVH (right) of NPY- animals with or without NPY re-expression. Note that ChR2-EYFP is dim but visible in PVH of AAV-NPY injected animals. ( l ) Food intake (1 hr) by NPY rescue (red; N = 6) and control (black; N = 5) mice in response to different pre-stimulation protocols. ( m ) Food intake (1 hr) by NPY rescue (red; N = 6) and control (black; N = 5) groups in response to co-stimulation and overnight fasting ( n ) Cumulative pellet consumption by NPY rescue (N = 9) and control (N = 6) mice in relation to laser ON and OFF epochs. ( o ) Superimposed raster plots showing pellet consumption by NPY rescue and control mice in relation to the laser ON and OFF periods of a 2 hr trial. ( p ) Percentage of food intake by NPY rescue (N = 9) and control (N = 6) mice that occurs during the laser ON period. Filled area in f and n, error bars in g-i, l-m, and p represent mean ± SEM. Holm-Sidak multiple comparisons test was used to report adjusted P-values in g-i, l-m, and p. *p<0.05, **p<0.01, ***p<0.001, ****p<0.0001 or ns (not significant) compares adjacent control (black) and experimental (red) groups with same treatment, or compares pairs of groups indicated by the horizontal lines above.",
+    "original_url": "https://cdn.elifesciences.org/articles/46348/elife-46348-fig3-v2.tif",
+    "sha256": "2969bdb9d81933a24ee7bbeb00fcefab32aa4fb286c4c58cb5a7c10df4e93fc7",
+    "width": 2211,
+    "height": 2469
+  },
+  "54530:3": {
+    "path": "figures/elife_54530_fig3.png",
+    "title": "Dietary sugar inhibits satiation by decreasing the central processing of sweet taste",
+    "authors": "Christina E May; Julia Rosander; Jennifer Gottfried; Evan Dennis; Monica Dus",
+    "first": "May",
+    "year": "2020",
+    "doi": "10.7554/eLife.54530",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "May et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. The changes in PAM-β’2 activity are specific to sugar stimuli and caused by deficits in sweet sensation. ( A )  Left,  Mean %∆F/F 0  traces and  Right,  quantification of the maximum peak %∆F/F 0  responses to water stimulation of the labellum in the β’2 compartment of  MB301B > GCaMP6s::Brp::mCherry  flies fed a control (CD,  grey ) and sugar diet (SD,  rose ), same animals as in  Figure 2 . n = 67–70; shading and error bars are standard error of the mean. Mann-Whitney test; no significance. ( B ) The delay in the calcium responses quantified as latency in seconds (s) to maximum peak ∆F/F 0  response from the animals in A. n = 67–70; error bars are standard error of the mean. Mann-Whitney test; no significance. ( C )  Left:  Mean %∆F/F 0  response traces and  Right,  quantification of the maximum peak %∆F/F 0  responses to 30% sucrose stimulation of the labellum in the β’2 compartment of  MB301B  >  GCaMP6s::Brp::mCherry  flies fed a control (CD,  grey ) or high fat diet (FD,  rose ) n = 31–32; shading and error bars are standard error of the mean. Mann-Whitney test; no significance. ( D ) Latency-to-peak response times for the animals in C. n = 31–32; error bars are standard error of the mean. Mann-Whitney test; no significance. ( E )  Left,  Mean %∆F/F 0  traces and  Right,  quantification of the maximum peak %∆F/F 0  responses to sucrose stimulation of the labellum in the β’2 compartment of  MB301B > GCaMP6s::Brp::mCherry  flies fed a control (CD,  charcoal ) and sugar diet (SD,  red ) supplemented with 75 µM OSMI-1. n = 30–32; shading and error bars are standard error of the mean. Mann-Whitney test; no significance. ( F ) The delay in the calcium responses quantified as latency in seconds (s) to maximum peak ∆F/F 0  response from the animals in E. n = 30–32; error bars are standard error of the mean. Mann-Whitney test; no significance.",
+    "original_url": "https://cdn.elifesciences.org/articles/54530/elife-54530-fig3-v1.tif",
+    "sha256": "48c769e25c86b3eaa496790a963e582000465ce4d90019dcc6efdfc9ab1d064c",
+    "width": 2479,
+    "height": 3716,
+    "display_path": "figures/elife_54530_fig3_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.66
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2479,
+      3716
+    ],
+    "display_sha256": "fa2cf579264ad56537e897a99b3854b1d7a6b98ef834d4d80363d28d16d98310"
+  },
+  "58764:1": {
+    "path": "figures/elife_58764_fig1.png",
+    "title": "Cold-induced hyperphagia requires AgRP neuron activation in mice",
+    "authors": "Jennifer D Deem; Chelsea L Faber; Christian Pedersen; Bao Anh Phan; Sarah A Larsen; Kayoko Ogimoto; Jarrell T Nelson; Vincent Damian; Megan A Tran; Richard D Palmiter; Karl J Kaiyala; Jarrad M Scarlett; Michael R Bruchas; Michael W Schwartz; Gregory J Morton",
+    "first": "Deem",
+    "year": "2020",
+    "doi": "10.7554/eLife.58764",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Deem et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Effect of chronic cold exposure on determinants of energy balance and hypothalamic neuropeptide gene expression. ( A ) Adult male, wild-type mice were housed at the start of the dark cycle following body-composition measures and were maintained in temperature-controlled chambers set to either mild cold (14°C) or, as control, room temperature (22°C) for 5 days. Following a final body-composition analysis, animals were sacrificed and hypothalamic punches rapidly dissected. Mean dark and light cycle ( B ) core body temperature, ( C ) heat production, and ( D ) energy intake over 5 days while housed at either 22°C or 14°C. Change in ( E ) body weight, ( F ) body fat, and ( G ) lean body mass at study end in the same mice, n = 7–8 per group, mean ± SEM. Student’s t-test, *p<0.05 vs. 22°C. ( H ) Hypothalamic mRNA levels of agouti-related peptide ( Agrp ), neuropeptide Y ( Npy ), pro-opiomelanocortin ( Pomc ), and pro-melanin concentrating hormone ( Pmch ) as determined by qRT-PCR, mean ± SEM. Two-way ANOVA with Holm-Sidak correction for multiple comparisons, *p<0.05, **p<0.01, ****p<0.0001 vs. 22° C .   Figure 1—source data 1. Wild-type chronic study.  ",
+    "original_url": "https://cdn.elifesciences.org/articles/58764/elife-58764-fig1-v2.tif",
+    "sha256": "94a4e1ca12173ed7624ca84f8ec09ace9f71e920d16b0bde2c93e77b7853c5ab",
+    "width": 1821,
+    "height": 1717
+  },
+  "58764:3": {
+    "path": "figures/elife_58764_fig3.png",
+    "title": "Cold-induced hyperphagia requires AgRP neuron activation in mice",
+    "authors": "Jennifer D Deem; Chelsea L Faber; Christian Pedersen; Bao Anh Phan; Sarah A Larsen; Kayoko Ogimoto; Jarrell T Nelson; Vincent Damian; Megan A Tran; Richard D Palmiter; Karl J Kaiyala; Jarrad M Scarlett; Michael R Bruchas; Michael W Schwartz; Gregory J Morton",
+    "first": "Deem",
+    "year": "2020",
+    "doi": "10.7554/eLife.58764",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Deem et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Acute mild cold exposure activates agouti-related peptide (AgRP) neurons. ( A ) Representative sagittal and coronal images and  Agrp  hybridization in situ from Allen Brain Institute of the arcuate nucleus (ARC). ( B ) Immunohistochemical detection of AgRP-locus driven green fluorescent protein (GFP) (green), Fos (red), and colocalization of GFP and Fos (two right panels) in the ARC of AgRP-Cre:GFP mice 90 min after housing at either 14°C, 22°C, or 30°C. Quantitation of ( C ) total AgRP +  cells, ( D ) total Fos +  cells, and the total number ( E ) and percent ( F ) of AgRP neurons that co-express Fos across eight rostral to caudal sections of the ARC (AP: −1.17 to −2.17). Thin bar = 100 µm, thick bar = 50 µm, n = 3–5group, mean ± SEM. One-way ANOVA with Sidak correction for multiple comparisons, ***p<0.001, **p<0.01, *p<0.05 vs. 22°C.   Figure 3—source data 1. Arcuate nucleus Fos quantification.  ",
+    "original_url": "https://cdn.elifesciences.org/articles/58764/elife-58764-fig3-v2.tif",
+    "sha256": "3bd3cc8552b33c111367f932df1473b3d56f9b0668215964541b0ada9c38fdce",
+    "width": 2084,
+    "height": 1746
+  },
+  "58949:1": {
+    "path": "figures/elife_58949_fig1.png",
+    "title": "Lipocalin-2 is an anorexigenic signal in primates",
+    "authors": "Peristera-Ioanna Petropoulou; Ioanna Mosialou; Steven Shikhel; Lihong Hao; Konstantinos Panitsas; Brygida Bisikirska; Na Luo; Fabiana Bahna; Jongho Kim; Patrick Carberry; Francesca Zanderigo; Norman Simpson; Mihran Bakalian; Suham Kassir; Lawrence Shapiro; Mark D Underwood; Christina M May; Kiran Kumar Soligapuram Sai; Matthew J Jorgensen; Cyrille B Confavreux; Sue Shapses; Blandine Laferrère; Akiva Mintz; J John Mann; Mishaela Rubin; Stavroula Kousteni",
+    "first": "Petropoulou",
+    "year": "2020",
+    "doi": "10.7554/eLife.58949",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Petropoulou et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Serum LCN2 levels are postprandially increased in individuals with normal weight and overweight but not in individuals with obesity or with severe obesity. ( A–B ) Study 1: ( A ) Serum LCN2 levels and hunger and ( B ) Spearman correlation between serum LCN2 levels and hunger in normal-weight women (n = 11). ( C ) Study 2: serum LCN2 levels in normal-weight women (n = 9). ( D–L ) Study 3: ( D–E ) serum LCN2 levels in ( D ) all subjects (n = 47) and ( E ) subcategories of the cohort classified according to their postprandial response in raising LCN2 (R [n = 25]; NR [n = 22]). ( F ) Spearman correlation between serum LCN2 levels and hunger in the responders of the mixed cohort. ( G ) Serum LCN2 levels, ( H ) Spearman correlation between serum LCN2 levels and hunger and ( I ) BMI and waist circumference in female R (n = 15) and NR (n = 13) individuals. ( J ) Serum LCN2 levels, ( K ) Spearman correlation between serum LCN2 levels and hunger and ( L ) BMI and waist circumference in male R (n = 10) and NR (n = 9) individuals. ( M–O ) Study 4: ( M ) Fold change in serum LCN2 levels in female and male individuals with obesity, before (pre) and after (post) gastric bypass (n = 12). The asterisk denotes the difference before and after surgery at the indicated timepoint. ( N–O ) Spearman correlation between serum LCN2 levels and hunger in individuals with severe obesity ( N ) before and ( O ) after bariatric surgery. Values represent mean ± SEM. * indicates p<0.05, ‡ indicates p<0.06, and † indicates p<0.1 of each timepoint versus baseline, unless otherwise stated. ‘Serum LCN2’ represents log-transformed postprandial levels and ‘hunger’ represents hunger scores BMI = basic metabolic Index, LCN2 = Lipocalin-2, R = responders (elevated LCN2 levels in multiple timepoints after the meal), NR = non-responders (reduced LCN2 levels after the meal), RYGB = Roux en-Y Gastric Bypass. Figure 1—source data 1. Serum LCN2 levels are postprandially increased in individuals with normal weight and overweight but not in individuals with obesity or with severe obesity.",
+    "original_url": "https://cdn.elifesciences.org/articles/58949/elife-58949-fig1-v1.tif",
+    "sha256": "b73cafeb91352a30fea2922f054e5972912eb73b8486b4c7ac785e5fcc4e198a",
+    "width": 2072,
+    "height": 2986,
+    "display_path": "figures/elife_58949_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.22
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2072,
+      2986
+    ],
+    "display_sha256": "98ceff2d040c163ff745cb19cb925b88a7c64e77f5af1df0b1b503308a685f22"
+  },
+  "58949:5": {
+    "path": "figures/elife_58949_fig5.png",
+    "title": "Lipocalin-2 is an anorexigenic signal in primates",
+    "authors": "Peristera-Ioanna Petropoulou; Ioanna Mosialou; Steven Shikhel; Lihong Hao; Konstantinos Panitsas; Brygida Bisikirska; Na Luo; Fabiana Bahna; Jongho Kim; Patrick Carberry; Francesca Zanderigo; Norman Simpson; Mihran Bakalian; Suham Kassir; Lawrence Shapiro; Mark D Underwood; Christina M May; Kiran Kumar Soligapuram Sai; Matthew J Jorgensen; Cyrille B Confavreux; Sue Shapses; Blandine Laferrère; Akiva Mintz; J John Mann; Mishaela Rubin; Stavroula Kousteni",
+    "first": "Petropoulou",
+    "year": "2020",
+    "doi": "10.7554/eLife.58949",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Petropoulou et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 5. Rh-LCN2 administration suppresses food intake in vervets within 5 days of treatment. ( A ) Timeline in weeks showing the design and major events of the non-human primate study. ( B ) Change in food intake of saline- and LCN2-treated vervets during the first week of treatment (n = 3 monkeys/treatment). ( C ) Change in food intake of saline- and LCN2-treated vervets during the baseline, the first week of treatment, and the subsequent washout period (n = 3 monkeys/treatment). ( D–E ) Change in food intake of saline- and LCN2-treated vervets during ( D ) the second week of treatment (n = 3 monkeys/treatment) and ( E ) when treatment weeks were combined and values were averaged (n = 6 monkeys/treatment). ( F ) Circulating levels of monkey and human LCN2 in the treated monkeys. Two different ELISA assays were used; one for human and one for monkey LCN2. Each ELISA has selective reactivity for the designated species. In G, gray bars indicate serum levels of monkey whereas red bars represent human LCN2 following its administration. Values represent mean ± SEM. * indicates p<0.05 and † indicates p<0.1. B = Baseline, T = Treatment, mLCN2 = monkey Lipocalin-2, hLCN2 = human Lipocalin-2. Figure 5—source data 1. Rh-LCN2 administration suppresses food intake in vervets within 5 days of treatment.",
+    "original_url": "https://cdn.elifesciences.org/articles/58949/elife-58949-fig5-v1.tif",
+    "sha256": "e89e5e1168b8e72e81509931bf7d515ce960c91d56df083a0ddcee8f8dd4a5ef",
+    "width": 2132,
+    "height": 2521,
+    "display_path": "figures/elife_58949_fig5_panels.png",
+    "panel_crop_box": [
+      0,
+      0.34,
+      1,
+      0.68
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2132,
+      2521
+    ],
+    "display_sha256": "2238a4425a8239716595507255baa39b69e65e14260ef5c042cfc5f76c4d8cd3"
+  },
+  "66609:2": {
+    "path": "figures/elife_66609_fig2.png",
+    "title": "Neural basis for regulation of vasopressin secretion by anticipated disturbances in osmolality",
+    "authors": "Angela Kim; Joseph C Madara; Chen Wu; Mark L Andermann; Bradford B Lowell",
+    "first": "Kim",
+    "year": "2021",
+    "doi": "10.7554/eLife.66609",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Kim et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. The LT mediates water-related presystemic regulation of SON AVP  neurons. ( a, i ) Schematic of SON AVP  photometry experiment with hM4Di-mediated non-specific inhibition of neurons in the MnPO/OVLT ( a ) and SFO ( i ). ( b, j ) Single-trial timecourses of SON AVP  population activity in response to water bowl placement in saline and CNO trials of mice expressing hM4Di in the MnPO/OVLT ( b ) and SFO ( j ). Trials are sorted according to latency from water bowl placement to drinking onset (black ticks). n=6 (MnPO), 5 (SFO) mice. ( c, k ), Average SON AVP  population activity in response to water bowl placement in saline and CNO trials of mice expressing hM4Di in the MnPO/OVLT ( c ) and SFO ( k ). n=6 (MnPO), 5 (SFO) mice. ( d, l ) Average of pre-ingestive responses in saline and CNO trials of mice expressing hM4Di in the MnPO/OVLT ( d ) and SFO ( l ). n=6 (MnPO), 5 (SFO) mice. Values are means ± SEMs across trials. ( e, m ) Data from panels (c) ( e ) and (k) ( m ) binned across drinking periods. ***p<0.001; repeated measures (RM) two-way ANOVA, p<0.001 (MnPO), p>0.005 (SFO), n=6 (MnPO), 5 (SFO) mice. ( f, n ) Average pre- and post-ingestive responses in saline and CNO trials of mice expressing hM4Di in the MnPO/OVLT ( f ) and SFO ( n ). ns, p>0.05; *p<0.05; **p<0.01; paired t-test, p=0.00974, 0.00414 (MnPO), 0.101, 0.361 (SFO), n=6 (MnPO), 5 (SFO) mice. ( g, o ) Average latency to drinking onset and number of drinking bouts in saline and CNO trials of mice expressing hM4Di in the MnPO/OVLT ( g ) and SFO ( o ). ns, p>0.05; *p<0.05; **p<0.01; paired t-test, p=0.197, 0.0302 (MnPO), 0.0888, 0.141 (SFO), n=6 (MnPO), 5 (SFO) mice. ( h, p ) Average change in baseline activity in saline and CNO trials of mice expressing hM4Di in the MnPO/OVLT ( h ) and SFO ( p ). ns, p>0.05; *p<0.05; **p<0.01; paired t-test, p=0.0152 (MnPO), 0.692 (SFO), n=6 (MnPO), 3 (SFO) mice. Values are means ± SEMs across mice except for ( d, l ). See also  Figure 2—figure supplements 1 – 3 , AVP, vasopressin; LT, lamina terminalis; MnPO, median preoptic nucleus; OVLT, organum vasculosum lamina terminalis; PVH, paraventricular; SFO, subfornical organ; SON, supraoptic nuclei. Figure 2—source data 1. SON AVP  neuron response to water bowl placement after non-specific inhibition of the MnPO/OVLT and SFO.",
+    "original_url": "https://cdn.elifesciences.org/articles/66609/elife-66609-fig2-v2.tif",
+    "sha256": "9ad364aac9afab6cc8bb313de7dd466f2baec3c052d24bebd6f398dddb2f9736",
+    "width": 5936,
+    "height": 9375,
+    "display_path": "figures/elife_66609_fig2_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.49
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      5936,
+      9375
+    ],
+    "display_sha256": "f0c89bf767133d55e5030bde50b0f4947fb3e4a07dadbb1f3377e313d24c31be"
+  },
+  "66609:7": {
+    "path": "figures/elife_66609_fig7.png",
+    "title": "Neural basis for regulation of vasopressin secretion by anticipated disturbances in osmolality",
+    "authors": "Angela Kim; Joseph C Madara; Chen Wu; Mark L Andermann; Bradford B Lowell",
+    "first": "Kim",
+    "year": "2021",
+    "doi": "10.7554/eLife.66609",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Kim et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 7. non-AgRP/POMC neurons in the ARC mediate food-related presystemic regulation of SON AVP  neurons. ( a ) Representative images showing expression of ChR2-mCherry in the NTS (top), and their efferent projections in the PVH and SON (bottom). ( b ) Number of PVH AVP  and SON AVP  neurons (left), and non-GFP PVH and SON neurons (right) receiving direct synaptic inputs from the NTS. ( c ) Representative traces showing light-evoked responses. Black trace is an average of all traces (gray) in consecutive trials. ( d ) Schematic of SON AVP  photometry experiment with hM4Di-mediated inhibition of A1/C1 neurons. ( e ) Average SON AVP  population activity to hypotension induced by vasodilating drug HDZ in saline and CNO trials (left). Data binned every 5 min (right). ***p<0.001; RM two-way ANOVA, p<0.001, n=9 mice. ( f ) Average SON AVP  population activity in response to feeding onset in saline and CNO trials (left). Data binned across feeding periods (right). ns, p>0.05; RM two-way ANOVA, p>0.05, n=16 mice. ( g ) Representative image showing rabies-labeled neurons in the ARC that are monosynaptically connected to magnocellular SON AVP  neurons. ( h ) Schematic of SON AVP  photometry experiment with hM4Di-mediated inhibition of AgRP or POMC neurons. ( i ) Representative images showing hM4Di expression in AgRP (top) and POMC neurons (bottom). ( j ) Average SON AVP  population activity binned across feeding periods in saline and CNO trials of AVP-IRES-Cre;Agrp-IRES-Cre (top) and AVP-IRES-Cre;Pomc-IRES-Cre (bottom) mice. ns, p>0.05; RM two-way ANOVA, p>0.05 (AgRP), p>0.05 (POMC), n=4 (AgRP), 8 (POMC). ( k, o, q ) Schematic of SON AVP  photometry experiment with hM4Di-mediated non-specific inhibition of the ARC+VMH+DMH ( k ), VMH only ( o ), and DMH only ( q ). ( l ) Single-trial timecourses of SON AVP  population activity in response to food bowl placement in saline and CNO trials of ARC+VMH+DMH group. Trials are sorted according to latency from food bowl placement to feeding onset (black ticks). n=5 mice. ( m ) Average SON AVP  population activity in response to feeding onset in saline and CNO trials of ARC+VMH+DMH group. n=9 mice. ( n, p, r ) Average SON AVP  population activity binned across feeding periods in saline and CNO trials of ARC+VMH+DMH ( n ), VMH only ( p ), and DMH only ( r ) groups. ns, p>0.05; *p<0.05; RM two-way ANOVA, p=0.033 (ARC+VMH+DMH), p>0.05 (VMH only), p>0.05 (DMH only), n=5 (ARC+VMH+DMH), 4 (VMH only), 7 (DMH only) mice. Scale bars, 500 µm ( a, d ), 200 µm ( g, i, k, o, q ). Values are means ± SEMs across mice. See also  Figure 7—figure supplements 1 – 4 . AVP, vasopressin; DMH, dorsomedial nuclei; SON, supraoptic nuclei; VMH, ventromedial. Figure 7—source data 1. SON AVP  neuron response to food bowl placement after inhibition of AgRP and POMC neurons, ARC, DMH, and VMH.",
+    "original_url": "https://cdn.elifesciences.org/articles/66609/elife-66609-fig7-v2.tif",
+    "sha256": "527f7b685842a455e264a87bffdf8d80b1003405dfa90ba89e9abeb7e0b721b8",
+    "width": 6984,
+    "height": 8784
+  },
+  "72668:1": {
+    "path": "figures/elife_72668_fig1.png",
+    "title": "Metabolic sensing in AgRP neurons integrates homeostatic state with dopamine signalling in the striatum",
+    "authors": "Alex Reichenbach; Rachel E Clarke; Romana Stark; Sarah Haas Lockie; Mathieu Mequinion; Harry Dempsey; Sasha Rawlinson; Felicia Reed; Tara Sepehrizadeh; Michael DeVeer; Astrid C Munder; Juan Nunez-Iglesias; David C Spanswick; Randall Mynatt; Alexxai V Kravitz; Christopher V Dayas; Robyn Brown; Zane B Andrews",
+    "first": "Reichenbach",
+    "year": "2022",
+    "doi": "10.7554/eLife.72668",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Reichenbach et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Deletion of Crat in AgRP neurons is a model of impaired metabolic sensing. Intrinsic electrophysiological properties were little affected in WT versus KO mice including resting membrane potential ( A , n = 22/23 cells WT/KO), input resistance ( B  n = 13/16 cells WT/KO), spontaneous action potential firing frequency ( C  n = 14/16 cells WT/KO), although action potential amplitude was significantly reduced in KO AgRP neurons ( D , n = 14/16 cells WT/KO). Glucose-responsive profiles of AgRP neurons from WT (21 cells) and KO (25 cells) mice characterised by their response to increased extracellular glucose concentration from 2 mM to 5 mM ( E–F ). In vivo fiber photometry analysis of AgRP neuronal activity in WT and KO mice ( G–O ). First exposure to a peanut butter chip (PB) ( G , n = 7 WT; n = 5 KO) and time binned summary data ( H ). GCaMP6s expression in AgRP neurons [scale bar = 100 µm] ( I ). AgRP neural activity in ad libitum-fed mice in response to repeated PB exposure ( J ; n = 14 WT; n = 12 KO) and time binned summary data ( K–L ). AgRP neural activity in fasted mice in response to repeated PB exposure (M; n = 8 WT; n = 7 KO) and time binned summary data ( N ), n = 8 WT, n = 7 KO). Time binned summary data comparing the response to repeated PB exposure in ad libitum-fed or fasted WT and KO mice ( O ). Data± SEM; ANOVA with Tukey’s post hoc analysis ( H, K, L, N, O ) and unpaired students t-test ( A–D ); a, significant at p < 0.05; ** p < 0.01, *** p < 0.001, **** p < 0.0001. Dashed lines in I, J, and M indicated the moment of contact with a PB contact. 1 , 2   Videos 1  and  2  accompany this figure. Figure 1—source data 1. Deletion of Crat in AgRP neurons is a model of impaired metabolic sensing.",
+    "original_url": "https://cdn.elifesciences.org/articles/72668/elife-72668-fig1-v3.tif",
+    "sha256": "5f43d56e76a5ed19d65b9223253d28322404af5f8fd86bde7ef1ac612061ffab",
+    "width": 2439,
+    "height": 3256
+  },
+  "72668:4": {
+    "path": "figures/elife_72668_fig4.png",
+    "title": "Metabolic sensing in AgRP neurons integrates homeostatic state with dopamine signalling in the striatum",
+    "authors": "Alex Reichenbach; Rachel E Clarke; Romana Stark; Sarah Haas Lockie; Mathieu Mequinion; Harry Dempsey; Sasha Rawlinson; Felicia Reed; Tara Sepehrizadeh; Michael DeVeer; Astrid C Munder; Juan Nunez-Iglesias; David C Spanswick; Randall Mynatt; Alexxai V Kravitz; Christopher V Dayas; Robyn Brown; Zane B Andrews",
+    "first": "Reichenbach",
+    "year": "2022",
+    "doi": "10.7554/eLife.72668",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Reichenbach et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Impaired metabolic sensing in AgRP neurons reduces dopamine release in the nucleus accumbens during a progressive ratio session. Experimental design ( A ) - mice with fiberoptic implant in the nucleus accumbens were trained to nose poke for a sucrose pellet prior to experimental testing. During testing, mice were tethered to a fiberoptic cable in their home cage and after 5 min acclimation, mice gained access to FED3 on PR schedule. Schematic of GRAB-DA (AAV-hSyn-DA4.3) injection site in the nucleus accumbens ( B ) and fiber placement [scale bar = 500 µm] ( C ). Combined average dopamine release response aligned (time = 0) to rewarded and non-rewarded correct nose pokes during a PR session from WT ( D ; n = 10 mice) and KO ( E ; n = 12 mice) ad libitum-fed mice and WT ( H ; n = 12 mice) or KO ( I , n = 12 mice) after an overnight fast. The average z-score of rewarded nose pokes from WT and KO ad libitum-fed mice at –5–0 s and 0–60 s ( F ) or from WT and KO fasted mice at –5–0 s and 0–60 s ( G ). Heat maps of averaged responses from each experimental animal aligned to nose poke ( J ). Average z-score dopamine release traces aligned to pellet retrieval (time = 0) from ad libitum-fed ( K ) or fasted ( L ) WT and KO mice. The average z-score at –5–0 s and 0–10 s after pellet retrieval in ad libitum-fed ( M ) or fasted mice ( N ). Rewarded nose pokes /Pellets received ( O ) and the time between rewarded and non-rewarded nose pokes during the recording PR session in ad libitum-fed or fasted WT and KO mice ( P ). WT and KO mice with pellet retrieval time for fed and fasted WT and KO mice shown in Q. Heatmaps of averaged responses from each experimental animal aligned to pellet retrieval ( R ). Data± SEM, two-way ANOVA with Tukey’s post hoc analysis. a – significant compared to WT, p < 0.05, b – significant compared to WT –5–0 s, p < 0.05. Dashed lines at time = 0 ( D, E, H, I ) represent the time at which a nose poke was made. A continuous solid line at time = 0 ( L, M ) represents the time at which mice collected a pellet from the pellet dispenser. Figure 4—source data 1. Impaired metabolic sensing in AgRP neurons reduces dopamine release in the nucleus accumbens during a progressive ratio session.",
+    "original_url": "https://cdn.elifesciences.org/articles/72668/elife-72668-fig4-v3.tif",
+    "sha256": "ab3a4fb7217006e9a0d143533a1dd460461476a3f61880df3a2cd18e5d0f0ce3",
+    "width": 2398,
+    "height": 2519,
+    "display_path": "figures/elife_72668_fig4_panels.png",
+    "panel_crop_box": [
+      0,
+      0.15,
+      1,
+      0.365
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2398,
+      2519
+    ],
+    "display_sha256": "0a7b7f8ae06edc1b13b7fc3a55a2d18ad0f19cb985e98076ecc948593292b04f"
+  },
+  "74964:4": {
+    "path": "figures/elife_74964_fig4.png",
+    "title": "Enteroendocrine cell types that drive food reward and aversion",
+    "authors": "Ling Bai; Nilla Sivakumar; Shenliang Yu; Sheyda Mesgarzadeh; Tom Ding; Truong Ly; Timothy V Corpuz; James CR Grove; Brooke C Jarvie; Zachary A Knight",
+    "first": "Bai",
+    "year": "2022",
+    "doi": "10.7554/eLife.74964",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Bai et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Distinct EEC subtypes signal reward and aversion. ( A ) Overview of the chemogenetic approach to stimulate EEC subtypes. Littermates that were Cre or Flp negative (and therefore did not express hM3D) were used as genetic controls. ( B ) Cumulative food intake over one hour of overnight food-deprived mice, comparing trials with CNO or saline treatment. ( C ) Quantification of total food intake at 1 hr from ( B ), including data for both triple-mutants and littermate controls. Two-way repeated measures ANOVA. Genotype: F(11, 138)=1.508, p=0.135. Drug: F(1, 138)=8.392, p=0.0044. Interaction: F(11, 138)=5.5157, p<0.0001. ( D ) Cumulative food intake of satiated mice, and quantification of total food intake at 1 hr. ( E ) CTA paradigm. In the training trials, CNO or vehicle is delivered intraperitoneally after 20 min of sucrose or water ingestion. This is followed by a two-bottle test on day 5. ( F ) Total sucrose intake during training trials of CTA, comparing the 1st trial (day 1, naive mice) versus the 2nd trial (day 3, after pairing sucrose with CNO for one trial). Two-way repeated measures ANOVA. Day: F(1, 63)=16.31, p=0.0001. Genotype: F(5, 63)=3.463, p=0.0079. Interaction: F(5, 63)=3.382, p=0.0091. ( G ) Preference for sucrose during the two-bottle test (day 5). Ordinary one-way ANOVA. F(5, 25)=1168, p<0.0001. ( H ) CFP paradigm. In the training trials, CNO or vehicle is delivered in the drinking solution along with flavor A or flavor B. ( I ) Preference for the CNO paired in a two-bottle test at baseline (day 1) and after CFP training (day 6). Two-way repeated measures ANOVA. Genotype: F(5, 63)=3.463, p=0.0079. Day: F(1, 63)=16.31, p=0.0001. Interaction: F(5, 63)=3.382, p=0.0091. ( J ) Summary of EEC subtypes labeled by each Cre line, and their effects on food intake and food learning. Values are reported as mean ± SEM. N mice is annotated within figures. *p<0.05, **p<0.01, ***p<0.001, ****p<0.0001, two-way ANOVA (C, D, G, and I) or Ordinary one-way ANOVA ( F ). See also  Source data 1  and  Figure 4—source data 1 ,  Figure 4—source data 2 ,  Figure 5—source data 3 ,  Figure 4—source data 4 . Figure 4—source data 1. Raw data for  Figure 4C . Figure 4—source data 2. Raw data for  Figure 4F . Figure 4—source data 3. Raw data for  Figure 4G . Figure 4—source data 4. Raw data for  Figure 4I .",
+    "original_url": "https://cdn.elifesciences.org/articles/74964/elife-74964-fig4-v2.tif",
+    "sha256": "d4f8c1260a8c985f4e0334a8a228c479dce7149a1a5691416f42e69eeca8f07d",
+    "width": 1657,
+    "height": 1405
+  },
+  "74964:5": {
+    "path": "figures/elife_74964_fig5.png",
+    "title": "Enteroendocrine cell types that drive food reward and aversion",
+    "authors": "Ling Bai; Nilla Sivakumar; Shenliang Yu; Sheyda Mesgarzadeh; Tom Ding; Truong Ly; Timothy V Corpuz; James CR Grove; Brooke C Jarvie; Zachary A Knight",
+    "first": "Bai",
+    "year": "2022",
+    "doi": "10.7554/eLife.74964",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Bai et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 5. Different neurotransmitters regulate food consumption and learning. ( A–B ) One-hour food intake of overnight food-deprived mice treated with either CNO or vehicle, and the receptor antagonist or vehicle, immediately before food access. Experimental  Tac1 Cre ; Vil-Flp; R26 Dual-hM3D  mice ( A ),  Cck Cre ; Vil-Flp; R26 Dual-hM3D  mice mice ( B ) are shown in red. Littermate control mice that do not express hM3D are shown in gray ( A,B ). The key comparison is the last two red bars in each set, which reports whether the receptor antagonist can block the ability of CNO to reduce food intake. Statistics for ( A ): Two-way repeated measures ANOVA. Ods. Genotype: F(1, 19)=14.25, p=0.0013. Drug: F(3, 57)=6.741, p=0.0006. Interaction: F(3, 57)=19.00, p<0.0001. RP. Genotype: F(1, 21)=34.88, p<0.0001. Drug: F(3, 63)=21.57, p<0.0001. Interaction: F(3, 63)=8.333, p<0.0001. JNJ. Genotype: F(1, 21)=21.84, p=0.0001. Drug: F(3, 63)=24.65, p<0.0001. Interaction: F(3, 63)=16.17, p<0.0001. Dev. Genotype: F(1, 21)=23.33, p<0.0001. Drug: F(3, 63)=4.295, p=0.0081. Interaction: F(3, 63)=5.032, p=0.0034. Ods RP. Genotype: F(1, 19)=8.406, p=0.0092. Drug: F(3, 57)=8.835, p<0.0001. Interaction: F(3, 57)=21.44, p<0.0001. Statistics for ( B ): Two-way repeated measures ANOVA. Ods. Genotype: F(1, 34)=2.679, p=0.1109. Drug: F(3, 102)=4.382, p=0.0061. Interaction: F(3, 102)=10.11, p<0.0001. RP. Genotype: F(1, 20)=14.75, p=0.0010. Drug: F(3, 60)=10.02, p<0.0001. Interaction: F(3, 60)=2.394, p=0.0772. JNJ. Genotype: F(1, 21)=4.676, p=0.0423. Drug: F(3, 63)=8.661, p<0.0001. F(3, 63)=2.446. Interaction: p=0.0720. Dev. Genotype: F(1, 34)=1.694, p=0.2018. Drug: F(3, 102)=24.64, p<0.0001. Interaction: F(3, 102)=7.190, p=0.0002. Ex. Genotype: F(1, 21)=4.407, p=0.0481. Drug: F(3, 63)=12.92, p<0.0001. Interaction: F(3, 63)=5.193, p=0.0029. See  Source data 1  for exact p values of all post-hoc tests. ( C )  Tac1 Cre ; Vil-Flp; R26 Dual-hM3D  mice (red) were subjected to CTA training as in  Figure 4 , except that they were treated with the indicated antagonist or vehicle prior to each training session. Littermate controls that lack hM3D expression (gray) were treated identically. Shown is the preference for sucrose during the two-bottle test on day 5. Note that all mice received CNO during CTA training. Two-way repeated measures ANOVA. Drug: F(4, 50)=10.62, p<0.0001. Genotype: F(1, 50)=117.6, p<0.0001. Interaction: F(4, 50)=11.15, p<0.0001. ( D )  Cck Cre ; Vil-Flp; R26 Dual-hM3D  mice mice (red) were subjected to CFP training as in  Figure 4 , except that they were treated with the indicated antagonist or vehicle prior to each training session. Littermate controls that lack hM3D expression (gray) were treated identically. Results are shown for the two-bottle tests on day 1 (before training, ‘B’) and day 6 (after training, ‘A’). Preference index indicates the preference for the CNO paired flavor, as in  Figure 4 . Note that all animals received CNO during training. Two-way repeated measures ANOVA. Time: F(1, 28)=22.71, p<0.0001. Genotype-Treatment: F(5, 28)=0.7891, p=0.5664. Interaction: F(5, 28)=2.895, p=0.0314. ( E ) Summary of gut hormones expressed in the  Tac1 Cre  EECs or  Cck Cre  EECs, and the corresponding receptors required for the regulation of feeding behavior or learned preferences, based on the pharmacological data presented in this figure. Values are reported as mean ± SEM. *p<0.05, **p<0.01, ***p<0.001, ****p<0.0001; # or ns above bars indicate p-value comparing with the vehicle control treatment of the same genotype (#p<0.05); two-way ANOVA. See also  Figure 5—figure supplement 1 , figure ,  Figure 5—source data 1 ,  Figure 5—source data 2 ,  Figure 5—source data 3 . Figure 5—source data 1. Raw data for  Figure 5A . Figure 5—source data 2. Raw data for  Figure 5B . Figure 5—source data 3. Raw data for  Figure 5C . Figure 5—source data 4. Raw data for  Figure 5D .",
+    "original_url": "https://cdn.elifesciences.org/articles/74964/elife-74964-fig5-v2.tif",
+    "sha256": "f16cbdcb8de932b82d1450174fa24c74b5769dce9300dafe1d2e663700c4fc04",
+    "width": 2128,
+    "height": 1399
+  },
+  "75718:1": {
+    "path": "figures/elife_75718_fig1.png",
+    "title": "Oxytocin signaling in the posterior hypothalamus prevents hyperphagic obesity in mice",
+    "authors": "Kengo Inada; Kazoku Tsujimoto; Masahide Yoshida; Katsuhiko Nishimori; Kazunari Miyamichi",
+    "first": "Inada",
+    "year": "2022",
+    "doi": "10.7554/eLife.75718",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Inada et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Oxytocin (Oxt)  conditional knockout (cKO) in paraventricular hypothalamic nucleus (PVH) induces an increase in body weight and food intake. ( A ) Schematic of the virus injection.  AAV-Cre  or vehicle was injected into the bilateral PVH of  Oxt flox/–  male mice. ( B ) Representative coronal sections of the PVH from  Oxt flox/–  mice received vehicle (left) or  AAV-Cre  (right) injection. Data were obtained at 5 weeks after the injection. Magenta and green represent  Oxt  and  Cre  in situ stainings, respectively. Blue, DAPI. Scale bar, 50 μm. ( C ) The number of remaining  Oxt + neurons in the PVH of mice that received  AAV-Cre  injection. **p<0.01, one-way ANOVA with post hoc Tukey’s HSD. N=5 each. ( D ) Time course of body weight after  AAV-Cre  or vehicle injection. N=6 each. ( E ) Representative photos of  Oxt flox/–  mice that received either vehicle (left) or  AAV-Cre  injection (right). Five weeks after the injection. Scale bar, 5 cm. ( F ) Body weight of wild-type ( +/+ ),  Oxt  KO ( –/– ), and  Oxt  cKO ( flox/– ) mice. The weight was measured at 5 weeks after injection of either vehicle or  AAV-Cre . Note that this time point corresponds to 13 weeks of age. **p<0.01, one-way ANOVA with post hoc Tukey’s HSD. N=10, 7, 9, and 10 for  +/+ ,  –/– ,  flox/–  vehicle, and  flox/–  Cre, respectively. ( G ) Relationship between the number of remaining  Oxt + neurons in the PVH and the body weight of  Oxt flox/–  mice shown in ( F ). Magenta, exponential fit for the data from both Cre and vehicle. ( H ) Time course of daily food intake, defined as the average food intake in each week after  AAV-Cre  or vehicle injection. ***p<0.001, Student’s  t -test with post hoc Bonferroni correction. N=6 each. ( I ) Cumulative food intake during the 5 weeks after the injection. ***p<0.001, Student’s  t -test. N=6 each. Error bars, standard error of mean (SEM).",
+    "original_url": "https://cdn.elifesciences.org/articles/75718/elife-75718-fig1-v1.tif",
+    "sha256": "3752d6751dfba6e29d3d7ffffc0720e01a2de106015a1bdfa5c2e6151d4a0d4f",
+    "width": 2289,
+    "height": 976
+  },
+  "82649:3": {
+    "path": "figures/elife_82649_fig3.png",
+    "title": "Identification of a GABAergic neural circuit governing leptin signaling deficiency-induced obesity",
+    "authors": "Yong Han; Yang He; Lauren Harris; Yong Xu; Qi Wu",
+    "first": "Han",
+    "year": "2023",
+    "doi": "10.7554/eLife.82649",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Han et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Leptin-responsive AgRP neurons directly innervate DMH neurons. ( A ) Diagram of transsynaptic tracing downstream targets from AgRP neurons.  AAV9-DIO-WGA-ZsGreen , a Cre-dependent tracer that labels neurons with synaptic connections, was injected into the ARC of  Agrp Cre :: Ai32 mice. Ai32 mice express ChR2/EYFP fusion protein conditioned Cre-mediated recombination. ( B ) ChR2-EYFP-labeled AgRP neurons in the ARC. Scale bar, 200 μm. ( C ) Double-labeling of MC4R neurons with transsynaptic WGA-ZsGreen in the DMH ( C ), green,  ZsGreen  RNA in situ; red,  Mc4r  RNA in situ. Scale bar, 100 μm. ( D ) The response of IPSCs recorded from an ZsGreen+ neuron upon photostimulation of AgRP terminals within the DMH (10ms pulse) with a pretreatment of vehicle or TTX +4 AP, and in slices pretreated with either TTX +4 AP or TTX +4-AP+Bic. ( E ) Statistical amplitude analysis of IPSCs from neurons recorded in  D . (n=7 neurons; *p<0.05 between TTX +4 AP and TTX +4-AP+Bic). ( F ) Representative spikes of ZsGreen-labeled DMH neurons before and after blue light pulses (20ms/pulse, 20 Hz) shined onto AgRP axonal fibers. ( G–I ) Firing frequency ( G ), resting membrane ( H ), and statistical analysis ( I ) of neurons recorded in  F  (n=7 neurons; *p<0.05). ( J,K ) Firing frequency ( J ), and resting membrane ( K ) of ZsGreen-labeled DMH neurons with or without leptin i.p. treatment. (n=7 neurons; *p<0.05). Error bars represent mean ± SEM. paired two-tailed t test in  G , H ,  J , and  K ; one-way ANOVA and followed by Tukey comparisons test in  E . Figure 3—source data 1. The original data of firing rate and rest membrane potential from in vitro electrophysiological recording in Figure 3.",
+    "original_url": "https://cdn.elifesciences.org/articles/82649/elife-82649-fig3-v1.tif",
+    "sha256": "0c49a955f9838e442087e6ec93eed9c15faced5740d1670b60e8844b855f2fd1",
+    "width": 2296,
+    "height": 790
+  },
+  "82649:5": {
+    "path": "figures/elife_82649_fig5.png",
+    "title": "Identification of a GABAergic neural circuit governing leptin signaling deficiency-induced obesity",
+    "authors": "Yong Han; Yang He; Lauren Harris; Yong Xu; Qi Wu",
+    "first": "Han",
+    "year": "2023",
+    "doi": "10.7554/eLife.82649",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Han et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 5. The α3-GABA A  receptor signaling within the MC4R DMH  mediates feeding and glucose tolerance. ( A ) Expression level of  Gabra1- Gabra6  in the DMH neurons of control and Agrp-Lepr KO mice. ( B ) Immunostaining showing the expression of GABA A  α3 in the DMH. Scale bar, 100 μm. ( C–E ) Colocalization of GABA A  α3 and transsynaptically labeled neurons by WGA-ZsGreen in the DMH after injection of  AAV9-DIO-WGA-ZsGreen  into the ARC of  Agrp Cre mice. Scale bar in  E  for  C–E , 50 μm. ( F–H ) The food intake ( F ), body weight ( G ), and GTT ( H ) were performed in  Mc4r Cre ::Rosa26 fs-Cas9  mice with a bilateral injection of vehicle,  AAV9-Gabra3 sgRNA -tdTomato  (GABA A -α3 KO), or  AAV9-DIO-Gabra3 cDNA -EYFP  (GABA A -α3 OE) into the DMH. ( I ) Feeding efficiency in the mice described in  F–H . ( J ) Weight of adipose tissues in the mice described in  F–H . n=8 per group in  F–J ; *p<0.05 between Control and GABA A -α3 KO,  # p<0.05 between Control and GABA A -α3 OE. ( K–O ) The food intake ( K ), body weight ( L ), GTT ( M ), feeding efficiency ( N ), and weight of adipose tissues ( O ) were performed in control mice and GABA A -α3 OE mice followed by the microinjection of leptin into ARC. (n=8 per group in K-O; *p<0.05 between Control +leptin and GABA A -α3 OE +leptin). ( P–R ) The 24-hr food intake ( P ), body weight change ( Q ), and refeeding test ( R ) were performed in HFD-treated with or without knockout of GABA A -α3. (n=8 per group; *p<0.05). Error bars represent mean ± SEM. unpaired two-tailed t test in  A  and  N–R ; one-way ANOVA and followed by Tukey comparisons test in  I  and  J ; two-way ANOVA and followed by Bonferroni comparisons test in  F–H  and  K–M . ( S ) Diagram showing a leptin regulated GABAergic neural circuit reverses obesity. The GABAergic AgRP LepR →DMH circuit plays a critical role in control of leptin-mediated food intake, body weight, and glucose tolerance through the α3-GABA A  signaling within the MC4R DMH  neurons. Figure 5—source data 1. The original data of body weight, food intake, and GTT for Figure 5.",
+    "original_url": "https://cdn.elifesciences.org/articles/82649/elife-82649-fig5-v1.tif",
+    "sha256": "b89f399467f6c5eeeeb596349d317002b21ef760569938dcfaf2c0783b93d3f1",
+    "width": 2298,
+    "height": 1877
+  },
+  "84961:1": {
+    "path": "figures/elife_84961_fig1.png",
+    "title": "Rapid, automated, and experimenter-free touchscreen testing reveals reciprocal interactions between cognitive flexibility and activity-based anorexia in female rats",
+    "authors": "Kaixin Huang; Laura K Milton; Harry Dempsey; Stephen J Power; Kyna-Anne Conn; Zane B Andrews; Claire J Foldi",
+    "first": "Huang",
+    "year": "2023",
+    "doi": "10.7554/eLife.84961",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Huang, Milton et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Timeline of experiments. Rats were  acclimated  to the reversed light cycle for 7 days before each experiment commenced. In experiment 1, rats underwent touchscreen cognitive testing before undergoing the activity-based anorexia (ABA) paradigm. In experiment 2, rats were exposed to the ABA paradigm prior to cognitive testing in the PhenoSys apparatus. The PhenoSys cognitive testing paradigm consisted of 7–10 days of  pre-training , 1–6 days of  pairwise discrimination,  and 1–8 days of  reversal learning . The ABA paradigm consisted of 3 days of  habituation  with ad libitum food access, 7 days of  baseline  testing with ad libitum access to food and a maximum of 10 days of ABA conditions with time-limited food access (90 min/day) and unrestricted running wheel access, followed by a minimum of 3 days of body weight  recovery  with reinstatement of ad libitum access to food.",
+    "original_url": "https://cdn.elifesciences.org/articles/84961/elife-84961-fig1-v2.tif",
+    "sha256": "edd0fa1804afa01745f71d5e7ec7178a575281dbeaaa2e3ff4db52cc901c4d72",
+    "width": 4793,
+    "height": 3369,
+    "display_path": "figures/elife_84961_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.49
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      4793,
+      3369
+    ],
+    "display_sha256": "121e31d78c125d4cbd102955407645b897b796d23b4cbe95d6a320deb911442f"
+  },
+  "84961:3": {
+    "path": "figures/elife_84961_fig3.png",
+    "title": "Rapid, automated, and experimenter-free touchscreen testing reveals reciprocal interactions between cognitive flexibility and activity-based anorexia in female rats",
+    "authors": "Kaixin Huang; Laura K Milton; Harry Dempsey; Stephen J Power; Kyna-Anne Conn; Zane B Andrews; Claire J Foldi",
+    "first": "Huang",
+    "year": "2023",
+    "doi": "10.7554/eLife.84961",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Huang, Milton et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Impaired cognitive flexibility does not predict susceptibility to ABA. ( A ) Schematic of pairwise discrimination (PD) and reversal learning (R1) task and subsequent activity-based anorexia paradigm (ABA). Animals split into two experimental groups determined by body weight loss after exposure to ABA: susceptible or resistant to ABA. Bar graphs show group mean ± SEM with individual animals (symbols). ( B ) Number of sessions to reach criterion (outcome*phase interaction p=0.0292): R1: ABA resistant>ABA susceptible (p=0.0142). ( C ) Number of total trials to reach criterion. ( D ) Number of correct or non-correct trials to reach the PD criterion. ( E ) Number of correct or non-correct trials to reach R1 criterion (outcome*phase interaction p=0.0389): Non-correct trials: ABA resistant>ABA susceptible (p=0.0401). ( F ) Progressive performance across the first correct 100 trials in R1 for individual animals: Non-correct response → X+1; correct response → Y+1. *p<0.05. Figure 3—source data 1. Full statistical analysis details and results for  Figure 3  and supplements.",
+    "original_url": "https://cdn.elifesciences.org/articles/84961/elife-84961-fig3-v2.tif",
+    "sha256": "df495315972529dd1c2dd13bc094162f1f8b4f660fc92c81ef89a7ba028299c8",
+    "width": 1942,
+    "height": 1596
+  },
+  "84961:5": {
+    "path": "figures/elife_84961_fig5.png",
+    "title": "Rapid, automated, and experimenter-free touchscreen testing reveals reciprocal interactions between cognitive flexibility and activity-based anorexia in female rats",
+    "authors": "Kaixin Huang; Laura K Milton; Harry Dempsey; Stephen J Power; Kyna-Anne Conn; Zane B Andrews; Claire J Foldi",
+    "first": "Huang",
+    "year": "2023",
+    "doi": "10.7554/eLife.84961",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Huang, Milton et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 5. Prior training on the reversal task changes the development of the ABA phenotype. ( A ) Schematic of activity-based anorexia (ABA) paradigm and the prior or subsequent pairwise discrimination (PD) and reversal learning (RL) task in Reversal Task. ( B ) Survival plot comparing order effects: ABA resistance was 56% (14/25) for rats that were exposed to ABA  after  Reversal Task compared to 5% (1/22) for rats that underwent ABA  before  Reversal Task (p<0.0001). ( C ) Body weight (% of baseline) trajectories for individual animals across a maximum of 10 days of ABA or until they reached <80%. Data shown are from ALL animals that underwent ABA ( D, E, G, H ) or ONLY ABA susceptible animals ( I, J, L, M ). ( D ) Mean daily ABA body weight (BW) % loss, Before Reversal Task>After Reversal Task (p<0.0001). ( E ) Mean daily ABA food intake, After Reversal Task>Before Reversal Task (p=0.0009). ( F ) Daily running wheel activity (RWA) across both experimental phases.  Baseline , all ps<0.0001: Before Reversal Task>After Reversal Task (Day 3, p=0.0440; Day 4, p=0.0105; Days 5–7, all p s <0.0001). ( G ) Mean daily RWA (ABA timing p=0.0002): Before Reversal Task>After Reversal Task during both baseline (p=0.0160) and ABA (p<0.0001). ( H ) Mean daily food anticipatory activity (FAA; RWA in the hour before food access; ABA timing p<0.0001). After Reversal Task>Before Reversal Task during both baseline (p=0.0010) and ABA (p<0.0001). Mean daily ABA body weight % loss ( I ) and food intake ( J ). ( K ) Daily RWA across both experimental phases. Baseline, all ps<0.0002: Susceptible Before Reversal Task>Susceptible After Reversal Task (Day 5: p=0.0001; Days 6–7: p s <0.0001). ( L ) Mean daily RWA (ABA timing p=0.0065): Susceptible Before Reversal Task>Susceptible After Reversal Task during both baseline (p=0.0426) and ABA (p=0.0165). ( M ) Mean daily FAA (ABA timing p=0.0157). Susceptible After Reversal Task>Susceptible Before Reversal Task during ABA (p=0.0357). Bar graphs show group mean ± SEM with all individual animals (symbols); line graphs show group mean ± SEM. *p<0.05, **p<0.01, ***p<0.001, ****p<0.0001. Figure 5—source data 1. Full statistical analysis details and results for  Figure 5  and supplements.",
+    "original_url": "https://cdn.elifesciences.org/articles/84961/elife-84961-fig5-v2.tif",
+    "sha256": "996e56482491f9480467006b28ac04960384d6157e4b5c674275bb68abfaa549",
+    "width": 2001,
+    "height": 1152
+  },
+  "85640:1": {
+    "path": "figures/elife_85640_fig1.png",
+    "title": "Multiple NTS neuron populations cumulatively suppress food intake",
+    "authors": "Weiwei Qiu; Chelsea R Hutch; Yi Wang; Jennifer Wloszek; Rachel A Rucker; Martin G Myers; Darleen Sandoval",
+    "first": "Qiu",
+    "year": "2023",
+    "doi": "10.7554/eLife.85640",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Qiu, Hutch et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Additive suppression of food intake with combined activation of NTS Calcr  and NTS Lepr  neurons. ( A ) Representative images showing mCherry-IR (hM3Dq, red) and FOS-IR (green) in the NTS (approximately Bregma –7.56 mm) of Lepr Dq , Calcr Dq  and LC Dq  mice following treatment with saline (Lepr Dq  VEH) or CNO (Lepr Dq  CNO, Calcr Dq  CNO and LC Dq  CNO IP, 1 mg/kg) for 2 hr before perfusion. NTS: nucleus of the solitary tract, AP: area postrema, cc: central canal. All images were taken at the same magnification; scale bar equals 150 µm. ( B–D ) Food intake in chow-fed Lepr Dq  (Lepr), Calcr Dq  (Calcr) and LC Dq  (LC) mice over the first 4 hr of the dark phase following vehicle (Veh) or CNO injection (IP, 1 mg/kg) when provided with chow ( B , n=25 for Veh group; n=20 for both Lepr and Calcr groups; n=8 for LC group) or HFD ( C , n=21 for Veh group; n=6 for Lepr group; n=7 for Calcr group; n=8 for LC group). ( D ) Food intake for the same groups of mice over the first 6 hours of refeeding during the light cycle following an overnight fast ( D , n=23 for Veh group; n=8 for Lepr group; n=7 for Calcr group; n=7 for LC group) following with CNO (IP, 1 mg/kg) or vehicle (Veh). ( E–F ) Control (Ctrl; AAV GFP  or AAV cre-GFP -injected, n=5) or Lepr Dq  (Lepr, n=5), Calcr Dq  (Calcr, n=5) and LC Dq  (LC, n=8) mice were treated with vehicle for three baseline days, followed by 2 days of twice daily treatment with CNO (IP 1 mg/kg), followed by two additional days of Veh treatment. Daily food intake ( E ) and body weight (shown as change from baseline) ( F ). Vehicle and CNO treatment are denoted on the graphs. ( G, H ) CTA assays: Mice were treated with vehicle (Veh, n=10), LiCl (IP, 126 mg/kg, n=9), or CNO (IP, 1 mg/kg, n=5) during exposure to a novel tastant (HFD) ( G ) or saccharin ( H ) paired with vehicle (Veh, n=13), LiCl (IP, 126 mg/kg, n=14), or CNO (IP, 1 mg/kg, n=5). Shown is mean +/-SEM; Two-way ANOVA, sidak’s multiple comparisons test was used; *p<0.05, **p<0.01, ***p<0.001, ****p<0.0001 vs vehicle or Ctrl;  # p<0.05,  ## p<0.01,  ### p<0.001,  #### p<0.0001 vs LC. Figure 1—source data 1. Data for  Figure 1  panels B-H.",
+    "original_url": "https://cdn.elifesciences.org/articles/85640/elife-85640-fig1-v3.tif",
+    "sha256": "c8ef3c0af320dbf5ccdc2e148a45fbea3a012e2a12952cd327a33fc900f3415d",
+    "width": 2856,
+    "height": 1768
+  },
+  "85640:4": {
+    "path": "figures/elife_85640_fig4.png",
+    "title": "Multiple NTS neuron populations cumulatively suppress food intake",
+    "authors": "Weiwei Qiu; Chelsea R Hutch; Yi Wang; Jennifer Wloszek; Rachel A Rucker; Martin G Myers; Darleen Sandoval",
+    "first": "Qiu",
+    "year": "2023",
+    "doi": "10.7554/eLife.85640",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Qiu, Hutch et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. NTS LCK  neuron activation decreases food intake and promotes a CTA. ( A ) Representative images showing mCherry-IR (hM3Dq, red) and FOS-IR (green) in the NTS (approximately Bregma –7.56 mm) of LCK Dq  mice following treatment with CNO (IP, 1 mg/kg) 2 hr before perfusion. Scale bar equals 150 µm. NTS: nucleus of the solitary tract, AP: area postrema, cc: central canal. ( B–D ) Food intake in LCK Dq  mice over the first 4 hr of the dark phase during expose to chow ( B ) or HFD ( C ) (n=9 per group), and during the first 6 hr of refeeding in the light cycle following an overnight fast ( D , n=7 per group) during treatment with CNO (IP, 1 mg/kg) or vehicle. ( E–F ) Control (Ctrl; AAV GFP -injected, n=7) or LCK Dq  mice (n=7) mice were treated vehicle (Veh) for 1 days, followed by 2 days with CNO (1 mg/kg, IP, twice per day) and daily food intake ( E ) and body weight (change from baseline) ( F ) were determined. Veh and CNO treatment are denoted on the graphs. ( G, H ) Ctrl (uninjected littermates) or LCK Dq  mice were treated with Veh, LiCl, or CNO (IP, 1 mg/kg) during exposure to a novel tastant (HFD ( G ) or saccharin ( H )); n=6 per group. Shown is mean +/-SEM; Two-way ANOVA, sidak’s multiple comparisons test was used in all figures, except panels G and H where unpaired T test was used; *p<0.05, **p<0.01, ***p<0.001, ****p<0.0001 vs Veh or Ctrl. Figure 4—source data 1. Source data for  Figure 4 , Panels B-H.",
+    "original_url": "https://cdn.elifesciences.org/articles/85640/elife-85640-fig4-v3.tif",
+    "sha256": "4a279c95d3f1d008ba8c8ab0bd76002d1b5870897a9ad612f2a7644e635d9a3d",
+    "width": 2760,
+    "height": 1696
+  },
+  "85640:5": {
+    "path": "figures/elife_85640_fig5.png",
+    "title": "Multiple NTS neuron populations cumulatively suppress food intake",
+    "authors": "Weiwei Qiu; Chelsea R Hutch; Yi Wang; Jennifer Wloszek; Rachel A Rucker; Martin G Myers; Darleen Sandoval",
+    "first": "Qiu",
+    "year": "2023",
+    "doi": "10.7554/eLife.85640",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Qiu, Hutch et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 5. Silencing of NTS LCK  neurons increases food intake and body weight. ( A ) Representative image showing GFP-IR (green) in the NTS of LCK TetTox  mice (approximately Bregma –7.56 mm). Scale bar equals 150 µm. NTS: the nucleus of the solitary tract, AP: area postrema, cc: central canal. ( B–D ) Cumulative food intake in response to chow ( B , n=8 per group) and HFD ( C , n=5 for control (Ctrl; AAV FLEX-hM3Dq -injected) group and n=8 for LCK TetTox  group) and body weight ( D , change from baseline; n=6 for Ctrl group and n=8 for LCK TetTox  group) is shown for Ctrl and LCK TetTox  mice following surgery, during which time they were fed chow for 6 weeks and HFD for an additional 6 weeks. ( E–F ) Comparisons of cumulative HFD food intake ( E ) and body weight (normalized to baseline) for Cck TetTox  (from  Figure 3C ), LC TetTox  (from  Figure 2G ), and LCK TetTox  (from panel  C ) mice. Shown is mean +/-SEM; Two-way ANOVA, sidak’s multiple comparisons test was used; *p<0.05, **p<0.01, ***p<0.001, ****p<0.0001 vs Ctrl except  E  and  F , for which these indicate differences between Cck TetTox  and LCK TetTox; # p<0.05 for Cck TetTox  vs LC TetTox . Figure 5—source data 1. Source data for  Figure 5 , panels B-F.",
+    "original_url": "https://cdn.elifesciences.org/articles/85640/elife-85640-fig5-v3.tif",
+    "sha256": "70a2cc5192692a81cd98532dba71b8801b8d38933faa02fae2ac0297248c54fc",
+    "width": 1890,
+    "height": 1121
+  },
+  "97854:3": {
+    "path": "figures/elife_97854_fig3.png",
+    "title": "Mechano-regulation of GLP-1 production by Piezo1 in intestinal L cells",
+    "authors": "Yanling Huang; Haocong Mo; Jie Yang; Luyang Gao; Tian Tao; Qing Shu; Wenying Guo; Yawen Zhao; Jingya Lyu; Qimeng Wang; Jinghui Guo; Hening Zhai; Linyan Zhu; Hui Chen; Geyang Xu",
+    "first": "Huang",
+    "year": "2024",
+    "doi": "10.7554/eLife.97854",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Huang, Mo, Yang et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Chemical and mechanical interventions of Piezo1 regulate GLP-1 synthesis in mice. ( A–E ) 14- to 16-week-old male C57BL/6 J mice fed with HFD for 10 weeks were infused with vehicle, Yoda1 (2 μg per mouse) or GsMTx4 (250 μg/kg) by i.p. for 7 consecutive days. (n=6/group). ( A ) Body weight after consecutive drug infusion. ( B ) IPGTT and associated area under the curve (AUC) values. ( C )  Gcg  mRNA levels in the ileal mucosa. ( D ) Plasma GLP-1. ( E ) Representative western blots are shown for indicated antibodies in the ileal mucosa. ( F–J ) 14- to 16-week-old male  Piezo1  IntL-CKO mice fed with HFD for 10 weeks were infused with vehicle, Yoda1 (2 μg per mouse) by i.p. for 7 consecutive days. (n=4 or 5/group). ( F ) Body weight after 7 consecutive days’ drug infusion. ( G ) Fasting blood glucose levels. ( H ) Ileal mucosal  Gcg  mRNA levels. ( I ) Plasma GLP-1 levels. ( J ) Ileal mucosal Proglucagon protein levels. ( K–R ) 14- to 16-week-old male C57BL/6 J mice fed with HFD were subjected to sham operation, or intestinal bead implantation (n=6/group). ( K ) Fasting blood glucose levels. ( L ) IPGTT and associated area under the curve (AUC) values. ( M ) Body weight. ( N, O )  Piezo1  ( N ) and  Gcg  ( O ) mRNA levels in the ileal mucosa. ( P ) The plasma GLP-1 levels. ( Q ) Immunofluorescence staining of GLP-1 in ileum and quantification of GLP-1-positive cells. ( R ) Representative western blots images and densitometry quantification for indicated antibodies in the ileal mucosa. Data are represented as mean ± SEM. Significance was determined by Student’s t test for comparison between two groups, and by one-way ANOVA for comparison among three groups or more, *p<0.05, **p<0.01, ***p<0.001. Figure 3—source data 1. PDF file containing original western blots for  Figure 3E, J and R , indicating the relevant bands and treatments. Figure 3—source data 2. Original files for western blot analysis displayed in  Figure 3E, J and R . Figure 3—source data 3. Original data for  Figure 3 .",
+    "original_url": "https://cdn.elifesciences.org/articles/97854/elife-97854-fig3-v1.tif",
+    "sha256": "ec1da3da31f8eebf5001f1e9e8049abf3806f4f8ec332aa51213d1856c317531",
+    "width": 2204,
+    "height": 2209,
+    "display_path": "figures/elife_97854_fig3_panels.png",
+    "panel_crop_box": [
+      0,
+      0.51,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2204,
+      2209
+    ],
+    "display_sha256": "8744c5cc243150ffea800d4cb68e9fccc9cd05bf43ef9460ca238d4c04106623"
+  },
+  "97854:4": {
+    "path": "figures/elife_97854_fig4.png",
+    "title": "Mechano-regulation of GLP-1 production by Piezo1 in intestinal L cells",
+    "authors": "Yanling Huang; Haocong Mo; Jie Yang; Luyang Gao; Tian Tao; Qing Shu; Wenying Guo; Yawen Zhao; Jingya Lyu; Qimeng Wang; Jinghui Guo; Hening Zhai; Linyan Zhu; Hui Chen; Geyang Xu",
+    "first": "Huang",
+    "year": "2024",
+    "doi": "10.7554/eLife.97854",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Huang, Mo, Yang et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Piezo1 regulates GLP-1 synthesis and secretion in primary cultured mouse L cells and isolated mouse ileum. ( A ) Isolation of mouse L cells (GFP positive) from ileal tissue by FACS. The gating in flowcytometry for sorting of GFP-positive cells. ( B ) Immunofluorescent staining of Piezo1 in sorted GFP-positive L cells. ( C ) Intracellular Ca 2+  imaging by fluo-4-AM calcium probe. The change of fluorescent intensity (ΔF/F0) was plotted against time. ( D–F ) L cells were treated with vehicle or Yoda1 (5 μM) for 24 hr. ( D )  Gcg  mRNA expression. ( E ) GLP-1 concentrations in the culture medium. ( F ) Western blot images and densitometry quantification for the indicated antibodies. ( G–J ) Knockdown of Piezo1 in L cells by shRNA for 48 hours. ( G )  Piezo1  mRNA expression. ( H )  Gcg  mRNA expression. ( I ) GLP-1 levels in the culture medium. ( J ) Western blot images and densitometry quantification for the indicated antibodies. ( K–N ) Ileal tissues from  Piezo1 loxp/loxp  and  Piezo1  IntL-CKO mice were subjected to tension force (n=6/group). ( K ) A representative photograph showing the traction of isolated ileum. ( L )  Gcg  mRNA levels. ( M ) GLP-1 concentrations in the medium. ( N ) Western blot images and densitometry quantification for the indicated antibodies. Data are represented as mean ± SEM and are representative of six biological replicates. Significance was determined by Student’s t test for comparison between two groups, and by one-way ANOVA for comparison among three groups or more, *p<0.05, **p<0.01, ***p<0.001. Figure 4—source data 1. PDF file containing original western blots for  Figure 4F, J and N , indicating the relevant bands and treatments. Figure 4—source data 2. Original files for western blot analysis displayed in  Figure 4F, J and N . Figure 4—source data 3. Original data for  Figure 4 .",
+    "original_url": "https://cdn.elifesciences.org/articles/97854/elife-97854-fig4-v1.tif",
+    "sha256": "55e7857bfa4098ac767e590535bb5e3c408ba5b5c53a133eab698dc3d912b82b",
+    "width": 2204,
+    "height": 3003,
+    "display_path": "figures/elife_97854_fig4_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.325
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2204,
+      3003
+    ],
+    "display_sha256": "2d5d648834ab0b7a6f91a5f7473c6cc39ef5be63486cf6c78236454df7d654da"
+  },
+  "zimmerman:1": {
+    "title": "Thirst neurons anticipate the homeostatic consequences of eating and drinking",
+    "authors": "Zimmerman, Christopher A.; Lin, Yen-Chu; Leib, David E.; Guo, Ling; Huey, Erica L.; Daly, Gwendolyn E.; Chen, Yiming; Knight, Zachary A.",
+    "year": "2016",
+    "doi": "10.1038/nature18950",
+    "first": "Zimmerman",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_zimmerman_fig1.png",
+    "legend": "Figure 1: Mechanisms of homeostatic regulation of SFO Nos1  neurons.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature18950/MediaObjects/41586_2016_Article_BFnature18950_Fig1_HTML.jpg",
+    "sha256": "aa58e4e7b52242ad7c7cf1f730e7d55abe35b8baf46e57ea714f2a99c2a0a870",
+    "width": 2100,
+    "height": 887
+  },
+  "zimmerman:2": {
+    "title": "Thirst neurons anticipate the homeostatic consequences of eating and drinking",
+    "authors": "Zimmerman, Christopher A.; Lin, Yen-Chu; Leib, David E.; Guo, Ling; Huey, Erica L.; Daly, Gwendolyn E.; Chen, Yiming; Knight, Zachary A.",
+    "year": "2016",
+    "doi": "10.1038/nature18950",
+    "first": "Zimmerman",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_zimmerman_fig2.png",
+    "legend": "a , SFO Nos1  neurons are activated by water restriction (WR), and their activity returns to baseline (BA) after water access (WA) ( n  = 6 mice).  b , Representative recording showing rapid inhibition of SFO Nos1  neurons during drinking after water restriction (1 out of 5 mice; red lines, licks; red boxes, bouts).  c , Averaged traces showing SFO Nos1  neuron activity and lick rate ( n  = 5 mice).  d , Quantification ( n  = 5 mice).  e , Plasma osmolality (mOsm kg −1 ) is increased by water restriction and is unchanged by 5 min after re-access ( n  = 9 [AL], 4 [–1], 9 [5], 8 [45] mice per group). AL, ad libitum.  f , Plasma protein concentration (mg ml −1 ) is increased by water restriction and is unchanged by 5 min after re-access ( n  = 9 [AL], 4 [–1], 9 [5], 8 [45] mice per group).  g , Peristimulus time histogram (PSTH) around first lick in first bout or all other bouts ( n  = 5 mice).  h , Schematic of optogenetic set up for silencing SFO Nos1  neurons. Scale bar, 100 μm.  i , Representative rasters of drinking after water restriction (3 out of 5 mice; black lines, licks; green boxes, laser on).  j , Averaged traces showing cumulative licks following water restriction ( n  = 5 mice; green box, laser on). All error bars and shaded areas represent mean ± s.e.m. Statistical analyses are described in Methods and  Extended Data Table 1 . \n                         PowerPoint slide \n                      ",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature18950/MediaObjects/41586_2016_Article_BFnature18950_Fig2_HTML.jpg",
+    "sha256": "fedfd0e963871f36f012658d694c80ab9b330f0229dd07949e4a20f1de2c9fe7",
+    "width": 1050,
+    "height": 1011,
+    "legend_url": "https://www.nature.com/articles/nature18950/figures/2",
+    "legend_status": "Publisher figure legend retrieved"
+  },
+  "zimmerman:3": {
+    "title": "Thirst neurons anticipate the homeostatic consequences of eating and drinking",
+    "authors": "Zimmerman, Christopher A.; Lin, Yen-Chu; Leib, David E.; Guo, Ling; Huey, Erica L.; Daly, Gwendolyn E.; Chen, Yiming; Knight, Zachary A.",
+    "year": "2016",
+    "doi": "10.1038/nature18950",
+    "first": "Zimmerman",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_zimmerman_fig3.png",
+    "legend": "Figure 3: Mechanisms of anticipatory regulation of SFO Nos1  neurons during drinking.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature18950/MediaObjects/41586_2016_Article_BFnature18950_Fig3_HTML.jpg",
+    "sha256": "20f8eddced1dca031a4cae114448aef30bf53dce027e0288b770e1ca5d1d4a7f",
+    "width": 1575,
+    "height": 1269
+  },
+  "zimmerman:4": {
+    "title": "Thirst neurons anticipate the homeostatic consequences of eating and drinking",
+    "authors": "Zimmerman, Christopher A.; Lin, Yen-Chu; Leib, David E.; Guo, Ling; Huey, Erica L.; Daly, Gwendolyn E.; Chen, Yiming; Knight, Zachary A.",
+    "year": "2016",
+    "doi": "10.1038/nature18950",
+    "first": "Zimmerman",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_zimmerman_fig4.png",
+    "legend": "Figure 4: SFO Nos1  neurons are activated by eating and are required for prandial thirst.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature18950/MediaObjects/41586_2016_Article_BFnature18950_Fig4_HTML.jpg",
+    "sha256": "e9bb432ba43bf9ef89793d9fd61c5d06ea8e2cd2f586d395fa2638fe7b3c82dc",
+    "width": 1050,
+    "height": 737
+  },
+  "oka:1": {
+    "title": "Thirst driving and suppressing signals encoded by distinct neural populations in the brain",
+    "authors": "Oka, Yuki; Ye, Mingyu; Zuker, Charles S.",
+    "year": "2015",
+    "doi": "10.1038/nature14108",
+    "first": "Oka",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_oka_fig1.png",
+    "legend": "a , Water-deprivation activates CamKII/nNOS-positive neurons in the SFO. Robust Fos expression was induced in the SFO after water restriction for 48 h. Shown are double immunolabelling for Fos and CamKII. Most Fos-positive neurons co-expressed CamKII (95.9 ± 0.3%,  n  = 3); also shown is the co-expression of CamKII with nNOS. These neurons are excitatory as they are marked by a VGlut2 trasgenic reporter 24  ( Extended Data Fig. 2 ).  b , Whole-cell patch-clamp recording from SFO CamKII-positive neurons in acute hypothalamic slices demonstrating light-induced activation of the ChR2-expressing neurons. Shown are traces of a representative neuron subjected to 40 pulses of ChR2 excitation (20 Hz; 2 ms pulses); blue bars denote the time and duration of the light stimulus. Scale bars, 50 μm.  c , Photostimulation of CamKII-positive neurons in the SFO (trials 7–12; blue shading) triggered intense drinking; each black bar indicates an individual licking event. In the absence of light stimulation the same water-satiated animal exhibits very sparse events of drinking (trials 1–6).  d , Success of inducing drinking by photostimulation of the SFO. The drinking response (%) was calculated by determining the number of trials with more than five licks over the total number of trials; animals were tested for more than ten trials each (see Methods for details). The panel shows animals infected with AAV-CamKIIa-ChR2–eYFP ( n  = 10; red bar), and control mice infected with AAV-CamKIIa–GFP (green fluorescent protein) ( n  = 4; black bar); white bars indicate the responses in the absence of photostimulation (Mann–Whitney  U -test  P  < 0.0003).  e , Quantitation of the volume of water consumed within 15 min by three groups of animals: water-restricted for 48 h, water-satiated, and water-satiated but photostimulated during the test; light (20 Hz) was delivered with a regime of 30 s on and 30 s off for the entire 15 min session ( n  = 4, Mann–Whitney  U -test,  P  < 0.03 for water-satiated ± light). Values are means ± s.e.m. \n                         PowerPoint slide \n                      ",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature14108/MediaObjects/41586_2015_Article_BFnature14108_Fig1_HTML.jpg",
+    "sha256": "6872d1a5e35062fc7dbf252429b8f14b62450a4c07d37814144b2d8c40df067e",
+    "width": 1381,
+    "height": 1004,
+    "legend_url": "https://www.nature.com/articles/nature14108/figures/1",
+    "legend_status": "Publisher figure legend retrieved"
+  },
+  "oka:2": {
+    "title": "Thirst driving and suppressing signals encoded by distinct neural populations in the brain",
+    "authors": "Oka, Yuki; Ye, Mingyu; Zuker, Charles S.",
+    "year": "2015",
+    "doi": "10.1038/nature14108",
+    "first": "Oka",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_oka_fig2.png",
+    "legend": "Activation of CamKII-positive neurons in the SFO drives selective drinking of water.  a , Representative raster plots illustrating licking events during a 5Â s window in the presence of photostimulation; the open arrowhead indicates the first lick in each trial. The right panel shows quantification of similar data for multiple animals ( n  = 6 for honey, and 7 for others; MannâWhitney  P Â <Â 0.002); all animals were water-satiated.  b , Photostimulated animals did not drink water in the presence of a bitter compound (3Â Î¼M cycloheximide; paired  t -test,  P Â <Â 0.0001), or high concentration of salt (300Â mM; paired  t -test,  P Â <Â 0.001), but did so in the presence of a sweet compound (30Â mM sucrose), or low salt (60Â mM); data were normalized to the number of licks to water alone. Values are meansÂ Â±Â s.e.m. ( n  = 5 animals). \n                         PowerPoint slide \n                      ",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature14108/MediaObjects/41586_2015_Article_BFnature14108_Fig2_HTML.jpg",
+    "sha256": "e84ade855ae7fffe8acc49b021bb701ab587127ab9c72b99923dd24b3491c8d9",
+    "width": 1318,
+    "height": 514,
+    "legend_url": "https://www.nature.com/articles/nature14108/figures/2"
+  },
+  "oka:3": {
+    "title": "Thirst driving and suppressing signals encoded by distinct neural populations in the brain",
+    "authors": "Oka, Yuki; Ye, Mingyu; Zuker, Charles S.",
+    "year": "2015",
+    "doi": "10.1038/nature14108",
+    "first": "Oka",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_oka_fig3.png",
+    "legend": "Figure 3: Three distinct cell populations in the SFO.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature14108/MediaObjects/41586_2015_Article_BFnature14108_Fig3_HTML.jpg",
+    "sha256": "817bf89345bb0f80751669a933bd05595d83a527f344afa57a799e9a322ecace",
+    "width": 1029,
+    "height": 1123,
+    "legend_status": "Publisher figure title retained from accessible original article; separate expanded caption endpoint returned HTTP 429"
+  },
+  "oka:4": {
+    "title": "Thirst driving and suppressing signals encoded by distinct neural populations in the brain",
+    "authors": "Oka, Yuki; Ye, Mingyu; Zuker, Charles S.",
+    "year": "2015",
+    "doi": "10.1038/nature14108",
+    "first": "Oka",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_oka_fig4.png",
+    "legend": "Figure 4: Activation of Vgat-positive neurons in the SFO suppresses thirst.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature14108/MediaObjects/41586_2015_Article_BFnature14108_Fig4_HTML.jpg",
+    "sha256": "9665eae3e0817821acd5a582f328fc339c8d704994bccb3adb3ab2e60f0cb908",
+    "width": 1383,
+    "height": 871
+  },
+  "augustine:1": {
+    "title": "Hierarchical neural architecture underlying thirst regulation",
+    "authors": "Augustine, Vineet; Gokce, Sertan Kutal; Lee, Sangjun; Wang, Bo; Davidson, Thomas J.; Reimann, Frank; Gribble, Fiona; Deisseroth, Karl; Lois, Carlos; Oka, Yuki",
+    "year": "2018",
+    "doi": "10.1038/nature25488",
+    "first": "Augustine",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_augustine_fig1.png",
+    "legend": "Figure 1: Thirst-driving neurons are organized hierarchically in the lamina terminalis.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature25488/MediaObjects/41586_2018_Article_BFnature25488_Fig1_HTML.jpg",
+    "sha256": "7a50a507ade3a0470440f116497958318708ba4a41c6a5f87c50cb6a24d8d8a5",
+    "width": 1395,
+    "height": 1539
+  },
+  "augustine:2": {
+    "title": "Hierarchical neural architecture underlying thirst regulation",
+    "authors": "Augustine, Vineet; Gokce, Sertan Kutal; Lee, Sangjun; Wang, Bo; Davidson, Thomas J.; Reimann, Frank; Gribble, Fiona; Deisseroth, Karl; Lois, Carlos; Oka, Yuki",
+    "year": "2018",
+    "doi": "10.1038/nature25488",
+    "first": "Augustine",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_augustine_fig2.png",
+    "legend": "a , GABAergic input to the SFO. Representative image of the SFO and MnPO after co-injection of AAV-Syn-GCaMP6s (green) and HSV-mCherry (red) in the SFO (one out of four mice).  b , GLP1R expression is enriched in inhibitory neurons from the lamina terminalis (LT) relative to the cortex.  c , MnPO GLP1R  neurons are GABAergic (84.7 ± 3.4% of GAD +  neurons are tdTomato + ,  n  = 3 mice, representative images are from one out of three mice). These neurons did not overlap with glutamatergic neurons (4.3 ± 0.9% overlap,  n  = 3 mice,  Extended Data Fig. 6a ).  d , The MnPO GLP1R  → SFO monosynaptic connection. MnPO GLP1R  neurons send monosynaptic inhibitory input to SFO nNOS  neurons.  e , Optogenetic stimulation of MnPO GLP1R  neurons selectively suppresses water intake ( n  = 7 mice for ChR2 and  n  = 6 mice for control). *** P  < 0.001, **** P  < 0.0001, by paired two-tailed  t -test. All error bars show mean ± s.e.m. Scale bars, 50 μm. \n                         PowerPoint slide \n                      ",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature25488/MediaObjects/41586_2018_Article_BFnature25488_Fig2_HTML.jpg",
+    "sha256": "7eba6fe96fb2220178b531b86242c836c2f1f8631eda2cdf694a0f08d4a697f3",
+    "width": 1395,
+    "height": 736,
+    "legend_url": "https://www.nature.com/articles/nature25488/figures/2",
+    "legend_status": "Publisher figure legend retrieved"
+  },
+  "augustine:3": {
+    "title": "Hierarchical neural architecture underlying thirst regulation",
+    "authors": "Augustine, Vineet; Gokce, Sertan Kutal; Lee, Sangjun; Wang, Bo; Davidson, Thomas J.; Reimann, Frank; Gribble, Fiona; Deisseroth, Karl; Lois, Carlos; Oka, Yuki",
+    "year": "2018",
+    "doi": "10.1038/nature25488",
+    "first": "Augustine",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_augustine_fig3.png",
+    "legend": "a , Fibre photometry recording from MnPO GLP1R  neurons (left). MnPO GLP1R  neurons are activated upon drinking behaviour (right). Representative traces are from GCaMP6s and enhanced yellow fluorescent protein (eYFP) (one out of six mice).  b , Responses of MnPO GLP1R  neurons under water-restricted conditions towards different types of liquid. Transient activation (bottom left, ΣΔ F during ) and baseline activity shift (bottom right, Δ F post  − Δ F pre ) were quantified ( n  = 6 mice for saline and silicone oil (SO),  n  = 7 mice for empty and water,  n  = 6 mice for all eYFP controls).  c , Representative responses of MnPO GLP1R  neurons under food-restricted conditions. Transient activation (bottom left, ΣΔ F during ) and baseline activity shift (bottom right, Δ F post  − Δ F pre ) were quantified ( n  = 6 mice for empty and peanut butter (PB),  n  = 7 mice for sucrose,  n  = 6 mice for all eYFP controls). * P  < 0.05, ** P  < 0.01, by two-tailed Mann–Whitney  U  test or Kruskal–Wallis one-way ANOVA test. All error bars show mean ± s.e.m. \n                         PowerPoint slide \n                      ",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature25488/MediaObjects/41586_2018_Article_BFnature25488_Fig3_HTML.jpg",
+    "sha256": "91d3a8b46bc8f432e9f970a0ab36cc09d437ca1ecda432a14e59c4a1715217b6",
+    "width": 1395,
+    "height": 1068,
+    "legend_url": "https://www.nature.com/articles/nature25488/figures/3",
+    "legend_status": "Publisher figure legend retrieved"
+  },
+  "augustine:4": {
+    "title": "Hierarchical neural architecture underlying thirst regulation",
+    "authors": "Augustine, Vineet; Gokce, Sertan Kutal; Lee, Sangjun; Wang, Bo; Davidson, Thomas J.; Reimann, Frank; Gribble, Fiona; Deisseroth, Karl; Lois, Carlos; Oka, Yuki",
+    "year": "2018",
+    "doi": "10.1038/nature25488",
+    "first": "Augustine",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_augustine_fig4.png",
+    "legend": "Figure 4: MnPO GLP1R  neurons distinguish between drinking and eating behaviour based on ingestive speed.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature25488/MediaObjects/41586_2018_Article_BFnature25488_Fig4_HTML.jpg",
+    "sha256": "adac4af8b39aff902b5bae6ab61db8ef059283b05788e5dffe0db0ea2cd3c11f",
+    "width": 1395,
+    "height": 1177
+  },
+  "gutthirst:1": {
+    "title": "A gut-to-brain signal of fluid osmolarity controls thirst satiation",
+    "authors": "Zimmerman, Christopher A.; Huey, Erica L.; Ahn, Jamie S.; Beutler, Lisa R.; Tan, Chan Lek; Kosar, Seher; Bai, Ling; Chen, Yiming; Corpuz, Timothy V.; Madisen, Linda; Zeng, Hongkui; Knight, Zachary A.",
+    "year": "2019",
+    "doi": "10.1038/s41586-019-1066-x",
+    "first": "Zimmerman",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_gutthirst_fig1.png",
+    "legend": "a , Schematic for fibre photometry recording of SFO neurons. Scale bar, 1 mm.  b , Left, average SFO activity and drinking behaviour after dehydration. Right, quantification;  n  = 5 mice, two-tailed Student’s  t -tests.  c , SFO neuron dynamics during individual water (29 bouts) or NaCl (37 bouts) drinking bouts.  d , Schematic for intragastric infusion during fibre photometry recording.  e , Left, SFO neuron dynamics of individual mice during infusions of water or NaCl, while hydrated. Right, average SFO activity during infusions ( n  = 4 mice).  f , Correlation between infusion osmolarity (mOsm l −1 ) and change in SFO activity ( n  = 4 mice, linear regression).  g , SFO activity change after infusion while hydrated or dehydrated ( n  = 4 mice, two-way analysis of variance (ANOVA), Holm–Šídák correction). Hyd., hydrated; dehyd., dehydrated. Error bars represent mean ± s.e.m. Shaded areas in  b ,  e  represent mean ± s.e.m., and in  f  represent 95% confidence interval for the line of best fit. * P  < 0.05, ** P  < 0.01, *** P  < 0.001, **** P  < 0.0001. The mouse brain in this figure has been reproduced with permission from ref.  35 , Copyright © 2012.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-019-1066-x/MediaObjects/41586_2019_1066_Fig1_HTML.png",
+    "sha256": "975803786372f8ac2a69e763f5876fca8caee816fda2de1e5740d502a0511b6d",
+    "width": 1048,
+    "height": 845,
+    "legend_url": "https://www.nature.com/articles/s41586-019-1066-x/figures/1",
+    "display_path": "figures/nature_gutthirst_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.49
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1048,
+      845
+    ],
+    "display_sha256": "2103d175bfdd1e82c87b0458238d55d524f7f7089788c66cad55abe3644d9696",
+    "legend_status": "Publisher figure legend retrieved"
+  },
+  "gutthirst:2": {
+    "title": "A gut-to-brain signal of fluid osmolarity controls thirst satiation",
+    "authors": "Zimmerman, Christopher A.; Huey, Erica L.; Ahn, Jamie S.; Beutler, Lisa R.; Tan, Chan Lek; Kosar, Seher; Bai, Ling; Chen, Yiming; Corpuz, Timothy V.; Madisen, Linda; Zeng, Hongkui; Knight, Zachary A.",
+    "year": "2019",
+    "doi": "10.1038/s41586-019-1066-x",
+    "first": "Zimmerman",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_gutthirst_fig2.png",
+    "legend": "Fig. 2: The gut-to-brain osmosensory signal controls thirst satiation.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-019-1066-x/MediaObjects/41586_2019_1066_Fig2_HTML.png",
+    "sha256": "a23826e1f81043b92c62b9ad487ad5f039c6a164fcd53192c14c6edf5006b279",
+    "width": 1046,
+    "height": 1272
+  },
+  "gutthirst:3": {
+    "title": "A gut-to-brain signal of fluid osmolarity controls thirst satiation",
+    "authors": "Zimmerman, Christopher A.; Huey, Erica L.; Ahn, Jamie S.; Beutler, Lisa R.; Tan, Chan Lek; Kosar, Seher; Bai, Ling; Chen, Yiming; Corpuz, Timothy V.; Madisen, Linda; Zeng, Hongkui; Knight, Zachary A.",
+    "year": "2019",
+    "doi": "10.1038/s41586-019-1066-x",
+    "first": "Zimmerman",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_gutthirst_fig3.png",
+    "legend": "Fig. 3: Vasopressin neurons bidirectionally encode gastrointestinal osmolarity.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-019-1066-x/MediaObjects/41586_2019_1066_Fig3_HTML.png",
+    "sha256": "c694d38e69cf1be0e5e884eab4b926f06ed5740361fa324444f3d7f8e2f76d5d",
+    "width": 1049,
+    "height": 411
+  },
+  "gutthirst:4": {
+    "title": "A gut-to-brain signal of fluid osmolarity controls thirst satiation",
+    "authors": "Zimmerman, Christopher A.; Huey, Erica L.; Ahn, Jamie S.; Beutler, Lisa R.; Tan, Chan Lek; Kosar, Seher; Bai, Ling; Chen, Yiming; Corpuz, Timothy V.; Madisen, Linda; Zeng, Hongkui; Knight, Zachary A.",
+    "year": "2019",
+    "doi": "10.1038/s41586-019-1066-x",
+    "first": "Zimmerman",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_gutthirst_fig4.png",
+    "legend": "Fig. 4: Individual glutamatergic MnPO neurons integrate information from the oropharynx, gastrointestinal tract and blood.",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-019-1066-x/MediaObjects/41586_2019_1066_Fig4_HTML.png",
+    "sha256": "6b604d3d456f57e34d76daeaf4ee2a465311f6396f95f0ec9e094d4caedc5cbc",
+    "width": 1048,
+    "height": 840
+  },
+  "tmem:1": {
+    "title": "TMEM63B channel is the osmosensor required for thirst drive of interoceptive neurons",
+    "authors": "Yang, Guolin; Jia, Min; Li, Guizhou; Zang, Yan-Yu; Chen, Yang-Yang; Wang, Yue-Ying; Zhan, Shi-Yu; Peng, Shi-Xiao; Wan, Guoqiang; Li, Wei; Yang, Jian-Jun; Shi, Yun Stone",
+    "year": "2024",
+    "doi": "10.1038/s41421-023-00628-x",
+    "first": "Yang",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_tmem_fig1.png",
+    "legend": "Fig. 1: TMEM63B is expressed in SFO and TMEM63B deletion impairs water appetite. Full size image a  Left: schematic illustration showing SFO position in brain. D3V, dorsal 3rd ventricle. Right: immunochemical detection of HA expression in the SFO of WT and  Tmem63b HA-fl/HA-fl  mice. Scale bars, 100 μm.  b  Immunochemical detection of HA, nNOS and GAD in the SFO of  Tmem63b HA-fl/HA-fl ;Gad1-GFP  mice. Scale bar, 50 μm. Arrowheads and arrows showing that cells containing HA signal overlapped with GAD (indicated by blue arrowheads) and nNOS (indicated by yellow arrow).  c  Percentages of HA-positive cells with nNOS or GAD, or percentages of nNOS- or GAD-positive cells with HA ( n  = 3 mice, 5 slices).  d  Experimental design to induce dehydrated thirst (water deprivation for 24 h) or osmotic thirst (intraperitoneal injection of 2 M Mannitol).  e  Time course of water licking (left) or 0.3 M NaCl licking (right) in the two-bottle test under water deprivation.  f  Quantification of water and NaCl licking for 60 min after water deprivation in  Tmem63b +/+ ,  Tmem63b +/−  and  Tmem63b −/−  mice ( n  = 11−14 mice in each experiments).  g  Time course of licking after i.p. injection of 2 M mannitol.  h  Quantification of licking after mannitol injection in  Tmem63b +/+  ( n  = 10 mice),  Tmem63b +/−  ( n  = 6 mice) and  Tmem63b −/−  mice ( n  = 8 mice). Data are means ± SEM, * P  < 0.05, ** P  < 0.01, *** P  < 0.001, **** P  < 0.0001; two-way repeated-measures ANOVA with Holm-Šídák post-hoc analysis for  f  and  h .",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41421-023-00628-x/MediaObjects/41421_2023_628_Fig1_HTML.png",
+    "sha256": "40317ec96f0f075fed494eb6e2c6d080444489926a9d261e7685a6313d9741a4",
+    "width": 1975,
+    "height": 893
+  },
+  "tmem:2": {
+    "title": "TMEM63B channel is the osmosensor required for thirst drive of interoceptive neurons",
+    "authors": "Yang, Guolin; Jia, Min; Li, Guizhou; Zang, Yan-Yu; Chen, Yang-Yang; Wang, Yue-Ying; Zhan, Shi-Yu; Peng, Shi-Xiao; Wan, Guoqiang; Li, Wei; Yang, Jian-Jun; Shi, Yun Stone",
+    "year": "2024",
+    "doi": "10.1038/s41421-023-00628-x",
+    "first": "Yang",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_tmem_fig2.png",
+    "legend": "Fig. 2: TMEM63B in SFO is essential for thirst appetite. Full size image a  Schematic of virus injection into SFO of  Tmem63b HA-fl/HA-fl  mice to produce SFO-specific TMEM63B deletion.  b  Representative images validating knockout of TMEM63B by immunostaining HA. Scale bars, 50 μm.  c  Time course of water licking and 0.3 M NaCl licking under water deprivation in  Tmem63b HA-fl/HA-fl  mice injected with AAV-Cre or AAV-mCherry virus.  d  Quantification of licking in AAV-Cre- ( n  = 14 mice) and AAV-mCherry- ( n  = 12 mice) injected animals.  e  Schematic illustrating the strategy used to generate  Tmem63b LacZ  mouse line.  f  Schematic of virus injection into SFO of  Tmem63b LacZ/LacZ  mice to produce SFO-specific TMEM63B rescue.  g  Representative images validating re-expression of TMEM63B by immunostaining HA. Scale bars, 50 μm.  h  Time course of water licking or 0.3 M NaCl licking under water deprivation in  Tmem63b LacZ/LacZ  mice injected with AAV-Cre or AAV-EGFP.  i  Quantification of licking in AAV-Cre- ( n  = 8 mice) and AAV-EGFP- ( n  = 9 mice) injected animals. Data are means ± SEM, * P  < 0.05, ** P  < 0.01; two-way repeated-measures ANOVA with Holm-Šídák post-hoc analysis for  d  and  i .",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41421-023-00628-x/MediaObjects/41421_2023_628_Fig2_HTML.png",
+    "sha256": "29c3eaed11ab00e1e50ab6f5fdeda8d68327cce4c6d94c85d8ba4f995fabac0e",
+    "width": 1975,
+    "height": 1860
+  },
+  "tmem:3": {
+    "title": "TMEM63B channel is the osmosensor required for thirst drive of interoceptive neurons",
+    "authors": "Yang, Guolin; Jia, Min; Li, Guizhou; Zang, Yan-Yu; Chen, Yang-Yang; Wang, Yue-Ying; Zhan, Shi-Yu; Peng, Shi-Xiao; Wan, Guoqiang; Li, Wei; Yang, Jian-Jun; Shi, Yun Stone",
+    "year": "2024",
+    "doi": "10.1038/s41421-023-00628-x",
+    "first": "Yang",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_tmem_fig3.png",
+    "legend": "Fig. 3: TMEM63B is required for osmotic activation of SFO TMEM63B  neurons. Full size image a  Schematic of viral labeling of SFO TMEM63B  neurons.  b  Left: experimental design to excite SFO TMEM63B  neurons. Right: FOS immunoreactivity showing NaCl (i.p.)-activated SFO TMEM63B  neurons. Scale bars, 50 μm. Quantification:  n  = 8 mice for  Tmem63b Cre/+  mice and  n  = 7 for  Tmem63b Cre/Cre  mice.  c  Representative traces of the effect of hypertonic solution on the AP firing of SFO TMEM63B  neurons. Lower traces show firing rates.  d  Left: percentages of activated neurons after applying hypertonic solution (for  Tmem63b Cre/+ :  n  = 37 neurons from 16 mice, for  Tmem63b Cre/Cre :  n  = 25 neurons from 9 mice). Right: firing rates of activated SFO TMEM63B  neurons from  Tmem63b Cre/+  mice ( n  = 29 neurons, left) and  Tmem63b Cre/Cre  mice ( n  = 6 neurons, right) shown in left, before (Iso) and after hypertonic stimulation (Hyp).  e  Mean firing rate for all tested neurons.  f  RMP in SFO TMEM63B  neurons from  Tmem63b Cre/+  or  Tmem63b Cre/Cre  mice.  g  Representative spike pattern of SFO TMEM63B  neurons in response to depolarizing currents. Current steps in the trace were made in 10-pA increments from –10 pA to +40 pA. V m , the membrane potential before applying injecting current.  h  The relationship between spike and injected current by plot spike-current curves for each SFO TMEM63B  neuron from  Tmem63b Cre/+  neurons ( n  = 9) and  Tmem63b Cre/Cre  neurons ( n  = 10). Data are means ± SEM, ** P  < 0.01, *** P  < 0.001, **** P  < 0.0001, n.s., no significant; two-tailed unpaired  t -test for  b ,  f ,  h ; two-tailed paired  t -test for  d ; two-way repeated-measures ANOVA with Holm-Šídák post-hoc analysis for  e .",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41421-023-00628-x/MediaObjects/41421_2023_628_Fig3_HTML.png",
+    "sha256": "830acaf84acb6080d38f84e39b56b432b9e1f71579346ed54164a5e33d74ed49",
+    "width": 1975,
+    "height": 1497
+  },
+  "tmem:4": {
+    "title": "TMEM63B channel is the osmosensor required for thirst drive of interoceptive neurons",
+    "authors": "Yang, Guolin; Jia, Min; Li, Guizhou; Zang, Yan-Yu; Chen, Yang-Yang; Wang, Yue-Ying; Zhan, Shi-Yu; Peng, Shi-Xiao; Wan, Guoqiang; Li, Wei; Yang, Jian-Jun; Shi, Yun Stone",
+    "year": "2024",
+    "doi": "10.1038/s41421-023-00628-x",
+    "first": "Yang",
+    "license": {
+      "license": "Publisher copyright; see original article and supplementary material",
+      "statement": "Original publisher attribution retained; no additional license inferred."
+    },
+    "path": "figures/nature_tmem_fig4.png",
+    "legend": "Fig. 4: TMEM63B contributes to the osmosensory transduction of SFO TMEM63B  neurons in response to hyperosmolarity. Full size image a  Top: schema of the action potential (AP) firing pattern of SFO TMEM63B  neurons from  Tmem63b Cre/+  (left) mice and  Tmem63b Cre/Cre  mice (right) before and after hypertonic stimulation. Bottom: AP are clipped for clarity. Black dashed lines show membrane potential; membrane potential was obtained from voltage histograms (blue gaussian curve). Threshold (blue dashed lines), AP threshold, was determined at the point where the voltage trace reached 10 mV/ms.  b  Quantification of the threshold from  Tmem63b Cre/+  neurons ( n  = 37) and  Tmem63b Cre/Cre  neurons ( n  = 25) before and after hypertonic stimulation.  c  Subthreshold depolarization (distance to threshold) before (Iso) and after hypertonic stimulation (Hyp) from  Tmem63b Cre/+  mice ( n  = 37) and  Tmem63b Cre/Cre  mice ( n  = 25).  d  The changes of interspike interval of SFO TMEM63B  neurons from  Tmem63b Cre/+  mice ( n  = 37) and  Tmem63b Cre/Cre  mice ( n  = 25) before and after hypertonic stimulation.  e  Representative voltage depolarization of SFO TMEM63B  neurons in response to hypertonic solution in the presence of TTX and synaptic blockers.  f  Quantification of the depolarized membrane potential from  Tmem63b Cre/+  neurons ( n  = 13) and  Tmem63b Cre/Cre  neurons ( n  = 14) after hypertonic stimulation (Hyp).  g  Left: representative currents recorded with ramp voltage protocol from a  Tmem63b Cre/+  neuron. Iso, 300 mOsm/L; Hyp, 350 mOsm/L; La 3+ , 0.1 mM LaCl 3  with hyperosmolarity. Right: quantification of slope conductance from –60 mV to –80 mV ( n  = 17).  h  Same as  g  but from  Tmem63b Cre/Cre  mice ( n  = 16).  i  Increased current at RMP (–42 mV) in response to hyperosmolarity, calculated from  g ,  h .  j  Left: representative voltage deflections from a  Tmem63b Cre/+  neuron in response to hyperpolarizing currents (top), current steps (bottom) in the trace were made in 10-pA increments from –50 pA to 0 pA. Right: averaged current-voltage (I–V) plot across all tested neurons.  k  Input resistance calculated from the slop of  I – V  plot shown in  j  ( n  = 22 neurons for  Tmem63b Cre/+ , 17 for  Tmem63b Cre/Cre ). Data are means ± SEM, * P  < 0.05, ** P  < 0.01, *** P  < 0.001, n.s., no significant; two-tailed unpaired  t -test for  f ,  i ,  k ; two-tailed paired  t -test for  g ,  h  and two-way repea t ed-measures ANOVA with Holm-Šídák post-hoc analysis for  b – d .",
+    "original_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41421-023-00628-x/MediaObjects/41421_2023_628_Fig4_HTML.png",
+    "sha256": "b91d4df3eb980ccc970cd4d027d24fce38eddf442e2202f043e9ebfea19c6eb3",
+    "width": 1975,
+    "height": 2043
+  },
+  "101391:4": {
+    "path": "figures/elife_101391_fig4.png",
+    "title": "Microglia are required for developmental specification of AgRP innervation in the hypothalamus of offspring exposed to maternal high-fat diet during lactation",
+    "authors": "Haley N Mendoza-Romero; Jessica E Biddinger; Michelle N Bedenbaugh; Richard Simerly",
+    "first": "Mendoza-Romero",
+    "year": "2025",
+    "doi": "10.7554/eLife.101391",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Mendoza-Romero et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Microglial depletion during lactation period. Schematic of MHFD-L exposure and PLX5622 treatment experimental design ( A ). Microglial cells (green) in the PVH of adult mice (P55) treated during lactation with vehicle ( B ) or PLX5622 ( C ). Images of labeled AgRP terminals (red) to illustrate the density of labeling in distinct compartments of the PVH (white boxes denote locations of ROIs) of normal chow diet (NCD) offspring ( D ,E ) and MHFD-L offspring ( F, G ). Graphical comparisons to illustrate the effects of postnatal PLX5622 treatments on microglia density in the PVH ( H ), body weight ( J ), and the density of AgRP terminals in the PVHmpd ( I ) and PVHpml ( J ). Bars represent the mean ± SEM and each point represents one animal. Unpaired t-test was used to compare cell number in 4 H; two-way ANOVA was used to test for differences in group means, followed by Tukey’s multiple comparisons posthoc test to identify specific group differences in 4I-K. Pp-values less than 0.05 were considered significant; *p<0.05, **p<0.005, ***p<0.0005. Abbreviations: AgRP, agouti-related peptide; CSF1R, Colony-stimulating factor 1 receptor; MHFD-L, maternal HFD during lactation; PVH, paraventricular nucleus of the hypothalamus; mpd, medial parvocellular compartment of the PVH; pml, posterior magnocellular compartment of the PVH.",
+    "original_url": "https://cdn.elifesciences.org/articles/101391/elife-101391-fig4-v1.tif",
+    "sha256": "80d808bdc7138ab6959b97ce7eb7141a844cf8af287f74007c64ca1ab35a50c0",
+    "width": 2380,
+    "height": 1660
+  },
+  "11190:2": {
+    "path": "figures/elife_11190_fig2.png",
+    "title": "Hippocampus ghrelin signaling mediates appetite through lateral hypothalamic orexin pathways",
+    "authors": "Ted M Hsu; Joel D Hahn; Vaibhav R Konanur; Emily E Noble; Andrea N Suarez; Jessica Thai; Emily M Nakamoto; Scott E Kanoski",
+    "first": "Hsu",
+    "year": "2015",
+    "doi": "10.7554/eLife.11190",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hsu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.11190.004 Figure 2. Effects of vHP GHSR blockade on conditioned food intake.  ( A ) Daily 4 hr chow intake during meal entrainment acquisition, where animals were limited to 4 hr food intake/day for 8 days. ( B ) 4 hr chow intake in meal-entrained animals following bilateral vHP administration of JMV2959. ( C ) 4 hr chow intake in non-meal entrained, 20 hr food-restricted rats following bilateral vHP administration of JMV2959. ( D ) 4 hr Western diet intake in non-meal entrained, non-food deprived rats following bilateral vHP administration of JMV2959. Data are mean ± SEM; *p<0.05. DOI:   http://dx.doi.org/10.7554/eLife.11190.004",
+    "original_url": "https://cdn.elifesciences.org/articles/11190/elife-11190-fig2-v1.tif",
+    "sha256": "b5e82193f10ac7c1066f5cc09c64a6f511314251375cde0b8e73de178e1ec1f9",
+    "width": 1535,
+    "height": 1257
+  },
+  "11190:8": {
+    "path": "figures/elife_11190_fig8.png",
+    "title": "Hippocampus ghrelin signaling mediates appetite through lateral hypothalamic orexin pathways",
+    "authors": "Ted M Hsu; Joel D Hahn; Vaibhav R Konanur; Emily E Noble; Andrea N Suarez; Jessica Thai; Emily M Nakamoto; Scott E Kanoski",
+    "first": "Hsu",
+    "year": "2015",
+    "doi": "10.7554/eLife.11190",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hsu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.11190.012 Figure 8. Effects of Orexin-1 receptor blockade on ghrelin-mediated hyperphagia.  Cumulative chow intake following: ( A ) pre-treatment with lateral ventricle (LV) vehicle followed by vHP ghrelin (300 pmol, unilateral) administration or ( B ) LV Ox1R antagonist, SB334867 (30 nmol), followed by vHP ghrelin administration. Data are mean ± SEM; *p<0.05; Ŧ p<0.07. DOI:   http://dx.doi.org/10.7554/eLife.11190.012",
+    "original_url": "https://cdn.elifesciences.org/articles/11190/elife-11190-fig8-v1.tif",
+    "sha256": "9d49db3077b416a06f531a9173de4505f8565ed9a95b3a669673f194f216ecfc",
+    "width": 1536,
+    "height": 710
+  },
+  "33710:5": {
+    "path": "figures/elife_33710_fig5.png",
+    "title": "POMC neurons expressing leptin receptors coordinate metabolic responses to fasting via suppression of leptin levels",
+    "authors": "Alexandre Caron; Heather M Dungan Lemko; Carlos M Castorena; Teppei Fujikawa; Syann Lee; Caleb C Lord; Newaz Ahmed; Charlotte E Lee; William L Holland; Chen Liu; Joel K Elmquist",
+    "first": "Caron",
+    "year": "2018",
+    "doi": "10.7554/eLife.33710",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Caron et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.33710.008 Figure 5. LEPR-expressing POMC neurons are required for the fasting-induced fall in leptin levels, independent of changes in fat. ( A ) Weight loss, and ( B ) fat-mass loss after a 48 hr fast in mice with constitutive (prenatal) deletion of LEPRs in POMC neurons and littermate controls (n = 7–10). ( C ) Plasma leptin levels, and D) visceral adipose tissue  Lep  mRNA expression in fed or fasted (48 hr) mice with constitutive deletion of LEPRs in POMC neurons and littermate controls (n = 7–14). ( E ) Weight loss, and ( F ) fat-mass loss after a 48 hr fast in  Pomc CreERt2 :: Lepr flox/flox  and littermate control mice four weeks after tamoxifen was given (n = 12). ( G ) Plasma leptin levels, and ( H ) visceral adipose tissue  Lep  mRNA expression in fed or fasted (48 hr) in  Pomc CreERt2 :: Lepr flox/flox  and littermate control mice four weeks after tamoxifen was given (n = 6–13). The data are expressed as the mean ± SEM. ***p<0.001, **p<0.01 and *p<0.05 versus littermate controls.",
+    "original_url": "https://cdn.elifesciences.org/articles/33710/elife-33710-fig5-v2.tif",
+    "sha256": "b2a57a6b4d4800eb082e2dae3b244a11336158b31d89c7d3baebd398dd02e536",
+    "width": 1950,
+    "height": 966
+  },
+  "38704:1": {
+    "path": "figures/elife_38704_fig1.png",
+    "title": "Insulin regulates POMC neuronal plasticity to control glucose metabolism",
+    "authors": "Garron T Dodd; Natalie J Michael; Robert S Lee-Young; Salvatore P Mangiafico; Jack T Pryor; Astrid C Munder; Stephanie E Simonds; Jens Claus Brüning; Zhong-Yin Zhang; Michael A Cowley; Sofianos Andrikopoulos; Tamas L Horvath; David Spanswick; Tony Tiganis",
+    "first": "Dodd",
+    "year": "2018",
+    "doi": "10.7554/eLife.38704",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Dodd et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.38704.002 Figure 1. POMC neurons display differential responses to insulin dependent on TCPTP. Whole-cell patch clamp recording of hypothalamic POMC neurons in response to insulin (100 nM) in  Pomc -eGFP mice. ( a ) Representative traces of individual POMC neurons displaying either excitation (depolarisation) or inhibition (hyperpolarisation) or POMC neurons that are non-responsive to insulin. ( b ) Grouped POMC population insulin responses, ( c ) membrane potential change and firing frequencies recorded from the entire rostral-caudal extent of the hypothalamic POMC neuronal population. Electrophysiological responses were measured in n = 53 independent neurons across 8–10 mice and analysed using a two-tailed t-test. ( d ) Camera lucida image depicting topographical localisation of insulin-responsive POMC neuronal subtypes. During recordings, patch clamped POMC neurons were filled with biocytin and post-recording ex vivo sections were incubated in paraformalydhyde and processed for biocytin, GFP and TCPTP immunohistochemistry. ( e ) Representative micrographs depicting TCPTP positive and negative patch-clamped POMC neurons and ( f ) insulin responsiveness and TCPTP expression correlation. To determine the functional role of TCPTP in POMC neuronal insulin sensitivity, whole-cell patch clamp recording of POMC neurons in response to insulin (100 nM) were performed in ( g-h )  Pomc -Cre; Ptpn2 fl/fl  (POMC-TC) mice on the on the Z/EG reporter background or ( i-j ) in  Pomc -eGFP mice pre-treated with vehicle or TCPTP inhibitor (compound 8, 20 nM). ( g, i ) Grouped POMC population insulin responses, ( h, j ) membrane potential change and firing frequencies recorded from the entire rostral-caudal extent of the hypothalamic POMC neuronal population. ( k–l ) Whole-cell patch clamp recording of POMC neurons from 8 to 10 week high fat fed  Pomc -eGFP mice pre-treated with vehicle or TCPTP inhibitor (compound 8, 20 nM) in response to insulin (100 nM). ( k ) Grouped POMC population insulin responses, ( l ) membrane potential change and firing frequencies recorded from the entire rostral-caudal extent of the hypothalamic POMC neuronal population. Results shown are means ±SEM for the indicated number of cells in pie charts. Electrophysiological responses were measured in ( g-h ) 33, ( i–j ) 58 and  k-l ) 34 (vehicle) and 35 (TCPTP inhibitor) independent neurons across 8–10 mice and analysed using a two-tailed t-test. ( m ) 8–10 week-old POMC-TC or  Ptpn2 fl/fl  overnight fasted male mice were administered (intraperitoneal) saline or 0.85 mU/g insulin and 90 min later brains fixed with paraformaldehyde and processed for paraventricular hypothalamus (PVH) c-Fos immunoreactivity. Data was analysed using a two-way ANOVA followed by Tukey multiple comparison test. Representative images and quantified (means ± SEM) results are shown for the indicated number of cells/mice. ( b, g, I, k ) date rounded up to the nearest integer.",
+    "original_url": "https://cdn.elifesciences.org/articles/38704/elife-38704-fig1-v2.tif",
+    "sha256": "0cb0c71c354a0e0aca84d259a7444f70565a1a50a9a72173e95d859a5e706b24",
+    "width": 2473,
+    "height": 3298
+  },
+  "58764:5": {
+    "path": "figures/elife_58764_fig5.png",
+    "title": "Cold-induced hyperphagia requires AgRP neuron activation in mice",
+    "authors": "Jennifer D Deem; Chelsea L Faber; Christian Pedersen; Bao Anh Phan; Sarah A Larsen; Kayoko Ogimoto; Jarrell T Nelson; Vincent Damian; Megan A Tran; Richard D Palmiter; Karl J Kaiyala; Jarrad M Scarlett; Michael R Bruchas; Michael W Schwartz; Gregory J Morton",
+    "first": "Deem",
+    "year": "2020",
+    "doi": "10.7554/eLife.58764",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Deem et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 5. Cold-induced hyperphagia, but not thermogenesis, requires activation of agouti-related peptide (AgRP) neurons. ( A ) Schematic depicting strategy for bilateral microinjection of the Cre-dependent inhibitory DREADD (hM4Di) virus into the arcuate nucleus (ARC) of AgRP-IRES-Cre mice. ( B ) Detection of bilateral hM4Di-eYFP in transduced AgRP neurons in the ARC. ( C ) Adult male hM4Di-eYFP AgRP-IRES-Cre mice were acclimated to temperature-controlled chambers set to 22°C. Animals were returned to their home cages and chamber temperatures were adjusted overnight. In the morning, animals were dosed i.p. with either CNO or saline 1 hr prior to being acutely housed at either mild cold (14°C), room temperature (22°C), or thermoneutrality (30°C) in a randomized, crossover manner. ( D, F, and H ) 4 hr time-series and mean values for energy intake, and ( E, G, and I ) 4 hr time-series and mean values of heat production in hM4Di-eYFP AgRP-IRES-Cre mice that were housed at either 30°C, 22°C, or 14°C after receiving an i.p. injection of either saline or CNO n = 6–8 per group, mean ± SEM. RM-ANOVA and Student’s t-test, ***p<0.001, *p<0.05 vs. saline.   Figure 5—source data 1. Inhibition of agouti-related peptide neurons.  ",
+    "original_url": "https://cdn.elifesciences.org/articles/58764/elife-58764-fig5-v2.tif",
+    "sha256": "bc23b233eca245fdc08bb47e72b0ff14c4872278086ad36701876d6844be04d4",
+    "width": 1967,
+    "height": 2401
+  },
+  "85640:6s2": {
+    "path": "figures/elife_85640_fig6s2.png",
+    "title": "Multiple NTS neuron populations cumulatively suppress food intake",
+    "authors": "Weiwei Qiu; Chelsea R Hutch; Yi Wang; Jennifer Wloszek; Rachel A Rucker; Martin G Myers; Darleen Sandoval",
+    "first": "Qiu",
+    "year": "2023",
+    "doi": "10.7554/eLife.85640",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Qiu, Hutch et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 6—figure supplement 2. Appropriate response to VSG for LCK TetTox  mice. ( A–E ) Shown is body weight (absolute ( A ) and %initial ( B )) and body composition before ( C ) and 6 weeks after ( D ) VSG, along with change in body composition from baseline ( E ) for body mass in control (Ctrl; AAV FLEX-hM3Dq -injected or uninjected wild-type) and LCK TetTox  groups after VSG or sham surgery. ( F–H ) A subset of mice was placed in metabolic chambers for 7 days (3 days acclimation, 4 days data analysis) for the determination of food intake ( F , cumulative over the 4-day data collection period) energy expenditure ( G ), and RER ( H ). ( I ) Gastric emptying rate assessed by acetaminophen appearance in the plasma following gavage. ( J–L ) Fasting blood glucose ( J ), oral glucose tolerance (2 g/kg) ( K ), and fasting insulin are shown for all groups. Data were analyzed using RM-ANOVA or Student’s T-test and are reported as mean +/-SEM. Males mice ctrl/sham (n=6–8), ctrl/VSG (n=7–9), LCK TetTox /sham (n=6–7), LCK TetTox /VSG (n=4–9). *p<0.05, **p<0.01, ***p<0.001, ****p<0.0001 for the indicated comparisons. Figure 6—figure supplement 2—source data 1. Source data for  Figure 6—figure supplement 2 , panels A-L.",
+    "original_url": "https://cdn.elifesciences.org/articles/85640/elife-85640-fig6-figsupp2-v3.tif",
+    "sha256": "77b76eddc3863851f74cc12fc3317892a02c07e47d6b3fde8bdf6209987d361c",
+    "width": 2104,
+    "height": 2299
+  }
+}

@@ -13,7 +13,9 @@
     "8": "carbon gray / paper white",
     "10": "cobalt / white",
     "11": "charcoal / brick red",
-    "9": "dusk blue / paper white"
+    "9": "dusk blue / paper white",
+    "12": "stone brown / porcelain",
+    "13": "blue gray / chalk"
   },
   "palettes": {
     "midnight-silver": {

@@ -1,0 +1,1041 @@
+{
+  "102475:2": {
+    "path": "figures/elife_102475_fig2.png",
+    "title": "Sequence action representations contextualize during early skill learning",
+    "authors": "Debadatta Dash; Fumiaki Iwane; William Hayward; Roberto F Salamanca-Giron; Marlene Bönstrup; Ethan R Buch; Leonardo G Cohen",
+    "first": "Dash",
+    "year": "2025",
+    "doi": "10.7554/eLife.102475",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    },
+    "legend": "Figure 2. Spatial and oscillatory contributions to neural decoding of finger identities. ( A ) Contribution of whole-brain oscillatory frequencies to decoding. When trained on broadband activity relative to narrow frequency band features, decoding accuracy (i.e. test sample performance) was highest for whole-brain voxel-space (74.51% ± SD 7.34%,  t =8.08, p<0.001) and parcel-space (70.11% ± SD 7.11%,  t =13.22, p<0.001) MEG activity. Thus, decoders trained on whole-brain broadband data consistently outperformed those trained on narrowband activity. Dots depict decoding accuracy for each participant. Center line of box plots indicate the group median, while notches represent the 95% confidence interval of the group median. Box limits indicate the 1st and 3rd quartiles while whisker lengths are set at the extreme value ≤1.5×IQR. Outlier values located outside of the whisker range are marked with “+” symbols. *p<0.05, **p<0.01, ***p<0.001, n.s. - no statistical significance (p>0.05). ( B ) Whole-brain parcel-space decoding. Color-coded brain surface plot displaying the relative importance of individual brain regions (parcels) to broadband whole-brain parcel-space decoding performance (far-left light gray box plot in  A ). ( C ) Whole-brain voxel space decoding. Color-coded brain surface plot displaying the relative importance of individual voxels to broadband whole-brain voxel-space decoding performance (far-left dark gray box plot in  A ). ( D ) Regional voxel-space decoding. Broadband voxel-space decoding performance for top-ranked brain regions across the group is displayed on a standard (FreeSurfer fsaverage) brain surface and color-coded by accuracy. Note that while whole-brain parcel- and voxel-space decoders relied more on information from brain regions contralateral to the engaged hand, regional voxel-space decoders performed similarly for bilateral sensorimotor regions.",
+    "original_url": "https://cdn.elifesciences.org/articles/102475/elife-102475-fig2-v1.tif",
+    "sha256": "f289a8859ecfd7ef7dedde1de65c87e6c4b459927240016217377509963880a5",
+    "width": 2205,
+    "height": 2908
+  },
+  "102475:4": {
+    "path": "figures/elife_102475_fig4.png",
+    "title": "Sequence action representations contextualize during early skill learning",
+    "authors": "Debadatta Dash; Fumiaki Iwane; William Hayward; Roberto F Salamanca-Giron; Marlene Bönstrup; Ethan R Buch; Leonardo G Cohen",
+    "first": "Dash",
+    "year": "2025",
+    "doi": "10.7554/eLife.102475",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    },
+    "legend": "Figure 4. Evolution of keypress neural representations with skill learning. ( A ) Keypress neural representations differentiate during early learning. t-SNE distribution of neural representation of each keypress (top scatter plots) is shown for trial 1 (start of training; top-left), 11 (end of early learning; top-center), and 36 (end of training; top-right) for a single representative participant. Individual keypress manifold representation clustering in trial 11 (top-center; end of early learning) depicts sub-clustering for the index finger keypress performed at the two different ordinal positions in the sequence (Index OP1  and Index OP5 ), which remains present by trial 36 (top-right). Spatial distribution of regional contributions to decoding (bottom brain surface maps). The surface color heatmap indicates feature importance scores across the brain. Note that decoding contributions shifted from contralateral right pre-central cortex at trial 1 (bottom-left) to contralateral superior and middle frontal cortex at trials 11 (bottom-center) and 36 (bottom-right). ( B ) Confusion matrix for 5-class decoding of individual sequence items. Decoders were trained to classify contextual representations of the keypresses (i.e. 5-class classification of the sequence elements 4-1-2-3-4). Note that the decoding accuracy increased to 94.15% ± SD 4.84% and the misclassification of keypress 4 was significantly reduced (from 141 to 82). ( C ) Trial-by-trial classification accuracy for 2-class decoder (Index OP1  vs. Index OP5 ). A decoder (200ms window duration aligned to the KeyDown event) was trained to differentiate between the two index finger keypresses embedded at different positions within the practiced skill sequence (Index OP1 =index finger keypress at ordinal position 1 of the sequence; Index OP5 =index finger keypress at ordinal position 5 of the sequence). Decoder accuracy progressively improved over early learning, stabilizing around 96% by trial 11 (end of early learning). Similar results were observed for other decoding window sizes (50, 100, 150, 250, and 300ms; see  Figure 4—figure supplement 2 ). Taken together, these findings indicate that the neural feature space evolves over early learning to incorporate sequence location information. Shaded region indicates the 95% confidence interval of the group mean.",
+    "original_url": "https://cdn.elifesciences.org/articles/102475/elife-102475-fig4-v1.tif",
+    "sha256": "d1eb4be5f84eb6d95ffb47d0e8821dc3112365fed13b8733bf3acc1b72b2bda0",
+    "width": 2205,
+    "height": 2430,
+    "display_path": "figures/elife_102475_fig4_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.52
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2205,
+      2430
+    ],
+    "display_sha256": "ad7e73ad0579b80c3170a74f653bd0434402bb1f139116afc8e773cbdb123658"
+  },
+  "103879:2": {
+    "path": "figures/elife_103879_fig2.png",
+    "title": "Rab10 inactivation promotes AMPAR trafficking and spine enlargement during long-term potentiation",
+    "authors": "Jie Wang; Jun Nishiyama; Paula Parra-Bueno; Elwy Okaz; Goksu Oz; Xiaodan Liu; Tetsuya Watabe; Irena Suponitsky-Kroyter; Timothy E McGraw; Erzsebet M Szatmari; Ryohei Yasuda",
+    "first": "Wang",
+    "year": "2025",
+    "doi": "10.7554/eLife.103879",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wang et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Spatiotemporal dynamics of Rab10 inactivation during sLTP in single spines. ( a ) Representative donor fluorescence intensity image (gray) and fluorescence lifetime (FLIM, colorful) images of Rab10 inactivation during sLTP induced by two-photon glutamate uncaging. Arrowheads indicate the stimulated spine. The colder color indicates longer lifetime and lower Rab10 activity. Scale bar represents 1 µm. ( b ) Averaged time courses of Rab10 inactivation measured as binding fraction changes between mTurquoise2-Rab10 and mVenus-Rim1 [20-277]-mVenus in the stimulated spine (red), adjacent spine (black), and dendrite (blue). Gray rectangle bar indicates glutamate uncaging (0.5 Hz, 60 s). Data are presented in mean ± SEM. N=49/42 (spine/neuron), 49/42 (spine/neuron) and 49/42 (dendrite/neuron) for the stimulated spine, adjacent spine, and dendrite, respectively. ( c,d ) Quantification of Rab10 binding fraction changes in the transient phase (c, averaged over 1.3–4 min) and sustained phase ( d , averaged over 19–31 min) in the stimulated spine (stim), adjacent spine (adj), and dendrite (dend) for the same experiments as b. Data represent mean ± SEM. One-way ANOVA followed by Bonferroni’s multiple comparison tests was performed for the stimulated spine, adjacent spine, and dendrite (**** p<0.0001). Effects of pharmacological agents on Rab10 inactivation in the stimulated spines are also presented. All pharmacological inhibition experiments were paired with controls from the same batch of slices. Data represent mean ± SEM. Student’s t-tests were performed (n.s., not significant, ** p<0.01, *** p<0.001, **** p<0.0001). N=15/14, 13/11, 8/7, 15/12, 9/8, and 11/8 (spine/neuron) for Ctrl, AP5, scrambled, CN21, U0124, and U0126, respectively. When mTurquoise2-Rab10 was paired with a false acceptor (False), mVenus-Rabenosyn5 [439-503]-mVenus, little activity change was observed. Data represent mean ± SEM. Student’s t-tests were performed (**** p<0.0001). N=7/7 and 14/9 (spine/neuron) for Ctrl and False, respectively. ( e ) Averaged time courses of spine volume change in the same experiment as b. Data represent mean ± SEM. ( f , g ) Quantification of spine volume changes in the transient phase ( f , averaged over 1.3–4 min) and sustained phase ( g , averaged over 19–31 min) for the same experiments as c and d. Data represent mean ± SEM. Student’s t-tests were used for all groups (n.s., not significant, * p<0.05, ** p<0.01, *** p<0.001, **** p<0.0001).",
+    "original_url": "https://cdn.elifesciences.org/articles/103879/elife-103879-fig2-v1.tif",
+    "sha256": "3dbaa08209f0e4dadddfe7a148792291ea5140048153932135c41e065baca0b8",
+    "width": 2205,
+    "height": 2225,
+    "display_path": "figures/elife_103879_fig2_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.28
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2205,
+      2225
+    ],
+    "display_sha256": "31e5ba35251bc66949803e83670f2a0af6aa116fbf777f9725a907a19bceb7fd"
+  },
+  "103879:4": {
+    "path": "figures/elife_103879_fig4.png",
+    "title": "Rab10 inactivation promotes AMPAR trafficking and spine enlargement during long-term potentiation",
+    "authors": "Jie Wang; Jun Nishiyama; Paula Parra-Bueno; Elwy Okaz; Goksu Oz; Xiaodan Liu; Tetsuya Watabe; Irena Suponitsky-Kroyter; Timothy E McGraw; Erzsebet M Szatmari; Ryohei Yasuda",
+    "first": "Wang",
+    "year": "2025",
+    "doi": "10.7554/eLife.103879",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wang et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Rab4 positively regulates the transient phase of structural LTP, and Rab10 negatively regulates structural and electrophysiological LTP. ( a, b ) Representative fluorescence images of spine volume change in the stimulated spines after manipulations of Rab10 and Rab4 signaling. Asterisks indicate the stimulated spines. Scale bars represent 1 µm. ( a ) Left: rat CA1 pyramidal neurons were transfected with mEGFP and scrambled shRNA (Ctrl shRNA); mEGFP and shRNA against  Rab10  ( Rab10  shRNA); mEGFP, shRNA against  Rab10 , and mCherry-shRNA-resistant Rab10 (Rab10 rescue). Right: rat CA1 pyramidal neurons were transfected with mEGFP and scrambled shRNA (Ctrl shRNA); mEGFP and shRNAs against  Rab4a  and  Rab4b  ( Rab4a/4b  shRNA); mEGFP, shRNAs against  Rab4a  and  Rab4b , and mCherry-shRNA-resistant Rab4a (Rab4a rescue). ( b ) Left: rat CA1 pyramidal neurons were transfected with mEGFP (Ctrl); mEGFP and mCherry-Rab10 [T23N] (Rab10 DN); mEGFP and mCherry-Rab10 [Q68L] (Rab10 CA). Right: rat CA1 pyramidal neurons were transfected with mEGFP (Ctrl); mEGFP and mCherry-Rab4a [S27N] (Rab4a DN); mEGFP and mCherry-Rab4a [Q72L] (Rab4a CA). ( c, d ) Averaged time course of spine volume change for experiments in  a  and  b . Fluorescence intensity of mEGFP was used to measure the spine volume change. Data represent means ± SEM. All experiments were paired with the same day controls from the same batch of slices. ( c ) Left: N=22/20, 22/20 and 16/13 (spine/neuron) for Ctrl shRNA (black),  Rab10  shRNA (blue) and Rab10 rescue (red), respectively. Right: N=17/17, 25/21 and 10/8 (spine/neuron) for Ctrl shRNA (black),  Rab4a/4b  shRNA (blue) and Rab4a rescue (red), respectively. ( d ) Left: N=22/18, 17/15 and 19/14 (spine/neuron) for Ctrl (black), Rab10 DN (blue) and Rab10 CA (red), respectively. Right: N=21/15, 19/18, and 16/11 (spine/neuron) for Ctrl (black), Rab4a DN (blue), and Rab4a CA (red), respectively. ( e, f ) Quantitative analysis of the transient volume change (volume change averaged over 1.3–4 min, left) and the sustained volume change (volume change averaged over 20–35 min, right) for  c  in  e  and for d in  f . Data represent means ± SEM. One-way ANOVA followed by Bonferroni’s multiple comparison tests was performed (n.s., not significant, * p<0.05, ** p<0.01, *** p<0.001, **** p<0.0001). ( g ) Representative fluorescence images of stimulated spine volume change in CA1 pyramidal neurons from  Rab10 fl/fl  mice transfected with tdTomato-Cre and mEGFP (Rab10 KO), or tdTomato and mEGFP as a control (Ctrl). Asterisks indicate the stimulated spines. Scale bars represent 1 µm. ( h ) Averaged time courses of stimulated spine volume change for experiments in  g . Data represent means ± SEM. N=12 for Ctrl (black) and 12 for Rab10 KO (blue). ( i ) Quantification of the transient volume change (left) and the sustained volume change (right) for  h . Data represent means ± SEM. Unpaired two-tailed Student’s t-tests were used (*  P <0.05). ( j ) Electrophysiological recordings showing average input/output curve of  Rab10 fl/fl : Camk2a-Cre + /- mice (Rab10 KO, blue, n=29) and littermate  Rab10 fl/fl : Camk2a-Cre - /-  control mice (Ctrl, black, n=29). Data are mean ± SEM. ( k ) Time course of extracellularly recorded excitatory postsynaptic potential (fEPSP) slope before and after LTP induction in CA1 pyramidal neurons from  Rab10 fl/fl : Camk2a-Cre + /- mice (blue, number of slices/animals = 28/7) and littermate  Rab10 fl/fl : Camk2a-Cre - /-  mice (black, n=30/8). Data are represented as mean ± SEM. Insets (top) are the representative traces of fEPSP before and after stimulation for Cre+ (blue) and Cre- (black) mice. ( l ) Quantification of the average fEPSP slope at 40–60 min for experiments in  k . Data are mean ± SEM. Unpaired two-tailed Student’s t-tests were used (* p<0.05).",
+    "original_url": "https://cdn.elifesciences.org/articles/103879/elife-103879-fig4-v1.tif",
+    "sha256": "15daf734ac6163f4d1b470a8286d18481129bfbb934fc82bab62ad93ce242f64",
+    "width": 2205,
+    "height": 3040
+  },
+  "105422:2": {
+    "path": "figures/elife_105422_fig2.png",
+    "title": "A contextual fear conditioning paradigm in head-fixed mice exploring virtual reality",
+    "authors": "Seetha Krishnan; Can Dong; Heather Ratigan; Denisse Morales-Rodriguez; Chery Cherian; Mark Sheffield",
+    "first": "Krishnan",
+    "year": "2025",
+    "doi": "10.7554/eLife.105422",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Krishnan, Dong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Paradigm 1: Head-fixed mice show increased freezing behavior following contextual fear conditioning in the contextual fear conditioning (CFC) virtual reality (VR). ( A ) A single example mouse’s lap running behavior on experiment days, Day 0 and Day 1. Behavior is shown for approximately 3 min in all sessions except during CFC, which is shown for the 6 min that the session lasted. Frames where freezing was detected (instantaneous velocity 0 cm/s) are marked with black dots. A zoomed-in portion on the right in CFC VR highlights these freezing epochs as periods of minimal movement on the treadmill (i.e. instantaneous velocity 0 cm/s), which are less visible in the full-scale view. The traces on the right show that this mouse increased freezing, decreased velocity, and moved backward (shown in gray) in the CFC VR (red traces) but not in the Familiar VR (blue traces) on Recall Day. This mouse received six shocks at 1mA intensity at 60 s inter-stimulus interval (ISI). ( B ) First 2 min of recall behavior in more mice (n=5) in Familiar VR versus CFC VR. ( C–D ) Left Average freezing percentage on recall day in the very first lap ( C ) and all laps ( D ) during the 5 min that mice explored the Familiar (blue) and CFC (red) VR. Freezing (%) was calculated as the number of frames where freezing was detected in a lap divided by the total number of frames in each lap. (Right) Delta calculated as the difference in the amount of freezing in the CFC VR compared to the Familiar VR before CFC (Day 0) and after CFC (Day 1). The dashed line represents 0. ( E–F ) Same as C-D but for the time taken to complete the first lap ( E ) and all laps ( F ). Mice displayed an increase in freezing and in time taken to complete a lap in the first lap and, on average, in the CFC VR. In C-F, circles and pluses represent individual mice (n=27, 25 male, and two female mice). In C-F, data was pooled from mice receiving different numbers of shocks (4, 6, 12) at varying intensities (0.5 mA, 0.6mA, 0.8 mA, 1 mA, and 1.2 mA), which is separately displayed in  Figure 2—figure supplement 1 . Lines join data from the same mouse. p-values were calculated using a paired t-test.",
+    "original_url": "https://cdn.elifesciences.org/articles/105422/elife-105422-fig2-v1.tif",
+    "sha256": "85ffd8b45156d04a0e78f0b59f981a1aefbcca321a75f7d69e00c211badb1b18",
+    "width": 2439,
+    "height": 2356
+  },
+  "105422:3": {
+    "path": "figures/elife_105422_fig3.png",
+    "title": "A contextual fear conditioning paradigm in head-fixed mice exploring virtual reality",
+    "authors": "Seetha Krishnan; Can Dong; Heather Ratigan; Denisse Morales-Rodriguez; Chery Cherian; Mark Sheffield",
+    "first": "Krishnan",
+    "year": "2025",
+    "doi": "10.7554/eLife.105422",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Krishnan, Dong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Using a novel virtual reality (VR) as the neutral environment instead of a familiar VR in a second paradigm results in modest increases in freezing. ( A ) The training paradigm for Paradigm 2 is similar to Paradigm 1. On experiment day, mice were introduced to two novel VRs, one of which would be associated with the shock (contextual fear conditioning, CFC VR) and the other wouldn’t (Control VR). In this paradigm, there was an added habituation day, where mice were exposed to the two VRs for 10 min. The next day, mice ran in the two VRs again before receiving mild electric shocks in the CFC VR. The recall test occurred the next day. In this cohort, all mice received six shocks at 1 mA intensity. ( B–D ) These panels show the lap running behavior of a single mouse on experiment days –1, 0, and 1. Behavior is displayed for about 3 min in all sessions except during CFC. Frames with freezing detected by a threshold (instantaneous velocity 0 cm/s) are marked by black dots. In ( D ), this mouse shows an increase in freezing, a decrease in velocity, and some backward movement when in the CFC VR (red traces). ( E ) Comparison between freezing in the first lap (left) and all laps (right) in Paradigm 1 (blue and red) versus Paradigm 2 (green and red). In Paradigm 1, only animals that received six shocks at 1 mA intensity are included. n=12 mice were used in both paradigms (10 male and two female mice). The scale bar for panels B-D is indicated in B. p-values were calculated using a paired t-test.",
+    "original_url": "https://cdn.elifesciences.org/articles/105422/elife-105422-fig3-v1.tif",
+    "sha256": "c367740a75bd68ec8e78ad1fdaa2e4fa12a86e3f38e3d3ddbe3cbb7b08f88766",
+    "width": 2335,
+    "height": 2738,
+    "display_path": "figures/elife_105422_fig3_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.45
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2335,
+      2738
+    ],
+    "display_sha256": "2baa96f187bba34cda675f98ad7fa7413bc1bbf667232eb656b141af21332c49"
+  },
+  "105452:2": {
+    "path": "figures/elife_105452_fig2.png",
+    "title": "Early changes in the properties of CA3 engram cells explored with a novel viral tool in mice",
+    "authors": "Dario Cupolillo; Noelle Grosjean; Catherine Marneffe; Julio Viotti; Celia Reynaud; Severine Deforges; Mario Carta; Christophe Mulle",
+    "first": "Cupolillo",
+    "year": "2025",
+    "doi": "10.7554/eLife.105452",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Cupolillo et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. In vivo FLEN labeling and decay time course following a salient experience. ( A ) FLEN and an infection marker viral vector are injected bilaterally into CA3. Mice undergo contextual fear conditioning (CFC), and sections are collected (downward arrows) 1.5, 3, 4.5, 6, and 12 hr following CFC. As a control, sections are obtained from mice left undisturbed in their home cage (HC). ( B ) Left: one-time CFC experiment scheme. Mice explore an arena for 5 min, and three foot-shocks are given at 180, 210, and 270 s after the start of the test (red line). Top-right: paired comparison of the percentage of time mice spent freezing during training and when replaced in the conditioning arena 1 hr after CFC. Bottom-right: comparison of the percentage of time mice spent freezing during training, when placed in a different neutral environment and 24 hr after CFC. These experiments show that the CA3-dependent shock-context association is rapidly learned (within 1 hr), is highly environment-selective, and is retained for 24 hr. ( C ) Representative images of CA3 neurons expressing the infection marker (mCherry+, indicated by arrow) and neurons expressing both the infection marker and FLEN (ZsGreen1+/mCherry+, indicated by arrowhead). The latter are considered FLEN+ neurons. Scale bar = 50 µm. ( D ) Percentage of ZsGreen+ CA3 neurons over the total number of mCherry+ neurons at different intervals following activation. ( E ) Representative sections of CFC-trained mice compared to HC untrained mice at different intervals following CFC. Dashed lines outline the dentate gyrus (DG) cellular layer, while the dashed segment indicates the separation between CA3 and CA2. Scale bar = 100 µm. ( F ) Left panel: schematic representation of neuronal position along the proximodistal axis analysis of CA3. The CA3 pyramidal layer was straightened and the x position of FLEN+ cells was normalized on a 0 (closer to DG) to 1 (closer to CA2) scale. Right panel: comparison of normalized proximodistal frequency distribution of CA3 FLEN+ cells placement in HC mice (gray) and 3 hr post-CFC mice (yellow). Bold lines represent the median of the respective distributions. HC median is displayed in the CFC plot to highlight distribution difference. Statistical signficance: *p<0.05; ***p<0.001.",
+    "original_url": "https://cdn.elifesciences.org/articles/105452/elife-105452-fig2-v1.tif",
+    "sha256": "0748bffd18202e6fd685def432bf771b8ad1fd52d83f7e33d829cec1625d7223",
+    "width": 2124,
+    "height": 3043
+  },
+  "105452:5": {
+    "path": "figures/elife_105452_fig5.png",
+    "title": "Early changes in the properties of CA3 engram cells explored with a novel viral tool in mice",
+    "authors": "Dario Cupolillo; Noelle Grosjean; Catherine Marneffe; Julio Viotti; Celia Reynaud; Severine Deforges; Mario Carta; Christophe Mulle",
+    "first": "Cupolillo",
+    "year": "2025",
+    "doi": "10.7554/eLife.105452",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Cupolillo et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 5. 5Properties of Mf-CA3 synapses in CA3 engram neurons. ( A ) Schematic representation of Mf-CA3 EPSCs and feedforward inhibition recordings. ( B ) Left panel: representative traces showing EPSC amplitude in FLEN− (gray) and FLEN+ (yellow) cells following low frequency stimulation (0.1 Hz) and corresponding increase evoked with a higher stimulation frequency (1 Hz), due to a presynaptic form of synaptic plasticity characteristics of Mf-CA3 synapses (frequency facilitation). Center panel: amplitude plot for FLEN− and FLEN+ stimulated at 0.1 and 1 Hz. Right panel: frequency facilitation ratio plot shows no difference between FLEN− and FLEN+ neurons. ( C ) Left panel: representative traces showing Mf-driven IPSCs (feedforward inhibition) and EPSCs (direct excitatory activity) recorded in individual FLEN− (gray) and FLEN+ (yellow) neurons. Center panel: amplitude plot of EPSCs and IPSCs for FLEN− and FLEN+ neurons. Right panel: graph showing excitation-to-inhibition ratio, comparing FLEN− and FLEN+ neurons. Statistical signficance: *p<0.05.",
+    "original_url": "https://cdn.elifesciences.org/articles/105452/elife-105452-fig5-v1.tif",
+    "sha256": "31aae57b682d6dad20603f9c3c59794cf9a336fe66d3c0e04498c38ee5ac8ca4",
+    "width": 1989,
+    "height": 2416,
+    "display_path": "figures/elife_105452_fig5_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.62
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1989,
+      2416
+    ],
+    "display_sha256": "67d62bdfeb7dadd6215effa4349e83a938233e118ffe7f1c34d4dbc6f3aaaac6"
+  },
+  "11450:3": {
+    "path": "figures/elife_11450_fig3.png",
+    "title": "Contrasting roles for parvalbumin-expressing inhibitory neurons in two forms of adult visual cortical plasticity",
+    "authors": "Eitan S Kaplan; Sam F Cooke; Robert W Komorowski; Alexander A Chubykin; Aurore Thomazeau; Lena A Khibnik; Jeffrey P Gavornik; Mark F Bear",
+    "first": "Kaplan",
+    "year": "2016",
+    "doi": "10.7554/eLife.11450",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Kaplan et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.11450.007 Figure 3. The expression of Stimulus-selective Response Potentiation (SRP) requires activity in PV+ neurons in V1. ( A ) Mice expressing hM4D(Gi) receptors in PV+ cells underwent a standard SRP induction protocol. On day 7, mice viewed a novel oriented stimulus in addition to the familiar stimulus; before and after CNO injection. ( B ) We acquired binocular VEPs from awake, head-fixed mice elicited by the same full-field oriented sinusoidal grating stimulus over several days. ( C ) As a result of multiple days of experience cortical response was dramatically potentiated such that the familiar stimulus evoked VEPs of significantly greater magnitude than the novel stimulus (black bars). ( D ) After application of CNO, VEPs underwent a notable increase in magnitude as a result of disinhibition (red bars). Most notably, CNO rendered response to familiar and novel stimuli equivalent in magnitude. ( E ) This lost discrimination of familiar and novel stimuli is reflected as a drop in the ratio of response to familiar and novel stimuli from approximately 2:1 (black) to approximately 1:1 (red). Significant comparisons are labeled with an asterisk and non-significant comparisons with n.s. throughout. Error bars are standard error of the mean (S.E.M.). DOI:   http://dx.doi.org/10.7554/eLife.11450.007 10.7554/eLife.11450.008 Figure 3—source data 1. PV Dreadds SRP induction and expression. DOI:   http://dx.doi.org/10.7554/eLife.11450.008",
+    "original_url": "https://cdn.elifesciences.org/articles/11450/elife-11450-fig3-v1.tif",
+    "sha256": "7690fa7c466529eaad6b2f8fd1e4c1262cffaa52cd962471bc3b718efd56aa1b",
+    "width": 1205,
+    "height": 1494
+  },
+  "11450:8": {
+    "path": "figures/elife_11450_fig8.png",
+    "title": "Contrasting roles for parvalbumin-expressing inhibitory neurons in two forms of adult visual cortical plasticity",
+    "authors": "Eitan S Kaplan; Sam F Cooke; Robert W Komorowski; Alexander A Chubykin; Aurore Thomazeau; Lena A Khibnik; Jeffrey P Gavornik; Mark F Bear",
+    "first": "Kaplan",
+    "year": "2016",
+    "doi": "10.7554/eLife.11450",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Kaplan et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.11450.021 Figure 8. Discrimination of familiar and novel oriented stimuli involves PV+ neurons in V1 and NMDAR expressed within PV+ neurons. ( A ) Using the same protocol as described in  Figure 3B , mice were progressively familiarized with a specific oriented stimulus. On the test day, as mice viewed familiar and novel stimuli, vidget behavioral responses were measured via a piezoelectric sensor located beneath the forepaws of the head-fixed mouse. ( B ) After a standard SRP protocol, mice expressing hM4D(Gi) receptors selectively within PV+ cells of binocular V1 were exposed to both familiar and novel stimuli. Prior to application of CNO, mice exhibited significant behavioral evidence of discriminating this familiar orientation from interleaved presentations of a novel oriented stimulus (black bars). After application of CNO, there was no longer successful discrimination of familiar and novel stimuli (red bars). Averaged vidget responses are displayed at the top of this panel. ( C ) A significant difference was observed in the ratio of response to familiar and novel stimuli from pre CNO (black) to post CNO (red). ( D ) A deficit in OSH was also apparent in PV GluN1 KO mice as vidget recordings demonstrated a failure to significantly discriminate familiar from novel orientations (gray bars). WT littermates exhibited significantly greater vidget magnitudes for novel than familiar stimuli, indicating unimpaired discrimination of familiarity from novelty (white bars). Averaged behavioral responses are displayed above with accompanying scale bars. ( E ) The significant deficit of PV GluN1 KO mice in discriminating familiar from novel stimuli is apparent in the ratio of behavior elicited by the familiar over the novel stimulus in comparison to WT littermates. Significant comparisons are marked with an asterisk throughout while non-significant comparisons are marked with n.s. Error bars are standard error of the mean (S.E.M.). DOI:   http://dx.doi.org/10.7554/eLife.11450.021 10.7554/eLife.11450.022 Figure 8—source data 1. Novelty detection after PV+ neuronal disruption. DOI:   http://dx.doi.org/10.7554/eLife.11450.022",
+    "original_url": "https://cdn.elifesciences.org/articles/11450/elife-11450-fig8-v1.tif",
+    "sha256": "362d17e997666af7447b5b970dbd4c55fa0cd114d4837ab9871d90606dd8c951",
+    "width": 1535,
+    "height": 698
+  },
+  "14846:4": {
+    "path": "figures/elife_14846_fig4.png",
+    "title": "Compensation for PKMζ in long-term potentiation and spatial long-term memory in mutant mice",
+    "authors": "Panayiotis Tsokas; Changchi Hsieh; Yudong Yao; Edith Lesburguères; Emma Jane Claire Wallace; Andrew Tcherepanov; Desingarao Jothianandan; Benjamin Rush Hartley; Ling Pan; Bruno Rivard; Robert V Farese; Mini P Sajan; Peter John Bergold; Alejandro Iván Hernández; James E Cottrell; Harel Z Shouval; André Antonio Fenton; Todd Charlton Sacktor",
+    "first": "Tsokas",
+    "year": "2016",
+    "doi": "10.7554/eLife.14846",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Tsokas et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.14846.012 Figure 4. PKMζ is essential for spatial long-term memory in wild-type mice, and compensation accounts for spatial long-term memory in PKMζ-null mice. PKMζ-antisense blocks spatial long-term memory in wild-type mice but has no effect on long-term memory in PKMζ-null mice. Inserts above, (left) schematic diagram of active place avoidance training apparatus and (middle) 1-day training protocol. Intrahippocampal injections were 1 nmol oligodeoxynucleotide in 0.5 µl vehicle/side, 20 min before each training session. Below left, representative paths during pretraining, the trial at the end of training, and during retention testing with the shock off 1 day after training. The shock zone is shown in red with shock on, and gray with shock off. Red circles denote where shocks are received, and gray circles where shocks would have been received if the shock were on. Right, time to first entry measure of active place avoidance memory (mean ± SEM). There is a significant interaction between the effects of genotype and treatment (scrambled, antisense) (F 1,39  = 4.14, p = 0.049, η 2  = 0.037). The individual effects of genotype and treatment are F 1,39  = 5.89, p = 0.02, η 2  = 0.053 and F 1,39  = 1.37, p = 0.25, η 2  = 0.012, respectively. Memory retention in the wild-type mice treated with PKMζ-antisense differs from the other groups (*, significant post-hoc tests; wild-types, n’s = 12, PKMζ-nulls, scrambled, n = 8, antisense, 11). DOI:   http://dx.doi.org/10.7554/eLife.14846.012",
+    "original_url": "https://cdn.elifesciences.org/articles/14846/elife-14846-fig4-v2.tif",
+    "sha256": "1685e32f02625df6ee20923eda76edbf7ac24f5f847beabfb772e43a222487fe",
+    "width": 1535,
+    "height": 797
+  },
+  "41836:1": {
+    "path": "figures/elife_41836_fig1.png",
+    "title": "Human hippocampal CA3 damage disrupts both recent and remote episodic memories",
+    "authors": "Thomas D Miller; Trevor T-J Chong; Anne M Aimola Davies; Michael R Johnson; Sarosh R Irani; Masud Husain; Tammy WC Ng; Saiju Jacob; Paul Maddison; Christopher Kennard; Penny A Gowland; Clive R Rosenthal",
+    "first": "Miller",
+    "year": "2020",
+    "doi": "10.7554/eLife.41836",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Miller et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Quantitative three-dimensional whole-hippocampal manual volumetry of five hippocampal subfields (CA1, CA2, CA3, the dentate gyrus, and the subiculum). Left panel: native coronal images from whole-hippocampal 7.0-Tesla 3-D fast-spin echo sequence (0.39 × 0.39 × 1.0 mm 3  spatial resolution). Quantitative three-dimensional whole-hippocampal manual volumetry of five hippocampal subfields (CA1, CA2, CA3, the dentate gyrus, and the subiculum) was conducted along the full longitudinal axis of participants in the amnesic group (N = 15) and control group (N = 15). Colored shading on the coronal images provides examples from applying the manual hippocampal subfield segmentation protocol in a participant at the chronic phase of the LGI1-antibody-complex LE phenotype (5′) and in a control (1′). Each of the white lines (1–6) on the sagittal view of the hippocampus corresponds to six example coronal locations along the anterior–posterior axis. 7.0-Tesla 3-D fast-spin echo scans and results from manual volumetry were reported in our previous study on 18 participants assessing the chronic phase of the LGI1-antibody-complex LE phenotype ( Miller et al., 2017 ). Right panel: example 3-D rendering (Paraview v4.10;  www.paraview.org ) obtained from the output of hippocampal subfield segmentation generated for a participant from the amnesic group using ITK-SNAP v3.2 ( http://www.itksnap.org ). The color key under the 3-D FSE coronal images and color key 3-D render corresponds to CA1, CA2, CA3, DG (dentate gyrus), and SUB (subiculum) hippocampal subfields. Adapted from  Miller et al. (2017) , published under CC BY license,  http://creativecommons.org/licenses/by/4.0/ .",
+    "original_url": "https://cdn.elifesciences.org/articles/41836/elife-41836-fig1-v1.tif",
+    "sha256": "8d8f14bccb20b202c717ca4772243053f04c26c798048513a29aeb0e3c59064f",
+    "width": 4577,
+    "height": 2840
+  },
+  "41836:3": {
+    "path": "figures/elife_41836_fig3.png",
+    "title": "Human hippocampal CA3 damage disrupts both recent and remote episodic memories",
+    "authors": "Thomas D Miller; Trevor T-J Chong; Anne M Aimola Davies; Michael R Johnson; Sarosh R Irani; Masud Husain; Tammy WC Ng; Saiju Jacob; Paul Maddison; Christopher Kennard; Penny A Gowland; Clive R Rosenthal",
+    "first": "Miller",
+    "year": "2020",
+    "doi": "10.7554/eLife.41836",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Miller et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. 7.0-Tesla whole-brain anatomical magnetic resonance imaging. Whole-brain 7.0-Tesla T 1 -weighted anatomical (600 µm isotropic spatial resolution) coronal images from three participants in the amnesic group (i–iii), illustrating significant in vivo volume loss in the hippocampus. T 1 -weighted anatomical images from participants in the amnesic and control groups were used to conduct whole-brain voxel-based morphometry (VBM). The 7.0-Tesla T 1 -weighted anatomical images are a subgroup re-analysis of those reported in our previous clinical study involving 18 participants at the chronic phase of the LGI1-antibody-complex LE phenotype ( Miller et al., 2017 ). Normalized gray matter in the amnesic group and in the control group participants, derived from the whole-brain VBM analysis, were contrasted using a two-sample  t -test and thresholded at p<0.05 family-wise error corrected for multiple comparisons with SPM12. No evidence of significant gray matter volume loss was found outside of the hippocampus in the amnesic group relative to the control group (see ‘Results’ section), which is in agreement with the results from VBM reported in our previous study ( Miller et al., 2017 ). Adapted from  Miller et al. (2017) , published under CC BY license,  http://creativecommons.org/licenses/by/4.0/ .",
+    "original_url": "https://cdn.elifesciences.org/articles/41836/elife-41836-fig3-v1.tif",
+    "sha256": "8a7028d87010f3bb0dfc54228c2ce7c52721d019f4d863a5c5bab2e83b6579c0",
+    "width": 4290,
+    "height": 1272
+  },
+  "41836:4": {
+    "path": "figures/elife_41836_fig4.png",
+    "title": "Human hippocampal CA3 damage disrupts both recent and remote episodic memories",
+    "authors": "Thomas D Miller; Trevor T-J Chong; Anne M Aimola Davies; Michael R Johnson; Sarosh R Irani; Masud Husain; Tammy WC Ng; Saiju Jacob; Paul Maddison; Christopher Kennard; Penny A Gowland; Clive R Rosenthal",
+    "first": "Miller",
+    "year": "2020",
+    "doi": "10.7554/eLife.41836",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Miller et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Loss of internal (episodic) detail in the amnesic group for recent and remote memories (up to ~50 years prior to the CA3 damage). Plot depicts mean cumulative number (summed across the general and specific probes) of internal (episodic) details generated on the AI across the five sampled intervals, as a function of group (amnesic group, N = 16; control group, N = 16). With the exception of the past year, each time interval refers to the age of the participant at the time of the remembered event; for example, 18–30 years refers to an event that occurred when each participant was between 18–30 years-of-age. A significant interaction between group and time (across all five sampled intervals) suggests that the loss of internal (episodic) detail was time-sensitive ( F (2.67,80.22)  = 3.91, p=0.015, η 2 p  = 0.115). Post hoc analyses revealed that the earliest remote memory (0–11 years) was intact ( F (1,30)  = 0.250, p=0.621), whereas there was temporally ungraded loss of internal detail across the remaining remote and recent memories (group:  F (1,30)  = 23.25, p<0.0001, η 2 p  = 0.437; group x time:  F (2.62,78.44)  = 1.51, p=0.222, η 2 p  = 0.048; time:  F (2.62,78.44)  = 0.604, p=0.592, η 2 p  = 0.020), extending up to ~50 years prior to the CA3 damage (11–18 year interval for internal detail,  F (1,30)  = 6.43, p=0.017). Error bars correspond to the s.e.m.",
+    "original_url": "https://cdn.elifesciences.org/articles/41836/elife-41836-fig4-v1.tif",
+    "sha256": "d7865c8156f9493fa1004f89e6ea6389d24a710632a73c6849645f43559dfd7e",
+    "width": 4224,
+    "height": 3425
+  },
+  "41836:5": {
+    "path": "figures/elife_41836_fig5.png",
+    "title": "Human hippocampal CA3 damage disrupts both recent and remote episodic memories",
+    "authors": "Thomas D Miller; Trevor T-J Chong; Anne M Aimola Davies; Michael R Johnson; Sarosh R Irani; Masud Husain; Tammy WC Ng; Saiju Jacob; Paul Maddison; Christopher Kennard; Penny A Gowland; Clive R Rosenthal",
+    "first": "Miller",
+    "year": "2020",
+    "doi": "10.7554/eLife.41836",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Miller et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 5. External (non-episodic, mainly personal semantic) detail was intact for recent and remote memories (~1–60 year interval). The plot depicts mean cumulative (summed across the general and specific probes) number of external details generated on the AI across the five sampled intervals, as a function of group (amnesic group, N = 16; control group, N = 16). With the exception of the past year, each time interval refers to age of the participants at the time of the remembered event; for example, 18–30 years refers to an event that occurred when each participant was between 18 and 30 years-of-age. The specificity of the deficit in internal (episodic) detail was revealed by the absence of a significant between-group difference in the amount of external (semantic) detail remembered over the five internals ( F (1,30)  = 1.24, p=0.275, η 2 p  = 0.040), and the interaction between group and time was not significant ( F (4,120)  = 1.46, p=0.218, η 2 p  = 0.046). Evidence for a null group difference in external detail aligns with the more general preservation of associative semantic memory (Camel and Cactus Test) (mean  z -score = 0.20, s.e.m. = 0.30,  t (14)  = 0.67, p=0.514, two-tailed one-sample  t -test) ( Bozeat et al., 2000 ). Error bars correspond to the s.e.m.",
+    "original_url": "https://cdn.elifesciences.org/articles/41836/elife-41836-fig5-v1.tif",
+    "sha256": "b95b1020713e8ce1e6b7a27ab3f74c195ace550e008a7cbfa1971c12bc65c82e",
+    "width": 4156,
+    "height": 3425
+  },
+  "51972:2": {
+    "path": "figures/elife_51972_fig2.png",
+    "title": "Spatiotemporal patterns of neocortical activity around hippocampal sharp-wave ripples",
+    "authors": "J Karimi Abadchi; Mojtaba Nazari-Ahangarkolaee; Sandra Gattas; Edgar Bermudez-Contreras; Artur Luczak; Bruce L McNaughton; Majid H Mohajerani",
+    "first": "Karimi Abadchi",
+    "year": "2020",
+    "doi": "10.7554/eLife.51972",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Karimi Abadchi et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Patterns of activity in neocortical regions are differentially modulated around hippocampal SWRs. ( A ) Representative montage of mean peri-SWR neocortical activity measured using (i) voltage-sensitive dye and (ii) glutamate-sensing fluorescent reporter iGluSnFR under urethane anesthesia and head-restrained natural sleep, respectively. 0s-time indicates SWR centers. Images have been z-scored and scaled to the depicted color bars. ( B ) (i–iv) Example traces showing voltage or iGluSnFR signals from selected regions in (i) and (iii). Plots are the average of optical signals measured from 3 × 3 pixel boxes (~0.04 mm 2 ) placed within retrosplenial (blue), visual (black), and forelimb somatosensory (magenta) cortices. The thickness of the shading around each plot indicates SEM. 0 s-time indicates SWR centers. ( C ) (i) Four major structurally defined neocortical subnetworks (medial, visual, auditory and somato-motor). (ii) Demonstration of how the activation amplitudes were quantified. The activation amplitude was defined as the mean of the signal across full-width at half maximum (t 1  to t 2 ). (iii) Grand average (n = 14 animals) of activation amplitudes across neocortical subnetworks, sorted in decreasing order. Each data point is the average of activation amplitudes of all regions in a given subnetwork and in a given animal. (repeated measure ANOVA with Greenhouse-Geisser correction for sphericity: F 3,39  = 44.303, p=2.2193 × 10 −10 ; post-hoc multiple comparison with Tuckey’s correction: medial vs visual p=0.11844, medial vs auditory p=7.8147 × 10 −5 , medial vs somatomotor p=1.1128 × 10 −6 , visual vs auditory p=0.00024702, visual vs somatomotor p=2.9247 × 10 −05 , auditory vs somatomotor p=0.19802) ( D ) (i–ii) Same measurements as in C, but for neocortical deactivations preceding SWRs. Note that the deactivation peaks were rectified for group comparison in (ii). A higher value of deactivation amplitude indicates stronger deactivation. Bar graphs indicate mean ± SEM. (repeated measure ANOVA with Greenhouse-Geisser correction for sphericity: F3,39 = 15.508, p=1.1009 × 10–5; post-hoc multiple comparison with Tuckey’s correction: medial vs visual p=0.63021, medial vs auditory p=0.014438, medial vs somatomotor p=0.00076384, visual vs auditory p=0.0042707, visual vs somatomotor p=0.0014657, auditory vs somatomotor p=0.5317). This figure has five figure supplements. Figure 2—source data 1. Differential activation amplitude across neocortical subnetworks around SWRs. Figure 2—source data 2. Differential deactivation amplitude across neocortical subnetworks around SWRs.",
+    "original_url": "https://cdn.elifesciences.org/articles/51972/elife-51972-fig2-v3.tif",
+    "sha256": "2d49283e1ec9b5339636a6bb2224d1e360700639ab14318199053137776852c9",
+    "width": 2345,
+    "height": 2118,
+    "display_path": "figures/elife_51972_fig2_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.55
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2345,
+      2118
+    ],
+    "display_sha256": "88c4efef3cf0f0129982239200d936ccf27cb205d2d5cd7972bfd25c0451d0f0"
+  },
+  "51972:6": {
+    "path": "figures/elife_51972_fig6.png",
+    "title": "Spatiotemporal patterns of neocortical activity around hippocampal sharp-wave ripples",
+    "authors": "J Karimi Abadchi; Mojtaba Nazari-Ahangarkolaee; Sandra Gattas; Edgar Bermudez-Contreras; Artur Luczak; Bruce L McNaughton; Majid H Mohajerani",
+    "first": "Karimi Abadchi",
+    "year": "2020",
+    "doi": "10.7554/eLife.51972",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Karimi Abadchi et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 6. Skewness of peri-SWR hippocampal MUA informs neocortical activation latency relative to SWRs. ( A ) (i) Distribution of hippocampal MUA AI values for a representative animal. Dashed lines (Q 1  and Q 3 ) indicate the first and third quartiles. The SWRs for which the associated hippocampal MUA AI values are less than Q 1  and greater than Q 3  are called HPC QR1 and QR4, respectively. HPC QR2-3 consists of all other SWRs. (ii) Distribution of the proportion of SWRs in each animal for which the sign of both RSC and hippocampal MUA AI values match, as an indication of how well hippocampal MUA can inform whether RSC activity precedes or follows SWRs. The horizontal red line indicates the median of all proportion values in n = 14 animals (significantly above the chance level of 50%; two-sided Wilcoxon signed rank test p=1.220703125 × 10–4). (iii) Correlation between the RSC and hippocampal MUA AI values pooled across all animals (14 animals) is low but significant (n = 11725 SWRs across all animals; two-sided t-test p<10 −15 ). (iv) Example plots of mean peri-SWR RSC glutamate activity associated with HPC QR1 (blue) and QR4 (red). (v) Time course of exemplar mean peri-SWR HPC MUA traces associated with SWRs in HPC QR1 (blue) and Q4 (red). Notice that both HPC MUA activity (v) and RSC glutamate activity (iv) are negatively skewed (negative AI) for HPC QR1, and the converse is true for HPC QR4. ( B ) Mean neocortical voltage activity centered on SWR centers associated with HPC QR1, QR2-3, and QR4 in a representative animal. Note the relative temporal shift in activity across three quartile ranges. This figure has two figure supplement.",
+    "original_url": "https://cdn.elifesciences.org/articles/51972/elife-51972-fig6-v3.tif",
+    "sha256": "2f31567cc65fb0d10a9650934f24279dbbed00f55d634b645292f1282fceaca4",
+    "width": 2427,
+    "height": 1045
+  },
+  "57023:2": {
+    "path": "figures/elife_57023_fig2.png",
+    "title": "Retrieval practice facilitates memory updating by enhancing and differentiating medial prefrontal cortex representations",
+    "authors": "Zhifang Ye; Liang Shi; Anqi Li; Chuansheng Chen; Gui Xue",
+    "first": "Ye",
+    "year": "2020",
+    "doi": "10.7554/eLife.57023",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Ye et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Results of follow-up behavioral Experiments 2 and 3. ( A ) Behavioral results from Exp. 2. The proportions of recalled targets, competitors, and 'other' categories during the final A-C and A-B memory tests one day after updating practice. Note, the targets and competitors were referred to as A-C and A-B memory in the A-C memory test, but as A-B and A-C memory in A-B memory test. ( B ) The proportions of A-C memory intrusions during A-B recall, as determined by whether the correct A-C memory was recalled during the A-C test. ( C ) Joint analysis for both A-B and A-C memories revealed memory differentiation. ( D ) Behavioral results from Exp. 3. The proportions of correct item recall during the final A-C and A-B memory tests one day after updating practice. Figure 2—source data 1. Memory performance during final test (Exp2). Figure 2—source data 2. Memory performance during final test (Exp3).",
+    "original_url": "https://cdn.elifesciences.org/articles/57023/elife-57023-fig2-v2.tif",
+    "sha256": "6847a11d879e55c421a17e2608d95c21fa7a08561774da0c721b01ebe0da1db2",
+    "width": 2362,
+    "height": 1272
+  },
+  "57023:4": {
+    "path": "figures/elife_57023_fig4.png",
+    "title": "Retrieval practice facilitates memory updating by enhancing and differentiating medial prefrontal cortex representations",
+    "authors": "Zhifang Ye; Liang Shi; Anqi Li; Chuansheng Chen; Gui Xue",
+    "first": "Ye",
+    "year": "2020",
+    "doi": "10.7554/eLife.57023",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Ye et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Memory reactivation during updating and its change in the final test. ( A ) Target memory representation (after subtracting 'other' evidence) during updating as a function of subsequent memory performance (correctly recalled targets vs incorrectly recalled competitors) during the final memory test. ( B ) Classifier evidence of competitor and other categories during the A-C updating phase under the Restudy and RetPrac conditions. Restudy was associated with weaker competitor reactivation. ( C ) Model fitting of the nonmonotonic plasticity hypothesis under the RetPrac condition. Only VTC showed the hypothesized pattern in which modest competitor reactivation (normalized into [0, 1] range) weakened, and strong competitor reactivation enhanced later competitor memory reactivation. Error bars indicate within-subject standard errors. Figure 4—source data 1. Classifier evidence during memory updating by subsequent memory performance. Figure 4—source data 2. Classifier evidence during memory updating.",
+    "original_url": "https://cdn.elifesciences.org/articles/57023/elife-57023-fig4-v2.tif",
+    "sha256": "cad8405e8681538f41c19c0cb80a775eb3c464a7ee44e1e2cfa6fce6808fd539",
+    "width": 2292,
+    "height": 2917,
+    "display_path": "figures/elife_57023_fig4_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.325
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2292,
+      2917
+    ],
+    "display_sha256": "a75e6b48277fd28c750b0bf6a5f7a8cb894e35c361af0ede1eab904a32be70b1"
+  },
+  "58042:1": {
+    "path": "figures/elife_58042_fig1.png",
+    "title": "Long-term potentiation is independent of the C-tail of the GluA1 AMPA receptor subunit",
+    "authors": "Javier Díaz-Alonso; Wade Morishita; Salvatore Incontro; Jeffrey Simms; Julia Holtzman; Michael Gill; Lennart Mucke; Robert C Malenka; Roger A Nicoll",
+    "first": "Díaz-Alonso",
+    "year": "2020",
+    "doi": "10.7554/eLife.58042",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Díaz-Alonso et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. GluA1/A2CTD supports LTP. ( A ) Left panel, schematic illustration of the recombinant AMPAR subunits employed to replace endogenous AMPAR: GluA1/A2CTD and (edited) GluA2 (R) in hippocampal CA1 pyramidal neurons from  Gria1-3  f/f  mice. Note that these two subunits form heteromeric, non-rectifying AMPAR (see  Figure 1—figure supplement 2 ). ATD, amino-terminal domain; LBD, ligand-binding domain; TM, transmembrane domain; CTD, carboxy-terminal domain. Middle panel, summary and timeline of the experiment. Right panel, schematic illustration of the experimental setup with simultaneous whole-cell recordings from control and transfected CA1 pyramidal neurons. ( B ) Scatterplot measuring the baseline EPSC size at −70 mV in control (X axis) and Cre + GluA1/A2CTD + GluA2 (R) expressing (Y axis) neurons. Open circles represent individual pairs of control and transfected neurons, filled circle represents mean ± SEM. Inset shows sample traces from a control (black trace) and a transfected (green trace) cell. n = 16 pairs. p=0.804, two-tailed Wilcoxon signed-rank test. ( C ) Plot representing the mean ± SEM EPSC at −70 before and after LTP induction (arrow) normalized by the average baseline EPSC size (dashed gray line) in control (filled circles) and Cre + GluA1/A2CTD + GluA2 (R) expressing (green circles) CA1 pyramidal neurons. Sample traces before and 45’ after LTP induction in control (black traces) and transfected (green traces) CA1 pyramidal neurons are shown to the right of the plot. n initial/final = 13/7 control, 17/10 transfected neurons. p=0.775 (min. 45), unpaired t-test. ( D ) Left panel, schematic illustration of the recombinant AMPAR subunit employed to replace endogenous GluA1: GluA1/A2CTD in hippocampal CA1 pyramidal neurons from Cas9 KI mice. Middle panel, summary and timeline of the experiment. Right panel, schematic illustration of the experimental setup with simultaneous whole-cell recordings from control and transfected CA1 pyramidal neurons. ( E ) Scatterplot measuring the baseline EPSC size at −70 mV in control (X axis) and  Gria1  gRNA + GluA1/A2CTD expressing (Y axis) neurons. Open circles represent individual pairs of control and transfected neurons, filled circle represents mean ± SEM. Inset shows sample traces from a control (black trace) and a transfected (green trace) cell. n = 12 pairs. p=0.557, two-tailed Wilcoxon signed-rank test. ( F ) Plot representing the mean ± SEM EPSC at −70 mV before and after LTP induction (arrow) normalized by the average baseline EPSC size (dashed gray line) in control (filled circles) and  Gria1  gRNA + GluA1/A2CTD expressing (green circles) CA1 pyramidal neurons. Sample traces before and 45’ after LTP induction in control (black traces) and transfected (green traces) CA1 pyramidal neurons are shown to the right of the plot. Scale bars: 50 pA, 50 ms. n initial/final = 8/8 control, 11/9 transfected neurons. p=0.683 (min 45), unpaired t-test. Figure 1—source data 1. Contains source data for  Figure 1 . GluA1/A2CTD supports LTP.",
+    "original_url": "https://cdn.elifesciences.org/articles/58042/elife-58042-fig1-v2.tif",
+    "sha256": "281e2935d8d5253bc16d84a4671b00362893479e1fb5d247f786bd25ebaaf568",
+    "width": 2119,
+    "height": 3155
+  },
+  "58042:3": {
+    "path": "figures/elife_58042_fig3.png",
+    "title": "Long-term potentiation is independent of the C-tail of the GluA1 AMPA receptor subunit",
+    "authors": "Javier Díaz-Alonso; Wade Morishita; Salvatore Incontro; Jeffrey Simms; Julia Holtzman; Michael Gill; Lennart Mucke; Robert C Malenka; Roger A Nicoll",
+    "first": "Díaz-Alonso",
+    "year": "2020",
+    "doi": "10.7554/eLife.58042",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Díaz-Alonso et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. GluA1 CTD is not essential for spatial learning and memory. ( A ) Learning curves showing the distance covered to find a hidden platform in the Morris water maze per training day (average of 4 trials/day) in WT (open circles) and HA-ΔCTD GluA1 KI (filled circles) mice. Mixed effects analysis revealed that the distance necessary to find the platform decreased during training in both groups (day effect, p<0.0001). Although there was only a trend toward a genotype effect (p=0.0539), there was a significant interaction between day and genotype (p<0.05). Distance covered to find a cued platform across 2 days (C1 and C2) is shown in the right side of the plot and showed a significant effect of day (p<0.01) but not genotype (p=0.259), and there was no significant day x genotype interaction (p=0.511). n = 12 WT, 15 KI. ( B ) Probe trial results showing the number of crossings over the location under which the platform was hidden in the target quadrant during training (circles, empty bars) and over equivalent positions in non-target quadrants (squares, patterned bars) in a 60-s trial performed the day after the last training session. WT mice are represented by empty shapes and HA-ΔCTD GluA1 KI by filled shapes. n = 12 WT, 14 KI. Both genotypes showed a clear preference for the target location vs non-target locations (WT, p=0.0010, KI, p=0.0012,). WT and KI mice did not differ significantly in how many times they crossed the target location (p=0.582 by Mann-Whitney U test). **p<0.01; ***p<0.001 by Wilcoxon paired t-test. Individual mouse values and mean ± SEM are indicated. Figure 3—source data 1. Contains source data for  Figure 3 . GluA1 CTD is not essential for spatial learning and memory.",
+    "original_url": "https://cdn.elifesciences.org/articles/58042/elife-58042-fig3-v2.tif",
+    "sha256": "54cac2c51e89fa90ad4658157dfae1313a66d1088fe6b3ee8f34025d28cff210",
+    "width": 2085,
+    "height": 1041
+  },
+  "60360:1": {
+    "path": "figures/elife_60360_fig1.png",
+    "title": "Synaptic memory requires CaMKII",
+    "authors": "Wucheng Tao; Joel Lee; Xiumin Chen; Javier Díaz-Alonso; Jing Zhou; Samuel Pleasure; Roger A Nicoll",
+    "first": "Tao",
+    "year": "2021",
+    "doi": "10.7554/eLife.60360",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Tao et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Ca 2+ -calmodulin-dependent kinase II (CaMKII) inhibitor myr-CN27 inhibits AMPAR synaptic transmission through CaMKIIα. ( A ) Time course of myr-CN27 (1 µM) inhibition on AMPAR EPSCs and NMDAR EPSCs in acute slices. ( B ) Summary graphs showing myr-CN27 inhibited AMPAR EPSCs (before drug: 63.9 ± 12 pA; after drug: 27.6 ± 3.9 pA;  n  = 10, p < 0.01, two-tailed Wilcoxon Signed Rank Test), but not NMDAR EPSCs (before drug: 43.2 ± 13.7 pA; after drug: 42 ± 13.4 pA;  n  = 5, p > 0.05, two-tailed Wilcoxon Signed Rank Test). ( C ) Time course of the effect of myr-CN27 on AMPAR EPSCs in wt cells and simultaneously recorded CRISPR-CaMKIIα transfected cells, normalized to wt baseline (from culture slices). While myr-CN27 inhibited AMPAR EPSCs in wt cells, it had no effect on CRISPR-CaMKIIα transfected cells ( n  = 6, p > 0.05, two-tailed Wilcoxon Signed Rank Test). ( D ) Sample traces showing that myr-CN27 inhibited AMPAR EPSCs in control cells, but had no effect in CRISPR-CaMKIIα transfected cells. Black traces are control cell, green traces are transfected cell. Mean ± standard error of the mean (SEM). **p < 0.01. ( E ) A comparison of the reduction of synaptic transmission in field and whole cell recording. For the field recording (black,  n  = 8) after a 60-min stable baseline, 1 μM myr-CN27 was applied to the slice for 100 min. For the whole cell recording (blue,  n  = 7), the drug was applied after a 10-min stable baseline. In both, the response was reduced to 50% of baseline. Example traces for both are shown taken at the timepoints indicated by 1 and 2. The field EPSPs shown on the bottom right have scale bars vertical 0.1 mV and 5 ms horizontal. The whole cell recording shown bottom left have scale bars 50 pA vertical and 20 ms horizontal. Both recordings are done in WT slices with the whole cell recordings done in slice culture DIV3–14 while the fields were done in acute slices from P15–28 mice. Figure 1—source data 1. Ca 2+ -calmodulin-dependent kinase II (CaMKII) inhibitor myr-CN27 inhibits AMPAR synaptic transmission through CaMKIIα. In this dataset, the results of the effects of myr-CN27 on AMPAR EPSCs and NMDAR EPSCs are included.",
+    "original_url": "https://cdn.elifesciences.org/articles/60360/elife-60360-fig1-v2.tif",
+    "sha256": "2d8d6467764667f8c0e84f58593c8a5a47134ca2923ea5e295940496acdce4c2",
+    "width": 2123,
+    "height": 2683,
+    "display_path": "figures/elife_60360_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.325
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2123,
+      2683
+    ],
+    "display_sha256": "d1245b76dad65cfd37737773db959e7fb89f0b27c228dc88e732cb503238b867"
+  },
+  "60360:3": {
+    "path": "figures/elife_60360_fig3.png",
+    "title": "Synaptic memory requires CaMKII",
+    "authors": "Wucheng Tao; Joel Lee; Xiumin Chen; Javier Díaz-Alonso; Jing Zhou; Samuel Pleasure; Roger A Nicoll",
+    "first": "Tao",
+    "year": "2021",
+    "doi": "10.7554/eLife.60360",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Tao et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Light-activated Ca 2+ -calmodulin-dependent kinase II (CaMKII) inhibitor paAIP2 inhibits AMPAR synaptic transmission through CaMKIIα. ( A ) Time course of paAIP2 effect on AMPAR and NMDAR synaptic transmission in culture slices. Blue light exposure inhibited AMPAR synaptic transmission in paAIP2 expressing cells (green circles), but not in simultaneously recorded control cells (black circles) or NMDAR synaptic transmission (red circles). ( B ) Summary data showing that paAIP2 inhibited AMPAR synaptic transmission (before light: 51 ± 13.8 pA; after light: 26.5 ± 7.2 pA;  n  = 12, p < 0.01, two-tailed Wilcoxon Signed Rank Test), but had no effect on NMDAR synaptic transmission (before light: 31.2 ± 7.6 pA; after light: 29.8 ± 7.7 pA;  n  = 5, p > 0.05, two-tailed Wilcoxon Signed Rank Test). Mean ± standard error of the mean (SEM). **p < 0.01. Figure 3—source data 1. Light-activated Ca 2+ -calmodulin-dependent kinase II (CaMKII) inhibitor paAIP2 inhibits AMPAR synaptic transmission through CaMKIIα. In this dataset, the results of the effects of paAIP2 on AMPAR EPSCs and NMDAR EPSCs are included.",
+    "original_url": "https://cdn.elifesciences.org/articles/60360/elife-60360-fig3-v2.tif",
+    "sha256": "4f85479c9a69dfe754f8357b07340d1f5e0f7a9c9c6e546d7383ba4437067669",
+    "width": 1941,
+    "height": 2699
+  },
+  "62390:2": {
+    "path": "figures/elife_62390_fig2.png",
+    "title": "Distinct temporal difference error signals in dopamine axons in three regions of the striatum in a decision-making task",
+    "authors": "Iku Tsutsui-Kimura; Hideyuki Matsumoto; Korleki Akiti; Melissa M Yamada; Naoshige Uchida; Mitsuko Watabe-Uchida",
+    "first": "Tsutsui-Kimura",
+    "year": "2020",
+    "doi": "10.7554/eLife.62390",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Tsutsui-Kimura et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Dopamine axons in the striatum show characteristics of RPE. ( A ) AAV-flex-GCaMP7f was injected in VTA and SNc, and dopamine axon activity was measured with an optic fiber inserted in the striatum. Right top, dopamine axon activity in all the valid trials (an animal chose an either water port after staying in odor port for required time,>1 s) in an example animal, aligned at odor onset (mean ± SEM). Right bottom, average responses using predicted trial responses in a fitted model of the same animal (mean ± SEM). ( B ) Location of an optic fiber in example animals. Arrow heads, tips of fibers. Green, GCaMP7f. Bar = 1 mm. ( C ) Odor-, movement-, choice-, and water-locked components in the model of all the animals (mean ± SEM). ( D ) Contribution of each component in the model was measured by reduction of deviance in the full model compared to a reduced model excluding the component. ( E ) Contribution of each component in the model in each animal group. ( F ) Left, comparison of dopamine axon responses to an odor cue that instructs to choose BIG and SMALL side in easy trials (pure odor, correct choice, −1–0 s before odor port out). t(21) = 5.8, p=8.1 × 10 −6  for actual signals and t(21) = 4.8, p=9.5 × 10 −5  for models. Paired t-test, n = 22 animals. Right, comparison of dopamine axon responses to different sizes of water (big versus medium water with BIG expectation, and medium versus small water with SMALL expectation) and to medium water with different expectation (BIG versus SMALL expectation) (0.3–1.3 s after water onset). t(21) = 12.9, p=1.6 × 10 −11 , t(21) = 9.7, p=2.9 × 10 −9 , and t(21) = −3.8, p=9.3 × 10 −4 , respectively for actual signals, and t(21) = 10.3, p=1.0 × 10 −9 , t(21) = 7.9, p=9.2 × 10 −8 , and t(21) = −3.3, p=0.0033, respectively for models. Paired t-test, n = 22 animals. m(B), medium water with BIG expectation; m(S), medium water with SMALL expectation. ( G ) Comparison between actual dopamine axon responses and model responses to water. Arbitrary unit (a.u.) was determined by model-fitting with z-score of GCaMP signals.   Figure 2—source data 1. Summary statistics.  ",
+    "original_url": "https://cdn.elifesciences.org/articles/62390/elife-62390-fig2-v2.tif",
+    "sha256": "e18bbc9f0b8f2348f38a086fb2b4bb3cee94aeb20e4fcdd1d491c9648c5cfc96",
+    "width": 2164,
+    "height": 1956,
+    "display_path": "figures/elife_62390_fig2_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.45
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2164,
+      1956
+    ],
+    "display_sha256": "caa8ada82b7d7a5c963abf1ba6bef767af1bcd34e1c4f6726c8aad3e4f937363"
+  },
+  "62390:4": {
+    "path": "figures/elife_62390_fig4.png",
+    "title": "Distinct temporal difference error signals in dopamine axons in three regions of the striatum in a decision-making task",
+    "authors": "Iku Tsutsui-Kimura; Hideyuki Matsumoto; Korleki Akiti; Melissa M Yamada; Naoshige Uchida; Mitsuko Watabe-Uchida",
+    "first": "Tsutsui-Kimura",
+    "year": "2020",
+    "doi": "10.7554/eLife.62390",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Tsutsui-Kimura et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Responses to water in dopamine axons in the striatum. ( A ) Activity patterns per different striatal location, aligned at water onset (mean ± SEM, n = 9 for VS, n = 7 for DMS, n = 6 for DLS). ( B ) Average responses to each water condition in each animal grouped by striatal areas. ( C ) Average response functions of dopamine axons in each striatal area. ( D ) Comparison of parameters for each animal grouped by striatal areas. ‘Water big-medium’ is responses to big water minus responses to medium water at the BIG side and ‘Water medium-small’ is responses to medium water minus responses to small water at the SMALL side, normalized with difference of water amounts (2.2 minus 0.8 for BIG and 0.8 minus 0.2 for SMALL). ‘Prediction SMALL-BIG’ is responses to medium water at SMALL side minus responses to medium water at BIG side. ‘Zero-crossing BIG’ is the water amount when the dopamine response is zero at BIG and side, which was estimated by the obtained response function. ‘Zero-crossing SMALL’ is the water amount when the dopamine response is zero at SMALL side, which was estimated by the obtained response function. Response changes by water amounts (BIG or SMALL) or prediction was not significantly modulated by the striatal areas (F(2,19) = 4.33, p=0.028, F(2,19) = 0.87, p=0.43, F(2,19) = 1.11, p=0.34, ANOVA), whereas zero-crossing points (BIG or SMALL) were significantly modulated (F(2,19) = 8.6, p=0.0021, F(2,19) = 8.5, p=0.0023, ANOVA; t(11) = 3.6, p=0.0039, DMS versus DLS; t(14) = −2.4, p=0.028, VS versus DMS; t(13) = 2.4, p=0.030, VS versus DLS for BIG side; t(14) = −1.8, p=0.085, VS versus DMS; t(13) = 3.1, p=0.0076, VS versus DLS; t(11) = 3.88, p=0.0026, DMS versus DLS for SMALL side, two sample t-test). ( E ) Zero-crossing points were plotted along anatomical location in the striatum. Zero-crossing points were correlated with medial-lateral positions (t = −2.8, p=0.011) and with dorsal-ventral positions (t = −2.7, p=0.014) but not with anterior-posterior positions (t = −0.3, p=0.72). Linear regression. ( F ) Zero-crossing points were fitted with recorded location, and the estimated values in the striatal area were overlaid on the atlas for visualization (see Materials and methods). Trials with all odor types (pure and mixture) were used in this figure. t-test, n = 9, 7, six animals for VS, DMS, DLS.   Figure 4—source data 1. Summary statistics.  ",
+    "original_url": "https://cdn.elifesciences.org/articles/62390/elife-62390-fig4-v2.tif",
+    "sha256": "3022df750977214cc4b7fb56c665f497dfa301c6e3258e3a67d7235b946be8d0",
+    "width": 1640,
+    "height": 1967
+  },
+  "67778:2": {
+    "path": "figures/elife_67778_fig2.png",
+    "title": "Dopamine enhances model-free credit assignment through boosting of retrospective model-based inference",
+    "authors": "Lorenz Deserno; Rani Moran; Jochen Michely; Ying Lee; Peter Dayan; Raymond J Dolan",
+    "first": "Deserno",
+    "year": "2021",
+    "doi": "10.7554/eLife.67778",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Deserno et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Model-free (MF) and model-based (MB) contributions. ( A ) Left panel: Illustration of MF and MB values at choice in standard trials. MB values are computed prospectively based on the sum of values of the two destinations associated with each of the two vehicles offered for choice (here highway and forest for green antique car; desert and forest for yellow racing car). Right panel: MF vs. MB credit assignment (MFCA vs. MBCA) in standard trials. MFCA only updates the chosen vehicle (here green antique car) based on the sum of rewards at each destination (here forest and highway). MBCA updates separately the values for each of the two destinations (forest and highway). Each of these updates will prospectively affect equally the values of the vehicle pair associated with that destination (updated MB value for forest influences MB value of the yellow racing car and the green antique car while the updated MB value for highway influences the MB value of the green antique car and the blue crane). Forgetting of Q values was left out for simplicity (see Materials and methods and see  Appendix 1—figure 1  for validating simulations). ( B1 ) Illustration of MF choice repetition. We consider only standard trials n + 1 that offer for choice the standard trial n chosen vehicle (e.g., green antique car) alongside another vehicle (e.g., yellow racing car), sharing a common destination (forest). Following choice of a vehicle in trial n (framed in red, here the green antique car), participants visited two destinations of which one can be labelled on trial n + 1 as common to both offered vehicles (C, e.g., forest, which was also rewarded in the example) and the other labelled as unique (U, e.g., city highway, unrewarded in this example) to the vehicle chosen on trial n (the green antique car). The trial n common destination reward effect on the probability to repeat the previously chosen vehicle (dashed frame in red, e.g., the green antique car) constitutes an MF choice repetition. ( B2 ) The empirical reward effect for the common destination (i.e., the difference between rewarded and unrewarded on trial n, see  Appendix 1—figure 2  for a more detailed plot of this effect) on repetition probability in trial n + 1 is plotted for placebo and levodopa (L-Dopa) conditions. There was a positive common reward main effect and this reward effect did not differ significantly between placebo and levodopa conditions. ( C1 ) Illustration of the MB contribution. We considered only standard trials n + 1 that excluded from the choice set the standard trial n chosen vehicle (e.g., green antique car, framed in red). One of the vehicles offered on trial n + 1 shared one destination in common with the trial n chosen vehicle (e.g., yellow racing car, sharing the forest, and we term its choice a generalization). A reward (on trial n) effect for the common destination on the probability to generalize on trial n + 1 (e.g., by choice of the yellow racing car, dashed frame in red) constitutes a signature of MB choice generalization. ( C2 ) The empirical reward effect at the common destination (i.e., the difference between rewarded and unrewarded, see  Appendix 1—figure 2  for a more detailed plot of this effect) on generalization probability is plotted for placebo and levodopa conditions. ( C3 ) In the regression analysis described in the text, we also include the current (subject- and trial-specific) state of the drifting reward probabilities (at the common destination) because we previously found this was necessary to control for temporal auto correlations in rewards ( Moran et al., 2019 ). For completeness, we plot beta regression weights of reward vs. no reward at the common destination (indicated as MB) and for the common reward probability (RewProbC) each for placebo and levodopa conditions. No significant interaction with drug session was observed. Error bars correspond to SEM reflecting variability between participants.",
+    "original_url": "https://cdn.elifesciences.org/articles/67778/elife-67778-fig2-v3.tif",
+    "sha256": "24db920ead007cc352fdd746ec9d7c78d9f6adf646f934a6c17d957eafd67c9d",
+    "width": 1097,
+    "height": 1215
+  },
+  "67778:4": {
+    "path": "figures/elife_67778_fig4.png",
+    "title": "Dopamine enhances model-free credit assignment through boosting of retrospective model-based inference",
+    "authors": "Lorenz Deserno; Rani Moran; Jochen Michely; Ying Lee; Peter Dayan; Raymond J Dolan",
+    "first": "Deserno",
+    "year": "2021",
+    "doi": "10.7554/eLife.67778",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Deserno et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Guidance of model-free (MF) credit-assignment (CA) by retrospective model-based (MB) inference. ( A1 ) Illustration of the repeat condition. The ghost-nominated vehicle (e.g., green antique car) is offered for choice in standard trial n + 1 alongside a vehicle from the non-chosen pair (e.g., blue building crane). A higher probability to repeat the ghost-nominated vehicle in standard trial n + 1 after a reward as compared to no reward at the informative destination, the highway, constitutes model-free credit assignment (MFCA) for the ghost’s nomination (GN, the green antique car). ( A2 ) Illustration of the switch condition. The ghost-rejected vehicle (e.g., the yellow racing car) is offered for choice in standard trial n + 1 alongside a vehicle from the non-chosen pair (e.g., brown farming tractor). A higher probability to choose the ghost-rejected vehicle in standard trial n + 1 after a reward as compared to no reward at the informative destination constitutes MFCA for the ghost’s rejection (GR). Both ghost-based assignments depend on retrospective model-based (MB) inference. ( A3 ) Preferential effect of retrospective MB inference on MFCA (effects of GN > GR) based on the informative destination is enhanced under levodopa (L-Dopa; \"D\") as compared to placebo (\"P\"). This is indicated by a significant trial type (GN/GR) × drug (placebo/ levodopa) interaction (also see  Appendix 1—figure 4  and  Appendix 1—figure 5  for more detailed plots). ( B1 ) Illustration of the clash condition. The previously chosen pair (green antique and yellow racing car) is offered for choice in standard trial n + 1. A higher probability to repeat the ghost-nominated vehicle (the green antique car) in standard trial n + 1 following reward (relative to non-reward) at the non-informative destination (the forest) constitutes a signature of preferential MFCA for GN (the green antique car) over GR (the yellow racing car). ( B2 ) Choice repetition in clash trial is plotted as a function of L-Dopa (\"D\") vs. placebo (\"P\") and reward (R+: reward; R−: no-reward, see  Appendix 1—figure 6  for a more detailed plot). While there was a main effect for drug, there was no interaction of non-informative reward × drug, providing no evidence that drug modulated MFCA based on the non-informative outcome. Error bars correspond to SEM reflecting variability between participants.",
+    "original_url": "https://cdn.elifesciences.org/articles/67778/elife-67778-fig4-v3.tif",
+    "sha256": "c1b8e3fabd9f784f67eee8ca5fd57733e3dde38dd52b39d703b627e9c25157ea",
+    "width": 1119,
+    "height": 1312
+  },
+  "69333:1": {
+    "path": "figures/elife_69333_fig1.png",
+    "title": "The entorhinal cortex modulates trace fear memory formation and neuroplasticity in the mouse lateral amygdala via cholecystokinin",
+    "authors": "Hemin Feng; Junfeng Su; Wei Fang; Xi Chen; Jufang He",
+    "first": "Feng",
+    "year": "2021",
+    "doi": "10.7554/eLife.69333",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Feng et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Trace fear memory formation deficit in  Cck -/-  mice. ( a ) Schematic diagram of the fear conditioning paradigm with a long trace interval of 20 s. Gray and light blue shadowed areas indicate the time frames before and after the onset of the CS (before-CS, after-CS). CS, conditioned stimulus; US, unconditioned stimulus. ( b–c ) Freezing percentages before ( b ) and after ( c ) the CS. Freezing percentages were recorded at baseline on the pre-conditioning day and post-training on the post-conditioning day. WT, wildtype, N = 14;  Cck -/- , CCK-knockout, N = 10. *p < 0.05; **p < 0.01; ***p < 0.001; NS, not significant. Statistical significance was determined by two-way RM ANOVA with Bonferroni post hoc pairwise comparison. RM ANOVA, repeated-measures analysis of variance. ( d ) Freezing score plot of the two groups of mice during the testing session. The freezing score was binned in a 2 s interval. Solid lines indicate the mean value, and shadowed areas indicate the SEM. The black bar indicates the presence of the CS from 0 to 10 s. Two-way RM ANOVA with a Greenhouse-Geisser correction, interaction significant, F(8.214, 180.716) = 2.149, p < 0.05; post hoc Bonferroni multiple pairwise comparisons between two groups in each bin, *p < 0.05. SEM, standard error of the mean. ( e ) Schematic diagram of the fear conditioning paradigm with a short-trace interval of 2 s. (f–g) Freezing percentages before ( f ) and after ( g ) the CS. WT, N = 11;  Cck -/- , N = 14. ( h ) Freezing score plot of the two groups of mice during the testing session. Freezing score was binned in a 1 s interval. The black bar indicates the presence of the CS from 0 to 3 s. Two-way RM ANOVA with a Greenhouse-Geisser correction, interaction significant, F(8.093, 186.145) = 2.499, p < 0.05; post hoc Bonferroni multiple comparisons in each bin, *p < 0.05. Figure 1—source data 1. Summary of freezing percentage in long and short trace fear conditioning.",
+    "original_url": "https://cdn.elifesciences.org/articles/69333/elife-69333-fig1-v2.tif",
+    "sha256": "4bceb64cc8360b63694c964b56c8d897ce941e66af3b70a68289566bc6d043d3",
+    "width": 2145,
+    "height": 1589
+  },
+  "69333:2": {
+    "path": "figures/elife_69333_fig2.png",
+    "title": "The entorhinal cortex modulates trace fear memory formation and neuroplasticity in the mouse lateral amygdala via cholecystokinin",
+    "authors": "Hemin Feng; Junfeng Su; Wei Fang; Xi Chen; Jufang He",
+    "first": "Feng",
+    "year": "2021",
+    "doi": "10.7554/eLife.69333",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Feng et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Neural plasticity deficit in the LA of  Cck -/-  mice and the rescuing effect of exogenous cholecystokinin (CCK). ( a ) Schematic diagram of in vivo recording in the LA. EC, entorhinal cortex; LA, lateral amygdala. STI, stimulation. REC, recording. ( b ) Post hoc verification of electrode tracks and recording area. ( c ) Representative AEP traces in response to different levels of noise stimulus. AEP, auditory evoked potential. ( d ) Representative traces of multiunit spikes to different levels of noise stimulus. ( e ) Representative input/output (I/O) curve of the slope of AEP vs. noise intensity. fEPSP, field excitatory postsynaptic potential. ( f ) Schematic diagram of the pairing protocol to induce LTP of AEP via theta-burst stimulation (TBS). LTP, long-term potentiation; ES, electrical stimulation; AS, auditory stimulation. ( g ) Time course plot of the normalized AEP slope during LTP. The wildtype (WT) group is indicated in black, and the  Cck -/-  in red. Representative traces of the AEP before (dotted line) and after (solid line) TBS are shown in inset panels for both groups. The average normalized slopes 10 min before pairing (−10–0 min, before) and 10 min after pairing (50–60 min, after) in the two groups of mice are shown on the right. **p < 0.01; two-way RM ANOVA with post hoc Bonferroni pairwise comparison; RM ANOVA, repeated-measures analysis of variance; NS, not significant. ( h ) Immunofluorescent staining of CCK B receptor (CCKBR) in brain slices from WT,  Cck -/- , CCKBR-KO, and CCKAB-KO mice. Magnified images are shown on the right. CCKBR-KO, CCK B receptor knock-out mouse; CCKAB-KO, CCK A receptor and B receptor double knock-out mouse. ( i ) Experimental timeline for (j–o). ( j ) Schematic diagram of the CS-US presentation. Gray and light blue shadowed areas indicate the time frames before and after CS presentation (before-CS, after-CS). (k–l) Freezing percentages before ( k ) and after ( l ) the CS during fear conditioning training on training day. Animals underwent six trials during a 2-day training (days 2 and 3). Two-way RM ANOVA with Bonferroni pairwise comparison, *p < 0.05. (m–n) Freezing percentages before ( m ) and after ( n ) the CS on the pre-training day (baseline) and the post-training day. CCK-4, N = 6; VEH, N = 7; *p < 0.05; NS, not significant; two-way RM ANOVA with Bonferroni post hoc pairwise test; RM ANOVA, repeated-measures analysis of variance. ( o ) Freezing score plot of the two groups of mice during the testing session on day 5. Solid lines indicate the mean value, and shadowed areas indicate the SEM. The black bar indicates the presence of the CS from 0 to 3 s. Two-way RM ANOVA with a Huynh-Feldt correction, interaction significant, F(17.22, 189.417) = 1.932, p = 0.017 < 0.05; post hoc Bonferroni multiple comparisons, *p < 0.05. Figure 2—source data 1. AEP-LTP induction in WT and CCK-KO mice.",
+    "original_url": "https://cdn.elifesciences.org/articles/69333/elife-69333-fig2-v2.tif",
+    "sha256": "e24702513d3f9467fbe9f439445088605675cbfa1323bde64f1c55092c380a7d",
+    "width": 2316,
+    "height": 2390,
+    "display_path": "figures/elife_69333_fig2_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.465
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2316,
+      2390
+    ],
+    "display_sha256": "31dd2dbe4bb23c0cb47da70101b9277ce68422e763b331c17e388de8d41e9ec3"
+  },
+  "70586:2": {
+    "path": "figures/elife_70586_fig2.png",
+    "title": "A dentate gyrus-CA3 inhibitory circuit promotes evolution of hippocampal-cortical ensembles during memory consolidation",
+    "authors": "Hannah Twarkowski; Victor Steininger; Min Jae Kim; Amar Sahay",
+    "first": "Twarkowski",
+    "year": "2022",
+    "doi": "10.7554/eLife.70586",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Twarkowski et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Increasing FFI promotes neuronal responses in CA1 and ACC during encoding of foot-shock. ( a ) Schematic of time point in behavioral paradigm of the presented data (context A on training day with three foot-shocks (FS) applied at 180, 240, and 360 s). ( b ) schematic of analysis window for neuronal activity before FS (preFS) and after FS (postFS) presented in panels e, g and h. ( c ) Quantification of FS response behavior measured as freezing in percentage of one minute time bins. All experimental groups showed a similar increase in freezing upon the FS training in context A with no main treatment effect [upper panel, ACC: Two-way repeated measures ANOVA, time x treatment effect p = 0.702: time main effect p < 0.0001, treatment main effect = 0.796, n = 5; lower panel CA1: time x treatment effect p = 0.838, time main effect p < 0.0001, treatment main effect = 0.49, n = 5 shNT, n = 6 shRNA]. ( d ) Example heatmap of z-scored neuronal activity (calcium events) in CA1 (shNT) across time in context A grouped by neuronal activity (foot-shock responsive, FSR; non-foot-shock responsive, nFSR). Colorbar represents SD (z-scored to first 180 s of the recording). ( e ) Neuronal activity of FSR neurons increased significantly after the FS was applied in all experimental groups. Neuronal activity was z-scored (over the first 180 s in context A) and averaged over the three foot-shocks using a 30 s window as preFS or postFS condition (see sketch in panel b) [Two-tailed paired t-test, ACC shNT preFS vs postFS: p = 0.004 (upper left); ACC shRNA preFS vs postFS: p = 0.013 (upper right), CA1 shNT preFS vs postFS: p = 0.007 (lower left), CA1 shRNA preFS vs postFS: p = 0.024 (lower right), n = 5]. ( f ) Number of FSR and nFSR neurons in each experimental group. In ACC, lenti-shRNA injection increased the number of FSR neurons (ACC, shNT, FSR, mean = 40.24, SEM = 4.06, nFSR, mean = 59.77, SEM = 4.06; ACC shRNA, FSR, mean = 57.43, SEM = 5.73, nFSR, mean = 42.57, SEM = 5.73; CA1, shNT, FSR, mean = 43.79, SEM = 4.35; nFSR, mean = 56.21, SEM = 4.35; shRNA, FSR, mean = 41.90, SEM = 3.47, nFSR, mean = 58.10, SEM = 3.47) (see also  Figure 2—figure supplement 1  for bar graphs of FSR and statistical analysis. ( g ) Example heatmap of pairwise correlation between neuronal pairs in CA1 before the FS (preFS, lower triangle) and after the FS (postFS, upper triangle) from one shNT injected mouse.). Colorbar represents correlation coefficient. ( h ) Number of correlated pairs (> mean + 2 SD from a shuffled control) among FSR neurons as percentage of all possible pairs of FSR neurons. All experimental groups, except ACC shRNA, showed an increase in the percentage of correlated pairs after the foot-shock. [Two-tailed paired t-test, ACC shNT: p = 0.021 (upper left), ACC shRNA: p = 0.141 (upper right), CA1 shNT: p = 0.021 (lower left), CA1 shRNA: p = 0.001 (lower right), n = 5]. ( i ) Graphic summary of findings presented in this panel. In both ACC and CA1, learning, in form of experiencing a foot-shock in context A, induced the formation of a neural ensemble among FSR neurons by increasing co-activity. Increased FFI facilitated this effect in both brain regions with a higher number of FSR neurons in ACC and a stronger increase in correlated pairs in CA1 (see also  Figure 2—figure supplement 1 ). Throughout, statistical data are represented as mean ± SEM, *p < 0.05, **p < 0.01, ***p < 0.001, n represents number of mice.",
+    "original_url": "https://cdn.elifesciences.org/articles/70586/elife-70586-fig2-v3.tif",
+    "sha256": "a809cf3a379de3b14949a3fa9d625ff3a2f87f1ca4eee6484d8ad5212a16ae21",
+    "width": 2207,
+    "height": 1213
+  },
+  "70586:5": {
+    "path": "figures/elife_70586_fig5.png",
+    "title": "A dentate gyrus-CA3 inhibitory circuit promotes evolution of hippocampal-cortical ensembles during memory consolidation",
+    "authors": "Hannah Twarkowski; Victor Steininger; Min Jae Kim; Amar Sahay",
+    "first": "Twarkowski",
+    "year": "2022",
+    "doi": "10.7554/eLife.70586",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Twarkowski et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 5. Increased FFI in DG ‒ CA3 enhances CA1 ripple ‒ ACC spindle coupling. ( a ) Schematic of surgical procedure and histology of tetrodes in CA1 and ACC (white arrows). ( b ) Recording paradigm and example traces. Local field potentials (LFPs) were recorded before and after mice were trained in context A. Raw traces obtained from LFP recordings from ACC (red) and CA1 (blue). Gray boxes indicate time points magnified in filtered examples below. Magnified signals were filtered for ripples (CA1, blue) and spindles (ACC, red) during slow-wave sleep (SWS). Magnified examples are not aligned temporally. ( c ) Coupled ripples (% of all ripples) during pre-Training recordings. shRNA mice showed significantly more coupled ripples compared to shNT mice [Unpaired Student’s t-test, p = 0.049, n = 5 per group]. ( d-e ) Ripple occurrence (ripples/sec) and spindle occurrence (Spindles/sec) during pre-Training recordings. No difference was found between virus groups. [Unpaired Student’s t-test, ripples/sec: p = 0.633, n = 5 per group; spindles/sec: p = 0.466, n = 5 per group]. ( f–h ) Effect of training on coupled ripples, ripple occurrence and spindle occurrence. Plots show pairwise comparison of pre-Training (same data as c-e) with post-Training recordings. shNT mice (left panel) show increased coupled ripples ( f ) following learning [Paired Student’s t-test, p = 0.019, n = 5; shRNA mice: p = 0.881, n = 5] and increased couple occurrence ( g ) [Paired Student’s t-test, p = 0.031, n = 5; shRNA mice: p = 0.621, n = 5]. No difference is found in spindle occurrence following learning ( h ) in either group [Paired Student’s t-test, p = 0.109, n = 5; shRNA mice: p = 0.623, n = 5].",
+    "original_url": "https://cdn.elifesciences.org/articles/70586/elife-70586-fig5-v3.tif",
+    "sha256": "d3d57e1f5f3ae8cb64ac11e25416e8fba09b703f19f9bd3165d444ba5e5f8724",
+    "width": 1379,
+    "height": 2166,
+    "display_path": "figures/elife_70586_fig5_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.4
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1379,
+      2166
+    ],
+    "display_sha256": "6b9e3aeede33072beb833d4f17c866d401b9ec36cd104630e1dee3a30fc3e8fb"
+  },
+  "70600:1": {
+    "path": "figures/elife_70600_fig1.png",
+    "title": "Flexible use of memory by food-caching birds",
+    "authors": "Marissa C Applegate; Dmitriy Aronov",
+    "first": "Applegate",
+    "year": "2022",
+    "doi": "10.7554/eLife.70600",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Applegate and Aronov",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Behavioral paradigm for food caching and retrieval in chickadees. ( A ) Rendering of the behavioral setup. For clarity, the front wall that contains doors of the arena is removed. Pink box highlights one cache site.( B ) Illustration of a chickadee at a cache site. Top: chickadee prior to caching. Middle: cross-section of the cache site, with a chickadee pulling open the silicone flap to deposit a seed. Bottom: cross-section of the cache site after the seed was cached. ( C ) Left: video frames from the bottom camera showing all 64 cache sites at four timepoints within a behavioral session. Right: real-time detection of cached seeds. Red area indicates shape enclosed by the detected seed contour. ( D ) Detection of events at one example cache site in one behavioral session. Top: cartoon of the bird’s interactions with the site at several time points. Middle: video frames from the bottom camera at the corresponding time points. Bottom: Pearson correlation of each video frame with the image of the same cache site when empty. Caches create sustained decreases in the correlation, whereas site checks create transient decreases. ( E ) Ethogram of all behavioral events in an example session of the Caching task. Colored circles correspond to caches, retrievals, and site checks, as in ( D ). ( F ) Same as ( E ), for the Retrieval task. Colored regions indicate the phase of the trial. Black vertical lines denote trial boundaries.",
+    "original_url": "https://cdn.elifesciences.org/articles/70600/elife-70600-fig1-v1.tif",
+    "sha256": "d61f7bfb23015ac21f56c60545414f5b336ad5ca139f4687f58f6a374d8cb8f3",
+    "width": 2030,
+    "height": 1609
+  },
+  "70600:3": {
+    "path": "figures/elife_70600_fig3.png",
+    "title": "Flexible use of memory by food-caching birds",
+    "authors": "Marissa C Applegate; Dmitriy Aronov",
+    "first": "Applegate",
+    "year": "2022",
+    "doi": "10.7554/eLife.70600",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Applegate and Aronov",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Schematic of the probabilistic behavioral models. Models here compute the probability of caching into a particular site in the Caching task. Equivalent models are used for the probability of checking a particular site in the Retrieval task. ( A ) Schematic of the arena at an example time point in the Caching task depicting ‘special locations’ in the arena: previous site interaction, occupied sites, and checked-empty sites. ( B ) Examples of scaling factors that change with proximity to each of the special locations shown in ( A ). Probability distribution of caching into different sites is computed by multiplying all scaling factors by  p b i a s . ( C ) Example models. For each model, some parameters are fixed at 0, while others are free and fit using maximum-likelihood estimation. For free parameters, examples shown here use the same values as in ( B ). All four models are plotted on the same color scale.",
+    "original_url": "https://cdn.elifesciences.org/articles/70600/elife-70600-fig3-v1.tif",
+    "sha256": "f9f9081a5f75a10ae2142d427f93f9fb7470d74dc0cabafc265ae373cb77e0ac",
+    "width": 1636,
+    "height": 963
+  },
+  "72783:2": {
+    "path": "figures/elife_72783_fig2.png",
+    "title": "Working memory capacity of crows and monkeys arises from similar neuronal computations",
+    "authors": "Lukas Alexander Hahn; Dmitry Balakhonov; Erica Fongaro; Andreas Nieder; Jonas Rose",
+    "first": "Hahn",
+    "year": "2021",
+    "doi": "10.7554/eLife.72783",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hahn et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Color discrimination in the neuronal response (information, percent explained variance [PEV]) generally decreases with load, but some neurons show the opposite effect. Shown are the three ipsilateral load conditions (i.e., load increases on the same side as the neuron’s favorite location). Ipsilateral loads are one (blue), two (yellow), and three (red). The labels ‘color A’ and ‘color B’ always refer to the same pair of colors at the neuron’s favorite location, irrespective of the load condition. ( A ) Example of a sample neuron with color information decline at load 1 (blue), load 2 (yellow), and load 3 (red). Top: raster plot, where every dot represents a single spike during the individual trials (rows of dots); middle: peri-stimulus-time histogram (PSTH) of average firing rate (solid line for color ID 1, dashed line for color ID 2) with the standard error of the mean (shaded areas); bottom: percent explained variance of color identity (a measure of information about color) along the trial, the line at the top of the y-axis indicates significant bins. ( B ) Same as in ( A ) for an example of a delay neuron with information gain at a higher load.",
+    "original_url": "https://cdn.elifesciences.org/articles/72783/elife-72783-fig2-v2.tif",
+    "sha256": "84c538ecbac16e5945a104169e66028c8252cc6a98de282cdb0a664df3e68fd9",
+    "width": 1537,
+    "height": 1797
+  },
+  "72783:5": {
+    "path": "figures/elife_72783_fig5.png",
+    "title": "Working memory capacity of crows and monkeys arises from similar neuronal computations",
+    "authors": "Lukas Alexander Hahn; Dmitry Balakhonov; Erica Fongaro; Andreas Nieder; Jonas Rose",
+    "first": "Hahn",
+    "year": "2021",
+    "doi": "10.7554/eLife.72783",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hahn et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 5. Divisive normalization-like regularization was observable for neuronal responses of neurons losing information ( A ) but not for neurons gaining color information at load 2 ( B ). Selectivity (SE) indicates how much the neuronal response is influenced by a color, relative to a second color when either is presented alone. Sensory interaction (SI) indicates how much the neuronal response is influenced by either color when both were displayed simultaneously. Slopes close to 0.5 indicate an equal influence of both colors. Slopes <0.5, or >0.5 indicate a weighted influence of a color. ( A ) Information-carrying neurons in the sample phase (as one bin;  n  = 105; left) and delay phase (as one bin;  n  = 43; right) population. ( B ) Information gaining neurons in the sample phase (as one bin;  n  = 56; left) and delay phase (as one bin;  n  = 8; right) population. The red line indicates the regression fit.",
+    "original_url": "https://cdn.elifesciences.org/articles/72783/elife-72783-fig5-v2.tif",
+    "sha256": "998e4453252a126f2e64ded58d10f607bbfe318e7b859dd5d5edc2004195a729",
+    "width": 1182,
+    "height": 1399
+  },
+  "73610:2": {
+    "path": "figures/elife_73610_fig2.png",
+    "title": "Strategy-dependent effects of working-memory limitations on human perceptual decision-making",
+    "authors": "Kyra Schapiro; Krešimir Josić; Zachary P Kilpatrick; Joshua I Gold",
+    "first": "Schapiro",
+    "year": "2022",
+    "doi": "10.7554/eLife.73610",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Schapiro et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Diffusion model and predictions for different strategies. ( a ) Fifty simulated trials of the representation of a single memorandum,  x̂ I , corrupted by a static noise term representing sensory and motor noise ( η 1 ) and time-dependent noise (increasing variance corresponding to decreasing memory precision) modeled as Brownian diffusion. At time  t,  the report for one item,  r t , 1 , is the location of the particle. ( b ) Linear accumulation of noise (variance) for single or multiple Perceived items (colors, as indicated) or Computed mean values using two different strategies (solid vs. dashed black lines, as indicated). Memory representations of  N =1, 2, or 5 items have initial, additive error  η N  and diffuse over time with diffusion constant  σ N 2 ; thus, variance at time  t = η N +t * σ N 2 . For the Average-then-Diffuse (AtD) model, the average is calculated immediately and stored as a single value. Thus, the diffusion constant of a Computed mean of  N  items is the same as for one item ( σ MN 2 = σ 1 2 ; parallel purple and black lines), although  η 1  and  η MN  may not be equal. For the Diffuse-then-Average (DtA) model, all items are stored until the probe time. Thus, the effective  σ MN 2  is 1/ N th  of  σ N 2 . ( c ) Relationship between  A  and log differences of diffusion constants for various set sizes and models.  σ 1 2  is independent from  A  and equal to  σ MN 2  under AtD.  σ N 2  is linear with  A  in log space with respect to ( σ 1 2 ) because log( σ N 2 )–log( σ 1 2 )= A* log( N ).  σ MN 2  is linear with  A . DC=Diffusion Constant. ( d ) Accumulation of noise for Perceived items presented sequentially. When the new (Late) point is added at time  T /2, the diffusion constant for previously presented items (Early) changes slightly because of the increased load. Early and Late items for set size  N  have encoding noise  η NE  and  η NL,  respectively, represented by  η (E/L).  The ‘effective Early’ trace shows the net gain in variance over time that would be expected when sampling the error only at a single time  T , as we did. ( e ) Accumulation of noise for Computed items in the Sequential condition for both models. The encoding noise for the mean of  N  items is represented by  η MNSeq . At time= T /2, the final point is averaged, causing a change in the diffusion constant. The ‘effective’ lines represent the measured change in variance over time one would measure when recording only at  T . Here  N =5,  A =0.5.",
+    "original_url": "https://cdn.elifesciences.org/articles/73610/elife-73610-fig2-v3.tif",
+    "sha256": "291f0f5168ae6f63703fc3fcb018ef48dc2981d4e79ea5950789646ce08f7a10",
+    "width": 2203,
+    "height": 1450
+  },
+  "73610:5": {
+    "path": "figures/elife_73610_fig5.png",
+    "title": "Strategy-dependent effects of working-memory limitations on human perceptual decision-making",
+    "authors": "Kyra Schapiro; Krešimir Josić; Zachary P Kilpatrick; Joshua I Gold",
+    "first": "Schapiro",
+    "year": "2022",
+    "doi": "10.7554/eLife.73610",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Schapiro et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 5. Comparison of model prediction to participant data for the Simultaneous condition. Each panel shows the empirical variance of participant errors (points and error bars are mean ± SEM data across participants) and model predictions (lines, based on the mean best-fitting parameters across participants for the given model) for the participants’ best fit by the given model (AtD or DtA) for the given condition, as labeled above each column. ( a–d ) Perceived blocks. ( e–h ) Computed blocks. AtD, Average-then-Diffuse; DtA, Diffuse-then-Average.",
+    "original_url": "https://cdn.elifesciences.org/articles/73610/elife-73610-fig5-v3.tif",
+    "sha256": "8ffc59ba06dbfe29ac33fdf080c79df5ecf224d41cd8a152744a499a6407b383",
+    "width": 2277,
+    "height": 1114
+  },
+  "80622:3": {
+    "path": "figures/elife_80622_fig3.png",
+    "title": "Plasticity-induced actin polymerization in the dendritic shaft regulates intracellular AMPA receptor trafficking",
+    "authors": "Victor C Wong; Patrick R Houlihan; Hui Liu; Deepika Walpita; Michael C DeSantis; Zhe Liu; Erin K O'Shea",
+    "first": "Wong",
+    "year": "2024",
+    "doi": "10.7554/eLife.80622",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Reduced motion of GluA1-HT vesicles during synaptic activity is mediated by actin polymerization in the dendritic shaft. ( A ) Images: representative Airyscan images of F-tractin-mNeongreen (Tractin) in a dendrite before treatment (Control) and during cLTP (cLTP). Scale bar, 5 μm. Graph: combined length of tractin filaments (Tractin length) before treatment and during cLTP. **p=0.0039 by Wilcoxon matched pairs test. Each dot represents the tractin length in an imaged region of a dendrite. n=9 dendrite regions (each from one neuronal culture). ( B ) Same as ( A ), but in the presence of Latrunculin A (LatA). Scale bar, 5 μm. n=8 dendrite regions. ( C ) Representative epifluorescence images of tractin immediately before sLTP (Pre-sLTP) and after sLTP (Post-sLTP). Blue dot represents the site of uncaging. Blue outline denotes area with increased tractin signal after sLTP stimulation. Green inset: magnified image of tractin around the uncaging site. Scale bars, 10 μm. ( D ) GluA1-HT vesicle trajectories immediately before sLTP (Pre-sLTP) and after sLTP (Post-sLTP) inside (IN) and outside (OUT) the region where there was increased actin polymerization after sLTP stimulation. Green inset: magnified image of trajectories around the uncaging site. For video, see  Figure 3—video 1 . ( E ) Line graphs of fractions of GluA1-HT vesicles exhibiting active transport inside (IN) and outside (OUT) regions of actin polymerization pre- and post-sLTP. **p=0.0039 by Wilcoxon matched pairs test. Each dot represents the fraction of vesicles exhibiting active transport inside or outside the region with actin polymerization for a single sLTP stimulation experiment. n=9 sLTP stimulation experiments (each experiment targets one spine on one neuron) where GluA1-HT vesicle motion in the dendrite is captured immediately before and after sLTP stimulation. ( F ) Distributions of diffusion coefficients for GluA1-HT vesicles in regions with actin polymerization (IN; blue) versus regions without actin polymerization (OUT; gray) after sLTP stimulation. Lines represent the probability density function of each histogram estimated by kernel density estimation (KDE). **p=0.0053 by Kolmogorov-Smirnov test. n=59–73 GluA1-HT vesicle trajectories pooled together from nine sLTP stimulation experiments. ( G ) Same as ( E ), but in the presence of LatA. IN region defined as the 30 μm region flanking the uncaging site (the average length of dendrite where actin polymerization occurs after sLTP;  Figure 3—figure supplement 3A ), as we do not detect actin polymerization in the presence of LatA. n=7 sLTP stimulation experiments. ( H ) Distributions of diffusion coefficients for GluA1-HT vesicles in regions with actin polymerization (IN; blue) versus GluA1-HT vesicles in similar sized regions in the presence of LatA (LatA IN; red). **p=0.0013 by Kolmogorov-Smirnov test. n=59–67 GluA1-HT vesicle trajectories pooled together from seven to nine sLTP stimulation experiments for each condition. ( I–J ) Bar graphs of adjusted vesicle counts inside (IN) or outside (OUT) regions with actin polymerization after sLTP ( I ) or sLTP in the presence of LatA ( J ). Error bars represent standard deviation. *p=0.0111 by Mann-Whitney test. n=7–9 sLTP stimulation experiments for each condition. Figure 3—source data 1. Related to  Figure 3 .",
+    "original_url": "https://cdn.elifesciences.org/articles/80622/elife-80622-fig3-v1.tif",
+    "sha256": "cdac43001c0e5293d313e326f76a17314fd0d7240f87736b7552fe02a7c9e9bd",
+    "width": 1786,
+    "height": 2584,
+    "display_path": "figures/elife_80622_fig3_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.43
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1786,
+      2584
+    ],
+    "display_sha256": "a67c1ce63d7c0ac214c90c9d9c1ae527436f658834fb938591331de6ec18af6a"
+  },
+  "80622:5": {
+    "path": "figures/elife_80622_fig5.png",
+    "title": "Plasticity-induced actin polymerization in the dendritic shaft regulates intracellular AMPA receptor trafficking",
+    "authors": "Victor C Wong; Patrick R Houlihan; Hui Liu; Deepika Walpita; Michael C DeSantis; Zhe Liu; Erin K O'Shea",
+    "first": "Wong",
+    "year": "2024",
+    "doi": "10.7554/eLife.80622",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 5. Increased GluA1-HT-SEP exocytosis triggered by synaptic activity is dependent on actin polymerization and myosin activity. ( A ) Tagging endogenous GluA1 with a HaloTag-pHluorin tandem fusion reporter (HT-SEP) to track GluA1 exocytosis events. Diagram: endogenous GluA1 tagged with HT-SEP (GluA1-HT-SEP, schematic of fusion on right) has low SEP fluorescence inside vesicles due to the low pH of the vesicle lumen. When a GluA1 exocytosis event occurs, SEP will be exposed to the neutral pH of the extracellular medium, resulting in increased fluorescence. Because receptors are temporarily spatially restricted during exocytosis, a spot with fluorescence can be observed during the event. Images: timelapse of two GluA1-HT-SEP exocytosis events (yellow circles). Scale bar, 5 μm. For video, see  Figure 5—video 1 . ( B ) Bar graph of GluA1-HT-SEP exocytosis in response to cLTP in the absence or presence of Latrunculin A (LatA) or pharmacological myosin inhibition (MI). Bars represent mean events per μm per min and standard deviation. Con vs cLTP, ****p<0.0001; cLTP vs cLTP +LatA, ****p<0.0001; cLTP vs cLTP +MI, ****p<0.0001. Significance was determined by Mann-Whitney test. n=12 timelapse imaging sequences (each timelapse captures GluA1-HT-SEP exocytosis in one region of dendrite in one neuronal culture) for each condition. ( C ) Line graphs of GluA1-HT-SEP exocytic events before and after sLTP (sLTP), sLTP in the presence of LatA (sLTP +LatA), and sLTP in the presence of MI (sLTP +MI). Proximal: GluA1-HT-SEP exocytic events within the 30 μm region surrounding the site of uncaging (i.e. the average length of dendrite where actin polymerization occurs near the site of uncaging after sLTP; see  Figure 3—figure supplement 3A ). sLTP, ***p=0.0005; sLTP +LatA, *p=0.0312; sLTP +MI, *p=0.0312. Distal: GluA1-HT-SEP exocytic events outside of the 30 μm region surrounding the site of uncaging. sLTP, *p=0.0430. Significance was determined by Wilcoxon matched pairs test. Each dot represents the number of exocytic events in the indicated region. n=6–12 sLTP stimulation experiments (each experiment targets one spine on one neuron) where GluA1-HT-SEP exocytosis in the dendrite is captured immediately before and after sLTP stimulation. Figure 5—source data 1. Related to  Figure 5 .",
+    "original_url": "https://cdn.elifesciences.org/articles/80622/elife-80622-fig5-v1.tif",
+    "sha256": "88f8642a33ab9c2f735eb6116c85a1f7082c99e5f053b3402c370bc7c054b26a",
+    "width": 1890,
+    "height": 2035,
+    "display_path": "figures/elife_80622_fig5_panels.png",
+    "panel_crop_box": [
+      0,
+      0.51,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1890,
+      2035
+    ],
+    "display_sha256": "1602404934439f0793ec2313588647b19484f9ca285bf8a48e4e2987316f0d6b"
+  },
+  "80661:2": {
+    "path": "figures/elife_80661_fig2.png",
+    "title": "Hippocampal place cell remapping occurs with memory storage of aversive experiences",
+    "authors": "Garrett J Blair; Changliang Guo; Shiyun Wang; Michael S Fanselow; Peyman Golshani; Daniel Aharoni; Hugh T Blair",
+    "first": "Blair",
+    "year": "2023",
+    "doi": "10.7554/eLife.80661",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Blair et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Between- versus within-session population coding. ( A ) Upper left: illustration of rat wearing MiniLFOV. Upper right: cell contours identified during pre-training (green) and training (red) sessions in one rat; regions of overlap between contours that recurred in both sessions appear yellow. Lower left: target position of GRIN lens over the CA1 layer. Lower right: fluorescence image of lens position from the example rat. ( B ) Top: rastergram shows normalized calcium fluorescence traces of place cells (one per row, sorted by preferred firing location and direction) during several traversals of the short path during an example session. Bottom: rat’s position (black) with running epochs colored by direction of travel (‘LR,’ left to right, in blue; ‘RL,’ right to left, in red). ( C ) Individual rat data (lines and symbols) and session means (bars) for the number of subsampled beeline trials (left) and median beeline running speed (right) during pre-training ( pre ) and training ( trn ) sessions; subsampled beeline trial counts were lower for  trn  than  pre  sessions because only trials from the first 10 min of  trn  (prior to shock delivery) were included; running speeds were lower for  trn  than  pre  sessions because scopolamine (SCP) reduced running speeds, resulting in preferential subsampling of slower beeline trials from drug-free (DF) sessions by the algorithm that minimized running speed differences between training conditions (see ‘Methods’). ( D ) Bar/line graphs show number of place cells imaged per rat (left) and percentage of all imaged cells classified as place cells (right) during  pre  and  trn  sessions. ( E ) Pie graphs show percentages of place cells imaged per condition (‘n’ gives total number summed over rats) that were spatially tuned in the LR only, RL only, or both LR and RL running directions. ( F ) Tuning curve properties of place cells imaged during  pre  and  trn  sessions. ( G ) Place cell recurrence ratios (RR) between  pre  and  trn  sessions. ( H ) Top: diagram shows timeline for  pre  and  trn  sessions given 48 hr apart. Bottom :  tuning curve heatmaps for recurring place cells (from all rats combined, co-sorted by peak locations from the  trn1  session) that were spatially tuned in the LR (top) or RL (bottom) running directions; separate heatmaps are shown for  pre ,  trn  part 1 ( trn1 ), and  trn  part 2 ( trn2 ) sessions. ( I ) Between- (B) and within- (W) session population vector correlation matrices are shown for DF and SCP shock training conditions; middle bar graph shows median place tuning stability (S) for each rat (lines and symbols) and mean over rats (bars) for B and W heatmap pairs. Asterisks in ( C ) and ( D ) denote significance for main effect of DF vs. SCP or uncorrected  t -test comparing  pre  vs.  trn  sessions; asterisks in ( E ) and ( G ) denote significance for uncorrected  t -tests. †p<0.1; *p<0.05; **p<0.01; ***p<0.001.",
+    "original_url": "https://cdn.elifesciences.org/articles/80661/elife-80661-fig2-v2.tif",
+    "sha256": "67d008659afa06caf4d7d3a893161584113b0713dda41ae5c7e47a5a674fa1e8",
+    "width": 2067,
+    "height": 1451,
+    "display_path": "figures/elife_80661_fig2_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      0.455,
+      0.31
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2067,
+      1451
+    ],
+    "display_sha256": "8b6a30b664c99332f2308ede5e812d52f6fe3258cdb9224a3ba08826f04dad76"
+  },
+  "80661:4": {
+    "path": "figures/elife_80661_fig4.png",
+    "title": "Hippocampal place cell remapping occurs with memory storage of aversive experiences",
+    "authors": "Garrett J Blair; Changliang Guo; Shiyun Wang; Michael S Fanselow; Peyman Golshani; Daniel Aharoni; Hugh T Blair",
+    "first": "Blair",
+    "year": "2023",
+    "doi": "10.7554/eLife.80661",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Blair et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Shock-evoked responses of place cells. ( A ) Left column: frequency distribution of shock-responsive place cell percentages in each rat. Middle column: population-averaged Af/s rates (from all rats combined) for shock-responsive versus non shock-responsive place cells. Right column: spatial distribution of place field peak locations during the training session, prior to grid electrification; x-axis shows distance traveled between the start (left) and end (right) of the short path in the current running direction (LR or RL). ( B ) Heatmaps (LR and RL tuning curves combined) are plotted for shock-responsive place cells in the drug-free (top) versus scopolamine (bottom) conditions during pre- (left) and post- (right) training sessions (rows are co-sorted on peaks from the pre-training session, columns are sorted so that the rat’s running direction goes from left to right for both LR and RL tuning curves); P matrices show pre- vs. post-extinction population vector correlations for shocks given drug-free (top) or on scopolamine (bottom); line graphs show that signed p-values (y-axis, log scale) fall below .01 at center track positions where drug-free shocks induced more remapping than shocks on scopolamine. ( C ) Same as ( B ) but for shock non-responsive place cells. ****p<0.0001.",
+    "original_url": "https://cdn.elifesciences.org/articles/80661/elife-80661-fig4-v2.tif",
+    "sha256": "0fa430f990755f98699e17340dfa4a3802ba0e7c7d679434d738997a1223c32d",
+    "width": 1027,
+    "height": 2222
+  },
+  "83176:2": {
+    "path": "figures/elife_83176_fig2.png",
+    "title": "Microglial motility is modulated by neuronal activity and correlates with dendritic spine plasticity in the hippocampus of awake mice",
+    "authors": "Felix Christopher Nebeling; Stefanie Poll; Lena Christine Justus; Julia Steffen; Kevin Keppler; Manuel Mittag; Martin Fuhrmann",
+    "first": "Nebeling",
+    "year": "2023",
+    "doi": "10.7554/eLife.83176",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Nebeling et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Increasing or decreasing CA3 input to CA1 reciprocally changes microglial motility. ( a, e ) Adeno-associated virus (AAV) injections into the CA3 region of the hippocampus with CamKII-driven Cre-recombinase expression in neurons. This allows for the expression of loxP-flanked hM4D(Gi) ( a ) or hM3D(Gq) ( e ) under human synapsin1 promoter in CA3 neurons. ( b, c ) Representative images of hM4D(Gi) expression in the hippocampus ( b ), zoom on CA3 ( c ). ( d ) Quantification of hM4D(Gi)-DREADD (designer receptor exclusively activated by designer drug) transfected cells, on average 74% of cells in CA3 were co-expressing NeuN and mCherry/hM4D(Gi) (n=4 mice, 2410 cells were counted in total). ( f, g ) Representative images of hM3D(Gq) expression in the hippocampus ( f ), zoom on CA3 ( g ). ( h ) Quantification of hM3D(Gq)-DREADD transfected cells, on average 68% of cells in CA3 were co-expressing NeuN and mCherry/hM3D(Gq) (n=4 mice, 1749 cells were counted in total). ( i ) The dorsal CA1 region (stratum radiatum [SR]) of the same mice was imaged awake twice with a 1-week interval. Imaging started 40 min after i.p. injection of either vehicle (dimethyl sulfoxide [DMSO]) or clozapine N-oxide (CNO). ( j ) Exemplary images of microglia fine process turnover after vehicle and CNO injections under both hM4D(Gi) and hM3D(Gq) conditions in CA1, SR. ( k ) Microglia fine process turnover rate of DMSO- and CNO-treated mice that were injected with an inhibitory DREADD, hM4D(Gi) (n=4 mice, unpaired t-test, two-tailed, p=0.0326). ( l ) Microglia fine process turnover rate of DMSO- and CNO-treated mice that were injected with an excitatory DREADD, hM3D(Gq) (n=4 mice, unpaired t-test, two-tailed, p=0.0167). Error bars: SEM. Scale bars: ( j ) 5 μm, ( c,g ) 50 µm, ( b,f ) 500 μm, 2 μm; *p<0.05, ***p<0.001.",
+    "original_url": "https://cdn.elifesciences.org/articles/83176/elife-83176-fig2-v2.tif",
+    "sha256": "1dfe0954cf1000a0b95df47194d72a5b10b26bdcd889b75787427866db7f6ae1",
+    "width": 2500,
+    "height": 1399
+  },
+  "83176:4": {
+    "path": "figures/elife_83176_fig4.png",
+    "title": "Microglial motility is modulated by neuronal activity and correlates with dendritic spine plasticity in the hippocampus of awake mice",
+    "authors": "Felix Christopher Nebeling; Stefanie Poll; Lena Christine Justus; Julia Steffen; Kevin Keppler; Manuel Mittag; Martin Fuhrmann",
+    "first": "Nebeling",
+    "year": "2023",
+    "doi": "10.7554/eLife.83176",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Nebeling et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Microglia contact frequency is associated with spine stability in the hippocampus. ( a ) Schematic illustrating the analysis between microglia contacts and spine stability in stratum radiatum of dorsal CA1: direct spine contacts (circle) can lead to a stable (blue arrow) or lost spine (red arrow) as analyzed 2 days later, whereas contacts of the dendritic shaft (dashed circle) can lead to a gained spine (green arrow) or no change/no spine gain (orange). ( b ) The same mice were imaged four times after implantation of the hippocampal window. First in anesthesia and 48 hr later two visualize potential changes of dendritc spines and then again under awake conditions, followed by relocalization 48 hr later. ( c ) Overview image of a dendrite in stratum radiatum (SR) at two consecutive time points 48 hr apart. ( d ) Zoom image from ( c ) illustrating a dendritic segment with distinctive dendritic spines. Note the lost spine after 2 days (red arrow). ( e ) Time-lapse of microglia processes (green) interacting with the dendrite and spines (magenta) in the hippocampus of an awake CX3CR1-GFP::thy-1-YFP-H mouse; the circle mark individual microglia contacts of spines. ( f–h ) Analog illustration as depicted in c–e for a gained spine example (green arrow in g). ( i, j ) Direct microglia contacts ( h ) and contacts along the dendritic shaft ( i ) in anesthetized vs. awake mice paired t-test ( h, i ); p=0.0105 ( h ), p=0.1452 ( i ). ( k, l ) Contact rate in anesthesia ( j ) and awake ( k ) at dendritic spines that are either stable (blue) or lost (red) and contacts at the dendritic shaft where either a spine was gained (green) after 48 hr or at random locations along the dendrite where no spine gain was detectable (orange). One-way ANOVA with Sidak’s multiple comparison test ( j, k ); F(3,12)=80.8 ( j ) and F(3,12)=73.91 ( k ); spine contacts averaged over n=4 mice ( h–k ); *p<0.05, **p<0.01, ***p<0.001. Error bars: SEM.",
+    "original_url": "https://cdn.elifesciences.org/articles/83176/elife-83176-fig4-v2.tif",
+    "sha256": "b7fa22d8be97a3298df2490c614fe8ed0c84efc3c2e46503aa8ce74fa06964e1",
+    "width": 2466,
+    "height": 3318
+  },
+  "83897:1": {
+    "path": "figures/elife_83897_fig1.png",
+    "title": "Cholecystokinin facilitates motor skill learning by modulating neuroplasticity in the motor cortex",
+    "authors": "Hao Li; Jingyu Feng; Mengying Chen; Min Xin; Xi Chen; Wenhao Liu; Liping Wang; Kuan Hong Wang; Jufang He",
+    "first": "Li",
+    "year": "2024",
+    "doi": "10.7554/eLife.83897",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Li et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Single pellet reaching task for  Cck −/−  and WT mice. ( A ) Task schematic. A mouse reaches for the food pellet through the slit. ( B ) Procedure. Three days before training, the mouse was placed in the chamber and allowed to acclimate to the environment and determine the dominant hand. Throughout the procedure, the mouse was food restricted, keeping the body weight at approximately 90% of the original weight. ( C ) Success rate of wildtype (WT, C57BL/6) ( N  = 10) and  Cck −/−  ( N  = 8) mice performing the single pellet reaching task. *p < 0.05, **p < 0.01. Two-way mixed analysis of variance (ANOVA), post hoc comparison between two groups. ( D ) Representative trajectories of WT and  Cck −/−  mice at Days 1, 3, and 6. ( E ) The pairwise Hausdorff distances of the trajectories were calculated to compare the variation in the trajectories of WT ( N  = 10) and Cck −/−  mice ( N  = 8). Left, blue and red solid square represent for average of the Hausdorff distance of WT and  Cck −/−  mice, respectively. **p < 0.01, N.S. means not significant. Paired  t -test. Right, Hausdorff distance changes with 3-day training of WT and  Cck −/−  mice. ***p < 0.001, N.S. means not significant.  t -test. ( F ) Diagram shows the task phases (reach, grasp, and retrieval) and different reaching results (miss, no-grasp, drop, and success). ( G ) Detailed reaching results for WT and Cck −/−  mice on experimental Days 1 and 6. *p < 0.05; paired  t -test and  t -test. ( H ) Normalized field excitatory postsynaptic potential (EPSP) amplitude before and after high-frequency stimulation (HFS) for both WT ( N  = 6,  n  = 21) and  Cck −/−  mice ( N  = 3,  n  = 7). ( I ) The average normalized field excitatory postsynaptic potential (fEPSP) amplitude 10 min before HFS (−10 to 0 min, before) and 10 min after HFS (50 to 60 min, after) in the two groups of mice. ***p < 0.001, N.S. means not significant. Two-way mixed ANOVA, pairwise comparison.",
+    "original_url": "https://cdn.elifesciences.org/articles/83897/elife-83897-fig1-v2.tif",
+    "sha256": "b8f664324373b5479bdd10cd3b6094ed7d4f44bdaf89c2ba17ffa7329e276a86",
+    "width": 2199,
+    "height": 3061,
+    "display_path": "figures/elife_83897_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.41
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2199,
+      3061
+    ],
+    "display_sha256": "4328c1b2b7d0c2bb4583ea4b8969ca4ff06167042c6c58902c25d49e301faa90"
+  },
+  "83897:4": {
+    "path": "figures/elife_83897_fig4.png",
+    "title": "Cholecystokinin facilitates motor skill learning by modulating neuroplasticity in the motor cortex",
+    "authors": "Hao Li; Jingyu Feng; Mengying Chen; Min Xin; Xi Chen; Wenhao Liu; Liping Wang; Kuan Hong Wang; Jufang He",
+    "first": "Li",
+    "year": "2024",
+    "doi": "10.7554/eLife.83897",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Li et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Labeling of cholecystokinin (CCK) neuron projections from the rhinal cortex (RC) to the MC. ( A ) Coronal section showing the virus injection site. The Cre-dependent AAV-hsyn-DIO-mCherry virus was injected into  Cck-Cre  mice. ( B ) Effective labeling of CCK neuron fibers in the MC. ( C ) Cre-dependent retrograde AAV virus injection site in the MC of the  Cck-Cre  mouse. ( D ) Continuous coronal brain sections showing EYFP in the lateral EC. The numbers (mm) indicate the position of the sections relative to the bregma. ( E ) GAD67 staining did not merge with the retrograde tracking CCK-positive neurons in the EC and CaMKII staining merged with the signal of retrograde tracking CCK neurons EC projecting. Arrowhead indicate the positions of CCK neurons. ( F ) Percentage of retrogradely labeled neurons merged with CamKII and GAD67 ( N  = 4, a total of 140 neurons for CamKII and 136 for GAD67). Scale bars represent 1000 µm in ( A ), ( B ), ( C ), and ( D ) and 100 µm in ( E ).",
+    "original_url": "https://cdn.elifesciences.org/articles/83897/elife-83897-fig4-v2.tif",
+    "sha256": "ac627f00231f728bea58aad735adf3fcaf3b6cbbe1e0d1d0081bae287e670ee6",
+    "width": 2199,
+    "height": 2580
+  },
+  "92860:1": {
+    "path": "figures/elife_92860_fig1.png",
+    "title": "Natural forgetting reversibly modulates engram expression",
+    "authors": "James D O'Leary; Rasmus Bruckner; Livia Autore; Tomás J Ryan",
+    "first": "O'Leary",
+    "year": "2024",
+    "doi": "10.7554/eLife.92860",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "O'Leary et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Natural forgetting of an object memory. ( a ) Object recognition paradigm. ( b ) Object memory test for recall at 24 hr or 2 weeks. ( c ) Discrimination index. ( d ) Schematic of Fos-tTA engram labeling system. ( e ) Representative image of engram labeling within the dentate gyrus. ( f ) Engram labeling of object memory and c-Fos detection following recall. ( g ) Object memory test for recall at 24 hr or 2 weeks. ( h ) Discrimination index. ( i ) Correlation between discrimination index and engram reactivation. ( j ) Representative image eYFP +  cells, c-Fos +  cells and merged eYFP +  and c-Fos +  for both 24 hr and 2 week test. ( k ) Engram cells. ( l ) c-Fos +  cells. ( m ) Engram reactivation. ( n ) Engram spine density average per mouse. ( o ) Engram spine volume average per dendrite. ( p ) Representative image of engram dendrite for morphological analysis. Bar graphs indicate average values in  n =4–11 per group (**p<0.01, ***p<0.001). Data graphed as means ± SEM. Scale bar 100 µm. Panel a was created with  BioRender.com . Panel f was created with  BioRender.com .",
+    "original_url": "https://cdn.elifesciences.org/articles/92860/elife-92860-fig1-v1.tif",
+    "sha256": "38e4513e4d2616b93e003a2f95b91c88e8ea57a8e840ef64b0e6da2e1f1b28a2",
+    "width": 2205,
+    "height": 2658
+  },
+  "92860:4": {
+    "path": "figures/elife_92860_fig4.png",
+    "title": "Natural forgetting reversibly modulates engram expression",
+    "authors": "James D O'Leary; Rasmus Bruckner; Livia Autore; Tomás J Ryan",
+    "first": "O'Leary",
+    "year": "2024",
+    "doi": "10.7554/eLife.92860",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "O'Leary et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Exposure to the original stimuli facilities memory recall. ( a ) Behavioral timeline for a brief reminder exposure. ( b ) Object memory test. ( c ) Discrimination index. ( d ) Engram labeling within the dentate gyrus. ( e ) Engram cells. ( f ) c-Fos +  cells. ( g ) Engram reactivation. Bar graphs indicate average values in  n =5–11 per group (*p<0.05, **p<0.01, ***p<0.001). Data graphed as means ± SEM. Scale bars 100 µm. Panel a was created with  BioRender.com.",
+    "original_url": "https://cdn.elifesciences.org/articles/92860/elife-92860-fig4-v1.tif",
+    "sha256": "6a656efc53486a4e5ee454833bb3e4c6e869f9abc5dbf8ef1f6a0c2ee789454c",
+    "width": 2205,
+    "height": 1850,
+    "display_path": "figures/elife_92860_fig4_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.53
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2205,
+      1850
+    ],
+    "display_sha256": "8b8d6a71d5642788869fc1a67879b8dfcca6743a1b32c6aedab06752854749ce"
+  }
+}

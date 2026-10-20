@@ -1,0 +1,626 @@
+[
+  {
+    "title": "Ingestion corrects deficits and anticipates their replacement",
+    "body": [
+      "Homeostasis is the regulation of internal conditions within a range that permits cells to work. Drinking replaces water, and eating supplies energy and materials. A regulatory system detects a change, produces a corrective response, and receives feedback about the result. Negative feedback reduces the corrective response as the original disturbance becomes smaller.",
+      "Ingestion creates a timing problem because swallowing does not immediately deliver water or nutrients to the circulation. The mouth, digestive tract, and brain provide advance information about what has been consumed. These signals can reduce drinking or eating while absorption is still underway, limiting the overshoot that would occur if behavior waited only for blood chemistry.",
+      "A regulated variable is different from the behavior used to regulate it. Blood osmolality measures the concentration of dissolved particles, whereas licking measures an action. A thirsty animal must find water, approach it, and coordinate swallowing. Different sensory and motor pathways can change these actions even when the underlying physiological need remains present."
+    ]
+  },
+  {
+    "title": "Water shifts between compartments by osmosis",
+    "body": [
+      "Intracellular fluid is water inside cells, while extracellular fluid lies outside them. Extracellular fluid includes the liquid between cells and blood plasma. Cell membranes allow water to move between these compartments. When the concentration of particles outside a cell rises, water leaves the cell by osmosis, reducing its volume until the forces driving movement come closer to balance.",
+      "Losing relatively pure water raises the concentration of the remaining body fluids. Eating a salty meal can also increase extracellular concentration because absorbed sodium draws water across compartments. Both disturbances can shrink cells without requiring a large initial loss of blood. Neurons sensitive to these changes provide information used to increase water seeking and conserve water.",
+      "Water balance also depends on the kidneys, which vary how much water returns from filtered fluid to the blood. Behavioral replacement and renal conservation act together. Drinking increases water entering the body, while conservation reduces water leaving it. Neither action makes the other unnecessary, because the rate of loss and the availability of water can change independently."
+    ]
+  },
+  {
+    "title": "Osmotic thirst begins when concentrated fluid changes cells",
+    "body": [
+      "Osmotic thirst occurs when extracellular fluid becomes too concentrated relative to the body’s water supply. Osmosensitive neurons respond to changes in their surrounding fluid and cellular volume. Their electrical activity reaches circuits that generate drinking and hormone release. The signal therefore starts with a physical and chemical disturbance rather than with the sight of an empty water bottle.",
+      "An osmosensitive cell can convert shrinkage into an electrical response through proteins in its membrane and associated cellular structures. Changes in ion movement alter membrane voltage and firing. The direction and mechanism depend on the cell population being measured. Identifying a thirst-related neuron requires testing its responses to physiological challenges as well as its location.",
+      "Drinking movements themselves require sensory feedback from the mouth and tongue. Recorded tongue trajectories reveal the coordinated actions that deliver fluid into the mouth. These movements are the output of a drinking episode, while osmotic sensing concerns the need that can motivate the episode. A movement measurement and a blood-concentration measurement therefore answer different biological questions."
+    ]
+  },
+  {
+    "title": "Activating one forebrain population can drive drinking",
+    "body": [
+      "A mouse study targeted excitatory neurons in the subfornical organ, a small forebrain structure that monitors circulating signals. Researchers used a genetic control sequence associated with CaMKII to express a light-sensitive protein and characterized the labeled population in tissue. This allowed selected cells to be activated while the surrounding brain remained available to generate behavior.",
+      "The investigators used optogenetics to activate selected cells with light-sensitive membrane proteins. Stimulating the excitatory subfornical population caused water-sated mice to drink. The response occurred without first depriving the animal of water. Thus, experimentally increasing activity in this population could engage the behavioral machinery for water consumption even when ordinary fluid need was low.",
+      "The induced behavior was directed toward water rather than indiscriminate ingestion of every available substance. Molecular identity, physiological responsiveness, and the effect of stimulation supplied different pieces of evidence. Together they identified a particular forebrain population capable of promoting drinking, rather than assigning the same function to every neuron within the surrounding structure."
+    ]
+  },
+  {
+    "title": "A neighboring inhibitory population can suppress drinking",
+    "body": [
+      "The same subfornical-organ study identified neurons expressing VGAT, a transporter used to package the inhibitory transmitter GABA into vesicles. These cells differed from the excitatory population that promoted water intake. Releasing GABA can reduce the activity of receiving neurons, allowing a local circuit to oppose rather than merely duplicate an ingestive response.",
+      "Optogenetic activation of the inhibitory population suppressed drinking in water-deprived mice. The manipulation therefore opposed an ongoing physiological drive instead of simply failing to produce drinking in a sated animal. Activating different cells in the same small structure generated opposite behavioral effects, demonstrating why anatomical location alone does not specify the function of a neural population.",
+      "Drinking can also be interrupted downstream, where circuits coordinate licking and swallowing. A manipulation that stops licking need not restore water balance or eliminate thirst. Comparing forebrain motivational populations with midbrain motor-control pathways helps separate signals that regulate the drive to obtain fluid from signals that permit the mouth to carry out the action."
+    ]
+  },
+  {
+    "title": "Low blood volume recruits signals that promote drinking",
+    "body": [
+      "Volumetric thirst follows a reduction in circulating fluid volume. Blood loss, vomiting, and diarrhea can reduce the fluid available to maintain circulation. Stretch-sensitive receptors in the cardiovascular system detect changes in filling and pressure. Signals from the kidneys also initiate a hormonal cascade that increases the availability of angiotensin II in the circulation.",
+      "Angiotensin II is a peptide that helps defend blood pressure and promotes drinking. It acts at brain sites able to sample circulating substances, including the subfornical organ. The brain therefore receives information about fluid volume through a combination of neural afferents and blood-borne hormones. This route differs from sensing extracellular concentration through cell shrinkage.",
+      "Volume loss may remove both sodium and water, while evaporation can remove proportionally more water. These disturbances need different replacement strategies. A desire for salt can accompany volume depletion, whereas adding more salt to an already concentrated extracellular fluid can worsen osmotic imbalance. The composition of the lost fluid determines which corrective actions will be useful."
+    ]
+  },
+  {
+    "title": "Preoptic inhibition reaches thirst-driving neurons",
+    "body": [
+      "The median preoptic nucleus lies near other fluid-regulating structures along the anterior wall of the third ventricle. A mouse study identified GABAergic neurons there that express the glucagon-like peptide 1 receptor, or GLP1R. Receptor expression served as a way to identify this population; it did not mean that every GLP1R-expressing neuron throughout the brain had the same function.",
+      "Anatomical tracing showed that these preoptic neurons send axons to the subfornical organ. Recording from receiving cells revealed direct inhibitory input. When an activated terminal releases GABA, the receiving thirst-driving neuron becomes less likely to fire. This establishes a route by which activity in a preoptic population can rapidly reduce the output of a forebrain thirst circuit.",
+      "The study also placed excitatory populations within a hierarchy rather than treating the fluid-regulating structures as interchangeable sensors. Median preoptic neurons were necessary for integrating signals from thirst-driving subfornical cells. Parallel excitatory and inhibitory connections allowed the circuit to combine an internal need for fluid with information generated by the act of consuming it."
+    ]
+  },
+  {
+    "title": "Drinking rapidly activates neurons that limit further intake",
+    "body": [
+      "In the preoptic-circuit study, calcium recordings followed GLP1R-expressing neurons while mice consumed fluid. Calcium-sensitive fluorescence provided an indirect readout of population activity. The response rose rapidly around drinking and tracked the onset and ending of ingestion. It appeared while fluid was being consumed, before complete absorption could restore the body’s circulating water.",
+      "These preoptic responses were associated with ingestion of fluids rather than solid food. This distinction allowed the investigators to identify a signal related to drinking instead of a general response to any movement of the mouth. The population could send rapid inhibitory feedback to subfornical thirst neurons while the animal was still taking in fluid.",
+      "Loss-of-function manipulations of the GLP1R-expressing preoptic neurons produced excessive drinking. Removing part of the inhibitory route therefore changed the amount consumed, not simply the appearance of an activity trace. The normal circuit helps limit intake using immediate information about ingestion, supplementing slower signals that report changes in circulating fluid after absorption."
+    ]
+  },
+  {
+    "title": "Forebrain fluid sensors use specialized vascular access",
+    "body": [
+      "The lamina terminalis includes the subfornical organ, the organum vasculosum of the lamina terminalis, and the median preoptic region. Their connections combine blood chemistry with information about ingestion and circulation. Some of these structures are circumventricular organs, specialized regions where vascular properties differ from the tight barrier found across much of the brain.",
+      "The blood–brain barrier normally restricts movement of many circulating substances into neural tissue. At specialized sensory sites, more permissive vessels give nearby cells access to blood-borne signals. This access does not make every vessel equally permeable. Local vascular organization and the properties of individual cells influence which signals can reach the neural populations that regulate fluid balance.",
+      "After a motivational signal initiates drinking, separate pathways coordinate the tongue, jaw, and swallowing muscles. Sensory feedback reports the position and contact of these moving structures. A thirsty animal can therefore retain the need for water while a disruption in motor coordination reduces consumption. Measuring the behavior requires distinguishing successful fluid intake from the presence of licking movements alone."
+    ]
+  },
+  {
+    "title": "Subfornical vessels contain different barrier-like properties",
+    "body": [
+      "A study of mouse subfornical tissue examined the endothelial cells that line blood vessels. Claudin-5, a protein associated with tight junctions between neighboring cells, was compared with markers of more permeable vessels. Cleared-tissue microscopy showed that the subfornical organ contains a mixture of vascular properties rather than a uniformly open interface with the circulation.",
+      "Tight junctions restrict movement between endothelial cells. Other vessels contain small openings called fenestrations that facilitate exchange. The investigators visualized these features and their molecular markers using complementary imaging methods. Such measurements identify the physical routes by which circulating information can approach neurons, adding vascular organization to the anatomy of a fluid-sensing region.",
+      "Low activity of the Wnt–beta-catenin signaling pathway distinguished these specialized vessels from many vessels elsewhere in the brain. This pathway changes gene regulation in endothelial cells. Experimentally increasing its activity offered a way to test whether the permissive properties of the subfornical vasculature could be altered, rather than assuming that those properties were permanently fixed."
+    ]
+  },
+  {
+    "title": "Endothelial signaling can reduce vascular permeability",
+    "body": [
+      "The vascular study increased beta-catenin signaling selectively in endothelial cells. The manipulation increased barrier-associated features and reduced markers associated with permeable vessels. Because the targeted cells formed the vascular lining, the experiment altered the interface between blood and neural tissue rather than directly stimulating thirst neurons with light.",
+      "The researchers injected a fluorescent tracer into the circulation and measured its movement outside the vessels. Less tracer entered the surrounding subfornical tissue after endothelial signaling was increased. This provided a functional permeability measurement alongside the images of junction proteins. A change in a molecular marker was therefore accompanied by a change in actual passage from blood to tissue.",
+      "Water restriction still engaged subfornical neurons, and tightening the vessels altered their measured activation. The result shows that vascular access can influence the local neural response during a fluid challenge. It does not make permeability itself equivalent to thirst: tracer leakage, neuronal activation, and drinking remain separate measurements of different steps in the system."
+    ]
+  },
+  {
+    "title": "Vasopressin conserves water while drinking replaces it",
+    "body": [
+      "Vasopressin, also called antidiuretic hormone, is produced by neurons in the hypothalamus and released into the circulation through the posterior pituitary. In the kidney, it increases water reabsorption from the collecting ducts. More filtered water returns to the blood, and urine becomes more concentrated, reducing the rate at which the body loses water.",
+      "The hormone-producing neurons receive information about osmotic and circulatory conditions. High extracellular concentration can recruit conservation together with drinking. These outputs act at different organs and on different timescales. A person may conserve water when none is available to drink, while drinking can begin before a large change in circulating hormone concentration has occurred.",
+      "Vasopressin activity also responds to signals that precede the eventual disturbance of blood chemistry. Eating can predict an upcoming need for water, while drinking predicts its replacement. Advance regulation can therefore adjust renal conservation in the direction appropriate to the ongoing behavior, rather than waiting until a full osmotic disturbance has already developed."
+    ]
+  },
+  {
+    "title": "Preoptic circuits help anticipate water replacement",
+    "body": [
+      "A mouse study recorded calcium activity from vasopressin neurons in the supraoptic nucleus while animals encountered and drank water. The researchers also temporarily inhibited neurons in the median preoptic and adjacent lamina-terminalis regions. This combined measurement and intervention tested whether the forebrain route contributed to rapid responses that precede changes in absorbed water.",
+      "Inhibiting the median preoptic and adjacent region disrupted components of the vasopressin-neuron response around water presentation and drinking. The effect differed from inhibiting the subfornical organ alone. These comparisons showed that anatomically neighboring structures make distinguishable contributions to advance regulation instead of providing completely redundant copies of the same signal.",
+      "The study separated responses before ingestion from those aligned to drinking onset. Seeing or approaching a familiar water source can provide predictive information, while actual swallowing provides a different signal. Their timing helps identify which part of the circuit responds to learned expectation and which part receives information generated by ingestion itself."
+    ]
+  },
+  {
+    "title": "Eating and drinking use distinct hormone-control routes",
+    "body": [
+      "The vasopressin study also examined responses when mice began eating. Inhibition of the median preoptic and adjacent region did not remove the food-related response in the same way that it altered water-related regulation. The comparison identified a distinction between two behaviors that both involve the mouth but predict different consequences for fluid balance.",
+      "Food-related advance regulation involved neurons in the arcuate hypothalamus that were distinct from the familiar AgRP and POMC feeding populations. These cells contributed to the increase in vasopressin-neuron activity associated with eating. A signal from one hypothalamic region could therefore prepare another population to conserve water as dry food was consumed.",
+      "Circulatory challenges recruited additional pathways, including brainstem inputs to hypothalamic hormone neurons. The relevant route depended on whether the disturbance involved eating, drinking, or low blood pressure. Hormonal water conservation thus receives multiple forms of information, with identifiable anatomical pathways contributing to specific physiological and behavioral conditions."
+    ]
+  },
+  {
+    "title": "Satiation precedes full correction of body fluids",
+    "body": [
+      "Satiation is the process that reduces ongoing ingestion as consumption proceeds. During drinking, signals from the mouth can report that fluid has entered before the blood has become less concentrated. Without these early signals, an animal could continue drinking throughout the absorption delay and take in more water than its initial deficit required.",
+      "Advance signals must still be checked against the properties of what was swallowed. A small sip does not replace a large deficit, and salty fluid differs from fresh water. Information from the gastrointestinal tract can modify the first response generated by oral contact. The system therefore updates its estimate of replacement as fluid moves through successive stages of ingestion.",
+      "Comparative observations in mudskippers show that terrestrial eating and drying can provoke rapid water-related behavior before systemic dehydration is measurable. These fish also use water to moisten the skin. Their actions demonstrate a different solution to fluid regulation: migration into water and external wetting can address immediate sensory challenges as well as internal water replacement."
+    ]
+  },
+  {
+    "title": "Thirst-neuron activity falls before the blood is corrected",
+    "body": [
+      "A study followed subfornical neurons expressing nitric oxide synthase while mice encountered food and water. A calcium-sensitive indicator reported changes in the activity of the identified population. After water deprivation, these neurons were active, but their signal fell rapidly when the mice began drinking, earlier than absorbed water could fully correct the circulating disturbance.",
+      "The investigators manipulated the neurons as well as recording them. Inhibiting the population reduced drinking under conditions that would ordinarily produce water intake. The rapid natural decline was therefore measured in cells that also contributed causally to the behavior. Their activity represented more than a passive reflection of fluid entering the bloodstream after absorption.",
+      "Eating produced a response in the opposite direction, consistent with an upcoming requirement for water. Food and water could therefore change the neural estimate of need before their systemic consequences were complete. The same forebrain population received information about the existing internal condition and information generated by the behavior that would change it."
+    ]
+  },
+  {
+    "title": "The gut reports whether swallowed fluid will replace water",
+    "body": [
+      "A later mouse study delivered fluids of different osmolarity into the stomach while recording thirst-related neurons. Delivering fluid directly helped separate gastrointestinal signals from sensory events in the mouth. Fresh water and concentrated saline produced different responses, showing that the gut conveyed information about fluid composition rather than simply detecting that the stomach contained something.",
+      "Gastrointestinal water rapidly inhibited subfornical thirst-neuron activity, whereas hypertonic saline drove the response in the opposite direction. These changes occurred before the full blood-borne effect of absorption. The brain could therefore revise an early estimate based on swallowing by using a subsequent signal about the water and salt content entering the digestive tract.",
+      "The study implicated the vagus nerve in transmitting this gastrointestinal information and showed integration with oral and blood-related signals. Individual recorded neurons combined these inputs rather than being limited to a single source. Such integration can explain why a drink initially reduces thirst but fails to sustain satiation when its composition will not correct the original fluid deficit."
+    ]
+  },
+  {
+    "title": "Metabolism moves fuels between use and storage",
+    "body": [
+      "Metabolism is the set of chemical reactions that obtain energy, build molecules, and maintain the body. A meal supplies carbohydrates, fats, and proteins, which digestion breaks into smaller components. Cells use some of these materials immediately and store others. Between meals, stored materials are released so that ongoing activity can continue without continuous eating.",
+      "The liver stores glucose as glycogen, a branched carbohydrate that can be broken down relatively quickly. Adipose tissue stores triglycerides, molecules containing fatty acids attached to glycerol. These stores differ in capacity and in the routes by which their components reach other tissues. A change in food availability therefore recruits coordinated changes in several organs.",
+      "Insulin and glucagon help organize these transitions. Both are secreted by the pancreas, but they have different effects on fuel handling. Insulin generally favors uptake and storage after a meal, while glucagon promotes hepatic glucose production during fasting. Neural signals and other hormones modify this coordination as activity, temperature, and the duration without food change."
+    ]
+  },
+  {
+    "title": "Fasting mobilizes stored fuel while defending blood glucose",
+    "body": [
+      "During fasting, the intestine supplies less newly absorbed nutrient to the blood. Pancreatic insulin secretion falls, while glucagon helps the liver break down glycogen and release glucose. The liver can also make glucose from substrates such as glycerol and certain amino acids. These processes sustain glucose availability when direct delivery from a recent meal declines.",
+      "Adipose tissue releases fatty acids and glycerol as triglycerides are broken down. Many tissues can use fatty acids, reducing their demand for glucose. The adult brain ordinarily relies heavily on glucose, but during prolonged fasting it can also use ketone bodies produced by the liver. Its fuel supply therefore changes with the duration and physiological conditions of deprivation.",
+      "Blood glucose is maintained by regulation rather than simply falling until the next meal. Hunger can rise while glucose remains within a defended range. Detecting stored energy, anticipating food, and adjusting metabolism all contribute to behavior. A normal glucose measurement at one moment does not demonstrate that the body has unlimited energy reserves or that eating is unrelated to physiology."
+    ]
+  },
+  {
+    "title": "The absorptive phase distributes newly available nutrients",
+    "body": [
+      "The absorptive phase follows digestion as nutrients enter the circulation from the intestine. Rising glucose contributes to insulin release from pancreatic beta cells. Insulin promotes glucose uptake in skeletal muscle and adipose tissue through regulated transporters and favors storage. Glucose entry into the brain relies largely on other transporters and does not require the same insulin-dependent uptake mechanism.",
+      "The liver stores part of the incoming carbohydrate as glycogen and changes its production of glucose. Fatty acids can be incorporated into triglycerides in adipose tissue, while amino acids supply protein synthesis and other metabolic pathways. These routes allow one meal to support immediate cellular work while replenishing stores needed later between meals.",
+      "The transition into a fed state also changes neural signals about food. Sensory detection, gut delivery, circulating hormones, and cellular fuel processing do not all change at the same instant. Recording their timing helps identify whether a response concerns anticipation of a meal, ingestion itself, or the later handling of absorbed nutrients."
+    ]
+  },
+  {
+    "title": "Cold can increase food intake without reducing body weight",
+    "body": [
+      "A mouse study examined how animals maintain energy balance during exposure to cooler conditions. Generating heat increases energy expenditure, so the experiment measured heat production together with food intake and body composition. Mice increased eating as the energetic cost of temperature regulation rose, allowing expenditure and intake to change in parallel.",
+      "This response explains why a higher metabolic demand need not appear as immediate weight loss. An animal can defend its energy stores by consuming additional food. Measuring body mass alone would miss the increased flow of energy through the system. Intake and expenditure must be measured separately to identify how the animal accommodates a colder environment.",
+      "The researchers also examined hypothalamic signals associated with hunger. AgRP neurons, a population in the arcuate nucleus, became more active during cold exposure. Their response occurred rapidly enough to accompany the perception of a changed thermal environment, rather than waiting until prolonged depletion of stored fat had already occurred."
+    ]
+  },
+  {
+    "title": "AgRP activity is needed for cold-induced extra eating",
+    "body": [
+      "The cold-exposure study used an inhibitory designer receptor to reduce AgRP-neuron activity. The receptor was expressed selectively in the targeted population and activated pharmacologically during testing. This intervention allowed the researchers to ask whether the increased neural activity was required for the extra food intake, rather than merely occurring alongside it.",
+      "Inhibiting AgRP neurons prevented the normal increase in eating during mild cold exposure. Heat production still increased, so the manipulation separated the feeding response from the thermogenic response. The animal continued to spend extra energy on maintaining temperature while losing part of the behavioral compensation that would normally replace the additional fuel.",
+      "This separation places AgRP neurons within a pathway that adjusts intake to increased demand. It does not identify them as the sole controller of heat production or every form of hunger. The experiment measured two coordinated outputs and showed that reducing one neural population disrupted the rise in consumption while leaving the energetic cost of cold exposure present."
+    ]
+  },
+  {
+    "title": "Meals can begin before fuel stores are exhausted",
+    "body": [
+      "Meal initiation depends on more than an empty stomach or a severely reduced fuel supply. Time of day, food availability, sensory cues, and previous experience all influence when eating begins. A familiar meal schedule can prepare behavior and physiology in advance, allowing an animal to obtain food before a large disturbance of internal conditions develops.",
+      "Environmental cues acquire predictive meaning through repeated experience. The smell of cooking, the location of food, or a learned feeding time can increase food seeking. These signals interact with internal state rather than acting in isolation. The same food cue can produce a stronger response after deprivation than after a recent meal.",
+      "Measuring food seeking separately from consumption reveals different parts of this sequence. An animal may approach a food location, investigate it, or work to obtain a reward without immediately swallowing it. Later ingestion and nutrient delivery provide further signals. The beginning of a meal is therefore a transition across sensory, motivational, and motor processes."
+    ]
+  },
+  {
+    "title": "Hippocampal ghrelin supports learned meal timing",
+    "body": [
+      "Ghrelin is a circulating peptide that can increase food intake by acting at specific receptors. A rat study examined ghrelin receptors in the ventral hippocampus, a region involved in using contextual information. The animals learned a restricted daily meal schedule, making it possible to test intake at an anticipated feeding opportunity rather than only during unrestricted eating.",
+      "Blocking ghrelin receptors in the ventral hippocampus reduced food consumption in meal-entrained rats. The same treatment did not produce the identical pattern across all comparison conditions. Its effect depended on the learned feeding arrangement, identifying a contribution of hippocampal hormone signaling to a particular form of conditioned appetite.",
+      "The hippocampus can therefore influence eating through information about when food is expected, in addition to contributing to spatial and event memory. A hormone associated with energy regulation can act within a memory-related region. Its behavioral effect depends on the receptor-bearing cells and the learned conditions under which the animal encounters food."
+    ]
+  },
+  {
+    "title": "An orexin pathway contributes to ghrelin-driven eating",
+    "body": [
+      "The hippocampal-ghrelin study traced a route toward the lateral hypothalamus. Hippocampal neurons reached a region containing orexin-producing neurons, and ghrelin treatment increased activation in this population. Orexin is a peptide that can influence arousal and motivated behavior, giving the hippocampal signal access to pathways that help organize food seeking and consumption.",
+      "The investigators then blocked orexin-1 receptors while activating ghrelin signaling in the ventral hippocampus. The antagonist reduced the resulting increase in food intake. Blocking the receiving receptor therefore interrupted a downstream step in the response, rather than simply preventing ghrelin from reaching its initial hippocampal receptor.",
+      "Anatomical disconnection experiments also tested communication between the hippocampal and hypothalamic regions. Disrupting their coordination altered ghrelin-induced eating. The evidence identified a route through which a learned feeding context and a circulating appetite-related signal could influence hypothalamic output, with orexin receptor activation contributing to the behavioral effect."
+    ]
+  },
+  {
+    "title": "Ghrelin signals interact with learned and ongoing meals",
+    "body": [
+      "Ghrelin is produced largely by the stomach and acts through the growth hormone secretagogue receptor. Circulating levels often rise before meals and fall after eating, but the pattern depends on nutritional conditions and experience. The hormone can influence hypothalamic and other brain populations that alter appetite, food seeking, and the handling of incoming nutrients.",
+      "An increase before a familiar meal can reflect anticipation as well as the time since the last food was consumed. Hormone concentration is therefore not a simple countdown that inevitably triggers eating at one threshold. Receptor availability, neural responsiveness, learned cues, and the opportunity to obtain food determine how the signal affects behavior.",
+      "The stomach also reports distension and chemical conditions after food arrives. These later signals can oppose further consumption even while some appetite-related signals remain present. Meal size reflects the changing combination of inputs over time, rather than the complete disappearance of every signal that helped initiate the meal."
+    ]
+  },
+  {
+    "title": "Hunger-neuron activation can outlast the stimulation itself",
+    "body": [
+      "AgRP neurons are hypothalamic cells that promote eating during energy deficit. Their name refers to agouti-related peptide, one of the substances they produce. A mouse study activated these neurons before food became available, then ended stimulation. The experiment asked whether ongoing firing was necessary at every moment of the later feeding response.",
+      "Previously sated mice ate after AgRP-neuron prestimulation even though the light stimulation had already stopped. The effect persisted through a delay and increased with the duration of prior stimulation. The neurons therefore initiated a behavioral state that lasted longer than the immediate external activation used to produce it.",
+      "This timing helps explain an apparent puzzle in natural recordings: food-related cues can rapidly suppress AgRP activity even while the animal continues eating. A signal transmitted earlier can continue to influence downstream circuits after the initiating neurons become less active. The start of a meal and the maintenance of consumption need not require identical firing patterns."
+    ]
+  },
+  {
+    "title": "NPY helps sustain eating after AgRP activation",
+    "body": [
+      "AgRP neurons release more than their namesake peptide. They also release neuropeptide Y, or NPY, and the inhibitory transmitter GABA. These chemical signals act through different receiving proteins and can operate over different timescales. A study tested which transmitter contribution allowed AgRP activation to produce eating that persisted beyond the stimulation period.",
+      "Removing NPY disrupted the sustained component of feeding after AgRP-neuron stimulation. The investigators then restored NPY expression specifically in AgRP neurons. This rescue recovered the relevant feeding response, showing that the missing peptide contribution could be supplied by the targeted hunger-related population rather than requiring unrestricted expression throughout the brain.",
+      "A fast inhibitory transmitter can rapidly change electrical activity, while a peptide can engage receiving receptors whose effects last longer. Their combined release gives one neural population several ways to influence its targets. The persistence of appetite after stimulation therefore depends in part on the chemicals transmitted, not only on the number of spikes produced during illumination."
+    ]
+  },
+  {
+    "title": "AgRP neurons turn internal state into food-directed action",
+    "body": [
+      "The arcuate nucleus sits near the base of the hypothalamus and contains neurons responsive to energy-related signals. AgRP neurons increase food-directed behavior under several conditions of need. They receive hormonal and neural inputs and send axons to multiple targets, including other hypothalamic regions and structures that influence motivated action.",
+      "AgRP peptide can oppose melanocortin signaling at receiving receptors, while NPY and GABA provide additional effects. These signals should not be treated as interchangeable names for one chemical. The receptor expressed by a target cell determines how a released substance changes that cell’s activity and how quickly the resulting effect develops.",
+      "Hunger also changes the value of obtaining food. A hungry animal can spend more effort approaching or working for a reward. This motivation is measured by behavior, whereas neuronal calcium signals, spike recordings, and transmitter measurements describe different biological events. Combining them helps identify how a cellular response becomes a change in food-directed action."
+    ]
+  },
+  {
+    "title": "AgRP fuel processing changes nutrient responses",
+    "body": [
+      "A mouse study removed carnitine acetyltransferase, abbreviated CrAT, selectively from AgRP neurons. This enzyme participates in handling metabolic products inside cells. The manipulation tested whether the neurons needed their own metabolic-sensing machinery to respond appropriately to nutritional changes, rather than receiving all relevant information from an external hormone or neighboring population.",
+      "AgRP neurons lacking CrAT showed impaired glucose sensing in recordings from brain tissue. Their responses to peripheral glucose and repeated food presentation also changed in living animals. The manipulation therefore affected how the identified population translated available fuel and food experience into neural activity across several experimental conditions.",
+      "The study compared baseline electrical properties with responses to metabolic challenges. A defect in sensing did not require every ordinary property of the neuron to disappear. Cells could remain capable of firing while their response to a particular internal condition changed, allowing the experiment to distinguish metabolic information processing from a complete loss of neuronal viability."
+    ]
+  },
+  {
+    "title": "AgRP sensing changes dopamine during food seeking",
+    "body": [
+      "The CrAT study also measured dopamine-related signals in the striatum, a collection of forebrain structures involved in action and reward. A fluorescent dopamine sensor reported changes in the nucleus accumbens during food-related behavior. This measurement concerned dopamine availability near the sensor, rather than the firing of AgRP neurons themselves.",
+      "Impaired metabolic sensing in AgRP neurons reduced accumbal dopamine responses during a task in which mice worked for sucrose. The manipulation also reduced motivated responding during fasting. The internal-state defect therefore altered both a chemical signal in a downstream reward-related region and the effort animals expended to obtain food.",
+      "The effects depended on the striatal region and the timescale measured. Rapid dopamine responses in the accumbens were distinguished from slower measures of dopamine synthesis-related uptake in dorsal striatum. These findings identify different consequences of altered metabolic sensing, rather than treating all dopamine measurements as a single interchangeable readout of hunger."
+    ]
+  },
+  {
+    "title": "POMC peptides oppose some hunger-promoting signals",
+    "body": [
+      "POMC neurons produce a large precursor protein called pro-opiomelanocortin, which cells process into smaller peptides. One product, alpha-melanocyte-stimulating hormone, can activate melanocortin receptors on receiving neurons. This signaling commonly reduces intake through defined hypothalamic pathways, providing an opponent to some actions of AgRP neurons.",
+      "The melanocortin-4 receptor, or MC4R, is a receiving protein involved in energy regulation. Activating it changes signaling inside the target cell, while AgRP can oppose melanocortin action. The physiological result depends on which MC4R-expressing population receives the signal. Receptors in different regions can influence feeding, energy expenditure, or other autonomic outputs.",
+      "POMC cells also vary in their inputs, transmitter properties, and responses to hormones. Some respond differently to insulin or leptin than others. A population label therefore identifies a useful molecular feature without guaranteeing one uniform function. Testing defined connections is necessary to establish which cells change eating and which contribute more strongly to glucose regulation."
+    ]
+  },
+  {
+    "title": "AgRP projections inhibit a hypothalamic target",
+    "body": [
+      "A study of leptin-responsive circuitry traced axons from AgRP neurons toward the dorsomedial hypothalamus, or DMH. The researchers combined anatomical labeling with physiological recordings to test the connection. A labeled projection alone identifies where axons travel; a receiving-cell response is needed to establish how those axons influence the target population.",
+      "AgRP inputs supplied inhibitory GABAergic signaling to the DMH circuit. Activating the pathway increased food intake and impaired glucose tolerance, while activating a receiving MC4R-expressing population produced opposing effects. The direction of the behavioral response therefore depended on which side of the inhibitory connection was stimulated.",
+      "This arrangement permits a hunger-related population to promote eating partly by suppressing cells that would otherwise restrain it. Such inhibition is a specific cellular action, not an absence of communication. The circuit also influenced metabolic handling of glucose, demonstrating that intake and glucose regulation can be altered by a defined hypothalamic projection."
+    ]
+  },
+  {
+    "title": "A receiving GABA receptor helps determine circuit output",
+    "body": [
+      "The dorsomedial-hypothalamus study examined the GABA-A receptors expressed by receiving cells. These receptors are ion channels assembled from several protein subunits. The alpha-3 subunit was prominent in the pathway under study, providing a molecular target for changing how the receiving neurons responded to inhibitory input.",
+      "Manipulating alpha-3-containing GABA-A signaling in the DMH altered feeding and glucose-related responses. Blocking this inhibitory route could counter aspects of the phenotype produced by deficient leptin signaling in AgRP neurons. The experiment therefore identified a receiving mechanism through which an upstream hormonal defect influenced downstream circuit activity.",
+      "Leptin acts initially at its own receptor, while GABA acts later at a different receptor on another cell. Separating these steps explains why altering the downstream receptor can change the response without replacing the original hormone. The result concerns this experimentally identified pathway, with the physiological outcome shaped by its transmitter, receptor, and target population."
+    ]
+  },
+  {
+    "title": "Sensory and learned food cues change intake",
+    "body": [
+      "The sight, smell, taste, and texture of food influence approach and consumption. These signals are processed before nutrients have been absorbed. Their effects depend on experience and internal state: an odor that predicts a familiar meal may increase food seeking, while a cue previously paired with illness can trigger avoidance.",
+      "Sensory-specific satiation occurs when a food becomes less appealing during its consumption while a different food remains attractive. A varied meal can therefore prolong intake without requiring a larger initial energy deficit. This effect concerns the changing sensory and motivational value of particular foods, rather than only the physical volume already occupying the stomach.",
+      "Animal studies can separate sensory detection from actual nutrient delivery by controlling access to prey, odors, or ingestible material. Such comparisons reveal whether a neural response requires consumption or can be generated by a predictive cue alone. Sensory signals then enter circuits whose activity also reflects deprivation, recent feeding, and the possibility of obtaining the food."
+    ]
+  },
+  {
+    "title": "Food cues and ingestion change hypothalamic responses",
+    "body": [
+      "A larval-zebrafish study recorded activity in caudal and lateral hypothalamic populations during food-related stimulation. Hunger altered their baseline activity in opposing directions. Calcium indicators allowed the researchers to follow the responses as prey-related events occurred, rather than inferring the entire feeding sequence from a single measurement after the meal.",
+      "The populations showed opposite short-timescale responses around prey cues. Further comparisons separated access to sensory information from successful ingestion. The pattern of activity depended on whether the fish merely encountered information about food or actually consumed it, allowing the experiment to distinguish successive stages of a feeding opportunity.",
+      "Targeted stimulation and ablation tested the functional contribution of the caudal population. Altering its activity changed downstream hypothalamic responses and feeding-related behavior. The circuit organization was established in larval fish, where sensory prey capture and ingestion can be observed directly, rather than assumed to reproduce every molecular division described in adult mammalian hypothalamus."
+    ]
+  },
+  {
+    "title": "A high-sugar diet can weaken processing of sweet signals",
+    "body": [
+      "A fruit-fly study investigated how repeated exposure to a high-sugar diet changes satiation. The researchers measured responses to sugar in sweet-sensing pathways and in a defined dopaminergic population. The diet reduced the central response to sweet stimulation, making it possible to examine a sensory contribution to excessive intake rather than only measuring stored fat.",
+      "The reduced dopaminergic response was selective for the relevant sweet input rather than a uniform loss of every response the neurons could produce. Experiments that manipulated sweet sensation tested the origin of the change. Weakened sensory input could therefore alter the information that reaches a central feeding-related population as food is consumed.",
+      "When the neural representation of sweetness becomes weaker, the amount consumed can change because satiation depends partly on feedback generated during the meal. The study connected altered sensory processing with feeding behavior under a particular dietary history. It did not require the assumption that a food’s caloric content and its perceived sensory intensity always change together."
+    ]
+  },
+  {
+    "title": "Satiation stops a meal while satiety delays the next one",
+    "body": [
+      "Satiation refers to processes that bring an ongoing meal to an end. Satiety refers to the reduced tendency to eat after a meal has finished. Sensory feedback, gastric filling, intestinal nutrients, and circulating hormones contribute over different intervals. Their effects overlap, but terminating one meal and postponing the next are not identical behavioral outcomes.",
+      "A short-term signal can indicate the progress of a recent meal without measuring the total energy stored in adipose tissue. Stomach distension, for example, rises as material enters, while absorption and long-term storage develop later. Longer-lasting hormonal signals can modify how strongly these immediate meal-related inputs influence the brain.",
+      "Measuring meal size, bout duration, eating rate, and the interval between meals can reveal different changes in regulation. A treatment might reduce the size of each meal while increasing their number. Total daily intake alone would hide that pattern. Behavioral structure therefore helps identify which part of ingestion is changed by a physiological signal or intervention."
+    ]
+  },
+  {
+    "title": "The stomach provides mechanical and chemical feedback",
+    "body": [
+      "As food enters the stomach, its wall stretches and activates mechanosensitive pathways. The stomach also changes its movement and secretory activity as it handles the meal. Sensory afferents carry information toward the brainstem, where it is integrated with signals from other organs. These responses can contribute to ending a meal before every nutrient has been absorbed.",
+      "Gastric emptying controls how quickly material reaches the small intestine. A meal can therefore alter both the degree of stomach distension and the rate at which intestinal sensors encounter nutrients. Hormones and neural reflexes influence this transfer, allowing feedback from the intestine to change the stomach’s handling of additional incoming food.",
+      "Fullness is a conscious sensation, while a gastric afferent signal is a physiological event. They often vary together but cannot be substituted for one another in an experiment. Researchers can measure stomach mechanics, nerve activity, reported sensation, and eating behavior separately to determine which step changes when a meal or treatment alters intake."
+    ]
+  },
+  {
+    "title": "Ingestion uses three-dimensional control of the tongue",
+    "body": [
+      "A macaque study tracked tongue movements during natural feeding and drinking using two synchronized X-ray views. Small implanted markers allowed reconstruction of three-dimensional trajectories. The investigators recorded neurons in orofacial motor and somatosensory cortex at the same time, relating electrical activity to the direction of movement rather than only to the occurrence of a lick.",
+      "Many recorded neurons changed their activity according to tongue direction. The representation differed between feeding and drinking, and directional information was generally more robust in the motor recordings. Thus, delivering food or fluid into the mouth involved task-dependent neural patterns, not one identical command repeated for every ingestive movement.",
+      "The three-dimensional measurements distinguished forward, backward, and lateral components that a single camera view could miss. Food manipulation also placed different demands on the tongue from contacting a drinking spout. Measuring these components separately identified the actual movement represented by a neuron instead of assigning every response near a meal to hunger or taste."
+    ]
+  },
+  {
+    "title": "Removing oral sensation changes the movement of drinking",
+    "body": [
+      "The tongue-control study temporarily blocked sensory branches of the trigeminal nerve before some recording sessions. This reduced oral sensory information while leaving the animal able to attempt the task. The comparison tested whether ongoing sensory feedback contributed to the shape and coordination of tongue movements rather than simply reporting their completion.",
+      "Following the nerve block, tongue trajectories and the positions reached during drinking changed. The study also measured corresponding changes in cortical directional information. Oral feedback therefore helped organize the movement itself, in addition to providing information that could be used to evaluate a fluid or recognize contact with the spout.",
+      "The effect was measured during a controlled sensory disruption in macaques. It concerned the execution of ingestion rather than a direct manipulation of thirst-driving hypothalamic cells. A fall in successful intake can arise from this kind of movement impairment even when the animal remains motivated to drink, making movement and motivational measurements complementary."
+    ]
+  },
+  {
+    "title": "Intestinal cells detect nutrients and release signals",
+    "body": [
+      "After food leaves the stomach, the small intestine encounters nutrients at its luminal surface. Specialized epithelial cells called enteroendocrine cells detect chemical or mechanical conditions and release signaling molecules. Different cell types produce different combinations of peptides and other transmitters, allowing the gut to report more than the total volume of a meal.",
+      "Cholecystokinin, PYY, and GLP-1 are among the signals associated with nutrient entry and digestion. Their effects include changes in intake, gastric processing, and glucose regulation. A hormone acts at particular receptors, so its consequences depend on where those receptors are expressed and which cells are reached at the concentrations produced.",
+      "Intestinal information reaches the nervous system through visceral sensory fibers as well as circulation. Vagal afferents carry signals toward the brainstem, while spinal afferents provide additional routes. The pathway used can affect whether a gut event reduces eating, produces a learned preference, or contributes to avoidance of a food previously associated with an unpleasant consequence."
+    ]
+  },
+  {
+    "title": "Different intestinal cells can teach preference or avoidance",
+    "body": [
+      "A mouse study used an intersectional genetic strategy to target specific enteroendocrine cell populations. The strategy required two genetic features to overlap, helping restrict activation to selected cells in the intestine. A designer receptor then allowed the researchers to stimulate those cells during tests of eating and subsequent flavor choice.",
+      "Activating several enteroendocrine populations reduced food intake, but their effects on learning differed. One population could promote a preference for a paired flavor, while another produced avoidance. The same direction of change in immediate consumption therefore did not establish that the gut event had the same rewarding or aversive meaning to the animal.",
+      "The learning tests paired a controlled cellular activation with a particular taste or flavor and measured later choice. Later preference provided evidence about the consequence assigned to the paired food cue. This distinguished the ability of a gut signal to terminate current intake from its ability to change what the animal would select on a future occasion."
+    ]
+  },
+  {
+    "title": "Receptor blockade separates intestinal-cell signals",
+    "body": [
+      "The enteroendocrine study tested candidate transmitters by administering receptor antagonists during cell activation. An antagonist prevents a signaling molecule from activating its receiving receptor. By asking which behavioral effects disappeared after blockade, the investigators could distinguish the contribution of one released substance from the broader effect of activating an entire cell population.",
+      "Cholecystokinin contributed to conditioned flavor preference, while serotonin and substance P contributed to aversive learning through another enteroendocrine population. These chemical distinctions helped explain why different gut cells could reduce intake yet produce opposite changes in later food choice. Suppressed eating alone was insufficient to identify the signal’s learned value.",
+      "Visceral pathway manipulations further separated vagal transmission of preference-related information from spinal routes involved in avoidance. These experiments localized different steps between intestinal sensing and behavior. The cellular source, released transmitter, receiving receptor, and sensory route each identified a particular part of the experimentally tested signal rather than an unspecified gut–brain connection."
+    ]
+  },
+  {
+    "title": "Visceral afferents converge on brainstem feeding circuits",
+    "body": [
+      "The nucleus of the solitary tract, or NTS, receives sensory information from internal organs through the vagus and other cranial pathways. It lies in the brainstem near the area postrema, another site able to respond to circulating signals. These structures help coordinate ingestion with the condition of the stomach, intestine, and circulation.",
+      "Cholecystokinin released during a meal can activate pathways that reduce further eating. Mechanical filling and nutrient-related signals also influence the afferents reaching the brainstem. The NTS sends information to other brainstem and forebrain regions, allowing visceral input to affect autonomic responses, hypothalamic activity, and food-directed behavior.",
+      "Individual brainstem populations differ in molecular identity and behavioral effect. Some suppress intake while also producing learned avoidance, whereas others reduce intake without the same aversive association. Distinguishing these populations is essential for interpreting an appetite-reducing intervention: lower intake can reflect several different physiological and motivational processes."
+    ]
+  },
+  {
+    "title": "Brainstem populations suppress intake cumulatively",
+    "body": [
+      "A mouse study distinguished NTS neurons expressing leptin receptors from neurons expressing calcitonin receptors. Both populations can suppress eating. The investigators activated each group separately and then activated them together, asking whether the combined effect would exceed the response produced by targeting a single molecularly defined population.",
+      "Combined activation reduced intake more strongly than either manipulation alone. The effect showed that several brainstem populations can make cumulative contributions to meal regulation. It did not require one group to be merely a duplicate of the other. Their coordinated recruitment could produce a larger behavioral change than activating only one component of the system.",
+      "The combined leptin-receptor and calcitonin-receptor population suppressed intake without producing the same conditioned taste avoidance associated with some other NTS manipulations. A strong feeding effect therefore did not necessarily require the animal to learn that a paired taste predicted an aversive event. The study measured both outcomes rather than inferring one from the other."
+    ]
+  },
+  {
+    "title": "Adding NTS cells changes the learned consequence",
+    "body": [
+      "The NTS study also recruited a cholecystokinin-expressing population together with the leptin-receptor and calcitonin-receptor groups. Activating this broader combination strongly reduced food intake. The experiment tested whether the behavioral consequence depended only on the total strength of feeding suppression or also on which cells were included in the activated set.",
+      "When the activated combination included the cholecystokinin population, mice acquired conditioned taste avoidance. This aversive learning remained evident even though other activated populations could suppress intake without producing it on their own. The identity of the recruited cells therefore changed what the animal learned about a paired flavor.",
+      "Silencing combinations of these populations also increased intake and body weight more than some single-population manipulations. Activity in multiple brainstem groups normally restrains consumption. The activation and silencing results together describe distinct contributions to intake regulation and learned aversion, rather than a single brainstem switch labeled simply as fullness."
+    ]
+  },
+  {
+    "title": "Leptin reports aspects of energy storage to the brain",
+    "body": [
+      "Leptin is a hormone produced largely by adipose tissue. Its concentration generally reflects stored energy but also changes during fasting and other physiological conditions. Leptin receptors on selected neural populations allow this peripheral information to alter food intake, neuroendocrine function, and energy expenditure. The response is distributed across several cell types and pathways.",
+      "In congenital leptin deficiency, replacing the missing hormone can markedly change appetite and body weight. Most common obesity does not involve an absence of leptin. Circulating leptin can already be high while the system responds inadequately. The same treatment therefore cannot be expected to have identical effects in missing-hormone and high-hormone conditions.",
+      "Falling leptin during energy restriction can recruit responses that defend existing stores, including greater hunger and changes in expenditure. This feedback can oppose sustained weight loss even after food intake has been deliberately reduced. The signal concerns the body’s response to available energy rather than a moral judgment about a person’s motivation or effort."
+    ]
+  },
+  {
+    "title": "POMC neurons can help regulate leptin secretion itself",
+    "body": [
+      "A mouse study removed leptin receptors from POMC neurons in adulthood. Adult timing reduced the need to interpret the result solely through developmental compensation. The investigators measured glucose regulation, feeding, fat mass, and circulating leptin, testing whether these outputs depended on the same POMC receptor population to the same extent.",
+      "The manipulation impaired the normal fall in leptin during fasting even when loss of fat mass was similar. Leptin secretion therefore changed through neural feedback in addition to reflecting the amount of adipose tissue present. A hormone acting on the brain could influence the later release of that hormone from peripheral tissue.",
+      "The study implicated sympathetic regulation of adipose adrenergic signaling in this feedback. It also found a separation between effects on glucose regulation and effects on food intake. POMC neurons receiving leptin did not provide one identical output for every metabolic measure; defined receptor-bearing cells contributed differently to the coordinated response to fasting."
+    ]
+  },
+  {
+    "title": "Removing adult oxytocin increases food intake",
+    "body": [
+      "A study deleted oxytocin selectively in the adult paraventricular hypothalamic nucleus. Oxytocin is a peptide with several physiological roles, including effects on social behavior and ingestion. Restricting the deletion to a particular adult source population tested its ongoing contribution to appetite without removing the molecule everywhere throughout development.",
+      "The adult deletion increased food intake and body weight. The size of the effect differed from the phenotype of animals lacking oxytocin more broadly throughout life. This comparison showed that the outcome of an adult circuit manipulation can differ from a lifelong knockout, where other pathways may adapt during development.",
+      "Deleting oxytocin receptors in posterior hypothalamic regions also produced excessive intake, and replacement experiments could counter the relevant phenotype. These findings identified both a source of the peptide and receiving hypothalamic sites involved in the feeding effect. They concerned physiological regulation in the mouse preparation rather than establishing one universal human appetite treatment."
+    ]
+  },
+  {
+    "title": "Insulin coordinates peripheral storage with neural regulation",
+    "body": [
+      "Insulin is released by pancreatic beta cells as nutrients become available after a meal. It acts on muscle, adipose tissue, liver, and other targets to coordinate fuel handling. In the brain, insulin receptors can alter signaling inside selected neurons, allowing information about the fed state to influence neural activity and metabolic output.",
+      "An insulin receptor activates intracellular enzymes that modify other proteins, including proteins influencing membrane channels and gene regulation. Phosphatases can remove phosphate groups and reduce parts of that signaling. The balance of these reactions affects how strongly a neuron responds to insulin, so receptor presence alone does not guarantee the same response in every cell.",
+      "Central insulin effects include regulation of hepatic glucose production through neural pathways. These effects are distinct from insulin-dependent glucose uptake in peripheral tissues. A brain manipulation can therefore alter blood glucose by changing the liver’s output, even when the experiment does not directly manipulate insulin receptors on liver cells."
+    ]
+  },
+  {
+    "title": "POMC neurons differ in how they respond to insulin",
+    "body": [
+      "A mouse study recorded electrical responses to insulin from identified POMC neurons. Some cells were activated, while others were inhibited. The investigators examined a phosphatase called TCPTP that reduces insulin-receptor signaling, testing whether its activity helped determine which response appeared within the broader molecularly defined population.",
+      "Reducing TCPTP shifted the proportion of insulin-responsive POMC neurons toward activation. Fasting and diet-induced obesity increased this signaling brake, whereas feeding reduced it. The cell’s nutritional history could therefore change how an insulin signal was translated into electrical activity without requiring the neuron to lose its POMC identity.",
+      "Further experiments connected these changes to hepatic glucose production. Enhanced insulin signaling in the targeted neurons improved suppression of liver glucose output under the tested conditions. The mechanism involved a regulated intracellular inhibitor and a downstream metabolic response, rather than treating insulin as a hormone that simply turns every appetite-related neuron on or off."
+    ]
+  },
+  {
+    "title": "Mechanical stimulation can alter intestinal GLP-1 release",
+    "body": [
+      "A study examined Piezo1, a mechanically sensitive ion channel, in intestinal L cells. L cells are enteroendocrine cells that produce glucagon-like peptide 1, or GLP-1. Opening a mechanically sensitive channel changes ion flow across the membrane, allowing deformation of the cell to influence intracellular signaling and secretion.",
+      "In isolated mouse L cells and intestinal preparations, chemical or mechanical stimulation of Piezo1 increased GLP-1 production and release. Blocking or reducing the channel diminished the relevant response. These experiments tested a cellular route by which movement or stretch in the intestine could alter a hormone signal after material entered the gut.",
+      "The investigators also examined calcium-sensitive enzymes and downstream regulation of protein production. Calcium entry could change the cellular machinery that generates the GLP-1 precursor as well as acute secretion. The experiment therefore distinguished a mechanical sensor, signaling inside the endocrine cell, and the hormone subsequently released from that cell."
+    ]
+  },
+  {
+    "title": "Food reward can promote eating beyond need",
+    "body": [
+      "Food reward includes processes that make obtaining and consuming food more likely. Sensory pleasure, learned prediction, and willingness to work for food are related but separable measurements. A food can remain attractive after immediate energy requirements have been met, especially when its sensory properties or learned value strongly engage reward-related circuits.",
+      "The nucleus accumbens receives dopamine and other inputs that influence food-directed action. Its neurons also send inhibitory projections to downstream targets. Activity in a reward-related region does not automatically mean that the animal experiences pleasure. The effect depends on the population measured, the timing of its response, and the behavior being performed.",
+      "Experiments can distinguish approach, effort, licking, and actual consumption. Manipulating a circuit may increase one of these while reducing another. This distinction is useful when studying eating beyond immediate need, because seeking a valued food and coordinating its consumption require different operations even when they occur within the same meal."
+    ]
+  },
+  {
+    "title": "Accumbens responses to consumption vary along its length",
+    "body": [
+      "A recent mouse study recorded dopamine-D1-receptor-positive projection neurons in the medial accumbens shell. The investigators compared rostral and caudal sites, meaning positions toward the front and back of the structure. Both belonged to the same broad region, but their activity during reward consumption differed according to location.",
+      "Rostral neurons showed a decrease in calcium activity during consumption that was not reproduced in the same way at caudal sites. The study therefore identified a spatially restricted response within a molecularly defined population. Averaging across the entire accumbens shell could obscure the difference between the two locations.",
+      "The investigators also tested aversive stimuli. Those comparisons did not reveal the same rostrocaudal distinction found during appetitive consumption. The spatial gradient therefore concerned particular behavioral conditions rather than a universal difference in responsiveness. The result specified both where the population was recorded and what the animal was doing."
+    ]
+  },
+  {
+    "title": "Driving rostral accumbens cells can interrupt consumption",
+    "body": [
+      "The accumbens study expressed an activating light-sensitive protein in the D1-receptor-positive population. Light stimulation was delivered at rostral or caudal sites while mice consumed a reward. This intervention tested whether increasing activity could change the behavior, complementing the observation that rostral population activity normally fell during consumption.",
+      "Activating rostral cells suppressed reward consumption more effectively than comparable activation at caudal sites. Increasing the activity of a population within a reward-related structure therefore reduced an appetitive action. The result is consistent with consumption depending on a reduction in the output of specific inhibitory projection neurons during the relevant period.",
+      "Molecular mapping identified markers enriched along the rostrocaudal axis, and a marker-defined strategy helped target the rostral population more selectively. This provided a way to connect anatomical position with a manipulable cell population. It did not make every D1-positive neuron equivalent or assign one fixed function to the entire accumbens shell."
+    ]
+  },
+  {
+    "title": "Learning and context alter the decision to obtain food",
+    "body": [
+      "Animals learn where food is likely to be found and which cues predict useful nutrients. These memories influence the decision to search, approach, or remain at a food source. The same physiological state can therefore produce different behavior depending on what the animal has learned about the environment and the alternatives available there.",
+      "Food choice can also reflect the expected cost of obtaining it, including effort, danger, or competition. A hungry animal may avoid one location while actively seeking another. Reduced intake at a particular site does not by itself establish a loss of appetite if the animal is instead selecting a safer or more profitable feeding opportunity.",
+      "Foraging measurements track the sequence of encounters and choices rather than only final intake. Investigating a patch, sampling its contents, and remaining to feed are different actions. Separating them helps identify how internal state and learned environmental information influence the transition from searching for food to exploiting a particular source."
+    ]
+  },
+  {
+    "title": "Foraging worms can pass over available food patches",
+    "body": [
+      "A study placed Caenorhabditis elegans in arenas containing small, dilute patches of bacteria. These nematodes obtain food by consuming bacteria, but a patch encounter did not always lead to sustained feeding. Detailed tracking revealed an early period in which animals often passed over available patches before later remaining to exploit them.",
+      "The researchers classified encounters using changes in movement and time spent near the food. This distinguished detecting a patch from committing to prolonged exploitation. An animal could sample information about an available source while continuing to search, allowing its later decisions to depend on the sequence of patches previously encountered.",
+      "Patch density and distribution altered the timing of this transition. The behavior therefore reflected the available environment rather than a rigid rule to consume the first food encountered. The study used observed foraging trajectories to test how sensory information and internal state changed the probability of accepting or rejecting a food patch."
+    ]
+  },
+  {
+    "title": "Patch choice uses sensation and recent experience",
+    "body": [
+      "The nematode-foraging study built a quantitative model using sensory information, satiety, and the quality of recently encountered patches. The model described the probability of exploiting a patch on a particular encounter. Its role was to generate predictions about behavior, while the actual worms supplied the experimental test of those predictions.",
+      "Food deprivation and changes in bacterial density altered patch acceptance. The investigators also tested animals with disrupted sensory function. These comparisons examined whether behavior changed as predicted when the internal condition or the information available during an encounter was modified, rather than judging the model only by its fit to one set of trajectories.",
+      "Recent encounters contributed information about the environment against which a current patch could be evaluated. A patch could therefore be accepted under one history and rejected under another. This provided a concrete example of feeding decisions using both the immediate stimulus and information accumulated through experience, even in a relatively small nervous system."
+    ]
+  },
+  {
+    "title": "Weight reflects intake and energy expenditure",
+    "body": [
+      "Body energy changes when energy entering the body differs from energy spent over time. Expenditure includes maintaining cells, physical activity, processing food, and producing heat. Intake and expenditure are also regulated responses: changing one can recruit compensatory changes in the other. Body mass therefore cannot be understood from a single meal or one brief activity measurement.",
+      "Adipose tissue stores energy but also releases signals that influence the brain and peripheral organs. Losing stored energy can increase hunger and alter endocrine or autonomic output. These responses can make a previously effective intake reduction harder to sustain. The biological defense of energy stores helps explain why a stable intervention can produce a changing weight trajectory.",
+      "Genetic differences, development, medications, sleep, stress, food access, and the built environment can all change components of energy regulation. Their effects occur through identifiable physiology and behavior. An explanation of obesity must therefore examine the processes producing intake and expenditure, rather than treating the energy-balance equation itself as a complete account of their causes."
+    ]
+  },
+  {
+    "title": "Early diet can alter developing feeding projections",
+    "body": [
+      "A mouse study examined offspring whose mothers consumed a high-fat diet during lactation. During this period, AgRP axons normally establish projections toward the paraventricular hypothalamus. The researchers visualized both the axons and microglia, immune-related brain cells that can interact with developing neural processes.",
+      "Offspring exposed to the maternal diet showed altered microglial features and reduced AgRP innervation in the target region. Depleting microglia during the relevant developmental period prevented part of this projection change. The intervention therefore tested a contribution of microglia to the altered anatomical outcome rather than only describing a correlation between diet and adult body weight.",
+      "The effects were regionally and temporally specific, and microglia were observed interacting with AgRP terminals. The experiment identified a developmental route by which the early environment could alter a feeding circuit. It concerned the timing and conditions of a mouse lactation model, where projection development could be measured directly in the relevant tissue."
+    ]
+  },
+  {
+    "title": "Obesity changes calcium handling in POMC cells",
+    "body": [
+      "A study examined POMC neurons from mice with diet-induced obesity using electrical recording and calcium imaging. Calcium is both an electrical charge carrier and an intracellular signal. Cells normally regulate its entry, buffering, and removal carefully, allowing a brief signal to subside rather than remaining chronically elevated.",
+      "The affected POMC neurons had higher resting free calcium and altered calcium-handling properties. Their excitability was reduced under the tested conditions. The investigators varied calcium buffering and examined mitochondrial uptake, connecting the changed electrical response with specific cellular processes that determine how calcium is controlled inside the neuron.",
+      "Experimentally changing intracellular calcium could reproduce important aspects of the altered electrical behavior. The result supplied a mechanism through which diet-associated cellular changes could affect a feeding-related population. It did not require the neurons to disappear: surviving POMC cells could produce different responses because the handling of a signaling ion had changed."
+    ]
+  },
+  {
+    "title": "Genetic obesity can identify a missing physiological signal",
+    "body": [
+      "Rare genetic conditions can disrupt a specific component of energy regulation, such as leptin production or melanocortin signaling. Studying these conditions identifies molecules and receptors that contribute to appetite. Their effects can be large because a necessary signal or receiving mechanism is impaired, rather than because the person has simply experienced unusually tempting food.",
+      "Congenital leptin deficiency differs from common obesity in which leptin is often already elevated. Replacing an absent hormone can restore signaling when the receiving system remains responsive. If the receiving receptor or downstream pathway is defective, supplying more hormone cannot be assumed to correct the same step. The location of the defect determines the plausible intervention.",
+      "Genetic effects also interact with development and environment. A predisposition can alter hunger, satiation, energy expenditure, or food-related learning without producing the same outcome under every condition. Molecular diagnosis and physiological measurement identify which process is affected, while body size alone does not reveal a person’s underlying genetic mechanism."
+    ]
+  },
+  {
+    "title": "Human meals reveal variation in a candidate satiety signal",
+    "body": [
+      "A study measured circulating lipocalin-2, or LCN2, around standardized meal challenges in human participants. LCN2 is a protein proposed to contribute to appetite regulation. The investigators compared its post-meal response with reported hunger and metabolic characteristics, asking whether the signal changed consistently across people with different physiological conditions.",
+      "LCN2 rose after meals in some groups and was associated with lower reported hunger, while the response was blunted in participants with obesity in the tested cohorts. This was a measured association in people. It identified a difference in the postprandial signal without establishing that changing LCN2 alone would explain or reverse every case of human obesity.",
+      "Participants could also differ in their response within a weight category. Comparing responders with nonresponders showed why a group label does not fully describe an endocrine pattern. The study combined the timing of a meal, a blood measurement, and a subjective appetite measure to characterize a particular candidate signal in human physiology."
+    ]
+  },
+  {
+    "title": "A candidate hormone reduces intake in primates",
+    "body": [
+      "The LCN2 study extended beyond human blood measurements to experiments in vervet monkeys. Imaging and tissue-binding experiments examined whether administered human LCN2 could reach and bind hypothalamic regions. This supplied information about access to a potential receiving site, a necessary step between a circulating protein and a central appetite-related effect.",
+      "Daily recombinant LCN2 treatment reduced food intake in the primates under the tested conditions. Comparing treatment with saline and observing the washout period helped identify a reversible feeding effect. This intervention supplied evidence different from the human association: the investigators deliberately changed the signal and measured the subsequent consumption response.",
+      "Changes in body weight and other metabolic measures were evaluated separately from the relatively rapid intake response. A reduction in food consumption over a short treatment period does not automatically establish a durable clinical outcome. The primate experiments tested access and physiological action, while the human observations described naturally occurring variation around meals."
+    ]
+  },
+  {
+    "title": "GLP-1 therapies engage receptors that regulate ingestion",
+    "body": [
+      "GLP-1 receptor agonists are drugs that activate the receptor normally reached by glucagon-like peptide 1. Their actions can alter appetite, gastric processing, and glucose regulation through peripheral and central targets. A drug designed to persist longer than the natural peptide can produce a different exposure pattern from the brief signals released during an ordinary meal.",
+      "Activating pancreatic GLP-1 receptors can enhance insulin secretion in a glucose-dependent manner. Effects on neural and gastrointestinal pathways can reduce intake and change the progression of a meal. These are related but distinct actions, so a reduction in eating should not be described as simply a consequence of increasing insulin in every treated person.",
+      "Treatment evaluation requires distinguishing food intake, body weight, glucose control, and tolerability. The same receptor family is expressed at several sites, and different drugs can vary in duration and additional receptor actions. Controlled human studies establish clinical outcomes, while animal experiments can isolate the cellular or behavioral processes contributing to particular effects."
+    ]
+  },
+  {
+    "title": "Semaglutide changes feeding patterns in a mouse assay",
+    "body": [
+      "A recent mouse study used an acoustic device called the Crunchometer to detect the sounds of pellet consumption. Video and intake measurements were used to interpret the recordings. The method distinguished eating bouts from other actions such as gnawing, allowing researchers to examine how a treatment changed the structure of feeding over time.",
+      "After semaglutide administration, mice reduced intake and showed a change in preference for high-fat pellets in the tested arrangement. The experiment compared successive conditions within animals, including the period after treatment. Its outcome concerned the behavioral response to an acute drug exposure in mice, rather than a measurement of long-term human weight loss.",
+      "The acoustic traces also allowed analysis of when feeding occurred and which food was consumed. A smaller cumulative intake could arise through fewer bouts, shorter bouts, or changes in food choice. Recording the sequence helped specify the behavioral effect instead of treating every reduction in total food mass as an identical form of appetite suppression."
+    ]
+  },
+  {
+    "title": "Feeding patterns distinguish eating from other oral actions",
+    "body": [
+      "The Crunchometer study compared sated and food-deprived mice with access to standard chow and high-fat pellets. The system recorded acoustic feeding events together with movement and food-related behavior. This combination allowed the researchers to examine differences in bout timing and food selection under two internal states.",
+      "Food deprivation changed the amount and temporal pattern of consumption. Intervals between bouts and feeding rates supplied information that was not contained in the final total intake alone. The investigators also distinguished nonedible gnawing from actual food consumption, preventing every mouth-generated sound from being counted as a successful feeding event.",
+      "Validation against human annotation revealed strengths and disagreements in detecting bout boundaries. The device therefore provided a measured behavioral assay with identifiable errors rather than a direct readout of hunger. Synchronizing the assay with neural recordings made it possible to relate cells to specific ingestive actions instead of to an undifferentiated period near a food source."
+    ]
+  },
+  {
+    "title": "Bariatric surgery changes digestive routing and signals",
+    "body": [
+      "Bariatric procedures alter the stomach and sometimes the path food takes through the intestine. In Roux-en-Y gastric bypass, a small stomach pouch connects to a more distal intestinal segment, while digestive secretions join farther along. Sleeve gastrectomy changes stomach shape without creating the same intestinal bypass, so the procedures should not be treated as anatomically identical.",
+      "These changes influence meal capacity, gastric emptying, nutrient delivery, and endocrine responses. Altered timing of intestinal exposure can change signals such as GLP-1 and PYY, while neural and learned responses can also contribute. The physiological effect therefore extends beyond the idea that a smaller container mechanically prevents every additional bite.",
+      "Animal experiments can test which identified neural populations are required for particular surgical effects. A pathway that normally restrains intake may still be unnecessary for the full weight-loss response if surgery recruits other signals. Measuring outcomes after selective inhibition helps separate a circuit’s ordinary role in feeding from its necessity during a complex intervention."
+    ]
+  },
+  {
+    "title": "Surgical weight loss survives selected NTS inhibition",
+    "body": [
+      "The NTS population study silenced combinations of leptin-receptor, calcitonin-receptor, and cholecystokinin-expressing neurons. In ordinary feeding conditions, reducing their output increased intake and body weight. The researchers then examined responses to vertical sleeve gastrectomy, testing whether these identified brainstem groups were indispensable for the surgical outcome.",
+      "Sleeve gastrectomy still reduced body weight in mice with the selected NTS populations silenced. The experiment measured body composition, intake, and other metabolic responses separately. The preserved outcome showed that the surgery could recruit mechanisms beyond the output of those particular molecularly defined cells, despite their contribution to normal intake restraint.",
+      "Feeding and surgery also activated NTS neurons outside the targeted combination. Additional populations therefore remained available to carry visceral information. The result distinguished a pathway that contributes cumulatively to everyday feeding from the larger collection of signals engaged when the anatomy and timing of digestion are changed surgically."
+    ]
+  },
+  {
+    "title": "Intestinal mechanical signals alter hormone production",
+    "body": [
+      "The Piezo1 study tested intestinal mechanosensing in intact mice as well as isolated cells. The investigators used a channel agonist and mechanical bead implantation to change stimulation of the intestinal wall. They measured GLP-1-related molecular responses and blood glucose handling, linking a controlled intestinal intervention with systemic physiology.",
+      "Mechanical stimulation increased intestinal GLP-1 production and circulating hormone under the tested conditions. Reducing Piezo1 in L cells weakened relevant responses to channel activation. These comparisons helped locate part of the effect in the endocrine cells themselves, rather than attributing every consequence of intestinal manipulation to an unspecified central response.",
+      "The cell experiments identified calcium-sensitive signaling and changes in precursor production, while the intact-animal experiments measured glucose tolerance and other outcomes. These levels of analysis describe successive steps of a proposed physiological route. They do not establish that an experimental intestinal bead procedure is equivalent to bariatric surgery or an approved treatment for human eating disorders."
+    ]
+  },
+  {
+    "title": "Eating disorders differ in restriction and bingeing",
+    "body": [
+      "Anorexia nervosa includes persistent restriction associated with low weight and disturbances involving weight, shape, or recognition of medical seriousness. Bulimia nervosa includes recurrent binge episodes and compensatory behaviors. Binge-eating disorder involves recurrent binge episodes without the regular compensatory pattern required for bulimia. These diagnoses describe different clinical patterns rather than one uniform failure of appetite.",
+      "Biological vulnerability, learning, emotional processes, and social conditions can influence onset and maintenance. Nutritional restriction also changes the body and brain, so some observed differences may be consequences of starvation as well as pre-existing vulnerabilities. The sequence of symptoms, intake changes, and physiological effects matters when interpreting a clinical or imaging result.",
+      "Clinical assessment considers medical instability, behaviors, distress, and the person’s history rather than inferring a diagnosis from body size alone. Eating disorders can occur across a range of body weights. Their treatment must address nutritional and medical needs together with the processes sustaining restriction, bingeing, or compensatory behavior in the particular condition."
+    ]
+  },
+  {
+    "title": "Restriction and running produce an anorexia-like model",
+    "body": [
+      "Activity-based anorexia is a laboratory paradigm in which rodents receive restricted daily food access while a running wheel is available. Some animals increase running and lose substantial weight despite having an opportunity to eat. The paradigm permits measurement of interactions among feeding schedules, activity, learning, and vulnerability under controlled conditions.",
+      "A rat study combined this paradigm with automated touchscreen tests of discrimination and reversal learning. Reversal learning requires changing a previously rewarded choice when the correct option switches. The apparatus could measure learning with minimal direct handling, making it possible to compare cognitive performance before or after exposure to the restricted-feeding arrangement.",
+      "The model reproduces specific features such as excessive activity and weight loss under restricted access. It does not reproduce every human thought or social experience associated with anorexia nervosa. Its usefulness lies in testing the measured interactions among intake, movement, and behavioral flexibility, with the limits defined by the preparation rather than by the clinical label alone."
+    ]
+  },
+  {
+    "title": "Poor reversal learning did not predict vulnerability",
+    "body": [
+      "The touchscreen study asked whether impaired cognitive flexibility preceded susceptibility to activity-based anorexia. Rats first learned which image was rewarded and then learned the reversed contingency. Later responses to restricted feeding and wheel access were used to compare animals that developed greater or lesser weight loss.",
+      "The animals that later proved more susceptible did not show the simple prior reversal-learning deficit that the initial hypothesis would predict. Some comparisons instead showed faster reversal performance in the susceptible group. The result prevented the investigators from treating a general inability to change a learned choice as a straightforward explanation of later vulnerability.",
+      "Task order and experience remained important because learning itself could alter the response to the subsequent feeding challenge. Separating an earlier trait measure from an experimentally acquired experience allowed the study to examine more than a single correlation between poor performance and low weight. The same cognitive assay could be both a measurement and part of an animal’s behavioral history."
+    ]
+  },
+  {
+    "title": "Restriction changes cognition and physiology",
+    "body": [
+      "Sustained energy restriction alters hormones, autonomic regulation, temperature, and tissue function. Hunger and food preoccupation can increase even when a person continues restricting intake. These changes can influence attention, mood, and decision-making, creating feedback between the physiological effects of undernutrition and the behaviors that maintain it.",
+      "Brain imaging in severe undernutrition can reveal changes in tissue volumes and ventricular spaces. Some measures can change again with nutritional rehabilitation. An image taken during starvation therefore cannot automatically establish a fixed pre-existing brain abnormality. Longitudinal observations help distinguish the state produced by undernutrition from differences that preceded it.",
+      "Fasting can also change eating rate and the amount consumed when food becomes available. Such responses vary across people and conditions. Nutritional history must therefore be considered when evaluating food-related behavior: a person’s current response may reflect the body’s adaptation to restriction as well as the psychological processes involved in the disorder."
+    ]
+  },
+  {
+    "title": "Prior learning changes the restricted-feeding response",
+    "body": [
+      "The rat touchscreen study compared animals exposed to activity-based anorexia before or after discrimination and reversal training. The order changed the subsequent feeding-and-activity phenotype. Animals that had completed the cognitive training first were more resistant to the severe weight-loss pattern than animals encountering the restricted-feeding challenge before that training.",
+      "The groups differed in food intake, running, and anticipatory activity across the experimental sequence. These measurements showed that the effect involved the organization of behavior rather than only a final body-weight difference. Training history altered the way animals responded to a later environment containing both limited food access and a running opportunity.",
+      "The finding concerns a particular learning experience in a rodent preparation. It does not demonstrate that touchscreen training treats human anorexia nervosa. It does show that prior behavioral experience can change vulnerability within the model, making the order of experimental exposures a biological variable rather than a neutral detail of the testing schedule."
+    ]
+  },
+  {
+    "title": "Care targets nutrition and disorder-specific behavior",
+    "body": [
+      "Treatment for an eating disorder begins with the person’s medical and nutritional condition. Severe restriction, electrolyte disturbance, and other complications can require urgent stabilization and monitored nutritional rehabilitation. Restoring nutrition addresses physiological consequences that can themselves affect cognition and emotion, while treatment also examines the behaviors sustaining the disorder.",
+      "Psychological interventions differ by diagnosis and developmental context. Family-based approaches can support adolescents with restrictive illness, while structured cognitive and behavioral treatments address patterns involved in bingeing and compensatory behavior. The relevant goal is not simply to suppress appetite; some conditions require helping a person resume adequate, regular intake despite distress.",
+      "Medications can have roles in selected conditions, but they do not replace nutritional care or establish one common mechanism across all eating disorders. Outcomes include medical stability, eating patterns, distress, and sustained functioning. Evaluating these separately helps determine whether an intervention changes the physiological consequences, the maintaining behaviors, or both."
+    ]
+  },
+  {
+    "title": "Ingestion coordinates need, sensation, learning, and action",
+    "body": [
+      "Thirst and feeding share the problem of correcting an internal condition through behavior. Both systems use current physiological signals and advance information generated during ingestion. Their specific sensors, transmitters, and target organs differ, so a successful explanation identifies the route being tested rather than reducing every form of ingestion to one undifferentiated drive.",
+      "Within feeding, the same reduction in intake can arise from satiation, aversion, altered reward, impaired movement, or a change in access to food. Blood chemistry and energy storage can change on different schedules from these behaviors. Combining measurements of cells, hormones, organs, and action reveals which step an experiment or treatment actually affects.",
+      "Longer-term outcomes reflect adaptation across these interacting systems. A circuit can change through development, a sensory response can change with diet, and a learned experience can alter later food choice. These specific forms of plasticity help explain why the regulation of eating and drinking depends on both the present internal condition and the history of the organism."
+    ]
+  }
+]

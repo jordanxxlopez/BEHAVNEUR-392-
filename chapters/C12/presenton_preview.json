@@ -1,0 +1,19 @@
+{
+  "title": "Hunger, Thirst, and Satiety: How the Brain Controls Ingestion",
+  "slides": 80,
+  "format": "pdf",
+  "export": {
+    "url": "https://api.presenton.ai/s/T7NMGoT2PE1KVAsv-taQMV6mt7zMX39n",
+    "message": null,
+    "id": 19871
+  },
+  "preview": {
+    "url": "https://presenton.ai/presentation-preview?t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiaHRtbC10by1hbnktcHJldmlldyIsImh0bWxfdG9fYW55X2NyZWF0aW9uIjoxOTg3MSwiZXhwIjoxNzkyNjEzODUyfQ.g3fPosHdvUwMpfk_xPBpA12bt9-Ee4b8S9jaAn3jF-Y"
+  },
+  "fonts": [
+    "Arial"
+  ],
+  "native_pdf_sha256": "8e049b08f1794556842f62c09d3739261d6359c364a76202677b649e64d9eb7d",
+  "source": "Final native static PDF pages, with original credits; full source book and article PDFs not uploaded.",
+  "expires": "Presenton export and preview links expire after 24 hours."
+}

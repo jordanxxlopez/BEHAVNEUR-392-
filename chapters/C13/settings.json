@@ -1,0 +1,37 @@
+{
+  "title": "From Experience to Memory: Learning, Plasticity, and Recall",
+  "filename": "From_Experience_to_Memory_Learning_and_Memory_Chapter_13.pptx",
+  "theme": "blue-gray-chalk",
+  "kicker": "Learning Systems, Memory Circuits, and Lasting Synaptic Change",
+  "booktitle": "Learning and Memory",
+  "pages": "414–455",
+  "pdfpages": "1–42",
+  "part": 5,
+  "image": "13.20",
+  "takeaways": [
+    [
+      "Learning changes several interacting memory systems.",
+      "Conditioned responses, skills, perceptual familiarity, and relational memories can change independently; improvement does not always require conscious recollection."
+    ],
+    [
+      "Hippocampal circuits represent relationships and context.",
+      "Place coding, ensemble activity, and human amnesia show separable contributions to encoding and richly detailed retrieval rather than one universal memory store."
+    ],
+    [
+      "Consolidation changes coordination across networks.",
+      "Hippocampal ripples, cortical activity, inhibition, and experience influence memory over time; older episodic details can still depend on hippocampal integrity."
+    ],
+    [
+      "Retrieval can preserve or modify what is remembered.",
+      "Recall depends on cues and ensemble access, and repeated retrieval can alter later competition or updating; failure to express a memory need not prove its erasure."
+    ],
+    [
+      "Synaptic strengthening has identifiable cellular steps.",
+      "Coincident activity can permit NMDA-dependent calcium entry, activate enzymes, alter AMPA receptor delivery, and change dendritic spine structure."
+    ],
+    [
+      "Lasting memory is more than one molecular switch.",
+      "Trafficking, actin, inhibitory circuits, protein synthesis, and compensating pathways contribute at different times; a synaptic assay and a remembered event are distinct measurements."
+    ]
+  ]
+}

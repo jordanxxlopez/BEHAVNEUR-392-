@@ -87,3 +87,19 @@ A separate 80-slide lecture with 78 teaching slides, 40 embedded original record
 - [Download PowerPoint](https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C11/Feeling_and_Acting_Emotion_Chapter_11.pptx)
 - [Static PDF](https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C11/Feeling_and_Acting_Emotion_Chapter_11_Static.pdf)
 - [Sources and validation](chapters/C11/STATUS.md)
+
+## Chapter 12: Hunger, Thirst, and Satiety: How the Brain Controls Ingestion
+
+A separate 80-slide lecture with 78 teaching slides, 40 embedded original recordings, source figures, full teaching notes, and credits.
+
+- [Download PowerPoint](https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C12/Hunger_Thirst_and_Satiety_Ingestive_Behavior_Chapter_12.pptx)
+- [Static PDF](https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C12/Hunger_Thirst_and_Satiety_Ingestive_Behavior_Chapter_12_Static.pdf)
+- [Sources and validation](chapters/C12/STATUS.md)
+
+## Chapter 13: From Experience to Memory: Learning, Plasticity, and Recall
+
+A separate 80-slide lecture with 78 teaching slides, 40 embedded original recordings, source figures, full teaching notes, and credits.
+
+- [Download PowerPoint](https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C13/From_Experience_to_Memory_Learning_and_Memory_Chapter_13.pptx)
+- [Static PDF](https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C13/From_Experience_to_Memory_Learning_and_Memory_Chapter_13_Static.pdf)
+- [Sources and validation](chapters/C13/STATUS.md)
