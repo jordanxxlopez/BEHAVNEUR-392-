@@ -71,5 +71,22 @@
   "video_distribution_from_chapter": 3,
   "maximum_content_gap_between_videos": 3,
   "minimum_videos_in_final_ten_content_slides": 5,
-  "visible_video_purpose_labels": false
+  "visible_video_purpose_labels": false,
+  "teaching_prose_and_transcript": {
+    "applies_to": "All chapters and authorized revisions",
+    "guide": "course/TEACHING_STYLE.md",
+    "paragraphs_add_source_supported_science": true,
+    "generic_study_wrapups_permitted": false,
+    "undefined_mechanistic_jargon_permitted": false,
+    "manual_sentence_deletion_review_required": true,
+    "manual_final_paragraph_review_required": true,
+    "read_aloud_review_required": true,
+    "neuroethology_reference_commit": "fa278dba43f4bb18527b3237845da0189a37ec24",
+    "neuroethology_recent_lectures_reviewed": [
+      "104A",
+      "104B",
+      "104C"
+    ],
+    "instructor_style_reference": "Plain-language cannabinoid/somatodendritic rewrite supplied by instructor"
+  }
 }

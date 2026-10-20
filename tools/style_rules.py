@@ -29,6 +29,14 @@ FRAMING = [
      "no figure-reading narration"),
     (r"\bwhy this matters\b|\bthis matters because\b|\bwhy (this|the) topic\b|\bto set the stage\b",
      "no explanation of why a topic is introduced"),
+    (r"\b(?:the|this) (?:study|experiment|result|finding|comparison|observation)s?\s+"
+     r"(?:brings?|highlights?|underscores?|illustrates?|serves? as|provides? (?:a|an) (?:example|framework|account))\b",
+     "replace generic study-summary framing with the specific biology or finding"),
+    (r"\b(?:the|this) (?:study|experiment|result|finding|comparison|observation)s?\s+(?:therefore\s+)?"
+     r"(?:explains?|reinforces?|demonstrates?) (?:a|the) (?:general|broader|basic|important|fundamental) "
+     r"(?:principle|concept|idea|point)\b|\ba complete causal sequence\b|\ba larger neural system\b|"
+     r"\b(?:within|in) (?:a|the) broader (?:context|framework|account)\b",
+     "teach the named mechanism instead of a generic concluding principle"),
     (r"lorem|ipsum|\bTODO\b|(?<!Date )\bTBD\b|\[insert", "placeholder text left in"),
 ]
 FRAMING_RE = [(re.compile(p, re.I), why) for p, why in FRAMING]

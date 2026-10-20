@@ -1,7 +1,7 @@
 {
-  "spec_sha256": "e8dbad1ff8228a69453f300a8e8fc2c061589d4d69c14937a1ea2a43649e7102",
-  "pptx_sha256": "45cc26008c62034056943b87372589fd935dac6fd708dc90bde16c95a420dd07",
-  "pdf_sha256": "760329997388a19f865c404c3c4717df718b05a25e1b81ec52e23ea55683fe6e",
+  "spec_sha256": "323c5118eed8b3f870c5efdacdee4b6439151d81326e53a8e3b738893c2ac016",
+  "pptx_sha256": "e39f3dd9ed247fa575d7ef6e02332786789cc8361e152cb34a13a4b58fd1bda3",
+  "pdf_sha256": "9d0128933c8519b381eb3ef7f780b85b7753232dc161225b110e45c16ef1fad8",
   "requirement": "Every content paragraph has 5\u20137 actual rendered lines. No forced line breaks or blank-line padding.",
   "paragraphs": 219,
   "passing": 219,
@@ -9,6 +9,48 @@
   "results": [
     {
       "slide": 2,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0
+      ]
+    },
+    {
+      "slide": 2,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5
+      ]
+    },
+    {
+      "slide": 2,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        347.0,
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5
+      ]
+    },
+    {
+      "slide": 3,
       "paragraph": 1,
       "lines": 6,
       "pass": true,
@@ -22,7 +64,7 @@
       ]
     },
     {
-      "slide": 2,
+      "slide": 3,
       "paragraph": 2,
       "lines": 6,
       "pass": true,
@@ -36,7 +78,7 @@
       ]
     },
     {
-      "slide": 2,
+      "slide": 3,
       "paragraph": 3,
       "lines": 6,
       "pass": true,
@@ -47,47 +89,6 @@
         423.0,
         442.5,
         461.5
-      ]
-    },
-    {
-      "slide": 3,
-      "paragraph": 1,
-      "lines": 5,
-      "pass": true,
-      "line_top_y": [
-        113.5,
-        133.0,
-        152.5,
-        172.0,
-        191.5
-      ]
-    },
-    {
-      "slide": 3,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        219.5,
-        239.0,
-        258.5,
-        278.0,
-        297.5,
-        317.0
-      ]
-    },
-    {
-      "slide": 3,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        345.0,
-        364.5,
-        384.0,
-        403.5,
-        423.0,
-        442.5
       ]
     },
     {
@@ -135,6 +136,343 @@
     {
       "slide": 5,
       "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        113.5,
+        133.0,
+        152.5,
+        172.0,
+        191.5,
+        210.5
+      ]
+    },
+    {
+      "slide": 5,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        239.0,
+        258.5,
+        278.0,
+        297.5,
+        317.0,
+        336.0
+      ]
+    },
+    {
+      "slide": 5,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        364.5,
+        384.0,
+        403.5,
+        423.0,
+        442.5,
+        461.5
+      ]
+    },
+    {
+      "slide": 6,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        113.5,
+        133.0,
+        152.5,
+        172.0,
+        191.5,
+        210.5
+      ]
+    },
+    {
+      "slide": 6,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        239.0,
+        258.5,
+        278.0,
+        297.5,
+        317.0,
+        336.0
+      ]
+    },
+    {
+      "slide": 6,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        364.5,
+        384.0,
+        403.5,
+        423.0,
+        442.5,
+        461.5
+      ]
+    },
+    {
+      "slide": 7,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0
+      ]
+    },
+    {
+      "slide": 7,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5
+      ]
+    },
+    {
+      "slide": 7,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        347.0,
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5
+      ]
+    },
+    {
+      "slide": 8,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0
+      ]
+    },
+    {
+      "slide": 8,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5
+      ]
+    },
+    {
+      "slide": 8,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        347.0,
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5
+      ]
+    },
+    {
+      "slide": 9,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        113.5,
+        133.0,
+        152.5,
+        172.0,
+        191.5,
+        210.5
+      ]
+    },
+    {
+      "slide": 9,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        239.0,
+        258.5,
+        278.0,
+        297.5,
+        317.0,
+        336.0
+      ]
+    },
+    {
+      "slide": 9,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        364.5,
+        384.0,
+        403.5,
+        423.0,
+        442.5,
+        461.5
+      ]
+    },
+    {
+      "slide": 10,
+      "paragraph": 1,
+      "lines": 7,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0,
+        221.5
+      ]
+    },
+    {
+      "slide": 10,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5,
+        338.5
+      ]
+    },
+    {
+      "slide": 10,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5,
+        456.0
+      ]
+    },
+    {
+      "slide": 11,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0
+      ]
+    },
+    {
+      "slide": 11,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5
+      ]
+    },
+    {
+      "slide": 11,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        347.0,
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5
+      ]
+    },
+    {
+      "slide": 12,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0
+      ]
+    },
+    {
+      "slide": 12,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5
+      ]
+    },
+    {
+      "slide": 12,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        347.0,
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5
+      ]
+    },
+    {
+      "slide": 13,
+      "paragraph": 1,
       "lines": 5,
       "pass": true,
       "line_top_y": [
@@ -146,7 +484,514 @@
       ]
     },
     {
-      "slide": 5,
+      "slide": 13,
+      "paragraph": 2,
+      "lines": 7,
+      "pass": true,
+      "line_top_y": [
+        211.5,
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5
+      ]
+    },
+    {
+      "slide": 13,
+      "paragraph": 3,
+      "lines": 7,
+      "pass": true,
+      "line_top_y": [
+        347.0,
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5,
+        456.0
+      ]
+    },
+    {
+      "slide": 14,
+      "paragraph": 1,
+      "lines": 5,
+      "pass": true,
+      "line_top_y": [
+        111.5,
+        128.5,
+        145.0,
+        162.0,
+        179.0
+      ]
+    },
+    {
+      "slide": 14,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        203.5,
+        220.5,
+        237.5,
+        254.0,
+        271.0,
+        288.0
+      ]
+    },
+    {
+      "slide": 14,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        312.5,
+        329.5,
+        346.5,
+        363.0,
+        380.0,
+        397.0
+      ]
+    },
+    {
+      "slide": 15,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0
+      ]
+    },
+    {
+      "slide": 15,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5
+      ]
+    },
+    {
+      "slide": 15,
+      "paragraph": 3,
+      "lines": 7,
+      "pass": true,
+      "line_top_y": [
+        347.0,
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5,
+        456.0
+      ]
+    },
+    {
+      "slide": 16,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0
+      ]
+    },
+    {
+      "slide": 16,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5
+      ]
+    },
+    {
+      "slide": 16,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        347.0,
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5
+      ]
+    },
+    {
+      "slide": 17,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        111.5,
+        128.5,
+        145.0,
+        162.0,
+        179.0,
+        196.0
+      ]
+    },
+    {
+      "slide": 17,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        220.5,
+        237.5,
+        254.0,
+        271.0,
+        288.0,
+        305.0
+      ]
+    },
+    {
+      "slide": 17,
+      "paragraph": 3,
+      "lines": 7,
+      "pass": true,
+      "line_top_y": [
+        329.5,
+        346.5,
+        363.0,
+        380.0,
+        397.0,
+        414.0,
+        430.5
+      ]
+    },
+    {
+      "slide": 18,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0
+      ]
+    },
+    {
+      "slide": 18,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5
+      ]
+    },
+    {
+      "slide": 18,
+      "paragraph": 3,
+      "lines": 7,
+      "pass": true,
+      "line_top_y": [
+        347.0,
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5,
+        456.0
+      ]
+    },
+    {
+      "slide": 19,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0
+      ]
+    },
+    {
+      "slide": 19,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5
+      ]
+    },
+    {
+      "slide": 19,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        347.0,
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5
+      ]
+    },
+    {
+      "slide": 20,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0
+      ]
+    },
+    {
+      "slide": 20,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5
+      ]
+    },
+    {
+      "slide": 20,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        347.0,
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5
+      ]
+    },
+    {
+      "slide": 21,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0
+      ]
+    },
+    {
+      "slide": 21,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5
+      ]
+    },
+    {
+      "slide": 21,
+      "paragraph": 3,
+      "lines": 7,
+      "pass": true,
+      "line_top_y": [
+        347.0,
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5,
+        456.0
+      ]
+    },
+    {
+      "slide": 22,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0
+      ]
+    },
+    {
+      "slide": 22,
+      "paragraph": 2,
+      "lines": 5,
+      "pass": true,
+      "line_top_y": [
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5
+      ]
+    },
+    {
+      "slide": 22,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        329.0,
+        347.0,
+        365.0,
+        383.5,
+        401.5,
+        419.5
+      ]
+    },
+    {
+      "slide": 23,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        113.5,
+        133.0,
+        152.5,
+        172.0,
+        191.5,
+        210.5
+      ]
+    },
+    {
+      "slide": 23,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        239.0,
+        258.5,
+        278.0,
+        297.5,
+        317.0,
+        336.0
+      ]
+    },
+    {
+      "slide": 23,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        364.5,
+        384.0,
+        403.5,
+        423.0,
+        442.5,
+        461.5
+      ]
+    },
+    {
+      "slide": 24,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        111.5,
+        128.5,
+        145.0,
+        162.0,
+        179.0,
+        196.0
+      ]
+    },
+    {
+      "slide": 24,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        220.5,
+        237.5,
+        254.0,
+        271.0,
+        288.0,
+        305.0
+      ]
+    },
+    {
+      "slide": 24,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        329.5,
+        346.5,
+        363.0,
+        380.0,
+        397.0,
+        414.0
+      ]
+    },
+    {
+      "slide": 25,
+      "paragraph": 1,
+      "lines": 5,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0
+      ]
+    },
+    {
+      "slide": 25,
       "paragraph": 2,
       "lines": 6,
       "pass": true,
@@ -160,7 +1005,7 @@
       ]
     },
     {
-      "slide": 5,
+      "slide": 25,
       "paragraph": 3,
       "lines": 6,
       "pass": true,
@@ -171,851 +1016,6 @@
         383.5,
         401.5,
         419.5
-      ]
-    },
-    {
-      "slide": 6,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        113.5,
-        133.0,
-        152.5,
-        172.0,
-        191.5,
-        210.5
-      ]
-    },
-    {
-      "slide": 6,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        239.0,
-        258.5,
-        278.0,
-        297.5,
-        317.0,
-        336.0
-      ]
-    },
-    {
-      "slide": 6,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        364.5,
-        384.0,
-        403.5,
-        423.0,
-        442.5,
-        461.5
-      ]
-    },
-    {
-      "slide": 7,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0
-      ]
-    },
-    {
-      "slide": 7,
-      "paragraph": 2,
-      "lines": 5,
-      "pass": true,
-      "line_top_y": [
-        230.0,
-        248.0,
-        266.0,
-        284.0,
-        302.5
-      ]
-    },
-    {
-      "slide": 7,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        329.0,
-        347.0,
-        365.0,
-        383.5,
-        401.5,
-        419.5
-      ]
-    },
-    {
-      "slide": 8,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0
-      ]
-    },
-    {
-      "slide": 8,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        230.0,
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5
-      ]
-    },
-    {
-      "slide": 8,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        347.0,
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5
-      ]
-    },
-    {
-      "slide": 9,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0
-      ]
-    },
-    {
-      "slide": 9,
-      "paragraph": 2,
-      "lines": 5,
-      "pass": true,
-      "line_top_y": [
-        230.0,
-        248.0,
-        266.0,
-        284.0,
-        302.5
-      ]
-    },
-    {
-      "slide": 9,
-      "paragraph": 3,
-      "lines": 7,
-      "pass": true,
-      "line_top_y": [
-        329.0,
-        347.0,
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5
-      ]
-    },
-    {
-      "slide": 10,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0
-      ]
-    },
-    {
-      "slide": 10,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        230.0,
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5
-      ]
-    },
-    {
-      "slide": 10,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        347.0,
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5
-      ]
-    },
-    {
-      "slide": 11,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0
-      ]
-    },
-    {
-      "slide": 11,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        230.0,
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5
-      ]
-    },
-    {
-      "slide": 11,
-      "paragraph": 3,
-      "lines": 7,
-      "pass": true,
-      "line_top_y": [
-        347.0,
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5,
-        456.0
-      ]
-    },
-    {
-      "slide": 12,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        113.5,
-        133.0,
-        152.5,
-        172.0,
-        191.5,
-        210.5
-      ]
-    },
-    {
-      "slide": 12,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        239.0,
-        258.5,
-        278.0,
-        297.5,
-        317.0,
-        336.0
-      ]
-    },
-    {
-      "slide": 12,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        364.5,
-        384.0,
-        403.5,
-        423.0,
-        442.5,
-        461.5
-      ]
-    },
-    {
-      "slide": 13,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0
-      ]
-    },
-    {
-      "slide": 13,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        230.0,
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5
-      ]
-    },
-    {
-      "slide": 13,
-      "paragraph": 3,
-      "lines": 7,
-      "pass": true,
-      "line_top_y": [
-        347.0,
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5,
-        456.0
-      ]
-    },
-    {
-      "slide": 14,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0
-      ]
-    },
-    {
-      "slide": 14,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        230.0,
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5
-      ]
-    },
-    {
-      "slide": 14,
-      "paragraph": 3,
-      "lines": 7,
-      "pass": true,
-      "line_top_y": [
-        347.0,
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5,
-        456.0
-      ]
-    },
-    {
-      "slide": 15,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0
-      ]
-    },
-    {
-      "slide": 15,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        230.0,
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5
-      ]
-    },
-    {
-      "slide": 15,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        347.0,
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5
-      ]
-    },
-    {
-      "slide": 16,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0
-      ]
-    },
-    {
-      "slide": 16,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        230.0,
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5
-      ]
-    },
-    {
-      "slide": 16,
-      "paragraph": 3,
-      "lines": 7,
-      "pass": true,
-      "line_top_y": [
-        347.0,
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5,
-        456.0
-      ]
-    },
-    {
-      "slide": 17,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0
-      ]
-    },
-    {
-      "slide": 17,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        230.0,
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5
-      ]
-    },
-    {
-      "slide": 17,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        347.0,
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5
-      ]
-    },
-    {
-      "slide": 18,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0
-      ]
-    },
-    {
-      "slide": 18,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        230.0,
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5
-      ]
-    },
-    {
-      "slide": 18,
-      "paragraph": 3,
-      "lines": 5,
-      "pass": true,
-      "line_top_y": [
-        347.0,
-        365.0,
-        383.5,
-        401.5,
-        419.5
-      ]
-    },
-    {
-      "slide": 19,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0
-      ]
-    },
-    {
-      "slide": 19,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        230.0,
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5
-      ]
-    },
-    {
-      "slide": 19,
-      "paragraph": 3,
-      "lines": 7,
-      "pass": true,
-      "line_top_y": [
-        347.0,
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5,
-        456.0
-      ]
-    },
-    {
-      "slide": 20,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        113.5,
-        133.0,
-        152.5,
-        172.0,
-        191.5,
-        210.5
-      ]
-    },
-    {
-      "slide": 20,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        239.0,
-        258.5,
-        278.0,
-        297.5,
-        317.0,
-        336.0
-      ]
-    },
-    {
-      "slide": 20,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        364.5,
-        384.0,
-        403.5,
-        423.0,
-        442.5,
-        461.5
-      ]
-    },
-    {
-      "slide": 21,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0
-      ]
-    },
-    {
-      "slide": 21,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        230.0,
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5
-      ]
-    },
-    {
-      "slide": 21,
-      "paragraph": 3,
-      "lines": 7,
-      "pass": true,
-      "line_top_y": [
-        347.0,
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5,
-        456.0
-      ]
-    },
-    {
-      "slide": 22,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0
-      ]
-    },
-    {
-      "slide": 22,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        230.0,
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5
-      ]
-    },
-    {
-      "slide": 22,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        347.0,
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5
-      ]
-    },
-    {
-      "slide": 23,
-      "paragraph": 1,
-      "lines": 7,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0,
-        221.5
-      ]
-    },
-    {
-      "slide": 23,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5,
-        338.5
-      ]
-    },
-    {
-      "slide": 23,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5,
-        456.0
-      ]
-    },
-    {
-      "slide": 24,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0
-      ]
-    },
-    {
-      "slide": 24,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        230.0,
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5
-      ]
-    },
-    {
-      "slide": 24,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        347.0,
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5
-      ]
-    },
-    {
-      "slide": 25,
-      "paragraph": 1,
-      "lines": 5,
-      "pass": true,
-      "line_top_y": [
-        113.5,
-        133.0,
-        152.5,
-        172.0,
-        191.5
-      ]
-    },
-    {
-      "slide": 25,
-      "paragraph": 2,
-      "lines": 7,
-      "pass": true,
-      "line_top_y": [
-        219.5,
-        239.0,
-        258.5,
-        278.0,
-        297.5,
-        317.0,
-        336.0
-      ]
-    },
-    {
-      "slide": 25,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        364.5,
-        384.0,
-        403.5,
-        423.0,
-        442.5,
-        461.5
       ]
     },
     {
@@ -1066,12 +1066,12 @@
       "lines": 6,
       "pass": true,
       "line_top_y": [
-        113.5,
-        133.0,
-        152.5,
-        172.0,
-        191.5,
-        210.5
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0
       ]
     },
     {
@@ -1080,12 +1080,12 @@
       "lines": 6,
       "pass": true,
       "line_top_y": [
-        239.0,
-        258.5,
-        278.0,
-        297.5,
-        317.0,
-        336.0
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5
       ]
     },
     {
@@ -1094,12 +1094,12 @@
       "lines": 6,
       "pass": true,
       "line_top_y": [
-        364.5,
-        384.0,
-        403.5,
-        423.0,
-        442.5,
-        461.5
+        347.0,
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5
       ]
     },
     {
@@ -1119,14 +1119,15 @@
     {
       "slide": 28,
       "paragraph": 2,
-      "lines": 5,
+      "lines": 6,
       "pass": true,
       "line_top_y": [
         230.0,
         248.0,
         266.0,
         284.0,
-        302.5
+        302.5,
+        320.5
       ]
     },
     {
@@ -1135,12 +1136,12 @@
       "lines": 6,
       "pass": true,
       "line_top_y": [
-        329.0,
         347.0,
         365.0,
         383.5,
         401.5,
-        419.5
+        419.5,
+        437.5
       ]
     },
     {
@@ -1187,133 +1188,6 @@
     },
     {
       "slide": 30,
-      "paragraph": 1,
-      "lines": 7,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0,
-        221.5
-      ]
-    },
-    {
-      "slide": 30,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5,
-        338.5
-      ]
-    },
-    {
-      "slide": 30,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5,
-        456.0
-      ]
-    },
-    {
-      "slide": 31,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0
-      ]
-    },
-    {
-      "slide": 31,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        230.0,
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5
-      ]
-    },
-    {
-      "slide": 31,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        347.0,
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5
-      ]
-    },
-    {
-      "slide": 32,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0
-      ]
-    },
-    {
-      "slide": 32,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        230.0,
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5
-      ]
-    },
-    {
-      "slide": 32,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        347.0,
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5
-      ]
-    },
-    {
-      "slide": 33,
       "paragraph": 1,
       "lines": 6,
       "pass": true,
@@ -1327,7 +1201,7 @@
       ]
     },
     {
-      "slide": 33,
+      "slide": 30,
       "paragraph": 2,
       "lines": 6,
       "pass": true,
@@ -1341,9 +1215,9 @@
       ]
     },
     {
-      "slide": 33,
+      "slide": 30,
       "paragraph": 3,
-      "lines": 7,
+      "lines": 6,
       "pass": true,
       "line_top_y": [
         329.5,
@@ -1351,8 +1225,134 @@
         363.0,
         380.0,
         397.0,
-        414.0,
-        430.5
+        414.0
+      ]
+    },
+    {
+      "slide": 31,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0
+      ]
+    },
+    {
+      "slide": 31,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5
+      ]
+    },
+    {
+      "slide": 31,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        347.0,
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5
+      ]
+    },
+    {
+      "slide": 32,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0
+      ]
+    },
+    {
+      "slide": 32,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5
+      ]
+    },
+    {
+      "slide": 32,
+      "paragraph": 3,
+      "lines": 7,
+      "pass": true,
+      "line_top_y": [
+        347.0,
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5,
+        456.0
+      ]
+    },
+    {
+      "slide": 33,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0
+      ]
+    },
+    {
+      "slide": 33,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5
+      ]
+    },
+    {
+      "slide": 33,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        347.0,
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5
       ]
     },
     {
@@ -1400,133 +1400,6 @@
     },
     {
       "slide": 35,
-      "paragraph": 1,
-      "lines": 7,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0,
-        221.5
-      ]
-    },
-    {
-      "slide": 35,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5,
-        338.5
-      ]
-    },
-    {
-      "slide": 35,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5,
-        456.0
-      ]
-    },
-    {
-      "slide": 36,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0
-      ]
-    },
-    {
-      "slide": 36,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        230.0,
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5
-      ]
-    },
-    {
-      "slide": 36,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        347.0,
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5
-      ]
-    },
-    {
-      "slide": 37,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0
-      ]
-    },
-    {
-      "slide": 37,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        230.0,
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5
-      ]
-    },
-    {
-      "slide": 37,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        347.0,
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5
-      ]
-    },
-    {
-      "slide": 38,
       "paragraph": 1,
       "lines": 6,
       "pass": true,
@@ -1540,11 +1413,435 @@
       ]
     },
     {
+      "slide": 35,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        220.5,
+        237.5,
+        254.0,
+        271.0,
+        288.0,
+        305.0
+      ]
+    },
+    {
+      "slide": 35,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        329.5,
+        346.5,
+        363.0,
+        380.0,
+        397.0,
+        414.0
+      ]
+    },
+    {
+      "slide": 36,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        111.5,
+        128.5,
+        145.0,
+        162.0,
+        179.0,
+        196.0
+      ]
+    },
+    {
+      "slide": 36,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        220.5,
+        237.5,
+        254.0,
+        271.0,
+        288.0,
+        305.0
+      ]
+    },
+    {
+      "slide": 36,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        329.5,
+        346.5,
+        363.0,
+        380.0,
+        397.0,
+        414.0
+      ]
+    },
+    {
+      "slide": 37,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0
+      ]
+    },
+    {
+      "slide": 37,
+      "paragraph": 2,
+      "lines": 7,
+      "pass": true,
+      "line_top_y": [
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5,
+        338.5
+      ]
+    },
+    {
+      "slide": 37,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5,
+        456.0
+      ]
+    },
+    {
+      "slide": 38,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0
+      ]
+    },
+    {
       "slide": 38,
       "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5
+      ]
+    },
+    {
+      "slide": 38,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        347.0,
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5
+      ]
+    },
+    {
+      "slide": 39,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0
+      ]
+    },
+    {
+      "slide": 39,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5
+      ]
+    },
+    {
+      "slide": 39,
+      "paragraph": 3,
+      "lines": 7,
+      "pass": true,
+      "line_top_y": [
+        347.0,
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5,
+        456.0
+      ]
+    },
+    {
+      "slide": 40,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0
+      ]
+    },
+    {
+      "slide": 40,
+      "paragraph": 2,
+      "lines": 7,
+      "pass": true,
+      "line_top_y": [
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5,
+        338.5
+      ]
+    },
+    {
+      "slide": 40,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5,
+        456.0
+      ]
+    },
+    {
+      "slide": 41,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        111.5,
+        128.5,
+        145.0,
+        162.0,
+        179.0,
+        196.0
+      ]
+    },
+    {
+      "slide": 41,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        220.5,
+        237.5,
+        254.0,
+        271.0,
+        288.0,
+        305.0
+      ]
+    },
+    {
+      "slide": 41,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        329.5,
+        346.5,
+        363.0,
+        380.0,
+        397.0,
+        414.0
+      ]
+    },
+    {
+      "slide": 42,
+      "paragraph": 1,
       "lines": 5,
       "pass": true,
       "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0
+      ]
+    },
+    {
+      "slide": 42,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        211.5,
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5
+      ]
+    },
+    {
+      "slide": 42,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        329.0,
+        347.0,
+        365.0,
+        383.5,
+        401.5,
+        419.5
+      ]
+    },
+    {
+      "slide": 43,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0
+      ]
+    },
+    {
+      "slide": 43,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5
+      ]
+    },
+    {
+      "slide": 43,
+      "paragraph": 3,
+      "lines": 7,
+      "pass": true,
+      "line_top_y": [
+        347.0,
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5,
+        456.0
+      ]
+    },
+    {
+      "slide": 44,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0
+      ]
+    },
+    {
+      "slide": 44,
+      "paragraph": 2,
+      "lines": 7,
+      "pass": true,
+      "line_top_y": [
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5,
+        338.5
+      ]
+    },
+    {
+      "slide": 44,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5,
+        456.0
+      ]
+    },
+    {
+      "slide": 45,
+      "paragraph": 1,
+      "lines": 5,
+      "pass": true,
+      "line_top_y": [
+        111.5,
+        128.5,
+        145.0,
+        162.0,
+        179.0
+      ]
+    },
+    {
+      "slide": 45,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        203.5,
         220.5,
         237.5,
         254.0,
@@ -1553,7 +1850,7 @@
       ]
     },
     {
-      "slide": 38,
+      "slide": 45,
       "paragraph": 3,
       "lines": 6,
       "pass": true,
@@ -1567,7 +1864,7 @@
       ]
     },
     {
-      "slide": 39,
+      "slide": 46,
       "paragraph": 1,
       "lines": 6,
       "pass": true,
@@ -1581,7 +1878,7 @@
       ]
     },
     {
-      "slide": 39,
+      "slide": 46,
       "paragraph": 2,
       "lines": 6,
       "pass": true,
@@ -1595,7 +1892,7 @@
       ]
     },
     {
-      "slide": 39,
+      "slide": 46,
       "paragraph": 3,
       "lines": 6,
       "pass": true,
@@ -1609,7 +1906,7 @@
       ]
     },
     {
-      "slide": 40,
+      "slide": 47,
       "paragraph": 1,
       "lines": 6,
       "pass": true,
@@ -1623,7 +1920,7 @@
       ]
     },
     {
-      "slide": 40,
+      "slide": 47,
       "paragraph": 2,
       "lines": 6,
       "pass": true,
@@ -1637,7 +1934,7 @@
       ]
     },
     {
-      "slide": 40,
+      "slide": 47,
       "paragraph": 3,
       "lines": 7,
       "pass": true,
@@ -1652,178 +1949,7 @@
       ]
     },
     {
-      "slide": 41,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0
-      ]
-    },
-    {
-      "slide": 41,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        230.0,
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5
-      ]
-    },
-    {
-      "slide": 41,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        347.0,
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5
-      ]
-    },
-    {
-      "slide": 42,
-      "paragraph": 1,
-      "lines": 7,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0,
-        221.5
-      ]
-    },
-    {
-      "slide": 42,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5,
-        338.5
-      ]
-    },
-    {
-      "slide": 42,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5,
-        456.0
-      ]
-    },
-    {
-      "slide": 43,
-      "paragraph": 1,
-      "lines": 7,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0,
-        221.5
-      ]
-    },
-    {
-      "slide": 43,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5,
-        338.5
-      ]
-    },
-    {
-      "slide": 43,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5,
-        456.0
-      ]
-    },
-    {
-      "slide": 44,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0
-      ]
-    },
-    {
-      "slide": 44,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        230.0,
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5
-      ]
-    },
-    {
-      "slide": 44,
-      "paragraph": 3,
-      "lines": 7,
-      "pass": true,
-      "line_top_y": [
-        347.0,
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5,
-        456.0
-      ]
-    },
-    {
-      "slide": 45,
+      "slide": 48,
       "paragraph": 1,
       "lines": 6,
       "pass": true,
@@ -1837,7 +1963,7 @@
       ]
     },
     {
-      "slide": 45,
+      "slide": 48,
       "paragraph": 2,
       "lines": 6,
       "pass": true,
@@ -1851,9 +1977,9 @@
       ]
     },
     {
-      "slide": 45,
+      "slide": 48,
       "paragraph": 3,
-      "lines": 6,
+      "lines": 7,
       "pass": true,
       "line_top_y": [
         329.5,
@@ -1861,11 +1987,12 @@
         363.0,
         380.0,
         397.0,
-        414.0
+        414.0,
+        430.5
       ]
     },
     {
-      "slide": 46,
+      "slide": 49,
       "paragraph": 1,
       "lines": 6,
       "pass": true,
@@ -1879,7 +2006,7 @@
       ]
     },
     {
-      "slide": 46,
+      "slide": 49,
       "paragraph": 2,
       "lines": 6,
       "pass": true,
@@ -1893,7 +2020,7 @@
       ]
     },
     {
-      "slide": 46,
+      "slide": 49,
       "paragraph": 3,
       "lines": 6,
       "pass": true,
@@ -1904,134 +2031,6 @@
         401.5,
         419.5,
         437.5
-      ]
-    },
-    {
-      "slide": 47,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0
-      ]
-    },
-    {
-      "slide": 47,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        230.0,
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5
-      ]
-    },
-    {
-      "slide": 47,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        347.0,
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5
-      ]
-    },
-    {
-      "slide": 48,
-      "paragraph": 1,
-      "lines": 7,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0,
-        221.5
-      ]
-    },
-    {
-      "slide": 48,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5,
-        338.5
-      ]
-    },
-    {
-      "slide": 48,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5,
-        456.0
-      ]
-    },
-    {
-      "slide": 49,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0
-      ]
-    },
-    {
-      "slide": 49,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        230.0,
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5
-      ]
-    },
-    {
-      "slide": 49,
-      "paragraph": 3,
-      "lines": 7,
-      "pass": true,
-      "line_top_y": [
-        347.0,
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5,
-        456.0
       ]
     },
     {
@@ -2079,7 +2078,7 @@
     {
       "slide": 51,
       "paragraph": 1,
-      "lines": 7,
+      "lines": 6,
       "pass": true,
       "line_top_y": [
         112.5,
@@ -2087,8 +2086,7 @@
         149.0,
         167.0,
         185.0,
-        203.0,
-        221.5
+        203.0
       ]
     },
     {
@@ -2097,20 +2095,21 @@
       "lines": 6,
       "pass": true,
       "line_top_y": [
+        230.0,
         248.0,
         266.0,
         284.0,
         302.5,
-        320.5,
-        338.5
+        320.5
       ]
     },
     {
       "slide": 51,
       "paragraph": 3,
-      "lines": 6,
+      "lines": 7,
       "pass": true,
       "line_top_y": [
+        347.0,
         365.0,
         383.5,
         401.5,
@@ -2125,12 +2124,12 @@
       "lines": 6,
       "pass": true,
       "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0
+        111.5,
+        128.5,
+        145.0,
+        162.0,
+        179.0,
+        196.0
       ]
     },
     {
@@ -2139,26 +2138,27 @@
       "lines": 6,
       "pass": true,
       "line_top_y": [
-        230.0,
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5
+        220.5,
+        237.5,
+        254.0,
+        271.0,
+        288.0,
+        305.0
       ]
     },
     {
       "slide": 52,
       "paragraph": 3,
-      "lines": 6,
+      "lines": 7,
       "pass": true,
       "line_top_y": [
-        347.0,
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5
+        329.5,
+        346.5,
+        363.0,
+        380.0,
+        397.0,
+        414.0,
+        430.5
       ]
     },
     {
@@ -2178,7 +2178,7 @@
     {
       "slide": 53,
       "paragraph": 2,
-      "lines": 7,
+      "lines": 6,
       "pass": true,
       "line_top_y": [
         230.0,
@@ -2186,16 +2186,16 @@
         266.0,
         284.0,
         302.5,
-        320.5,
-        338.5
+        320.5
       ]
     },
     {
       "slide": 53,
       "paragraph": 3,
-      "lines": 6,
+      "lines": 7,
       "pass": true,
       "line_top_y": [
+        347.0,
         365.0,
         383.5,
         401.5,
@@ -2278,6 +2278,135 @@
     {
       "slide": 55,
       "paragraph": 3,
+      "lines": 7,
+      "pass": true,
+      "line_top_y": [
+        347.0,
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5,
+        456.0
+      ]
+    },
+    {
+      "slide": 56,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0
+      ]
+    },
+    {
+      "slide": 56,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5
+      ]
+    },
+    {
+      "slide": 56,
+      "paragraph": 3,
+      "lines": 7,
+      "pass": true,
+      "line_top_y": [
+        347.0,
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5,
+        456.0
+      ]
+    },
+    {
+      "slide": 57,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0
+      ]
+    },
+    {
+      "slide": 57,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5
+      ]
+    },
+    {
+      "slide": 57,
+      "paragraph": 3,
+      "lines": 7,
+      "pass": true,
+      "line_top_y": [
+        347.0,
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5,
+        456.0
+      ]
+    },
+    {
+      "slide": 58,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0
+      ]
+    },
+    {
+      "slide": 58,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5
+      ]
+    },
+    {
+      "slide": 58,
+      "paragraph": 3,
       "lines": 6,
       "pass": true,
       "line_top_y": [
@@ -2290,7 +2419,7 @@
       ]
     },
     {
-      "slide": 56,
+      "slide": 59,
       "paragraph": 1,
       "lines": 6,
       "pass": true,
@@ -2304,7 +2433,7 @@
       ]
     },
     {
-      "slide": 56,
+      "slide": 59,
       "paragraph": 2,
       "lines": 6,
       "pass": true,
@@ -2318,7 +2447,7 @@
       ]
     },
     {
-      "slide": 56,
+      "slide": 59,
       "paragraph": 3,
       "lines": 7,
       "pass": true,
@@ -2333,133 +2462,6 @@
       ]
     },
     {
-      "slide": 57,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        111.5,
-        128.5,
-        145.0,
-        162.0,
-        179.0,
-        196.0
-      ]
-    },
-    {
-      "slide": 57,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        220.5,
-        237.5,
-        254.0,
-        271.0,
-        288.0,
-        305.0
-      ]
-    },
-    {
-      "slide": 57,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        329.5,
-        346.5,
-        363.0,
-        380.0,
-        397.0,
-        414.0
-      ]
-    },
-    {
-      "slide": 58,
-      "paragraph": 1,
-      "lines": 7,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0,
-        221.5
-      ]
-    },
-    {
-      "slide": 58,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5,
-        338.5
-      ]
-    },
-    {
-      "slide": 58,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5,
-        456.0
-      ]
-    },
-    {
-      "slide": 59,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        111.5,
-        128.5,
-        145.0,
-        162.0,
-        179.0,
-        196.0
-      ]
-    },
-    {
-      "slide": 59,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        220.5,
-        237.5,
-        254.0,
-        271.0,
-        288.0,
-        305.0
-      ]
-    },
-    {
-      "slide": 59,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        329.5,
-        346.5,
-        363.0,
-        380.0,
-        397.0,
-        414.0
-      ]
-    },
-    {
       "slide": 60,
       "paragraph": 1,
       "lines": 6,
@@ -2490,7 +2492,7 @@
     {
       "slide": 60,
       "paragraph": 3,
-      "lines": 6,
+      "lines": 7,
       "pass": true,
       "line_top_y": [
         329.5,
@@ -2498,11 +2500,55 @@
         363.0,
         380.0,
         397.0,
-        414.0
+        414.0,
+        430.5
       ]
     },
     {
       "slide": 61,
+      "paragraph": 1,
+      "lines": 7,
+      "pass": true,
+      "line_top_y": [
+        111.5,
+        128.5,
+        145.0,
+        162.0,
+        179.0,
+        196.0,
+        212.5
+      ]
+    },
+    {
+      "slide": 61,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        237.5,
+        254.0,
+        271.0,
+        288.0,
+        305.0,
+        321.5
+      ]
+    },
+    {
+      "slide": 61,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        346.5,
+        363.0,
+        380.0,
+        397.0,
+        414.0,
+        430.5
+      ]
+    },
+    {
+      "slide": 62,
       "paragraph": 1,
       "lines": 6,
       "pass": true,
@@ -2516,7 +2562,7 @@
       ]
     },
     {
-      "slide": 61,
+      "slide": 62,
       "paragraph": 2,
       "lines": 6,
       "pass": true,
@@ -2530,7 +2576,7 @@
       ]
     },
     {
-      "slide": 61,
+      "slide": 62,
       "paragraph": 3,
       "lines": 6,
       "pass": true,
@@ -2544,307 +2590,49 @@
       ]
     },
     {
-      "slide": 62,
-      "paragraph": 1,
-      "lines": 7,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0,
-        221.5
-      ]
-    },
-    {
-      "slide": 62,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5,
-        338.5
-      ]
-    },
-    {
-      "slide": 62,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5,
-        456.0
-      ]
-    },
-    {
       "slide": 63,
       "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0
-      ]
-    },
-    {
-      "slide": 63,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        230.0,
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5
-      ]
-    },
-    {
-      "slide": 63,
-      "paragraph": 3,
-      "lines": 7,
-      "pass": true,
-      "line_top_y": [
-        347.0,
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5,
-        456.0
-      ]
-    },
-    {
-      "slide": 64,
-      "paragraph": 1,
-      "lines": 7,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0,
-        221.5
-      ]
-    },
-    {
-      "slide": 64,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5,
-        338.5
-      ]
-    },
-    {
-      "slide": 64,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5,
-        456.0
-      ]
-    },
-    {
-      "slide": 65,
-      "paragraph": 1,
-      "lines": 7,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0,
-        221.5
-      ]
-    },
-    {
-      "slide": 65,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5,
-        338.5
-      ]
-    },
-    {
-      "slide": 65,
-      "paragraph": 3,
-      "lines": 7,
-      "pass": true,
-      "line_top_y": [
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5,
-        456.0,
-        474.0
-      ]
-    },
-    {
-      "slide": 66,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        111.5,
-        128.5,
-        145.0,
-        162.0,
-        179.0,
-        196.0
-      ]
-    },
-    {
-      "slide": 66,
-      "paragraph": 2,
       "lines": 5,
       "pass": true,
       "line_top_y": [
-        220.5,
-        237.5,
-        254.0,
-        271.0,
-        288.0
-      ]
-    },
-    {
-      "slide": 66,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        312.5,
-        329.5,
-        346.5,
-        363.0,
-        380.0,
-        397.0
-      ]
-    },
-    {
-      "slide": 67,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        111.5,
-        128.5,
-        145.0,
-        162.0,
-        179.0,
-        196.0
-      ]
-    },
-    {
-      "slide": 67,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        220.5,
-        237.5,
-        254.0,
-        271.0,
-        288.0,
-        305.0
-      ]
-    },
-    {
-      "slide": 67,
-      "paragraph": 3,
-      "lines": 7,
-      "pass": true,
-      "line_top_y": [
-        329.5,
-        346.5,
-        363.0,
-        380.0,
-        397.0,
-        414.0,
-        430.5
-      ]
-    },
-    {
-      "slide": 68,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
         112.5,
         130.5,
         149.0,
         167.0,
-        185.0,
-        203.0
+        185.0
       ]
     },
     {
-      "slide": 68,
+      "slide": 63,
       "paragraph": 2,
       "lines": 6,
       "pass": true,
       "line_top_y": [
+        211.5,
         230.0,
         248.0,
         266.0,
         284.0,
-        302.5,
-        320.5
+        302.5
       ]
     },
     {
-      "slide": 68,
+      "slide": 63,
       "paragraph": 3,
       "lines": 7,
       "pass": true,
       "line_top_y": [
+        329.0,
         347.0,
         365.0,
         383.5,
         401.5,
         419.5,
-        437.5,
-        456.0
+        437.5
       ]
     },
     {
-      "slide": 69,
+      "slide": 64,
       "paragraph": 1,
       "lines": 6,
       "pass": true,
@@ -2858,7 +2646,7 @@
       ]
     },
     {
-      "slide": 69,
+      "slide": 64,
       "paragraph": 2,
       "lines": 6,
       "pass": true,
@@ -2872,135 +2660,7 @@
       ]
     },
     {
-      "slide": 69,
-      "paragraph": 3,
-      "lines": 7,
-      "pass": true,
-      "line_top_y": [
-        347.0,
-        365.0,
-        383.5,
-        401.5,
-        419.5,
-        437.5,
-        456.0
-      ]
-    },
-    {
-      "slide": 70,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        111.5,
-        128.5,
-        145.0,
-        162.0,
-        179.0,
-        196.0
-      ]
-    },
-    {
-      "slide": 70,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        220.5,
-        237.5,
-        254.0,
-        271.0,
-        288.0,
-        305.0
-      ]
-    },
-    {
-      "slide": 70,
-      "paragraph": 3,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        329.5,
-        346.5,
-        363.0,
-        380.0,
-        397.0,
-        414.0
-      ]
-    },
-    {
-      "slide": 71,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        111.5,
-        128.5,
-        145.0,
-        162.0,
-        179.0,
-        196.0
-      ]
-    },
-    {
-      "slide": 71,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        220.5,
-        237.5,
-        254.0,
-        271.0,
-        288.0,
-        305.0
-      ]
-    },
-    {
-      "slide": 71,
-      "paragraph": 3,
-      "lines": 7,
-      "pass": true,
-      "line_top_y": [
-        329.5,
-        346.5,
-        363.0,
-        380.0,
-        397.0,
-        414.0,
-        430.5
-      ]
-    },
-    {
-      "slide": 72,
-      "paragraph": 1,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        112.5,
-        130.5,
-        149.0,
-        167.0,
-        185.0,
-        203.0
-      ]
-    },
-    {
-      "slide": 72,
-      "paragraph": 2,
-      "lines": 6,
-      "pass": true,
-      "line_top_y": [
-        230.0,
-        248.0,
-        266.0,
-        284.0,
-        302.5,
-        320.5
-      ]
-    },
-    {
-      "slide": 72,
+      "slide": 64,
       "paragraph": 3,
       "lines": 6,
       "pass": true,
@@ -3014,7 +2674,135 @@
       ]
     },
     {
-      "slide": 73,
+      "slide": 65,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0
+      ]
+    },
+    {
+      "slide": 65,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5
+      ]
+    },
+    {
+      "slide": 65,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        347.0,
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5
+      ]
+    },
+    {
+      "slide": 66,
+      "paragraph": 1,
+      "lines": 7,
+      "pass": true,
+      "line_top_y": [
+        111.5,
+        128.5,
+        145.0,
+        162.0,
+        179.0,
+        196.0,
+        212.5
+      ]
+    },
+    {
+      "slide": 66,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        237.5,
+        254.0,
+        271.0,
+        288.0,
+        305.0,
+        321.5
+      ]
+    },
+    {
+      "slide": 66,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        346.5,
+        363.0,
+        380.0,
+        397.0,
+        414.0,
+        430.5
+      ]
+    },
+    {
+      "slide": 67,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0
+      ]
+    },
+    {
+      "slide": 67,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5
+      ]
+    },
+    {
+      "slide": 67,
+      "paragraph": 3,
+      "lines": 7,
+      "pass": true,
+      "line_top_y": [
+        347.0,
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5,
+        456.0
+      ]
+    },
+    {
+      "slide": 68,
       "paragraph": 1,
       "lines": 6,
       "pass": true,
@@ -3028,7 +2816,7 @@
       ]
     },
     {
-      "slide": 73,
+      "slide": 68,
       "paragraph": 2,
       "lines": 6,
       "pass": true,
@@ -3042,7 +2830,7 @@
       ]
     },
     {
-      "slide": 73,
+      "slide": 68,
       "paragraph": 3,
       "lines": 6,
       "pass": true,
@@ -3056,7 +2844,50 @@
       ]
     },
     {
-      "slide": 74,
+      "slide": 69,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0
+      ]
+    },
+    {
+      "slide": 69,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        230.0,
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5
+      ]
+    },
+    {
+      "slide": 69,
+      "paragraph": 3,
+      "lines": 7,
+      "pass": true,
+      "line_top_y": [
+        347.0,
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5,
+        456.0
+      ]
+    },
+    {
+      "slide": 70,
       "paragraph": 1,
       "lines": 6,
       "pass": true,
@@ -3070,7 +2901,7 @@
       ]
     },
     {
-      "slide": 74,
+      "slide": 70,
       "paragraph": 2,
       "lines": 6,
       "pass": true,
@@ -3084,7 +2915,93 @@
       ]
     },
     {
-      "slide": 74,
+      "slide": 70,
+      "paragraph": 3,
+      "lines": 7,
+      "pass": true,
+      "line_top_y": [
+        329.5,
+        346.5,
+        363.0,
+        380.0,
+        397.0,
+        414.0,
+        430.5
+      ]
+    },
+    {
+      "slide": 71,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        111.5,
+        128.5,
+        145.0,
+        162.0,
+        179.0,
+        196.0
+      ]
+    },
+    {
+      "slide": 71,
+      "paragraph": 2,
+      "lines": 7,
+      "pass": true,
+      "line_top_y": [
+        220.5,
+        237.5,
+        254.0,
+        271.0,
+        288.0,
+        305.0,
+        321.5
+      ]
+    },
+    {
+      "slide": 71,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        346.5,
+        363.0,
+        380.0,
+        397.0,
+        414.0,
+        430.5
+      ]
+    },
+    {
+      "slide": 72,
+      "paragraph": 1,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        111.5,
+        128.5,
+        145.0,
+        162.0,
+        179.0,
+        196.0
+      ]
+    },
+    {
+      "slide": 72,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        220.5,
+        237.5,
+        254.0,
+        271.0,
+        288.0,
+        305.0
+      ]
+    },
+    {
+      "slide": 72,
       "paragraph": 3,
       "lines": 6,
       "pass": true,
@@ -3095,6 +3012,93 @@
         380.0,
         397.0,
         414.0
+      ]
+    },
+    {
+      "slide": 73,
+      "paragraph": 1,
+      "lines": 7,
+      "pass": true,
+      "line_top_y": [
+        112.5,
+        130.5,
+        149.0,
+        167.0,
+        185.0,
+        203.0,
+        221.5
+      ]
+    },
+    {
+      "slide": 73,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        248.0,
+        266.0,
+        284.0,
+        302.5,
+        320.5,
+        338.5
+      ]
+    },
+    {
+      "slide": 73,
+      "paragraph": 3,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        365.0,
+        383.5,
+        401.5,
+        419.5,
+        437.5,
+        456.0
+      ]
+    },
+    {
+      "slide": 74,
+      "paragraph": 1,
+      "lines": 7,
+      "pass": true,
+      "line_top_y": [
+        111.5,
+        128.5,
+        145.0,
+        162.0,
+        179.0,
+        196.0,
+        212.5
+      ]
+    },
+    {
+      "slide": 74,
+      "paragraph": 2,
+      "lines": 6,
+      "pass": true,
+      "line_top_y": [
+        237.5,
+        254.0,
+        271.0,
+        288.0,
+        305.0,
+        321.5
+      ]
+    },
+    {
+      "slide": 74,
+      "paragraph": 3,
+      "lines": 7,
+      "pass": true,
+      "line_top_y": [
+        346.5,
+        363.0,
+        380.0,
+        397.0,
+        414.0,
+        430.5,
+        447.5
       ]
     }
   ]

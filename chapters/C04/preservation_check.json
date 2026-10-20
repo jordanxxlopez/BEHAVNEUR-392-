@@ -1,0 +1,18 @@
+{
+  "previous_pptx_sha256": "45cc26008c62034056943b87372589fd935dac6fd708dc90bde16c95a420dd07",
+  "non_body_shapes_identical": 582,
+  "source_and_recording_notes_identical": 75,
+  "all_embedded_image_and_movie_bytes_identical": true,
+  "slide_titles_and_order_identical": true,
+  "title_and_takeaway_slides_identical": true,
+  "old_body_point_sizes": {
+    "15.0": 61,
+    "14.0": 405,
+    "13.0": 74
+  },
+  "new_body_point_sizes": {
+    "14.0": 357,
+    "15.0": 53,
+    "13.0": 205
+  }
+}

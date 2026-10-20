@@ -22,8 +22,11 @@
   "fonts": [
     "Arial"
   ],
-  "pptx_bytes": 378611203,
-  "static_pdf_bytes": 9788886,
-  "pptx_sha256": "45cc26008c62034056943b87372589fd935dac6fd708dc90bde16c95a420dd07",
-  "static_pdf_sha256": "760329997388a19f865c404c3c4717df718b05a25e1b81ec52e23ea55683fe6e"
+  "pptx_bytes": 378610623,
+  "static_pdf_bytes": 9795739,
+  "pptx_sha256": "e39f3dd9ed247fa575d7ef6e02332786789cc8361e152cb34a13a4b58fd1bda3",
+  "static_pdf_sha256": "9d0128933c8519b381eb3ef7f780b85b7753232dc161225b110e45c16ef1fad8",
+  "teaching_style_revision": "219 rewritten paragraphs and matching transcripts; all nonprose spec fields unchanged",
+  "preservation_check": "preservation_check.json",
+  "style_regression_tests_passed": true
 }

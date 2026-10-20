@@ -1,0 +1,533 @@
+{
+  "scope": "All 73 content slides; only body and matching transcript fields changed",
+  "style_guide": "course/TEACHING_STYLE.md",
+  "instructor_example": "Plain-language cannabinoid/somatodendritic rewrite supplied in this conversation",
+  "neuroethology_reference_commit": "fa278dba43f4bb18527b3237845da0189a37ec24",
+  "paragraphs_rewritten": 219,
+  "unchanged": [
+    "lecture title",
+    "slide titles",
+    "slide order",
+    "slide count",
+    "layout",
+    "theme",
+    "figure paths and crops",
+    "citations and source legends",
+    "recordings and distribution",
+    "recording captions",
+    "takeaways"
+  ],
+  "slides": [
+    {
+      "slide": 2,
+      "title": "Chemicals change behavior by acting on living cells",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 3,
+      "title": "A drug and a neurotransmitter can act on the same receptor",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 4,
+      "title": "Microglial depletion changes the response to anesthesia",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 5,
+      "title": "Absorption determines how a drug enters circulation",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 6,
+      "title": "Distribution determines which tissues a drug reaches",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 7,
+      "title": "Drug access differs between surface and internal receptors",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 8,
+      "title": "A transporter gives dopamine access to an internal target",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 9,
+      "title": "Potency and efficacy describe different properties of a drug",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 10,
+      "title": "The same receptor class operates in different compartments",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 11,
+      "title": "Desired and adverse effects can rise at different doses",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 12,
+      "title": "An opioid receptor's location changes its active state",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 13,
+      "title": "Repeated exposure can decrease or increase a response",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 14,
+      "title": "Opioid exposure removes receptors from an axon's surface",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 15,
+      "title": "Opioid receptor subtypes differ in their recycling",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 16,
+      "title": "Expectations and conditioning change measured responses",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 17,
+      "title": "A drug response depends on the state of neural networks",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 18,
+      "title": "Transporters control access to an internal receptor",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 19,
+      "title": "Internal D1 receptors contribute to a second messenger",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 20,
+      "title": "Drugs can alter several stages of synaptic communication",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 21,
+      "title": "Proteins and precursors supply chemical signaling",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 22,
+      "title": "Vesicle storage and release offer presynaptic targets",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 23,
+      "title": "Opioids reduce release through a presynaptic receptor",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 24,
+      "title": "Receptor-containing cargo moves inside dendrites",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 25,
+      "title": "Agonists and antagonists alter receptor activation",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 26,
+      "title": "Synaptic stimulation changes local receptor transport",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 27,
+      "title": "Receptor delivery changes a cell's responsiveness",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 28,
+      "title": "Local stimulation concentrates receptor cargo nearby",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 29,
+      "title": "Actin and myosin help retain and deliver receptor cargo",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 30,
+      "title": "Glutamate activates several receptor classes",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 31,
+      "title": "Receptor vesicles fuse near a stimulated synapse",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 32,
+      "title": "GABA controls excitability through channels and G proteins",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 33,
+      "title": "A fluorescent sensor detects extracellular GABA release",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 34,
+      "title": "Allosteric drugs modify how a receptor responds",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 35,
+      "title": "Anesthesia alters brain activity as well as movement",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 36,
+      "title": "GABAergic neurons contribute to the control of wakefulness",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 37,
+      "title": "Acetylcholine acts through two major receptor families",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 38,
+      "title": "Cholinergic axons respond during behavioral engagement",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 39,
+      "title": "Two transmitter systems track facial movement",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 40,
+      "title": "Catecholamine synthesis creates a sequence of drug targets",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 41,
+      "title": "Dopamine pathways influence different functions",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 42,
+      "title": "Dopamine activates Golgi receptors in striatal neurons",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 43,
+      "title": "Transporter reduction alters dopamine signaling",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 44,
+      "title": "Autoreceptors let a neuron regulate its own output",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 45,
+      "title": "Local dopamine release activates a compartmental signal",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 46,
+      "title": "Reuptake and enzymes terminate monoamine signals",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 47,
+      "title": "Dopamine helps coordinate several motor programs",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 48,
+      "title": "Dopamine couples egg laying to a locomotor state",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 49,
+      "title": "Norepinephrine acts through several receptor types",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 50,
+      "title": "A noradrenergic projection suppresses pain behavior",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 51,
+      "title": "Neuromodulatory axons carry a broad cortical state signal",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 52,
+      "title": "Serotonin acts through several widespread pathways",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 53,
+      "title": "Serotonin-neuron activation changes movement across time",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 54,
+      "title": "Regenerated serotonin pathways aid recovered movement",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 55,
+      "title": "A prodrug changes cellular machinery after injury",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 56,
+      "title": "Histamine receptor location changes behavioral effects",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 57,
+      "title": "Peptide transmitters require different packaging",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 58,
+      "title": "Loss of two peptide-neuron populations alters sleep states",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 59,
+      "title": "Cataplexy differs from an ordinary sleep attack",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 60,
+      "title": "Opioid receptors regulate pain and other functions",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 61,
+      "title": "Receptor subtypes use different routes into tolerance",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 62,
+      "title": "Endocannabinoids are synthesized on demand",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 63,
+      "title": "CB1 activation rapidly changes a neuronal growth cone",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 64,
+      "title": "Myosin contributes to cannabinoid-induced retraction",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 65,
+      "title": "Cannabinoid activation also changes growth cones in slices",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 66,
+      "title": "Cytoskeletal inhibitors separate contraction from transport",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 67,
+      "title": "Lipid messengers can signal back toward a nerve terminal",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 68,
+      "title": "Chloride gradients determine an anion channel's effect",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 69,
+      "title": "A cannabinoid study measures visual behavior in tadpoles",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 70,
+      "title": "CB1 activation improves vision under dim illumination",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 71,
+      "title": "Cannabinoids change chloride-dependent excitability",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 72,
+      "title": "Receptor activation changes the mechanical state of a cell",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 73,
+      "title": "Agonists differ in receptor uptake and cellular tolerance",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    },
+    {
+      "slide": 74,
+      "title": "Cannabinoids reshape several neuronal compartments",
+      "paragraphs_rewritten": 3,
+      "matching_teaching_transcript": true,
+      "nonprose_fields_unchanged": true
+    }
+  ]
+}
