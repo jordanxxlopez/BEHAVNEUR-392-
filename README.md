@@ -46,6 +46,12 @@ The latest Chapter 1 history-expanded revision is in [chapters/C01/history_revis
 
 ## Chapter 7: body and chemical senses
 
-[Sensing the Body and the Chemical World: Balance, Touch, Pain, Taste, and Smell](chapters/C07/STATUS.md) is the instructor-authorized **75-slide nonauditory** Chapter 7 lecture. Audition and hearing are reserved for a separate future deck. It covers balance, touch, proprioception, temperature, itch, pain, taste, smell, and flavor, with 29 foundation slides, 44 research slides, and 40 embedded source recordings.
+[Sensing the Body and the Chemical World: Balance, Touch, Pain, Taste, and Smell](chapters/C07/STATUS.md) is the instructor-authorized **75-slide nonauditory** Chapter 7 lecture. Peripheral audition is covered in the separate Part I lecture below; the central auditory lecture remains reserved for later. It covers balance, touch, proprioception, temperature, itch, pain, taste, smell, and flavor, with 29 foundation slides, 44 research slides, and 40 embedded source recordings.
 
 Download the [editable PowerPoint](https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C07/Sensing_the_Body_and_the_Chemical_World_Chapter_7.pptx) or [static PDF preview](chapters/C07/Sensing_the_Body_and_the_Chemical_World_Chapter_7_Static.pdf). All 219 teaching paragraphs pass the rendered-line audit. The source index, original-media records, slide sequence, and validation accompany the files. Desktop PowerPoint playback remains untested.
+
+## Audition I: peripheral auditory system
+
+[From Sound to Neural Signals: The Peripheral Auditory System](chapters/C07/Audition1/STATUS.md) contains **80 slides**, including six on animal hair-cell regeneration, mammalian reprogramming, synapse repair, and requirements for translation. It covers acoustics, outer- and middle-ear conduction, cochlear mechanics, transduction, ribbon synapses, auditory-nerve coding, and peripheral injury. Central auditory pathways are reserved for Part II.
+
+Download the [editable PowerPoint](https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C07/Audition1/From_Sound_to_Neural_Signals_Peripheral_Auditory_System_Part_I.pptx) or [static PDF preview](chapters/C07/Audition1/From_Sound_to_Neural_Signals_Peripheral_Auditory_System_Part_I_Static.pdf). The deck contains 31 foundation slides, 47 research slides, full teaching notes, and 40 distinct embedded recordings. All 234 teaching paragraphs pass the rendered five-to-seven-line audit. See the lecture folder for sources, media provenance, and validation.

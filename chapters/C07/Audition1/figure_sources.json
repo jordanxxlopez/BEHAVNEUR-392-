@@ -1,0 +1,1117 @@
+{
+  "03564:7": {
+    "path": "figures/elife_03564_fig7.png",
+    "title": "Neurotrophin-3 regulates ribbon synapse density in the cochlea and induces synapse regeneration after acoustic trauma",
+    "authors": "Guoqiang Wan; Maria E Gómez-Casati; Angelica R Gigliello; M Charles Liberman; Gabriel Corfas",
+    "first": "Wan",
+    "year": "2014",
+    "doi": "10.7554/eLife.03564",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wan et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.03564.011 Figure 7. Ntf3 overexpression from postnatal supporting cells promotes recovery from noise-induced synaptic degeneration. ( A ) Representative confocal images of IHC synapses from 32 kHz region of  Ntf3 stop  and  Ntf3 stop :Plp1/CreER T  cochleae immunolabeled for CtBP2 and GluA2 at 2 hr (upper panels) or 14 days after acoustic trauma (AT); scale bar = 10 µm. ( B  and  C )  Ntf3  overexpression promotes regeneration of IHC synapses ( B ) and prevents the progressive loss of IHC ribbons ( C ) between 2 hr (AT + 2 hr) and 14 days (AT + 14 days) after acoustic trauma.  n  = 3–8. *p < 0.05, ***p < 0.001 by two-way ANOVA. Gray shading indicates the noise exposure spectrum. Key in  C  applies to  B – C . DOI:   http://dx.doi.org/10.7554/eLife.03564.011",
+    "original_url": "https://cdn.elifesciences.org/articles/03564/elife-03564-fig7-v2.tif",
+    "sha256": "582039b0feda88ca2fec6b5febc4c7b7432901cec897661ce18cc635ca0561e9",
+    "width": 2772,
+    "height": 2672,
+    "display_path": "figures/elife_03564_fig7_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.54
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2772,
+      2672
+    ],
+    "display_sha256": "c0e42542c81a2659e500a1c6615d7e7feb6119e40676373d8c3dbd48a012add2"
+  },
+  "07830:2": {
+    "path": "figures/elife_07830_fig2.png",
+    "title": "Neuropilin-2/Semaphorin-3F-mediated repulsion promotes inner hair cell innervation by spiral ganglion neurons",
+    "authors": "Thomas M Coate; Nathalie A Spita; Kaidi D Zhang; Kevin T Isgrig; Matthew W Kelley",
+    "first": "Coate",
+    "year": "2015",
+    "doi": "10.7554/eLife.07830",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    },
+    "legend": "10.7554/eLife.07830.004 Figure 2. Sparse SGN labeling reveals retraction of processes from the OHC region during embryonic development. ( A – D ) Fixed whole-mount cochleae from  Neurog1 CreERT2 ;R26R tdTomato ;  Atoh1 nGFP  mice at E15.5 ( A ,  B ) and E18.5 ( C ,  D ). Panels  A  and  C  show sparse-labeling of SGN fibers (tdTomato in magenta), while panels  B  and  D  show the same regions but include HCs in green. Note that at E15.5, the number of projections terminating in the IHC (arrowheads) and OHC (arrows) regions appears roughly equivalent. In contrast, at E18.5, the majority of SGNs terminate in the IHC region. ( E ) Comparison of the percentage of labeled SGNs that terminate in the IHC (black bars) or OHC region (gray bars) at different developmental time points (minimum of 6 cochleae per time point). Error bars are standard error of the mean (sem). ( F ) Sequential images at the indicated times from a single time-lapse experiment showing sparsely labeled SGNs with HCs (left) or alone (right) in an E16.5 cochlear explant. Yellow arrowheads indicate SGN fiber terminals in the OHC region. White arrowheads point to SGNs that are clustered around IHCs that had originally been in the OHC region. ( G ) Data from four imaging experiments illustrate a decrease in the number of fibers positioned in the OHC region over the course of experimental time. Since there was variability in the number of labeled SGNs between experiments, the data for each experiment were normalized to the number of labeled fibers present in the OHC region at time 0. ( H ) Illustration of the time-line of cochlear innervation. Fibers initially arrive at the IHC region around E14.5. At E15.5, when both IHCs and OHCs are present, SGN fiber distribution is roughly equal between the IHC and OHC regions. In contrast, by E16.5, many SGN fibers have withdrawn from the OHC region. At P0, the vast majority of SGNs terminate at the IHC region. These events occur before the final stages of synapse formation and subsequent fiber pruning. Scale bar in  D : 15 μm,  A – D ; 20 μm,  F . DOI:   http://dx.doi.org/10.7554/eLife.07830.004",
+    "original_url": "https://cdn.elifesciences.org/articles/07830/elife-07830-fig2-v2.tif",
+    "sha256": "7d280d8c7872a3b912c96287456446809bd371dcd8d6b5f39b82e2f17aff873c",
+    "width": 3138,
+    "height": 3582,
+    "display_path": "figures/elife_07830_fig2_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.29
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      3138,
+      3582
+    ],
+    "display_sha256": "7989d7263bf841b1ebf48d2425293af5b25f9dd011635362933912ca3c4ea45e"
+  },
+  "08177:2": {
+    "path": "figures/elife_08177_fig2.png",
+    "title": "Membrane properties specialize mammalian inner hair cells for frequency or intensity encoding",
+    "authors": "Stuart L Johnson",
+    "first": "Johnson",
+    "year": "2015",
+    "doi": "10.7554/eLife.08177",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Johnson et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.08177.004 Figure 2. The resting membrane potential in apical and basal inner hair cells (IHCs) from adult gerbils. ( A–C ) Current clamp responses of apical (top panels) and basal (lower panels) IHCs from adult gerbils in response to 100 pA current steps from -100 pA to 900 pA from the cells’ resting potential ( V m ). From left to right are responses in 1.3 mM extracellular Ca 2+  ( A ), low-Ca 2+  (40 µM) endolymph-like solution ( B ), and low-Ca 2+  solution with 100 µM dihydrostreptomycin (DHS) ( C ). Traces are averages from all IHCs (apical: n = 12; basal: n = 11). ( D ) Average  V m  values measured before the current steps in the different extracellular conditions as in (A–C), including the washout with 1.3 mM Ca 2+ , for apical (red) and basal (blue) IHCs. ( E ) Average peak (open  symbols)  and steady-state (closed  symbols)  V m  from apical and basal IHCs measured at different current injection levels from the current clamp recordings in low-Ca 2+  in ( B ). The arrowheads/arrows in ( B ) indicate where the peak and steady state  V m  were measured. Note that the voltage responses of basal cells to a sustained current step, similar to a high-frequency tone, are more clearly graded to the stimulus amplitude than those in apical cells in terms of the dynamic range of voltages covered. ( F ) Average onset of the initial  V m  response to 100 pA current injection in 1.3 mM Ca 2+  (left) and low-Ca 2+  (right) for apical IHCs (top panels, n = 12) and basal IHCs (bottom panels, n = 11). The initial rise to peak was fit with a single exponential function. The average time constant (τ), obtained from fitting the individual cells, was (apical IHCs) 1.03 ± 0.11 ms in 1.3 mM Ca 2+  and 0.44 ± 0.08 ms in low-Ca 2+ ; (basal IHCs) 1.89 ± 0.19 ms (1.3 mM Ca 2+ ) and 1.07 ± 0.13 (low-Ca 2+ ). DOI:   http://dx.doi.org/10.7554/eLife.08177.004",
+    "original_url": "https://cdn.elifesciences.org/articles/08177/elife-08177-fig2-v2.tif",
+    "sha256": "b9c7a1e8c1cc15be75c3a690ae9cd01761ca0869dfd37d88901164dd7f39994e",
+    "width": 1535,
+    "height": 1240,
+    "display_path": "figures/elife_08177_fig2_panels.png",
+    "panel_crop_box": [
+      0,
+      0.51,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1535,
+      1240
+    ],
+    "display_sha256": "dc360bbd71ffcf618cd01914a6e7e6d9a7e080e388206aba829563cc1b209e83"
+  },
+  "08627:6": {
+    "path": "figures/elife_08627_fig6.png",
+    "title": "The 133-kDa N-terminal domain enables myosin 15 to maintain mechanotransducing stereocilia and is essential for hearing",
+    "authors": "Qing Fang; Artur A Indzhykulian; Mirna Mustapha; Gavin P Riordan; David F Dolan; Thomas B Friedman; Inna A Belyantseva; Gregory I Frolenkov; Sally A Camper; Jonathan E Bird",
+    "first": "Fang",
+    "year": "2015",
+    "doi": "10.7554/eLife.08627",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    },
+    "legend": "10.7554/eLife.08627.006 Figure 6. Degeneration of mechanotransducing shorter row stereocilia in isoform 1-null hair cells. ( A ) SEM micrographs of IHC stereocilia bundles of normal  Myo15 +/ΔN  (left) and  Myo15 ΔN/ΔN  mutant (right) mice at different stages of postnatal development. Arrows point to examples of almost completely resorbed stereocilia. Note that the tallest stereocilia row does not thin, or shorten. ( B ) SEM micrographs of OHC stereocilia bundles show a similar degeneration pattern to IHCs. Shorter row stereocilia are retracted (arrows) but the tallest stereocilia row remains unaffected. All cells were located approximately at the middle of the cochlea. Scale bars are 1 µm ( A ) and 0.5 µm ( B ). See also  Figure 6—figure supplement 1  and  Table 1 . DOI:   http://dx.doi.org/10.7554/eLife.08627.006",
+    "original_url": "https://cdn.elifesciences.org/articles/08627/elife-08627-fig6-v2.tif",
+    "sha256": "3f933c8f096622ead09f94d6ca89f030f40f27fb8ea0db63a2a2b719a55c614a",
+    "width": 3148,
+    "height": 2534
+  },
+  "24318:5": {
+    "path": "figures/elife_24318_fig5.png",
+    "title": "The murine catecholamine methyltransferase mTOMT is essential for mechanotransduction by cochlear hair cells",
+    "authors": "Christopher L Cunningham; Zizhen Wu; Aria Jafari; Bo Zhao; Kat Schrode; Sarah Harkins-Perry; Amanda Lauer; Ulrich Müller",
+    "first": "Cunningham",
+    "year": "2017",
+    "doi": "10.7554/eLife.24318",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Cunningham et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.24318.007 Figure 5. Analysis of mechanotransduction in  Tomt  mutants. ( A–D ) P5 explants from middle region of the cochlea cultured for 24 hr with or without 1 mM Gentamicin, followed by fixation and immunostaining for MYO7A. ( A )  Tomt del/+  cultured without Gentamicin. ( B )  Tomt del/+  cultured for 24 hr with 1 mM Gentamicin. Note the almost complete loss of hair cells. ( C )  Tomt del/del  cultured for 24 hr with 1 mM Gentamicin. Hair cells are spared from Gentamicin-mediated ototoxicity. ( D )  Tomt add/add  cultured for 24 hr with 1 mM Gentamicin. Hair cells are spared from Gentamicin-mediated ototoxicity. ( E ) Representative mechanotransduction currents in OHCs from  Tomt add/+  and  Tomt add/add  mice at P7 in response to a set of 10 ms hair bundle deflections ranging from −400 nm to 1000 nm (100 nm steps). ( F ) Current displacement plot obtained from similar data as shown in ( E ). Data are mean ± SEM. ( G ) Summary of data obtained from experiments as shown in ( E–F ) for  Tomt add/+  and  Tomt add/add  at P4 and P7. Data are plotted as maximum MET currents. Number of cells tested is indicated on each column of the graph. Scale bar in ( B ) = 5 µm and applies to ( A–D ). DOI:   http://dx.doi.org/10.7554/eLife.24318.007",
+    "original_url": "https://cdn.elifesciences.org/articles/24318/elife-24318-fig5-v3.tif",
+    "sha256": "9a63dd9cb75ef19fbbfff123df8c4667c1e8ce7d0d5828ebcd32f9c5bdb8c76e",
+    "width": 1998,
+    "height": 2119
+  },
+  "24318:6": {
+    "path": "figures/elife_24318_fig6.png",
+    "title": "The murine catecholamine methyltransferase mTOMT is essential for mechanotransduction by cochlear hair cells",
+    "authors": "Christopher L Cunningham; Zizhen Wu; Aria Jafari; Bo Zhao; Kat Schrode; Sarah Harkins-Perry; Amanda Lauer; Ulrich Müller",
+    "first": "Cunningham",
+    "year": "2017",
+    "doi": "10.7554/eLife.24318",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Cunningham et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.24318.009 Figure 6. Analysis of tip links in  Tomt  mutants. ( A,B ) P6 cochlear inner hair cells from ( A )  Tomt add/+  and ( B )  Tomt add/add  mice stained with anti-Cdh23 ( Siemens et al., 2004 ) and phalloidin. ( C,D ) P7 cochlear inner hair cells from ( C )  Tomt add/+  and ( D )  Tomt add/add  mice stained with anti-PCDH15-CD2 ( Webb et al., 2011 ) and phalloidin. ( E,F ) P6 cochlear inner hair cells from ( E )  Tomt add/+  and ( F )  Tomt add/add  mice stained with anti-PMCA2 (Abcam) and phalloidin. ( G,H ) P8 cochlear inner hair cells from ( G )  Tomt add/+  and ( H )  Tomt add/add  mice stained with anti-MYO7A (Proteus) and phalloidin. ( I,J ) P8 cochlear inner hair cells from ( I )  Tomt add/+  and ( J )  Tom  add/add  mice stained with anti-Espin (BD Biosciences) and phalloidin. ( K,L ) P7 cochlear inner hair cells from ( K )  Tomt add/+  and ( L )  Tomt add/add  mice stained with anti-Whirlin (see Materials and methods) and phalloidin. Scale bar in ( A ) = 5 µm, and applies to ( A–L ). ( M ) Tip links from middle region cochlear hair cells from P7-8  Tomt add/add  mice using SEM. Left and middle panels are from inner hair cell, right panel is from outer hair cell. Left panel scale bar = 500 nm, middle panel scale bar = 100 nm and applies to middle and right panels. ( N ) Quantification of tip-links per stereociliary column from P7-P8 middle region inner and outer hair cells from  Tomt add/+  (IHC n = 10 cells, OHC n = 9 cells) and  Tomt add/add  (IHC n = 17 cells, OHC n = 9) mice. DOI:   http://dx.doi.org/10.7554/eLife.24318.009",
+    "original_url": "https://cdn.elifesciences.org/articles/24318/elife-24318-fig6-v3.tif",
+    "sha256": "a2ced28d39a93387dcee5859e413681b60f7d5092280d9d3ca097f763a8f369c",
+    "width": 2126,
+    "height": 2234,
+    "display_path": "figures/elife_24318_fig6_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.27
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2126,
+      2234
+    ],
+    "display_sha256": "e613f63b8dad1fba0b8d0276a248726d1631fb81564dc6c8146ef0d17314cc47"
+  },
+  "24661:1": {
+    "path": "figures/elife_24661_fig1.png",
+    "title": "Mechanotransduction current is essential for stability of the transducing stereocilia in mammalian auditory hair cells",
+    "authors": "A Catalina Vélez-Ortega; Mary J Freeman; Artur A Indzhykulian; Jonathan M Grossheim; Gregory I Frolenkov",
+    "first": "Vélez-Ortega",
+    "year": "2017",
+    "doi": "10.7554/eLife.24661",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Vélez-Ortega et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.24661.003 Figure 1. Long-term blockage of the MET channels causes selective shortening of the second and third, but not the first (tallest), rows of stereocilia in mouse outer hair cell (OHC) bundles. ( A and B ) Assessment of MET blockage with MET channel-permeable dye, FM1-43. ( A ) Left panels show maximal projection images of FM1-43 fluorescence in mouse organ of Corti explants immediately after the tissue dissection, in control conditions (top) and in the presence of non-saturating concentrations of MET blockers: amiloride (100 μM, middle) or benzamil (30 μM, bottom). Right panels show reference bright-field images of the same cochlear explants at the focal plane of the hair cell bodies. Data are representative of two independent series. ( B ) Similar maximal projection FM1-43 (left) and bright-field (right) images at the end of 24 hr incubation at 37°C with 30 μM of benzamil (top) and after washout of this drug (bottom). ( C ) Representative scanning electron microscopy (SEM) images of OHC stereocilia bundles (false-colored) in mouse organ of Corti explants cultured for 24 hr at 37°C in vehicle control conditions (top), 100 μM of amiloride (middle), or 30 μM of benzamil (bottom). Right panels show higher magnification images of OHC stereocilia. Arrows point to examples of retracted stereocilia. ( D ) Heights of individual stereocilia in different rows of OHC bundles in mouse organ of Corti explants cultured for 24 hr in control conditions (black; n = 103–120 stereocilia) or in the presence of the MET blockers (gray), amiloride (100 μM, n = 99–108) or benzamil (30 μM, n = 75–80). Error bars indicate mean ± SD. The data are from a single series of experiments (8–17 cells per treatment) with control and drug-treated explants processed in parallel, representative of one (amiloride) and three (benzamil) independent series. ( E  and  F ) Representative false-colored SEM images of OHC bundles ( E ) and quantification of stereocilia heights ( F ) in the first (blue), second (yellow) and third (red) rows of the bundle (n = 40–130), indicating the dose-dependent effect of a 32 hr incubation in the presence of 0, 5.5, 10 and 30 μM of benzamil. Data (4–12 cells per treatment) are shown as mean ± SD. For  D  and  F : *p<0.05; ****p<0.0001; n.s., non-significant (Welch’s  t  tests). ( G ) Percentage of shorter (second and third) row OHC stereocilia having tip links after 24 hr culturing in control conditions (black, n = 632) or with MET blockers (gray, n = 262–527). Combined data from two independent series (7–17 cells per treatment) are shown as mean ± SE. n.s., non-significant (Student’s  t  tests). Age of explants  A : P5;  B–G : P4 +24–32 hr incubation. Original SEM images can be found in  Vélez-Ortega et al. (2017) . DOI:   http://dx.doi.org/10.7554/eLife.24661.003",
+    "original_url": "https://cdn.elifesciences.org/articles/24661/elife-24661-fig1-v2.tif",
+    "sha256": "4044afdf8d77f5fd194e0686bb4e0e255b90194bc4e7fe74bdea88382aab0261",
+    "width": 2223,
+    "height": 2163
+  },
+  "24661:4": {
+    "path": "figures/elife_24661_fig4.png",
+    "title": "Mechanotransduction current is essential for stability of the transducing stereocilia in mammalian auditory hair cells",
+    "authors": "A Catalina Vélez-Ortega; Mary J Freeman; Artur A Indzhykulian; Jonathan M Grossheim; Gregory I Frolenkov",
+    "first": "Vélez-Ortega",
+    "year": "2017",
+    "doi": "10.7554/eLife.24661",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Vélez-Ortega et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.24661.009 Figure 4. MET-dependent shortening of transducing stereocilia in OHCs initiates with thinning at the tips. ( A ) SEM images of mouse OHC stereocilia bundles after incubation at 37°C for 5 hr in vehicle control conditions (top) or in the presence of the MET blockers benzamil (30 μM, second row), ruthenium red (10 μM, third row) or tubocurarine (30 μM, bottom). Right panels show stereocilia at higher magnification; arrows point to retracted stereocilia and arrowheads indicate some examples of thin stereocilia tips. ( B ) Height differences between first- and second-row stereocilia (Steps 1–2, left) and between first- and third-row stereocilia (Step 1–3, right) in OHC bundles after 5-hr incubation in control conditions (black; n = 76) or with MET blockers (gray, n = 58–117). The inserts show the measurement procedure, which traced each stereocilium to its highest point and did not account for the shape changes at the tips. Data are from 7 to 13 cells per treatment and representative of one (ruthenium red, tubocurarine) and two (benzamil) independent series. Error bars indicate mean ± SD. Note that the staircase ‘step’ measurement procedure requires fewer calculations than the estimation of the absolute height of the stereocilium (as in  Figures 1D  and  2B ) and, therefore, it is more accurate for quantifying smaller changes in the staircase morphology of the bundles (see  Figure 1—figure supplement 3C,E ). ( C ) Diameter of second-row stereocilia at the shaft and at several positions near the stereocilia tip in OHCs after a 5-hr incubation in control conditions (black, n = 40) or with MET blockers: benzamil (dark grey, n = 44), ruthenium red (light grey, n = 42) or tubocurarine (white, n = 36). Data are from 3 to 5 cells per treatment and are shown as mean ± SE. For  B  and  C : ***p<0.001; ****p<0.0001; n.s., non-significant (Welch’s  t  tests). ( D ) Representative transmission electron microscopy (TEM) images of the upper part of first- and second-row stereocilia from mouse OHCs after incubation for 5 hr in control conditions (left) or in the presence of 30 μM benzamil (right). Notice the actin filaments within the abnormally thin tips of second-row stereocilia after treatment with benzamil. Age of the explants in  A–D : P4-5. DOI:   http://dx.doi.org/10.7554/eLife.24661.009",
+    "original_url": "https://cdn.elifesciences.org/articles/24661/elife-24661-fig4-v2.tif",
+    "sha256": "8eec6a6550e984e6822f03f0391b164a95313dbeb2aaf1f9e2dc898f093de074",
+    "width": 1855,
+    "height": 2169,
+    "display_path": "figures/elife_24661_fig4_panels.png",
+    "panel_crop_box": [
+      0.55,
+      0.67,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1855,
+      2169
+    ],
+    "display_sha256": "7487e22eb77a0e5ee754554d65bbc49bdc753af09ccf55ddf24ca8b338cf3599"
+  },
+  "29275:1": {
+    "path": "figures/elife_29275_fig1.png",
+    "title": "The synaptic ribbon is critical for sound encoding at high rates and with temporal precision",
+    "authors": "Philippe Jean; David Lopez de la Morena; Susann Michanski; Lina María Jaime Tobón; Rituparna Chakrabarti; Maria Magdalena Picher; Jakob Neef; SangYong Jung; Mehmet Gültas; Stephan Maxeiner; Andreas Neef; Carolin Wichmann; Nicola Strenzke; Chad Grabner; Tobias Moser",
+    "first": "Jean",
+    "year": "2018",
+    "doi": "10.7554/eLife.29275",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Jean et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.29275.003 Figure 1. Loss of synaptic ribbons and piccolino from the AZs of RIBEYE-deficient IHCs. ( A ) Simplified schematic representation of an IHC with the afferent and efferent connectivities. ( B ) Maximal projection of confocal sections from organs of Corti immunolabeled for CtBP2 and RIBEYE, present in the nuclei and the ribbons, respectively. The RBE WT/WT  staining (top row) shows small puncta in the outer hair cell (OHC) and IHC rows representing the synaptic ribbons, which are completely absent in the RBE KO/KO  hair cells (bottom row). Scale bar = 50 µm. Zoom into the IHC row (right column), emphasizes the complete disappearance of CtBP2-labeling at the basolateral part of RBE KO/KO  IHCs. Scale bar = 10 µm. ( C ) Maximal projection of confocal sections from organs of Corti co-labeled for the presynaptic marker and anchor of the ribbon, bassoon (left column), and the postsynaptic marker, PSD-95 (middle column), in RBE WT/WT  and RBE KO/KO  IHCs. The merged picture (right column) shows the juxtaposition of bassoon (magenta) with PSD-95 (green), indicating its presence both at RBE WT/WT  and ribbonless RBE KO/KO  IHC synapses. Scale bar = 1 µm. ( D ) Maximal projection of confocal sections from organs of Corti co-labeled for the presynaptic marker RIM2 (left column) and the postsynaptic marker PSD-95 (middle column). The merged picture (right column) shows the co-localization of RIM2 (magenta) with PSD-95 (green) meaning its presence at the ribbonless IHC pre-synapses (scale bar = 5 µm). ( E ) Maximal projection of confocal sections from organs of Corti co-labeled for piccolino, a specific short splice variant of piccolo found at ribbons of RBE WT/WT  IHC synapses (left column), co-labeled with PSD-95 (middle column). The merged pictures (right column) show PSD-95 (green) immunofluorescence lacking juxtaposed piccolino signal (magenta) in RBE KO/KO  (bottom row), indicating absence of piccolino from afferent synapses of mutant IHCs. The punctate labeling for piccolo, away from PSD-95, most likely represents labeling of piccolo at conventional efferent synapses (schematically shown in  Figure 1A ). Scale bar = 5 µm. ( F ) Quantification of the area of PSD-95 immunofluorescent spots. The PSD-95 spots are siginificantly bigger in the RBE KO/KO  IHCs (p<0.0001, Mann-Whitney-Wilcoxon test,  n  = 178 spots, N = 3 for RBE KO/KO  and  n  = 163 spots, N = 3 for RBE WT/WT ). Box plots show 10, 25, 50, 75 and 90 th  percentiles with individual data points overlaid; means are shown as crosses.",
+    "original_url": "https://cdn.elifesciences.org/articles/29275/elife-29275-fig1-v2.tif",
+    "sha256": "b6e9f999d922ea4f3790f6a777c3679f503de8295da0259e6907169d034fe4a8",
+    "width": 2008,
+    "height": 3248,
+    "display_path": "figures/elife_29275_fig1_panels.png",
+    "panel_crop_box": [
+      0.24,
+      0,
+      1,
+      0.263
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2008,
+      3248
+    ],
+    "display_sha256": "d0eed6f7d166b9bda2ff41ba6bdace9747dd47385814e9fe58bb3907c6d91f75"
+  },
+  "29275:11": {
+    "path": "figures/elife_29275_fig11.png",
+    "title": "The synaptic ribbon is critical for sound encoding at high rates and with temporal precision",
+    "authors": "Philippe Jean; David Lopez de la Morena; Susann Michanski; Lina María Jaime Tobón; Rituparna Chakrabarti; Maria Magdalena Picher; Jakob Neef; SangYong Jung; Mehmet Gültas; Stephan Maxeiner; Andreas Neef; Carolin Wichmann; Nicola Strenzke; Chad Grabner; Tobias Moser",
+    "first": "Jean",
+    "year": "2018",
+    "doi": "10.7554/eLife.29275",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Jean et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.29275.019 Figure 11. Lack of ribbons impairs vesicle replenishment in RBE KO/KO  mice. ( A ) Intensity coding was largely preserved for suprathreshold sound stimulation: rate-level functions (average increase in spike rate with stimulus intensity) of SGNs in response to 50 ms tone bursts at C f  at 5 Hz corroborated the notion of increased sound threshold but were otherwise comparable in RBE KO/KO  ( n  = 24 SGNs, N = 8) and RBE WT/WT  ( n  = 19 SGNs, N = 7) mice, for quantification see  Figure 11—figure supplement 1C . ( B ) Average PSTH recorded in response to 50 × 500 ms tone bursts at C f  and 30 dB above threshold at a stimulus rate of 0.5 Hz (bin width = 2 ms): the onset response to this stimulus was preserved better in RBE KO/KO  SGNs ( n  = 18 SGNs, N = 7) as compared to higher stimulation rates ( Figure 9 ), but it was still lower than in RBE WT/WT  SGNs ( n  = 19 SGNs, N = 7), as well as the adapted firing rate. Mean (line) ± S.E.M. (shaded areas) are displayed. ( C ) Scatterplot of peak (highest 2 ms bin) and adapted (averaged 405–415 ms from response onset) firing rates: significantly reduced peak (p=0.0005, t-test) and adapted (p<0.0001, Mann-Whitney-Wilcoxon test) rates in RBE KO/ KO  SGNs. Box plots show 10, 25, 50, 75 and 90 th  percentiles and means are shown as crosses, as for ( D ). ( D ) Temporal precision and reliability of sound coding is impaired in RBE KO/KO  SGNs. Synchronization of firing to stimulus and firing rates (reflecting spike probability) were reduced when probed with amplitude-modulated (transposed) tones (continuous stimulation with a carrier frequency at C f  and at a modulation frequency of 500 Hz) (p=0.0043, t-test, for synchronization index, and p<0.0001, t-test, for firing rate, when comparing RBE KO/KO  ( n  = 22 SGNs, N = 7) and RBE WT/WT  ( n  = 15 SGNs, N = 6) SGNs). ( E ) Forward masking experiments were used to study presynaptic SV dynamics: a stimulus complex consisting of a 100 ms masker stimulus, a silent interval of 4/16/64/256 ms and a 15 ms probe (both at the characteristic frequency, 30 dB above threshold) was presented at 2 Hz. The averaged data after alignment of RBE WT/WT  ( n  = 24 SGNs, N = 7, black) and RBE KO/KO  ( n  = 27 SGNs, N = 8, red) SGNs responses are displayed as described in Materials and methods. On top of the data we present a fit of a biophysical model (light gray and pink lines) to the data used to study the SV dynamics at the AZ. The refilling and fusion rate constant during spontaneous and stimulated conditions as well as the number of occupied release sites are provided in  Table 2 . ( F ) Recovery of onset response showed as ratio of probe and masker response (number of spikes during first 10 ms, mean ± S.E.M), and prediction (dashed lines) derived from the model fit shown in ( E ). Recovery was slower in RBE KO/KO  SGNs ( n  = 27 SGNs, N = 8) as compared to RBE WT/WT  ( n  = 24 SGNs, N = 7) with significant differences in the ratio after 4 ms (p=0.0019, t-test), 16 ms (p<0.0001, Mann-Whitney-Wilcoxon test), and 64 ms masker-probe intervals (p<0.0001, Mann-Whitney-Wilcoxon test), but not after 256 ms (p=0.0835, t-test).",
+    "original_url": "https://cdn.elifesciences.org/articles/29275/elife-29275-fig11-v2.tif",
+    "sha256": "6f91b8770977ebdbc2d39086212d6f8e72652d05a5dac945a360e7984d1517b9",
+    "width": 1992,
+    "height": 1476
+  },
+  "30823:4": {
+    "path": "figures/elife_30823_fig4.png",
+    "title": "Live cell-lineage tracing and machine learning reveal patterns of organ regeneration",
+    "authors": "Oriol Viader-Llargués; Valerio Lupperger; Laura Pola-Morell; Carsten Marr; Hernán López-Schier",
+    "first": "Viader-Llargués",
+    "year": "2018",
+    "doi": "10.7554/eLife.30823",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Viader-Llargués et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.30823.007 Figure 4. Recovery of organ architecture after loss of tissue integrity. ( A–E ) Confocal images of a neuromast regenerating from 4 to 10 cells during a period of 7 days. Neuromasts recover radial symmetry 3 dpi ( D ), and original organ proportions at 7 dpi ( E ). ( F–J ) Neuromasts reduced to 4–10 cells that were previously deprived from adjacent interneuromast cells (INCs) (arrowheads in  F ), regenerated and reformed radial symmetry ( H–I ) and proportions 7 dpi, despite maintaining a reduced size ( J ). Dashed circles in ( A,F ) illustrate damaged areas. Scale bars: 10 µm. ( K,N ) Total cell numbers in regenerating neuromasts over 7 days in the two conditions depicted in ( A–J ). ( L,O ) In the first 2 dpi neuromast consist almost exclusively of supporting cells (green and red). Hair cells (blue) begin to appear between at 2dpi. ( M,P ) Percentages of cell classes during a 7 day regeneration period. Right after damage, neuromast experience an imbalance of cell proportions that is re-established over the course of 3 days. Afterwards the neuromasts continues to slowly increase total cell number at similar rates. The final proportion of cell classes recapitulates that of the starting condition. Time points show mean ± s.e.m. [All except 4–10 cells] n = 15, [All except 4–10 cells + INC] n = 6. ( Q ) Top and ( R ) lateral views of a triple-transgenic  Tg[Ncad: Ncad-EGFP; Alp:mCherry; H2A:H2A-EGFP]  neuromast before injury. ( S ) Top and ( T ) lateral views of a regenerated neuromast 7 days post injury (n = 4). Basal location of nuclei and apical N-cadherin enrichment evidence the apicobasal polarization of the organ. The accumulation of N-cadherin (white arrowheads) in the regenerated neuromast shows that apical constrictions are properly re-established during the process. ( U–V ) Maximal intensity projection of a neuromast in the triple transgenic line  Tg[Cldnb:lynGFP; SqGw57A; Alpl:mCherry]  prior to injury that eliminates all except 4 to 10 cells ( U ), and the same neuromast 7 days after damage ( V ). ( W ) Hair-bundle staining with rhodamine-phalloidin (colored in pink) reveals the coherent planar polarization of the hair cells in the regenerated neuromast shown in ( V ). ( X ) Confocal projection of a neuromast before the removal of flanking interneuromast cells. ( Y ) Maximal projection of a neuromast 48 hr after interneuromast-cell ablation and 24 hr after neomycin treatment. ( Z ) Phalloidin staining of hair bundles of hair cells regenerated in the absence of interneuromast cells, showing recovery of coherent epithelial planar polarity. Scale bars: 10 µm.",
+    "original_url": "https://cdn.elifesciences.org/articles/30823/elife-30823-fig4-v3.tif",
+    "sha256": "e4f482b1ccedf6748246fb9891e784698eeaf6005c9af71b0f6acfadfcbb7ca0",
+    "width": 2842,
+    "height": 3133
+  },
+  "37625:1": {
+    "path": "figures/elife_37625_fig1.png",
+    "title": "Timing of the reticular lamina and basilar membrane vibration in living gerbil cochleae",
+    "authors": "Wenxuan He; David Kemp; Tianying Ren",
+    "first": "He",
+    "year": "2018",
+    "doi": "10.7554/eLife.37625",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "He et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.37625.003 Figure 1. The reticular lamina and basilar membrane vibration in a sensitive gerbil cochlea. ( A, B ) Displacements of the reticular lamina (RL) and basilar membrane (BM) as a function of frequency at different sound levels. The noise floor is indicated by the black dotted line in panel A. ( C, D ) Ratios of RL and BM displacements to stapes displacements at different sound levels. ( E, F ) RL and BM phase as a function of frequency. ( G ) The ratios of the RL displacement to the BM displacement as a function of frequency at different sound levels. ( H ) Phase difference between the RL and BM vibration. Line types and colors in this panel are the same as those in plot ( G ). The slope of the linear regression line (thick black dotted) indicates that the latency of the RL vibration is ~20 µs greater than that of the BM vibration at 70 dB SPL.",
+    "original_url": "https://cdn.elifesciences.org/articles/37625/elife-37625-fig1-v1.tif",
+    "sha256": "73ff4bb6c506184970ab5e7c5c65c40ad99f0c8a987eac58cb37a2481277937c",
+    "width": 3328,
+    "height": 2944,
+    "display_path": "figures/elife_37625_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0.642,
+      0.66,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      3328,
+      2944
+    ],
+    "display_sha256": "13b02b111b2e883f7a384cce322e7dc8257f6cff52f6cf6d6ee5e27b1c0bf8e5"
+  },
+  "37625:2": {
+    "path": "figures/elife_37625_fig2.png",
+    "title": "Timing of the reticular lamina and basilar membrane vibration in living gerbil cochleae",
+    "authors": "Wenxuan He; David Kemp; Tianying Ren",
+    "first": "He",
+    "year": "2018",
+    "doi": "10.7554/eLife.37625",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "He et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.37625.004 Figure 2. Postmortem changes in reticular lamina and basilar membrane vibrations. ( A ) Postmortem reticular lamina (RL) displacements (blue lines) are significantly smaller than those under sensitive conditions (red lines) at all frequencies. ( B ) Basilar membrane (BM) displacements deceased only near the best frequency (~26 kHz) under postmortem conditions (blue lines). ( C, D ) Sensitive (red lines) and insensitive (blue lines) RL and BM magnitude transfer functions. ( E ) RL phase decreased by up to 180 degrees at low frequencies under postmortem conditions. ( F ) No significant difference between sensitive and insensitive BM phase curves. ( G ) The ratio of RL displacement to BM displacement decreased dramatically at all frequencies under postmortem conditions (blue lines). ( H ) The phase difference (~180 degrees) at low frequencies (red lines) is absent in the postmortem cochlea (blue curves).",
+    "original_url": "https://cdn.elifesciences.org/articles/37625/elife-37625-fig2-v1.tif",
+    "sha256": "bb9fd2ce3a8c8a9a8952a93f3429ece7bd7fa9ede9e2ae92db1b1a67c5f926f7",
+    "width": 3248,
+    "height": 2976
+  },
+  "37625:3": {
+    "path": "figures/elife_37625_fig3.png",
+    "title": "Timing of the reticular lamina and basilar membrane vibration in living gerbil cochleae",
+    "authors": "Wenxuan He; David Kemp; Tianying Ren",
+    "first": "He",
+    "year": "2018",
+    "doi": "10.7554/eLife.37625",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "He et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.37625.005 Figure 3. Phase and latency differences between the reticular lamina and basilar membrane vibration across animals. ( A, C, E, G ) Means and standard errors of the displacement ratio of the reticular lamina (RL) to basilar membrane (BM) at 50, 60, 70, and 80 dB SPL. ( B, D, F, H ) Phase differences between the RL and BM vibration. Latency ( Δτ ) was calculated from the phase slope and presented next to phase difference curves. ( I ) The magnitude ratio decreases with sound level near the best frequency. ( J ) Phase difference as a function of frequency shows no significant change with sound level. Data in panels ( A–H ) are presented as mean ± SEM.",
+    "original_url": "https://cdn.elifesciences.org/articles/37625/elife-37625-fig3-v1.tif",
+    "sha256": "7f79cc46fc8645d3bb83fa804477baaf7e5c9041337ce58128969573c91f82b1",
+    "width": 3448,
+    "height": 3776,
+    "display_path": "figures/elife_37625_fig3_panels.png",
+    "panel_crop_box": [
+      0,
+      0.716,
+      0.67,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      3448,
+      3776
+    ],
+    "display_sha256": "a0246b421954fdb915c46a924829cce7650408e52fc5dd1387cf9b50c8c52b8e"
+  },
+  "38062:1": {
+    "path": "figures/elife_38062_fig1.png",
+    "title": "Cumulative mitochondrial activity correlates with ototoxin susceptibility in zebrafish mechanosensory hair cells",
+    "authors": "Sarah B Pickett; Eric D Thomas; Joy Y Sebe; Tor Linbo; Robert Esterberg; Dale W Hailey; David W Raible",
+    "first": "Pickett",
+    "year": "2018",
+    "doi": "10.7554/eLife.38062",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Pickett et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.38062.002 Figure 1. Mitochondrial Ca 2+  increases in response to hair cell stimulation. Frames from a time-lapse calcium imaging video acquired from Tg [myo6b:RGECO] vo10Tg  fish ( A ) and Tg[ myo6b:mitoGCaMP3 ] w119  fish ( B ) during waterjet stimulation at 10 Hz. For each condition, fluorescence is shown before, during, and after stimulation (left, middle, right, respectively). ( C ) Normalized fluorescence of the example cell outlined by the dotted line in A and B. Hair cells were imaged from a lateral view, as indicated in the schematic shown in  Figure 1—figure supplement 1A . Summary data of the integrated area ( D ), peak fluorescence ( E ), and rise time ( F ) for the cytoplasmic and mitochondrial calcium signal. Colored points indicate matched values from the same experiment. Values for ( D ): cyto vs. mito: 5.6 ± 0.7 vs 11 ± 1.3; mean ± SE; n = 19 cells; ( E ): cyto vs. mito: 1.3 ± 0.04 vs 1.5 ± 0.06; mean ± SE; n = 21 cells; ( F ): cyto vs. mito: 8.9 ± 0.7 s vs 13 ± 0.9 s; mean ± SE; n = 19 vs 21 cells. Cells were analyzed from 10 different fish across three different experiments. Two-tailed unpaired Student’s t test was used to assess significance. Scale bar = 10 μm.",
+    "original_url": "https://cdn.elifesciences.org/articles/38062/elife-38062-fig1-v2.tif",
+    "sha256": "03caef044acb7a9b7e16b9e9929fba5866982b236c12dca9ecf704af97263e85",
+    "width": 2327,
+    "height": 1046
+  },
+  "38062:9": {
+    "path": "figures/elife_38062_fig9.png",
+    "title": "Cumulative mitochondrial activity correlates with ototoxin susceptibility in zebrafish mechanosensory hair cells",
+    "authors": "Sarah B Pickett; Eric D Thomas; Joy Y Sebe; Tor Linbo; Robert Esterberg; Dale W Hailey; David W Raible",
+    "first": "Pickett",
+    "year": "2018",
+    "doi": "10.7554/eLife.38062",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Pickett et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.38062.019 Figure 9. Cumulative mitochondrial activity reflects the likelihood of hair cell death following neomycin-induced damage. ( A ) Frames from a time-lapse imaging video acquired from Tg[ myo6b:mitoTimer ] w208  fish treated with 50 μM neomycin. Images are maximum projections. Arrowheads indicate dying cells. ( B ) Baseline mitoTimer fluorescence ratio for living and dying cells following neomycin exposure. mitoTimer ratios are normalized to the median, which is indicated by the dotted line. Live: 0.77 ± 0.37, n = 142 cells; Die: 1.30 ± 0.34, n = 74 cells; mean ratio (normalized) ±SD; six fish, 2–3 neuromasts per fish. Mann-Whitney U test was used to assess significance. Scale bar = 5 μm.",
+    "original_url": "https://cdn.elifesciences.org/articles/38062/elife-38062-fig9-v2.tif",
+    "sha256": "5b5894c5bd124ba5c499587ef044ac38346c60adfe7f22998cd1852632efc32a",
+    "width": 1348,
+    "height": 569
+  },
+  "43473:2": {
+    "path": "figures/elife_43473_fig2.png",
+    "title": "Stiffness and tension gradients of the hair cell’s tip-link complex in the mammalian cochlea",
+    "authors": "Mélanie Tobin; Atitheb Chaiyasitdhi; Vincent Michel; Nicolas Michalski; Pascal Martin",
+    "first": "Tobin",
+    "year": "2019",
+    "doi": "10.7554/eLife.43473",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Tobin et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.43473.003 Figure 2. Stiffness gradients of the hair bundle. ( A ) Hair-bundle movements (top) in response to a series of force steps (bottom) for outer hair cells (OHC) with characteristic frequencies of 1, 2, and 4 kHz (from left to right). ( B ) Force-displacement relations for the data shown in ( A ), with black disks, white disks and black triangles corresponding to characteristic frequencies of 1, 2, and 4 kHz, respectively. ( C ) Hair-bundle movements (top) in response to a series of force steps (bottom) for inner hair cells (IHC) with characteristic frequencies of 1, 2, 4, and 15 kHz. ( D ) Force-displacement relations for the data shown in ( C ), with black disks, white disks, black triangles, and white squares corresponding to characteristic frequencies of 1, 2, 4, and 15 kHz, respectively. ( E ) Stiffness ( Κ H B ) of a hair bundle under control conditions as a function of the characteristic frequency (CF) for inner (white disks) and outer (black disks) hair cells. Each data point in ( E ) is the mean ± standard error of the mean (SEM) with the number of cells indicated between brackets. 10.7554/eLife.43473.009 Figure 2—source data 1. Statistical significance. The table lists p-values resulting, respectively, from a one-way ANOVA to assay statistical significance of the measured mean-value variation of the hair-bundle stiffness  Κ H B  between different cochlear locations for inner (IHC) and outer (OHC) hair cells, from two-tailed unpaired Student's  t -tests with Welch’s correction to compare mean values of  Κ H B  between two groups of a given hair-cell type (IHC or OHC) with different characteristic frequencies (CF) or between the two cell types (OHC/IHC) when they are associated to the same characteristic frequency. The last entry (Gradient OHC  vs.  gradient IHC) provides the p-value to assay the statistical significance between the slopes of a weighted linear regression of the relation between  Κ H B  and the characteristic frequency of the hair cell. A bold font was used to help find statistically significant differences. 10.7554/eLife.43473.010 Figure 2—source data 2. Hair-bundle stiffness of inner and outer hair cells as a function of the characteristic frequency.",
+    "original_url": "https://cdn.elifesciences.org/articles/43473/elife-43473-fig2-v2.tif",
+    "sha256": "64430c2594d4af6703c5bee5a85cce8cc370f77ef2f35147a46c44ed9aac226a",
+    "width": 2362,
+    "height": 2008
+  },
+  "43473:4": {
+    "path": "figures/elife_43473_fig4.png",
+    "title": "Stiffness and tension gradients of the hair cell’s tip-link complex in the mammalian cochlea",
+    "authors": "Mélanie Tobin; Atitheb Chaiyasitdhi; Vincent Michel; Nicolas Michalski; Pascal Martin",
+    "first": "Tobin",
+    "year": "2019",
+    "doi": "10.7554/eLife.43473",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Tobin et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.43473.020 Figure 4. Mechanical and electrical response of a hair bundle to fluid-jet stimulation and fast calcium chelation. ( A ) An iontophoretic step of a calcium chelator (EDTA; top) elicited a biphasic movement of the hair bundle from an inner hair cell (bottom): the hair bundle first moved in the negative direction (arrowhead) and then in the positive direction. After iontophoresis, the position baseline was offset by  Δ X R =  +78 nm with respect to the resting position at the start of the experiment. A sinusoidal command to a fluid jet (middle) evoked hair-bundle movements (bottom) that increased in magnitude, here by 50%, after application of the iontophoretic step. Repeating the iontophoretic step elicited no further movement and the response to fluid-jet stimulation remained of the same magnitude. A similar behavior was observed with 101 inner and 44 outer hair cells. ( B ) An iontophoretic step of EDTA (top) also elicited biphasic variations of the transduction current: the inward current first increased (arrowhead) and then decreased. Before application of the calcium chelator, fluid-jet stimulation evoked a transduction current of 1.5-nA peak-to-peak magnitude; the open probability of the transduction channels was near ½. The transduction current was abolished by the iontophoretic step. Outer hair cell at the 4-kHz location; the same behaviour was observed with 17 outer hair cells. In ( A–B ), the command signal to the fluid-jet device was a 60-Hz sinusoid and we applied a −100-nA iontophoretic step on top of a +10-nA holding current. The hair bundles were exposed to 20-µM Ca 2+ . In ( B ), the dashed line indicates the current for which the transduction channels are all closed.",
+    "original_url": "https://cdn.elifesciences.org/articles/43473/elife-43473-fig4-v2.tif",
+    "sha256": "0b0c322772e92ab15b6b987b6cc2f10366cd4d3e54bd81ea74c9f5bf5ee569e6",
+    "width": 2246,
+    "height": 1659
+  },
+  "43736:3": {
+    "path": "figures/elife_43736_fig3.png",
+    "title": "Distinct progenitor populations mediate regeneration in the zebrafish lateral line",
+    "authors": "Eric D Thomas; David W Raible",
+    "first": "Thomas",
+    "year": "2019",
+    "doi": "10.7554/eLife.43736",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Thomas and Raible",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.43736.011 Figure 3. Distinct support cell populations have different regenerative capacities. ( A ) Timeline of nlsEos fate mapping experiment. Fish were photoconverted at 5 dpf, treated with neomycin, then fixed and imaged 72 hr post treatment (8 dpf). ( B, C, D ) Maximum projections of neuromasts from  sfrp1a :nlsEos (Peripheral,  B ),  tnfsf10l3 :nlsEos (AP,  C ), and  sost :nlsEos (DV,  D ) fish following photoconversion and hair cell regeneration. Converted nlsEos-positive cells are shown in magenta, and brn3c:GFP-positive hair cells are shown in green. Arrowheads indicate nlsEos-positive hair cells. Scale bar = 10 μm. ( E ) Percentage of hair cells per neuromast labeled by nlsEos following regeneration.  Sfrp1a :nlsEos (Peripheral): 3.59 ± 8.87, n = 50 neuromasts (10 fish);  tnfsf10l3 :nlsEos (AP): 20.28 ± 20.58, n = 50 neuromasts (10 fish);  sost :nlsEos (DV): 60.87 ± 12.37, n = 50 neuromasts (10 fish); mean ± SD; Kruskal-Wallis test, Dunn’s post-test, p=0.003 (Peripheral vs. AP), p<0.0001 (Peripheral vs. DV, AP vs. DV). ( F ) Total nlsEos-positive support cells per neuromast prior to hair cell ablation.  Sfrp1a :nlsEos (Peripheral): 14.30 ± 4.17, n = 50 neuromasts (10 fish);  tnfsf10l3 :nlsEos (AP): 22.8 ± 4.40, n = 50 neuromasts (10 fish);  sost :nlsEos (DV): 23.86 ± 4.45, n = 50 neuromasts (10 fish); mean ± SD; Kruskal-Wallis test, Dunn’s post-test, p<0.0001 (Peripheral vs. AP, Peripheral vs. DV), p>0.9999 (AP vs. DV). 10.7554/eLife.43736.012 Figure 3—source data 1. Distinct support cell populations have different regenerative capacities",
+    "original_url": "https://cdn.elifesciences.org/articles/43736/elife-43736-fig3-v2.tif",
+    "sha256": "91e05ae9672bec46ec92e646e93c0bb6d086f8b726b8deaba98e77675219e3ed",
+    "width": 1486,
+    "height": 1323,
+    "display_path": "figures/elife_43736_fig3_panels.png",
+    "panel_crop_box": [
+      0,
+      0.22,
+      0.51,
+      0.48
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1486,
+      1323
+    ],
+    "display_sha256": "9a43ac696c11ebffba7040c239be092dfc562b041e4868f15a2daa4ec1c5dac2"
+  },
+  "47667:1": {
+    "path": "figures/elife_47667_fig1.png",
+    "title": "The frequency limit of outer hair cell motility measured in vivo",
+    "authors": "Anna Vavakou; Nigel P Cooper; Marcel van der Heijden",
+    "first": "Vavakou",
+    "year": "2019",
+    "doi": "10.7554/eLife.47667",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Vavakou et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.47667.003 Figure 1. Rectification in the mechanical response of OHCs. ( A ) Two-tone stimulus with primary frequencies 4600, 5400 Hz; 70 dB SPL.  Blue line , waveform;  dashed black lines , envelope;  red line , lowpass-filtered waveform (2000-Hz cut-off). ( B ) Mechanical displacement evoked by the two-tone stimulus, recorded in the gerbil OHC/Deiters’ cell region (13 kHz CF).  Black line,  displacement waveform;  dashed black lines , envelope. Rectification is illustrated by the  red line  obtained by low-pass filtering (2000-Hz cut-off). Positive polarity indicates displacement away from the measurement probe, that is vertically downwards in ( C ) and ( D ). ( C ) OCT reflectance image ( grayscale ), with structural framework of Corti’s organ ( yellow ) superimposed for reference. Color-coded overlay: total RMS value of 2 nd -order distortion products (DP2s) evoked by a 12-tone complex, 2–12 kHz; 60 dB SPL. DP2s dominate in the OHC region. Scale bar, 0.025 mm. ( D ) Underlying anatomical structures. BM = basilar membrane; ISL = inner spiral lamina; sm = scala media; dc = Deiters’ cells; t = tectal cells; TM = tectorial membrane; tc = tunnel of Corti; ot = outer tunnel. Hair cells,  dark blue . ( E ) Zwuis stimulus (see text). ( F ) Vibration spectrum recorded in OHC region in response to the zwuis stimulus.  Red diamonds , Rayleigh-significant DP2s. Dashed line, 6-dB/octave roll-off. 10.7554/eLife.47667.006 Figure 1—source data 1. MATLAB binary file containing the data shown in  Figure 1 .",
+    "original_url": "https://cdn.elifesciences.org/articles/47667/elife-47667-fig1-v1.tif",
+    "sha256": "1465c0703d94a27662c1e062f50068265ccb6a84cff7de7f3aedf2576c9efb82",
+    "width": 4651,
+    "height": 2933,
+    "display_path": "figures/elife_47667_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0.53,
+      0.34,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      4651,
+      2933
+    ],
+    "display_sha256": "6da1d8e18fb5a14b4d25d315b361cbff9db202edb1ee0466bb06a0eee8a56637"
+  },
+  "47667:4": {
+    "path": "figures/elife_47667_fig4.png",
+    "title": "The frequency limit of outer hair cell motility measured in vivo",
+    "authors": "Anna Vavakou; Nigel P Cooper; Marcel van der Heijden",
+    "first": "Vavakou",
+    "year": "2019",
+    "doi": "10.7554/eLife.47667",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Vavakou et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "10.7554/eLife.47667.012 Figure 4. Low-pass filtering and corner frequencies of OHCs. ( A ) DP2 magnitude versus frequency measured across different cochleas at different CFs. Stimuli, 10–12 component zwuis not exceeding CF/2; component intensities 55–65 dB SPL, optimized to equalize OHC input. Individual curves are offset to avoid overlap; labeled straight lines indicate absolute displacement. CFs, see legend of panel D. Second harmonics were corrected for the 6-dB combinatorial deficiency. ( B ) The same magnitudes corrected  post-hoc  for the effects of residual magnitude inequality in the effective input (see  Appendix 1—figure 3 ). Black lines, first-order low-pass filters fitted jointly to the magnitude and phase data of each recording. ( C ) Companion phase data: the difference between the recorded DP2 phases and the predictions obtained by adding or subtracting the primary phases of the OHC input (Appendix 1,  Equation 3B ).  Black lines , phase curves of the fitted low-pass filters. ( D ) Corner frequencies from the fits versus CF. Symbols as in panels A-C. Open circles reproduce in vitro data from  Johnson et al. (2011) . Dashed line, unity line (corner frequency = CF). Explained variance of the fits (in order of increasing CF): 90%, 91%, 80%, 85%, 87%. When omitting the correction for residual scatter, and instead using the raw magnitudes from panel A, the estimates of the corner frequencies were lower by 1% to 10% (mean, 7%) compared to the estimates based on the corrected magnitudes. Captions of source Data. 10.7554/eLife.47667.014 Figure 4—source data 1. MATLAB binary file containing the data shown in  Figure 4 .",
+    "original_url": "https://cdn.elifesciences.org/articles/47667/elife-47667-fig4-v1.tif",
+    "sha256": "2c1a77a3fcb507a231b43f0f6fa340652a7e49804145414245efb7fc1bc3357f",
+    "width": 4658,
+    "height": 1595
+  },
+  "52160:1": {
+    "path": "figures/elife_52160_fig1.png",
+    "title": "Purinergic signaling in cochlear supporting cells reduces hair cell excitability by increasing the extracellular space",
+    "authors": "Travis A Babola; Calvin J Kersbergen; Han Chin Wang; Dwight E Bergles",
+    "first": "Babola",
+    "year": "2020",
+    "doi": "10.7554/eLife.52160",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Babola et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Ca 2+  release from intracellular stores is required for spontaneous currents and crenation in inner supporting cells. ( A ) Model of ATP-mediated depolarization of inner hair cells. ATP: adenosine triphosphate, PLC: phospholipase C, IP 3 : inositol triphosphate, TMEM16A: transmembrane member 16A (Ca 2+ -activated Cl –  channel). Inhibitors of key steps in this pathway are indicated. ( B ) Whole-cell voltage-clamp recordings from inner supporting cells after pre-incubating with indicated inhibitors. ( C ) Quantification of ISC spontaneous current frequency in the presence of the indicated inhibitors. Data shown as mean ± SEM. n = 16 cells, 11 cochleae from six postnatal day (P) 6–8 rats (control), 18 cells, 10 cochleae from five rats (BAPTA-AM; 100 μM), 20 cells, 11 cochleae from six rats (Thapsigargin; 2 μM), 14 cells, 11 cochleae from seven rats, (U73122; 10 μM), and 16 cells, 10 cochleae from five rats (U73343; 10 μM). ****p<5e-5, one-way ANOVA. ( D ) Quantification of ISC spontaneous current amplitude in the presence of indicated inhibitors. Data shown as mean ± SEM. n values are reported in ( C ) (one-way ANOVA; ****p<5e-5, **p<0.005, ns: not significant). ( E ) Quantification of ISC spontaneous current charge transfer (integral) in the presence of indicated inhibitors. Data shown as mean ± SEM. n values are reported in ( C ) (one-way ANOVA; ****p<5e-5, **p<0.005, ns: not significant). ( F ) Quantification of ISC crenation (cell shrinkage) frequency in the presence of indicated inhibitors. Data shown as mean ± SEM. n = 19 videos, 11 cochleae from six rats (control), 15 videos, 8 cochleae from four rats (BAPTA-AM), 22 videos, 12 cochleae from six rats (Thapsigargin), 23 videos, 17 cochleae from 10 rats (U73122), and 20 videos, 10 cochleae from five rats (U73343) (one-way ANOVA; ****p<5e-5, **p<0.005, ns: not significant). See  Figure 1—source data 1  for plotted values and statistics. Figure 1—source data 1. Plotted values and statistics for  Figure 1 .",
+    "original_url": "https://cdn.elifesciences.org/articles/52160/elife-52160-fig1-v2.tif",
+    "sha256": "d1cea4672abd21ea1ad2595401ab7c9499755d18ac8f4c6cd50aa46bae15a31c",
+    "width": 1374,
+    "height": 1010
+  },
+  "55378:2": {
+    "path": "figures/elife_55378_fig2.png",
+    "title": "Gradients in the biophysical properties of neonatal auditory neurons align with synaptic contact position and the intensity coding map of inner hair cells",
+    "authors": "Alexander L Markowitz; Radha Kalluri",
+    "first": "Markowitz",
+    "year": "2020",
+    "doi": "10.7554/eLife.55378",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Markowitz and Kalluri",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. SGN can be qualitatively grouped by firing patterns in response to step current injections. ( A ) Rapidly-accommodating neurons fire a single action potential. ( B ) Intermediately-accommodating neurons fire more than one action potential and eventually reach a steady-state potential. ( C ) Slowly-accommodating neurons fire multiple actions and do not reach a steady-state potential. ( D ) Graded-response neurons do not produce an action potential, but produce graded-depolarization in response to incrementing current steps. These neurons are capable of firing action potentials after their membrane potential are held at −80 mV (inset). ( E ) Action potential features including current threshold (I threshold ), voltage threshold (V threshold ), and after hyperpolarization potential time constant (AHP tau) vary among spiking neurons. The p-values indicate when two means were assessed to be significantly different (see Materials and methods); asterisks indicate p<0.001. ( F ) Action potential features were significantly correlated with normalized basal position (NBP). As NBP values increased, current thresholds increased (r(20) = 0.68, p=0.0007), voltage thresholds hyperpolarized (r(20) = −0.45, p=0.045), and AHP time constants became faster (r(20) = 0.62, p<0.0001). Best fit lines with 95% confidence intervals are plotted to show the gradients along the normalized basal position axis. ( G ) The distribution of firing pattern subgroups as a function of NBP shows a significant relationship between the firing-pattern subgroup and NBP (p=0.0097, t-test), with rapidly-accommodating neurons found primarily on the modiolar-face and intermediately-accommodating neurons found on the pillar-face of the inner hair cell. Graded-firing neurons are found throughout the NBP scale on both the modiolar and pillar faces of the hair cell. Figure 2—source data 1. Current-clamp features versus normalized basal position data set for  Figure 2F .",
+    "original_url": "https://cdn.elifesciences.org/articles/55378/elife-55378-fig2-v1.tif",
+    "sha256": "02e478981c9ef1423156df266e6fc9a9ccb5e9a593d19430c3a354b0f67a8e8a",
+    "width": 1484,
+    "height": 2830
+  },
+  "55378:4": {
+    "path": "figures/elife_55378_fig4.png",
+    "title": "Gradients in the biophysical properties of neonatal auditory neurons align with synaptic contact position and the intensity coding map of inner hair cells",
+    "authors": "Alexander L Markowitz; Radha Kalluri",
+    "first": "Markowitz",
+    "year": "2020",
+    "doi": "10.7554/eLife.55378",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Markowitz and Kalluri",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Net whole-cell conductances increase as SGN synaptic position moves from pillar to modiolar-face of the inner hair cell. ( A–C ) Voltage-clamp responses of a modiolar-contacting ( A ), pillar-contacting type I ( B ), and a type II SGN ( C ). For each cell, we held the potential at −60 mV, followed by a series of voltage 400 ms steps from −120 mV to 70 mV, and then finally back to the holding potential. For each cell, we measured current-voltage relationships at approximate steady-state (400 ms indicated by the arrow). We measured the time course for outward current inactivation by fitting a single exponential curve to the current evoked by a +70 mV voltage step (inset). ( D ) Steady-state conductance in microSiemens as a function of command voltage of all SGN recorded with three measurements: the magnitude of conductance at −30 mV ( g -30 ), the maximum conductance ( g max ), and the half-activation potential ( V 1/2 ) via Boltzmann function. ( E ) Steady-state conductances of identified type I SGN as a function of normalized basal position. ( F–I ) Voltage clamp properties as a function of normalized basal position (NBP) (Spiking, black dot; non-spiking, triangle). Linear regression models were fitted to each parameter with statistical significance test of p<0.05. All parameters were significant except for  V 1/2 . Figure 4—source data 1. Voltage-clamp features versus normalized basal position for  Figure 4F  through 4I. Conductance values are shown in units of micro Siemens.",
+    "original_url": "https://cdn.elifesciences.org/articles/55378/elife-55378-fig4-v1.tif",
+    "sha256": "306c1097c9480127ed78c199d0a78fa99a59743c92337c945bfa91fff06eaea4",
+    "width": 1876,
+    "height": 2661
+  },
+  "61092:1": {
+    "path": "figures/elife_61092_fig1.png",
+    "title": "Retrograde ERK activation waves drive base-to-apex multicellular flow in murine cochlear duct morphogenesis",
+    "authors": "Mamoru Ishii; Tomoko Tateya; Michiyuki Matsuda; Tsuyoshi Hirashima",
+    "first": "Ishii",
+    "year": "2021",
+    "doi": "10.7554/eLife.61092",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Ishii et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Quantification of morphology and cell proliferation in developing murine cochlear duct. ( A ) Schematic diagrams showing the tissue axis and labels of the cochlear duct. ( B ) Immunofluorescence images of anti-E-cadherin staining in the murine developing cochlea from E12.5 to E14.5. The lower rows are magnified images of the dotted squares in the upper rows. Yellow dotted lines represent the edges of the epithelial layer. Scale bar, 200 µm. ( C ) Schematic diagram showing regions used for morphological quantification. ( D ) Curvature and thickness as a function of the arc length from the apex tip along the lateral epithelial layer from E12.5 to E14.5. Mean ± standard deviation (s.d.) N = 3. ( E ) Maximum projection images of stained anti-E-cadherin (white) and EdU (magenta) in the roof and floor region of cochlear duct at E12.5. Representative images showing EdU signals in the cochlear duct are shown. Arrows indicate the region of EdU signal gradient from the medial to the lateral side of the duct. Arrowheads indicate the base region where the EdU intensity is concentrated. Scale bar, 100 µm. ( F ) Heatmap of the sample-mean of maximum EdU intensity projection in the roof and floor region of the duct. Arrows and arrowheads are the same as in ( E ). N = 3. Heatmaps of summed and mean intensity projection are shown in  Figure 1—figure supplement 1 . ( G ) Cell density distribution along the mediolateral axis in the floor and roof region, respectively. Color indicates the different samples. N = 3. Figure 1—source data 1. Curvature and thickness from E12.5 to E14.5. Figure 1—source data 2. EdU intensity profiles. Figure 1—source data 3. Cell density along the medial–lateral axis.",
+    "original_url": "https://cdn.elifesciences.org/articles/61092/elife-61092-fig1-v2.tif",
+    "sha256": "57957425a8ccc2bc30beb1e607528edd14c20d42919ec53e58c31be75483ad54",
+    "width": 1975,
+    "height": 1527
+  },
+  "61092:3": {
+    "path": "figures/elife_61092_fig3.png",
+    "title": "Retrograde ERK activation waves drive base-to-apex multicellular flow in murine cochlear duct morphogenesis",
+    "authors": "Mamoru Ishii; Tomoko Tateya; Michiyuki Matsuda; Tsuyoshi Hirashima",
+    "first": "Ishii",
+    "year": "2021",
+    "doi": "10.7554/eLife.61092",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Ishii et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Retrograde helical extracellular signal-regulated kinase (ERK) activation waves drive base-to-apex multicellular flow. ( A ) 3D ERK activity map in the cochlear duct cultured ex vivo for 1 day from E12.5. ( A’ ) Cross-sectional view (medial–lateral and roof–floor plane) of ( A ). Orange dotted line indicates the floor plane shown in ( B ) and ( C ). Scale bar, 50 µm. ( B ) Time-lapse snapshots of ERK activity maps in the floor plane. Time indicates the elapsed time of live imaging. Yellow arrowheads indicate the ERK activity peak. Scale bar, 100 µm. ( C ) Time-lapse snapshots of tissue flow speed obtained by particle image velocimetry in the floor plane. Scale bar, 100 µm. ( D ) Schematic diagram showing the axis, the apex–base line for kymography, and regions of interests (ROIs). ( E ) Representative kymograph of ERK activity. The horizontal axis indicates the position on the apex–base line shown in ( D ), and the vertical axis indicates the elapsed time of live imaging. Dotted lines represent oscillatory waves from the apex to the base. Scale bar, 100 µm. ( F ) ERK wave speed with mean and s.d. n = 5 from N = 3. ( G ) Time-series ERK activity rate and extension-shrinkage rate in representative three different ROIs. ( H ) Cross-correlation between the extension-shrinkage rate and ERK activity rate. n = 12. Mean ± s.d. ( I, J ) Tissue flow speed before and after the PD0325901 treatment at 1 µM, the SU5402 treatment at 30 µM ( I ), and the cyclopamine treatment at 30 µM ( J ). n = 285. Confirmed by N = 2. Two-sample t-test, p<0.001. ( K ) Time-lapse snapshots of surface-rendered ERK activity maps in the cochlear duct at E12.5. The green corners correspond to the green corner on the images shown in ( B ) and viewed from the left-bottom corner of ( B ). Circles indicate the position of ERK activity peaks, and the connecting dotted lines indicate a trace of the peak shift. The timescale is the same as in ( B ). ( L ) Schematics for the ERK activity waves and cell flow. Figure 3—source data 1. Extracellular signal-regulated kinase activity rate and extension-shrinkage rate. Figure 3—source data 2. Particle image velocimetry speed before and after the treatments with PD0325901, SU5402, and cyclopamine.",
+    "original_url": "https://cdn.elifesciences.org/articles/61092/elife-61092-fig3-v2.tif",
+    "sha256": "9b4789dd52cb2cbbd1a08c0311139d07b6868d691f49d5d90d83296d4ef2c384",
+    "width": 2019,
+    "height": 1815,
+    "display_path": "figures/elife_61092_fig3_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.42
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2019,
+      1815
+    ],
+    "display_sha256": "bc133027ac77c2c7809c87a3a73d6fef595deedf9f3748320c7d72163f1738e8"
+  },
+  "66547:4": {
+    "path": "figures/elife_66547_fig4.png",
+    "title": "Dual expression of Atoh1 and Ikzf2 promotes transformation of adult cochlear supporting cells into outer hair cells",
+    "authors": "Suhong Sun; Shuting Li; Zhengnan Luo; Minhui Ren; Shunji He; Guangqin Wang; Zhiyong Liu",
+    "first": "Sun",
+    "year": "2021",
+    "doi": "10.7554/eLife.66547",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Sun et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Lesion to endogenous OHCs enhances reprogramming efficiency of adult SCs by Atoh1 and Ikzf2. ( A ) Three distinct mice models were subject to tamoxifen (TMX) treatment at P30 and P31, followed by DT treatment at P36 and analysis at P60. ( B ) Illustration of key cellular events occurring during the experiment: induction of Atoh1 and Ikzf2 in adult PCs and DCs, which were permanently labeled with Tdtomato for the subsequent fate-mapping analysis. ( C–G’’’ ) Triple labeling against HA, Tdtomato, and Prestin in four models: (1)  Slc26a5 DTR/+  ( C, D ), (2) Fgfr3-iCreER+; CAG-LSL- Atoh1 +;  Slc26a5 DTR/+  (Fgfr3-Atoh1-DTR;  E ), (3) Fgfr3-iCreER+;  Rosa26 CAG-LSL-Ikzf2/+ ; Slc26a5 DTR/+  (Fgfr3-Ikzf2-DTR;  F ), and (4) Fgfr3-iCreER+; CAG-LSL- Atoh1 +;  Rosa26 CAG-LSL-Ikzf2/+ ; Slc26a5 DTR/+  (Fgfr3-Atoh1-Ikzf2-DTR;  G–G’’’ ). Relative to  Slc26a5 DTR/+  mice not treated with DT ( C ), DT-treated  Slc26a5 DTR/+  mice harbored fewer normal Prestin+ OHCs at P60 (arrows in  D ). Debris of dying OHCs had disappeared. No OHC-like cells were observed in the first three models, but Tdtomato+/HA+/Prestin+ OHC-like cells (orange and blue arrows in  G’’ ) were present in the Fgfr3-Atoh1-Ikzf2-DTR model ( G-G’’’ ). ( H ) Percentages of SCs that were transformed into OHC-like cells at different cochlear turns in Fgfr3-Atoh1-Ikzf2-DTR mice. ( I ) Comparison of OHC-like cell numbers between Fgfr3-Atoh1-Ikzf2-DTR and Fgfr3-Atoh1-Ikzf2 models (without damaging adult wild-type OHCs). Fgfr3-Atoh1-Ikzf2-DTR mice harbored considerably more OHC-like cells than Fgfr3-Atoh1-Ikzf2 mice. Data was presented as mean ± SEM (n = 3). Student’s t test was used for statistical analysis. **p<0.01, ***p<0.001. Scale bar: 20 μm. Figure 4—source data 1. It contained the numerical values of the data plotted in the graph of  Figure 4H . Figure 4—source data 2. It contained the numerical values of the data plotted in  Figure 4I .",
+    "original_url": "https://cdn.elifesciences.org/articles/66547/elife-66547-fig4-v2.tif",
+    "sha256": "452899d990f67e4f8c0e4d1d4e54c806700432622b073afebd4b213b0091a19b",
+    "width": 2379,
+    "height": 4283,
+    "display_path": "figures/elife_66547_fig4_panels.png",
+    "panel_crop_box": [
+      0.55,
+      0.608,
+      1,
+      0.78
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2379,
+      4283
+    ],
+    "display_sha256": "bc44948ead7a5bf7877395eea772d72db1baa79970b0d4027829f6bb2e300fb2"
+  },
+  "66547:5": {
+    "path": "figures/elife_66547_fig5.png",
+    "title": "Dual expression of Atoh1 and Ikzf2 promotes transformation of adult cochlear supporting cells into outer hair cells",
+    "authors": "Suhong Sun; Shuting Li; Zhengnan Luo; Minhui Ren; Shunji He; Guangqin Wang; Zhiyong Liu",
+    "first": "Sun",
+    "year": "2021",
+    "doi": "10.7554/eLife.66547",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Sun et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 5. Hair bundles were present in OHC-like cells. Scanning electron microscopy (SEM) analysis of samples from three different mouse models at P60. ( A–A’ ) OHCs harbored V- or W-shaped hair bundles in S lc26a5 DTR/+  mice not treated with DT. ( A’ ): high-magnification view of boxed region in ( A ). ( B ) Majority of OHCs had disappeared by P60 in  Slc26a5 DTR/+  mice upon DT treatment at P36. Black asterisk: one IHC that was absent. ( C ) Immature hair bundles were frequently detected in the Fgfr3-iCreER+; CAG-LSL- Atoh1 +;  Rosa26 CAG-LSL-Ikzf2/+ ; Slc26a5 DTR/+  (Fgfr3-Atoh1-Ikzf2-DTR) model, but not in ( A ) and ( B ). These hair bundles were thought to originate from OHC-like cells. ( C’ ): high-magnification view of boxed region in ( C ). Inset in C: instance of occasional hair bundles. Black asterisk: one IHC that was missing. ( D ) ABR measurements of the three mice models. Relative to the untreated  Slc26a5 DTR/+  control mice (black line, n = 3), the ABR thresholds of  Slc26a5 DTR/+  treated with DT (blue line, n = 5) and in Fgfr3-Atoh1-Ikzf2-DTR mice (red line, n = 6) were significantly higher. The blue and red lines showed no statistically significant difference at any frequency (n.s.). Data was presented as mean ± SEM. Student’s t-test was used for statistical testing. **p<0.01, ****p<0.0001. Scale bars: 5 μm ( A–C ), 1 μm ( C’ ), and 500 nm ( A’ ). Figure 5—source data 1. It contained the numerical values of the ABR thresholds described in  Figure 5D .",
+    "original_url": "https://cdn.elifesciences.org/articles/66547/elife-66547-fig5-v2.tif",
+    "sha256": "32baf798d13cf811944650a260d5a912fb5e15873d6d395d766051e698ede3b8",
+    "width": 4075,
+    "height": 2008
+  },
+  "69264:2": {
+    "path": "figures/elife_69264_fig2.png",
+    "title": "Mechanical overstimulation causes acute injury and synapse loss followed by fast recovery in lateral-line neuromasts of larval zebrafish",
+    "authors": "Melanie Holmgren; Michael E Ravicz; Kenneth E Hancock; Olga Strelkova; Dorina Kallogjeri; Artur A Indzhykulian; Mark E Warchol; Lavinia Sheets",
+    "first": "Holmgren",
+    "year": "2021",
+    "doi": "10.7554/eLife.69264",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Holmgren et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Morphological changes in pLL neuromast hair cells exposed to strong water wave stimulus. ( A ) Schematic of a larval zebrafish. Blue dots indicate neuromasts of the lateral-line organs; green lines indicate innervating afferent lateral-line nerves. pLL neuromasts L3, L4, and L5 were analyzed (dashed circles). ( B–C ) Maximum intensity dorsal top-down 2D projections of confocal images of control or stimulus-exposed neuromast hair cells (blue ( B ) or orange ( C ); Parvalbumin immunolabel). Exposed neuromast hair-cell morphology was categorized as ‘normal’ i.e. radial hair-cell organization indistinguishable from control or ‘disrupted’ i.e. asymmetric organization with the hair-cell apical ends oriented posteriorly. ( D ) Maximum intensity projections of supporting cells (SCs) expressing GFP (green), immunolabeled synaptic ribbons (magenta; Ribeye b) and all cell nuclei (blue; DAPI). Note that SCs underlying displaced hair cells also appear physically disrupted (indicated by white arrows). Scale bars: 5 µm ( F ) Average percentage of neuromasts with ‘disrupted’ morphology following mechanical stimulation. Each dot represents the percentage of disrupted neuromasts (NM) in a single experimental trial. Disrupted hair-cell morphology was place dependent, with neuromasts more frequently disrupted following sustained stimulus and when localized toward the posterior end of the tail (*p = 0.0386, **p = 0.0049, ***p = 0.0004) ( G ) Average percentage of exposed neuromasts (NM) with ‘disrupted’ morphology in  lhfpl5b  mutants, which lack mechanotransduction specifically in lateral-line hair cells, vs. heterozygous WT.  lhfpl5b  mutants show a similar gradient of neuromast disruption following mechanical injury as WT siblings. Error Bars = SEM. Figure 2—source data 1. Summary of normal and disrupted neuromast counts following sustained and periodic stimulus exposures. Figure 2—source data 2. ummary of normal and disrupted neuromast counts in  lhfpl5b  mutants and wildtype siblings following sustained stimulus exposure.",
+    "original_url": "https://cdn.elifesciences.org/articles/69264/elife-69264-fig2-v2.tif",
+    "sha256": "26731567b3f5481f08026361ae27f4f9705828f3a77e69d7533966dacaee7037",
+    "width": 1529,
+    "height": 2233,
+    "display_path": "figures/elife_69264_fig2_panels.png",
+    "panel_crop_box": [
+      0,
+      0.145,
+      1,
+      0.634
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1529,
+      2233
+    ],
+    "display_sha256": "f2ddfb684f6ffd57da742be4b3ac6a6e9e9b38534733461bc282cfc7af77f1cf"
+  },
+  "69433:4": {
+    "path": "figures/elife_69433_fig4.png",
+    "title": "Sensory transduction is required for normal development and maturation of cochlear inner hair cell synapses",
+    "authors": "John Lee; Kosuke Kawai; Jeffrey R Holt; Gwenaëlle SG Géléoc",
+    "first": "Lee",
+    "year": "2021",
+    "doi": "10.7554/eLife.69433",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Lee et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Loss of sensory transduction, not of  Tmc1  and  Tmc2  specifically, results in the synaptic differences observed at postnatal day 7 (P7) and P28. ( A–C ) The mean number of synapses/inner hair cell (IHC) at each frequency region. Data from wild-type (WT) (black),  Tmc1 Δ/Δ ;Tmc2 Δ/Δ  (red),  Tmc1 Δ/Δ  (blue),  Tmie sr  (purple), and  Tmc1 Bth  (gold) groups are shown. WT,  Tmc1 Δ/Δ , and  Tmc1 Δ/Δ ;Tmc2 Δ/Δ  data are the same as those depicted in  Figure 3 , reprinted here to facilitate comparison. Individual points represent counts from one mouse. In  A  and  B  two-way interactions between genotype and timepoints were statistically significant for all frequencies based on two-way ANOVA (p < 0.001;  Supplementary file 3B ), suggesting the trajectory of synaptic development varies by genotype. The genotype-specific trajectory of synaptic development did not vary by frequency (three-way ANOVA; p = 0.68 based on three-way interaction between genotype, timepoints, and frequency;  Supplementary file 3B ). Frequency-specific synapse counts differed by genotype in  C  (two-way ANOVA; p = 0.002 based on two-way interaction between genotype and frequency;  Supplementary file 3B ). Bolded lines depict mean ± SD. Black horizontal bars and asterisks represent statistically significant differences in group means (multiple pairwise comparisons, *p < 0.05, **p < 0.01, ***p < 0.001; exact p values listed in  Supplementary file 4A-C ). Number of cochleas: 4 WT, 5–12  Tmc1 Δ/Δ ;Tmc2 Δ/Δ , 4  Tmc1 Δ/Δ , 5–6  Tmie sr , 4–6  Tmc1 Bth . Figure 4—source data 1. Loss of sensory transduction, not of  Tmc1  and  Tmc2  specifically, results in the synaptic differences observed at postnatal day 7 (P7) and P28.",
+    "original_url": "https://cdn.elifesciences.org/articles/69433/elife-69433-fig4-v2.tif",
+    "sha256": "5ab0e16acdd2a56804fd42618bdec879ab41ea74b48d02cbd230727fbe22bdca",
+    "width": 2232,
+    "height": 824
+  },
+  "72251:1": {
+    "path": "figures/elife_72251_fig1.png",
+    "title": "The Cl<sup>-</sup>-channel TMEM16A is involved in the generation of cochlear Ca<sup>2+</sup> waves and promotes the refinement of auditory brainstem networks in mice",
+    "authors": "Alena Maul; Antje Kathrin Huebner; Nicola Strenzke; Tobias Moser; Rudolf Rübsamen; Saša Jovanovic; Christian A Hübner",
+    "first": "Maul",
+    "year": "2022",
+    "doi": "10.7554/eLife.72251",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Maul et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. TMEM16A is required for the generation of spontaneous volume changes and Ca 2+  waves in Kölliker’s organ. ( A ) Schematic representation of the organ of Corti at birth (left) and after hearing onset (right). BM, basilar membrane; IHC, inner hair cells; IS, inner sulcus; ISC, inner supporting cells; KÖ, Kölliker’s organ; OHC, outer hair cells; SGN, spiral ganglion neurons; SM, scala media; ST, scala tympani; SV, scala vestibuli; TM, tectorial membrane. ( B ) Left: example differential interference contrast (DIC) image from the area of the cochlea turn imaged in ( C–F ). Right: the schematic drawing highlights the location of IHCs (blue) and ISCs (yellow) of KÖ. HC, Hensen cells; DC, Deiter’s cells; PC, pillar cells. ( C, D ) DIC time-lapse imaging at P7 reveals spontaneous volume changes of ISCs in a wildtype mouse indicated by changes in light intensity, which are almost absent in the cKO littermate. The arrow in ( D ) indicates erythrocytes moving in a blood vessel. Scale bar 50 μm. ( E, F ) Ca 2+  imaging at P6 reveals spontaneous Ca 2+  waves traveling across ISCs of KÖ in a wildtype mouse ( E ) that are reduced to small local Ca 2+  transients in the cKO littermate ( F ). Scale bar 50 μm. ( G, H ) Quantification of areas and frequencies of spontaneous ISC volume changes. A time-lapse series of 1200 images with one image per second was analyzed. Values represent mean ± SEM (P5–7; n = 7 WT, n = 9 cKO; two-tailed unpaired Student’s  t -test: area: p=0.0000056, frequency: p=0.0042). ( I, J ) Quantification of area and frequency of spontaneous Ca 2+  events. A time-lapse series of 400 images with one image per second was analyzed. Values represent mean ± SEM (P5–7; n = 14 WT, n = 16 cKO; two-tailed unpaired Student’s  t -test: area: p=0.00032; frequency: p=0.0027). Figure 1—source data 1. Source data for  Figure 1 .",
+    "original_url": "https://cdn.elifesciences.org/articles/72251/elife-72251-fig1-v2.tif",
+    "sha256": "c79cef2b4c429047cf6cdd6bb21b54c67a300317c081970608de689330200d09",
+    "width": 2208,
+    "height": 2523,
+    "display_path": "figures/elife_72251_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0.42,
+      1,
+      0.79
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2208,
+      2523
+    ],
+    "display_sha256": "91eaf99a06b0566a0a3293c5493677397787adfb2bd8ad2568919147d0985eff"
+  },
+  "72681:2": {
+    "path": "figures/elife_72681_fig2.png",
+    "title": "Repair of noise-induced damage to stereocilia F-actin cores is facilitated by XIRP2 and its novel mechanosensor domain",
+    "authors": "Elizabeth L Wagner; Jun-Sub Im; Stefano Sala; Maura I Nakahata; Terence E Imbery; Sihan Li; Daniel Chen; Katherine Nimchuk; Yael Noy; David W Archer; Wenhao Xu; George Hashisaki; Karen B Avraham; Patrick W Oakes; Jung-Bum Shin",
+    "first": "Wagner",
+    "year": "2023",
+    "doi": "10.7554/eLife.72681",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wagner et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Xin actin binding repeat containing 2 (XIRP2) is enriched at gaps in stereocilia F-actin cores. ( A ) XIRP2 immunostaining is enriched at noise-induced gaps in phalloidin staining in inner hair cells (IHCs) (yellow arrows). ( B ) XIRP2 immunostaining is enriched at naturally occurring phalloidin-negative gaps in utricle hair cells (yellow arrows). ( C ) Cartoon and representative image (1×5 μm) of XIRP2 enrichment throughout length of gap in phalloidin signal. ( D ) Line scan of fluorescence intensity in phalloidin (green) and XIRP2 (magenta) channels along the length of a gap in which XIRP2 is enriched throughout the gap. ( E ) Cartoon and representative image (1×5 μm) of XIRP2 enrichment at the edges of a gap. ( F ) Line scan of fluorescence intensity in phalloidin (green) and XIRP2 (magenta) channels in which XIRP2 is only enriched at the edges of the gap. Images are representative of >10 experiments.",
+    "original_url": "https://cdn.elifesciences.org/articles/72681/elife-72681-fig2-v2.tif",
+    "sha256": "48ac1d093cb62fb42e764df81532cc134552924f3cb8671f2a8600b0ea82ca4d",
+    "width": 2154,
+    "height": 2903,
+    "display_path": "figures/elife_72681_fig2_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.248
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2154,
+      2903
+    ],
+    "display_sha256": "ed58ffdc2eb2ac2ed73f4c0bb6727aaf17d61759ea6f79d024d4893d1b7a3c63"
+  },
+  "72681:6": {
+    "path": "figures/elife_72681_fig6.png",
+    "title": "Repair of noise-induced damage to stereocilia F-actin cores is facilitated by XIRP2 and its novel mechanosensor domain",
+    "authors": "Elizabeth L Wagner; Jun-Sub Im; Stefano Sala; Maura I Nakahata; Terence E Imbery; Sihan Li; Daniel Chen; Katherine Nimchuk; Yael Noy; David W Archer; Wenhao Xu; George Hashisaki; Karen B Avraham; Patrick W Oakes; Jung-Bum Shin",
+    "first": "Wagner",
+    "year": "2023",
+    "doi": "10.7554/eLife.72681",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wagner et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 6. The C-terminal domain of Xin actin binding repeat containing 2 (XIRP2) is required for its recruitment to gaps, and its deletion in the  Xirp2 ΔLIM/CTD  mice causes an accumulation of gaps and mild hearing loss. ( A ) Diagram of  Xirp2  gene structure and isoforms indicating the position of the LIM domain and the region of alternative reading frame targeted in the generation of the  Xirp2 ΔLIM/CTD  mice. ( B ) Diagram indicating the position of the 1 bp substitution in exon 8 of  Xirp2  to generate the  Xirp2 ΔLIM/CTD  mice. The T→A mutation introduced a stop codon in the short isoform but did not alter the amino acid sequence of the long isoform. ( C ) The LIM domain of short XIRP2 and the rest of the C-terminus is removed from short XIRP2 in  Xirp2 ΔLIM/CTD  mice. ( D ) XIRP2-ΔLIM/C-terminal domain (CTD) (recognized by an antibody against the N-terminus) is still expressed and localizes to the hair bundle. ( E ) Immunostaining with an antibody targeting the CTD of XIRP2 is absent in  Xirp2 ΔLIM/CTD  mice, indicating the successful truncation of short XIRP2. ( F ) The bundle signal in  Xirp2 ΔLIM/CTD  mice is not due to compensatory localization of long XIRP2. ( G ) Unlike full-length XIRP2, XIRP2-ΔLIM/CTD immunostaining is not enriched at gaps (yellow arrows). ( H ) Line scan of fluorescence intensity in phalloidin (green) and XIRP2 (magenta) channels along the length of a gap in  Xirp2 ΔLIM/CTD  mice in which XIRP2 is not enriched. ( H ) The enrichment of XIRP2 immunostaining at gaps is decreased from 1.27-fold in wild-type (WT) mice to 0.85-fold in  Xirp2 ΔLIM/CTD  mice (***, p<0.0.001). n=8 utricles, 4 mice per group. ( I ) γ-Actin immunostaining enrichment is decreased in gaps (yellow arrows) in  Xirp2 ΔLIM/CTD  mice. ( J ) γ-Actin gap enrichment is decreased from ~2-fold in WT to 1.3-fold in  Xirp2 ΔLIM/CTD  mice (***, p<0.001). n=7 utricles, 4 mice per group. Values for  Xirp2 knockout  mice is same as in  Figure 5J . ( K ) There is a significantly larger percentage of utricle hair cells with gaps in P20  Xirp2 ΔLIM/CTD  mice than in age-matched WT mice type (*, p=0.0255). WT: n=8 utricles, 4 mice;  Xirp2 ΔLIM/CTD  mice: n=6 utricles, 3 mice. ( L ) There is a significantly larger percentage of inner hair cells (IHCs) with gaps in P20  Xirp2 ΔLIM/CTD  mice than in age-matched WT mice (**, p=0.007). WT: n=6 organs of Corti, 3 mice;  Xirp2 ΔLIM/CTD  mice: n=7 organs of Corti, 4 mice. ( M )  Xirp2 ΔLIM/CTD  C57Bl/6J mice have elevated hearing thresholds compared to WT mice at 5 months of age, as measured by auditory brainstem response (ABR) (*, p=0.031). n=14 WT mice, 8  Xirp2 ΔLIM/CTD  C57Bl/6J mice. All scale bars are 1 μm. Error bars represent standard error of the mean (SEM). Images are representative of >3 experiments. Figure 6—source data 1. Quantification of immunofluorescence of Xin actin binding repeat containing 2 (XIRP2), γ-actin at stereocilia gaps, and hair cell numbers and gap frequency in wild-type (WT),  Xirp2 knockout (KO),  and  Xirp2 ΔLIM/CTD  mice. Figure 6—source data 2. Auditory brainstem response (ABR) data of wild-type (WT) and  Xirp2 ΔLIM/CTD  mice.",
+    "original_url": "https://cdn.elifesciences.org/articles/72681/elife-72681-fig6-v2.tif",
+    "sha256": "1717dd59eb7ae2f26bbc6b3d415cffb718966b74c2854ee8ae797ecdb0674bf9",
+    "width": 3912,
+    "height": 5210
+  },
+  "72681:7": {
+    "path": "figures/elife_72681_fig7.png",
+    "title": "Repair of noise-induced damage to stereocilia F-actin cores is facilitated by XIRP2 and its novel mechanosensor domain",
+    "authors": "Elizabeth L Wagner; Jun-Sub Im; Stefano Sala; Maura I Nakahata; Terence E Imbery; Sihan Li; Daniel Chen; Katherine Nimchuk; Yael Noy; David W Archer; Wenhao Xu; George Hashisaki; Karen B Avraham; Patrick W Oakes; Jung-Bum Shin",
+    "first": "Wagner",
+    "year": "2023",
+    "doi": "10.7554/eLife.72681",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wagner et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 7. The C-terminal domain (CTD) of Xin actin binding repeat containing 2 (XIRP2) recognizes stress fiber strain sites. ( A ) Representative image of a bent stereocilium, characterized by local F-actin depolymerization (reduced phalloidin signal) and enrichment of XIRP2. ( B ) Representative images and cartoon of actin before and after an induced stress fiber strain site. The red arrows indicate thinning actin stress fibers. ( C, F, I ) Human foreskin fibroblasts (HFFs) co-expressing mApple-actin and EGFP-coupled versions of either full length ( C ), the LIM domain ( F ) or CTD ( I ) of XIRP2. The magnified inset images (red boxed regions) show the localization of the actin and XIRP2 constructs during formation of a laser-induced strain site (the ablation timepoint is indicated by ‘0 s’). The red arrows indicate relocation of the CTD of XIRP2 to stress fiber strain sites ( I ,  Video 3 ) which is not observed for the full-length ( C ,  Video 1 ) or LIM ( F ,  Video 2 ) constructs. ( D, G, J ) Average fluorescence intensity traces and standard deviations of the actin and XIRP2 signals in the region of strain. Following stress fiber strain induction, a large and rapid increase of the fluorescence intensity of the CTD XIRP2 construct is observed ( J ) which is not the case for the full-length ( D ) and LIM domain ( G ) constructs. The slight increase in intensity of full-length XIRP2 during the last minute of the experiment ( D ) is due to the recognition of unstrained actin following stress fiber repair. ( E, H, K ) Spatial probability of XIRP2 recruitment to stress fiber strain sites. The brightest signal of the CTD of XIRP2 is located inside the region of strain (red dashed circle). The brightest LIM domain signal is distributed randomly ( H ) whereas full-length XIRP2 is primarily recruited outside the region of strain indicating it recognizes unstrained actin filaments ( E ). The red line represents the 5 μm ablation line. Figure 7—source data 1. Normalized fluorescence intensity fold changes, of FL (full-length), LIM_only, and C-terminal domain (CTD) (C-term domain) of Xin actin binding repeat containing 2 (XIRP2) tagged with EGFP, after laser ablation.",
+    "original_url": "https://cdn.elifesciences.org/articles/72681/elife-72681-fig7-v2.tif",
+    "sha256": "948f3d16f438c8b6faed2703494af3e1421d0585354c500c944764c3afa30200",
+    "width": 3129,
+    "height": 3276,
+    "display_path": "figures/elife_72681_fig7_panels.png",
+    "panel_crop_box": [
+      0,
+      0.79,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      3129,
+      3276
+    ],
+    "display_sha256": "2e2570cdb53f88c4cf61c6e72ec0deff68111ff206c47012d11c286c592bfddd"
+  },
+  "77628:1": {
+    "path": "figures/elife_77628_fig1.png",
+    "title": "Ear pinnae in a neotropical katydid (Orthoptera: Tettigoniidae) function as ultrasound guides for bat detection",
+    "authors": "Christian A Pulver; Emine Celiker; Charlie Woodrow; Inga Geipel; Carl D Soulsbury; Darron A Cullen; Stephen M Rogers; Daniel Veitch; Fernando Montealegre-Z",
+    "first": "Pulver",
+    "year": "2022",
+    "doi": "10.7554/eLife.77628",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Pulver, Celiker et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. The ear of  Copiphora gorgonensis . ( A ) Location of the ear in the foreleg with a smaller panel illustrating the ear canal extending from the prothorax (acoustic spiracle) to the femoro-tibial “knee” joint through the foreleg. ( B ) 3D reconstruction of the tympanal organ of  C. gorgonensis , showing external and internal structures. Inset in the upper right corner shows a cross section through the ear, inset in the lower left corner shows a lateral view of the  crista acustica  with sensory cells. EC = ear canal, TP = tympanal plate, ATM = anterior tympanal membrane, PTM posterior tympanal membrane, PEC = posterior ear canal division AEC = anterior ear canal division, CA = crista Acustica, AV = auditory vesicle. APC = anterior pinnal cavity, PPC = posterior pinnal cavity; ( C ) 3D anatomy of the ear, with pinnae present, removed, and pinnal cavity volumes; ( D ) Examples of cuticular pinnae of various katydids from three ensiferan subfamilies: ( L–R ):  C. gorgonensis  (Conocephalinae),  Conocephalus fuscus  (Conocephalinae),  Eubliastes aethiops  (Pseudophyllinae),  Ischnomela gracilis  (Pseudophyllinae),  Arachnoscelis arachnoides  (Meconematinae), and  Supersonus aequoreus  (Meconematinae).",
+    "original_url": "https://cdn.elifesciences.org/articles/77628/elife-77628-fig1-v2.tif",
+    "sha256": "a4c1e66ca91be7b6f91b5caa03a8d652defc557bca94d66071075515192d7e92",
+    "width": 1361,
+    "height": 3036,
+    "display_path": "figures/elife_77628_fig1_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.58
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1361,
+      3036
+    ],
+    "display_sha256": "3ce74f0b812987b6f406d49941259628e38946a213d17575880d3725f9704ee8"
+  },
+  "77628:3": {
+    "path": "figures/elife_77628_fig3.png",
+    "title": "Ear pinnae in a neotropical katydid (Orthoptera: Tettigoniidae) function as ultrasound guides for bat detection",
+    "authors": "Christian A Pulver; Emine Celiker; Charlie Woodrow; Inga Geipel; Carl D Soulsbury; Darron A Cullen; Stephen M Rogers; Daniel Veitch; Fernando Montealegre-Z",
+    "first": "Pulver",
+    "year": "2022",
+    "doi": "10.7554/eLife.77628",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Pulver, Celiker et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 3. Acoustic experiments with 3D printed scaled ear models. ( A ) Sound pressure gains (dB SPL) of 3D printed ears ( n  = 8; 4 males and 4 females) calculated from scaled time domain recordings for 23, 40, 60, and 110 kHz 4-cycle pure tones. ( B ) An example of a 3D printed ear model with pinnae present (dorsal view) showing the probe microphone inside the posterior tympanum. ( C ) An example of a 3D printed ear model with pinnae ablated (anterior lateral view), showing probe microphone placement.",
+    "original_url": "https://cdn.elifesciences.org/articles/77628/elife-77628-fig3-v2.tif",
+    "sha256": "fc5b5c1ede10430a4950a6237a9099e86b0f110e3e0609122f24967a1730eca3",
+    "width": 1597,
+    "height": 1137
+  },
+  "79494:2": {
+    "path": "figures/elife_79494_fig2.png",
+    "title": "Optogenetics and electron tomography for structure-function analysis of cochlear ribbon synapses",
+    "authors": "Rituparna Chakrabarti; Lina María Jaime Tobón; Loujin Slitin; Magdalena Redondo Canales; Gerhard Hoch; Marina Slashcheva; Elisabeth Fritsch; Kai Bodensiek; Özge Demet Özçete; Mehmet Gültas; Susann Michanski; Felipe Opazo; Jakob Neef; Tina Pangrsic; Tobias Moser; Carolin Wichmann",
+    "first": "Chakrabarti",
+    "year": "2022",
+    "doi": "10.7554/eLife.79494",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Chakrabarti, Jaime Tobón, Slitin et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Optogenetic depolarization of inner hair cells (IHCs). IHCs expressing ChR2 (Ai32VC cre +  and Ai32KI cre + ) were optogenetically stimulated by 473 nm light pulses of increasing irradiance (mW/mm 2 ; presented as mean ± SEM). ( A–C ) Average photocurrents (lower panel) and photodepolarizations (upper panel) of patch-clamped IHCs during 5 ms (A,  n cells  = 16,  N animals  = 7), 10 ms (B,  n cells  = 12,  N animals  = 4), and 50 ms (C,  n cells  = 15;  N animals  = 6) light pulses of increasing irradiances (color coded). Mean is displayed by the continuous line and ± SEM by the shaded area. ( D–E ) Peak of photodepolarization ( D ) and time to peak ( E ) obtained for increasing irradiances of different lengths (light gray 5 ms, black 10 ms, dark gray 50 ms).",
+    "original_url": "https://cdn.elifesciences.org/articles/79494/elife-79494-fig2-v2.tif",
+    "sha256": "4b0866ec0b88f89e592faa541fb6664a438be10e4072c8f9e8f2e9e9b1835ee5",
+    "width": 2112,
+    "height": 1940,
+    "display_path": "figures/elife_79494_fig2_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.617
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2112,
+      1940
+    ],
+    "display_sha256": "41ca48a8ab14727fa8d8cec295f26318456612cf864a75e90ee8615ba8a8093c"
+  },
+  "79494:6": {
+    "path": "figures/elife_79494_fig6.png",
+    "title": "Optogenetics and electron tomography for structure-function analysis of cochlear ribbon synapses",
+    "authors": "Rituparna Chakrabarti; Lina María Jaime Tobón; Loujin Slitin; Magdalena Redondo Canales; Gerhard Hoch; Marina Slashcheva; Elisabeth Fritsch; Kai Bodensiek; Özge Demet Özçete; Mehmet Gültas; Susann Michanski; Felipe Opazo; Jakob Neef; Tina Pangrsic; Tobias Moser; Carolin Wichmann",
+    "first": "Chakrabarti",
+    "year": "2022",
+    "doi": "10.7554/eLife.79494",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Chakrabarti, Jaime Tobón, Slitin et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 6. Functional active zone (AZ) states differ in their morphologically defined vesicle pools. Representative tomographic 3D reconstructions of AZs at ( A ) B6J Light, ( B ) ChR2 NoLight, ( C ) ChR2 ShortStim, and ( D ) ChR2 LongStim conditions displayed in both front view (upper part of the panel) and top view (ribbon removed from the model, lower part of the panel). ( a–d ) Corresponding virtual sections of A–B. The AZ membrane is shown in blue, presynaptic density in pink (and indicated with PD), ribbons in red (and indicated with R), membrane-proximal (MP)-synaptic vesicles (SVs) (non-tethered in yellow, tethered in orange and docked in light pink), ribbon-associated (RA)-SVs (green, light green). Magnification ×12,000; scale bars, 100 nm. ( E ) Total count of SVs per pool (RA- and MP-SV pools), per ribbon. ( F ) The fraction of non-tethered, tethered, and docked MP-SVs per ribbon. Data are presented in mean ± SEM. *p<0.05, **p<0.01, ***p<0.001, and ****p<0.0001. Statistical test: one-way ANOVA followed by Tukey’s test (parametric data) and Kruskal-Wallis (KW) test followed by Dunn’s test (non-parametric data).  MP-SV pool : B6J Light:  n ribbons  = 15,  N animals  = 2. ChR2 NoLight:  n ribbons  =  17,  N animals  = 4. ChR2 ShortStim:  n ribbons  = 11,  N animals  = 1. ChR2 LongStim:  n ribbons  =  26,  N animals  = 4.  RA-SV pool : B6J Light:  n ribbons  = 9,  N animals  = 1, ChR2 NoLight:  n ribbons  =  17,  N animals  = 4. ChR2 ShortStim:  n ribbons  = 11,  N animals  = 1. ChR2 LongStim:  n ribbons  =  21,  N animals  = 3.",
+    "original_url": "https://cdn.elifesciences.org/articles/79494/elife-79494-fig6-v2.tif",
+    "sha256": "cc53bae586d6b9d8132038f85e469cadb830ede85653462ba43a1ae91eab80b0",
+    "width": 2093,
+    "height": 2430
+  },
+  "79712:4": {
+    "path": "figures/elife_79712_fig4.png",
+    "title": "Cellular reprogramming with ATOH1, GFI1, and POU4F3 implicate epigenetic changes and cell-cell signaling as obstacles to hair cell regeneration in mature mammals",
+    "authors": "Amrita A Iyer; Ishwar Hosamani; John D Nguyen; Tiantian Cai; Sunita Singh; Melissa M McGovern; Lisa Beyer; Hongyuan Zhang; Hsin-I Jen; Rizwan Yousaf; Onur Birol; Jenny J Sun; Russell S Ray; Yehoash Raphael; Neil Segil; Andrew K Groves",
+    "first": "Iyer",
+    "year": "2022",
+    "doi": "10.7554/eLife.79712",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Iyer et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. Gfi1, Atoh1, Pou4f3 , but not  Atoh1  or  Gfi1+Atoh1,  can reprogram 8-day-old GER cells into hair cell-like cells. ( A ) Mating scheme for the targeting of transcription factors to the greater epithelial ridge and all supporting cells. The  Sox9-CreER  mouse is bred to the three Rosa26 overexpression lines in a similar manner to  Figure 1A . Animals received tamoxifen (25 mg/kg body weight) at P8 and were sacrificed at P15. ( B ) GFP reporter expression in some lateral GER cells and all supporting cells detected by immunostaining in the organ of Corti of the  Sox9-CreER; Rosa26 EGFP  cochlea. Images show detection of GFP (green) and nuclear stain, DAPI (magenta). Scale bar: 50 µm. ( C ) Quantification of hair cells in the P15 reprogrammed cochleae. The number of Myosin VIIA + cells per 200 µm length of the organs of Corti from control, Rosa26-A, Rosa26-GA and Rosa26-GAP genotypes (n=3 per genotype) are represented.  Rosa-GAP  mice show approximately 50–60 ectopic hair cells, whereas  Rosa-A  and  Rosa-GA  show less than 5 ectopic cells per 200 µm. An unpaired t-test was performed to compare hair cell numbers between genotypes. Significant differences are represented. **p<0.001. Data are presented as mean ± SEM. ( D ) Rosa26-GAP mice can reprogram GER cells to hair cell-like cells. Immunostaining for Myosin VIIA (red) and Phalloidin (green) in the P15 cochleae (whole-mount organ of Corti - 200 µm length) of control,  Rosa26-A ,  Rosa26-GA,  and  Rosa26-GAP  mice. Arrows point to the GER region in the  Rosa26-GAP  cochlea, where many reprogrammed hair cells are observed.",
+    "original_url": "https://cdn.elifesciences.org/articles/79712/elife-79712-fig4-v1.tif",
+    "sha256": "208180f366710cf14889e1734deea89e2fdd0daf070e7bde1a552eac246bd0ed",
+    "width": 2160,
+    "height": 2096
+  },
+  "89635:1": {
+    "path": "figures/elife_89635_fig1.png",
+    "title": "Folding of prestin’s anion-binding site and the mechanism of outer hair cell electromotility",
+    "authors": "Xiaoxuan Lin; Patrick R Haller; Navid Bavi; Nabil Faruk; Eduardo Perozo; Tobin R Sosnick",
+    "first": "Lin",
+    "year": "2023",
+    "doi": "10.7554/eLife.89635",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Lin et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 1. Distinct HDX response of prestin and SLC26A9 to Cl −  binding. ( A ) HDX data analysis to obtain ( B ) and ( C ). One example peptide is shown in cases where HDX becomes faster or slower in HEPES (the putative apo state) compared to in Cl − . Deuteration levels are obtained from the mass spectra. Here, spectra for the undeuterated peptide (gray) and after 5 min HDX labeling in Cl −  (black) and HEPES (green) are shown as an example. The resulting deuterium uptake plots are used to generate the differential deuteration heatmaps in ( B ). Changes in free energy of unfolding (ΔΔ G ) in ( C ) are calculated after fitting the data with a stretched exponential (Materials and methods) ( Hamuro, 2021 ). ( B ) Heatmaps showing the difference in deuteration levels at each labeling time for all transmembrane domain (TMD) peptides of prestin and SLC26A9 measured in HEPES compared to Cl − . Peptide sequences are displayed on the  y -scale and legible through the high-resolution image. ( C ) The ΔΔ G s in HEPES compared to Cl −  for full-length prestin and SLC26A9 mapped onto the structure (PDB 7S8X and 6RTC). Red and blue indicate increased and decreased stability upon Cl −  binding, respectively. Following regions of the left subunits are shown as low transparency to highlight the binding site – prestin: TM5 and TM12–14; SLC26A9: TM5 and TM13–14. Regions with no fitting results are in gray.",
+    "original_url": "https://cdn.elifesciences.org/articles/89635/elife-89635-fig1-v1.tif",
+    "sha256": "995f405d8a3e8805d151282e2beeba5f1b88f34bc389153b0c21c7386f22fd4f",
+    "width": 2205,
+    "height": 1556
+  },
+  "89635:2": {
+    "path": "figures/elife_89635_fig2.png",
+    "title": "Folding of prestin’s anion-binding site and the mechanism of outer hair cell electromotility",
+    "authors": "Xiaoxuan Lin; Patrick R Haller; Navid Bavi; Nabil Faruk; Eduardo Perozo; Tobin R Sosnick",
+    "first": "Lin",
+    "year": "2023",
+    "doi": "10.7554/eLife.89635",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Lin et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. The anion-binding pockets for prestin and SLC26A9 exhibit distinct stability changes upon Cl −  binding, albeit highly conserved. Cl −  binding stabilizes prestin’s anion-binding pocket ( A ) but mildly affects SLC26A9s ( B ). The structure shows the anion-binding pocket (TM1, TM3, and TM10) with the putative position of the bound Cl − . Colored regions correspond to peptides whose deuterium uptake plots are shown when the protein is in Cl −  (black) and in HEPES (red). Prolines are colored in gray. Gray dashed lines indicate deuteration levels in the full-D control. Data from two and three biological replicates are shown for prestin in Cl −  and HEPES, respectively. Data from three technical replicates are shown for SLC26A9. Replicates are shown as circles, triangles, and squares. Some replicates are superimposable and hence not observable. The symbols (* and #) in (A.b) denote data points used in  Figure 3B . ( C ) Sequence alignment using Clustal Omega of prestin and close SLC26 transporters across species for the anion-binding pocket. Shades of blue indicate degree of conservation.",
+    "original_url": "https://cdn.elifesciences.org/articles/89635/elife-89635-fig2-v1.tif",
+    "sha256": "351c4a7c68c3de918fac50dda1dd93f59f173eef9112c1926aacf09a67431cda",
+    "width": 2205,
+    "height": 1399
+  },
+  "89719:2": {
+    "path": "figures/elife_89719_fig2.png",
+    "title": "Complexes of vertebrate TMC1/2 and CIB2/3 proteins form hair-cell mechanotransduction cation channels",
+    "authors": "Arnaud PJ Giese; Wei-Hsiang Weng; Katie S Kindt; Hui Ho Vanessa Chang; Jonathan S Montgomery; Evan M Ratzan; Alisha J Beirl; Roberto Aponte Rivera; Jeffrey M Lotthammer; Sanket Walujkar; Mark P Foster; Omid A Zobeiri; Jeffrey R Holt; Saima Riazuddin; Kathleen E Cullen; Marcos Sotomayor; Zubair M Ahmed",
+    "first": "Giese",
+    "year": "2025",
+    "doi": "10.7554/eLife.89719",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    },
+    "legend": "Figure 2. CIB2/3 double mutant mice have profound hearing loss. ( A ) Auditory-evoked brainstem response (ABR) thresholds to broadband clicks and tone-pips with frequencies of 8  kHz, 16  kHz, 24 kHz, and 32  kHz in  Cib2 +/+ ;Cib3 KO/KO  (black; n=5) and  Cib2 KO/KO ;Cib3 KO/KO  (red, n=5) mice at P16. The same animals were tested with clicks and tone pips. ( B ) ABR pure tone traces of P32  Cib2 +/+ ;Cib3 KO/KO  (black) and  Cib2 KO/KO ;Cib3 KO/KO  (red) mice measured at 32 kHz. Hearing thresholds are in Decibels (dB SPL). ( C ) Maximum intensity projections of Z-stacks of confocal fluorescent images (right) and corresponding DIC images (left) of  Cib2 KO/+ ;Cib3 +/+ ,  Cib2 KO/KO ;Cib3 +/+ ,  Cib2 +/+ ;Cib3 KO/KO  and  Cib2 KO/KO ;Cib3 KO/KO  cultured organ of Corti explants imaged after exposure to 3  μM of FM 1–43 for 10  s. The samples were dissected at P5 and kept 2 d in vitro (P5  + 2 div). Scale bar: 20  µm. ( D ) Maximum intensity projections of confocal Z-stacks of apical, medial, and basal turns of organ of Corti of control and  Cib2 KO/KO ;Cib3 KO/KO  mice immunostained with an anti-myosin VIIa antibody (green) and counterstained with phalloidin (red) at P18. Asterisks indicate hair cell loss. Scale bar: 10 µm. Figure 2—source data 1. Raw data for ABR plots.",
+    "original_url": "https://cdn.elifesciences.org/articles/89719/elife-89719-fig2-v1.tif",
+    "sha256": "771349350a3f82efe748d9839053dc4d2b3eaa60f0e7f52d850833cb1015ed12",
+    "width": 2205,
+    "height": 2780
+  },
+  "89719:7": {
+    "path": "figures/elife_89719_fig7.png",
+    "title": "Complexes of vertebrate TMC1/2 and CIB2/3 proteins form hair-cell mechanotransduction cation channels",
+    "authors": "Arnaud PJ Giese; Wei-Hsiang Weng; Katie S Kindt; Hui Ho Vanessa Chang; Jonathan S Montgomery; Evan M Ratzan; Alisha J Beirl; Roberto Aponte Rivera; Jeffrey M Lotthammer; Sanket Walujkar; Mark P Foster; Omid A Zobeiri; Jeffrey R Holt; Saima Riazuddin; Kathleen E Cullen; Marcos Sotomayor; Zubair M Ahmed",
+    "first": "Giese",
+    "year": "2025",
+    "doi": "10.7554/eLife.89719",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    },
+    "legend": "Figure 7. AF2 predictions and nuclear magnetic resonance (NMR) data support a clamp-like model for the human TMC1 and CIB2 complex. ( A ) AF2 model of  hs  TMC1 in complex with  hs  CIB2. Side view of monomeric  hs  TMC1 (light purple) in complex with  hs  CIB2 (light sea green). N-terminal residues of TMC1 known to interact with CIB2 are in red. ( B ) Top left panel shows residues at the  hs  TMC1-NT fragment (115-117) shown to weaken interaction with CIB2 upon mutation ( Liang et al., 2021 ) at the interface with CIB2. Additional panels show details of contacts between TMC1 and CIB2 with formation of K124:D14 and K112:E80 salt bridges, as well as hydrophobic interactions. ( C ) Overlay of  1 H- 15 N TROSY-HSQC spectra of  hs  [U- 15 N]-CIB2 (black) alone and bound to either only  hs  TMC1-IL (red) or both  hs  TMC1-IL and  hs  TMC1-NT (blue). NMR data were obtained in the presence of 3 mM CaCl 2 . These data are also shown in  Figure 7—figure supplement 6 . Figure 7—source data 1. TMC sequence alignment.",
+    "original_url": "https://cdn.elifesciences.org/articles/89719/elife-89719-fig7-v1.tif",
+    "sha256": "eee24920776885aa94f91943adbb3fbd58e985c8748b9a2d5babce31c260e2d3",
+    "width": 1887,
+    "height": 2086,
+    "display_path": "figures/elife_89719_fig7_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.44
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      1887,
+      2086
+    ],
+    "display_sha256": "d12a865e3cfae9ff55a7c76315b3669909e514f762662ca7b05da7bfbf02bd38"
+  },
+  "93646:2": {
+    "path": "figures/elife_93646_fig2.png",
+    "title": "CaBP1 and 2 enable sustained Ca<sub>V</sub>1.3 calcium currents and synaptic transmission in inner hair cells",
+    "authors": "David Oestreicher; Shashank Chepurwar; Kathrin Kusch; Vladan Rankovic; Sangyong Jung; Nicola Strenzke; Tina Pangrsic",
+    "first": "Oestreicher",
+    "year": "2024",
+    "doi": "10.7554/eLife.93646",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Oestreicher et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Voltage- and Ca 2+ -dependent inactivation (VDI and CDI) are enhanced after deletion of  Cabp1  and  Cabp2 . ( A, B ) Peak normalized Ca 2+  and Ba 2+  currents in WT and CaBP1/2-deficient inner hair cells (IHCs) recorded in the extracellular solution containing 2 mM of the respective divalent cation. The two types of inactivation were calculated as depicted. ( C ) VDI and CDI were both significantly enhanced in the IHCs of  Cabp1/2 -DKO animals ( asterisks ; Student’s  t -test, p < 0.0001).",
+    "original_url": "https://cdn.elifesciences.org/articles/93646/elife-93646-fig2-v1.tif",
+    "sha256": "877ebf28f148cd3350bf7eb157b91fabd2252ef95358693ce1e170f998e3141b",
+    "width": 2205,
+    "height": 604
+  },
+  "93646:7": {
+    "path": "figures/elife_93646_fig7.png",
+    "title": "CaBP1 and 2 enable sustained Ca<sub>V</sub>1.3 calcium currents and synaptic transmission in inner hair cells",
+    "authors": "David Oestreicher; Shashank Chepurwar; Kathrin Kusch; Vladan Rankovic; Sangyong Jung; Nicola Strenzke; Tina Pangrsic",
+    "first": "Oestreicher",
+    "year": "2024",
+    "doi": "10.7554/eLife.93646",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Oestreicher et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 7. Impaired sound encoding in  Cabp1/2 -DKO mice. Single neuron responses to sound stimulation in vivo in the region of the auditory nerve of  Cabp1/2 -DKO mice were extremely scarce. ( A ) WT poststimulus time histograms of spiral ganglion neurons (SGNs) to 50 ms suprathreshold tone or noise burst stimuli presented at a rate of 5 Hz showed a very high sound onset rate gradually adapting to a sustained rate persisting throughout the stimulus duration. Spike rates were much lower in the mutants. ( B ) Applying a lower stimulus rate of 0.5 Hz partially restored sound onset responses in  Cabp1/2 -DKOs, highlighting the enhanced strength of adaptation. WT and mutant neurons sustained their adapted spiking response throughout the longer 500 ms stimulus used in these recordings. For direct comparison, the average 5 Hz poststimulus time histograms from the same neurons are shown. ( C ) Correlations of peak and adapted rates for different stimulus rates. ( D ) Peak rates for different stimulus rates/interstimulus intervals in WT SGNs strongly increase between 10 and 5 Hz, while in DKOs a longer period of silence is required to observe such difference. ( E )  Cabp1/2 -DKO neurons had lower spontaneous spike rates than WT SGNs. Figure 7—source code 1. Matlab source codes for analysis of SU data.",
+    "original_url": "https://cdn.elifesciences.org/articles/93646/elife-93646-fig7-v1.tif",
+    "sha256": "2de955f6f52536ce2f932f4f8a026fdfcf420f144809d2d0847b7867bb056f11",
+    "width": 2205,
+    "height": 1133
+  },
+  "93749:2": {
+    "path": "figures/elife_93749_fig2.png",
+    "title": "Bridging the gap between presynaptic hair cell function and neural sound encoding",
+    "authors": "Lina María Jaime Tobón; Tobias Moser",
+    "first": "Jaime Tobón",
+    "year": "2024",
+    "doi": "10.7554/eLife.93749",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Jaime Tobón and Moser",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 2. Synapses with high spontaneous release have larger and more monophasic spontaneous EPSCs (sEPSCs). ( A ) sEPSCs recorded in the absence of stimulation (i.e. inner hair cell [IHC] holding potential = –58 mV) from two exemplary paired recordings with different spontaneous rate ( SR:  gray for low  SR,  orange for high  SR ). ‘Pair #’ identifies individual paired recordings. Insets show the selected sEPSCs in an expanded time scale. ( a, b ) correspond to multiphasic sEPSCs, while ( c ) represents a typical monophasic sEPSC. ( B ) Cumulative sEPSC amplitude plots for 23 paired synapses that had spontaneous release. ( C–D ) Average sEPSC amplitude ( C ) and charge ( D ) from individual synapses recorded from the pillar or modiolar side of the IHC. ( E–F ) Pooled sEPSC amplitude ( E ) and charge ( F ) distributions show a distinct peak at –40 pA and 40 pC, respectively. Bin size: 10 pA or pC. ( G ) Percentage of monophasic sEPSCs in pillar and modiolar synapses. ( H ) Cumulative fraction (left axis) and normalized histogram (right axis) of the spontaneous rate (bin size is 1 sEPSC/s) of 33 pairs. ( I ) Pillar synapses had higher rates of sEPSCs. ( J–L ) High  SR  synapses had significantly larger sEPSC amplitudes ( J ), a tendency to bigger sEPSC charges ( K ) and higher percentages of monophasic sEPSCs ( L ). Panels  G ,  I–L  show individual data points with the median and interquartile range overlaid (line). Synapses were classified as △ pillar or ❍ modiolar, and as Low  SR <1 sEPSC/s≤High  SR .",
+    "original_url": "https://cdn.elifesciences.org/articles/93749/elife-93749-fig2-v1.tif",
+    "sha256": "dc39dd491b4141ba2413d21ab6ae9a76dc1f1a9f0b9d072b3d96ff235b52c985",
+    "width": 2097,
+    "height": 2265,
+    "display_path": "figures/elife_93749_fig2_panels.png",
+    "panel_crop_box": [
+      0,
+      0,
+      1,
+      0.33
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2097,
+      2265
+    ],
+    "display_sha256": "286ed38b78cef1369dfbec7623ef80b9619ef7d91ff9523f5e5b76108b555ab1"
+  },
+  "93749:4": {
+    "path": "figures/elife_93749_fig4.png",
+    "title": "Bridging the gap between presynaptic hair cell function and neural sound encoding",
+    "authors": "Lina María Jaime Tobón; Tobias Moser",
+    "first": "Jaime Tobón",
+    "year": "2024",
+    "doi": "10.7554/eLife.93749",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Jaime Tobón and Moser",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "legend": "Figure 4. High spontaneous release synapses have shorter synaptic delay and higher initial release rates. ( A ) ‘Forward masking’ voltage protocol to study depletion and recovery of RRP and data of an exemplary high  SR  synapse (left panels, blue and orange) and low  SR  synapse (right panels, gray): Ca 2+  currents (second from top,  I Ca ), evoked EPSCs (eEPSCs) (second from bottom), and  Q EPSC  (bottom). The stimulus (top panel) consists of two sequential voltage steps (‘masker’ and ‘probe’) separated by different interstimulus intervals (ISI). Dashed vertical lines on top of eEPSC data indicate the onset and offset of the masker stimulus. ( B ) Latencies of the eEPSCs (eEPSC onset  – Masker onset ) were significantly shorter in high  SR  than low  SR  synapses. ( C ) High  SR  synapses also had less latency jitter. ( D ) Pool depletion dynamics were studied by fitting the sum of a single exponential and a line function (black discontinuous line) to the first 50 ms of the average  Q EPSC  trace in response to the masker stimulus. ( E–I ) RRP, time constant (τ) of depletion, initial release rate, and sustained release were calculated from the fits and the mean  Q sEPSC  for each pair. High  SR  synapses depleted the RRP with faster time constants ( F ) and reached higher initial release rates ( G ) followed by a stronger adaptation ( I ) ( J ) Recovery from RRP depletion shown as ratio of  Q EPSC probe  and  Q EPSC masker  (mean ± sem) during the first 10 ms of the stimulus. ( K ) Time constant of recovery from RRP depletion obtained from single exponential fits to the traces shown in J (see  Figure 4—figure supplement 1L ). Panels  B ,  C ,  E–I , and  K  show individual data points with the median and interquartile range overlaid (line). Synapses were classified as △ pillar or ❍ modiolar, and as Low  SR <1 sEPSC/s≤High  SR .",
+    "original_url": "https://cdn.elifesciences.org/articles/93749/elife-93749-fig4-v1.tif",
+    "sha256": "141a78a8217ffafd7915bcf1b862931f376f1dda28d1c545bc085bd48fb1d5b8",
+    "width": 2107,
+    "height": 2222,
+    "display_path": "figures/elife_93749_fig4_panels.png",
+    "panel_crop_box": [
+      0.665,
+      0,
+      1,
+      0.333
+    ],
+    "crop_tool": "tools/crop_figure.py; unchanged publisher raster in private PDF container",
+    "source_dimensions": [
+      2107,
+      2222
+    ],
+    "display_sha256": "652236d1d5d4c9e73ef40ed85a2646bd5bbf0f09787cb4d9ca9b8ba7b2f66e67"
+  }
+}

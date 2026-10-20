@@ -1,0 +1,98 @@
+{
+  "43736:3": {
+    "title": "Distinct progenitor populations mediate regeneration in the zebrafish lateral line",
+    "authors": "Eric D Thomas; David W Raible",
+    "year": "2019",
+    "doi": "10.7554/eLife.43736",
+    "figure": "3",
+    "original_url": "https://cdn.elifesciences.org/articles/43736/elife-43736-fig3-v2.tif",
+    "legend": "10.7554/eLife.43736.011 Figure 3. Distinct support cell populations have different regenerative capacities. ( A ) Timeline of nlsEos fate mapping experiment. Fish were photoconverted at 5 dpf, treated with neomycin, then fixed and imaged 72 hr post treatment (8 dpf). ( B, C, D ) Maximum projections of neuromasts from  sfrp1a :nlsEos (Peripheral,  B ),  tnfsf10l3 :nlsEos (AP,  C ), and  sost :nlsEos (DV,  D ) fish following photoconversion and hair cell regeneration. Converted nlsEos-positive cells are shown in magenta, and brn3c:GFP-positive hair cells are shown in green. Arrowheads indicate nlsEos-positive hair cells. Scale bar = 10 μm. ( E ) Percentage of hair cells per neuromast labeled by nlsEos following regeneration.  Sfrp1a :nlsEos (Peripheral): 3.59 ± 8.87, n = 50 neuromasts (10 fish);  tnfsf10l3 :nlsEos (AP): 20.28 ± 20.58, n = 50 neuromasts (10 fish);  sost :nlsEos (DV): 60.87 ± 12.37, n = 50 neuromasts (10 fish); mean ± SD; Kruskal-Wallis test, Dunn’s post-test, p=0.003 (Peripheral vs. AP), p<0.0001 (Peripheral vs. DV, AP vs. DV). ( F ) Total nlsEos-positive support cells per neuromast prior to hair cell ablation.  Sfrp1a :nlsEos (Peripheral): 14.30 ± 4.17, n = 50 neuromasts (10 fish);  tnfsf10l3 :nlsEos (AP): 22.8 ± 4.40, n = 50 neuromasts (10 fish);  sost :nlsEos (DV): 23.86 ± 4.45, n = 50 neuromasts (10 fish); mean ± SD; Kruskal-Wallis test, Dunn’s post-test, p<0.0001 (Peripheral vs. AP, Peripheral vs. DV), p>0.9999 (AP vs. DV). 10.7554/eLife.43736.012 Figure 3—source data 1. Distinct support cell populations have different regenerative capacities",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Thomas and Raible",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "path": "figures/elife_43736_fig3.png",
+    "sha256": "91e05ae9672bec46ec92e646e93c0bb6d086f8b726b8deaba98e77675219e3ed"
+  },
+  "30823:4": {
+    "title": "Live cell-lineage tracing and machine learning reveal patterns of organ regeneration",
+    "authors": "Oriol Viader-Llargués; Valerio Lupperger; Laura Pola-Morell; Carsten Marr; Hernán López-Schier",
+    "year": "2018",
+    "doi": "10.7554/eLife.30823",
+    "figure": "4",
+    "original_url": "https://cdn.elifesciences.org/articles/30823/elife-30823-fig4-v3.tif",
+    "legend": "10.7554/eLife.30823.007 Figure 4. Recovery of organ architecture after loss of tissue integrity. ( A–E ) Confocal images of a neuromast regenerating from 4 to 10 cells during a period of 7 days. Neuromasts recover radial symmetry 3 dpi ( D ), and original organ proportions at 7 dpi ( E ). ( F–J ) Neuromasts reduced to 4–10 cells that were previously deprived from adjacent interneuromast cells (INCs) (arrowheads in  F ), regenerated and reformed radial symmetry ( H–I ) and proportions 7 dpi, despite maintaining a reduced size ( J ). Dashed circles in ( A,F ) illustrate damaged areas. Scale bars: 10 µm. ( K,N ) Total cell numbers in regenerating neuromasts over 7 days in the two conditions depicted in ( A–J ). ( L,O ) In the first 2 dpi neuromast consist almost exclusively of supporting cells (green and red). Hair cells (blue) begin to appear between at 2dpi. ( M,P ) Percentages of cell classes during a 7 day regeneration period. Right after damage, neuromast experience an imbalance of cell proportions that is re-established over the course of 3 days. Afterwards the neuromasts continues to slowly increase total cell number at similar rates. The final proportion of cell classes recapitulates that of the starting condition. Time points show mean ± s.e.m. [All except 4–10 cells] n = 15, [All except 4–10 cells + INC] n = 6. ( Q ) Top and ( R ) lateral views of a triple-transgenic  Tg[Ncad: Ncad-EGFP; Alp:mCherry; H2A:H2A-EGFP]  neuromast before injury. ( S ) Top and ( T ) lateral views of a regenerated neuromast 7 days post injury (n = 4). Basal location of nuclei and apical N-cadherin enrichment evidence the apicobasal polarization of the organ. The accumulation of N-cadherin (white arrowheads) in the regenerated neuromast shows that apical constrictions are properly re-established during the process. ( U–V ) Maximal intensity projection of a neuromast in the triple transgenic line  Tg[Cldnb:lynGFP; SqGw57A; Alpl:mCherry]  prior to injury that eliminates all except 4 to 10 cells ( U ), and the same neuromast 7 days after damage ( V ). ( W ) Hair-bundle staining with rhodamine-phalloidin (colored in pink) reveals the coherent planar polarization of the hair cells in the regenerated neuromast shown in ( V ). ( X ) Confocal projection of a neuromast before the removal of flanking interneuromast cells. ( Y ) Maximal projection of a neuromast 48 hr after interneuromast-cell ablation and 24 hr after neomycin treatment. ( Z ) Phalloidin staining of hair bundles of hair cells regenerated in the absence of interneuromast cells, showing recovery of coherent epithelial planar polarity. Scale bars: 10 µm.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Viader-Llargués et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "path": "figures/elife_30823_fig4.png",
+    "sha256": "e4f482b1ccedf6748246fb9891e784698eeaf6005c9af71b0f6acfadfcbb7ca0"
+  },
+  "66547:4": {
+    "title": "Dual expression of Atoh1 and Ikzf2 promotes transformation of adult cochlear supporting cells into outer hair cells",
+    "authors": "Suhong Sun; Shuting Li; Zhengnan Luo; Minhui Ren; Shunji He; Guangqin Wang; Zhiyong Liu",
+    "year": "2021",
+    "doi": "10.7554/eLife.66547",
+    "figure": "4",
+    "original_url": "https://cdn.elifesciences.org/articles/66547/elife-66547-fig4-v2.tif",
+    "legend": "Figure 4. Lesion to endogenous OHCs enhances reprogramming efficiency of adult SCs by Atoh1 and Ikzf2. ( A ) Three distinct mice models were subject to tamoxifen (TMX) treatment at P30 and P31, followed by DT treatment at P36 and analysis at P60. ( B ) Illustration of key cellular events occurring during the experiment: induction of Atoh1 and Ikzf2 in adult PCs and DCs, which were permanently labeled with Tdtomato for the subsequent fate-mapping analysis. ( C–G’’’ ) Triple labeling against HA, Tdtomato, and Prestin in four models: (1)  Slc26a5 DTR/+  ( C, D ), (2) Fgfr3-iCreER+; CAG-LSL- Atoh1 +;  Slc26a5 DTR/+  (Fgfr3-Atoh1-DTR;  E ), (3) Fgfr3-iCreER+;  Rosa26 CAG-LSL-Ikzf2/+ ; Slc26a5 DTR/+  (Fgfr3-Ikzf2-DTR;  F ), and (4) Fgfr3-iCreER+; CAG-LSL- Atoh1 +;  Rosa26 CAG-LSL-Ikzf2/+ ; Slc26a5 DTR/+  (Fgfr3-Atoh1-Ikzf2-DTR;  G–G’’’ ). Relative to  Slc26a5 DTR/+  mice not treated with DT ( C ), DT-treated  Slc26a5 DTR/+  mice harbored fewer normal Prestin+ OHCs at P60 (arrows in  D ). Debris of dying OHCs had disappeared. No OHC-like cells were observed in the first three models, but Tdtomato+/HA+/Prestin+ OHC-like cells (orange and blue arrows in  G’’ ) were present in the Fgfr3-Atoh1-Ikzf2-DTR model ( G-G’’’ ). ( H ) Percentages of SCs that were transformed into OHC-like cells at different cochlear turns in Fgfr3-Atoh1-Ikzf2-DTR mice. ( I ) Comparison of OHC-like cell numbers between Fgfr3-Atoh1-Ikzf2-DTR and Fgfr3-Atoh1-Ikzf2 models (without damaging adult wild-type OHCs). Fgfr3-Atoh1-Ikzf2-DTR mice harbored considerably more OHC-like cells than Fgfr3-Atoh1-Ikzf2 mice. Data was presented as mean ± SEM (n = 3). Student’s t test was used for statistical analysis. **p<0.01, ***p<0.001. Scale bar: 20 μm. Figure 4—source data 1. It contained the numerical values of the data plotted in the graph of  Figure 4H . Figure 4—source data 2. It contained the numerical values of the data plotted in  Figure 4I .",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Sun et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "path": "figures/elife_66547_fig4.png",
+    "sha256": "452899d990f67e4f8c0e4d1d4e54c806700432622b073afebd4b213b0091a19b"
+  },
+  "79712:4": {
+    "title": "Cellular reprogramming with ATOH1, GFI1, and POU4F3 implicate epigenetic changes and cell-cell signaling as obstacles to hair cell regeneration in mature mammals",
+    "authors": "Amrita A Iyer; Ishwar Hosamani; John D Nguyen; Tiantian Cai; Sunita Singh; Melissa M McGovern; Lisa Beyer; Hongyuan Zhang; Hsin-I Jen; Rizwan Yousaf; Onur Birol; Jenny J Sun; Russell S Ray; Yehoash Raphael; Neil Segil; Andrew K Groves",
+    "year": "2022",
+    "doi": "10.7554/eLife.79712",
+    "figure": "4",
+    "original_url": "https://cdn.elifesciences.org/articles/79712/elife-79712-fig4-v1.tif",
+    "legend": "Figure 4. Gfi1, Atoh1, Pou4f3 , but not  Atoh1  or  Gfi1+Atoh1,  can reprogram 8-day-old GER cells into hair cell-like cells. ( A ) Mating scheme for the targeting of transcription factors to the greater epithelial ridge and all supporting cells. The  Sox9-CreER  mouse is bred to the three Rosa26 overexpression lines in a similar manner to  Figure 1A . Animals received tamoxifen (25 mg/kg body weight) at P8 and were sacrificed at P15. ( B ) GFP reporter expression in some lateral GER cells and all supporting cells detected by immunostaining in the organ of Corti of the  Sox9-CreER; Rosa26 EGFP  cochlea. Images show detection of GFP (green) and nuclear stain, DAPI (magenta). Scale bar: 50 µm. ( C ) Quantification of hair cells in the P15 reprogrammed cochleae. The number of Myosin VIIA + cells per 200 µm length of the organs of Corti from control, Rosa26-A, Rosa26-GA and Rosa26-GAP genotypes (n=3 per genotype) are represented.  Rosa-GAP  mice show approximately 50–60 ectopic hair cells, whereas  Rosa-A  and  Rosa-GA  show less than 5 ectopic cells per 200 µm. An unpaired t-test was performed to compare hair cell numbers between genotypes. Significant differences are represented. **p<0.001. Data are presented as mean ± SEM. ( D ) Rosa26-GAP mice can reprogram GER cells to hair cell-like cells. Immunostaining for Myosin VIIA (red) and Phalloidin (green) in the P15 cochleae (whole-mount organ of Corti - 200 µm length) of control,  Rosa26-A ,  Rosa26-GA,  and  Rosa26-GAP  mice. Arrows point to the GER region in the  Rosa26-GAP  cochlea, where many reprogrammed hair cells are observed.",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Iyer et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "path": "figures/elife_79712_fig4.png",
+    "sha256": "208180f366710cf14889e1734deea89e2fdd0daf070e7bde1a552eac246bd0ed"
+  },
+  "03564:7": {
+    "title": "Neurotrophin-3 regulates ribbon synapse density in the cochlea and induces synapse regeneration after acoustic trauma",
+    "authors": "Guoqiang Wan; Maria E Gómez-Casati; Angelica R Gigliello; M Charles Liberman; Gabriel Corfas",
+    "year": "2014",
+    "doi": "10.7554/eLife.03564",
+    "figure": "7",
+    "original_url": "https://cdn.elifesciences.org/articles/03564/elife-03564-fig7-v2.tif",
+    "legend": "10.7554/eLife.03564.011 Figure 7. Ntf3 overexpression from postnatal supporting cells promotes recovery from noise-induced synaptic degeneration. ( A ) Representative confocal images of IHC synapses from 32 kHz region of  Ntf3 stop  and  Ntf3 stop :Plp1/CreER T  cochleae immunolabeled for CtBP2 and GluA2 at 2 hr (upper panels) or 14 days after acoustic trauma (AT); scale bar = 10 µm. ( B  and  C )  Ntf3  overexpression promotes regeneration of IHC synapses ( B ) and prevents the progressive loss of IHC ribbons ( C ) between 2 hr (AT + 2 hr) and 14 days (AT + 14 days) after acoustic trauma.  n  = 3–8. *p < 0.05, ***p < 0.001 by two-way ANOVA. Gray shading indicates the noise exposure spectrum. Key in  C  applies to  B – C . DOI:   http://dx.doi.org/10.7554/eLife.03564.011",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Wan et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "path": "figures/elife_03564_fig7.png",
+    "sha256": "582039b0feda88ca2fec6b5febc4c7b7432901cec897661ce18cc635ca0561e9"
+  },
+  "66547:5": {
+    "title": "Dual expression of Atoh1 and Ikzf2 promotes transformation of adult cochlear supporting cells into outer hair cells",
+    "authors": "Suhong Sun; Shuting Li; Zhengnan Luo; Minhui Ren; Shunji He; Guangqin Wang; Zhiyong Liu",
+    "year": "2021",
+    "doi": "10.7554/eLife.66547",
+    "figure": "5",
+    "original_url": "https://cdn.elifesciences.org/articles/66547/elife-66547-fig5-v2.tif",
+    "legend": "Figure 5. Hair bundles were present in OHC-like cells. Scanning electron microscopy (SEM) analysis of samples from three different mouse models at P60. ( A–A’ ) OHCs harbored V- or W-shaped hair bundles in S lc26a5 DTR/+  mice not treated with DT. ( A’ ): high-magnification view of boxed region in ( A ). ( B ) Majority of OHCs had disappeared by P60 in  Slc26a5 DTR/+  mice upon DT treatment at P36. Black asterisk: one IHC that was absent. ( C ) Immature hair bundles were frequently detected in the Fgfr3-iCreER+; CAG-LSL- Atoh1 +;  Rosa26 CAG-LSL-Ikzf2/+ ; Slc26a5 DTR/+  (Fgfr3-Atoh1-Ikzf2-DTR) model, but not in ( A ) and ( B ). These hair bundles were thought to originate from OHC-like cells. ( C’ ): high-magnification view of boxed region in ( C ). Inset in C: instance of occasional hair bundles. Black asterisk: one IHC that was missing. ( D ) ABR measurements of the three mice models. Relative to the untreated  Slc26a5 DTR/+  control mice (black line, n = 3), the ABR thresholds of  Slc26a5 DTR/+  treated with DT (blue line, n = 5) and in Fgfr3-Atoh1-Ikzf2-DTR mice (red line, n = 6) were significantly higher. The blue and red lines showed no statistically significant difference at any frequency (n.s.). Data was presented as mean ± SEM. Student’s t-test was used for statistical testing. **p<0.01, ****p<0.0001. Scale bars: 5 μm ( A–C ), 1 μm ( C’ ), and 500 nm ( A’ ). Figure 5—source data 1. It contained the numerical values of the ABR thresholds described in  Figure 5D .",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Sun et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "path": "figures/elife_66547_fig5.png",
+    "sha256": "32baf798d13cf811944650a260d5a912fb5e15873d6d395d766051e698ede3b8"
+  }
+}

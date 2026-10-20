@@ -53,7 +53,7 @@ def check(spec,deck,manifest):
  return errors
 if __name__=='__main__':
  if len(sys.argv)!=4:sys.exit(__doc__)
- sp=Path(sys.argv[1]);spec=json.loads(sp.read_text());sched=json.loads((Path(__file__).resolve().parent.parent/'course/schedule.json').read_text());meta=next(x for x in sched['lectures'] if x['n']==spec['lecture'])
+ sp=Path(sys.argv[1]);spec=json.loads(sp.read_text());sched=json.loads((Path(__file__).resolve().parent.parent/'course/schedule.json').read_text());meta=next(x for x in sched['lectures'] + sched.get('special_topics',[]) if x['n']==spec['lecture'])
  errors=check(spec,sys.argv[2],json.loads(Path(sys.argv[3]).read_text()))
  if spec.get('paragraph_line_requirement'):
   report_path=sp.parent/'paragraph_line_check.json'

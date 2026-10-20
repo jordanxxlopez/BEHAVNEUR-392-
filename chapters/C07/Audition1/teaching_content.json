@@ -1,0 +1,787 @@
+[
+  {
+    "title": "Sound begins as a traveling pressure disturbance",
+    "body": [
+      "**Sound** is a changing pressure disturbance that travels through a material such as air or water. A vibrating source pushes and pulls nearby molecules. The disturbance moves outward as neighboring molecules transfer energy, even though individual molecules mainly move back and forth around their original positions.",
+      "At the ear, alternating regions of compression and rarefaction move the **tympanic membrane**, or eardrum. Compression raises pressure above the surrounding level; rarefaction lowers it. The membrane follows these changes, beginning a mechanical sequence that eventually bends the sensory bundles of cochlear hair cells.",
+      "Pressure can be measured with a microphone rather than inferred from a listener’s report. The accompanying acoustic recording visualizes waves around a scaled insect-ear model. Its physical dimensions and stimulus frequencies belong to that apparatus, providing an experimental view of pressure propagation rather than a human cochlear measurement."
+    ]
+  },
+  {
+    "title": "Frequency and amplitude describe different properties",
+    "body": [
+      "**Frequency** is the number of pressure cycles occurring each second, measured in hertz. A 1,000-hertz tone completes 1,000 cycles each second. Frequency strongly influences pitch, although the pitch of a complex sound also depends on how its several frequency components are combined.",
+      "**Amplitude** describes the size of the pressure variation. Larger pressure changes generally produce a louder sensation, but perceived loudness also depends on frequency, duration, and the condition of the ear. Frequency and amplitude can therefore be changed independently when an experimenter constructs a controlled sound stimulus.",
+      "**Decibels** express a ratio on a logarithmic scale. Sound pressure level compares a measured pressure with a specified reference pressure; it does not directly count pressure cycles. Two tones can have the same frequency but different sound pressure levels, or the same level but different frequencies."
+    ]
+  },
+  {
+    "title": "Complex sounds contain several frequency components",
+    "body": [
+      "A **pure tone** contains one sinusoidal frequency component. Speech, animal calls, and musical instruments usually produce complex pressure changes containing several components. Separating a waveform into its frequency components reveals its spectrum, showing how much energy occurs at different frequencies during the measured interval.",
+      "A **harmonic** is a frequency component at an integer multiple of a fundamental frequency. Different combinations of harmonic amplitudes can give two instruments different timbres even when they play the same note. Timbre describes qualities that distinguish sounds beyond a simple difference in pitch or loudness.",
+      "The experimental chirp recording sweeps through frequencies while pressure is measured in a printed insect-ear cavity. The source explicitly identifies this recording as a demonstration rather than the exact experimental frequency range. Frequency-dependent pressure gain shows how an acoustic structure can filter a complex incoming stimulus."
+    ]
+  },
+  {
+    "title": "The outer ear conducts pressure toward the eardrum",
+    "body": [
+      "The **pinna** collects and filters incoming sound before it enters the ear canal. The canal carries the resulting pressure changes toward the tympanic membrane. Its geometry influences which frequencies reach the eardrum most effectively, so the pressure at the membrane differs from the pressure outside the head.",
+      "The tympanic membrane separates the air-filled ear canal from the middle-ear cavity. Its movement depends on the pressure difference across it. Obstruction of the canal or damage to the membrane can therefore reduce mechanical input even when the cochlear sensory cells and auditory nerve remain present.",
+      "The **Eustachian tube** connects the middle-ear cavity with the throat and helps equalize static pressure. Pressure equalization permits the membrane and middle-ear structures to move effectively around their resting positions. This slow adjustment of background pressure differs from the rapid oscillations that constitute an audible sound."
+    ]
+  },
+  {
+    "title": "Middle-ear bones transfer motion into cochlear fluid",
+    "body": [
+      "The **ossicles** are three small middle-ear bones: the malleus, incus, and stapes. The malleus receives movement from the tympanic membrane and transfers it through the incus to the stapes. The stapes footplate moves at the oval window, applying pressure to the fluid-filled inner ear.",
+      "Air and cochlear fluid resist motion differently. The middle ear improves energy transfer through the area difference between the tympanic membrane and stapes footplate, together with the ossicular lever arrangement. This pressure transformation reduces the energy that would otherwise be reflected at an air-to-fluid boundary.",
+      "The pressure transformation does not create energy. Increasing pressure is accompanied by a change in displacement and mechanical loading across the ossicular chain. Fluid motion then produces a pressure difference across the cochlear partition, allowing a small middle-ear movement to initiate a spatially organized wave within the inner ear."
+    ],
+    "recording_context_note": "The **round window** provides a flexible boundary that moves as cochlear fluid is displaced. Fluid cannot simply be compressed enough to accommodate the stapes movement. The accompanying fly recording supplies a real example of biological sound production; its wing movements are the source, whereas the mammalian ear receives pressure changes."
+  },
+  {
+    "title": "An insect ear cavity can selectively amplify ultrasound",
+    "body": [
+      "Mammals are not the only animals whose external ear structures filter sound. In a neotropical katydid, small cavities near the tympanal hearing organs guide ultrasonic pressure. These organs occur in the forelegs rather than on the head, providing a different anatomical solution to detecting airborne vibration.",
+      "The katydid study measured how the cavities change pressure at the receiving membrane. The strongest gain occurred within a restricted ultrasonic frequency range associated with detecting approaching bats. Acoustic gain means that pressure at the receiver exceeds the corresponding pressure measured without the amplifying cavity arrangement.",
+      "The investigators combined measurements from biological ears with physical models that could be manipulated more easily. Changing cavity geometry changes the pressure pattern without requiring a change in the sensory neuron. The experiment therefore tests mechanical filtering before the vibration is converted into a cellular electrical signal."
+    ]
+  },
+  {
+    "title": "Scaled physical models expose acoustic filtering",
+    "body": [
+      "The katydid investigators enlarged the ear geometry with **three-dimensional printing** and placed a probe microphone within the cavity. Enlarging the structure shifts its useful acoustic frequencies, so the sounds used with a scaled model must be interpreted using that model’s dimensions rather than the insect’s natural frequencies.",
+      "The printed structure moves into position around a stationary microphone in the recorded experiment. This arrangement changes the acoustic boundary surrounding the probe while allowing pressure to be measured at a controlled location. The pressure measurement can then be compared with a measurement outside the receiving cavity.",
+      "A resonant cavity stores and releases mechanical energy over each pressure cycle. Near a favorable frequency, incoming pressure and cavity motion reinforce one another, increasing local pressure. The measured gain concerns the structure’s physical response; a separate neuronal recording would be needed to describe how the animal’s sensory cells encode it."
+    ]
+  },
+  {
+    "title": "The cochlear duct grows into a curved sensory structure",
+    "body": [
+      "The cochlea develops from an epithelial duct, a tube formed by tightly associated cells. As the duct elongates and bends, its cells must coordinate movement rather than simply increase in number. This developmental movement establishes the space in which the later auditory sensory epithelium will differentiate.",
+      "Ishii and colleagues imaged developing mouse cochlear ducts using a fluorescent reporter of **ERK activity**. ERK is an enzyme that modifies other proteins and helps coordinate cellular responses to signals. The reporter allowed the investigators to follow changing activity within the same developing tissue over time.",
+      "The imaging revealed waves of ERK activity moving through the duct while cells flowed in the opposite overall direction. The researchers followed positions and activity together, separating movement of a signal from movement of the cells carrying it. These are developmental tissue movements, not sound-driven vibrations of an adult cochlea."
+    ]
+  },
+  {
+    "title": "Coordinated cell motion helps elongate the cochlear duct",
+    "body": [
+      "The developing cochlear duct elongates from its base toward its growing apex. Ishii and colleagues observed coordinated cellular flow accompanying this change in shape. Neighboring cells changed position within a continuous epithelium, preserving the tissue boundary while the duct extended and curved during embryonic development.",
+      "The investigators manipulated signaling and contractile processes while imaging the tissue. These interventions altered the organized ERK activity and cellular movement seen in untreated preparations. **Actomyosin contraction**, force produced by myosin acting on actin filaments, provides one mechanism by which cells can change their shape and move neighboring tissue.",
+      "The live recording follows the changing fluorescent signal and tissue position across many hours. Its displayed time scale is much slower than acoustic vibration, which can complete thousands of cycles each second. The movie reveals how the cochlear structure is constructed before its mature mechanical and sensory functions emerge."
+    ]
+  },
+  {
+    "title": "The cochlea separates incoming pressure into local motion",
+    "body": [
+      "The **cochlea** is a fluid-filled spiral structure containing the auditory sensory epithelium. Its three longitudinal compartments are the scala vestibuli, scala media, and scala tympani. The organ of Corti sits within the cochlear partition, where pressure differences can produce movement of the sensory apparatus.",
+      "The **basilar membrane** supports the organ of Corti along the cochlea. The nearby tectorial membrane and the reticular lamina contribute additional mechanical boundaries. Sound-driven pressure does not push every part of this complex assembly identically; relative motion between structures bends the sensory hair bundles.",
+      "The cell bodies of auditory nerve neurons lie in the **spiral ganglion**. Their peripheral processes receive transmitter from cochlear hair cells. This places the first neural output alongside the receptor tissue, allowing local mechanical differences along the cochlea to become differences in the activity of separate nerve fibers."
+    ]
+  },
+  {
+    "title": "Mechanical properties change from cochlear base to apex",
+    "body": [
+      "The **base** of the cochlea lies near the oval window, while the **apex** lies at the far end of the spiral. The basilar membrane’s width, stiffness, and surrounding mechanical loading vary along this distance. These gradients give different locations different preferred ranges of vibration frequency.",
+      "High-frequency sounds produce their strongest responses toward the base, whereas lower frequencies peak farther toward the apex. This arrangement is called **tonotopy**, an ordered representation of frequency along a structure. A cochlear position therefore conveys information about frequency before any central auditory pathway is considered.",
+      "The base-to-apex gradient means that damage at one cochlear region need not affect every frequency equally. Losing basal receptor function particularly disrupts access to higher-frequency information. Apical damage affects a different part of the frequency map, while a widespread injury can impair responses over a much broader range."
+    ],
+    "recording_context_note": "The developmental three-dimensional recording shows the curved duct that eventually contains this longitudinal sensory map. It does not measure mature frequency tuning. The mature map depends on local mechanical and cellular specializations distributed along the duct, including the properties of the basilar membrane and outer hair cells."
+  },
+  {
+    "title": "A traveling wave reaches a frequency-dependent peak",
+    "body": [
+      "Stapes motion produces a **traveling wave** along the cochlear partition. The wave grows as it approaches the region best suited to that frequency, then decreases beyond its peak. A high-frequency wave peaks relatively near the base, while a low-frequency wave travels farther before reaching its largest displacement.",
+      "The preferred location is not a rigid divider that moves alone. Neighboring regions also respond, with response size and timing changing along the partition. A tuning curve describes how strongly a location responds across stimulus frequencies or which sound level is needed to reach a defined response.",
+      "Living cochleae show sharp tuning and strong responses to quiet sound that cannot be explained by passive membrane stiffness alone. Outer hair cells contribute energy to local motion. Loss of their normal activity broadens tuning and reduces sensitivity, changing both the size and spatial distribution of the traveling-wave response."
+    ]
+  },
+  {
+    "title": "Different cochlear surfaces move with different timing",
+    "body": [
+      "The **reticular lamina** is the upper surface of the sensory epithelium around the hair-cell tops. It is mechanically distinct from the basilar membrane beneath the organ of Corti. Comparing their movement tests whether the internal sensory structures simply follow the supporting membrane or undergo additional relative motion.",
+      "He and colleagues measured vibration in living gerbil cochleae. Their recordings compared basilar-membrane and reticular-lamina movement during controlled sound stimulation. The two surfaces differed in their response timing, showing that the internal organ of Corti has mechanical behavior that cannot be represented by a single moving sheet.",
+      "The reticular lamina and basilar membrane also respond differently when the living cochlea loses its active processes. Comparing living and postmortem measurements helps separate mechanically coupled passive motion from motion requiring functioning cells. The loss of sensitivity changes the internal vibration pattern rather than simply scaling every structure’s displacement equally."
+    ],
+    "recording_context_note": "These measurements require locating a small structure and tracking extremely small displacements while sound frequency is controlled. The accompanying embryonic duct recording provides anatomical context only; its drug-treated tissue movements are not the adult vibration measurements. The article figure supplies the evidence about sound-driven displacement and phase."
+  },
+  {
+    "title": "Reticular-lamina motion includes an active contribution",
+    "body": [
+      "Outer hair cells span the space between supporting structures and the reticular lamina. Their voltage-dependent length changes can therefore alter motion near the hair bundles. The resulting displacement depends on the cell’s attachment points and the mechanical load imposed by the rest of the organ of Corti.",
+      "In the living-gerbil measurements, reticular-lamina responses differed from basilar-membrane responses in amplitude and timing. Comparisons across sound conditions helped distinguish motion near the sensory-cell tops from motion of their supporting surface. These differences affect the relative movement that can drive hair-bundle deflection.",
+      "Mechanical amplification must act at a useful time within each vibration cycle. Adding force while a structure moves in the appropriate direction can reinforce its motion. Applying the same force at a different phase can have a different mechanical effect, making timing essential to understanding active cochlear behavior."
+    ]
+  },
+  {
+    "title": "Phase describes timing within a vibration cycle",
+    "body": [
+      "**Phase** identifies a position within a repeating cycle, such as the moment of maximum upward displacement. Two structures can oscillate at the same frequency while reaching their peaks at different times. Their phase difference describes this relative timing rather than a difference in how many cycles occur each second.",
+      "He and colleagues compared the phase of reticular-lamina and basilar-membrane vibration. Their results showed systematic timing differences between these cochlear structures. Measuring both surfaces helps reveal how internal motion is transformed before the relative displacement reaches the sensory hair bundles at the top of the epithelium.",
+      "A delay between two measured structures changes the relative shear available to the sensory bundle. Even when their displacement amplitudes are similar, different timing can produce relative movement. Following amplitude and phase together therefore gives a more complete account of the mechanical stimulus than measuring the maximum displacement alone."
+    ],
+    "recording_context_note": "A phase measurement must be interpreted with its stimulus frequency because a given fraction of a cycle corresponds to a shorter time at a higher frequency. The anatomical recording shows the cochlear duct’s three-dimensional organization. The plotted source measurements, rather than the developmental movie, establish the timing differences during sound stimulation."
+  },
+  {
+    "title": "Outer hair cells supply energy for sensitive hearing",
+    "body": [
+      "**Outer hair cells** contribute mechanical energy to cochlear vibration. Their membrane voltage changes as their hair bundles move, and a membrane motor converts that electrical change into a rapid change in cell length. The resulting force acts on nearby cochlear structures and can strengthen a quiet sound’s mechanical response.",
+      "This active contribution is strongest where cochlear mechanics favor reinforcement of the traveling wave. It improves sensitivity and sharpens frequency selectivity. The response also grows less than proportionally as sound level increases, helping the cochlea represent a broad range of external pressures without amplifying every input equally.",
+      "An **otoacoustic emission** is sound generated by active cochlear processes that can be measured in the ear canal. Detecting such emissions provides information about outer-hair-cell function. Their presence does not establish that inner-hair-cell synapses and auditory nerve fibers transmit normally, because those structures perform different steps in hearing."
+    ]
+  },
+  {
+    "title": "Outer hair cells must generate force at acoustic speeds",
+    "body": [
+      "An outer hair cell’s electrical response is useful for amplification only if it produces mechanical force rapidly enough. Acoustic cycles can be extremely brief, especially at high frequencies. Measurements of isolated cells and measurements within the loaded cochlea therefore address related questions under different mechanical and electrical conditions.",
+      "Vavakou and colleagues measured outer-hair-cell-related motion in the living cochlea to examine the frequency range of **electromotility**, movement driven by membrane voltage. Their approach tested the motor within its native mechanical environment rather than assuming that an isolated cell’s displacement predicts every aspect of in vivo performance.",
+      "The experiment used combinations of acoustic frequencies to examine nonlinear components of cochlear motion. A nonlinear system produces output components that are absent from a simple sum of the inputs. Tracking these components across frequency helped separate properties of the outer-hair-cell-related response from the imposed acoustic stimulus."
+    ],
+    "recording_context_note": "The accompanying electron-tomography recording shows a real stereociliary specimen and its labeled tip-link protein. It provides structural context for the mechanical input to the cell, not a movie of electromotility. The source figure reports the motion measurements used to evaluate how rapidly the outer-hair-cell motor can respond."
+  },
+  {
+    "title": "Electrical filtering constrains a cell’s motor response",
+    "body": [
+      "A cell membrane behaves partly like an electrical capacitor, storing separated charge across its lipid boundary. Changing its voltage takes time because current must charge or discharge that boundary. This **membrane filtering** can reduce the size of rapid voltage changes available to activate an outer hair cell’s motor.",
+      "The in vivo motility study examined how the measured response changed across frequency. The response did not justify treating the motor pathway as an unlimited, frequency-independent amplifier. Its frequency dependence must be interpreted alongside the forces, electrical inputs, and mechanical loading present in the intact cochlear preparation.",
+      "Frequency limits measured at one cochlear location cannot automatically be assigned to every location or species. Cells differ along the cochlea, and their surrounding mechanical load differs as well. The local motor response must therefore be compared with the frequency range and recording location actually tested in the experiment."
+    ]
+  },
+  {
+    "title": "Prestin converts voltage changes into membrane motion",
+    "body": [
+      "**Prestin** is a densely expressed membrane protein in outer hair cells. Changes in membrane voltage shift its molecular configuration, producing tiny changes in membrane area that sum across the cell surface. These coordinated changes alter cell length and allow an electrical receptor response to generate mechanical force.",
+      "Lin and colleagues examined how chloride binding changes the stability of particular regions within prestin. They used hydrogen–deuterium exchange, a method that probes how exposed parts of a protein exchange hydrogen with the surrounding solution. The measurements reveal local folding behavior rather than directly filming the protein during a voltage cycle.",
+      "Prestin’s motor role is distinct from the mechanically sensitive channel at the bundle. The channel changes electrical current in response to force; prestin changes cell shape in response to voltage. Coupling these steps permits a mechanically driven receptor potential to feed energy back into the vibrating organ of Corti."
+    ],
+    "recording_context_note": "The accompanying tomogram shows the separate hair-bundle apparatus that supplies the cell’s mechanical input. Prestin operates in the cell’s lateral membrane rather than serving as the tip-link channel. Keeping these locations distinct separates the structure that detects bundle movement from the motor that changes outer hair cell length."
+  },
+  {
+    "title": "Bound anions influence prestin’s molecular configuration",
+    "body": [
+      "**Anions** are negatively charged ions, including chloride. Prestin contains an anion-binding region that influences its molecular behavior. Binding an ion changes the local interactions within the protein, helping stabilize particular configurations rather than directly pushing the entire hair cell as a free ion moves through the fluid.",
+      "Lin and colleagues found that chloride binding stabilized folding near two membrane-spanning regions that form the anion-binding site. The same behavior was absent in a related transporter without electromotility. Changes in local folding can alter the spacing between these regions and contribute to changes in the protein’s cross-sectional area.",
+      "At the cellular level, the relevant output is a rapid length change under mechanical load. At the molecular level, the study asks which protein regions and bound ions favor different configurations. Explaining amplification requires both scales: molecular transitions within prestin and the forces produced by many copies across the outer hair cell membrane."
+    ]
+  },
+  {
+    "title": "Inner and outer hair cells perform different jobs",
+    "body": [
+      "**Inner hair cells** provide most of the cochlea’s sensory input to auditory nerve fibers. Their receptor potentials control glutamate release at specialized synapses. Most sensory nerve fibers contact inner hair cells, giving this cell population a major role in converting local cochlear vibration into a neural message.",
+      "Outer hair cells are arranged in several rows and primarily improve the mechanical input through active amplification. Their voltage-dependent motor activity increases sensitivity and frequency selectivity. Losing outer hair cells can therefore reduce the effective movement delivered to surviving inner hair cells, even when those inner hair cells remain anatomically present.",
+      "A single inner hair cell supplies several separate afferent contacts, allowing different fibers to sample its output through synapses with different properties. Outer hair cells have a much smaller afferent representation. Their large influence on hearing instead arises mainly from how they modify the mechanics experienced by nearby sensory receptors."
+    ],
+    "recording_context_note": "Both cell types possess bundles of stereocilia, but their roles cannot be exchanged simply because they share a general appearance. A regenerated cell must acquire the properties required at its location. The structural recording shows a labeled stereociliary protein, providing a close view of the mechanical apparatus shared by these sensory receptors."
+  },
+  {
+    "title": "The organ of Corti couples cells to moving structures",
+    "body": [
+      "The **organ of Corti** contains hair cells and supporting cells arranged along the basilar membrane. Supporting cells stabilize the epithelium and help establish the mechanical relationships between its components. Sound-driven motion reaches the hair bundles through this organized tissue rather than bending an isolated receptor in empty fluid.",
+      "Outer-hair-cell bundles interact with the tectorial membrane, while inner-hair-cell stimulation involves local fluid movement and relative displacement within the sensory compartment. These different mechanical arrangements contribute to the distinct inputs received by the two cell populations during the same external sound stimulus.",
+      "The **reticular lamina** forms a tightly organized upper boundary around the hair-cell tops. This boundary also helps separate the unusual fluid surrounding the bundles from fluid around the cell bodies. Mechanical coupling and ionic separation therefore depend on maintaining the architecture of the sensory epithelium and its supporting-cell junctions."
+    ]
+  },
+  {
+    "title": "Stereocilia bend as a coordinated mechanical bundle",
+    "body": [
+      "**Stereocilia** are actin-filled projections arranged in rows of increasing height. They are not ordinary motile cilia. Deflecting the bundle toward its tallest row increases the tension delivered to mechanically sensitive channels, while deflection in the opposite direction reduces that tension and decreases channel opening.",
+      "Links between neighboring stereocilia help coordinate the bundle’s movement. A **tip link** extends from the tip of a shorter stereocilium toward the side of a taller neighbor. Its orientation gives the bundle a preferred direction, allowing opposite movements to increase or decrease the receptor’s electrical response.",
+      "The electron-tomography recording follows a specimen containing a putative intact link between adjacent stereocilia. Tomography combines measurements from several viewing angles to reconstruct a small volume. The reconstruction preserves molecular and membrane relationships that can be difficult to establish from a single flat electron-microscope image."
+    ]
+  },
+  {
+    "title": "Bundle stiffness varies across cells and positions",
+    "body": [
+      "**Stiffness** describes how much force is needed to produce a given displacement. A stiff bundle moves less than a compliant bundle under the same applied force. Hair-bundle mechanics depend on the stereociliary pivots, the links between stereocilia, and the tension carried by the channel-associated structures.",
+      "Tobin and colleagues examined mechanical gradients in mammalian cochlear hair bundles. They measured how stiffness and tension varied across cell types and cochlear positions. Such differences change the mechanical input reaching the transduction apparatus even before a difference in channel number or membrane voltage is considered.",
+      "The experiment separates the force applied to a bundle from the displacement that follows. Comparing those quantities gives a mechanical property of the preparation. A bundle’s resting tension and its response to additional force can therefore be examined alongside the electrical current produced when its transduction channels open."
+    ]
+  },
+  {
+    "title": "Tip links carry tension even before sound arrives",
+    "body": [
+      "A resting hair bundle is not mechanically slack. Its tip links carry baseline tension that allows some transduction channels to remain open before a sound begins. Movement toward the tallest stereocilia raises opening probability, while movement in the opposite direction lowers it from that resting level.",
+      "Tobin and colleagues measured tension-related properties in inner and outer hair cells from the apical half of the rat cochlea. The gradients were steeper in outer hair cells. Their measurements therefore identified different mechanical specializations in the cells that provide neural input and the cells that amplify cochlear vibration.",
+      "Releasing tip-link tension changes the bundle’s resting position and its stiffness. Measuring that displacement after disrupting the links allows investigators to estimate the mechanical contribution carried by the link-associated apparatus. The observed gradients therefore concern force transmission within the bundle, rather than simply a difference in the overall size of each cell."
+    ],
+    "recording_context_note": "Reducing the calcium concentration surrounding the bundle increased measured tip-link tension. Calcium conditions can therefore change the mechanical state of the transduction apparatus as well as influence ion entry. The accompanying tomogram shows a labeled stereociliary protein in its membrane setting, while the article figure reports the force measurements."
+  },
+  {
+    "title": "Bundle movement opens mechanosensitive channels",
+    "body": [
+      "**Mechanotransduction** converts mechanical movement into an electrical response. Deflecting the hair bundle increases tension on the channel-associated apparatus, changing the probability that its channels are open. Positive ions then enter through those channels, shifting the hair cell’s membrane voltage toward a more positive value.",
+      "The response is a **receptor potential**, a graded change whose size depends on the input and the cell’s electrical properties. A mature cochlear hair cell does not normally encode sound by generating a train of action potentials. It changes transmitter release or mechanical output as its voltage changes.",
+      "When the bundle moves away from its preferred direction, fewer transduction channels remain open and the receptor potential decreases. This permits a hair cell to represent movement in both directions around its resting condition. The auditory nerve converts the resulting changes in synaptic input into changes in spike timing and rate."
+    ]
+  },
+  {
+    "title": "The fluid around hair bundles favors potassium entry",
+    "body": [
+      "The hair bundles project into **endolymph**, a fluid rich in potassium. The hair-cell body is exposed to a different ionic environment with much less potassium. Opening a transduction channel at the bundle therefore encounters an electrical and chemical driving force unlike that surrounding most ordinary neuronal membranes.",
+      "The **endocochlear potential** makes the scala media electrically positive relative to nearby cochlear compartments. Together with the hair cell’s negative interior, this voltage difference favors positive-ion entry through an open bundle channel. Potassium carries much of the transduction current, with calcium also entering and influencing local cellular processes.",
+      "This arrangement places the main entry and exit routes on different parts of a highly polarized cell. Current enters near the bundle and changes the voltage sensed by channels near the synaptic base. The receptor can thereby transform a small apical movement into altered transmitter output at a separate membrane region."
+    ],
+    "recording_context_note": "After entering near the bundle, potassium can leave through channels elsewhere in the cell membrane. Cochlear supporting tissues help maintain the separated fluid environments and recycle ions. The tomographic recording shows the physical membrane surrounding a stereociliary tip; it does not directly visualize potassium movement through the transduction channels."
+  },
+  {
+    "title": "TMC proteins contribute the transduction channel pore",
+    "body": [
+      "**TMC1 and TMC2** are membrane proteins associated with hair-cell mechanotransduction. They contribute to the channel pore, the path through which positive ions cross the membrane. Their function depends on assembly with other proteins that couple the membrane channel to the bundle’s mechanical and intracellular environment.",
+      "Giese and colleagues examined TMC proteins together with **CIB2 and CIB3**, small proteins that bind intracellular parts of the channel complex. Their experiments used vertebrate sensory systems, including mouse inner-ear tissues and zebrafish sensory organs, to test whether these interacting proteins were required for normal mechanically evoked currents.",
+      "Disrupting components of the complex impaired mechanotransduction. The study combined functional measurements with protein-interaction experiments and structural predictions. The measured currents establish a requirement for the proteins; the computational models propose how their interactions could stabilize the channel, rather than providing a direct movie of a channel opening in a hair cell."
+    ]
+  },
+  {
+    "title": "Channel partners help stabilize the transduction machinery",
+    "body": [
+      "A membrane pore must remain organized while the bundle repeatedly pulls on its associated structures. **CIB proteins** bind internal regions of TMC proteins and contribute to the functioning channel complex. Their role differs from the extracellular tip link, which carries force between neighboring stereocilia outside the cell.",
+      "The TMC–CIB study identified interactions involving more than one internal region of the TMC proteins. Protein-binding measurements tested these contacts, while genetic and electrical experiments examined consequences for sensory function. Changing a binding partner can therefore disrupt current even when the channel’s main pore-forming protein is still considered separately.",
+      "The study used nuclear magnetic resonance measurements to test interactions predicted for the protein complex. This method probes molecular environments and contacts within selected protein fragments. Combining measured binding with loss-of-function experiments strengthens the proposed assembly mechanism, while the exact full-channel architecture remains a structural model rather than directly observed motion."
+    ],
+    "recording_context_note": "The accompanying stereociliary tomogram shows the location of labeled extracellular PCDH15 molecules near the tip. It supplies structural context for the force-transmitting side of the apparatus. CIB interactions occur on the intracellular side, so the visible labeled molecules should not be mistaken for a direct image of the entire channel complex."
+  },
+  {
+    "title": "Transduction proteins must reach the stereocilia",
+    "body": [
+      "A hair cell can produce a channel protein without successfully delivering it to the membrane where it is needed. **Protein trafficking** is the movement and sorting of proteins within a cell. Cochlear transduction requires selected components to travel into the stereocilia rather than remain elsewhere in the cell body.",
+      "Cunningham and colleagues studied **mTOMT**, the mouse counterpart of a protein affected in inherited human deafness. Removing its normal function disrupted mechanically evoked responses in cochlear hair cells. The investigators found that some transduction components failed to reach their normal stereociliary locations when mTOMT was defective.",
+      "This result separates channel assembly and delivery from the mechanical opening of a correctly assembled channel. A bundle may look recognizable while lacking the proteins needed at its tips. An electrical recording during controlled bundle deflection tests whether the delivered machinery actually produces the expected current across the sensory membrane."
+    ]
+  },
+  {
+    "title": "mTOMT has a trafficking role beyond its enzyme ancestry",
+    "body": [
+      "The mTOMT protein resembles a family of enzymes that transfer chemical methyl groups to other molecules. A shared ancestry does not establish that the same enzymatic reaction explains hearing. Cunningham and colleagues tested whether its transduction function depended on that predicted methyltransferase activity in cochlear hair cells.",
+      "The hearing-related function could be separated from the proposed enzymatic activity, and a related methyltransferase could not substitute for mTOMT. The results instead implicated interactions with transduction components and their delivery into stereocilia. Losing the correct protein disrupted the assembly route needed for the mechanically sensitive membrane machinery.",
+      "Defective delivery reduces the machinery available to receive force at the bundle, so increasing sound pressure cannot supply the missing molecular component. A rescue experiment must restore the correct protein function or the delivery route. The biochemical resemblance between mTOMT and a related enzyme was insufficient to predict which replacement would work."
+    ],
+    "recording_context_note": "The stereociliary recording displays several labeled PCDH15 molecules near a sensory projection’s tip. Their extracellular position illustrates how specialized the destination is for transduction-associated proteins. The mTOMT experiment concerns getting selected components into the correct compartment, rather than showing that every tip-associated protein uses the same delivery mechanism."
+  },
+  {
+    "title": "Transduction current helps maintain stereociliary structure",
+    "body": [
+      "The hair bundle’s architecture requires continuing maintenance after its initial construction. Actin filaments within each stereocilium form a structural core whose length and organization must remain appropriate. Electrical activity through transduction channels can influence this maintenance, adding a role beyond the immediate detection of a sound stimulus.",
+      "Vélez-Ortega and colleagues reduced transduction current in young mouse and rat auditory hair cells using channel blockers or tip-link disruption. The stereocilia that normally carried transduction channels changed shape and shortened. Neighboring projections without the same transduction role did not show an identical structural response.",
+      "The experiment therefore followed a structural consequence of changing sensory current, rather than simply counting whether cells remained alive. Manipulating calcium entry and intracellular calcium buffering reproduced aspects of the effect. Calcium entering through active transduction channels can influence the processes that preserve the shape of the channel-bearing stereocilia."
+    ]
+  },
+  {
+    "title": "Restoring current can reverse early bundle changes",
+    "body": [
+      "If a structural change follows temporary channel inhibition, removing the inhibitor tests whether the change can reverse. Vélez-Ortega and colleagues observed recovery after blocker washout. They also examined recovery associated with tip-link regeneration, when restored mechanical coupling allowed the transduction apparatus to become functional again.",
+      "These experiments distinguish a changing stereociliary shape from the irreversible loss of a hair cell. A surviving sensory cell can alter its bundle when normal ion entry is interrupted. Re-establishing the relevant current can allow the affected projections to recover under the experimental conditions used with young cochlear tissue.",
+      "Only the stereocilia associated with transduction channels showed the characteristic shortening after current reduction. This selectivity argues against a uniform shrinkage of the whole bundle. The maintained electrical and calcium environment acts locally on projections with a particular sensory role, preserving the unequal heights required for directional mechanical detection."
+    ],
+    "recording_context_note": "The tomographic recording shows several labeled molecules scattered around a stereociliary tip, illustrating the small membrane region in which channel-associated structures must operate. It does not track the washout experiment. The source figure documents the time-dependent bundle changes and their recovery after the specific manipulation was reversed."
+  },
+  {
+    "title": "Myosin 15 helps preserve the shorter transducing rows",
+    "body": [
+      "**Myosin 15** is a molecular motor associated with the actin-based stereocilia. Different versions of the protein contain different regions and occupy different bundle locations. These versions can contribute separately to building the bundle and maintaining the specialized projections that carry the mechanotransduction machinery.",
+      "Fang and colleagues removed the large myosin-15 version while leaving a smaller version present in mice. Hair bundles initially developed a recognizable normal arrangement. Later, a subset of stereocilia with active transduction channels retracted, showing that successful initial assembly did not guarantee continuing structural stability.",
+      "The large version normally reached these channel-bearing stereocilia and helped prevent disassembly of their actin cores. The gene manipulation therefore separated an early growth requirement from a later maintenance requirement. Hearing depends on preserving the bundle’s staircase over time, not simply producing that structure once during development."
+    ]
+  },
+  {
+    "title": "A repair protein responds to damaged actin structures",
+    "body": [
+      "**XIRP2** is a protein associated with maintaining the actin framework inside stereocilia. Damage can create local gaps within that framework without immediately killing the entire hair cell. Repairing a local actin defect is therefore a different process from generating a replacement sensory cell after it dies.",
+      "Wagner and colleagues found that XIRP2 contributes to repair of noise-damaged stereociliary actin cores in mice. They also tested parts of XIRP2 in cultured fibroblasts, cells with visible actin stress fibers. Local laser damage allowed them to ask whether a specific protein region recognized a strained or disrupted actin structure.",
+      "The protein’s **C-terminal domain**, a region at one end of the molecule, accumulated at a laser-induced stress-fiber injury during live imaging. The preparation is a cultured fibroblast rather than a cochlear hair cell. This experiment tests a candidate damage-recognition mechanism alongside the separate measurements of repair in auditory stereocilia."
+    ]
+  },
+  {
+    "title": "Ionic separation sustains a hair cell’s electrical response",
+    "body": [
+      "The cochlea must maintain distinct fluid environments while allowing its sensory structures to move. Tight boundaries around the hair-cell tops help separate potassium-rich endolymph from the fluid surrounding the cell bodies. If those environments mix, the electrical driving forces needed for normal receptor responses can deteriorate.",
+      "The **stria vascularis**, a specialized tissue along the cochlear wall, helps establish the endolymphatic environment and endocochlear potential. Ion transport uses metabolic energy to maintain these conditions. A healthy hair bundle alone is therefore insufficient if the surrounding tissue cannot preserve the electrical environment that drives current through it.",
+      "Potassium entry at the bundle depolarizes the cell, while potassium exit elsewhere helps return its voltage toward rest. The balance between entry, exit, and membrane charge storage shapes the receptor potential. Disturbing any of these processes can change sensitivity before a microscopic count reveals a missing hair cell."
+    ]
+  },
+  {
+    "title": "Mature hair cells signal with graded membrane voltage",
+    "body": [
+      "A **graded receptor potential** becomes larger or smaller as the net current across the membrane changes. In mature inner hair cells, this voltage controls the opening of calcium channels near transmitter-release sites. The cell can therefore vary synaptic output without producing one action potential for every sound cycle.",
+      "At lower frequencies, part of the receptor potential can follow the repeated pressure cycles. At higher frequencies, membrane filtering reduces this rapid component, leaving a more sustained voltage response. The resulting signal contains information about sound intensity even when the hair-cell voltage no longer follows every individual cycle closely.",
+      "Membrane filtering depends on the balance between membrane charge storage and the ion channels carrying current across it. A cell with faster electrical responses can preserve more of a low-frequency waveform’s alternating component. A slower response smooths rapid changes, altering the information presented to the voltage-dependent release machinery at the synaptic base."
+    ],
+    "recording_context_note": "The accompanying microscopy recording shows mitochondria near a zebrafish hair-cell synapse, providing a comparative view of the cellular machinery supporting sustained output. A fluorescent structure is not itself an electrical recording. Measuring membrane voltage and release separately establishes how a receptor potential changes the signal delivered to its sensory nerve."
+  },
+  {
+    "title": "Inner hair cells differ along the cochlear frequency map",
+    "body": [
+      "Johnson recorded electrical properties of gerbil inner hair cells from cochlear regions specialized for different frequencies. The experiments used conditions chosen to approximate the living environment. This approach tested whether the receptor cells themselves have electrical specializations in addition to the mechanical tuning supplied by their cochlear location.",
+      "Low-frequency inner hair cells had more depolarized resting voltages, faster response kinetics, and shorter membrane time constants than high-frequency cells. A **time constant** describes how quickly membrane voltage approaches a new level. Faster voltage responses help a cell follow the changing phase of a relatively low-frequency stimulus.",
+      "High-frequency cells were better suited to maintaining a sustained graded response than following each rapid pressure cycle. These differences do not replace the cochlear place map. They alter how cells at different places transform their mechanically driven current into the voltage signal that controls transmitter release onto auditory nerve fibers."
+    ]
+  },
+  {
+    "title": "Ribbon synapses organize rapid transmitter release",
+    "body": [
+      "An inner hair cell releases **glutamate**, an excitatory neurotransmitter, onto auditory nerve endings. The **synaptic ribbon** is a specialized structure near the release site that organizes vesicles containing transmitter. This arrangement helps support rapid and repeated signaling while an ongoing sound continues to stimulate the receptor.",
+      "A **vesicle** is a small membrane-bound package. At the active zone, selected vesicles approach and fuse with the hair-cell membrane, releasing glutamate into the synaptic cleft. Glutamate then activates receptors on the auditory nerve ending, producing an electrical response that can lead to nerve impulses.",
+      "The electron-tomography recording reconstructs an actual mouse inner-hair-cell ribbon synapse from a study of otoferlin, a protein involved in release. It shows the spatial arrangement of the ribbon, vesicles, and nearby membrane. The reconstructed structure supplies anatomical detail rather than a direct real-time recording of individual vesicles fusing."
+    ]
+  },
+  {
+    "title": "Calcium entry controls release at the active zone",
+    "body": [
+      "**Voltage-gated calcium channels** open when the inner hair cell depolarizes. Calcium enters near the active zone and binds proteins that help trigger vesicle fusion. Keeping channels close to release-ready vesicles allows a small local calcium signal to influence transmitter release with little delay.",
+      "The major inner-hair-cell calcium channel is **CaV1.3**. Its opening depends on membrane voltage, while its continued availability depends on processes that can inactivate the channel. A cell responding to a continuous sound must sustain enough calcium entry to maintain transmission rather than exhausting its release signal immediately.",
+      "After fusion, the synapse must supply additional vesicles and recover the membrane added during release. The ribbon, release machinery, calcium-channel arrangement, and vesicle-replenishment processes contribute different parts of that task. A sustained neural response therefore requires both an electrical trigger and a continuing supply of releasable transmitter packages."
+    ]
+  },
+  {
+    "title": "Calcium-binding proteins keep release channels available",
+    "body": [
+      "**Calcium-binding proteins** can alter how calcium channels respond during repeated stimulation. CaBP1 and CaBP2 help prevent excessive inactivation of CaV1.3 channels in inner hair cells. Inactivation means that a channel becomes temporarily unavailable to carry current even when the membrane voltage would otherwise favor its opening.",
+      "Oestreicher and colleagues studied mice lacking both CaBP1 and CaBP2. Their inner hair cells showed stronger calcium-channel inactivation and slower recovery from it. Sustained vesicle release was impaired, leaving the receptor less able to maintain the synaptic output needed during continuing or frequently repeated sound stimulation.",
+      "The loss of both proteins reduced spontaneous and sound-evoked signaling by spiral ganglion neurons. Because the defect occurred in calcium-channel regulation, mechanical stimulation could reach the receptor yet fail to produce adequate sustained neural output. The result locates one form of hearing dysfunction between the hair-cell voltage response and the auditory nerve’s spikes."
+    ],
+    "recording_context_note": "The accompanying ribbon-synapse reconstruction comes from a different mouse experiment manipulating otoferlin. It provides a structural view of vesicles near an auditory release site. The CaBP study’s electrical and release measurements establish how changing channel regulation limits the supply of calcium that triggers fusion at such sites."
+  },
+  {
+    "title": "A modest stimulus can reduce later synaptic output",
+    "body": [
+      "If calcium channels recover slowly from inactivation, one period of activity can reduce the response available for the next period. The hair cell may survive and still depolarize while its synapse has too few available channels to sustain normal release. This produces a transmission deficit downstream of mechanical detection.",
+      "In the CaBP1/CaBP2 double-knockout mice, even mild activation reduced the availability of channels for later transmission. Auditory nerve responses were strongly reduced and depended on stimulation rate. Faster repetition placed greater demands on a channel population that could not recover normally between successive periods of activity.",
+      "Reintroducing CaBP2 through transgenic expression substantially improved synaptic function and hearing sensitivity in the experimental mice. The intervention acted on regulation of surviving cells rather than generating new hair cells. Restoring a missing molecular function can therefore improve output when the receptor and its basic synaptic structures remain available."
+    ]
+  },
+  {
+    "title": "Rapid freezing captures an activated ribbon synapse",
+    "body": [
+      "Electron microscopy can reveal vesicles near a release site, but an ordinary fixed specimen does not identify exactly when the synapse was active. Chakrabarti and colleagues combined **optogenetics**, light-driven activation of selected cells, with rapid freezing to examine mouse inner-hair-cell synapses shortly after controlled stimulation.",
+      "They first verified that illumination depolarized the hair cells and produced transmitter responses in postsynaptic nerve endings. Freezing within milliseconds then preserved structures associated with a defined stimulation interval. This approach gave the investigators a closer temporal match between synaptic activation and the vesicle arrangement visible in electron tomography.",
+      "The investigators used both presynaptic and postsynaptic electrical measurements to establish that the light stimulus produced effective transmission before analyzing the frozen tissue. A light-sensitive protein alone would not establish release. Recording the receiving bouton confirmed that activation of the receptor actually generated a transmitter-dependent response across the synaptic cleft."
+    ],
+    "recording_context_note": "The accompanying live zebrafish recording shows transport of a ribbon precursor in a developing lateral-line hair cell. It is a comparative view of synaptic construction, not the mouse freezing experiment. The mouse study’s tomograms provide the evidence about vesicles positioned near the active zone after precisely timed activation."
+  },
+  {
+    "title": "Stimulation rapidly changes the pool of docked vesicles",
+    "body": [
+      "A **docked vesicle** lies in close contact with the release-site membrane, positioning it for a later fusion step. Docking and fusion are distinct events. A structural measurement of docked vesicles therefore asks about readiness and replenishment, rather than directly counting the glutamate molecules released into the synaptic cleft.",
+      "Chakrabarti and colleagues observed more docked vesicles after brief and longer light-stimulation intervals. The rapid increase indicated recruitment toward the release-ready membrane during activity. Their measurements did not reveal enlarged vesicles or the expected structural signatures of vesicles fusing with one another before release.",
+      "The findings favored release of individual vesicular units under the tested conditions. This does not mean that a synapse releases only one vesicle over an entire sound. Many individual fusion events can occur in rapid succession as the active zone continues to recruit and replenish vesicles during ongoing stimulation."
+    ]
+  },
+  {
+    "title": "Removing the ribbon reduces high-rate auditory signaling",
+    "body": [
+      "**RIBEYE** is a major structural component of the synaptic ribbon. Jean and colleagues examined mice lacking it to test what the ribbon contributes to auditory transmission. The manipulation removed the ribbon while allowing the investigators to examine remaining synaptic structures and record the auditory nerve’s response to sound.",
+      "Without ribbons, a synaptic contact contained several smaller active zones rather than the usual organization. Auditory nerve fibers showed reduced spontaneous and sound-evoked firing. The surviving release machinery could still transmit, but it did not sustain the normal rate and reliability of signaling observed at ribbon-containing synapses.",
+      "The manipulation also altered calcium-channel organization, producing more spatially spread presynaptic calcium signals. Several small active zones did not recreate the normal concentration of release machinery around a ribbon. The reduced neural output therefore accompanied an altered arrangement of the calcium trigger and vesicle supply at the same contact."
+    ],
+    "recording_context_note": "The accompanying zebrafish recording follows a developing ribbon precursor moving inside a lateral-line hair cell. It shows real synaptic material being transported during construction. The mouse knockout experiment separately tests the functional consequences when the mature ribbon structure is absent from a cochlear inner-hair-cell synapse."
+  },
+  {
+    "title": "Ribbon loss also disrupts timing and replenishment",
+    "body": [
+      "An auditory nerve fiber must signal when a sound begins and how its envelope changes. The ribbon-deficient mice showed poorer temporal precision in sound encoding. Their nerve responses also recovered more slowly after adaptation, the decline in response that develops during continued stimulation of a synapse.",
+      "Slower recovery was consistent with impaired replenishment of synaptic vesicles. Calcium-channel activation also shifted toward more positive voltages, reducing release during weak depolarization. The deficit therefore involved both the calcium trigger and the maintenance of transmitter output, rather than simply a missing decorative structure at the synapse.",
+      "The remaining small active zones provided partial transmission in the absence of a ribbon. This partial compensation explains why the manipulation reduced auditory signaling rather than eliminating every response. Measuring firing rate, response timing, and recovery after stimulation reveals different ways that a ribbonless synapse fails to match normal performance."
+    ]
+  },
+  {
+    "title": "One inner hair cell supplies different synaptic outputs",
+    "body": [
+      "An inner hair cell contacts several auditory nerve fibers through separate synapses. These active zones do not all operate identically, even though they share the receptor’s overall membrane voltage. Differences in calcium channels, release machinery, and the receiving nerve ending can give individual contacts different thresholds and response patterns.",
+      "Jaime Tobón and Moser paired recordings from mouse inner hair cells with recordings from their postsynaptic nerve boutons. A **bouton** is a nerve ending at a synaptic contact. Recording both partners allowed them to compare a controlled presynaptic voltage with the transmitter-dependent current appearing in the receiving ending.",
+      "The higher-spontaneous-release synapses also produced stronger initial responses to controlled depolarization. These differences can allow separate fibers attached to one receptor to contribute different ranges of output. The relevant diversity occurs at individual contacts, so averaging release across the whole hair cell would conceal part of the peripheral code."
+    ],
+    "recording_context_note": "Synapses with higher spontaneous release were found mainly on the pillar side of the cell and activated at lower voltages. They also showed shorter response delays and tighter calcium-to-release coupling. The comparative zebrafish recording shows ribbon-precursor fusion during development, rather than demonstrating the mouse synapses’ different voltage thresholds."
+  },
+  {
+    "title": "Neuronal properties also vary with synaptic position",
+    "body": [
+      "An auditory nerve fiber’s response depends partly on the nerve cell’s own membrane properties. Markowitz and Kalluri combined electrical recording with labeling of fibers in neonatal rat cochlear preparations. The labeling identified where each recorded neuron contacted an inner hair cell, allowing physiology to be compared with contact position.",
+      "Neurons requiring more injected current to fire contacted regions associated with higher sound thresholds in mature in vivo maps. An injected-current threshold is a measure of neuronal excitability, not a direct sound-threshold measurement. The spatial alignment nevertheless showed that different membrane properties were organized with the peripheral synaptic map.",
+      "These gradients were present across the early ages examined, even while other properties continued to mature. The results identify an additional source of response diversity beyond differences in transmitter release. Neurons receiving different synaptic inputs can also transform those inputs differently because their own ion channels set different electrical thresholds."
+    ]
+  },
+  {
+    "title": "Auditory nerve fibers convert synaptic input into spikes",
+    "body": [
+      "The **auditory nerve** carries the cochlea’s neural output through the axons of spiral ganglion neurons. Most fibers receive their peripheral input from an inner hair cell. Glutamate released by that cell activates receptors on the nerve ending, creating an electrical response that can trigger an action potential.",
+      "An **action potential** is a brief regenerative electrical impulse that propagates along an axon. Its size is relatively fixed, so information is represented through which fibers fire, how often they fire, and when they fire. This differs from the continuously graded receptor voltage within the mature hair cell.",
+      "A spike generated near the peripheral ending propagates along the neuron’s axon without reproducing the hair cell’s continuously varying voltage amplitude. The synapse converts one kind of signal into another: graded receptor depolarization changes release probability, while the nerve represents the resulting input through discrete electrical events."
+    ],
+    "recording_context_note": "The anatomical recording shows peripheral nerve processes around the inner-hair-cell region, including an efferent terminal identified in its source study. It reveals local contacts rather than the central auditory pathway. The nerve’s cochlear input must be distinguished from descending terminals that modify transmission within the same peripheral sensory tissue."
+  },
+  {
+    "title": "Firing rate represents changes in sound level",
+    "body": [
+      "A fiber’s **firing rate** is the number of action potentials it produces over a specified time. Increasing sound level often increases the firing rate of fibers driven by that sound. The response depends on cochlear mechanics, hair-cell voltage, synaptic release, and the nerve fiber’s own electrical properties.",
+      "Fibers differ in spontaneous activity, threshold, and operating range. **Spontaneous activity** occurs without a deliberately presented sound. A low-threshold fiber may already approach its maximum rate at levels where another fiber is only beginning to respond, allowing a population to cover more sound levels than one fiber alone.",
+      "Rate changes during the course of a sound as well as across sound levels. A strong onset response may decline toward a lower maintained response while stimulation continues. This adaptation reflects processes within the receptor–synapse–nerve chain and must be separated from a change in the external sound’s physical amplitude."
+    ]
+  },
+  {
+    "title": "Cochlear position gives each fiber a frequency preference",
+    "body": [
+      "A fiber receives input from a restricted cochlear region, giving it a **characteristic frequency** at which it responds particularly sensitively. Basal regions favor high frequencies, while apical regions favor lower frequencies. The resulting population pattern provides a place-based representation of the sound’s frequency content.",
+      "A single fiber does not respond exclusively to one perfectly isolated frequency. Its tuning curve broadens as the stimulus becomes stronger, and neighboring fibers can respond to overlapping ranges. The pattern across fibers therefore contains more information than a simple claim that one frequency activates one uniquely assigned receptor.",
+      "Active outer-hair-cell mechanics sharpen the frequency range represented at each location, especially for quiet sounds. Damage to that amplification broadens the mechanical input and can reduce frequency selectivity in the nerve fibers receiving it. A place code therefore depends on both anatomical position and the quality of local mechanical filtering."
+    ],
+    "recording_context_note": "The accompanying tomographic recording shows links among developing stereocilia, providing structural context for the bundles that receive local mechanical input. It does not display a measured frequency map. The cochlear diagram identifies the longitudinal place relationship that gives different nerve fibers their different preferred frequency ranges."
+  },
+  {
+    "title": "Phase locking preserves timing without one spike per cycle",
+    "body": [
+      "**Phase locking** occurs when spikes tend to occur near a particular phase of a repeating sound. A nerve fiber can skip many cycles and still be phase locked if its spikes repeatedly occur at a similar point within the cycles it does follow. Average firing rate need not equal sound frequency.",
+      "At low frequencies, the changing receptor potential can modulate release in synchrony with the waveform. Different fibers can contribute spikes on different cycles, preserving timing across a population. Refractory periods and synaptic constraints prevent a single fiber from generating an arbitrarily fast sequence of action potentials.",
+      "Phase locking becomes less effective as frequency increases, while the cochlear place map remains available. Timing and place therefore provide complementary peripheral information. Counting all spikes over a long interval measures average rate; comparing their times with the stimulus cycle measures synchrony, and these two analyses answer different questions."
+    ]
+  },
+  {
+    "title": "Complex sounds create changing patterns across fibers",
+    "body": [
+      "A complex sound distributes energy across several cochlear regions. Each region’s inner hair cells supply nerve fibers with different frequency preferences, creating a population response to the sound’s spectrum. A harmonic-rich tone can therefore activate several groups of fibers rather than being represented only at its fundamental frequency.",
+      "The **sound envelope** describes slower changes in amplitude, such as the beginning and fading of a note. Auditory nerve activity can track these changes while also carrying frequency-related information. A transient onset, a sustained vowel, and a brief click impose different demands on receptor voltage and synaptic replenishment.",
+      "Different harmonics can overlap within a fiber’s tuning range, especially at stronger sound levels. The neural response then reflects both the incoming spectrum and the cochlea’s filtering. Changes in the source’s envelope can also alter synchrony across fibers even when the average distribution of spectral energy remains broadly similar."
+    ],
+    "recording_context_note": "The fly recording shows a natural sound-producing behavior and its coordinated movements. The fly’s hearing organs differ from a mammalian cochlea, so the recording does not demonstrate mammalian coding. It supplies an example of a changing biological source whose acoustic waveform contains structure across both frequency and time."
+  },
+  {
+    "title": "Current and sound thresholds test different steps",
+    "body": [
+      "Markowitz and Kalluri measured how much injected electrical current was required to make neonatal auditory neurons fire. Injecting current bypasses the hair bundle and synapse. The resulting **current threshold** describes the neuron’s electrical excitability rather than the quietest sound that the complete peripheral system can detect.",
+      "By labeling each fiber’s contact position, the investigators compared this electrical threshold with the known spatial organization of intensity-sensitive contacts. Neurons with higher current thresholds contacted inner hair cells at positions associated with higher sound thresholds in vivo. This alignment suggests a contribution from neuronal excitability to the wider intensity map.",
+      "The model used combinations of measured membrane properties to predict synaptic position. Its success depended on a stable spatial gradient across the preparations examined. The experiment therefore adds a cellular mechanism to intensity coding while preserving the distinction between a neonatal preparation stimulated electrically and an intact mature ear stimulated acoustically."
+    ]
+  },
+  {
+    "title": "Release timing differs among neighboring active zones",
+    "body": [
+      "In the paired mouse recordings, inner-hair-cell synapses differed in both response size and timing. High-spontaneous-release contacts produced larger, more temporally compact excitatory currents and responded at lower presynaptic voltages. A shared receptor voltage could therefore produce different outputs at different active zones on the same cell.",
+      "Tighter coupling between calcium channels and release sites helps explain why some contacts respond more promptly. Calcium entering close to a release-ready vesicle reaches the fusion machinery with less spatial spread. The study compared this coupling together with response latency and initial release rate rather than treating synaptic size as a complete explanation.",
+      "The contacts with higher spontaneous release also had shorter synaptic delays and higher initial release rates during the controlled stimuli. These properties can change both sensitivity and onset precision. Separate synapses therefore differ in how quickly they respond as well as in how many transmitter-driven events they produce over time."
+    ],
+    "recording_context_note": "The accompanying zebrafish recording shows spontaneous calcium changes near hair-cell synapses and mitochondria before mature sensory operation. Fluorescence reports calcium-related activity, not glutamate release itself. The paired mouse recordings directly measured the presynaptic voltage and postsynaptic current needed to characterize the different release responses."
+  },
+  {
+    "title": "The developing cochlea is active before hearing begins",
+    "body": [
+      "Before normal sound sensitivity emerges, immature cochlear hair cells and surrounding supporting cells generate spontaneous activity. This activity does not require an external tone. It reflects developmental electrical properties and local cellular communication within the cochlea, providing a source of organized activity before mature acoustic transduction is established.",
+      "Immature inner hair cells can generate **calcium action potentials**, unlike the mainly graded receptor responses used by mature cochlear hair cells. Their ability to spike changes during development as membrane channels and synaptic machinery mature. The developmental exception should therefore not be generalized to the mature receptor’s normal sound code.",
+      "Neighboring supporting cells can release ATP and alter the local potassium environment, changing inner-hair-cell voltage. Bursts arise from these local interactions rather than from a sound wave entering the ear. The cellular source of this activity can be examined entirely within the peripheral cochlea before considering its later central effects."
+    ]
+  },
+  {
+    "title": "Supporting-cell channels shape cochlear calcium waves",
+    "body": [
+      "**TMEM16A** is a calcium-activated chloride channel expressed by supporting cells in the developing mouse cochlea. When calcium rises inside these cells, the channel helps coordinate changes in ion movement and cell volume. These events participate in local activity within Kölliker’s organ before the onset of normal hearing.",
+      "Maul and colleagues conditionally removed TMEM16A and imaged calcium activity in cochlear supporting cells. The normal spatially spreading calcium events were disrupted. Comparing control and manipulated tissues showed that local communication depended on this channel rather than arising from an unchanged wave generator elsewhere in the preparation.",
+      "The recording displays cochlear calcium signals from the two experimental conditions. Its brightness changes reflect the calcium indicator rather than direct recordings of nerve spikes. The study also examined central development, but the material shown here concerns only the cochlear cells and the peripheral generation of spontaneous activity."
+    ]
+  },
+  {
+    "title": "ATP signaling changes the space around developing cells",
+    "body": [
+      "**ATP** can act outside a cell as a signaling molecule as well as supplying energy inside it. Babola and colleagues examined a receptor called **P2RY1** on developing cochlear supporting cells. ATP activates this receptor, which triggers intracellular calcium changes and promotes ion movement from the supporting cells.",
+      "Potassium released into the local fluid depolarizes nearby immature inner hair cells. Supporting cells also lose water and shrink, increasing the extracellular space around them. The larger space allows potassium to disperse more readily, helping end a local burst rather than leaving the receptors continuously depolarized.",
+      "Blocking or removing P2RY1 reduced coordinated bursts but could increase sustained firing because the supporting cells swelled and potassium accumulated nearby. The same pathway therefore helps initiate activity and organize its termination. Changes in the volume of the extracellular compartment can alter excitability without changing the number of hair cells."
+    ]
+  },
+  {
+    "title": "Developing nerve branches withdraw from wrong regions",
+    "body": [
+      "Auditory nerve neurons must establish appropriate peripheral contacts while the sensory epithelium develops. Some growing processes initially enter the outer-hair-cell region before withdrawing toward inner hair cells. The final pattern therefore emerges partly through removal of early branches, rather than every growing process reaching its final target immediately.",
+      "Coate and colleagues studied **neuropilin-2 and semaphorin-3F**, a receptor and extracellular guidance signal that help regulate this branching pattern. Their experiments identified a repulsive influence that promotes the normal arrangement of inner-hair-cell innervation. Repulsion redirects or limits growth rather than killing the entire sensory neuron.",
+      "The time-lapse recording follows fluorescently labeled nerve processes in a developing mouse cochlea for approximately twenty hours. Marked branches can be seen extending into the outer-hair-cell region and then falling back. The movie records the changing peripheral branches directly; it does not show a mature fiber responding to sound."
+    ]
+  },
+  {
+    "title": "Transduction supports auditory synapse maturation",
+    "body": [
+      "Lee and colleagues asked whether the sensory transduction apparatus influences the later development of inner-hair-cell synapses. They examined mouse models with different genetic disruptions of transduction, including changes affecting TMC proteins. This approach tested whether a developing synapse can remain normal when its receptor lacks normal mechanical input.",
+      "Loss of sensory transduction was accompanied by loss of synapses during development. The investigators examined both the number and maturation of contacts rather than assuming that a recognizable hair cell must have normal neural connections. An early defect at the hair bundle can therefore have later consequences at the opposite end of the cell.",
+      "Restoring TMC1-mediated transduction through gene therapy in the appropriate mutant mice preserved synapses. The experiment acted on surviving sensory cells and their developmental input rather than creating replacement cells. A molecular repair can protect the receptor–nerve interface when delivered within the conditions and developmental setting tested."
+    ]
+  },
+  {
+    "title": "Efferent terminals regulate the peripheral sensory organ",
+    "body": [
+      "**Efferent fibers** carry signals toward the cochlea, while afferent auditory fibers carry its sensory output away. Here the relevant structures are their peripheral terminals. Some efferent terminals contact outer hair cells, where their action can reduce the cells’ electrical response and alter the active mechanical contribution to cochlear motion.",
+      "Other efferent terminals occur near inner-hair-cell afferent endings and can modify the transmission entering auditory nerve fibers. A nerve process seen near a hair cell is therefore not automatically the afferent process that carries that receptor’s output. Its molecular labeling and anatomical contacts are needed to establish its identity.",
+      "At an outer hair cell, efferent acetylcholine activates receptors that permit calcium entry and recruit calcium-sensitive potassium conductance. The resulting electrical change reduces the cell’s effective response to mechanical input. This local receptor mechanism can alter cochlear gain without requiring the outer hair cell or its sensory bundle to disappear."
+    ],
+    "recording_context_note": "The source recording reconstructs labeled efferent terminals among the rows of outer hair cells and nearby sensory fibers. It displays the local branches and putative synaptic sites within the cochlea. The central origins and circuitry controlling these terminals are reserved for the separate central auditory lecture."
+  },
+  {
+    "title": "Conductive loss reduces mechanical input to the cochlea",
+    "body": [
+      "**Conductive hearing loss** occurs when the outer or middle ear transmits sound less effectively. Ear-canal obstruction, middle-ear fluid, or restricted ossicular movement can reduce the pressure-driven motion reaching the oval window. The cochlear hair cells may remain capable of responding if sufficient mechanical stimulation reaches them.",
+      "**Air conduction** tests sound delivered through the canal and middle ear. **Bone conduction** uses vibration of the skull to stimulate the inner ear through additional mechanical routes. Comparing these responses helps identify whether a deficit mainly involves sound transmission or a later part of the peripheral sensory chain.",
+      "The same reported difficulty hearing can therefore arise from different damaged structures. A blocked canal reduces access to the receptor, while a failed inner-hair-cell synapse disrupts output after transduction. Treatment selection depends on identifying the affected step rather than assuming that every elevated hearing threshold means hair cells have died."
+    ]
+  },
+  {
+    "title": "Sensory loss has several peripheral cellular targets",
+    "body": [
+      "**Sensorineural hearing loss** concerns damage within the cochlear sensory apparatus or its neural output. The affected structure might be an outer hair cell, an inner hair cell, its bundle, its synapse, or an auditory nerve fiber. These injuries can coexist, but they interrupt different stages of the peripheral signaling process.",
+      "Loss of outer hair cells reduces amplification and frequency selectivity. Loss of inner hair cells removes the main receptor input to sensory nerve fibers. Loss of synapses can reduce the neural population carrying sound information even when surviving hair cells still detect movement and a basic detection threshold remains relatively good.",
+      "The vulnerability of these components differs with injury type and time after exposure. A sensory cell can remain alive with a damaged bundle, and an intact bundle can coexist with a failed release site. Examining the surviving structures identifies whether recovery requires local repair, restoration of a molecular function, or replacement of a lost cell."
+    ],
+    "recording_context_note": "The accompanying zebrafish lateral-line recording shows hair-cell death during exposure to the ototoxic antibiotic neomycin. It provides a visible comparative example of drug-induced sensory-cell damage. A lateral-line preparation allows direct observation of exposed receptors; it does not establish the dose or treatment outcome for a human cochlea."
+  },
+  {
+    "title": "A detection threshold does not count surviving synapses",
+    "body": [
+      "A **hearing threshold** identifies the weakest stimulus detected or the level needed to produce a defined physiological response. It measures performance of a pathway under a particular condition. It does not directly report the number of hair cells, the number of synapses, or the quality of every suprathreshold neural response.",
+      "Some peripheral damage can reduce neural response strength while leaving quiet-sound detection less affected. Separate tests can therefore produce different results because they sample different biological functions. Cochlear amplification, receptor output, nerve population activity, and behavioral performance should be examined with measurements suited to each question.",
+      "An **auditory brainstem response** is recorded from electrodes and contains several sequential components. Its earliest auditory-nerve component can inform the assessment of peripheral output. Interpreting later components requires central circuitry, which is outside this lecture’s scope; the presence of a threshold alone does not identify the cellular lesion."
+    ]
+  },
+  {
+    "title": "Overstimulation can damage a surviving hair-cell system",
+    "body": [
+      "Holmgren and colleagues used intense water movement to overstimulate zebrafish lateral-line hair cells. The lateral line senses water displacement along the body rather than airborne sound. It nevertheless provides an accessible mechanosensory preparation for examining how strong stimulation affects bundles, sensory synapses, and behavior in a living animal.",
+      "The study observed acute structural injury and synapse loss followed by relatively rapid recovery in the tested larval preparation. The response depended on the mechanical injury rather than simply removing every hair cell chemically. Separate structural and functional measurements allowed the investigators to follow which aspects of the organ changed over time.",
+      "Synapse loss after overstimulation can develop alongside changes in the hair bundle and surrounding tissue. Following recovery at several times separates rapid mechanical or ionic improvement from slower restoration of contacts. The accessible fish organ allows these cellular measurements to be compared with behavior under the same defined injury condition."
+    ],
+    "recording_context_note": "The swimming recording shows an untreated control larva from the experiment. Its movement supplies behavioral context for the mechanosensory system being studied, rather than directly displaying a microscopic synaptic lesion. The article figure documents the cellular changes used to evaluate damage and recovery after the controlled overstimulation."
+  },
+  {
+    "title": "Ototoxic injury depends on cellular activity history",
+    "body": [
+      "An **ototoxic** substance can damage sensory structures involved in hearing or balance. Pickett and colleagues studied neomycin injury in zebrafish mechanosensory hair cells, using fluorescent indicators to follow mitochondrial activity. **Mitochondria** help supply cellular energy and also participate in calcium handling and stress responses within the receptor.",
+      "The investigators asked whether the cells’ activity predicted which cells would be more susceptible to neomycin. Susceptibility tracked the accumulated history of mitochondrial activity more closely than the instantaneous activity level measured just before injury. A single snapshot of an active organelle therefore did not fully describe the cell’s vulnerability.",
+      "The experiments used indicators that reported calcium-related activity and mitochondrial oxidation over time. These measurements separate rapid changes during stimulation from a longer activity history. Cells exposed to the same external drug condition can begin from different internal states, helping explain why not every sensory receptor is lost at the same moment."
+    ]
+  },
+  {
+    "title": "Mechanical input changes mitochondrial calcium",
+    "body": [
+      "Calcium entering during mechanotransduction can influence processes beyond the immediate receptor potential. Some calcium-related activity reaches mitochondria, where it can alter metabolic responses. A sensory cell’s mechanical activity therefore places demands on its energy supply and ion handling as well as on its electrical signaling machinery.",
+      "Pickett and colleagues stimulated zebrafish hair cells with a controlled water jet while imaging cytoplasmic and mitochondrial calcium indicators. The recording compares signals in these different cellular compartments during stimulation. Changing fluorescence follows indicator responses to calcium; it does not mean that the image directly measures ATP production or electrical current.",
+      "The study related mechanotransduction-dependent activity to both acute mitochondrial responses and longer-term oxidation history. These observations provide a route by which repeated sensory activity can influence later injury susceptibility. The findings concern the tested fish preparation and should be kept separate from claims about a specific preventive treatment for human hearing loss."
+    ]
+  },
+  {
+    "title": "Different measurements test different peripheral functions",
+    "body": [
+      "**Audiometry** measures sound detection across frequencies, producing a profile of hearing sensitivity. It can reveal a frequency-dependent deficit consistent with a damaged cochlear region. A threshold profile does not by itself distinguish every possible combination of outer-hair-cell, inner-hair-cell, synaptic, and neural damage producing that profile.",
+      "Otoacoustic emissions examine active cochlear processes associated with outer hair cells. Electrical population responses examine synchronized activity in the auditory pathway. Comparing these tests can help localize a dysfunction because they depend on different steps, rather than providing interchangeable measurements of one undifferentiated property called hearing.",
+      "Anatomical measurements answer another question by identifying cells or synaptic structures directly. In an animal experiment, physiology can be compared with tissue analysis after a defined injury. Human clinical testing usually relies on indirect functional measurements, so a proposed treatment must be evaluated using outcomes that match the structure it is intended to repair."
+    ]
+  },
+  {
+    "title": "Peripheral treatments depend on what tissue remains",
+    "body": [
+      "A **hearing aid** uses a microphone and processing system to deliver an altered acoustic signal to the ear. It depends on surviving peripheral structures to convert that signal into neural activity. Increasing audibility can help when a usable receptor–nerve pathway remains, but it does not create replacement hair cells.",
+      "A cochlear implant uses electrical stimulation to activate surviving auditory neurons, bypassing much of the usual hair-cell transduction step. A regenerative treatment instead aims to restore damaged biological components. These approaches address different points in the peripheral chain, and the useful option depends on the remaining structures and their function.",
+      "A repair strategy must also consider whether a surviving auditory neuron still has a receptor to contact. Repairing a release site can help a living inner hair cell communicate, while replacing a missing cell must re-establish that interface. Loss of the neuron itself creates a further requirement that increasing acoustic level cannot resolve."
+    ],
+    "recording_context_note": "The accompanying adult-mouse utricle recording shows supporting cells enclosing material from a sensory hair cell in a balance organ. It provides a comparative view of how sensory tissue changes as cells are removed. It is not evidence of a hearing-aid effect or of routine hair-cell replacement in the adult mammalian cochlea."
+  },
+  {
+    "title": "Cochlear implants stimulate surviving neurons",
+    "body": [
+      "A **cochlear implant** contains an external microphone and sound processor linked to an implanted electrode array. The processor converts selected features of the sound into patterns of electrical pulses. Electrodes within the cochlea stimulate surviving neural elements rather than making the basilar membrane reproduce normal sound-driven motion.",
+      "Different contacts along the array can preferentially stimulate neural populations associated with different cochlear positions. This uses the peripheral frequency organization, although electrical current spreads more broadly than the sharply tuned mechanical response of a healthy cochlea. The number of physical electrodes therefore does not equal the number of independent normal frequency channels.",
+      "The implant requires a usable auditory nerve and cannot supply every detail of an intact cochlear code. It also differs fundamentally from generating new hair cells or repairing their synapses. Its clinical value comes from providing an alternative input route to surviving neurons when acoustic stimulation through the damaged receptor organ is insufficient."
+    ]
+  },
+  {
+    "title": "Surviving stereocilia can repair local actin damage",
+    "body": [
+      "Wagner and colleagues examined gaps in the actin cores of mouse auditory stereocilia after traumatic noise exposure. An actin core contains many bundled filaments that help maintain the projection’s shape. A local gap can weaken this framework while leaving the surrounding stereocilium and its hair cell alive.",
+      "The gaps were largely repaired within a week through incorporation of newly synthesized actin. XIRP2 contributed to recruitment of actin at damaged regions, and loss of its normal function impaired the repair process. Repair of a damaged projection therefore uses new structural material within an existing sensory receptor.",
+      "The accompanying fibroblast recording tests full-length XIRP2 after a laser-induced stress-fiber lesion. Unlike the isolated C-terminal domain shown earlier, this tagged full-length construct was not recruited to those sites under the tested conditions. Different protein constructs and cellular environments can expose different parts of a proposed damage-recognition mechanism."
+    ]
+  },
+  {
+    "title": "Repairing a bundle preserves an existing receptor",
+    "body": [
+      "Actin-core repair, tip-link recovery, and replacement of a dead hair cell are distinct biological processes. A surviving cell retains its membrane, much of its bundle, and potentially its neural connections. Local repair can restore a damaged part without rebuilding the entire sensory receptor and its place within the epithelium.",
+      "The XIRP2 study examined sublethal bundle injury and found a force-sensitive protein region that could accumulate at strained actin structures. The study also measured auditory stereocilia directly after noise exposure. These two preparations address complementary questions about recognizing damage and replacing the structural material lost from the bundle.",
+      "A temporary recovery of hearing sensitivity can therefore occur without producing new hair cells. Restored ion balance, recovering transduction machinery, or repaired bundle structure can each improve a surviving receptor’s function. Establishing regeneration requires evidence that new sensory cells appeared, rather than inferring their production solely from an improved threshold."
+    ]
+  },
+  {
+    "title": "Some animals replace damaged sensory hair cells",
+    "body": [
+      "**Hair-cell regeneration** means producing replacement sensory cells after existing cells die. Birds can replace damaged auditory hair cells, and zebrafish replace hair cells in their lateral-line organs. The lateral line detects water movement along the body; its regeneration provides a comparative model rather than direct evidence of restored hearing.",
+      "The replacement cells can arise from **supporting cells**, neighboring cells that help maintain the sensory tissue. In small zebrafish **neuromasts**, the lateral-line sensory organs, supporting cells divide to produce new hair cells. Other supporting cells replenish the progenitor population, allowing the organ to retain cells capable of responding to another injury.",
+      "Thomas and colleagues labeled different supporting-cell populations and followed their descendants during regeneration. The populations differed in how readily they generated hair cells. Removing selected supporting cells reduced subsequent hair-cell replacement, showing that regeneration depends on which surviving cells remain available to rebuild the sensory organ."
+    ],
+    "transcript": [
+      "**Hair-cell regeneration** means producing replacement sensory cells after existing cells die. Birds can replace damaged auditory hair cells, and zebrafish replace hair cells in their lateral-line organs. The lateral line detects water movement along the body; its regeneration provides a comparative model rather than direct evidence of restored hearing.",
+      "The replacement cells can arise from **supporting cells**, neighboring cells that help maintain the sensory tissue. In small zebrafish **neuromasts**, the lateral-line sensory organs, supporting cells divide to produce new hair cells. Other supporting cells replenish the progenitor population, allowing the organ to retain cells capable of responding to another injury.",
+      "Thomas and colleagues labeled different supporting-cell populations and followed their descendants during regeneration. The populations differed in how readily they generated hair cells. Removing selected supporting cells reduced subsequent hair-cell replacement, showing that regeneration depends on which surviving cells remain available to rebuild the sensory organ."
+    ],
+    "instructional_role": "research",
+    "layout": "figure-right",
+    "figure_width": 5.7,
+    "figure": {
+      "path": "figures/elife_43736_fig3.png",
+      "kind": "article",
+      "source_url": "https://doi.org/10.7554/eLife.43736",
+      "caption": "Thomas et al. (2019), Fig. 3.",
+      "credit": "Eric D Thomas; David W Raible",
+      "license": "CC-BY-4.0"
+    },
+    "cite": "Thomas et al. (2019)",
+    "refs": [
+      "Eric D Thomas; David W Raible (2019). Distinct progenitor populations mediate regeneration in the zebrafish lateral line. https://doi.org/10.7554/eLife.43736",
+      "Original figure legend: 10.7554/eLife.43736.011 Figure 3. Distinct support cell populations have different regenerative capacities. ( A ) Timeline of nlsEos fate mapping experiment. Fish were photoconverted at 5 dpf, treated with neomycin, then fixed and imaged 72 hr post treatment (8 dpf). ( B, C, D ) Maximum projections of neuromasts from  sfrp1a :nlsEos (Peripheral,  B ),  tnfsf10l3 :nlsEos (AP,  C ), and  sost :nlsEos (DV,  D ) fish following photoconversion and hair cell regeneration. Converted nlsEos-positive cells are shown in magenta, and brn3c:GFP-positive hair cells are shown in green. Arrowheads indicate nlsEos-positive hair cells. Scale bar = 10 μm. ( E ) Percentage of hair cells per neuromast labeled by nlsEos following regeneration.  Sfrp1a :nlsEos (Peripheral): 3.59 ± 8.87, n = 50 neuromasts (10 fish);  tnfsf10l3 :nlsEos (AP): 20.28 ± 20.58, n = 50 neuromasts (10 fish);  sost :nlsEos (DV): 60.87 ± 12.37, n = 50 neuromasts (10 fish); mean ± SD; Kruskal-Wallis test, Dunn’s post-test, p=0.003 (Peripheral vs. AP), p<0.0001 (Peripheral vs. DV, AP vs. DV). ( F ) Total nlsEos-positive support cells per neuromast prior to hair cell ablation.  Sfrp1a :nlsEos (Peripheral): 14.30 ± 4.17, n = 50 neuromasts (10 fish);  tnfsf10l3 :nlsEos (AP): 22.8 ± 4.40, n = 50 neuromasts (10 fish);  sost :nlsEos (DV): 23.86 ± 4.45, n = 50 neuromasts (10 fish); mean ± SD; Kruskal-Wallis test, Dunn’s post-test, p<0.0001 (Peripheral vs. AP, Peripheral vs. DV), p>0.9999 (AP vs. DV). 10.7554/eLife.43736.012 Figure 3—source data 1. Distinct support cell populations have different regenerative capacities",
+      "Corwin JT, Cotanche DA (1988). Regeneration of Sensory Hair Cells After Acoustic Trauma. Science. https://doi.org/10.1126/science.3381100. Bibliographic record verified; historical bird-regeneration reference. Figure shown is the explicitly identified zebrafish lateral-line experiment."
+    ],
+    "primary_source": "eLife.43736"
+  },
+  {
+    "title": "Replacement cells must rebuild an organized sensory organ",
+    "body": [
+      "A new hair cell must occupy a useful position within the sensory organ. Its bundle also needs the appropriate **polarity**, the orientation that determines which direction of movement excites it. Producing additional cells without restoring their arrangement can leave the tissue unable to represent the original mechanical stimulus correctly.",
+      "Viader-Llargués and colleagues followed individual cells as zebrafish neuromasts recovered from partial injury. Live imaging revealed cell divisions, changes in cell identity, and movement within the repairing organ. The regenerated tissue recovered its characteristic organization, proportions of cell types, and hair-cell polarity after the experimental damage.",
+      "Completely removing a neuromast did not produce the same recovery as leaving surviving tissue. The remaining cells provide both a source of replacement cells and a local environment in which the organ can rebuild. A regenerative response therefore depends on the tissue that survives the injury, including its supporting-cell populations."
+    ],
+    "transcript": [
+      "A new hair cell must occupy a useful position within the sensory organ. Its bundle also needs the appropriate **polarity**, the orientation that determines which direction of movement excites it. Producing additional cells without restoring their arrangement can leave the tissue unable to represent the original mechanical stimulus correctly.",
+      "Viader-Llargués and colleagues followed individual cells as zebrafish neuromasts recovered from partial injury. Live imaging revealed cell divisions, changes in cell identity, and movement within the repairing organ. The regenerated tissue recovered its characteristic organization, proportions of cell types, and hair-cell polarity after the experimental damage.",
+      "Completely removing a neuromast did not produce the same recovery as leaving surviving tissue. The remaining cells provide both a source of replacement cells and a local environment in which the organ can rebuild. A regenerative response therefore depends on the tissue that survives the injury, including its supporting-cell populations."
+    ],
+    "instructional_role": "research",
+    "layout": "figure-right",
+    "figure_width": 5.7,
+    "figure": {
+      "path": "figures/elife_30823_fig4.png",
+      "kind": "article",
+      "source_url": "https://doi.org/10.7554/eLife.30823",
+      "caption": "Viader-Llargués et al. (2018), Fig. 4.",
+      "credit": "Oriol Viader-Llargués; Valerio Lupperger; Laura Pola-Morell; Carsten Marr; Hernán López-Schier",
+      "license": "CC-BY-4.0"
+    },
+    "cite": "Viader-Llargués et al. (2018)",
+    "refs": [
+      "Oriol Viader-Llargués; Valerio Lupperger; Laura Pola-Morell; Carsten Marr; Hernán López-Schier (2018). Live cell-lineage tracing and machine learning reveal patterns of organ regeneration. https://doi.org/10.7554/eLife.30823",
+      "Original figure legend: 10.7554/eLife.30823.007 Figure 4. Recovery of organ architecture after loss of tissue integrity. ( A–E ) Confocal images of a neuromast regenerating from 4 to 10 cells during a period of 7 days. Neuromasts recover radial symmetry 3 dpi ( D ), and original organ proportions at 7 dpi ( E ). ( F–J ) Neuromasts reduced to 4–10 cells that were previously deprived from adjacent interneuromast cells (INCs) (arrowheads in  F ), regenerated and reformed radial symmetry ( H–I ) and proportions 7 dpi, despite maintaining a reduced size ( J ). Dashed circles in ( A,F ) illustrate damaged areas. Scale bars: 10 µm. ( K,N ) Total cell numbers in regenerating neuromasts over 7 days in the two conditions depicted in ( A–J ). ( L,O ) In the first 2 dpi neuromast consist almost exclusively of supporting cells (green and red). Hair cells (blue) begin to appear between at 2dpi. ( M,P ) Percentages of cell classes during a 7 day regeneration period. Right after damage, neuromast experience an imbalance of cell proportions that is re-established over the course of 3 days. Afterwards the neuromasts continues to slowly increase total cell number at similar rates. The final proportion of cell classes recapitulates that of the starting condition. Time points show mean ± s.e.m. [All except 4–10 cells] n = 15, [All except 4–10 cells + INC] n = 6. ( Q ) Top and ( R ) lateral views of a triple-transgenic  Tg[Ncad: Ncad-EGFP; Alp:mCherry; H2A:H2A-EGFP]  neuromast before injury. ( S ) Top and ( T ) lateral views of a regenerated neuromast 7 days post injury (n = 4). Basal location of nuclei and apical N-cadherin enrichment evidence the apicobasal polarization of the organ. The accumulation of N-cadherin (white arrowheads) in the regenerated neuromast shows that apical constrictions are properly re-established during the process. ( U–V ) Maximal intensity projection of a neuromast in the triple transgenic line  Tg[Cldnb:lynGFP; SqGw57A; Alpl:mCherry]  prior to injury that eliminates all except 4 to 10 cells ( U ), and the same neuromast 7 days after damage ( V ). ( W ) Hair-bundle staining with rhodamine-phalloidin (colored in pink) reveals the coherent planar polarization of the hair cells in the regenerated neuromast shown in ( V ). ( X ) Confocal projection of a neuromast before the removal of flanking interneuromast cells. ( Y ) Maximal projection of a neuromast 48 hr after interneuromast-cell ablation and 24 hr after neomycin treatment. ( Z ) Phalloidin staining of hair bundles of hair cells regenerated in the absence of interneuromast cells, showing recovery of coherent epithelial planar polarity. Scale bars: 10 µm."
+    ],
+    "primary_source": "eLife.30823"
+  },
+  {
+    "title": "Adult mouse supporting cells can acquire hair-cell traits",
+    "body": [
+      "Adult mammalian cochleae do not normally replace lost hair cells effectively. Researchers therefore try to change the identity of surviving supporting cells. **Transcription factors** are proteins that regulate gene activity; experimentally supplying selected factors can activate parts of the developmental program that originally produced a sensory hair cell.",
+      "Sun and colleagues supplied **ATOH1 and IKZF2** together in adult mouse cochlear supporting cells. Some cells acquired outer-hair-cell-like characteristics and expressed **prestin**, the motor protein responsible for outer hair cell length changes. Damaging the original outer hair cells increased the efficiency of this experimentally induced conversion.",
+      "Expression of prestin identifies an important step toward an outer hair cell identity. Restoring cochlear amplification also requires a correctly organized bundle, appropriate electrical responses, and mechanical coupling to the surrounding tissue. The reported cell conversion did not establish restoration of normal hearing in an adult mammal."
+    ],
+    "transcript": [
+      "Adult mammalian cochleae do not normally replace lost hair cells effectively. Researchers therefore try to change the identity of surviving supporting cells. **Transcription factors** are proteins that regulate gene activity; experimentally supplying selected factors can activate parts of the developmental program that originally produced a sensory hair cell.",
+      "Sun and colleagues supplied **ATOH1 and IKZF2** together in adult mouse cochlear supporting cells. Some cells acquired outer-hair-cell-like characteristics and expressed **prestin**, the motor protein responsible for outer hair cell length changes. Damaging the original outer hair cells increased the efficiency of this experimentally induced conversion.",
+      "Expression of prestin identifies an important step toward an outer hair cell identity. Restoring cochlear amplification also requires a correctly organized bundle, appropriate electrical responses, and mechanical coupling to the surrounding tissue. The reported cell conversion did not establish restoration of normal hearing in an adult mammal."
+    ],
+    "instructional_role": "research",
+    "layout": "figure-right",
+    "figure_width": 5.7,
+    "figure": {
+      "path": "figures/elife_66547_fig4.png",
+      "kind": "article",
+      "source_url": "https://doi.org/10.7554/eLife.66547",
+      "caption": "Sun et al. (2021), Fig. 4.",
+      "credit": "Suhong Sun; Shuting Li; Zhengnan Luo; Minhui Ren; Shunji He; Guangqin Wang; Zhiyong Liu",
+      "license": "CC-BY-4.0"
+    },
+    "cite": "Sun et al. (2021)",
+    "refs": [
+      "Suhong Sun; Shuting Li; Zhengnan Luo; Minhui Ren; Shunji He; Guangqin Wang; Zhiyong Liu (2021). Dual expression of Atoh1 and Ikzf2 promotes transformation of adult cochlear supporting cells into outer hair cells. https://doi.org/10.7554/eLife.66547",
+      "Original figure legend: Figure 4. Lesion to endogenous OHCs enhances reprogramming efficiency of adult SCs by Atoh1 and Ikzf2. ( A ) Three distinct mice models were subject to tamoxifen (TMX) treatment at P30 and P31, followed by DT treatment at P36 and analysis at P60. ( B ) Illustration of key cellular events occurring during the experiment: induction of Atoh1 and Ikzf2 in adult PCs and DCs, which were permanently labeled with Tdtomato for the subsequent fate-mapping analysis. ( C–G’’’ ) Triple labeling against HA, Tdtomato, and Prestin in four models: (1)  Slc26a5 DTR/+  ( C, D ), (2) Fgfr3-iCreER+; CAG-LSL- Atoh1 +;  Slc26a5 DTR/+  (Fgfr3-Atoh1-DTR;  E ), (3) Fgfr3-iCreER+;  Rosa26 CAG-LSL-Ikzf2/+ ; Slc26a5 DTR/+  (Fgfr3-Ikzf2-DTR;  F ), and (4) Fgfr3-iCreER+; CAG-LSL- Atoh1 +;  Rosa26 CAG-LSL-Ikzf2/+ ; Slc26a5 DTR/+  (Fgfr3-Atoh1-Ikzf2-DTR;  G–G’’’ ). Relative to  Slc26a5 DTR/+  mice not treated with DT ( C ), DT-treated  Slc26a5 DTR/+  mice harbored fewer normal Prestin+ OHCs at P60 (arrows in  D ). Debris of dying OHCs had disappeared. No OHC-like cells were observed in the first three models, but Tdtomato+/HA+/Prestin+ OHC-like cells (orange and blue arrows in  G’’ ) were present in the Fgfr3-Atoh1-Ikzf2-DTR model ( G-G’’’ ). ( H ) Percentages of SCs that were transformed into OHC-like cells at different cochlear turns in Fgfr3-Atoh1-Ikzf2-DTR mice. ( I ) Comparison of OHC-like cell numbers between Fgfr3-Atoh1-Ikzf2-DTR and Fgfr3-Atoh1-Ikzf2 models (without damaging adult wild-type OHCs). Fgfr3-Atoh1-Ikzf2-DTR mice harbored considerably more OHC-like cells than Fgfr3-Atoh1-Ikzf2 mice. Data was presented as mean ± SEM (n = 3). Student’s t test was used for statistical analysis. **p<0.01, ***p<0.001. Scale bar: 20 μm. Figure 4—source data 1. It contained the numerical values of the data plotted in the graph of  Figure 4H . Figure 4—source data 2. It contained the numerical values of the data plotted in  Figure 4I ."
+    ],
+    "primary_source": "eLife.66547"
+  },
+  {
+    "title": "Maturation makes the hair-cell program harder to restart",
+    "body": [
+      "Young cochlear cells respond more readily to attempts at reprogramming than older cells. One reason concerns **chromatin**, the DNA and associated proteins that package genetic information. A transcription factor can activate a gene more readily when the relevant DNA region remains accessible within that cellular packaging.",
+      "Iyer and colleagues compared ATOH1 alone with combinations including **GFI1 and POU4F3** in mice. Reprogramming soon after birth produced many hair-cell-like cells. When induction began one week later, all three factors were needed for effective conversion, and the resulting cells showed less mature characteristics than those induced earlier.",
+      "The investigators measured gene expression and DNA accessibility in individual cells. Hair-cell gene regions became less accessible with age, while communication between neighboring cells, including **Notch signaling**, also restricted conversion. Changing a cell’s identity therefore requires overcoming both its internal gene-regulation state and signals from surrounding tissue."
+    ],
+    "transcript": [
+      "Young cochlear cells respond more readily to attempts at reprogramming than older cells. One reason concerns **chromatin**, the DNA and associated proteins that package genetic information. A transcription factor can activate a gene more readily when the relevant DNA region remains accessible within that cellular packaging.",
+      "Iyer and colleagues compared ATOH1 alone with combinations including **GFI1 and POU4F3** in mice. Reprogramming soon after birth produced many hair-cell-like cells. When induction began one week later, all three factors were needed for effective conversion, and the resulting cells showed less mature characteristics than those induced earlier.",
+      "The investigators measured gene expression and DNA accessibility in individual cells. Hair-cell gene regions became less accessible with age, while communication between neighboring cells, including **Notch signaling**, also restricted conversion. Changing a cell’s identity therefore requires overcoming both its internal gene-regulation state and signals from surrounding tissue."
+    ],
+    "instructional_role": "research",
+    "layout": "figure-right",
+    "figure_width": 5.7,
+    "figure": {
+      "path": "figures/elife_79712_fig4.png",
+      "kind": "article",
+      "source_url": "https://doi.org/10.7554/eLife.79712",
+      "caption": "Iyer et al. (2022), Fig. 4.",
+      "credit": "Amrita A Iyer; Ishwar Hosamani; John D Nguyen; Tiantian Cai; Sunita Singh; Melissa M McGovern; Lisa Beyer; Hongyuan Zhang; Hsin-I Jen; Rizwan Yousaf; Onur Birol; Jenny J Sun; Russell S Ray; Yehoash Raphael; Neil Segil; Andrew K Groves",
+      "license": "CC-BY-4.0"
+    },
+    "cite": "Iyer et al. (2022)",
+    "refs": [
+      "Amrita A Iyer; Ishwar Hosamani; John D Nguyen; Tiantian Cai; Sunita Singh; Melissa M McGovern; Lisa Beyer; Hongyuan Zhang; Hsin-I Jen; Rizwan Yousaf; Onur Birol; Jenny J Sun; Russell S Ray; Yehoash Raphael; Neil Segil; Andrew K Groves (2022). Cellular reprogramming with ATOH1, GFI1, and POU4F3 implicate epigenetic changes and cell-cell signaling as obstacles to hair cell regeneration in mature mammals. https://doi.org/10.7554/eLife.79712",
+      "Original figure legend: Figure 4. Gfi1, Atoh1, Pou4f3 , but not  Atoh1  or  Gfi1+Atoh1,  can reprogram 8-day-old GER cells into hair cell-like cells. ( A ) Mating scheme for the targeting of transcription factors to the greater epithelial ridge and all supporting cells. The  Sox9-CreER  mouse is bred to the three Rosa26 overexpression lines in a similar manner to  Figure 1A . Animals received tamoxifen (25 mg/kg body weight) at P8 and were sacrificed at P15. ( B ) GFP reporter expression in some lateral GER cells and all supporting cells detected by immunostaining in the organ of Corti of the  Sox9-CreER; Rosa26 EGFP  cochlea. Images show detection of GFP (green) and nuclear stain, DAPI (magenta). Scale bar: 50 µm. ( C ) Quantification of hair cells in the P15 reprogrammed cochleae. The number of Myosin VIIA + cells per 200 µm length of the organs of Corti from control, Rosa26-A, Rosa26-GA and Rosa26-GAP genotypes (n=3 per genotype) are represented.  Rosa-GAP  mice show approximately 50–60 ectopic hair cells, whereas  Rosa-A  and  Rosa-GA  show less than 5 ectopic cells per 200 µm. An unpaired t-test was performed to compare hair cell numbers between genotypes. Significant differences are represented. **p<0.001. Data are presented as mean ± SEM. ( D ) Rosa26-GAP mice can reprogram GER cells to hair cell-like cells. Immunostaining for Myosin VIIA (red) and Phalloidin (green) in the P15 cochleae (whole-mount organ of Corti - 200 µm length) of control,  Rosa26-A ,  Rosa26-GA,  and  Rosa26-GAP  mice. Arrows point to the GER region in the  Rosa26-GAP  cochlea, where many reprogrammed hair cells are observed."
+    ],
+    "primary_source": "eLife.79712"
+  },
+  {
+    "title": "Repairing cochlear synapses differs from replacing cells",
+    "body": [
+      "Noise can damage the connections between inner hair cells and auditory nerve fibers even when the hair cells survive. These connections contain **ribbon synapses**, specialized release sites that support rapid glutamate transmission. Rebuilding a damaged synapse addresses a different injury from replacing a dead sensory receptor cell.",
+      "Wan and colleagues increased **neurotrophin-3**, a locally acting protein supplied by cochlear supporting cells, in mice. Following acoustic trauma, the manipulation promoted recovery of ribbon synapses and cochlear neural responses. The experiment examined repair around surviving hair cells rather than conversion of supporting cells into replacement hair cells.",
+      "A larger auditory nerve response can reflect improved transmission from the receptor to the nerve. It does not require that new receptor cells have appeared. Counting hair cells, examining synaptic contacts, and measuring neural responses therefore answer separate questions about which peripheral structures were damaged and which structures recovered."
+    ],
+    "transcript": [
+      "Noise can damage the connections between inner hair cells and auditory nerve fibers even when the hair cells survive. These connections contain **ribbon synapses**, specialized release sites that support rapid glutamate transmission. Rebuilding a damaged synapse addresses a different injury from replacing a dead sensory receptor cell.",
+      "Wan and colleagues increased **neurotrophin-3**, a locally acting protein supplied by cochlear supporting cells, in mice. Following acoustic trauma, the manipulation promoted recovery of ribbon synapses and cochlear neural responses. The experiment examined repair around surviving hair cells rather than conversion of supporting cells into replacement hair cells.",
+      "A larger auditory nerve response can reflect improved transmission from the receptor to the nerve. It does not require that new receptor cells have appeared. Counting hair cells, examining synaptic contacts, and measuring neural responses therefore answer separate questions about which peripheral structures were damaged and which structures recovered."
+    ],
+    "instructional_role": "research",
+    "layout": "figure-right",
+    "figure_width": 5.7,
+    "figure": {
+      "path": "figures/elife_03564_fig7.png",
+      "kind": "article",
+      "source_url": "https://doi.org/10.7554/eLife.03564",
+      "caption": "Wan et al. (2014), Fig. 7.",
+      "credit": "Guoqiang Wan; Maria E Gómez-Casati; Angelica R Gigliello; M Charles Liberman; Gabriel Corfas",
+      "license": "CC-BY-4.0"
+    },
+    "cite": "Wan et al. (2014)",
+    "refs": [
+      "Guoqiang Wan; Maria E Gómez-Casati; Angelica R Gigliello; M Charles Liberman; Gabriel Corfas (2014). Neurotrophin-3 regulates ribbon synapse density in the cochlea and induces synapse regeneration after acoustic trauma. https://doi.org/10.7554/eLife.03564",
+      "Original figure legend: 10.7554/eLife.03564.011 Figure 7. Ntf3 overexpression from postnatal supporting cells promotes recovery from noise-induced synaptic degeneration. ( A ) Representative confocal images of IHC synapses from 32 kHz region of  Ntf3 stop  and  Ntf3 stop :Plp1/CreER T  cochleae immunolabeled for CtBP2 and GluA2 at 2 hr (upper panels) or 14 days after acoustic trauma (AT); scale bar = 10 µm. ( B  and  C )  Ntf3  overexpression promotes regeneration of IHC synapses ( B ) and prevents the progressive loss of IHC ribbons ( C ) between 2 hr (AT + 2 hr) and 14 days (AT + 14 days) after acoustic trauma.  n  = 3–8. *p < 0.05, ***p < 0.001 by two-way ANOVA. Gray shading indicates the noise exposure spectrum. Key in  C  applies to  B – C . DOI:   http://dx.doi.org/10.7554/eLife.03564.011"
+    ],
+    "primary_source": "eLife.03564"
+  },
+  {
+    "title": "Restored hearing requires working cells and connections",
+    "body": [
+      "A replacement inner hair cell must convert bundle movement into a graded voltage change and release transmitter onto auditory nerve fibers. A replacement outer hair cell must contribute mechanical amplification. These different functions mean that producing a cell with a hair-cell marker is an early milestone rather than a complete hearing treatment.",
+      "Translation to people requires delivering a treatment to the appropriate cochlear cells while preserving the surrounding sensory tissue. New cells must survive, develop correctly oriented bundles, and acquire the properties needed at their location along the cochlea. Inner hair cells also need functional synapses with surviving auditory nerve fibers.",
+      "Animal studies can test progressively stronger outcomes: cell identity, bundle structure, mechanical or electrical responses, synaptic transmission, and hearing-related performance. Evidence of recovery in one injury model does not establish recovery after every cause of deafness. Human treatment claims require clinical evidence demonstrating useful and sustained hearing improvement."
+    ],
+    "transcript": [
+      "A replacement inner hair cell must convert bundle movement into a graded voltage change and release transmitter onto auditory nerve fibers. A replacement outer hair cell must contribute mechanical amplification. These different functions mean that producing a cell with a hair-cell marker is an early milestone rather than a complete hearing treatment.",
+      "Translation to people requires delivering a treatment to the appropriate cochlear cells while preserving the surrounding sensory tissue. New cells must survive, develop correctly oriented bundles, and acquire the properties needed at their location along the cochlea. Inner hair cells also need functional synapses with surviving auditory nerve fibers.",
+      "Animal studies can test progressively stronger outcomes: cell identity, bundle structure, mechanical or electrical responses, synaptic transmission, and hearing-related performance. Evidence of recovery in one injury model does not establish recovery after every cause of deafness. Human treatment claims require clinical evidence demonstrating useful and sustained hearing improvement."
+    ],
+    "instructional_role": "research",
+    "layout": "figure-right",
+    "figure_width": 5.7,
+    "figure": {
+      "path": "figures/elife_66547_fig5.png",
+      "kind": "article",
+      "source_url": "https://doi.org/10.7554/eLife.66547",
+      "caption": "Sun et al. (2021), Fig. 5.",
+      "credit": "Suhong Sun; Shuting Li; Zhengnan Luo; Minhui Ren; Shunji He; Guangqin Wang; Zhiyong Liu",
+      "license": "CC-BY-4.0"
+    },
+    "cite": "Sun et al. (2021)",
+    "refs": [
+      "Suhong Sun; Shuting Li; Zhengnan Luo; Minhui Ren; Shunji He; Guangqin Wang; Zhiyong Liu (2021). Dual expression of Atoh1 and Ikzf2 promotes transformation of adult cochlear supporting cells into outer hair cells. https://doi.org/10.7554/eLife.66547",
+      "Original figure legend: Figure 5. Hair bundles were present in OHC-like cells. Scanning electron microscopy (SEM) analysis of samples from three different mouse models at P60. ( A–A’ ) OHCs harbored V- or W-shaped hair bundles in S lc26a5 DTR/+  mice not treated with DT. ( A’ ): high-magnification view of boxed region in ( A ). ( B ) Majority of OHCs had disappeared by P60 in  Slc26a5 DTR/+  mice upon DT treatment at P36. Black asterisk: one IHC that was absent. ( C ) Immature hair bundles were frequently detected in the Fgfr3-iCreER+; CAG-LSL- Atoh1 +;  Rosa26 CAG-LSL-Ikzf2/+ ; Slc26a5 DTR/+  (Fgfr3-Atoh1-Ikzf2-DTR) model, but not in ( A ) and ( B ). These hair bundles were thought to originate from OHC-like cells. ( C’ ): high-magnification view of boxed region in ( C ). Inset in C: instance of occasional hair bundles. Black asterisk: one IHC that was missing. ( D ) ABR measurements of the three mice models. Relative to the untreated  Slc26a5 DTR/+  control mice (black line, n = 3), the ABR thresholds of  Slc26a5 DTR/+  treated with DT (blue line, n = 5) and in Fgfr3-Atoh1-Ikzf2-DTR mice (red line, n = 6) were significantly higher. The blue and red lines showed no statistically significant difference at any frequency (n.s.). Data was presented as mean ± SEM. Student’s t-test was used for statistical testing. **p<0.01, ****p<0.0001. Scale bars: 5 μm ( A–C ), 1 μm ( C’ ), and 500 nm ( A’ ). Figure 5—source data 1. It contained the numerical values of the ABR thresholds described in  Figure 5D .",
+      "Synthesis of distinct experimental milestones, not a clinical efficacy claim.",
+      "Wan et al. (2014). https://doi.org/10.7554/eLife.03564",
+      "Iyer et al. (2022). https://doi.org/10.7554/eLife.79712"
+    ],
+    "primary_source": "eLife.66547"
+  }
+]

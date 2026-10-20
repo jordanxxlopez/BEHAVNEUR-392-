@@ -1,0 +1,58 @@
+{
+  "slides": 80,
+  "content_slides": 78,
+  "book_chapter": 7,
+  "audition_part": 1,
+  "central_auditory_pathways_included": false,
+  "regeneration_and_translation_slides": [
+    74,
+    75,
+    76,
+    77,
+    78,
+    79
+  ],
+  "foundation_slides": 31,
+  "research_slides": 47,
+  "primary_figure_slides": 47,
+  "embedded_distinct_mp4s": 40,
+  "academic_recordings": 20,
+  "visual_recordings": 20,
+  "recordings_per_content_quarter": [
+    10,
+    10,
+    10,
+    10
+  ],
+  "maximum_video_free_content_gap": 1,
+  "recordings_in_final_ten_content_slides": 6,
+  "paragraphs": 234,
+  "rendered_paragraphs_passing": 234,
+  "generic_failures": 0,
+  "course_failures": 0,
+  "full_recording_decodes_passed": 40,
+  "original_movie_bytes_retained": 37,
+  "compatibility_conversions": 2,
+  "lossless_remuxes": 1,
+  "source_hashes_and_native_resolution_frame_rate_audio_verified": true,
+  "maximum_duration_difference_seconds": 0.031666000000001304,
+  "embedded_hashes_relationships_and_timing_verified": true,
+  "all_slides_visually_reviewed": true,
+  "source_figure_panels_reviewed": true,
+  "fonts": [
+    "BAAAAA+ArialMT",
+    "CAAAAA+Arial-BoldMT"
+  ],
+  "static_pdf_multimedia_annotations": 0,
+  "desktop_powerpoint_playback_tested": false,
+  "pptx": {
+    "filename": "From_Sound_to_Neural_Signals_Peripheral_Auditory_System_Part_I.pptx",
+    "bytes": 390454086,
+    "sha256": "5fc13812666d0c50c4a8a8b20b49c5bffabcbe23864e651453d18df98c7e4904"
+  },
+  "static_pdf": {
+    "filename": "From_Sound_to_Neural_Signals_Peripheral_Auditory_System_Part_I_Static.pdf",
+    "bytes": 14432255,
+    "sha256": "81847a2f623f2be3a0fa30c88ce6b91e814ba23b110c3613c0ca8d809d9dd916"
+  }
+}
