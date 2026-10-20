@@ -1,0 +1,51 @@
+{
+  "content_commit": "e6cfa46be3f00018568c370f0e842aa7111198d0",
+  "verified_utc": "2026-10-20T10:48:07.175020+00:00",
+  "title": "The Rhythmic Brain: Why We Sleep and How the Body Keeps Time",
+  "slides": 86,
+  "embedded_videos": 40,
+  "recordings_per_quarter": [
+    10,
+    10,
+    10,
+    10
+  ],
+  "primary_papers": 31,
+  "checked_course_source_overlaps": 0,
+  "pptx": {
+    "filename": "The_Rhythmic_Brain_Sleep_and_Biological_Rhythms.pptx",
+    "bytes": 987254984,
+    "sha256": "471459b1ce218aeec47edd55ffd34a632ab8f8082979282c3dbe58d2276aac4e",
+    "url": "https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/e6cfa46be3f00018568c370f0e842aa7111198d0/chapters/C09/The_Rhythmic_Brain_Sleep_and_Biological_Rhythms.pptx",
+    "http_status": 206,
+    "content_range": "bytes 0-255/987254984",
+    "content_type": "application/octet-stream",
+    "remote_bytes": 987254984,
+    "first_256_bytes_match": true,
+    "published_lfs_oid_matches_sha256": true
+  },
+  "static_pdf": {
+    "filename": "The_Rhythmic_Brain_Sleep_and_Biological_Rhythms_Static.pdf",
+    "bytes": 10045215,
+    "sha256": "16caadf2c2e6e964a814cdc61ac53d89029839cc9e683aa18d9dfae5e71b910a",
+    "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/e6cfa46be3f00018568c370f0e842aa7111198d0/chapters/C09/The_Rhythmic_Brain_Sleep_and_Biological_Rhythms_Static.pdf",
+    "http_status": 206,
+    "content_range": "bytes 0-255/10045215",
+    "content_type": "application/octet-stream",
+    "remote_bytes": 10045215,
+    "first_256_bytes_match": true,
+    "full_remote_sha256_verified": true
+  },
+  "presenton_export": {
+    "url": "https://api.presenton.ai/s/_teRYxsgFThsAWTy0ceBK5KVeAXFyaEy",
+    "message": null,
+    "id": 19639
+  },
+  "presenton_preview": {
+    "url": "https://presenton.ai/presentation-preview?t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiaHRtbC10by1hbnktcHJldmlldyIsImh0bWxfdG9fYW55X2NyZWF0aW9uIjoxOTYzOSwiZXhwIjoxNzkyNTc5Mjc1fQ.12-0Ij2poCqcDWSC-6K9lEIvpvbQRorSL_Tpj4C4EXw"
+  },
+  "fonts": [
+    "Arial"
+  ],
+  "desktop_powerpoint_playback_tested": false
+}
