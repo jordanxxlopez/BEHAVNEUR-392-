@@ -1,0 +1,45 @@
+{
+  "slides": 100,
+  "content_slides": 98,
+  "foundation_slides": 32,
+  "research_slides": 66,
+  "article_figure_slides": 84,
+  "embedded_distinct_mp4s": 50,
+  "academic_recordings": 25,
+  "visual_recordings": 25,
+  "recordings_per_content_quarter": [
+    13,
+    12,
+    13,
+    12
+  ],
+  "recordings_in_final_ten_content_slides": 5,
+  "paragraphs": 294,
+  "rendered_paragraph_audit": "294/294 pass 5\u20137 rendered lines; hashes identify final files.",
+  "all_source_and_embedded_video_hashes_match": true,
+  "all_package_relationships_resolve": true,
+  "native_video_timing_entries": true,
+  "full_video_decode_pass": true,
+  "source_dimensions_frame_rates_audio_presence_channels_and_sample_rates_preserved": true,
+  "one_pixel_padding_for_odd_source_dimensions": 1,
+  "h264_transcodes": 8,
+  "lossless_remuxes": 7,
+  "unchanged_original_mp4s": 35,
+  "audio_compatibility_conversions": "Two original PCM soundtracks encoded to AAC for MP4 playback; timing, sample rate, channels, and audible content retained.",
+  "minimum_conversion_first_60_frames_ssim": 0.98701,
+  "static_pdf_has_100_pages_and_no_video_attachments": true,
+  "fonts": [
+    "Arial"
+  ],
+  "desktop_powerpoint_playback_tested": false,
+  "pptx": {
+    "filename": "The_Listening_Brain_Central_Auditory_System.pptx",
+    "bytes": 563301809,
+    "sha256": "99d7460e96f572fc3232f47fd5cf32f1dde615fb7fba6dcc18266d45cc94668e"
+  },
+  "static_pdf": {
+    "filename": "The_Listening_Brain_Central_Auditory_System_Static.pdf",
+    "bytes": 13032681,
+    "sha256": "93acf84e4666984e52a91efd3cbcb54fb0ee8d407dccae30b239f0b651b421ab"
+  }
+}

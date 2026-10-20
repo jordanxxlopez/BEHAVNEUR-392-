@@ -1,0 +1,1346 @@
+{
+  "9": {
+    "content_id": "9",
+    "original_publisher_figure": "figures/PMC12726825_fig3.jpg",
+    "original_sha256": "a1c39cc619c546446382b03dac7145a972ba11b0c47637b5a91f68a2f54575b9",
+    "source_url": "https://cdn.elifesciences.org/articles/106415/elife-106415-fig3-v1.jpg",
+    "box": [
+      0.315,
+      0,
+      1,
+      0.397
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_09.png",
+    "original_figure_legend": "Figure 3.3D morphometry of oligodendrocytes showed distinct differences between tract and nucleus laminaris (NL) regions.(A) Timeline of experiments. In ovo electroporation and A3V transfection were performed at E2 (HH stage 11–12) and E2–3 (HH stage 15–16), respectively, and brainstem was observed at E21. (B) Two types of plasmid vectors were introduced to visualize mature oligodendrocytes using in ovo electroporation. iOn-MBP∞paltdTomato expresses tdTomato with a palmitoylation signal (paltdTomato) under the control of the MBP promoter after the genomic integration. pCAG-hyPBase integrates the above plasmid into the genome by expressing hyperactive piggyBac transposase. (C) A3V-GFP was injected into neural tube to visualize the axon of nucleus magnocellularis (NM) neurons. (D) GFP and paltdTomato expressions in a 200-μm-thick slice (upper; scale bars is 200 µm) and magnified images of single oligodendrocytes at tract and NL regions (lower; scale bars is 20 µm). NM neurons and their axons were densely labeled with GFP (green), while mature oligodendrocytes were sparsely labeled with paltdTomato (magenta). (E–G) Myelin morphometry showed concordance with internodal length and their uncorrelation with myelin diameter. Length (E) and diameter (F) of myelin sheaths were compared between regions, and their relationship (G) was evaluated with Spearman’s rank correlation coefficient (rs). These parameters did not correlate with each other at both regions. Tract: n=47 myelins, N=3 chicks; NL: n=52 myelins, N=3 chicks. (H–M) Oligodendrocyte morphometry highlighted their regional heterogeneity. Number (H), total length (I), average length of myelin sheaths (J) per oligodendrocyte, and cross-sectional area of cell body (K) were compared between regions. The relationship between total (L) or average (M) myelin lengths and the number of myelin sheaths was evaluated with Spearman’s rank correlation coefficient (rs). Total and average myelin lengths showed increasing and decreasing tendencies, respectively, with an increase of myelin processes. (H, I, J, L, M) n=31 cells, N=4 chicks for tract, n=18 cells, N=3 chicks for NL. (K) n=38 cells, N=3 chicks for tract, n=65 cells, N=3 chicks for NL. Statistical analysis: Wilcoxon rank sum test (E, H, J, K), two-tailed Welch’s t-test (F), and two-tailed Student’s t-test (I): *p<0.05, **p<0.01, n.s., not significant. Figure 3—source data 1.Quantitative measurements with associated statistical analyses and effect size visualizations underlying Figure 3E-M."
+  },
+  "5": {
+    "content_id": "5",
+    "original_publisher_figure": "figures/PMC10435236_fig2.jpg",
+    "original_sha256": "67e2cd3cb58a7710bc46bcebb2038e574a68352e0dc19e74335d4b70f54e1476",
+    "source_url": "https://cdn.elifesciences.org/articles/83393/elife-83393-fig2-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.27
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_05.png",
+    "original_figure_legend": "Figure 2.Two competing models for synaptic convergence evaluated using size profiles of endbulb terminals.(A) Coincidence Detection model, all inputs are subthreshold (small circles), have similar weight, and at least two inputs are active in a short temporal window to drive a postsynaptic spike. Each vertical bar is a presynaptic spike and each row is a separate auditory nerve (AN) input. Bottom line is activity of postsynaptic globular bushy cell (GBC). EPSPs are solid; action potentials indicated by vertical arrows. Dotted lines are inputs that occur during the refractory period (solid bar). Drawn after Joris et al., 1994a. (B) First-Latency model, whereby all inputs are suprathreshold (large circles), have similar weight, and the shortest latency input drives a postsynaptic spike. Longer latency inputs are suppressed during the refractory period. For a periodic sound, both models yield improved phase-locking in the postsynaptic cell relative to their auditory nerve (AN) inputs. (C) Histogram of input sizes, measured by apposed surface area (ASA), onto GBC somata. Minimum in histogram (vertical bar) used to define large somatic inputs (arrow). Inset: Top. Size distribution of somatic terminals traced to auditory nerve fibers within the image volume. Middle. Size distribution of somatic terminals with myelinated axons that exited the volume without being traced to parent fibers within volume. Bottom. Size distribution of somatic terminals with unmyelinated axons. Some of these axons may become myelinated outside of the image volume. Small terminals (left of vertical dashed lines) form a subset of all small terminals across a population of 15 GBCs. See Figure 2—figure supplement 1 for correlations between ASA and soma areas. (D) Plot of ASAs for all inputs to each cell, linked by lines and ranked from largest to smallest. Size of largest input onto each cell projected as a histogram onto the ordinate. Dotted line indicates a minimum separating two populations of GBCs. Linked ASAs for GBCs above this minimum are colored black; linked ASAs for GBCs below this minimum are colored red. (E, F). All large inputs for two representative cells. View is from postsynaptic cell. (E) The largest input is below threshold defined in panel (D). See Figure 2—figure supplement 2 for all 12 cells with this input pattern. (F) The largest input is above threshold defined in panel (D). All other inputs have similar range as the inputs in panel (E). See Figure 2—figure supplement 3 for all 9 cells with this input pattern. Scale bar omitted because these are 3D structures with extensive curvature, and most of the terminal would be out of the plane of the scale bar. See Figure 2—video 1 to view the somatic inputs on GBC18.Figure 2—figure supplement 1.Morphological correlations for synapse and somatic area, related to Figure 2C and D.Morphological correlations for synapse and somatic area, related to Figure 2C and D. (A) There was no relationship between cell body surface area (SA) and the apposed surface area (ASA) of the largest input. (B) There was a weak correlation between the somatic coverage by large inputs and the largest input area. (C) There was no correlation between cell body area and the number of large inputs. (D) There was no correlation between the area coverage by large inputs and the cell body area.Figure 2—figure supplement 2.Large somatic terminals onto each globular bushy cell (GBC) that fit the Coincidence Detection model, related to Figure 2E.Terminal groups are arranged from top left to bottom right in order of decreasing size of their largest input. Apposed surface area (ASA) is indicated next to each terminal. The number of terminals ranges from 5 (GBC12) to 12 (GBC19). Six of these GBCs (label enclosed in blue box) had dendrites fully reconstructed and were used for compartmental modeling. The extent of their local dendrite branching is indicated by L, low; M, moderate; D, dense. Scale bar omitted because these are 3D structures and most of the terminal would be out of the plane of the scale bar.Figure 2—figure supplement 3.Large terminals onto each globular bushy cell (GBC) that fit the mixed Coincidence Detection/First-Arrival model, related to Figure 2F.Terminal groups are arranged from top left to bottom right in order of decreasing size of their largest input. Apposed surface area (ASA) is indicated next to each terminal. The number of terminals ranges from 5 (GBC14, GBC16) to 12 (GBC08). Four of these GBCs (label enclosed in blue box) had dendrites fully reconstructed and were used for compartmental modeling. The extent of their local dendrite branching is indicated by L, low; M, moderate; D, dense. Scale bar omitted because these are 3D structures and most of the terminal would be out of the plane of the scale bar.Figure 2—video 1.Exploration of all features of a globular bushy cell (GBC).This video opens with a full view of GBC18, including its dendrites (red), cell body (beige), axon (pink), and all large somatic inputs (various colors). Note that the proximal dendrite and axon emerge from the same pole of the cell. Two endbulb terminals each extend onto the axon (blue arrows) and proximal dendrite (green arrows). The view pans around the cell body to reveal all somatic inputs and short segments of their axons."
+  },
+  "7": {
+    "content_id": "7",
+    "original_publisher_figure": "figures/PMC12726825_fig1.jpg",
+    "original_sha256": "22e9747e7a08ffa7d8db7d31a9beae6720e270ba6493b070ac7d50803c1c6f58",
+    "source_url": "https://cdn.elifesciences.org/articles/106415/elife-106415-fig1-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.225
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_07.png",
+    "original_figure_legend": "Figure 1.Development of Ranvier nodes progressed in a similar time course along nucleus magnocellularis (NM) axons after hearing onset.(A) Axonal projection of NM neurons in the chicken brainstem. NM axon projects to both sides of nucleus laminaris (NL) and forms ‘delay line’ at contralateral NL. VIIIth, auditory nerve. (B) Regional bias in periodic spacing of Ranvier nodes along the main trunk of NM axon. Internodal length is long at the midline tract region and becomes shorter at the NL region in the axon.(C) Development of NM neurons. NM neurons make synaptic contact with NL neurons by E10 and receive synaptic input from the auditory nerve by E12. (D) Immunostaining of AnkG between E12 and P3. Dashed line indicates midline. (E, F) Double immunostaining of AnkG (red) and panNav (green) for (E), and AnkG (red) and Caspr (green) for (F) at tract (upper) and NL (lower) regions from the same slices. (G, H) Ranvier nodes matured on a similar time course across the region. Three types of Ranvier nodes immunostained with AnkG (red), panNav (green), and Caspr (blue) antibodies (G) and their proportions between E15 and P3 (H). These types were determined according to the length of AnkG signals; the signals longer than 3 µm were defined as heminode or immature node according to the number of Nav-negative paranodal domains, and those shorter than 3 µm were defined as mature node. Note that some immature nodes had long nodal domains that exceeded 5 μm. This may correspond to a gap between the two heminodes. E15: n=183 and 177 nodes for tract and NL, N=4 chicks; E18: n=344 and 267 nodes for tract and NL, N=4 chicks; E21: n=267 and 371 nodes for tract and NL, N=4 chicks; P3: n=226 and 412 nodes for tract and NL, N=3 chicks. Scale bars: 200 µm (D) and 5 µm (E–G). Statistical analysis: chi-square test (H) was used to compare the proportions of node types between the regions at each developmental stage. **p<0.01. Figure 1—source data 1.Quantitative measurements with associated statistical analyses underlying Figure 1H."
+  },
+  "6": {
+    "content_id": "6",
+    "original_publisher_figure": "figures/PMC11139475_fig1.jpg",
+    "original_sha256": "fbf2aecd2294e1d474d0c1a7d4a31086d3edc7694d9a3c33caf40dbf9099f775",
+    "source_url": "https://cdn.elifesciences.org/articles/94315/elife-94315-fig1-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.294
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_06.png",
+    "original_figure_legend": "Figure 1.Neurexins are highly expressed in medial nucleus of the trapezoid body (MNTB) neurons.(a) Immunohistochemistry and RNAscope fluorescent in situ hybridization (FISH) showing expression of various isoforms of neurexins in the MNTB, which make glycinergic synapses with lateral superior olive (LSO) neurons. (b) Summary of expression of various isoforms of neurexins in the MNTB of wild-type (WT) mice. Nrxn1 (n = 29), Nrxn2 (n = 29), p = 0.0001; Nrxn1 (n = 29), Nrxn3 (n = 24), p = 0.0001; Nrxn2 (n = 29), Nrxn3 (n = 24), p = 0.0001. (c) Diagram of auditory brainstem and virus injection in Nrxn123 cTKO mice. (d) Representative images of Nrxn3 FISH in the MNTB of mice injected with AAV-EGFP or AAV-Cre-EGFP. Scale bar: 50 μm. (e) Selected ROI(region of interest) in high magnification showing Nrxn3 FISH in MNTB neurons expressing EGFP or Cre-EGFP. Scale bar: 10 μm. (f) Summary of expression of various neurexins in the MNTB of Nrxn123 cTKO mice injected with AAV-EGFP and AAV-Cre-EGFP. Nrxn1: EGFP (n = 9), Cre (n = 19), p = 0.0053; Nrxn2: EGFP (n = 8), Cre (n = 14), p = 0.0038; Nrxn3: EGFP (n = 9), Cre (n = 14), p = 0.0016. Data are means ± standard error of the mean (SEM). Number of sections analyzed are indicated in the bars (b, f); statistical differences were assessed by Student’s t-test (**p < 0.01, ***p < 0.001). Source data are provided as a Source Data file."
+  },
+  "13": {
+    "content_id": "13",
+    "original_publisher_figure": "figures/PMC6707786_fig9.jpg",
+    "original_sha256": "7eabc956f69ee8b19225a8516bcdb06316110680862436c89cc733ad1313e1d3",
+    "source_url": "https://cdn.elifesciences.org/articles/48932/elife-48932-fig9-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_13.png",
+    "original_figure_legend": "Figure 9.One frame of volume rendered animations for comparing histology (BigBrain), post-mortem MRI, in-vivo MRI unthresholded positive t-values group average and in-vivo MRI clusters of significant activity overlapping in at least four subjects in each voxel.Figure 9—﻿video 1.3D volume rendered comparisons in MNI space.10.7554/eLife.48932.024"
+  },
+  "11": {
+    "content_id": "11",
+    "original_publisher_figure": "figures/PMC12726825_fig2.jpg",
+    "original_sha256": "c189ae3a6d17d00881d6d5ac532182fd0077fa31beedc0a1fa844204e7833a46",
+    "source_url": "https://cdn.elifesciences.org/articles/106415/elife-106415-fig2-v1.jpg",
+    "box": [
+      0,
+      0.65,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_11.png",
+    "original_figure_legend": "Figure 2.Regional differences in internodal length were evident during development.(A, B) Immunostaining of MAG between E9 and E21 (A). Boxes with numbers at E15 are magnified (B). (C) Double immunostaining of MAG (red) and Olig2 (green), a marker of oligodendrocyte lineage cells, at E15. (D) Localization of MAG (green), AnkG (red), and Nav (blue) on heminode at E15. (E) Ranvier node is formed by restricting a gap between adjacent two heminodes during development. Note that paranodal domains, flanking the Nav-positive nodal domain, accompany fibrous AnkG clustering in heminode but not in mature node. (F, G) Regional difference in internodal length appeared during the period of node formation. The axons were labeled with rhodamine dextran (red) and stained with Caspr antibody (green) at E18 and P9 (F). Internodal length was measured as a distance between adjacent mature/immature nodes (G). Boxes with numbers correspond to high-magnification images of each node. E18: n=41 internodes, N=4 chicks for tract, n=38 internodes, N=11 chicks for NL; P9: n=43 internodes, N=7 chicks for tract, n=62 internodes, N=10 chicks for NL. Scale bars: 200 µm (A), 50 µm (B), 30 µm (F, upper), 20 µm (C), and 5 µm (D and F, lower). Statistical analysis: Kruskal–Wallis test and post hoc Steel–Dwass test (G) was used to compare different developmental stages in the same region and different regions at the same developmental stage: *p<0.05, **p<0.01. Figure 2—source data 1.Quantitative measurements with associated statistical analyses and effect size visualizations underlying Figure 2G. Figure 2—figure supplement 1.Immunosignals of MAG and AnkG along nucleus magnocellularis (NM) axons appeared concurrently at E13.(A–B) Double immunostaining for MAG (green) and AnkG (red) between E12 and E15 (A). Boxes for each developmental stage at the NL region are magnified in (B). The MAG immunosignals began to extend along NM axons at E13 and became progressively more intense with development. Although AnkG immunosignals were already evident at the axon initial segments of neurons throughout the brainstem at earlier stages, detectable AnkG clusters along NM axons appeared sparsely only after E13 and became more prominent with development. These observations are consistent with the concept that Ranvier nodes form as myelin sheaths mature. Scale bars, 200 µm (A) and 20 µm (B)."
+  },
+  "3": {
+    "content_id": "3",
+    "original_publisher_figure": "figures/PMC10435236_fig1.jpg",
+    "original_sha256": "cbdaac036c1286dbe1206560a81fe996d1d2acf2eee4fa65b1b45e43d34e4ee4",
+    "source_url": "https://cdn.elifesciences.org/articles/83393/elife-83393-fig1-v1.jpg",
+    "box": [
+      0,
+      0,
+      0.687,
+      0.68
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_03.png",
+    "original_figure_legend": "Figure 1.The imaged volume in the cochlear nucleus captures globular bushy (GBC) and multipolar cells (MC), and reveals synaptic sites.(A) The VCN region that was imaged using SBEM is depicted within walls of the image volume. Twenty-six GBCs (beige) and 5 MCs (orange) are shown with their axons (red). Left rear wall transects auditory nerve (anf) fascicles, which run parallel to the right rear wall and floor. Non-anf axons exit into the right rear wall and floor as part of other fascicles that are cross-sectioned. The complete volume can be viewed at low resolution in Figure 1—video 1. (B) Example image, cropped from the full field of view, from the data set in panel A. Field of four GBC (gbc) cell bodies, myelinated axons in anf fiber fascicles, and capillaries (c). (C) Closeup of the cell body (cb) of lower right GBC from panel B, illustrating the eccentrically located nucleus (n), short stacks of endoplasmic reticulum (er) aligned with the cytoplasm-facing side of the nuclear envelope, and contact by an endbulb (eb). (D) Closeup of the labeled endbulb contacting the cell in panel C (eb), revealing its initial expansion along the cell surface. Apposed pre- and postsynaptic surface area (ASA; green) are accurately determined by excluding regions with intercellular space (ASA is discontinuous), and synaptic sites (s1-4) are indicated as clusters of vesicles with some contacting the presynaptic membrane. (D’) Inset in panel D is closeup of synapse at lower left in panel D. It shows defining features of synapses in these SBEM images, which include clustering of vesicles near the presynaptic membrane, convex shape of the postsynaptic membrane, and in many cases a narrow band of electron-dense material just under the membrane, as evident here between the ‘s1’ symbol and the postsynaptic membrane.Green line indicates regions of directly apposed pre- and postsynaptic membrane, and how this metric can be accurately quantified using EM. (E) Histogram of all somatic surface areas generated from computational meshes of the segmentation. GBCs are denoted with grey bars and MCs with red bars. (F) Synapse density plotted against ASA shows a weak negative correlation. Marginal histogram of density values is plotted along the ordinate. Scale bars = 5 μm in B, 2 μm in C, 1 μm in D, 250 nm in D’.Figure 1—figure supplement 1.Steps in mesh generation and compartmental representation from EM volumes, related to Figure 1A.(A) Cell membranes of objects (cell body of a bushy cell in this case) were traced and assembled into stacks. Each tissue section appears as a slab, seen clearly in expanded view at right. The slab thickness is the 60nm section thickness used during imaging. (B) The GAMer2 algorithm (Lee et al., 2020b) was used to create a mesh surface enclosing the volume, comprised of isosceles triangles, that preserved real surface irregularities such as small protrusions. (C) Decimation and smoothing algorithms were successively applied until the meshed surface area reached an asymptote (vertical arrow). The change in area for all reconstructed somas are shown. After testing multiple cycles on three cells, values at NS-2 stage (see Materials and methods) were used for all cells.Figure 1—video 1.Exploration of the relation between an image volume and a globular bushy cell (GBC) mesh derived from that volume.This video opens with a top-down view of the SBEM image volume from the ventral cochlear nucleus. The video zooms in as the volume is slowly cut away to reveal GBC05, including its dendrites (red), cell body (beige), axon (pink), and all large somatic inputs (various colors). The perspective then shifts laterally to view several of the large terminals (various colors) contacting the cell body."
+  },
+  "12": {
+    "content_id": "12",
+    "original_publisher_figure": "figures/PMC11588337_fig1.jpg",
+    "original_sha256": "4186262ef9c206d009c1fb31e71daa691c738151b54147a21f16cd149eddd9b1",
+    "source_url": "https://cdn.elifesciences.org/articles/97598/elife-97598-fig1-v1.jpg",
+    "box": [
+      0,
+      0,
+      0.405,
+      0.248
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_12.png",
+    "original_figure_legend": "Figure 1.Simultaneous recording of DCIC population responses to sound azimuth through sTeFo-2P Ca2+ imaging and neuropixels probes.(A) Representative histological section showing AAV transduced jRGECO1a expression across IC. Middle panel inset: Contrast enhanced commissure region of the slice to visualize commissural projections from jRGECO1a expressing IC neurons. Bottom panel: Dotted lines delimit anatomical IC regions according to Paxinos and Franklin, 2001; dashed lines delimit approximate area targeted for imaging. Scale bar: 200 μm. DCIC: dorsal cortex from inferior colliculus. CNIC: Central nucleus from inferior colliculus. ECIC: External cortex from inferior colliculus. Com.: Commissure from inferior colliculus. (B) Schematic representation of the experimental design, incorporating sTeFo 2 P for Ca2+ imaging. (C) Neuropil-corrected and denoised jRGECO1a signals extracted from a representative full dataset. Extracted signals are arranged from dorsal (top) to ventral (bottom) ROI position across the DCIC volume imaged. (D) Representative neuropil corrected and denoised jRGECO1a traces (blue) with their corresponding spike probability traces (gray) and stimulation epochs (color-coded based on stimulus azimuth angle according to (B)) super-imposed. (E) Representative simultaneous recording of a DCIC population from an awake, passively listening mouse, displaying spontaneous, on-going activity (not synchronized to stimulation, arrowheads) and variable sound-evoked response patterns (during sound stimuli). Top trace is the population average response. Sound stimulation epochs are color-coded based on azimuth. (F) Representative histological section showing DiI labeled neuropixels electrode tract across IC. Dotted lines delimit anatomical IC regions according to Paxinos and Franklin, 2001. Scale bar: 500 μm. (G) Same as (B) but representing integration with electrophysiological recording of DCIC population activity with a neuropixels probe. (H) Representative high pass filtered (>300 Hz) voltage traces simultaneously recorded from 100 channels spanning across DCIC in a neuropixels probe shank during an experiment displaying clear unit waveforms captured across neighbouring channels. (I) Same as (E) but showing a representative raster plot of the spike sorted DCIC single-unit activity simultaneously recorded during an experiment.Figure 1—figure supplement 1.Examples of extracted signals for imaging and electrophysiology, together with sound frequency tuning at DCIC.(A) Representative median intensity projection from one sTeFo-2P imaging plane timelapse, extracted from one of our volumetric imaging datasets (left panel, scale bar 100 μm) with superimposed footprints from CaImAn segmented and manually curated ROIs corresponding to recorded units (right panel). (B) Representative raw dF/F0 traces extracted from CaImAn segmented and manually curated ROIs (units, blue) with CaImAn neuropil corrected and denoised output superimposed (red). (C) Schematic representation of a neuropixels probe shank location across DCIC (approximated histologically) highlighting in different colors the channels across which curated single-units were detected after spike sorting with kilosort 2.5 and manual curation with Phy (see methods). (D) 100 superimposed traces from aligned spikes recorded from the color coded channels highlighted in (C), displaying spike amplitude and somatic waveform consistency and spatial attenuation. (E) Correlogram plots from the curated single-units shown in (C,D), displaying very few refractory period violations (vertical dotted lines: 2ms refractory period time window considered). (F) Representative responses to sound frequency (pure tone stimuli) of a frequency-sensitive single-unit. Top panels show the peri-stimulus time histograms and the bottom panels show the corresponding spike raster plots across trials. (G) Representative sound frequency tuning curves from two DCIC sound frequency dependent single-units recorded with neuropixels. Mean and standard deviation are plotted. (H) Relationship between the best frequency of DCIC sound frequency dependent single-units and recording depth. Data from n=4 mice, point color corresponds to the same mouse. X axis is in logarithmic scale. (I) Neuronal signal to noise level (nS/N) histograms from neuropixels recorded DCIC single-units in the absence of sound stimuli (on going activity, gray) and in response to pure tone stimuli trials at the best frequency for all collected single-units (blue) and the sound frequency sensitive subset (red).Figure 1—figure supplement 2.Relationship between DCIC on-going activity and face movements.(A) Schematic representation of the strategy employed to videographically track face movements (ear and snout) during imaging experiments. (B) Representative traces of imaged population activity and ear or snout movement across stimulus azimuth trials. (C) Correlation between the average population activity trace and ear or snout movements across mice. Median value across mice is represented by a horizontal line. (D, E) Histograms of the correlation coefficients between ear or snout movement and the imaged activity of each unit (D) or the top ranked unit subset azimuth dependent, (E) across mice."
+  },
+  "4": {
+    "content_id": "4",
+    "original_publisher_figure": "figures/PMC10435236_fig2.jpg",
+    "original_sha256": "67e2cd3cb58a7710bc46bcebb2038e574a68352e0dc19e74335d4b70f54e1476",
+    "source_url": "https://cdn.elifesciences.org/articles/83393/elife-83393-fig2-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_04.png",
+    "original_figure_legend": "Figure 2.Two competing models for synaptic convergence evaluated using size profiles of endbulb terminals.(A) Coincidence Detection model, all inputs are subthreshold (small circles), have similar weight, and at least two inputs are active in a short temporal window to drive a postsynaptic spike. Each vertical bar is a presynaptic spike and each row is a separate auditory nerve (AN) input. Bottom line is activity of postsynaptic globular bushy cell (GBC). EPSPs are solid; action potentials indicated by vertical arrows. Dotted lines are inputs that occur during the refractory period (solid bar). Drawn after Joris et al., 1994a. (B) First-Latency model, whereby all inputs are suprathreshold (large circles), have similar weight, and the shortest latency input drives a postsynaptic spike. Longer latency inputs are suppressed during the refractory period. For a periodic sound, both models yield improved phase-locking in the postsynaptic cell relative to their auditory nerve (AN) inputs. (C) Histogram of input sizes, measured by apposed surface area (ASA), onto GBC somata. Minimum in histogram (vertical bar) used to define large somatic inputs (arrow). Inset: Top. Size distribution of somatic terminals traced to auditory nerve fibers within the image volume. Middle. Size distribution of somatic terminals with myelinated axons that exited the volume without being traced to parent fibers within volume. Bottom. Size distribution of somatic terminals with unmyelinated axons. Some of these axons may become myelinated outside of the image volume. Small terminals (left of vertical dashed lines) form a subset of all small terminals across a population of 15 GBCs. See Figure 2—figure supplement 1 for correlations between ASA and soma areas. (D) Plot of ASAs for all inputs to each cell, linked by lines and ranked from largest to smallest. Size of largest input onto each cell projected as a histogram onto the ordinate. Dotted line indicates a minimum separating two populations of GBCs. Linked ASAs for GBCs above this minimum are colored black; linked ASAs for GBCs below this minimum are colored red. (E, F). All large inputs for two representative cells. View is from postsynaptic cell. (E) The largest input is below threshold defined in panel (D). See Figure 2—figure supplement 2 for all 12 cells with this input pattern. (F) The largest input is above threshold defined in panel (D). All other inputs have similar range as the inputs in panel (E). See Figure 2—figure supplement 3 for all 9 cells with this input pattern. Scale bar omitted because these are 3D structures with extensive curvature, and most of the terminal would be out of the plane of the scale bar. See Figure 2—video 1 to view the somatic inputs on GBC18.Figure 2—figure supplement 1.Morphological correlations for synapse and somatic area, related to Figure 2C and D.Morphological correlations for synapse and somatic area, related to Figure 2C and D. (A) There was no relationship between cell body surface area (SA) and the apposed surface area (ASA) of the largest input. (B) There was a weak correlation between the somatic coverage by large inputs and the largest input area. (C) There was no correlation between cell body area and the number of large inputs. (D) There was no correlation between the area coverage by large inputs and the cell body area.Figure 2—figure supplement 2.Large somatic terminals onto each globular bushy cell (GBC) that fit the Coincidence Detection model, related to Figure 2E.Terminal groups are arranged from top left to bottom right in order of decreasing size of their largest input. Apposed surface area (ASA) is indicated next to each terminal. The number of terminals ranges from 5 (GBC12) to 12 (GBC19). Six of these GBCs (label enclosed in blue box) had dendrites fully reconstructed and were used for compartmental modeling. The extent of their local dendrite branching is indicated by L, low; M, moderate; D, dense. Scale bar omitted because these are 3D structures and most of the terminal would be out of the plane of the scale bar.Figure 2—figure supplement 3.Large terminals onto each globular bushy cell (GBC) that fit the mixed Coincidence Detection/First-Arrival model, related to Figure 2F.Terminal groups are arranged from top left to bottom right in order of decreasing size of their largest input. Apposed surface area (ASA) is indicated next to each terminal. The number of terminals ranges from 5 (GBC14, GBC16) to 12 (GBC08). Four of these GBCs (label enclosed in blue box) had dendrites fully reconstructed and were used for compartmental modeling. The extent of their local dendrite branching is indicated by L, low; M, moderate; D, dense. Scale bar omitted because these are 3D structures and most of the terminal would be out of the plane of the scale bar.Figure 2—video 1.Exploration of all features of a globular bushy cell (GBC).This video opens with a full view of GBC18, including its dendrites (red), cell body (beige), axon (pink), and all large somatic inputs (various colors). Note that the proximal dendrite and axon emerge from the same pole of the cell. Two endbulb terminals each extend onto the axon (blue arrows) and proximal dendrite (green arrows). The view pans around the cell body to reveal all somatic inputs and short segments of their axons."
+  },
+  "22": {
+    "content_id": "22",
+    "original_publisher_figure": "figures/PMC11651653_fig3.jpg",
+    "original_sha256": "34d5e3db3ba8ba01f104cec1244c467060ba7b83bb99a05018d5e0545fc5159f",
+    "source_url": "https://cdn.elifesciences.org/articles/89950/elife-89950-fig3-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_22.png",
+    "original_figure_legend": "Figure 3.Lesioned and non-lesioned mice are indistinguishable in their click detection learning rate and sensitivity.(A) Hit rate, false alarm rate, and d’ over time for lesioned and non-lesioned animals. (B) d’ as a function of sound level. The sound levels used were not identical across all mice and were, therefore, combined into 10 dB wide bins. Error bars indicate 95% confidence intervals."
+  },
+  "16": {
+    "content_id": "16",
+    "original_publisher_figure": "figures/PMC11908782_fig1.jpg",
+    "original_sha256": "b87ca4f6770318b1e7fbd8ea7b43956dbe38952660b4de4a669f5383132d20ea",
+    "source_url": "https://cdn.elifesciences.org/articles/93063/elife-93063-fig1-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_16.png",
+    "original_figure_legend": "Figure 1.A brief illustration of the surgical procedures.(A) A surface view of the mouse’s skull showing the landmarks of the craniotomy over the IC. (B) An image of the bone flap after finishing the drilling. (C–E) A cartoon and two images of the brain surface showing the insertion and the pocket made by the diamond knife at the lateral surface of the left IC. (F–H) A cartoon and two images of the brain surface show the insertion of the microprism into its pocket to directly face the LC after displacing the blade of the diamond knife. (I–K) A cartoon and two images of the brain surface show the final setup of the microprism for two different animals. (L) An image of the brain surface shows the placement of a glass window for the surface imaging of the DC. (M) A cartoon of the coronal section of the IC demonstrating the different fields of views taken along the mediolateral axis parallel to the curvature of the IC surface at different depths (1–5) from the pial surface. Cereb: cerebellum, Ctx: cerebral cortex, DC: dorsal cortex of the IC, IC: inferior colliculus, ICC: central nucleus of the IC, Lam.: lambdoid, LC: lateral cortex of the IC, Sag.: sagittal, SS: sigmoid sinus, Surf: surface, TS: transverse sinus."
+  },
+  "19": {
+    "content_id": "19",
+    "original_publisher_figure": "figures/PMC6707786_fig6.jpg",
+    "original_sha256": "f4ecd1b7424c85294993030e07dc2305e75802447b991a430137452970cef71c",
+    "source_url": "https://cdn.elifesciences.org/articles/48932/elife-48932-fig6-v1.jpg",
+    "box": [
+      0,
+      0,
+      0.55,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_19.png",
+    "original_figure_legend": "Figure 6.In vivo tractography of the subcortical auditory system from 7T diffusion-weighted MRI.Left: 3-D images from one participant. Fiber orientation distribution functions were estimated from diffusion-weighted MRI images of the brainstem and were used for deterministic tractography. Streamlines that passed through functionally defined auditory ROIs (dark grey) are shown here (excluding streamlines through the medulla). Colors represent the local orientation at each specific point along the streamline: blue is inferior-superior, red green is anterior-posterior, and red is left-right. A rotating animation is available in the online resources. Top right: connectivity between subcortical auditory ROIs as a percentage of total brainstem streamlines, averaged over 10 participants. Bottom right: schematic of auditory brainstem connectivity from Gray’s Anatomy of the Human Body. A video of the streamlines is available online: https://osf.io/ykd24/.Figure 6—figure supplement 1.Bar plot of streamline counts through each ROI.Diffusion-weighted MRI tractography streamlines passing through each subcortical auditory region of interest for the ten in vivo participants. Bars represent 95% confidence intervals.Figure 6—﻿video 1.360° rotation video of in vivo streamlines.10.7554/eLife.48932.020"
+  },
+  "21": {
+    "content_id": "21",
+    "original_publisher_figure": "figures/PMC11651653_fig4.jpg",
+    "original_sha256": "1ea2029994efbd2658dafb730725fa4c90e789901364495869aa80ad28792847",
+    "source_url": "https://cdn.elifesciences.org/articles/89950/elife-89950-fig4-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.54
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_21.png",
+    "original_figure_legend": "Figure 4.Transsynaptic targeting and two-photon calcium imaging of corticorecipient inferior colliculus (IC) shell neurons.(A) Coronal section of the left and right IC of a tdTomato-reporter (Ai9) mouse in which AAV1.hSyn.Cre.WPRE had been injected into the right auditory cortex three weeks before perfusion. The transsynaptically transported virus drove the expression of Cre recombinase and tdTomato in neurons that receive input from the auditory cortex, including the corticorecipient neurons in the IC. tdTomato-labeled neurons were predominantly found in the shell of the ipsilateral (right) IC. Scale bar, 500 µm. (B) In vivo two-photon micrograph taken approximately 100 µm below the dorsal surface of the right IC of a GCaMP6f-reporter mouse (Ai95D) in which GCaMP6f expression had been driven in corticorecipient IC neurons by injection of AAV1.hSyn.Cre.WPRE into the right auditory cortex. See Figure 4—video 1 for the corresponding video recording. Scale bar, 100 µm. (C) Example average response profiles of five corticorecipient IC neurons for different trial outcomes. Vertical line at time 0 s indicates the time of click presentation. Shaded areas represent 95% confidence intervals.Figure 4—figure supplement 1.Averaged response profiles for stimulus and catch trials.Stimulus trials are binned into four different sound level ranges and separated into hit and miss trials. Catch trials are separated into false alarms and correct rejections. Shaded areas represent 95% confidence intervals.Figure 4—video 1.Two-photon calcium imaging was performed approximately 100 µm below the dorsal surface of the right inferior colliculus (IC) of a GCaMP6f-reporter mouse (Ai95D) engaged in a sound detection task.GCaMP6f expression had been driven in corticorecipient IC neurons by injection of AAV1.hSyn.Cre.WPRE into the right auditory cortex. Video is played at twice the speed of acquisition and corresponds to the micrograph shown in Figure 4B."
+  },
+  "17": {
+    "content_id": "17",
+    "original_publisher_figure": "figures/PMC6834370_fig9.jpg",
+    "original_sha256": "6a5ab5a6e72a2efd54334168dacafaf2de1eeeeb1ee172cff0541a362bdd86fd",
+    "source_url": "https://cdn.elifesciences.org/articles/49091/elife-49091-fig9-v1.jpg",
+    "box": [
+      0,
+      0,
+      0.78,
+      0.52
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_17.png",
+    "original_figure_legend": "Figure 9.Comparison of tonotopic organization with histological data and literature.(A) Epifluorescence image of the IC in a horizontal brain section stained for GAD67. This brain slice was from a Gad2;Ai96 mouse after two-photon imaging. Black straight line indicates the minimum frequency location derived from fitting two-photon imaging data. Dashed curve represents the demarcation between the dorsal and the lateral (external) cortices traced from version 3 of the Allen Reference Atlas. Circles connected with solid and broken lines mark the demarcation at the dorsal brain surface traced from the atlas by Paxinos and Franklin (2001). The rostral and caudal end of this demarcation are marked by a dashed line because at the indicated positions on the anterior-posterior axis the whole structure was labeled as LCIC or DCIC, respectively. Modules with dense GAD67 staining, considered to be a hallmark for the LCIC, were observed both medially and laterally from each of the three demarcations (arrowheads). We observed a region in the center of the IC whose GAD67 staining density was at least as strong as in the neurochemical modules (square labeled B). (B–D) Single confocal optical sections of GAD67 (black) and GCaMP6s (green) staining in different areas of the brain slice corresponding to the yellow squares in A. (B) Dense GAD67 area in the central region of the IC (<80 µm from dorsal surface). (C) An area showing a GAD67-dense module (m) in the center, cut transversely and surrounded by extramodular region (e) with sparse GAD67 staining. (D1-2) Optical sections at different focal depths of an area showing another GAD67 module from the same slice (m), cut tangentially. Arrow in D2 indicates a cell showing motion-related responses. (E) Similar to A but from an imaged GP4.3 mouse. (F) Single confocal section for GCaMP6s (green) and GAD67 (black) staining in region marked in E. Arrow marks another cell with motion-related response. Scale bars, A,E: 500 μm; B-D,F: 50 μm.Figure 9—figure supplement 1.GAD67 staining in the IC of a series of consecutive 40 μm horizontal brain slices from the same Gad2;Ai96 animal as in Figure 9A (animal: 12156–04), displayed from dorsal (top-left) to ventral (right-bottom) showing that the fainter GAD67 staining highlighted in Figure 9A is contiguous with the well-stained neurochemical modules in more ventral slices (arrowheads and numbers).Same sections as supplements 2 & 3.Figure 9—figure supplement 2.Calretinin staining in the IC of a series of consecutive 40 μm horizontal brain slices from the same Gad2;Ai96 animal as in Figure 9A (animal: 12156–04), displayed from dorsal to ventral (left to right, top to bottom).Same sections as supplements 1 and 3.Figure 9—figure supplement 3.GFP staining of GCaMP6s in the IC for a series of consecutive 40 μm horizontal brain slices from the same Gad2;Ai96 animal as in Figure 9A (animal: 12156–04), displayed from dorsal to ventral (left to right, top to bottom).Same sections as supplements 1 and 2.Figure 9—figure supplement 4.GAD67 staining in the IC of a series of consecutive 40 μm horizontal brain slices from the same GP4.3 animal as in Figure 9E (animal: 11605–04; C57BL/6J background), displayed from dorsal (top-left) to ventral (right-bottom), showing that the fainter GAD67 staining highlighted in Figure 9E is contiguous with the well-stained neurochemical modules in more ventral slices (arrowheads and numbers).Same sections as supplements 5 and 6. Figure 9—figure supplement 5.Figure 9—figure supplement 5.Calretinin staining in the IC of a series of consecutive 40 μm horizontal brain slices from the same GP4.3 animal as in Figure 9E (animal: 11605–04; C57BL/6J background), displayed from dorsal to ventral (left to right, top to bottom).Same sections as supplements 4 and 6.Figure 9—figure supplement 6.GFP staining of GCaMP6s in the inferior colliculus for the series of consecutive 40 μm horizontal brain slices from the same GP4.3 animal as in Figure 9E (animal: 11605–04; C57BL/6J background), displayed from dorsal to ventral (left to right, top to bottom).Same sections as supplements 4 and 5.Figure 9—video 1.Video showing the 3D reconstruction of the most dorsal aspect of the left and right inferior colliculi in animal 12156–04 from 40 μm serial sections.GAD67-dense modules are marked in both ICs. The same sections used for reconstruction are shown in Figure 9A and Figure 9—figure supplements 1–3.10.7554/eLife.49091.041"
+  },
+  "25": {
+    "content_id": "25",
+    "original_publisher_figure": "figures/PMC10435236_fig8.jpg",
+    "original_sha256": "98d8b6d466512c8a5aade19f5c1e85bcbc17f348f3f19c03b4dbee2cb3439ab6",
+    "source_url": "https://cdn.elifesciences.org/articles/83393/elife-83393-fig8-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.468
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_25.png",
+    "original_figure_legend": "Figure 8.Synaptic map of GBC with modeled effects of removing non-innervated dendrites.(A) GBC09 oriented to show inputs (din) to dendrites (red, d), including proximal dendrite (pd), primary hub (h) and cell body (gray, cb). Nerve terminals are colored randomly. Terminals contacting dendrites at higher order sites than the primary hub are bouton-type of varying volume. (A) Closeup view of pd reveals high density innervation by primarily bouton terminals that can be linked by small connections (cyan arrowheads), and extension of a somatic endbulb onto the basal dendrite (arrow). (B) Top-down view of dendrites only, illustrating that some branches are not innervated (longest non-innervated branches indicated by arrows) and that other branches are innervated at varying density. (C) Bouton terminals innervate all regions of the cb surface. Some boutons are linked by narrow connectors (cyan arrowheads). The cb is removed to better reveal circumferential innervation. (D) Inside-out view of cb innervation by endbulbs (ebs; each is numbered and a different color) reveals that they cover most of the cb surface. Cb removed to reveal synaptic face of ebs. (E) Cross section through primary hub (h), showing filamentous core (f), mitochondria (m), input terminals (asterisks), and contact with dendrite of another cell. (F) Non-innervated dendrites (d) can be embedded in bundles of myelinated (my) axons (ax), and also ensheathed by glial cells (gl) and their processes (lines). (G) Both dendrite swellings (sw) and shafts (sh) can be innervated (asterisks). (H) Proximal dendrites are innervated at highest density (number of inputs / surface area), and hubs, swellings and shafts are innervated at similar density. Scale bars: 1 μm in each panel. (I–M) Simulation results after pruning the non-innervated dendrites from this cell. (I) Voltage responses to current pulses, as in Figure 4—figure supplement 3, comparing the intact cell (black traces) with one in which non-innervated have been pruned (cyan traces). (J) IV relationship of data in (I) Cyan triangle indicates the spike threshold with the dendrites pruned compared to the intact cell (red circle). (K) Spikes elicited by the 4 largest individual inputs at 30 dB SPL with the dendrites pruned (compare to data shown in Figure 4A3). (L) Comparison of the efficacy of individual inputs between intact and pruned cell as a function of ASA. The red and light blue lines (Group1 and Group2) are reproduced from Figure 4D. (M) Comparison of VS to SAM tones in the intact and pruned configuration. Inset: Rate modulation transfer function (rMTF) comparing intact and pruned dendritic trees. Colors and symbols match legend in (L). Dark red line is the rMTF for the auditory nerve input.Figure 8—video 1.Exploration of a globular bushy cell (GBC) and all of its synaptic inputs.This video opens with a full view of GBC09, including its dendrites (red), cell body (beige), axon (pink), all somatic inputs (various colors), and all dendritic inputs (various colors). The cell undergoes a full rotation to display all of the inputs. The view zooms into the axon region, and rotates to illustrate all inputs onto the axon, including extensions of two large terminals (blue arrows pointing to purple and yellow terminals). The view zooms out to show the entire cell, the dendrites are removed, and the cell body is tilted. A cut plane passes from the edge to the middle of the cell, providing an inside-out view of the nearly complete synaptic coverage of the cell body. Large terminals are indicated by cyan arrows. All cellular elements are added, and the view shifts to reveal dense innervation of the proximal dendrite, including an extension of a large terminal (green terminal indicated by green arrow). The perspective shifts to a top-down view of the dendrites, indicating several dendritic branches (yellow arrows) that lack synaptic inputs."
+  },
+  "28": {
+    "content_id": "28",
+    "original_publisher_figure": "figures/PMC12456947_fig1.jpg",
+    "original_sha256": "2702dc76e84d811f17810fbae3220ca9515189294fd9ba6dac1723d68e3da4d9",
+    "source_url": "https://cdn.elifesciences.org/articles/106628/elife-106628-fig1-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.425
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_28.png",
+    "original_figure_legend": "Figure 1.Hemodynamic activity reflects encoding of foregrounds and backgrounds.(A) Stationarity for foregrounds (squares) and backgrounds (diamonds). (B) Sound presentation paradigm, with example cochleagrams. We created continuous streams by concatenating 9.6 s foreground (cold colors) and background segments (warm colors) following the illustrated design. Each foreground (resp. background) stream was presented in isolation and with two different background (resp. foreground) streams. (C) We measured cerebral blood volume (CBV) in coronal slices (blue plane) of the ferret auditory cortex (black outline) with functional ultrasound imaging. We imaged the whole auditory cortex through successive slices across several days. Baseline blood volume for an example slice is shown, where two sulci are visible, as well as penetrating arterioles. D: dorsal, V: ventral, M: medial, L: lateral. (D) Changes in CBV aligned to sound changes, averaged across all (including non-responsive) voxels and all ferrets, as well as across all sounds within each condition (normalized to silent baseline). Shaded area represents standard error of the mean across sound segments. (E) Test-retest cross-correlation for each condition. Voxel responses for two repeats of sounds are correlated with different lags. Resulting matrices are then averaged across all responsive voxels (ΔCBV > 2.5%). Figure 1—source data 1.List of sounds used in ferret experiments.Each column corresponds to a different run."
+  },
+  "23": {
+    "content_id": "23",
+    "original_publisher_figure": "figures/PMC10435236_fig3.jpg",
+    "original_sha256": "823e34285552be06861b0aa876b16d89ba828b985d30f59df0bb2af2f958be83",
+    "source_url": "https://cdn.elifesciences.org/articles/83393/elife-83393-fig3-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.42
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_23.png",
+    "original_figure_legend": "Figure 3.Large somatic terminals link to auditory nerve fibers (ANF) through myelinated branch axons of varying length and fascicle organization.(A, B) ANFs and their branches leading to all large inputs for two representative cells. ANF, branch axon and large terminal have same color; each composite structure is a different color. Convergent inputs emerge from multiple fascicles (fascicles circled and named on back left EM wall), but at least two inputs emerge from the same fascicle for each cell (green, purple axons from fascicle 3 in panel (A); yellow, mauve axons from fascicle 7 and green, purple from fascicle 2 in panel (B)). Some branch axons leave image volume before parent ANF could be identified (white arrowheads). Globular bushy cell (GBC) bodies colored beige, dendrites red, axons mauve and exit volume at back, right EM wall; axon in panel A is evident in this field of view. (C) Stacked histogram of branch axons traced to parent ANF (black), branch axons exiting volume without connection to parent ANF (open), small terminals linked to parent ANF (red; included to illustrate these were a minority of endings), arranged by increasing number of large terminals traced to a parent ANF per GBC. GBCs with fewest branch connections to parent ANF (GBC02, 24, 29, 14) were at edge of image volume, so most branch axons could only be traced a short distance. Number of terminals per cell indicated in horizontal histogram at left. (D) Number of axons in each fascicle (left ordinate) and number of axons connected to endbulb terminals per fascicle (red symbols, right ordinate). (E) Example of en passant large terminal emerging directly from node of Ranvier in parent ANF. (F) Constant ratio of fiber diameter (axon +myelin) / axon diameter as demonstrated by linear fit to data. All branch fiber diameters (asterisks) were thinner than ANF parent axon diameters (open circles). (G) Selected cells for which most branch axons were traced to a parent ANF. Lines link the associated conduction delays from parent ANF branch location for each branch, computed using the individual fiber diameters (length / conduction velocity [leftmost circle, vertical dashed arrows] or values scaled by the axon length / axon diameter [rightmost circle, vertical solid arrow]). See Figure 3—video 1 for a detailed 3-D view of GBC11 and its inputs. Scalebar in (E) is 2 μm.Figure 3—video 1.Exploration of all large somatic inputs onto a single globular bushy cell (GBC), their branch axons, and parent auditory nerve fibers.This video opens with a full view of GBC11, including its dendrites (red), cell body (beige), axon (pink), all of its large somatic inputs (various colors), and the auditory nerve fibers (ANFs) from which those inputs originate. Somatic inputs and their axon branches, including the parent ANF, share the same color. The view zooms into the cell body, where a large terminal (red) extends onto the axon hillock and initial segment (blue arrow). The view pans around the cell body to show all large terminals, and an axon (cyan) that exited the volume before likely linking to an ANF is indicated by a red arrow. All except two terminals are then removed. The axons of these terminals are traced to branch points from their parent ANFs (magenta arrows). All inputs and their axons are replaced, and a second axon (green) that exits the volume before likely linking to an ANF is indicated (red arrow). The view pans to two ANFs (red and yellow) from the same nerve fascicle, and their branch points (magenta arrows). All other nerve terminals and axons are removed, and the two branch axons are traced to the cell body."
+  },
+  "30": {
+    "content_id": "30",
+    "original_publisher_figure": "figures/PMC5014546_fig1.jpg",
+    "original_sha256": "aa383fad663b2daed53ac7d696e8361d027aa8b4bbb52477010869a705faa2d8",
+    "source_url": "https://cdn.elifesciences.org/articles/19113/elife-19113-fig1-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_30.png",
+    "original_figure_legend": "Figure 1.Stimuli and behavior.(A) Examples of REG and RAND scenes. The plots represent ‘auditory’ spectrograms, equally spaced on a scale of ERB-rate (Moore and Glasberg, 1983). Channels are smoothed to obtain a temporal resolution similar to the Equivalent Rectangular Duration (Plack and Moore, 1990). Black arrows indicate appearing sources. In these examples, the appearing source is temporally regular. The stimulus set also included scenes in which the appearing source was temporally random (see Materials and methods). (B) Behavioral results (d’ and detection time) as a function of scene temporal structure (REG versus RAND). These are shown for each type of scene change (when the appearing source was temporally regular or when random). Error bars represent within-subject standard error of the mean (SEM; Loftus and Masson, 1994).DOI: http://dx.doi.org/10.7554/eLife.19113.003"
+  },
+  "29": {
+    "content_id": "29",
+    "original_publisher_figure": "figures/PMC4575990_fig3.jpg",
+    "original_sha256": "667eef4f0750bb5502d5999daf0c622da7fcfa8e87f9494b413a43a774e84a25",
+    "source_url": "https://cdn.elifesciences.org/articles/08477/elife-08477-fig3-v1.jpg",
+    "box": [
+      0,
+      0,
+      0.28,
+      0.56
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_29.png",
+    "original_figure_legend": "10.7554/eLife.08477.006Figure 3.IPI tuning of song-induced male-chaining behavior.(A) Song-induced chaining assay. Males court each other when exposed to pulse song with a 35-ms inter-pulse interval (IPI) and robustly form courtship chains (bottom). (B) Chaining indices (CIs) of wild-type males in response to different IPIs. After 60 s of silence, continuous pulse songs were played back with a ramping sound intensity from 60 dB to 90 dB. The intensity was increased every 30 s. n = 14 for all groups. Error bars represent SEM. (C) Heat map visualization of chaining responses in (B). Each cell represents the chaining index at a given IPI and song intensity. (D) CIs of wild-type males in response to intermittent pulse songs with different IPIs at 80 dB. A train of 40 pulses was delivered every five seconds so that the number of pulses was the same for different IPIs. After one minute of silence, two minutes of intermittent pulse song stimuli were presented (indicated by shadowed box), and then followed by two minutes of silence. Chaining persisted and gradually decreased after song presentation. n = 15 for all groups. (E) CIs during the song presentation period in (D) were summed up and plotted as a function of IPIs. Error bars represent SEM. *p < 0.05 when chaining responses at 35-ms IPI were compared to those at 15-, 20-, 25-, 75-, 85-, and 95-ms IPIs (Wilcoxon rank-sum test).DOI: http://dx.doi.org/10.7554/eLife.08477.00610.7554/eLife.08477.008Figure 3—figure supplement 1.Song-induced chaining setup.(A–C) Schematic drawing of chaining chamber design. A 30° sloped wall was made to reduce the probability that flies occlude each other. Flies were introduced through the holes in the slipping acrylic cover on the top of the chamber. (D–F) The chaining chamber was assembled and mounted on an acrylic holder, which was placed at the side of an external speaker. Front light was delivered by two regular fluorescent bulbs from the top.DOI: http://dx.doi.org/10.7554/eLife.08477.008"
+  },
+  "32": {
+    "content_id": "32",
+    "original_publisher_figure": "figures/PMC5014546_fig2.jpg",
+    "original_sha256": "9a9933aa345291dc95f0c4b34af7fbe20315abecce16d3d388ed212de1724373",
+    "source_url": "https://cdn.elifesciences.org/articles/19113/elife-19113-fig2-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_32.png",
+    "original_figure_legend": "Figure 2.RMS time-course of the scene-evoked response showing the main effect of scene temporal structure (REG versus RAND).Thick horizontal green lines indicate time points for which there were significant differences between REG and RAND conditions (p<0.05 FWE corrected at the cluster level; Thin light-green lines show uncorrected clusters). Purple lines indicate (jackknife-estimated) latencies of the onset of the REG versus RAND effect (horizontal and vertical portions indicate mean and jackknife-corrected standard error, respectively). Also shown are topographical patterns at the time of the sustained response (500–800 ms post scene onset), which are characterized by a dipole-like pattern over the temporal region in each hemisphere indicating downward flowing current in auditory cortex (red = source; blue = sink).DOI: http://dx.doi.org/10.7554/eLife.19113.004"
+  },
+  "35": {
+    "content_id": "35",
+    "original_publisher_figure": "figures/PMC7334025_fig3.jpg",
+    "original_sha256": "f12db2c5b4b9d215c03acb41cf69acf270bc1b8b6053e6f61c6ef1fe3877bea4",
+    "source_url": "https://cdn.elifesciences.org/articles/54536/elife-54536-fig3-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_35.png",
+    "original_figure_legend": "Figure 3.Experiment 1 – Responses of the PAM to stimuli from the back speakers, showing intersubject variability: Top panels: Every row corresponds to the averaged response of one participant.Amplitude is encoded in color. The top rows (1-16) represent younger adult participants; the bottom rows (17-28), older adults. Bottom panels: Mean and standard deviation based on the above plots. The following figure supplements are available for Figure 3—figure supplement 1. The described intersubject variability analysis for the AAM, Figure 3—figure supplement 2. SAM, and Figure 3—figure supplement 3. TAM.Figure 3—figure supplement 1.Experiment 1 – Responses of the AAM to stimuli from the back speakers, showing intersubject variability: Top panels: Every row corresponds to the averaged response of one participant.Amplitude is encoded in color. The top rows (1-16) represent younger adult participants; the bottom rows (17-28), older adults. Bottom panels: Mean and standard deviation based on the above plots.Figure 3—figure supplement 2.Experiment 1 – Responses of the SAM to stimuli from the back speakers, showing intersubject variability: Top panels: Every row corresponds to the averaged response of one participant.Amplitude is encoded in color. The top rows (1-16) represent younger adult participants; the bottom rows (17-28), older adults. Bottom panels: Mean and standard deviation based on the above plots.Figure 3—figure supplement 3.Experiment 1 – Responses of the TAM to stimuli from the back speakers, showing intersubject variability: Top panels: Every row corresponds to the averaged response of one participant.Amplitude is encoded in color. The top rows (1-16) represent younger adult participants; the bottom rows (17-28), older adults. Bottom panels: Mean and standard deviation based on the above plots."
+  },
+  "33": {
+    "content_id": "33",
+    "original_publisher_figure": "figures/PMC6491041_fig1.jpg",
+    "original_sha256": "3c22cc77b8ab46a7a4b801a9b37122678a6ab73fd01034939009a0e5f193a08e",
+    "source_url": "https://cdn.elifesciences.org/articles/44526/elife-44526-fig1-v2.jpg",
+    "box": [
+      0,
+      0,
+      0.53,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_33.png",
+    "original_figure_legend": "Figure 1.Population activity in rat auditory cortex during inactive and active states.(A) Exemplary raster plot of 20 s of spontaneous activity in an inactive state (N=141 neurons, sorted by firing rate). (B) Exemplary raster plot of 20 s of spontaneous activity in an active state (N=114 neurons, sorted by firing rate). (C) Stimulus set. The auditory stimuli used throughout this study consisted of brief broad-band (5–20 KHz) noise bursts. The colors represent ILD and the dot sizes represent ABL. This color/size code is maintained throughout our study. (D) Relationship between coefficient of variation (CV) of the total spike count and the fraction of down states across all recorded sessions. Green/orange dots correspond to sessions that we will use as ‘active sessions’ and ‘inactive sessions’ (as the two extremes of the activation-inactivation continuum) but state-dependence will always be assessed using all recordings by regressing various quantities of interest against CV. Black circles show two sessions used for raster plots in (A), (B)."
+  },
+  "36": {
+    "content_id": "36",
+    "original_publisher_figure": "figures/PMC9427107_fig1.jpg",
+    "original_sha256": "e0532587a4d2bf9d7a701d99ba22a535d56177641a71ba4ce0f1eceaf0331d55",
+    "source_url": "https://cdn.elifesciences.org/articles/75839/elife-75839-fig1-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.2
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_36.png",
+    "original_figure_legend": "Figure 1.Audiovisual rule-switching in mice.(A) Virtual foraging environment: a head-fixed mouse runs on a floating spherical treadmill. Locomotion measured by treadmill movement controls auditory and visual stimulus presentation. A water spout in front of the mouse provides rewards. A lickometer records licks, which determines reward or punishment. (B) Trial sequence: during inter-trial intervals, a track of moving dots provides visual feedback for task progression while a random double sweep (RDS) auditory mapping stimulus is presented. Decision stimuli, either unimodal (auditory, A; visual, V) or bimodal (AV), are presented for 1 s. The choice window begins at decision stimulus onset, but trials with early licks (<0.3 s post-stimulus onset) are removed from subsequent analysis. (C) Decision stimuli are tone clouds (TCs; 8 or 17 kHz centered) or drifting gratings (horizontal or vertical orientation). Each mouse is trained to lick for one auditory stimulus and one visual stimulus. Target/distractor stimulus identities were counterbalanced across mice for A- and V-rules. (D) Task sequences, attention cueing, and reward contingencies. (a–b) Behavioral sessions begin with a unimodal block, which cue the rule for the subsequent AV block. Water drops represent target stimuli, when mice have an opportunity for reward. (c) Each session used one of two possible task sequences. (d) Stimulus codes, for reference. (e) Contingencies for water reward, timeout punishment, or task continuation. (E) Example behavior session. (a) Hit rate (HR) and false alarm rate (FAR) across task blocks; trials and outcomes indicated by colored background bars. Mouse locomotion is shown below. (b) Stimulus onset-aligned lick rasters for example session, organized by rule and target/distractor. Note that errors are typically false alarms on trials with ‘conflict’ stimuli: AUVR in A-rule or ARVU in V-rule. (F) Performance for all sessions included in subsequent physiology analysis. (a) HR and FAR for all sessions organized by rule block; dashed lines indicate means. (b) Performance metrics, showing dual inclusion filters: 1. sensitivity index d’ performance index >1.5 for both A-rule and V-rule and 2. FARconf <0.5 for conflict stimuli, as a critical test of modality-selective attention. (c) d’ is similar across task rules in unimodal and AV segments."
+  },
+  "15": {
+    "content_id": "15",
+    "original_publisher_figure": "figures/PMC6834370_fig6.jpg",
+    "original_sha256": "b2fb609bf2b8dfba263697e85a921931595fd1b6124954a2419a87dfa05cedb3",
+    "source_url": "https://cdn.elifesciences.org/articles/49091/elife-49091-fig6-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.458
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_15.png",
+    "original_figure_legend": "Figure 6.Tonotopic organization.(A) Combined spatial distribution of characteristic frequencies (CFs) in the two transgenic lines, aligned to the same top-down image of an exposed left IC. Symbol size represents the size of the ROI, while colors indicate different CFs. Cells from Gad2;Ai96 mice were marked by diamonds. For GP4.3, the shape of the symbol represents ROIs from C57BL/6J (circles) or B6CBAF1 (squares) background. To capture a direction of tonotopy, CF was fitted with a 4th-order polynomial r = x cos⁡θ + y sin⁡θ where r is a presumed direction of tonotopy at an angle θ (i.e. r = xcosθ+ysinθ), with the origin being the contact point between superior and inferior colliculi at the midline. The best fit yielded an angle θ of 50° from the medial-lateral axis. Contour lines indicate the predicted CF of the fit. (B) Geometric mean (open circles) and probability distribution (background shading) of CF along the 50° line, in 75 μm bins. Black trace shows the fitted 4th-order polynomial. (C) Geometric mean of CF along the 50° line for the GP4.3 (black) and Gad2-cre*Ai96 (gray) lines. Size of symbol represent number of cells in each 75 μm bin. (D) Geometric mean of CF for cells of onset, sustained, inhibited or offset FRAs. (E) Depth dependence of CFs along the 50° line. (F) Histogram of CF grouped according to depth from pia surface. Note that low CF cells are present at all imaging depths. Figure 6—source data 1.IC CF Distribution source data CSV file containing 3D coordinate of ROIs, projected distance of ROIs, genotype of animal and type of FRA.Source code for fit function used for fitting the spatial distribution.10.7554/eLife.49091.027 Figure 6—figure supplement 1.Tonotopic organization of a single GP4.3 animal (Mouse 20976–07; B6CBAF1/J background), registered to widefield image in Figure 6A.Figure 6—figure supplement 2.Tonotopic organization of a single GP4.3 animal (Mouse 11605–01; C57BL/6J background), registered to widefield image in Figure 6A.Figure 6—figure supplement 3.Tonotopic organization of a single Gad2;Ai96 animal (Mouse 12156–03), registered to widefield image in Figure 6A.Figure 6—figure supplement 4.Tonotopic organization of a single Gad2;Ai96 animal (Mouse 12156–04), registered to widefield image in Figure 6A.Same animal as Figure 9A.Figure 6—figure supplement 5.Tonotopic organization of a single GP4.3 animal (Mouse 11605–04; C57BL/6J background), registered to widefield image in Figure 6A.Same animal as Figure 9E.Figure 6—figure supplement 6.Tonotopic organization of a single Gad2;Ai96 animal (Mouse 14234–01), registered to widefield image in Figure 6A.Figure 6—figure supplement 7.Relationship between CF and depth of cell.Scatter plot of CF against depth of each ROI from pia surface. Black: all cells; red: cells within the central strip, r = 525–725 μm. Solid lines represent regression lines for the two data sets.Figure 6—figure supplement 8.Tonotopic organization of the most superficial cells.Combined spatial distribution of characteristic frequencies (CFs) for cells within 50 μm of the pia surface in the two transgenic lines, aligned to the same top-down image of an exposed left IC. Symbol size represents the size of the ROI, while colors indicate CFs. Cells from Gad2;Ai96 mice were marked by diamonds. For GP4.3, the shape of the symbol represents ROIs from C57BL/6J (circles) or B6CBAF1 (squares) background. A 4th-order polynomial fit of the superficial cells also yielded a double gradient.Figure 6—video 1.Video of all sound-responsive.ROIs plotted in a common coordinate system, color coded according to their characteristic frequencies. The Z-dimension indicates the depth from pia surface. Numbers on the axes are in μm. The same data appears in Figure 6A,E.10.7554/eLife.49091.028"
+  },
+  "38": {
+    "content_id": "38",
+    "original_publisher_figure": "figures/PMC12585176_fig1.jpg",
+    "original_sha256": "d9c3a2d1d34aba297a35083408a5e1e32edc93fd40d96af8ebdda8262839350d",
+    "source_url": "https://cdn.elifesciences.org/articles/106122/elife-106122-fig1-v1.jpg",
+    "box": [
+      0,
+      0,
+      0.46,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_38.png",
+    "original_figure_legend": "Figure 1.The Multisensory Correlation Detector (MCD) population model.(A) Schematic representation of a single MCD unit. The input visual signal represents the intensity of a pixel (mouth area) over time, while the audio input is the soundtrack (the syllable /ba/). The gray soundtrack represents the experimental manipulation of AV lag, obtained by delaying one sense with respect to the other. BPF and LPF indicate band-pass and low-pass temporal filters, respectively. (C) shows how single-unit responses vary as a function of cross-modal lag. (B) represents the architecture of the MCD population model. Each visual unit (in blue) receives input from a single pixel, while the auditory unit receives as input the intensity envelope of the soundtrack (mono audio; see Figure 4A for a version of the model capable of receiving spatialized auditory input). Sensory evidence is then integrated over time and space for perceptual decision-making, a process in which the two model responses are weighted, summed, corrupted with additive Gaussian noise, and compared to a criterion to generate a forced-choice response (D)."
+  },
+  "39": {
+    "content_id": "39",
+    "original_publisher_figure": "figures/PMC4337603_fig3.jpg",
+    "original_sha256": "2a4386ded2f2ddfa532ea6fcd2d0dbe421527d2353500aafb614a500cff321ed",
+    "source_url": "https://cdn.elifesciences.org/articles/04995/elife-04995-fig3-v1.jpg",
+    "box": [
+      0,
+      0.312,
+      1,
+      0.634
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_39.png",
+    "original_figure_legend": "10.7554/eLife.04995.009Figure 3.Conceptual model of coherence-based cross-modal object formation in the pitch task.Sensory streams are shown as a box containing connected sets of features. Auditory streams are on the left half of the gray sensory boundary and visual on the right. Cross-modal coherence, where present, is shown as a line connecting the coherent auditory and visual features: specifically, the auditory amplitude and the visual size. This results in cross-modal binding of the coherent auditory and visual streams, enhancing each streams' features, which is beneficial in the match-target condition (A), problematic in the match-masker condition (B), and not present in the match-neither condition (C). Attended features are indicated with a yellow ellipse. Enhancement/suppression resulting from object formation is reflected in the strength of the box drawn around each stream's features (i.e., thick lines indicate enhancement, broken lines show suppression).DOI: http://dx.doi.org/10.7554/eLife.04995.009"
+  },
+  "40": {
+    "content_id": "40",
+    "original_publisher_figure": "figures/PMC5828660_fig1.jpg",
+    "original_sha256": "8650d5321c6c661748d54ed6f65b89f6e14e5097261ec676c12667fd14fb7976",
+    "source_url": "https://cdn.elifesciences.org/articles/30387/elife-30387-fig1-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_40.png",
+    "original_figure_legend": "Figure 1.Visual cortex responses to speech.(A) The speech stimuli consisted of audiovisual recordings of a female talker speaking words (AV) edited so that only the visual portion of the recording was presented (Vis) or only the auditory portion of the recording was presented (Aud). Subjects were instructed to fixate the talker’s mouth (AV and Vis conditions) or a fixation point presented at the same screen location as the talker’s mouth (Aud condition). (B) In eight subjects, a total of 73 responsive occipital electrodes were identified. Electrode locations (black circles) are shown on a posterior view (top) and a medial view (bottom) of the left hemisphere of a template brain. (C) Broadband responses (70–150 Hz) to AV (solid line), Vis (dashed line) and Aud (dotted line) speech averaged across electrodes. The red arrow indicates the first time point (400 ms) at which the response to Vis speech was significantly greater than the response to AV speech. On the x-axis, time zero corresponds to the onset of the video (V) followed by the onset of the talker’s mouth movements (M) at 200 ms and onset of auditory speech (A) at 283 ms (orange arrows). (D) The broadband response enhancement (Vis – AV) measured from 200 to 1500 ms. One symbol per electrode (symbols jittered along x-axis for improved visibility)."
+  },
+  "41": {
+    "content_id": "41",
+    "original_publisher_figure": "figures/PMC4337603_fig3.jpg",
+    "original_sha256": "2a4386ded2f2ddfa532ea6fcd2d0dbe421527d2353500aafb614a500cff321ed",
+    "source_url": "https://cdn.elifesciences.org/articles/04995/elife-04995-fig3-v1.jpg",
+    "box": [
+      0,
+      0.634,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_41.png",
+    "original_figure_legend": "10.7554/eLife.04995.009Figure 3.Conceptual model of coherence-based cross-modal object formation in the pitch task.Sensory streams are shown as a box containing connected sets of features. Auditory streams are on the left half of the gray sensory boundary and visual on the right. Cross-modal coherence, where present, is shown as a line connecting the coherent auditory and visual features: specifically, the auditory amplitude and the visual size. This results in cross-modal binding of the coherent auditory and visual streams, enhancing each streams' features, which is beneficial in the match-target condition (A), problematic in the match-masker condition (B), and not present in the match-neither condition (C). Attended features are indicated with a yellow ellipse. Enhancement/suppression resulting from object formation is reflected in the strength of the box drawn around each stream's features (i.e., thick lines indicate enhancement, broken lines show suppression).DOI: http://dx.doi.org/10.7554/eLife.04995.009"
+  },
+  "37": {
+    "content_id": "37",
+    "original_publisher_figure": "figures/PMC4337603_fig1.jpg",
+    "original_sha256": "087f8265c879404b06c1c32ca0773246a15d563f100656c350677cb566419ecf",
+    "source_url": "https://cdn.elifesciences.org/articles/04995/elife-04995-fig1-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.281
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_37.png",
+    "original_figure_legend": "10.7554/eLife.04995.003Figure 1.Construction of the auditory and visual stimuli.(A) Amplitude envelopes shown for 2 s of the target (black) and masker (red) auditory streams. Trials were 14 s long, over which the target and masker envelopes were independent. (B) Visual radius envelopes for the three audio–visual coherence conditions: match-target (black), match-masker (red), and match-neither (blue). (C) Example frames of the visual disc at three radius values, according to the match-target envelope in B. (D) Carrier frequency modulation events for the pitch task. Deflection was one period of a sinusoid, reaching ±1.5 semitones over 100 ms. (E) Changes in vowel formants F1 and F2 for the timbre events. There were two streams, one with vowel /u/ and the other with vowel /a/. Timbre events lasted 200 ms and morphed formants F1 and F2 slightly toward /ε/ and /i/, respectively, and then back to /u/ and /a/. The closed circle endpoints show the steady-state vowel and the open circle point shows the average reversal point across subjects. Note that the change in formats during the morph event was small compared to the distance between vowels in the F1–F2 space. (F) The visual stimulus during a flash (100 ms duration).DOI: http://dx.doi.org/10.7554/eLife.04995.003"
+  },
+  "42": {
+    "content_id": "42",
+    "original_publisher_figure": "figures/PMC7217692_fig1.jpg",
+    "original_sha256": "fdce6e9481f8db83c67216b287e24cb39d0ad2de2fb963fa5ec633c0f4b676a5",
+    "source_url": "https://cdn.elifesciences.org/articles/44516/elife-44516-fig1-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_42.png",
+    "original_figure_legend": "Figure 1.Schematics of the generative model.In a given trial, a speech token ‘k’ determines the amplitudes of degree of lip closure (CV) and magnitude of second formant deflection (CA) by sampling from the appropriate Gaussian distribution. The distributions corresponding to each speech token ‘k’ are represented in the two-dimensional feature space on the right panel. The model also includes sensory noise to account for how these features appear at the sensory periphery (sV and sA)."
+  },
+  "44": {
+    "content_id": "44",
+    "original_publisher_figure": "figures/PMC7217692_fig2.jpg",
+    "original_sha256": "b3915dda62c6d3f608662447436304a6013a1f49f0894f072195ef9397523d14",
+    "source_url": "https://cdn.elifesciences.org/articles/44516/elife-44516-fig2-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_44.png",
+    "original_figure_legend": "Figure 2.Model’s overall performance.Simulation of the Lüttke et al. (2016a) experiment. Model classification across all trials. Each subpanel shows the percentage of /aba/, /ada/ and /aga/ percepts corresponding to each of the six conditions (Ab: acoustic only /aba/; Ad: acoustic only /ada/; Ag: acoustic only /aga/; VbAb: congruent audiovisual /aba/; VgAb incongruent McGurk stimuli with visual /aga/ and acoustic /aba/; VgAg: congruent /aga/). Congruent and acoustic only stimuli are categorized with a high degree of accuracy and McGurk trials are consistently fused, that is, perceived as /ada/. We reproduce the experimental paradigm consisting of six types of stimuli presented in pseudo-random order; three non-ambiguous acoustic only tokens:/aba/, /ada/ and /aga/, and three audiovisual stimuli: congruent /aba/, incongruent visual /aga/with acoustic /aba/(McGurk stimuli), and congruent /aga/."
+  },
+  "45": {
+    "content_id": "45",
+    "original_publisher_figure": "figures/PMC12585176_fig3.jpg",
+    "original_sha256": "bd72d9109cc8e96a78ad35ede020ddd22a5fe779d1a953bd3fc41cbb21cacca9",
+    "source_url": "https://cdn.elifesciences.org/articles/106122/elife-106122-fig3-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.275
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_45.png",
+    "original_figure_legend": "Figure 3.Ecological audiovisual stimuli and model responses.(A) displays the frames and soundtrack of a dynamic audiovisual stimulus over time (in this example, video and audio tracks are synchronous, and the actress utters the syllable /ta/). (B) shows how the dynamic population responses MCDcorr and MCDlag vary across the frames of Panel A. Note how model responses highlight the pixels whose intensity changed with the soundtrack (i.e. the mouth area). The right side of Panel B represents the population read-out process, as implemented for the simulations in Figure 2: the population responses MCDcorr and MCDlag are integrated over space (i.e. pixels) and time (i.e. frames), scaled and weighted by the gain parameters βcorr, and βlag and summed to obtain a single decision variable that is fed to the decision-making stage (see Figure 1D). (C) represents the time-averaged population responses MCDcorr¯ and MCDlag¯ as a function of cross-modal lag (the central one corresponds to the time-averaged responses shown in B). Note how MCDcorr¯ peaks at around zero lag and decreases with increasing lag (following the same trend shown in Figure 1C, left), while polarity of MCDlag¯ changes with the sign of the delay. The psychophysical data corresponding to the stimulus in this figure is shown in Figure 2—figure supplement 1B. See Video 2 for a dynamic representation of the content of this figure."
+  },
+  "43": {
+    "content_id": "43",
+    "original_publisher_figure": "figures/PMC12585176_fig2.jpg",
+    "original_sha256": "3a0bf7c4821947388275126c795a85aa8d7b49e36211334e9f3ddcc68d53964c",
+    "source_url": "https://cdn.elifesciences.org/articles/106122/elife-106122-fig2-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.315
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_43.png",
+    "original_figure_legend": "Figure 2.Natural audiovisual stimuli and psychophysical responses.(A) Stimuli (still frame and soundtrack) and psychometric functions for McGurk illusion (van Wassenhove et al., 2007), synchrony judgments (Lee and Noppeney, 2011), and temporal order judgments (Vroomen and Stekelenburg, 2011). In all panels, dots correspond to empirical data, lines to Multisensory Correlation Detectors (MCD) responses; negative lags represent vision first. (B) Stimuli and results of Alais and Carlile, 2005. The left panel displays the envelopes of auditory stimuli (clicks) recorded at different distances in a reverberant environment (the Sydney Opera House). While the reverberant portion of the sound is identical across distances, the intensity of the direct sound (the onset) decreases with depth. As a result, the centre of mass of the envelopes shifts rightward with increasing distance. The central panel shows empirical and predicted psychometric functions for the various distances. The four curves were fitted using the same decision-making parameters, so that the separation between the curves results purely from the operation of the MCD. The lag at which sound and light appear synchronous (point of subjective synchrony) scales with distance at a rate approximately matching the speed of sound (right panel). The dots in the right panel display the point of subjective synchrony (estimated separately for each curve), while the jagged line is the model prediction. (C) shows temporal order judgments for clicks and flashes from both rats and human observers (Mafi et al., 2022). Rats outperform humans at short lag, and vice-versa. (D) Rats’ temporal order and synchrony judgments for flashes and clicks of varying intensity (Schormans and Allman, 2018). Note that in the synchrony judgment task only the left flank of the psychometric curve (video-lead lags) was sampled. Importantly the tree curves in each task were fitted using the same decision-making parameters, so that the MCD alone accounts for the separation between the curves. (E) Pharmacologically-induced changes in rats’ audiovisual time perception. Left: Glutamatergic inhibition (MK-801 injection) leads to asymmetric broadening of the psychometric functions for simultaneity judgments. Right: GABA inhibition (Gabazine injection) abolishes rapid temporal adaptation, so that psychometric curves do not change based on the lag of the previous trials (as they do in controls) (Schormans and Allman, 2023). All pharmacologically-induced changes in audiovisual time perception can be accounted for by changes in the decision-making process, with no need to postulate changes in low-level temporal processing.Figure 2—figure supplement 1.Temporal determinants of multisensory integration in humans.Schematic representation of the stimuli with a manipulation of audiovisual lag (A). (B-J) shows the stimuli, psychophysical data (dots) and model response (lines) of simulated studies investigating the temporal determinants of multisensory integration in humans using ecological audiovisual stimuli. The colour of the psychometric curves represents the psychophysical task (red = McGurk, black = simultaneity judgments, blue = temporal order judgments). (K) shows the results of the permutation test: the histogram represents the permuted distribution of the correlation between data and model response. The arrow represents the observed correlation between model and data, and it is 4.7 standard deviation above the mean of the permuted distribution (p<0.001). Panel I represents the funnel plot of the Pearson correlation between model and data across all studies in B-J, plotted against the number of trials used for each level of audiovisual lag. Red diamonds represent the McGurk task, blue diamonds and circles represent temporal order judgments, and black diamonds and circles represents simultaneity judgments. Diamonds represents human data, circles represent rat data. The dashed gray line represents the overall Pearson correlation between empirical and predicted psychometric curves, weighted by the number of trials of each curve. As expected, the correlation decreases with decreasing number of trials.Figure 2—figure supplement 2.Temporal determinants of multisensory integration in rats.Schematic representation of the stimuli (clicks and flashes) with a manipulation of audiovisual lag (A). (B-J) shows the psychophysical data (dots) and model response (lines) of simulated studies. The colour of the psychometric curves represents the psychophysical task (black = simultaneity judgments, blue = temporal order judgments).Figure 2—figure supplement 3.Simultaneity judgment for impulse stimuli in humans, individual observer data (Yarrow et al., 2023).(A) represents the baseline condition; (B) represents the conservative condition (in which observers were instructed to respond ‘synchronous’ only when absolutely sure); (C) represents the post-test condition (in which observers were instructed to respond as they preferred, like in the baseline condition). Individual plots represent data from a single observer (dots) and model responses (lines), and consists of 135 trials each (total 7695 trials). The bottom-right plots represents the average empirical and predicted psychometric functions.Figure 2—figure supplement 4.Simultaneity and temporal order judgments for step stimuli (Parise and Ernst, 2025).(A) represents the results of the simultaneity judgments; (B) represents the data from the temporal order judgment. Each column represents a different combination of audiovisual step polarity (i.e. onset steps in both modalities, offset steps in both modalities, video onset and audio offset, video offset and audio onset). Different rows represent curves from different observers (dots) and model responses (lines). Each curve consists of 150 trials (total of 9600 trials). The bottom row (light gray background) represents the average empirical and predicted psychometric functions.Figure 2—figure supplement 5.Simultaneity judgment for periodic stimuli (Parise and Ernst, 2025).Individual plots represent data from a single observer (dots) and model responses (lines). Each curve consists of 600 trials (total of 3000 trials). The bottom-right curve represents the average empirical and predicted psychometric functions."
+  },
+  "46": {
+    "content_id": "46",
+    "original_publisher_figure": "figures/PMC8601661_fig2.jpg",
+    "original_sha256": "836a74ec0e7d84362a35f4868c903613e1f9a779b3905c264bdecf4a84110c71",
+    "source_url": "https://cdn.elifesciences.org/articles/65566/elife-65566-fig2-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_46.png",
+    "original_figure_legend": "Figure 2.Dissimilarity of responses to natural vs. synthetic sounds in ferrets and humans.(A) Response of two example fUS voxels to natural and corresponding synthetic sounds with matched spectrotemporal modulation statistics. Each dot shows the time-averaged response to a single pair of natural/synthetic sounds (after denoising), with colors indicating the sound category. The example voxels come from primary (top, A1) and non-primary (bottom, dPEG) regions of the ferret auditory cortex (locations shown in panel E). The normalized squared error (NSE) quantifies the dissimilarity of responses. (B) Test–retest response of the example voxels across all natural (o) and synthetic (+) sounds (odd vs. even repetitions). The responses were highly reliable due to the denoising procedure. (C, D) Same as panels (A, B), but showing two example voxels from human primary/non-primary auditory cortex. (E) Maps plotting the dissimilarity of responses to natural vs. synthetic sounds from one ferret hemisphere (top row) and from humans (bottom row). Each column shows results for a different set of synthetic sounds. The synthetic sounds were constrained by statistics of increasing complexity (from left to right): just cochlear statistics, cochlear + temporal modulation statistics, cochlear + spectral modulation statistics, and cochlear + spectrotemporal modulation statistics. Dissimilarity was quantified using the NSE, corrected for noise using the test–retest reliability of the voxel responses. Ferret maps show a ‘surface’ view from above of the sylvian gyri, similar to the map in humans. Surface views were computed by averaging activity perpendicular to the cortical surface. The border between primary and non-primary auditory cortex is shown with a white line in both species and was defined using tonotopic gradients. Areal boundaries in the ferret are also shown (dashed thin lines). This panel shows results from one hemisphere of one animal (ferret T, left hemisphere), but results were similar in other animals/hemispheres (Figure 2—figure supplement 2). The human map is a group map averaged across 12 subjects, but results were similar in individual subjects (Norman-Haignere et al., 2018). (F) Voxels were binned based on their distance to primary auditory cortex (defined tonotopically). This figure plots the median NSE value in each bin. Each thin line corresponds to a single ferret (gray) or a single human subject (gold). Thick lines show the average across all subjects. The ferret and human data were rescaled so that they could be plotted on the same figure, using a scaling factor of 10, which roughly corresponds to the difference in the radius of primary auditory cortex between ferrets and humans. The corresponding unit is plotted on the x-axis below. The number of human subjects varied by condition (see Materials and methods for details) and is indicated on each plot. (G) The slope of NSE vs. distance-to-primary auditory cortex (PAC) curve (F) from individual ferret and human subjects using responses to the spectrotemporally matched synthetic sounds. We used absolute distances to quantify the slope, which is conservative with respect to the hypothesis since correcting for brain size would differentially increase the ferret slopes.Figure 2—figure supplement 1.Responses to natural and synthetic sounds in standard anatomical regions of interest (ROIs).Format is analogous to Figure 2A and B. (A) Cartoon showing the location of three ROIs spanning primary (MEG) and non-primary (AEG, PEG) ferret auditory cortex. (B) Response to natural and spectrotemporally matched synthetic sounds averaged across all voxels in each ROI. Each circle corresponds to a single pair of natural/synthetic sounds, with colors indicating the sound category. The normalized squared error (NSE) between natural and synthetic sounds is shown above each plot. (C) Test–retest response of the ROI across all natural (o) and synthetic (+) sounds (odd vs. even repetitions). The test–retest NSE provides a noise floor for the natural vs. synthetic NSE.Figure 2—figure supplement 2.Dissimilarity maps for all hemispheres and animals.Same format as Figure 2E.Figure 2—figure supplement 3.Uncorrected normalized squared error (NSE) values.This figure plots the uncorrected NSE between natural and synthetic sounds as a function of distance to primary auditory cortex (PAC) for humans (A) and ferrets (B). The test–retest NSE value, which provides a noise floor for the natural vs. synthetic NSE, is plotted below each set of curves using dashed lines. Each thin line corresponds to a single ferret (gray) or a single human subject (gold). Thick lines show the average across all subjects. Format is the same as Figure 2F."
+  },
+  "47": {
+    "content_id": "47",
+    "original_publisher_figure": "figures/PMC7334025_fig1.jpg",
+    "original_sha256": "ca373fa88506341b9894fb393815368bc97c90302807ded8956601be9a5d17c8",
+    "source_url": "https://cdn.elifesciences.org/articles/54536/elife-54536-fig1-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_47.png",
+    "original_figure_legend": "Figure 1.Experimental setup.(A) Four loudspeakers presented novel sounds (Exp. 1) or stories (Exp. 2) at 30° to the left or right of fixation or behind the interaural axis. Instructions, text, or fixation cross was displayed on a 55 in flat screen. (B) Surface EMGs were recorded bilaterally from four auricular muscles as well as from left zygomaticus major, frontalis, and sternocleidomastoideus, using a bandpass of 10 – 1000 Hz and a sampling rate of 9600 Hz. Separation of paired auricular electrodes was 1 cm."
+  },
+  "48": {
+    "content_id": "48",
+    "original_publisher_figure": "figures/PMC11620744_fig1.jpg",
+    "original_sha256": "4f4cea123059650d9d0149fb108abf08e9aaa4f825b71aff92ee4e572e8849dc",
+    "source_url": "https://cdn.elifesciences.org/articles/102702/elife-102702-fig1-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.226
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_48.png",
+    "original_figure_legend": "Figure 1.Sequence violations are broadly signaled in the mouse auditory cortex.(A) Sketch of the experimental setup and of the four different blocks of sound sequences. (B) Representative 1 × 1 mm two-photon imaging field-of-view with a magnification of the red rectangle. (C) Sample raw ΔF/F calcium traces (left, gray shadings=5 tone sequences) and trial-averaged activity during sequences (right black, raw ΔF/F; right red, temporally deconvolved ΔF/F=dΔF/F) for 4 neurons. (D) (left) Mean ± SEM population responses (dΔF/F) to rare or frequent AAAAB and AAAAA sequences. (right) Same for BBBBA and BBBBB sequences. (E) (left) dΔF/F population responses to the fifth tone averaged from 0 to 300 ms after tone offset for the AAAAX (left) and BBBBX (right) blocks. Mean + SEM & statistical tests: AAAAB rare vs common 0.36 ± 0.028% vs 0.25 ± 0.010% dΔF/F, p=5 × 10–14, AAAAB rare vs common 0.25 ± 0.022% vs 0.24 ± 0.008% dΔF/F, p=0.09; BBBBA rare vs common 0.62 ± 0.063% vs 0.34 ± 0.023% dΔF/F, p=8 × 10–18; BBBBB rare vs common 0.17 ± 0.023% vs 0.18 ± 0.008% dΔF/F, p=0.54; Mann-Whitney U test; n=30 and n=180 for common and rare repetitions. (F) Proportion of cells that respond significantly more to rare than common AAAAB (9 ± 2.33%), AAAAA (1.24 ± 0.15%), BBBBA (19.4 ± 3.49%), or BBBBB (1.09% ± 0.14%, mean ± SEM, n=12 sessions, significance in each cell assessed with Mann-Whitney U test p<0.01, n=30 and n=180 for common and rare repetitions). (G) Performance of a cross-validated classifier, trained on time-averaged responses of 90 ms bins, for predicting rare vs common sequences. p<0.01 for all points above 50% (shuffle test 100 repetitions). (H) Sketch of electrophysiological recordings. (I) Mean ± SEM of z-scored single unit activities averaged across all units. (J) Mean single unit activity in the time window indicated by lines in (I) (rare vs common BBBBA 0.04 ± 0.006 vs 0.03 ± 0.002, p=8 × 10–4; rare vs common BBBBB, 0.007 ± 0.004 vs 0.000 ± 0.001; p= 0.03; Mann-Whitney U test; n=30 for rare and n=200 for common repetitions). (K) Same as (F) for electrophysiological recordings (BBBBA, 6.90 ± 2.57%, and BBBBB, 5.05 ± 0.90%, Mann-Whitney U test for each cell, n=8 sessions). (L) Same as (G) for electrophysiological recordings. p<0.05 for all points above 50% (shuffle test 100 repetitions).Figure 1—figure supplement 1.Responses of synapsin-based expression of GCAMP6s to the omitted sequences in the auditory cortex.For the two-photon imaging recordings reported in Figure 1 (synapsin-based expression of GCAMP6s), mean population activity for omitted sequences (AAAA left and BBBB right) appearing as oddball sequences in blocks where AAAAA or BBBBB (red), AAAAB or BBBBA (pink), or AAAA (blue) is the common sequence. We observed no significant response to omissions in this dataset. (Wilcoxon ranksum tests; Respectively p=0.271; p=0.436; p=0.694; p=0.905; n=20 for rare and n=90 for common repetitions).Figure 1—figure supplement 2.Probe localizations from Neuropixel recordings of the auditory cortex.(A) Histological section showing the location of the probe (stained with diI, diO, or diD). (B) Reconstructed probe locations from five recordings in four mice."
+  },
+  "52": {
+    "content_id": "52",
+    "original_publisher_figure": "figures/PMC9836393_fig1.jpg",
+    "original_sha256": "76bb8b9dd9359f91c74b73c64b0abd9d787d5f56187141796868db1650664a86",
+    "source_url": "https://cdn.elifesciences.org/articles/80935/elife-80935-fig1-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_52.png",
+    "original_figure_legend": "Figure 1.Overview of the research paradigm.Listeners undergoing EEG (data from Di Liberto et al., 2020) or MEG measurement (novel data acquired for the current study) were presented with naturalistic music synthesized from MIDI files. To model melodic expectations, we calculated note-level surprise and uncertainty estimates via three computational models reflecting different internal models of expectations. We estimated the regression evoked response or temporal response function (TRF) for different features using time-resolved linear regression on the M|EEG data, while controlling for low-level acoustic factors."
+  },
+  "24": {
+    "content_id": "24",
+    "original_publisher_figure": "figures/PMC7062464_fig1.jpg",
+    "original_sha256": "b4c5a73efe544487a1e27de0acb7849609d45d77021ce8dcd51e1d59b93c6d0f",
+    "source_url": "https://cdn.elifesciences.org/articles/51890/elife-51890-fig1-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.334
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_24.png",
+    "original_figure_legend": "Figure 1.Opsin expression in corticocollicular feedback.(A) Experimental design: To yield selective labeling of auditory cortico-collicular projections, a retroAAV-Cre-GFP construct is injected into the IC and AAV-FLEX-opsin-tdTomato construct is injected into the AC bilaterally. Recordings are made in multiple bilateral locations of the IC (left) of awake mice. Cannulas are implanted bilaterally in the auditory cortex, and a green/blue laser is used to silence/activate the cortico-collicular pathway (right). (B) Expression of the retro AAV-Cre-GFP construct in the IC. Scale bar: 1000 μm. (C) Selective expression of the AAV-FLEX-opsin-tdTomato construct in cell bodies in layer 5 (L5) and 6 (L6) of the AC that project to the IC. Fiber and terminal labeling is also present in the medial geniculate body, a known target of auditory cortico-collicular cells. Scale bar: 2000 μm. (D) Expression of the AAV-FLEX-opsin-tdTomato construct in fibers and terminals at multiple rostro-cadual levels of the IC. Expression, as measured by fluorescence intensity (bottom), is strongest in medial portions of the central nucleus of the IC and lateral portions of the external nucleus of the IC. Scale bar: left, 1000 μm; middle and right, 500 μm."
+  },
+  "49": {
+    "content_id": "49",
+    "original_publisher_figure": "figures/PMC12585176_fig4.jpg",
+    "original_sha256": "03addfe6ac6193f6ab1eb7e9db11600deef1debdca37482e0be19e0965f84bf6",
+    "source_url": "https://cdn.elifesciences.org/articles/106122/elife-106122-fig4-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_49.png",
+    "original_figure_legend": "Figure 4.Audiovisual integration in space.(A) Top represents the Multisensory Correlation Detector (MCD) population model for spatialized audio. Visual and auditory input units receive input from corresponding spatial locations, and feed into spatially-tuned MCD units. The output of each MCD unit is eventually normalized by the total population output, so as to represent the probability distribution of stimulus location over space. The bottom part of Panel A represents the dynamic unimodal and bimodal population response over time and space (azimuth) and their marginals. When time is marginalized out, a population of MCDs implements integration as predicted by the maximum likelihood estimation (MLE) model. When space is marginalized, the output show the temporal response function of the model. In this example, visual and auditory stimuli were asynchronously presented from discrepant spatial locations (note how the blue and orange distributions are spatiotemporally offset). (B) shows a schematic representation of the stimuli used to test the MLE model by Alais and Burr, 2004. Stimuli were presented from different spatial positions, with a parametric manipulation of audiovisual spatial disparity and blob size (i.e. the standard deviation, σ of the blob). (C) shows how the bimodal psychometric functions predicted by the MCD (lines, see Equation 16) and the MLE (dots) models fully overlap. (D) shows how bimodal bias varies as a function of disparity and visual reliability (see legend on the left). The dots correspond to the empirical data from participant LM, while the lines are the predictions of the MCD model (compare to Figure 2A, of Alais and Burr, 2004). (E) shows how the just noticeable differences (just noticeable difference JND, the random localization error) vary as a function of blob size. The blue squares represent the visual JNDs, the purple dots the bimodal JNDs, while the dashed orange line represents the auditory JND. The continuous line shows the JNDs predicted by the MCD population model (compare to Figure 2B, of Alais and Burr, 2004). (F) represents the breakdown of integration with spatial disparity. The magnitude of the MCD population output (Equation 8, shown as the area under the curve of the bimodal response) decreases with increasing spatial disparity across the senses. This can be then transformed into a probability for a common cause (Equation 19). (G) represents the stimuli and results of the experiment used by Körding et al., 2007 to test the Bayesian Causal Inference (BCI) model. Auditory and visual stimuli originate from one of five spatial locations, spanning a range of 20° . The plots show the perceived locations of visual (blue) and auditory (orange) stimuli for each combination of audiovisual spatial locations. The dots represent human data, while the lines represent the responses of the MCD population model. (H) shows the stimuli and results of the experiment of Mohl et al., 2020. The plots on the right display the probability of a single (vs. double) fixation (top monkeys, bottom humans). The dots represent human data, while the lines represent the responses of the MCD population model. The remaining panels show the histogram of the fixated locations in bimodal trials: the jagged histograms are the empirical data, while the smooth ones are the model prediction (zero free parameters). The regions of overlap between empirical and predicted histograms are shown in black.Figure 4—figure supplement 1.Multisensory Correlation Detector (MCD) model for trimodal integration.Trimodal MCD units combine inputs from three unimodal transient channels via multiplicative interactions. When all three modalities are stimulated in close temporal and spatial proximity, the resulting trimodal population response closely replicates the predictions of maximum likelihood estimation (MLE)."
+  },
+  "53": {
+    "content_id": "53",
+    "original_publisher_figure": "figures/PMC7053998_fig2.jpg",
+    "original_sha256": "91bff404a27ace5e0bdf90e9b631f5e3c089b847727c88fad1afbd834d35af3f",
+    "source_url": "https://cdn.elifesciences.org/articles/51784/elife-51784-fig2-v1.jpg",
+    "box": [
+      0,
+      0,
+      0.21,
+      0.495
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_53.png",
+    "original_figure_legend": "Figure 2.Low-rate (1–8 Hz) cortical signals reflect melodic expectations.Scalp EEG data were recorded while participants listened to monophonic music. Forward ridge regression models were fit to assess what features of the stimulus were encoded in the low-rate EEG signal. The link between music features and EEG was assessed by using these models to predict unseen EEG data. (A) Prediction correlations were greatest when the stimulus was described by a combination of acoustic information (A: envelope Env, and its half-way rectified first derivative Env’) and melodic expectations (M: SP, SO, HP, HO). This effect of expectations was significant on the average prediction correlation across all 64 EEG electrodes (*p<10−6). The error bars indicate the SEM across participants. (B) The enhancement due to melodic expectations emerged at the individual subject level. The gray bars indicate the predictive enhancement due to melodic expectation. Error bars indicate the SEM over trials (***p<0.001, **p<0.01, *p<0.05, permutation test). (C) Predictive enhancement due to melodic expectations (AM-A; y-axis) increased with the length of the local context (in bars; x-axis) used to estimate the expectation of each note (ANOVA: *p=0.0003). The boxplot shows the 25th and 75th percentiles, with the whiskers extending to the most extreme data-points that were not considered outliers. Circles indicate outliers. (D) The effect of melodic expectations (rAM-rA) emerged bilaterally on the same scalp areas that showed also envelope tracking. (E) Ridge regression weights for TRFAM. Red and blue colors indicate positive and negative TRF components respectively.Figure 2—figure supplement 1.The latency of the effect of melodic expectations on the low-rate EEG data (1–8 Hz) was assessed by measuring the loss in EEG prediction correlation when a given time-latency window is removed from the TRF fit.This loss was calculated for a sliding 50ms-long latency window and was plotted as a heat-map for each electrode. White colored pixels indicate non-significant results (p>0.05, cluster-mass statistics). Red color indicates a larger loss, thus a stronger importance, of a particular time-latency window. The x-axis indicates the centre of the time-latency window."
+  },
+  "54": {
+    "content_id": "54",
+    "original_publisher_figure": "figures/PMC8601661_fig1.jpg",
+    "original_sha256": "1339c4ca21dd5f6d361b8524048d7a045f90677af4fd93d2df97dda598841940",
+    "source_url": "https://cdn.elifesciences.org/articles/65566/elife-65566-fig1-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_54.png",
+    "original_figure_legend": "Figure 1.Schematic of stimuli and imaging protocol.(A) Cochleagrams for two example natural sounds (left column) and corresponding synthetic sounds (right four columns) that were matched to the natural sounds along a set of acoustic statistics of increasing complexity. Statistics were measured by filtering a cochleagram with filters tuned to temporal, spectral, or joint spectrotemporal modulations. (B) Schematic of the imaging procedure. A three-dimensional volume, covering all of ferret auditory cortex, was acquired through successive coronal slices. Auditory cortical regions (colored regions) were mapped with anatomical and functional markers (Radtke-Schuller, 2018). The rightmost image shows a single ultrasound image with overlaid region boundaries. Auditory regions: dPEG: dorsal posterior ectosylvian gyrus; AEG: anterior ectosylvian gyrus; VP: ventral posterior auditory field; ADF: anterior dorsal field; AAF: anterior auditory field. Non-auditory regions: hpc: hippocampus; SSG: suprasylvian gyrus; LG: lateral gyrus. Anatomical markers: pss: posterior sylvian sulcus; sss: superior sylvian sulcus. (C) Response timecourse of a single voxel to all natural sounds, before (left) and after (right) denoising. Each line reflects a different sound, and its color indicates its membership in one of 10 different categories. English and non-English speech are separated out because all of the human subjects tested in our prior study were native English speakers, and so the distinction is meaningful in humans. The gray region shows the time window when sound was present. We summarized the response of each voxel by measuring its average response to each sound between 3 and 11 s post-stimulus onset. The location of this voxel corresponds to the highlighted voxel in panel B. (D) We measured the correlation across sounds between pairs of voxels as a function or their distance using two independent measurements of the response (odd vs. even repetitions). Results are plotted separately for ferret fUS data (left) and human fMRI data (right). The 0 mm datapoint provides a measure of test–retest reliability and the fall-off with distance provides a measure of spatial precision. Results are shown before and after component denoising. Note that in our prior fMRI study we did not use component denoising because the voxels were sufficiently reliable; we used component-denoised human data here to make the human and ferret analyses more similar (findings did not depend on this choice: see Figure 1—figure supplement 2). The distance needed for the correlation to decay by 75% is shown above each plot (τ75). The human data were smoothed using a 5 MM FWHM kernel, the same amount used in our prior study, but fMRI responses were still coarser when using unsmoothed data (τ75 = 6.5 mm; findings did not depend on the presence/absence of smoothing). Thin lines show data from individual human (N = 8) and ferret (N = 2) subjects, and thick lines show the average across subjects.Figure 1—figure supplement 1.The effect of enhancing reliable signal using a procedure similar to ‘denoising source separation (DSS)’ (see ‘Denoising part II’ in Materials and methods) (de Cheveigné and Parra, 2014).(A) Voxel responses were denoised by projecting their timecourse onto components that were reliably present across repetitions and slices. This figure plots the test–retest correlation across independent splits of data before (x-axis) and after (y-axis) denoising (data from experiment I). Each dot corresponds to a single voxel. We denoised either one split of data (blue dots) or both splits of data (green dots). Denoising one split provides a fairer test of whether the denoising procedure enhances SNR. Denoising both splits shows the overall effect on response reliability. The theoretical upper bound for denoising one split of data is shown by the black line. The denoising procedure substantially increased data reliability, with the one-split correlations hugging the upper bound. This plot shows results from an eight-component model. (B) This figure plots split-half correlations for denoised data (one split) as a map (upper panel), along with a map showing the upper bound (lower panel). Denoised correlations were close to their upper bound throughout auditory cortex. (C) This figure plots the median denoised correlation across voxels (one split) as a function of the number of components used in the denoising procedure. Gray line plots the upper bound. Shaded areas indicate the 95% confidence interval, computed via bootstrapping across the sound set. Results are shown for both experiments I (left) and II (right). Predictions were near their maximum using approximately eight components in both experiments (the eight-component mark is shown by the vertical dashed line).Figure 1—figure supplement 2.Effect of component denoising on human fMRI results.This figure plots normalized squared error (NSE) maps comparing natural and synthetic sounds in humans both before (top) and after denoising (bottom) by projecting onto the six reliable components identified in our prior work (Norman-Haignere et al., 2015). We used component-denoised data for all species comparisons to make the analyses more similar, but results were similar without denoising. The bottom panel is the same as that shown in Figure 2E and is reproduced here for ease of comparison. Results are based on 12 human subjects."
+  },
+  "57": {
+    "content_id": "57",
+    "original_publisher_figure": "figures/PMC9651867_fig1.jpg",
+    "original_sha256": "159c31794e0ff8c7ab9ef939c1f510960f1def0081a0917225714e269401ace6",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9651867/supplementaryFiles",
+    "box": [
+      0,
+      0,
+      1,
+      0.168
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_57.png",
+    "original_figure_legend": "Fig. 1.Beat synchronization in rats.(A) Wireless accelerometer and holder used in the experiment. (B) Rats with the holder and definition of the three axes. (C) Representative head movements during music playback at the original tempo. The acceleration vector, the absolute value of the acceleration vector, the jerk vector, and the Euclidean norm of jerk are shown. Triangles indicate the increase in jerk around the beat. Beat timings are indicated by gray lines. (D) Left: Mean jerk beat contrast values of days 1 and 2 calculated by shifting the window of the putative on-beat timing for each tempo. In-phase synchrony is plotted in red, whereas reverse-phase synchrony is plotted in blue. Gray vertical lines indicate actual beat timing. The crosses indicate the maximum jerk beat contrast in a cycle (n = 10). Right: The distribution of maximum jerk beat contrast is plotted in the phase field with 0° corresponding to a beat. Each cross indicates an animal, and the red dot indicates the average. (E) Amplitude of beat contrast variation (max-min) at each playback tempo. Each black dot indicates an animal. (F) Intersubject similarity of beat contrast is defined as beat consensusi=∣∑j≠ir→i·r→j∣, where i is the animal index and r→i is the maximum jerk beat contrast in the phase field. The beat consensus of animal i increases when r→i is in phase or in reverse phase with that of other animals. (G) Jerk beat contrast at beat (0°) on each day. Box plots here and hereafter show the median, 25th/75th percentiles, and maximum/minimum within the 1.5× interquartile range. n.s., not significant. *P < 0.05."
+  },
+  "59": {
+    "content_id": "59",
+    "original_publisher_figure": "figures/PMC9651867_fig2.jpg",
+    "original_sha256": "930fc4f7c5f685f08d44de354dc559043b42d7e9e43fdb656d6305b59647d110",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9651867/supplementaryFiles",
+    "box": [
+      0,
+      0,
+      1,
+      0.282
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_59.png",
+    "original_figure_legend": "Fig. 2.Comparison of beat synchronization between rats and humans during music presentation (K.448).(A) Distribution of maximum jerk between each putative beat as a function of playback tempos (75, 100, 200 and 400%). (B) Maximum jerk at each beat. Z scores of jerk were plotted at each beat index (1 to 132). The sound waveform of music with putative beat timings (red lines) are shown in the top inset. (C) Correlation of jerk at each beat index between rats and humans. The correlation coefficient (r) is indicated in each inset."
+  },
+  "60": {
+    "content_id": "60",
+    "original_publisher_figure": "figures/PMC9651867_fig3.jpg",
+    "original_sha256": "2707c2adea6eb9c1ac7964aa56c49acb4833306c520ecab6fca5cf19fc963c75",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9651867/supplementaryFiles",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_60.png",
+    "original_figure_legend": "Fig. 3.Neural tuning of music beats.(A) An excerpt of a musical piece was presented at five different tempos. Colored notes correspond to putative beats, each categorized into four positions (pos.1 to 4) in a bar. (B) Neural beat contrast in a representative animal. Each dot indicates a recording site in the auditory cortex. (C) Neural beat contrast with calculated mean for each animal (n = 7). (D) Neural beat contrast at each beat position. The error bar indicates the 25th and 75th percentiles of individual differences. (E) The ratio of neural beat contrast at the first beat with respect to those at other beats."
+  },
+  "27": {
+    "content_id": "27",
+    "original_publisher_figure": "figures/PMC4575990_fig2.jpg",
+    "original_sha256": "85bdf9e64eb13ecb860d4f480afc1ea73ec295c602595f71f6fc2b2e6aab6038",
+    "source_url": "https://cdn.elifesciences.org/articles/08477/elife-08477-fig2-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.35
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_27.png",
+    "original_figure_legend": "10.7554/eLife.08477.005Figure 2.fru is necessary and sufficient for specifying male-specific vPN1 neurons.(A, B) GFP expression (green) in the male (A) or female (B) brain of R72E10-GAL4AD/UAS-mCD8GFP; VT9665-GAL4DBD/+ flies counter-stained by nc82 antibody (magenta). vPN1 neurons with VLP projections were labeled in the male but not female brain. (C) vPN1 neurons (C1) in the male brain of R72E10-GAL4AD/UAS-mCD8GFP; VT9665-GAL4DBD/+ flies co-stained with FruM antibody (C2). (C3) is a merge of (C1) and (C2). (D) vPN1 neurons are present in the male brain (D1) but not female brain (D2) of fru4–40/+ flies. Genotype is: R72E10-GAL4AD/UAS-mCD8GFP; VT9665-GAL4DBD, fru4–40/+. (E) vPN1 neurons are absent in both the male brain (E1) and female brain (E2) of null mutant fru4–40/fruLexA. Genotype is: R72E10-GAL4AD/UAS-mCD8GFP; VT9665-GAL4DBD, fru4–40/fruLexA. (F) vPN1 neurons are present in both the male brain (F1) and female brain (F2) of fruM mutant flies where FruM is expressed in both males and females. Genotype is: R72E10-GAL4AD/UAS-mCD8GFP; VT9665-GAL4DBD, fruM/+.DOI: http://dx.doi.org/10.7554/eLife.08477.005"
+  },
+  "61": {
+    "content_id": "61",
+    "original_publisher_figure": "figures/PMC9651867_fig4.jpg",
+    "original_sha256": "b23b02c7d933385d0e7aae07b94a4189f427cea6d1e1b574b4898b1126334068",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9651867/supplementaryFiles",
+    "box": [
+      0,
+      0,
+      0.27,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_61.png",
+    "original_figure_legend": "Fig. 4.Short-term adaptation model to explain neural tuning around 120 BPM.(A) Rhythmic click sequences of 15 s (three clicks and one rest) played at four different tempos. Beat was defined as the first of three consecutive clicks. (B) Representative MUAs averaged among 10 trials. MUAs of 48 recording sites plotted according to mean MUA amplitudes. Each data is aligned at 7 s from stimulus onset and scaled. Gray lines indicate click presentation. (C) Neural beat contrasts of all animals (n = 9) calculated from their MUA responses to rhythmic click stimuli. Each dot represents the mean neural beat contrast of all recording sites per animal. (D) Simulated MUA responses to the rhythmic click stimuli. Green lines indicate the mean MUA responses of all recording sites with click-elicited responses; black lines indicate the simulation results. (E) Mean MUA responses to periodic and rhythmic clicks. Solid lines indicate the MUA data in electrophysiological experiments; dashed lines indicate the simulation results. The error bar indicates the SEM. (F) Neural beat contrast to rhythmic clicks in electrophysiology and simulation. (G) Outline of the kernel function predicted from the present experiments. The kernel functions of previous studies are also shown for reference. (H) Representative MUA in response to random click sequences with different mean ISIs. (I) Prediction accuracy of each model (solid lines). The distribution of mean ISI in a variety of music is shown for reference (bars)."
+  },
+  "63": {
+    "content_id": "63",
+    "original_publisher_figure": "figures/PMC3610097_fig1.jpg",
+    "original_sha256": "8721f2a1d8afd436f178d2aeabf7096176d3d37a43f929d330c7de382ec5f8dd",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3610097/supplementaryFiles",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_63.png",
+    "original_figure_legend": "Figure 1(a) A schematic drawing of the experimental setting for synchronized tapping, (b) A picture of Ai during training to tap a keyboard."
+  },
+  "64": {
+    "content_id": "64",
+    "original_publisher_figure": "figures/PMC3610097_fig2.jpg",
+    "original_sha256": "bda6d5d03d02432fe27898a2a6a023813e6159eff523b28f88197af080d6f1bf",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3610097/supplementaryFiles",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_64.png",
+    "original_figure_legend": "Figure 2(a) Ai tapped “C4”, (b) Ai tapped “C5”, (c) Time sequence of a test trial."
+  },
+  "55": {
+    "content_id": "55",
+    "original_publisher_figure": "figures/PMC7053998_fig3.jpg",
+    "original_sha256": "fa8be4eb39aba81fd5cead40b42357be4408ed572b99deb0128ad00c270f8a75",
+    "source_url": "https://cdn.elifesciences.org/articles/51784/elife-51784-fig3-v1.jpg",
+    "box": [
+      0,
+      0.77,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_55.png",
+    "original_figure_legend": "Figure 3.Low-rate (1–8 Hz) cortical signals in bilateral temporal cortex reflect melodic expectations.Electrocorticography (ECoG) data were recorded from three epilepsy patients undergoing brain surgery. Magnetic resonance imaging was used to localise the ECoG electrodes. Electrodes with stronger low-rate or high-γ (70–150 Hz) responses to monophonic music than to silence were selected (Cohen’s d > 0.5). (A) ECoG prediction correlations for individual electrodes for A and AM. Electrodes within each group, as indicated by the gray square brackets, were sorted from lateral to medial cortical sites. The gray bars indicate the predictive enhancement due to melodic expectation (rAM-rA). Error bars indicate the SEM over trials (*p<0.01, FDR-corrected permutation test). (B) TRF weights for selected electrodes. For Patient 1, PT and TTS electrodes (e1-e5 and e6 respectively) exhibited large effects of musical expectations, while HG electrodes (e7-e9) had strong envelope tracking (A) but showed smaller effects of expectations that did not reach statistical significance. Patient two showed also strong envelope tracking and a significant effect of melodic expectations in the right temporal and parietal lobes (for example, the PT electrode e4 and the SMG electrode e10 respectively). (C) Low-rate (1–8 Hz) ECoG segments time-locked to note onsets were selected and compared with segments corresponding to silence. Colors in the first brain plot of each patient indicate the effect-size of the note vs. silence comparison (Cohen’s d > 0.5). The second brain plot shows the EEG prediction correlations when using acoustic features only (A). The third brain plot depicts the increase in EEG predictions when including melodic expectation features (AM-A).Figure 3—figure supplement 1.Bilateral electrocorticography (ECoG) results for Patient 3.Electrodes with stronger low-rate (1–8 Hz) or high-γ (70–150 Hz) time-locked responses to musical notes than to silence were selected (Cohen’s d > 0.5). (A) Low-rate ECoG prediction correlations for individual electrodes for A and AM. Electrodes within each group, as indicated by the gray square brackets, were sorted from lateral to medial cortical sites. The gray bars indicate the predictive enhancement due to melodic expectation (rAM-rA). Error bars indicate the SEM over trials (*p<0.01, FDR-corrected permutation test). (B) ECoG electrodes that showed stronger time-locked responses to notes than to silence. The three plots show the effect-size of the note vs. silence response comparison for low-rate (1–8 Hz) ECoG signals (left), the EEG prediction correlations when using acoustic features only (A) (right), and the contrast between EEG predictions for AM and A (bottom)."
+  },
+  "51": {
+    "content_id": "51",
+    "original_publisher_figure": "figures/PMC7053998_fig1.jpg",
+    "original_sha256": "8e384c9197deb928675247aaa9d5ffe3012c330a71fcf13ad97706afb75dce29",
+    "source_url": "https://cdn.elifesciences.org/articles/51784/elife-51784-fig1-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.59
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_51.png",
+    "original_figure_legend": "Figure 1.System identification framework for isolating neural correlates of melodic expectations.(A) Music score of a segment of auditory stimulus, with its corresponding features (from bottom to top): acoustic envelope (Env), half-way rectified first derivative of the envelope (Env’), and the four melodic expectation features: entropy of note-onset (Ho) and pitch (Hp), surprise of note-onset (So) and pitch (Sp). (B) Regularized linear regression models were fit to optimally describe the mapping from stimulus features (Env in the example) to each EEG and ECoG channel. This approach, called the Temporal Response Function (TRF), allows us to investigate the spatio-temporal dynamics of the linear model by studying the regression weights for different EEG and ECoG channels and time-latencies. (C) TRFs were used to predict EEG and ECoG signals on unseen data by using only acoustic features (A) and a combination of acoustic and melodic expectation features (AM). We hypothesised that cortical signals encode melodic expectations, therefore we expected larger EEG and ECoG predictions for the combined feature-set AM."
+  },
+  "66": {
+    "content_id": "66",
+    "original_publisher_figure": "figures/PMC3610097_fig2.jpg",
+    "original_sha256": "bda6d5d03d02432fe27898a2a6a023813e6159eff523b28f88197af080d6f1bf",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3610097/supplementaryFiles",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_66.png",
+    "original_figure_legend": "Figure 2(a) Ai tapped “C4”, (b) Ai tapped “C5”, (c) Time sequence of a test trial."
+  },
+  "65": {
+    "content_id": "65",
+    "original_publisher_figure": "figures/PMC3610097_fig3.jpg",
+    "original_sha256": "0997bb5242de07d3e739d577173e0e5bc1802956cbb718fccea723f845b84166",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3610097/supplementaryFiles",
+    "box": [
+      0.43,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_65.png",
+    "original_figure_legend": "Figure 3Circular distribution of Ai's tapping in (a) No stimulus condition, (b) Random condition and (c) 600ms-ISI auditory distractor condition with average phase angle (6.98°).0° indicates the onset of the auditory stimuli."
+  },
+  "67": {
+    "content_id": "67",
+    "original_publisher_figure": "figures/PMC6969502_fig1.jpg",
+    "original_sha256": "4b0f51849188aee4176a8a24499d56b40cc082c848d2eaa6e16a39441e977aea",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6969502/supplementaryFiles",
+    "box": [
+      0,
+      0,
+      1,
+      0.49
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_67.png",
+    "original_figure_legend": "Fig. 1.(A) Schematic drawing of the sound stimuli. Each sound was made up of an acoustic piano sound. Sound stimulus was made by manipulating interonset interval of C3 tones. (B) Schematic drawing of the experimental setting. (C) Percentage of duration for rhythmic movement observed while playing auditory stimuli in Experiment 1. (D) Average number of trials in which vocalization was recorded in Experiment 1. (E) Percentage of duration for rhythmic movement in test trials and intertrial intervals."
+  },
+  "69": {
+    "content_id": "69",
+    "original_publisher_figure": "figures/PMC6969502_fig3.jpg",
+    "original_sha256": "5570ec352067db60f31e9a2e4c86cda7a96f5f0e9631a184e9a7dad34076de6f",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6969502/supplementaryFiles",
+    "box": [
+      0,
+      0,
+      1,
+      0.558
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_69.png",
+    "original_figure_legend": "Fig. 3.(A) Average percentage of duration near the sound source area in Experiments 1–3. (B) Time series of percentage of duration near the sound source area in each session of Experiments 1–4."
+  },
+  "68": {
+    "content_id": "68",
+    "original_publisher_figure": "figures/PMC6969502_fig2.jpg",
+    "original_sha256": "13aed3d0c72f46f2ce901e7861420e9e39d7b43ab09fe76f098631d0adb82763",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6969502/supplementaryFiles",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_68.png",
+    "original_figure_legend": "Fig. 2.(A) Picture of Akira in a bipedal posture with tracking markers on his nose. (B) Correlation between movement periodicity and beat tempo in the bipedal posture. (C) Picture of Akira in a quadrupedal posture with tracking markers on his nose. (D) Correlation between movement periodicity and beat tempo in the quadrupedal posture."
+  },
+  "71": {
+    "content_id": "71",
+    "original_publisher_figure": "figures/PMC6969502_fig1.jpg",
+    "original_sha256": "4b0f51849188aee4176a8a24499d56b40cc082c848d2eaa6e16a39441e977aea",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6969502/supplementaryFiles",
+    "box": [
+      0,
+      0.513,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_71.png",
+    "original_figure_legend": "Fig. 1.(A) Schematic drawing of the sound stimuli. Each sound was made up of an acoustic piano sound. Sound stimulus was made by manipulating interonset interval of C3 tones. (B) Schematic drawing of the experimental setting. (C) Percentage of duration for rhythmic movement observed while playing auditory stimuli in Experiment 1. (D) Average number of trials in which vocalization was recorded in Experiment 1. (E) Percentage of duration for rhythmic movement in test trials and intertrial intervals."
+  },
+  "56": {
+    "content_id": "56",
+    "original_publisher_figure": "figures/PMC11262799_fig1.jpg",
+    "original_sha256": "852db81f46ac42805ba436706846523ccb1dacd7b0af41270bad36596a4d1709",
+    "source_url": "https://cdn.elifesciences.org/articles/94509/elife-94509-fig1-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.51
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_56.png",
+    "original_figure_legend": "Figure 1.Concepts, stimuli, and recordings.(A) Conceptual definition of selective, preferred, and shared neural processes. Illustration of the continua between speech and music selectivity, speech and music preference, and shared resources. ‘Selective’ responses are neural responses significant for one domain but not the other, and with a significant difference between domains (for speech top left; for music bottom right). ‘Preferred’ responses correspond to neural responses that occur during both speech and music processing, but with a significantly stronger response for one domain over the other (striped triangles). Finally, ‘shared’ responses occur when there are no significant differences between domains, and there is a significant neural response to at least one of the two stimuli (visible along the diagonal). If neither domain produces a significant neural response, the difference is not assessed (lower left square). (B) Stimuli. Modulation spectrum of the acoustic temporal envelope of the continuous, 10 min long speech and music stimuli. (C) Anatomical localization of the stereotactic EEG (sEEG) electrodes for each patient (N=18). (D) Anatomical localization of the sEEG electrodes for each anatomical region. Abbreviations according to the Human Brainnetome Atlas (Fan et al., 2016)."
+  },
+  "74": {
+    "content_id": "74",
+    "original_publisher_figure": "figures/PMC6969502_fig3.jpg",
+    "original_sha256": "5570ec352067db60f31e9a2e4c86cda7a96f5f0e9631a184e9a7dad34076de6f",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6969502/supplementaryFiles",
+    "box": [
+      0,
+      0,
+      1,
+      0.558
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_74.png",
+    "original_figure_legend": "Fig. 3.(A) Average percentage of duration near the sound source area in Experiments 1–3. (B) Time series of percentage of duration near the sound source area in each session of Experiments 1–4."
+  },
+  "73": {
+    "content_id": "73",
+    "original_publisher_figure": "figures/PMC6969502_fig2.jpg",
+    "original_sha256": "13aed3d0c72f46f2ce901e7861420e9e39d7b43ab09fe76f098631d0adb82763",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6969502/supplementaryFiles",
+    "box": [
+      0,
+      0,
+      0.415,
+      0.475
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_73.png",
+    "original_figure_legend": "Fig. 2.(A) Picture of Akira in a bipedal posture with tracking markers on his nose. (B) Correlation between movement periodicity and beat tempo in the bipedal posture. (C) Picture of Akira in a quadrupedal posture with tracking markers on his nose. (D) Correlation between movement periodicity and beat tempo in the quadrupedal posture."
+  },
+  "72": {
+    "content_id": "72",
+    "original_publisher_figure": "figures/PMC2244806_fig3.jpg",
+    "original_sha256": "de3fcc209e217bde5023127316c4ca84a07ce9c54b197e839d32fe71a38276d0",
+    "source_url": "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0001679.g003",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_72.png",
+    "original_figure_legend": "Figure 3Three-dimensional surface projection of activations and deactivations associated with improvisation during the Jazz paradigm.Medial prefrontal cortex activation, dorsolateral prefrontal cortex deactivation, and sensorimotor activation can be seen. The scale bar shows the range of t-scores; the axes demonstrate anatomic orientation. Abbreviations: a, anterior; p, posterior; d, dorsal; v, ventral; R, right; L, left."
+  },
+  "76": {
+    "content_id": "76",
+    "original_publisher_figure": "figures/PMC9836393_fig2.jpg",
+    "original_sha256": "79da4c3e5d41b3c8f5f7b64d192508d0ca83f20f3e78c9c6b19ebc457ba2f0bd",
+    "source_url": "https://cdn.elifesciences.org/articles/80935/elife-80935-fig2-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_76.png",
+    "original_figure_legend": "Figure 2.Model performance on the musical stimuli used in the MEG study.(A) Comparison of music model performance in predicting upcoming note pitch, as composition-level accuracy (left; higher is better), median surprise across notes (middle; lower is better), and median uncertainty across notes (right). Context length for each model is the best performing one across the range shown in (B). Vertical bars: single compositions, circle: median, thick line: quartiles, thin line: quartiles ±1.5 × interquartile range. (B) Accuracy of note pitch predictions (median across 19 compositions) as a function of context length and model class (same color code as (A)). Dots represent maximum for each model class. (C) Correlations between the surprise estimates from the best models. (For similar results for the musical stimuli used in the EEG study, see Appendix 1—figure 2)."
+  },
+  "78": {
+    "content_id": "78",
+    "original_publisher_figure": "figures/PMC6987702_fig1.jpg",
+    "original_sha256": "b4ff6c90c8eddb33794b323cdb200f7241ab3fee688733f7f11451835abdafaf",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6987702/supplementaryFiles",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_78.png",
+    "original_figure_legend": "Fig. 1Diagram depicting numbers of participants recruited, enrolled and lost to follow up.Fig. 1"
+  },
+  "70": {
+    "content_id": "70",
+    "original_publisher_figure": "figures/PMC2244806_fig1.jpg",
+    "original_sha256": "529b620c799fc0ad3824a624f2ca6bb3c1a1383dd8ded76488fa2275a08f7a7a",
+    "source_url": "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0001679.g001",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_70.png",
+    "original_figure_legend": "Figure 1Low complexity (Scale) and high complexity (Jazz) experimental paradigms used to study spontaneous musical creativity.In the upper portion of the figure, the non-ferromagnetic MIDI piano keyboard that was used during functional MRI scanning is shown. This keyboard had thirty five full-size piano keys which triggered high-quality piano sound samples generated outside of the scanner, which were immediately routed back to the musicians using audiophile quality electrostatic earphone speakers. During scanning, subjects were randomly cued to play either the over-learned control condition or to improvise spontaneously. For Scale's control condition, subjects repeatedly played a one octave ascending and descending C major scale in quarter notes for the duration of the block (ScaleCtrl, upper left). For Scale's improvisation condition, subjects improvised in quarter notes only, selecting all notes from within one octave and from the C major scale notes alone (example shown under ScaleImprov, upper right). For Jazz's control condition, subjects played a novel melody that was memorized prior to scanning (JazzCtrl, lower left). For Jazz's improvisation condition, subjects improvised using the composition's underlying chord structure as the basis for spontaneous creative output (example shown under JazzImprov, lower right). Note that for JazzCtrl and JazzImprov, eighth notes are typically performed with a “swing” feel that is not accurately represented using standard musical notation, in both the control and improvisation conditions. Audio samples of the four musical excerpts shown here are provided in Supporting Information."
+  },
+  "80": {
+    "content_id": "80",
+    "original_publisher_figure": "figures/PMC6987702_fig3.jpg",
+    "original_sha256": "6c7d2a85db762660c557a55b989ba55302c6a5bf9c7785dd7d9da9a7dcbece75",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6987702/supplementaryFiles",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_80.png",
+    "original_figure_legend": "Fig. 3Example of melodic stimuli for pitch discrimination task, in same and different conditions.Fig. 3"
+  },
+  "77": {
+    "content_id": "77",
+    "original_publisher_figure": "figures/PMC11483129_fig3.jpg",
+    "original_sha256": "0c3590fb96468a99fc866c24edd59c4ca99e8e9f7c0a9416ef145611966a5c37",
+    "source_url": "https://cdn.elifesciences.org/articles/83838/elife-83838-fig3-v1.jpg",
+    "box": [
+      0,
+      0.352,
+      1,
+      0.674
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_77.png",
+    "original_figure_legend": "Figure 3.Superficial white matter analysis.(A–D) Apparent fiber density (AFD) of superficial white matter was systematically sampled (red dashes in C) along synthetic streamlines (red lines in A and C) that extend from each vertex (red circles) of the gray/white matter interface surface toward the ventricles following a Laplacian field (A–C). The integral of all fiber orientation distribution functions (FOD, D) corresponds to the total apparent fiber density (totalAFD), further separated (B) into fiber densities corresponding to fibers entering/exiting the cortex parallel to the Laplacian streamlines (parAFD) and U-fibers running tangentially to the cortex (tanAFD). (E) There are widespread significant correlations between the subjects’ asynchronies during the synchronization-continuation task (SCT) with an auditory metronome and totalAFD, shown here for the 650 ms interval (E). (F) Large areas within the frontal, parietal, and occipital lobes showed significant correlations between behavior and tanAFD. (G) Only restricted frontal and temporal regions showed correlation between parAFD and the asynchronies. (H) Coefficient of determination across the 32 subjects between the three AFD metrics and asynchronies for one exemplary vertex (yellow dot in E–G).Figure 3—figure supplement 1.Characterization of the superficial white matter (SWM) properties associated with synchronization-continuation task (SCT) performance.The surface-based analysis (SBA) was used to assess the association between the performance metrics of the SCT and the metrics to characterize the SWM sampled in five depths with respect to the gray/white matter interface. The number of significant vertices (both hemispheres) after SBA is shown for the three diffusion-weighted imaging (DWI) metric maps, through five depths sampled, and the four behavioral metrics in five intervals, two epochs, and two modalities. The number of vertices for the three apparent fiber density (AFD) metrics showed association only with the absolute asynchronies of the different intervals of the auditory modality. The largest significant clusters were observed between the absolute asynchronies for the 650 and 750 ms intervals through the five depths sampled in the three AFD metrics. The SBA results were corrected to multiple comparisons, using as thresholds pcft < 0.001 and pcluster < 0.001. AFD: apparent fiber density; tanAFD: tangential apparent fiber density; parAFD: parallel apparent fiber density; Async: absolute asynchronies; Lag 1: lag 1 of the autocorrelation for each instructed interval; CE: constant error; TV: temporal variability; Sync: synchronization; Cont: continuation.Figure 3—video 1.Spatial correlations between the superficial white matter (SWM) apparent fiber density and interval-specific absolute asynchronies of the auditory modality.Coefficient of determination of the significant cluster vertices after surface-based analysis through the depths sampled (pFWE < 0.001 and pcluster < 0.001).Figure 3—video 2.Spatial correlations between the tangential superficial white matter (SWM) apparent fiber density and interval-specific absolute asynchronies of the auditory modality.Coefficient of determination of the significant cluster vertices after surface-based analysis through the depths sampled (pFWE < 0.001 and pcluster < 0.001).Figure 3—video 3.Spatial correlations between the parallel superficial white matter (SWM) apparent fiber density and interval-specific absolute asynchronies of the auditory modality.Coefficient of determination of the significant cluster vertices after surface-based analysis through the depths sampled (pFWE < 0.001 and pcluster < 0.001)."
+  },
+  "31": {
+    "content_id": "31",
+    "original_publisher_figure": "figures/PMC4575990_fig1.jpg",
+    "original_sha256": "a78c04e9e7f3338514383b59763640f3055ba40b3a0cc80dc6d07cb954ee2978",
+    "source_url": "https://cdn.elifesciences.org/articles/08477/elife-08477-fig1-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.26
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_31.png",
+    "original_figure_legend": "10.7554/eLife.08477.003Figure 1.Intersectional labeling of auditory neurons.(A) Intersectional labeling of male aPN1 neurons using three independent GAL4 lines shown registered onto a standard brain (R21B12-GAL4 in green, R22B11-GAL4 in magenta, and R49F09-GAL4 in yellow). White region is a result of overlapping between different color channels. (B) Intersectional labeling of male ventrolateral protocerebrum Projection Neuron 1 (vPN1) neurons using R72E10-GAL4 (green) and R46F09-GAL4 (magenta). (C) Co-registration of male aPN1 neurons (green) and vPN1 neurons (magenta) onto the standard brain shows significant overlap in WED. aPN1 and vPN1 neurons are labeled by R49F09-GAL4 ∩ fruLexA and R72E10-GAL4 ∩ fruLexA, respectively. (D–F) aPN1 neurons are present in both male (D) and female (E) brains of LexAop2-FLP/+; fruLexA, UAS>stop>myr::GFP/49F09-GAL4 flies. (F) Merge of (D) and (E). (G–I) vPN1 neurons are present in male (G) but absent in female (H) brains of LexAop2-FLP/+; fruLexA, UAS>stop>myr::GFP/72E10-GAL4 flies. (I) Merge of (G) and (H). (J) Schematic drawing of GAL4/LexA intersection for labeling subsets of fruM+ neurons. FLP expression induced by fruLexA will remove the stop cassette to allow GFP reporter expression only in neurons expressing both fruLexA and the CRM-GAL4. Scale bars, 50 μm. All images were aligned and registered onto a standard brain.DOI: http://dx.doi.org/10.7554/eLife.08477.00310.7554/eLife.08477.004Figure 1—source data 1.Quantification of aPN1 or VPN1 neurons labeled by intersectional drivers.DOI: http://dx.doi.org/10.7554/eLife.08477.004"
+  },
+  "75": {
+    "content_id": "75",
+    "original_publisher_figure": "figures/PMC11483129_fig3.jpg",
+    "original_sha256": "0c3590fb96468a99fc866c24edd59c4ca99e8e9f7c0a9416ef145611966a5c37",
+    "source_url": "https://cdn.elifesciences.org/articles/83838/elife-83838-fig3-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.35
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_75.png",
+    "original_figure_legend": "Figure 3.Superficial white matter analysis.(A–D) Apparent fiber density (AFD) of superficial white matter was systematically sampled (red dashes in C) along synthetic streamlines (red lines in A and C) that extend from each vertex (red circles) of the gray/white matter interface surface toward the ventricles following a Laplacian field (A–C). The integral of all fiber orientation distribution functions (FOD, D) corresponds to the total apparent fiber density (totalAFD), further separated (B) into fiber densities corresponding to fibers entering/exiting the cortex parallel to the Laplacian streamlines (parAFD) and U-fibers running tangentially to the cortex (tanAFD). (E) There are widespread significant correlations between the subjects’ asynchronies during the synchronization-continuation task (SCT) with an auditory metronome and totalAFD, shown here for the 650 ms interval (E). (F) Large areas within the frontal, parietal, and occipital lobes showed significant correlations between behavior and tanAFD. (G) Only restricted frontal and temporal regions showed correlation between parAFD and the asynchronies. (H) Coefficient of determination across the 32 subjects between the three AFD metrics and asynchronies for one exemplary vertex (yellow dot in E–G).Figure 3—figure supplement 1.Characterization of the superficial white matter (SWM) properties associated with synchronization-continuation task (SCT) performance.The surface-based analysis (SBA) was used to assess the association between the performance metrics of the SCT and the metrics to characterize the SWM sampled in five depths with respect to the gray/white matter interface. The number of significant vertices (both hemispheres) after SBA is shown for the three diffusion-weighted imaging (DWI) metric maps, through five depths sampled, and the four behavioral metrics in five intervals, two epochs, and two modalities. The number of vertices for the three apparent fiber density (AFD) metrics showed association only with the absolute asynchronies of the different intervals of the auditory modality. The largest significant clusters were observed between the absolute asynchronies for the 650 and 750 ms intervals through the five depths sampled in the three AFD metrics. The SBA results were corrected to multiple comparisons, using as thresholds pcft < 0.001 and pcluster < 0.001. AFD: apparent fiber density; tanAFD: tangential apparent fiber density; parAFD: parallel apparent fiber density; Async: absolute asynchronies; Lag 1: lag 1 of the autocorrelation for each instructed interval; CE: constant error; TV: temporal variability; Sync: synchronization; Cont: continuation.Figure 3—video 1.Spatial correlations between the superficial white matter (SWM) apparent fiber density and interval-specific absolute asynchronies of the auditory modality.Coefficient of determination of the significant cluster vertices after surface-based analysis through the depths sampled (pFWE < 0.001 and pcluster < 0.001).Figure 3—video 2.Spatial correlations between the tangential superficial white matter (SWM) apparent fiber density and interval-specific absolute asynchronies of the auditory modality.Coefficient of determination of the significant cluster vertices after surface-based analysis through the depths sampled (pFWE < 0.001 and pcluster < 0.001).Figure 3—video 3.Spatial correlations between the parallel superficial white matter (SWM) apparent fiber density and interval-specific absolute asynchronies of the auditory modality.Coefficient of determination of the significant cluster vertices after surface-based analysis through the depths sampled (pFWE < 0.001 and pcluster < 0.001)."
+  },
+  "79": {
+    "content_id": "79",
+    "original_publisher_figure": "figures/PMC11483129_fig3.jpg",
+    "original_sha256": "0c3590fb96468a99fc866c24edd59c4ca99e8e9f7c0a9416ef145611966a5c37",
+    "source_url": "https://cdn.elifesciences.org/articles/83838/elife-83838-fig3-v1.jpg",
+    "box": [
+      0,
+      0.688,
+      0.49,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_79.png",
+    "original_figure_legend": "Figure 3.Superficial white matter analysis.(A–D) Apparent fiber density (AFD) of superficial white matter was systematically sampled (red dashes in C) along synthetic streamlines (red lines in A and C) that extend from each vertex (red circles) of the gray/white matter interface surface toward the ventricles following a Laplacian field (A–C). The integral of all fiber orientation distribution functions (FOD, D) corresponds to the total apparent fiber density (totalAFD), further separated (B) into fiber densities corresponding to fibers entering/exiting the cortex parallel to the Laplacian streamlines (parAFD) and U-fibers running tangentially to the cortex (tanAFD). (E) There are widespread significant correlations between the subjects’ asynchronies during the synchronization-continuation task (SCT) with an auditory metronome and totalAFD, shown here for the 650 ms interval (E). (F) Large areas within the frontal, parietal, and occipital lobes showed significant correlations between behavior and tanAFD. (G) Only restricted frontal and temporal regions showed correlation between parAFD and the asynchronies. (H) Coefficient of determination across the 32 subjects between the three AFD metrics and asynchronies for one exemplary vertex (yellow dot in E–G).Figure 3—figure supplement 1.Characterization of the superficial white matter (SWM) properties associated with synchronization-continuation task (SCT) performance.The surface-based analysis (SBA) was used to assess the association between the performance metrics of the SCT and the metrics to characterize the SWM sampled in five depths with respect to the gray/white matter interface. The number of significant vertices (both hemispheres) after SBA is shown for the three diffusion-weighted imaging (DWI) metric maps, through five depths sampled, and the four behavioral metrics in five intervals, two epochs, and two modalities. The number of vertices for the three apparent fiber density (AFD) metrics showed association only with the absolute asynchronies of the different intervals of the auditory modality. The largest significant clusters were observed between the absolute asynchronies for the 650 and 750 ms intervals through the five depths sampled in the three AFD metrics. The SBA results were corrected to multiple comparisons, using as thresholds pcft < 0.001 and pcluster < 0.001. AFD: apparent fiber density; tanAFD: tangential apparent fiber density; parAFD: parallel apparent fiber density; Async: absolute asynchronies; Lag 1: lag 1 of the autocorrelation for each instructed interval; CE: constant error; TV: temporal variability; Sync: synchronization; Cont: continuation.Figure 3—video 1.Spatial correlations between the superficial white matter (SWM) apparent fiber density and interval-specific absolute asynchronies of the auditory modality.Coefficient of determination of the significant cluster vertices after surface-based analysis through the depths sampled (pFWE < 0.001 and pcluster < 0.001).Figure 3—video 2.Spatial correlations between the tangential superficial white matter (SWM) apparent fiber density and interval-specific absolute asynchronies of the auditory modality.Coefficient of determination of the significant cluster vertices after surface-based analysis through the depths sampled (pFWE < 0.001 and pcluster < 0.001).Figure 3—video 3.Spatial correlations between the parallel superficial white matter (SWM) apparent fiber density and interval-specific absolute asynchronies of the auditory modality.Coefficient of determination of the significant cluster vertices after surface-based analysis through the depths sampled (pFWE < 0.001 and pcluster < 0.001)."
+  },
+  "82": {
+    "content_id": "82",
+    "original_publisher_figure": "figures/PMC5662181_fig2.jpg",
+    "original_sha256": "0b8c63f405cd7eb02a30f34120f764e0375d85f04aec9d228a234ea533828886",
+    "source_url": "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0187254.g002",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_82.png",
+    "original_figure_legend": "10.1371/journal.pone.0187254.g002Fig 2Color-Word Stroop task fMRI paradigm.Example of a single scanning session of the fMRI Color-Word Stroop task. Each run contained six blocks (three congruent, three incongruent). Each block contained 12 trials (1700ms per trial with a 300ms interval between). Each block was followed by a 16 second rest period for a total scan time of 240s per run."
+  },
+  "86": {
+    "content_id": "86",
+    "original_publisher_figure": "figures/PMC11907061_fig1.jpg",
+    "original_sha256": "250206b0f6de8103cb6c7c40ec8641d9305aa2086715cbcd5049a3b211f91ec9",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11907061/supplementaryFiles",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_86.png",
+    "original_figure_legend": "FIGURE 1fMRI task design (A) and example shuffling of song triplets within one run (B). In panel B, FC = Familiar Control song block, UC = Unfamiliar Control song block, N = Nostalgia song block, R = rest period. Numbers indicate placement within triplet (i.e., FC1 is the Familiar Control song that is musically matched to Nostalgia song 1 (N1) and Unfamiliar Control song 1 (UC1))."
+  },
+  "84": {
+    "content_id": "84",
+    "original_publisher_figure": "figures/PMC6805726_fig2.jpg",
+    "original_sha256": "1d786bd29128d5e44ab5b8e6dfa68fb8ebad62d5d54370f4048696e42ae3d9a6",
+    "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/13e6/6805726/50b447dec26d/fnins-13-01080-g002.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_84.png",
+    "original_figure_legend": "FIGURE 2Flanker fish task conditions."
+  },
+  "88": {
+    "content_id": "88",
+    "original_publisher_figure": "figures/PMC11907061_fig3.jpg",
+    "original_sha256": "bced2fd970e14a52891ef29ca6d847af303455cd32221ced6386546599e4a5eb",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11907061/supplementaryFiles",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_88.png",
+    "original_figure_legend": "FIGURE 3Felt nostalgia, valence, and arousal during Nostalgia, Familiar Control, and Unfamiliar Control songs. Error bars represent standard errors. Stars indicate statistical significance (*p < 0.05, **p < 0.001, ***p < 0.001). Younger N = 29, Older N = 28."
+  },
+  "62": {
+    "content_id": "62",
+    "original_publisher_figure": "figures/PMC9678363_fig1.jpg",
+    "original_sha256": "bb10a17eca939b449f8436e2ff2cdb0745c70aea371e78215f494fd100a99882",
+    "source_url": "https://cdn.elifesciences.org/articles/74816/elife-74816-fig1-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_62.png",
+    "original_figure_legend": "Figure 1.Experiment setup.(A) In ensemble condition, drummers faced each other in a circle. (B) The main task was synchronization-continuation where participants were paced initially by an auditory stimulus and then had to maintain the rhythm, tempo, and synchronization among each other. The inter-onset intervals between drum hits, shown schematically as vertical lines, were used to obtain individual-level measures of variability and speeding up. Cross-correlation and transfer entropy were used as pair-level measures of synchronization and interaction. (C) Transfer entropies, color, and width-coded, from three sample trials from different groups. Network analysis was applied to these graphs to obtain group-level characterization."
+  },
+  "81": {
+    "content_id": "81",
+    "original_publisher_figure": "figures/PMC8219385_fig1.jpg",
+    "original_sha256": "3fba700dc372b07ae49ac34592c7c00c20b50aea36a878aa00c62a01c02ecdaa",
+    "source_url": "https://cdn.elifesciences.org/articles/66777/elife-66777-fig1-v1.jpg",
+    "box": [
+      0,
+      0.14,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_81.png",
+    "original_figure_legend": "Figure 1.Simplified overview of the experimental setup.(A). Schematic overview of the song control and auditory system of the songbird brain and the cerebellar and hippocampal connections to the rest of the brain (B) and unilateral DWI-based 3D representation of the different nuclei and the interconnecting tracts as deduced from the tractogram (C). Male and female starlings were measured repeatedly as they went through different photoperiods. At each time point, their songs were recorded, blood samples were collected and T2-weighted 3D anatomical and diffusion weighted images (DWI) were acquired. The 3D anatomical images were used to extract whole brain volume (A). The song control system is subdivided in the anterior forebrain pathway (blue arrows) and the song motor pathway (red arrows). The auditory pathway is indicated by green arrows. The orange arrows indicate the connection of the lateral cerebellar nucleus (CbL) to the dorsal thalamic region further connecting to the song control system as suggested by Person et al., 2008; Pidoux et al., 2018 (B,C). Nuclei in (C) are indicated in gray, the tractogram is color-coded according to the standard red-green-blue code (red = left right orientation (L-R), blue = dorso ventral (D-V) and green = rostro caudal (R-C)).Figure 1—video 1.Movie of the unilateral 3D representation of the different nuclei and the interconnecting tracts rotating along the vertical axis."
+  },
+  "91": {
+    "content_id": "91",
+    "original_publisher_figure": "figures/PMC10752583_fig3.jpg",
+    "original_sha256": "5f8981316a975c9a1802b6051e30cf3dae8afe8c32aa74544671d3659d2b15ec",
+    "source_url": "https://cdn.elifesciences.org/articles/86464/elife-86464-fig3-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.255
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_91.png",
+    "original_figure_legend": "Figure 3.Female approach behaviour is not affected by changes to global song structure or the removal of syllable spectro-temporal dynamics.(A) Female approach behaviour during simultaneous playback of intact male songs (top) and corresponding randomised syllable sequences (bottom), displayed as in Figure 2H. Each circle is the preference index displayed by individual animals in one behavioural session (median of four sound presentation trials). Open circles indicate sound playback at 58 dB SPL, filled circles at 68 dB SPL. Bar plot shows mean preference index across sessions, and error bar show 95% confidence interval (CI). One-sample two-tailed t-test, ns: non-significant, p>0.05. (B) Population time course of approach behaviour during the playback of intact (positively weighted) vs randomised songs (negatively weighted), displayed as in Figure 2K. The dark grey trace indicates the population mean of trial-based temporal profiles across all sessions (n = 21 sessions). For each session, the median of four sound presentation trials (e.g. black trace in J) was normalised to the absolute value of its maximal amplitude. At no time bins during the course of a sound playback trial did the cumulative approach behaviour significantly deviate from zero (one-sample two-tailed t-test, all p>0.05). (C) Playback of intact songs (top) contrasted with temporally reversed songs (bottom). (D) Typical time course of approach behaviour during the playback of intact (positively weighted) vs reversed songs (negatively weighted). (E) Playback of intact songs (top) and sequences of phase-scrambled syllables (bottom). (F) Typical time course of approach behaviour during the playback of intact (positively weighted) vs phase-scrambled syllable sequences (negatively weighted). (G) Playback of intact songs (top) contrasted with sequences of pure tones (bottom). (H) Typical time course of approach behaviour during the playback of intact (positively weighted) vs pure tone sequences (negatively weighted).Figure 3—figure supplement 1.Trial-based temporal profiles of approach behaviour.(A) Time course of approach behaviour during one presentation of intact (positively weighted) vs temporally irregular (negatively weighted) mouse song (see Figure 2E), grouped by sound presentation trial (coloured bars), for each behavioural session (n = 24, y-axis). Each trial’s trace was normalised to the absolute value of its maximal amplitude. Within a trial, sessions are ordered by the amplitude of their last element. (B) Time course of approach behaviour during one presentation of intact mouse songs (positively weighted) vs silence (negatively weighted). (C) Time course of approach behaviour during one presentation of intact (positively weighted) vs temporally super-regular (negatively weighted) mouse song. (D) Time course of approach behaviour during one presentation of intact mouse song (positively weighted) vs sequences of randomly ordered syllables (negatively weighted). (E) Time course of approach behaviour during one presentation of intact (positively weighted) vs reversed (negatively weighted) mouse song. (F) Time course of approach behaviour during one presentation of intact mouse songs (positively weighted) vs sequences of phase-scrambled syllables (negatively weighted). (G) Time course of approach behaviour during one presentation of intact mouse songs (positively weighted) vs sequences of pure-tone approximation of syllables (negatively weighted)."
+  },
+  "89": {
+    "content_id": "89",
+    "original_publisher_figure": "figures/PMC10752583_fig2.jpg",
+    "original_sha256": "3a20377691b615cc543016d986aff13fcc7aab0189bc6dc063b19271d372ced5",
+    "source_url": "https://cdn.elifesciences.org/articles/86464/elife-86464-fig2-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.18
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_89.png",
+    "original_figure_legend": "Figure 2.Female mice preferentially approach playbacks of male songs over silence.(A) Video frame showing the testing box with a soundproof partition (middle) positioned between two ultrasonic loudspeakers. White outlines show the two ‘speaker zones’ used as regions of interest for quantifying the animal’s position. (B) Experimental timeline. (C) Tracking of the animal’s position during an example behavioural session, in which a silent baseline period (leftmost panel) is followed by the playback of intact songs from one side contrasted with silence from the other side (coloured panels). Colour saturation indicates time since start of the experimental period of interest. Dark grey outlines indicate the speaker zones. (D) Time the animal spent in the speaker zones during the silent baseline period in (C). (E) Index quantifying the animal’s relative place preference to the left vs right speaker zones during the silent baseline. This index was computed as the difference between the time spent in either speaker zones, normalised by the sum of the time in both speaker zones (see ‘Methods’). A preference index value close to zero indicates no preference to either side. (F) Time spent in the speaker zones corresponding to song playback and silence during each song presentation trial (coloured circles). The black circle shows the median of the four sound presentation trials. Error bars: standard error of the mean. (G) Preference index in response to the playback of intact songs compared to silence over the course of the example session. The black circle shows the median of the four sound presentation trials. The preference index is the difference between the time in the song playback and the silent speaker zones, divided by the sum of the time in both speaker zones. A positive index value reflects the animal’s preferential approach to the sources of song playback over silence. (H) Population summary of female approach response to playback of intact male songs (positive values) over silence (negative). Each circle is the preference index displayed by individual animals in one behavioural session (median of four sound presentation trials). The red circle corresponds to the example session in (C) and (G). Open circles: sound playback at 58 dB SPL, filled circles: 68 dB SPL. Bar plot shows mean preference index across sessions and 95% confidence interval (CI). One-sample two-tailed t-test, **p<0.01. (I) Temporal profile of approach behaviour over the four sound presentation trials in the example session in (C), calculated as the cumulative sum of time in the intact song playback (positively weighted) vs silent (negatively weighted) speaker zone. (J) Trial-averaged profile of approach behaviour to song playback in the example session, calculated as in (I). (K) Population-averaged approach behaviour time course in response to intact mouse songs vs silence, calculated as in (J). The dark grey trace indicates the mean of trial-based temporal profiles across all sessions (n = 29). For each session, the median of four sound presentation trials (e.g. black trace in J) was normalised to its maximal amplitude. The horizontal black bar indicates time bins during the course of a sound playback trial in which the cumulative approach behaviour significantly deviates from zero (one-sample two-tailed t-test). (L) Normalised temporal profiles of approach behaviour to mouse songs vs silence over the course of four sound presentation trials (x-axis, coloured bars) for each of the behavioural sessions (y-axis, each animal is one line, n = 29), calculated as in (I). Sessions (lines) are ordered by the amplitude of their last element. (F, G, I, J) Black traces indicate the session average (median) across the four sound presentation trials (coloured traces).Figure 2—figure supplement 1.No difference in listener age across playback experiments.The mice participating in each type of playback experiment were of similar age (one-way ANOVA, F(6, 153) = 0.013, p=1.0). Shown is mean and 95% confidence interval.Figure 2—figure supplement 2.Approach behaviour is consistent across varying speaker zone lengths.(A) Tracking of the mouse’s position over the course of a behavioural session in the two-compartment behavioural box with a soundproof partition (middle) positioned between two ultrasonic loudspeakers (top). Green outlines show the two ‘speaker zones’ used as regions of interest for quantifying the animal’s position. The grey-shaded image illustrates the speaker zone used throughout the study. Additional images illustrate speaker zones with varying lengths as the distal edge is moved closer and/or further away from the speakers. (B) Population preference index used to quantify approach behaviour in response to playback of intact songs (positive values) relative to silence (negative value) for varying speaker zone lengths in panel (A). The grey shading indicates the speaker zone used throughout the study. Shown is mean and 95% confidence interval. One-sample two-tailed t-test, **p<0.01, ns: non-significant, p>0.05. (C) Population preference index used to quantify approach behaviour in response to intact songs (positive values) relative to sequences of randomly ordered syllables (negative value), displayed as in panel (B). (D) Population preference index used to quantify approach behaviour in response to intact songs (positive values) relative to sequences of phase-scrambled syllables (negative value). (E) Population preference index used to quantify approach behaviour in response to intact (positive values) relative to temporally irregular (negative value) songs. (F) Population preference index used to quantify approach behaviour in response to intact (positive values) relative to reversed (negative value) songs. (G) Population preference index used to quantify approach behaviour in response to intact songs (positive values) relative to sequences of pure-tone approximation of syllables (negative value). (H) Population preference index used to quantify approach behaviour in response to intact (positive values) relative to temporally super-regular (negative value) songs.Figure 2—video 1.Example video tracking of mouse approach behaviour.Third sound presentation trial from example behavioural session (green trace in Figure 2C), with intact song playback from the left speaker.Figure 2—video 2.Example video tracking of mouse approach behaviour.Fourth sound presentation trial from example behavioural session (green trace in Figure 2C), with intact song playback from the left speaker."
+  },
+  "96": {
+    "content_id": "96",
+    "original_publisher_figure": "figures/behavior_fig1.gif",
+    "original_sha256": "4fac9657aceb84f574041ededbbe7a3d609b92f292620b6c5f8c9b73fdb0013e",
+    "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2F35009102/MediaObjects/41586_2000_Article_BF35009102_Fig1_HTML.gif",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_96.png",
+    "original_figure_legend": "Figure 1: The behavioural role of retinal projections routed to the auditory pathway."
+  },
+  "83": {
+    "content_id": "83",
+    "original_publisher_figure": "figures/PMC8219385_fig2.jpg",
+    "original_sha256": "c89cd90e360ab0cd2e7c2465d4e1c003a4ffbbab4305dad06a561fe0d4b9d55b",
+    "source_url": "https://cdn.elifesciences.org/articles/66777/elife-66777-fig2-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.466
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_83.png",
+    "original_figure_legend": "Figure 2.Overview of the population-based tractogram of male and female starlings over the seasons created for the fixel-based analysis with indications of different lamina, interconnecting tracts, nuclei, and brain regions displayed on axial (A) and coronal slices (B) throughout the brain.The different intervals of the coronal and axial sectioning are indicated on the saggittal inset in the left corner of each panel. The coronal slices do not follow a strict interval to visualise small nuclei such as DLM and Ov. The crosshair indicates the color-coding of the tractogram following the standard red-green-blue code (red = left right orientation (L-R), blue = dorso ventral (D-V) and green = rostro caudal (R-C)).Figure 2—video 1.Movie of the population-based tractogram of male and female starlings scanning through the coronal slices with the different lamina, interconnecting tracts, nuclei, and brain regions indicated."
+  },
+  "93": {
+    "content_id": "93",
+    "original_publisher_figure": "figures/PMC4413254_fig3.jpg",
+    "original_sha256": "aaee541e6065010fb2ed6a5298b3a2de533905fad79f9ad207b14cd1ecdd03a9",
+    "source_url": "https://cdn.elifesciences.org/articles/05651/elife-05651-fig3-v1.jpg",
+    "box": [
+      0,
+      0,
+      0.52,
+      0.453
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_93.png",
+    "original_figure_legend": "10.7554/eLife.05651.006Figure 3.Porpoise biosonar beam widens at short target ranges.3 dB beamwidth recorded in two experimental setups: (A, B) three harbour porpoises closing on prey and (C, D) a harbour porpoise approaching an aluminum sphere target. (A, C) show reconstructed porpoise locations for clicks fulfilling inclusion criteria in one trial per array configuration. Targets and their projections in the x–y plane are marked with dark-blue filled and open circles, respectively. For the small array recordings (light blue in C), the target was displaced outward to 0.4 m from the array to maintain high spatial resolution at short ranges. (B) Data collected using a horizontal array with effective angular resolution (EAR) of ∼12° at ranges of target interception (N = 75). Data points from Freja, the porpoise participating in experiment two, are represented with circles. (D) Data gathered with star-shaped arrays in two configurations: large (red in C), for long-range recordings (>1.3 m from array to sound source, squares, N = 34) and small (light blue in C), for greater resolution at short ranges (<2 m from array to sound source, circles, N = 458) (see Figure 4—figure supplement 1 for a detailed view of hydrophone spacing in the two array configurations). Hydrophone spacing provided EAR of ∼5° at the shortest ranges from the source examined. Color in (B) and (D) indicates inter-click intervals (ICI), with buzz starting at 13 ms (Wisniewska et al., 2012). Buzz- and regular-click datasets in (D), used at short- and long-ranges, respectively, have different distributions, but similar medians, because during buzzes the animal repeatedly changed its beamwidth (Figure 6). Beam of the long-range clicks varied less and is better approximated by the median.DOI: http://dx.doi.org/10.7554/eLife.05651.006"
+  },
+  "97": {
+    "content_id": "97",
+    "original_publisher_figure": "figures/PMC6707786_fig11.jpg",
+    "original_sha256": "b8ac14c4d762010e44f6608053fa4e17e1cabc76025c8e53d990dcb221809723",
+    "source_url": "https://cdn.elifesciences.org/articles/48932/elife-48932-fig11-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_97.png",
+    "original_figure_legend": "Figure 11.One frame of volume rendered animations for Subject 01 statistical maps (experiment 1 positive t-values and thresholded (col 1–2) and experiment 2 positive t-values and thresholded (col 3–4)).Viewing angle here is similar to Figure 1.Figure 11—﻿video 1.Subject 01 experiment 1 vs experiment 2.10.7554/eLife.48932.037Figure 11—video 2.Subject 02 experiment 1 vs experiment 2.10.7554/eLife.48932.038Figure 11—video 3.Subject 05 experiment 1 vs experiment 2.10.7554/eLife.48932.039Figure 11—video 4.Subject 09 experiment 1 vs experiment 2.10.7554/eLife.48932.040Figure 11—video 5.Subject 10 experiment 1 vs experiment 2.10.7554/eLife.48932.041Figure 11—video 6.Subject 11 experiment 1 vs experiment 2.10.7554/eLife.48932.042Figure 11—video 7.Group average (N=6) unthresholded positive t-values for experiment 1 vs experiment 2.10.7554/eLife.48932.043"
+  },
+  "98": {
+    "content_id": "98",
+    "original_publisher_figure": "figures/PMC10427021_fig1.jpg",
+    "original_sha256": "a85765596bf1784066978376f9670d77e4037f98511930b91c1abe74e22d7abf",
+    "source_url": "https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.3002176.g001",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_98.png",
+    "original_figure_legend": "10.1371/journal.pbio.3002176.g001Fig 1Protocol, data preparation, and encoding model fitting.(A) Top: Waveform of the entire song stimulus. Participants listened to a 190.72-second rock song (Another Brick in the Wall, Part 1, by Pink Floyd) using headphones. Bottom: Auditory spectrogram of the song. Orange bars on top represent parts of the song with vocals. (B) X-ray showing electrode coverage of 1 representative patient. Each dot is an electrode, and the signal from the 4 highlighted electrodes is shown in (C). (C) HFA elicited by the song stimulus in 4 representative electrodes. (D) Zoom-in on 10 seconds (black bars in A and C) of the auditory spectrogram and the elicited neural activity in a representative electrode. Each time point of the HFA (yi, red dot) is paired with a preceding 750-ms window of the song spectrogram (Xi, black rectangle) ending at this time point (right edge of the rectangle, in red). The set of all pairs (Xi, yi), with i ranging from .75 to 190.72 seconds constitute the examples (or observations) used to train and evaluate the linear encoding models. Linear encoding models used here consist in predicting the neural activity (y) from the auditory spectrogram (X), by finding the optimal intercept (a) and coefficients (w). (E) STRF for the electrode shown in red in (B), (C), and (D). STRF coefficients are z-valued and are represented as w in the previous equation. Note that 0 ms (timing of the observed HFA) is at the right end of the x-axis, as we predict HFA from the preceding auditory stimulus. The data underlying this figure can be obtained at https://doi.org/10.5281/zenodo.7876019. HFA, high-frequency activity; STRF, spectrotemporal receptive field."
+  },
+  "87": {
+    "content_id": "87",
+    "original_publisher_figure": "figures/PMC5245967_fig3.jpg",
+    "original_sha256": "6e0dbb8000d45b3821b0e1511bda0f2b149e5f762114846848152f29e60796e8",
+    "source_url": "https://cdn.elifesciences.org/articles/17197/elife-17197-fig3-v2.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.31
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_87.png",
+    "original_figure_legend": "10.7554/eLife.17197.007Figure 3.Protein synthesis requirement in auditory and visual imprinting.(a) The protein-synthesis inhibitor cycloheximide (CHX, n = 12) injected immediately after 1 hr training (left) had no effect on the auditory preference index compared to controls (n = 15) and vehicle-injected (n = 14) groups. In contrast, 2 hr training, which induced stronger preference to the imprinted sound, was blocked by CHX-treatment (n = 11) compared to controls (n = 13) and vehicle-injected group (n = 9). (b) Visual imprinting was already robust after 1 hr training (left) in controls (n = 15) and chickens injected with vehicle (n = 14), and blocked by CHX-administration (n = 12). On the other hand, 2 hr training (right) also induced robust preference to the imprinted visual object in controls (n = 13) and vehicle-injected chickens (n = 9) but was not blocked by CHX administration (n = 12). Plots show mean and SEM, * indicates p<0.05 from two-ways ANOVA test, Bonferroni Post hoc test. (c) SUnSET protocol used to detect experience-dependent translation changes in MNM and IMM in the presence or absence of CHX. (d,e) Puromycin (green) incorporation is decreased in trained animals treated with CHX. S6 (red) was used to identify cell somas. Sample sizes: MNM trained (five chickens, 40 images at 10X, zoom 3X); MNM trained and CHX administration (six chickens, 48 images at 10X, zoom 3X); IMM trained (five chickens, 39 images at 10X, zoom 3X); IMM trained and CHX administration (six chickens, 47 images at 10X, zoom 3X). Bar plots show mean and SEM; * indicates p<0.05 from unpaired Mann-Whitney test.DOI: http://dx.doi.org/10.7554/eLife.17197.00710.7554/eLife.17197.008Figure 3—source data 1.Preference indexes and SUnSET results from control chickens and injected with cycloheximide.DOI: http://dx.doi.org/10.7554/eLife.17197.008"
+  },
+  "95": {
+    "content_id": "95",
+    "original_publisher_figure": "figures/PMC4413254_fig3.jpg",
+    "original_sha256": "aaee541e6065010fb2ed6a5298b3a2de533905fad79f9ad207b14cd1ecdd03a9",
+    "source_url": "https://cdn.elifesciences.org/articles/05651/elife-05651-fig3-v1.jpg",
+    "box": [
+      0,
+      0.46,
+      0.52,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_95.png",
+    "original_figure_legend": "10.7554/eLife.05651.006Figure 3.Porpoise biosonar beam widens at short target ranges.3 dB beamwidth recorded in two experimental setups: (A, B) three harbour porpoises closing on prey and (C, D) a harbour porpoise approaching an aluminum sphere target. (A, C) show reconstructed porpoise locations for clicks fulfilling inclusion criteria in one trial per array configuration. Targets and their projections in the x–y plane are marked with dark-blue filled and open circles, respectively. For the small array recordings (light blue in C), the target was displaced outward to 0.4 m from the array to maintain high spatial resolution at short ranges. (B) Data collected using a horizontal array with effective angular resolution (EAR) of ∼12° at ranges of target interception (N = 75). Data points from Freja, the porpoise participating in experiment two, are represented with circles. (D) Data gathered with star-shaped arrays in two configurations: large (red in C), for long-range recordings (>1.3 m from array to sound source, squares, N = 34) and small (light blue in C), for greater resolution at short ranges (<2 m from array to sound source, circles, N = 458) (see Figure 4—figure supplement 1 for a detailed view of hydrophone spacing in the two array configurations). Hydrophone spacing provided EAR of ∼5° at the shortest ranges from the source examined. Color in (B) and (D) indicates inter-click intervals (ICI), with buzz starting at 13 ms (Wisniewska et al., 2012). Buzz- and regular-click datasets in (D), used at short- and long-ranges, respectively, have different distributions, but similar medians, because during buzzes the animal repeatedly changed its beamwidth (Figure 6). Beam of the long-range clicks varied less and is better approximated by the median.DOI: http://dx.doi.org/10.7554/eLife.05651.006"
+  },
+  "85": {
+    "content_id": "85",
+    "original_publisher_figure": "figures/PMC5245967_fig1.jpg",
+    "original_sha256": "7d4810ed2dd3e6a84a177f67c8e6b16b7b962019aaa8c8ebbc691bb7f697bc5e",
+    "source_url": "https://cdn.elifesciences.org/articles/17197/elife-17197-fig1-v2.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.62
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original source image in a native-resolution PDF wrapper. No redrawing or recoloring.",
+    "figure": "figures/slide_85.png",
+    "original_figure_legend": "10.7554/eLife.17197.003Figure 1.Behavioral paradigm and the critical period for imprinting.(a) Schematic sequence of behavioral experiments. Dark-reared chicks were trained in a running wheel and tested the day after for visual and auditory imprinting. (b) During imprinting training, the chickens were presented with audiovisual stimulation. An animated object moved across the screen while a sound was presented every 3 s, coupled with pulsating movements of the object. (c) Auditory imprinting (left) was assessed by comparing the approaching behavior on the wheel to the imprinted sound or a novel sound. This procedure generated robust auditory imprinting when training was performed the day after hatching (gray, n = 13) but was ineffective four days after hatching (black, n = 12) (right). (d) Visual imprinting (left) was assessed independently, by comparing the approaching behavior to the imprinted or a novel image. Similarly to auditory imprinting, visual imprinting was strong in P1 (gray, n = 13) but absent in P4 (black, n = 12) (right). Plots show mean and SEM, * indicates p<0.05 from two-sample t-test.DOI: http://dx.doi.org/10.7554/eLife.17197.00310.7554/eLife.17197.004Figure 1—source data 1.Preference indexes of trained chickens during (P1) or after the critical period (P4).DOI: http://dx.doi.org/10.7554/eLife.17197.004"
+  }
+}

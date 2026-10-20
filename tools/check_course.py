@@ -43,7 +43,8 @@ def check(spec,deck,manifest):
   edges=[-1]+indices+[n]
   if max(b-a-1 for a,b in zip(edges,edges[1:]))>policy['maximum_content_gap_between_videos']:errors.append('Videos leave a gap of more than three content slides.')
   quarters=[sum(q*n/4<=i<(q+1)*n/4 for i in indices) for q in range(4)]
-  if quarters!=[10,10,10,10]:errors.append(f'Video distribution by quarter is {quarters}; require ten in every quarter.')
+  expected=policy.get('recordings_per_content_quarter',[10,10,10,10])
+  if quarters!=expected:errors.append(f'Video distribution by quarter is {quarters}; require {expected}.')
   if sum(i>=n-10 for i in indices)<policy['minimum_videos_in_final_ten_content_slides']:errors.append('Final ten content slides require at least five videos.')
   import re
   for sn,sl in enumerate(Presentation(deck).slides,1):

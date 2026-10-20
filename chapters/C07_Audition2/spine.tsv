@@ -1,0 +1,98 @@
+1|F|book|7.7|Hearing depends on computations across the brain|PMC6707786:0
+2|F|book|7.7|Central auditory pathways distribute information in parallel|
+3|R|PMC10435236|1|Large brainstem synapses preserve the timing of sound|PMC10435236:0
+4|F|PMC10435236|2|Fast excitation preserves precise timing|
+5|R|PMC10435236|2|A bushy cell combines a small set of powerful inputs|PMC10435236:1
+6|R|PMC11139475|1|Inhibition changes auditory brainstem output|
+7|R|PMC12726825|1|Myelin organizes conduction along sound-localization axons|PMC12726825:0
+8|F|book|7.13|Coincidence detection compares the timing of two inputs|
+9|R|PMC12726825|3|Myelinating cells differ across axon regions|PMC12726825:1
+10|F|book|7.7|Excitation and inhibition compare sound levels across ears|
+11|R|PMC12726825|2|Node spacing can vary along one auditory axon|PMC12726825:2
+12|F|PMC11588337|1|Populations encode sound direction|
+13|R|PMC6707786|9|Mapping human nuclei in a shared brain space|PMC6707786:2
+14|F|book|7.7|The inferior colliculus integrates sound features|
+15|R|PMC6834370|6|Frequency preferences organize the midbrain|PMC6834370:0
+16|R|PMC11908782|1|A microprism reveals deeper auditory activity|
+17|R|PMC6834370|9|Inhibitory modules organize midbrain inputs|PMC6834370:1
+18|F|book|7.7|Auditory thalamus connects midbrain and cortex|
+19|R|PMC6707786|6|High-field imaging traces human auditory pathways in vivo|PMC6707786:1
+20|F|book|7.9|Core, belt, and parabelt transform sound signals|
+21|R|PMC11651653|4|Midbrain activity predicts a mouse's sound-detection choice|PMC11651653:0
+22|F|PMC11651653|3|Detecting a sound differs from identifying it|
+23|R|PMC10435236|3|Several auditory nerve endings converge on one central cell|PMC10435236:2
+24|R|PMC7062464|1|Auditory cortex sends signals back to the inferior colliculus|
+25|R|PMC10435236|8|Dendritic inputs add another route into a brainstem neuron|PMC10435236:4
+26|F|book|7.9|Auditory streams emphasize identity and location|
+27|R|PMC4575990|2|Activating song-responsive cells evokes courtship|PMC4575990:0
+28|R|PMC12456947|1|Higher regions separate natural sound mixtures|
+29|R|PMC4575990|3|A downstream population recruits social action|PMC4575990:1
+30|F|PMC5014546|1|Shared timing helps the brain group sounds into objects|
+31|R|PMC4575990|1|Aligning successive auditory populations|PMC4575990:2
+32|R|PMC5014546|2|Regularity helps a sound emerge from noise|
+33|R|PMC6491041|1|Cortical state changes the code for sound direction|PMC6491041:0
+34|F|book|7.17|Attention changes which sound stream guides a response|
+35|R|PMC7334025|3|Listening direction recruits ear-muscle activity|PMC7334025:2
+36|F|PMC9427107|1|Task goals change auditory cortical responses|
+37|R|PMC4337603|1|Visual timing can strengthen auditory selection|PMC4337603:0
+38|F|PMC12585176|1|Do sights and sounds belong together?|
+39|R|PMC4337603|2|Visual coherence can favor a competing stream|PMC4337603:1
+40|R|PMC5828660|1|Frontal cortex helps select a talker's mouth during speech|
+41|R|PMC4337603|3|What happens when visual timing does not match?|PMC4337603:2
+42|F|PMC7217692|1|Experience changes speech categories|
+43|R|PMC12585176|2|A moving mouth can change the syllable you hear|PMC12585176:0
+44|R|PMC7217692|2|Speech perception recalibrates across timescales|
+45|R|PMC12585176|3|Visual events can shift a voice's apparent location|PMC12585176:2
+46|F|PMC8601661|2|Recognizing a voice requires more than measuring its pitch|
+47|R|PMC7334025|1|A surprising sound recruits an orienting response|PMC7334025:0
+48|F|PMC11620744|1|Predictions span short and longer sound sequences|
+49|R|PMC12585176|4|Comparing audiovisual predictions with human gaze|PMC12585176:3
+50|F|book|7.9|Pitch depends on relationships among sound components|
+51|R|PMC7053998|1|Recording cortical responses during a melody|PMC7053998:0
+52|R|PMC9836393|1|Experience shapes musical expectation|
+53|R|PMC7053998|2|Unexpected timing changes cortical responses|PMC7053998:1
+54|F|PMC8601661|1|Timbre helps identify a source across changing notes|
+55|R|PMC7053998|3|Pitch surprise differs from onset surprise|PMC7053998:2
+56|R|PMC11262799|1|Speech and music recruit interacting networks|
+57|R|PMC9651867|1|Small rat head movements can align with musical beats|rat:0
+58|F|book|7.9|Beat perception recruits prediction and movement networks|
+59|R|PMC9651867|2|Changing tempo tests synchronization|rat:1
+60|F|PMC9651867|3|Adaptation can give auditory networks a preferred timescale|
+61|R|PMC9651867|4|Comparing rat and human movement against beats|rat:2
+62|F|PMC9678363|1|Beat, rhythm, and meter describe different patterns|
+63|R|PMC3610097|1|A chimpanzee can adjust tapping during an auditory rhythm|PMC3610097:0
+64|R|PMC3610097|2|Does a chimpanzee adjust its tapping tempo?|
+65|R|PMC3610097|3|The phase of each tap reveals its relation to the next sound|PMC3610097:1
+66|F|PMC3610097|2|Synchronizing differs from reacting to each beat|
+67|R|PMC6969502|1|Sound can evoke rhythmic swaying in chimpanzees|PMC6969502:0
+68|R|PMC6969502|2|Movement can occur without tracking a regular beat|
+69|R|PMC6969502|3|Individuals differ in sound-induced rhythmic movement|PMC6969502:1
+70|F|PMC2244806|1|Improvisation creates choices within learned patterns|
+71|R|PMC6969502|1|Rhythmic movement can recruit several parts of the body|PMC6969502:2
+72|F|PMC2244806|3|Improvisation changes frontal activity|
+73|R|PMC6969502|2|Spontaneous movement differs from trained tapping|PMC6969502:3
+74|R|PMC6969502|3|Testing movement without rewarding each action|PMC6969502:4
+75|R|PMC11483129|3|White-matter organization covaries with tapping accuracy|PMC11483129:0
+76|F|PMC9836393|2|Music depends on memory over several timescales|
+77|R|PMC11483129|3|Measuring superficial fiber orientations|PMC11483129:1
+78|R|PMC6987702|1|Following children through a music program|
+79|R|PMC11483129|3|Anatomical variation and training ask different questions|PMC11483129:2
+80|R|PMC6987702|3|Music experience and auditory development|
+81|R|PMC8219385|1|Songbird brain pathways change across the seasonal cycle|PMC8219385:0
+82|R|PMC5662181|2|USC: cognitive-control responses in young musicians|
+83|R|PMC8219385|2|A seasonal window of heightened neural change|PMC8219385:1
+84|R|PMC6805726|2|USC: following cognitive control across development|
+85|R|PMC5245967|1|Auditory imprinting creates an early preference|PMC5245967:0
+86|R|PMC11907061|1|USC: music, nostalgia, and personal memories|
+87|R|PMC5245967|3|Protein synthesis helps control an auditory learning window|PMC5245967:2
+88|F|PMC11907061|3|Musical pleasure differs from melody recognition|
+89|R|PMC10752583|2|The timing of mouse calls changes their social significance|PMC10752583:0
+90|F|book|7.16|From a sound pattern to an approach decision|
+91|R|PMC10752583|3|Which vocal patterns attract a listening mouse?|PMC10752583:1
+92|F|book|7.17|When hearing a sound does not reveal its identity|
+93|R|PMC4413254|3|A porpoise finds prey without visual guidance|PMC4413254:0
+94|F|book|7.7|Echo timing supplies information about distance to a target|
+95|R|PMC4413254|3|Active listening changes during target approach|PMC4413254:1
+96|F|ferret|1|Early input shapes an auditory pathway|
+97|R|PMC6707786|11|Can human auditory maps be reproduced?|PMC6707786:19
+98|R|PMC10427021|1|Reconstructing heard music from cortical activity|

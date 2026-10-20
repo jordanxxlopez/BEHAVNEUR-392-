@@ -82,6 +82,30 @@
       ],
       "planned_total_slides": 90,
       "expanded_scope": "Instructor requests visual illusions, general vision, and a short rewired-ferret/neural-plasticity section; 85–90 total slides. All existing media and prose requirements persist."
+    },
+    "702": {
+      "authorized_total_slide_range": [
+        100,
+        100
+      ],
+      "planned_total_slides": 100,
+      "academic_videos": [
+        25,
+        25
+      ],
+      "aesthetic_videos": [
+        25,
+        25
+      ],
+      "minimum_total_videos": 50,
+      "maximum_total_videos": 50,
+      "recordings_per_content_quarter": [
+        13,
+        12,
+        13,
+        12
+      ],
+      "expanded_scope": "Instructor authorizes separate 100-slide central audition lecture with 50 embedded videos. Peripheral hearing reserved for separate 80-slide lecture."
     }
   },
   "video_distribution_from_chapter": 3,

@@ -79,7 +79,7 @@
       "display_title_authorization": "Instructor requested separate audition and body/chemical senses lectures; this is the 75-slide nonauditory lecture.",
       "textbook_printed_pages": "210–234",
       "book_scope_verified_from": "Reattached Part3of6, PDF pp. 38–62; Chapter 7 begins printed p.191, and Chapter 8 begins p.235. Audition pp.193–209 excluded.",
-      "auditory_lecture_status": "Peripheral audition Part I is the separate 80-slide companion in chapters/C07/Audition1; central auditory Part II is reserved for later."
+      "auditory_lecture_status": "Separate peripheral Audition I in chapters/C07/Audition1 and central Audition II in chapters/C07_Audition2."
     },
     {
       "n": 8,
@@ -167,6 +167,21 @@
       "display_title_authorization": "Instructor requested an 80-slide peripheral auditory lecture, with a few regeneration/translation slides, and a separate central auditory Part II later.",
       "textbook_printed_pages": "193–197; selected peripheral material 200–202",
       "book_scope_verified_from": "Uploaded Physiology of Behavior Part3of6, PDF pp.21–25 and selected cochlear material pp.28–30; central figures 7.7,7.9 and cortical portion of 7.8 excluded."
+    },
+    {
+      "n": 702,
+      "book_chapter_number": 7,
+      "date": "Fall 2026",
+      "title": "The Listening Brain: How We Find Meaning in Sound, Speech, and Music",
+      "verified": true,
+      "book_chapter_title": "Audition, the Body Senses, and the Chemical Senses",
+      "audition_part": 2,
+      "planned_total_slides": 100,
+      "textbook_scope": "Central auditory pathway and cortex pp.197–200; central interpretation, localization, speech, and music pp.202–209. Peripheral mechanics and transduction excluded.",
+      "display_title_authorized": true,
+      "status": "Completed: 100 total slides, 98 teaching slides, and 50 embedded recordings in chapters/C07_Audition2.",
+      "book_scope_verified_from": "Uploaded Physiology of Behavior Part3of6, central auditory text and source figures on PDF pp.25–28 and 30–37; printed pp.197–200 and 202–209.",
+      "display_title_authorization": "Instructor requested a descriptive title and a separate 100-slide central auditory lecture with 50 embedded videos, behavioral and cognitive neuroscience, music, and Brain and Creativity Institute studies."
     }
   ]
 }

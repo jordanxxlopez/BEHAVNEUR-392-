@@ -1,0 +1,1202 @@
+[
+  {
+    "file": "media/PMC6707786_elife-48932-fig3-video1.mp4",
+    "original": {
+      "width": 922,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 12.0,
+      "audio": []
+    },
+    "embedded_source": {
+      "width": 922,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 12.0,
+      "audio": []
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC10435236_elife-83393-fig1-video1.mp4",
+    "original": {
+      "width": 1280,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 9.733333,
+      "audio": []
+    },
+    "embedded_source": {
+      "width": 1280,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 9.733333,
+      "audio": []
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC10435236_elife-83393-fig2-video1.mp4",
+    "original": {
+      "width": 1280,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 17.266667,
+      "audio": []
+    },
+    "embedded_source": {
+      "width": 1280,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 17.266667,
+      "audio": []
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/playable_PMC12726825_elife-106415-video1.mp4",
+    "original": {
+      "width": 1280,
+      "height": 462,
+      "rate": "30/1",
+      "duration": 18.166667,
+      "audio": []
+    },
+    "embedded_source": {
+      "width": 1280,
+      "height": 462,
+      "rate": "30/1",
+      "duration": 18.166667,
+      "audio": []
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/playable_PMC12726825_elife-106415-video2.mp4",
+    "original": {
+      "width": 1280,
+      "height": 454,
+      "rate": "30/1",
+      "duration": 18.866667,
+      "audio": []
+    },
+    "embedded_source": {
+      "width": 1280,
+      "height": 454,
+      "rate": "30/1",
+      "duration": 18.866667,
+      "audio": []
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/playable_PMC12726825_elife-106415-video3.mp4",
+    "original": {
+      "width": 1280,
+      "height": 224,
+      "rate": "30/1",
+      "duration": 19.033333,
+      "audio": []
+    },
+    "embedded_source": {
+      "width": 1280,
+      "height": 224,
+      "rate": "30/1",
+      "duration": 19.033333,
+      "audio": []
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC6707786_elife-48932-fig9-video1.mp4",
+    "original": {
+      "width": 1278,
+      "height": 568,
+      "rate": "30/1",
+      "duration": 12.0,
+      "audio": []
+    },
+    "embedded_source": {
+      "width": 1278,
+      "height": 568,
+      "rate": "30/1",
+      "duration": 12.0,
+      "audio": []
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC6834370_elife-49091-fig6-video1.mp4",
+    "original": {
+      "width": 720,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 63.111837,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    "embedded_source": {
+      "width": 720,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 63.111837,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC6834370_elife-49091-fig9-video1.mp4",
+    "original": {
+      "width": 1138,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 53.2,
+      "audio": []
+    },
+    "embedded_source": {
+      "width": 1138,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 53.2,
+      "audio": []
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC6707786_elife-48932-fig6-video1.mp4",
+    "original": {
+      "width": 922,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 12.0,
+      "audio": []
+    },
+    "embedded_source": {
+      "width": 922,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 12.0,
+      "audio": []
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC11651653_elife-89950-fig4-video1.mp4",
+    "original": {
+      "width": 324,
+      "height": 324,
+      "rate": "30/1",
+      "duration": 45.0,
+      "audio": []
+    },
+    "embedded_source": {
+      "width": 324,
+      "height": 324,
+      "rate": "30/1",
+      "duration": 45.0,
+      "audio": []
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC10435236_elife-83393-fig3-video1.mp4",
+    "original": {
+      "width": 1280,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 35.3,
+      "audio": []
+    },
+    "embedded_source": {
+      "width": 1280,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 35.3,
+      "audio": []
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC10435236_elife-83393-fig8-video1.mp4",
+    "original": {
+      "width": 1280,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 39.666667,
+      "audio": []
+    },
+    "embedded_source": {
+      "width": 1280,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 39.666667,
+      "audio": []
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/playable_PMC4575990_elife-08477-media1.mp4",
+    "original": {
+      "width": 390,
+      "height": 390,
+      "rate": "10/1",
+      "duration": 42.0,
+      "audio": []
+    },
+    "embedded_source": {
+      "width": 390,
+      "height": 390,
+      "rate": "10/1",
+      "duration": 42.0,
+      "audio": []
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/playable_PMC4575990_elife-08477-media2.mp4",
+    "original": {
+      "width": 390,
+      "height": 390,
+      "rate": "10/1",
+      "duration": 42.0,
+      "audio": []
+    },
+    "embedded_source": {
+      "width": 390,
+      "height": 390,
+      "rate": "10/1",
+      "duration": 42.0,
+      "audio": []
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/playable_PMC4575990_elife-08477-media3.mp4",
+    "original": {
+      "width": 609,
+      "height": 405,
+      "rate": "30/1",
+      "duration": 10.0,
+      "audio": []
+    },
+    "embedded_source": {
+      "width": 610,
+      "height": 406,
+      "rate": "30/1",
+      "duration": 10.0,
+      "audio": []
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC6491041_elife-44526-video1.mp4",
+    "original": {
+      "width": 704,
+      "height": 396,
+      "rate": "30/1",
+      "duration": 12.0,
+      "audio": []
+    },
+    "embedded_source": {
+      "width": 704,
+      "height": 396,
+      "rate": "30/1",
+      "duration": 12.0,
+      "audio": []
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC7334025_elife-54536-video3.mp4",
+    "original": {
+      "width": 1146,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 53.1,
+      "audio": []
+    },
+    "embedded_source": {
+      "width": 1146,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 53.1,
+      "audio": []
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC4337603_elife-04995-media1.mp4",
+    "original": {
+      "width": 1280,
+      "height": 720,
+      "rate": "60/1",
+      "duration": 32.043537,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 1
+        }
+      ]
+    },
+    "embedded_source": {
+      "width": 1280,
+      "height": 720,
+      "rate": "60/1",
+      "duration": 32.043537,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 1
+        }
+      ]
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC4337603_elife-04995-media2.mp4",
+    "original": {
+      "width": 1280,
+      "height": 720,
+      "rate": "60/1",
+      "duration": 32.043537,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 1
+        }
+      ]
+    },
+    "embedded_source": {
+      "width": 1280,
+      "height": 720,
+      "rate": "60/1",
+      "duration": 32.043537,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 1
+        }
+      ]
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC4337603_elife-04995-media3.mp4",
+    "original": {
+      "width": 1280,
+      "height": 720,
+      "rate": "60/1",
+      "duration": 32.0,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 1
+        }
+      ]
+    },
+    "embedded_source": {
+      "width": 1280,
+      "height": 720,
+      "rate": "60/1",
+      "duration": 32.0,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 1
+        }
+      ]
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC12585176_elife-106122-video1.mp4",
+    "original": {
+      "width": 834,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 35.764,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    "embedded_source": {
+      "width": 834,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 35.764,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC12585176_elife-106122-video3.mp4",
+    "original": {
+      "width": 450,
+      "height": 606,
+      "rate": "30/1",
+      "duration": 24.479,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    "embedded_source": {
+      "width": 450,
+      "height": 606,
+      "rate": "30/1",
+      "duration": 24.479,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC7334025_elife-54536-video1.mp4",
+    "original": {
+      "width": 1146,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 4.066667,
+      "audio": []
+    },
+    "embedded_source": {
+      "width": 1146,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 4.066667,
+      "audio": []
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC12585176_elife-106122-video4.mp4",
+    "original": {
+      "width": 616,
+      "height": 332,
+      "rate": "30/1",
+      "duration": 163.85,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    "embedded_source": {
+      "width": 616,
+      "height": 332,
+      "rate": "30/1",
+      "duration": 163.85,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC7053998_elife-51784-video1.mp4",
+    "original": {
+      "width": 872,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 9.966667,
+      "audio": []
+    },
+    "embedded_source": {
+      "width": 872,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 9.966667,
+      "audio": []
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC7053998_elife-51784-video2.mp4",
+    "original": {
+      "width": 872,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 9.966667,
+      "audio": []
+    },
+    "embedded_source": {
+      "width": 872,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 9.966667,
+      "audio": []
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC7053998_elife-51784-video3.mp4",
+    "original": {
+      "width": 872,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 9.966667,
+      "audio": []
+    },
+    "embedded_source": {
+      "width": 872,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 9.966667,
+      "audio": []
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/rat_sciadv.abo7019_movie_s1.mp4",
+    "original": {
+      "width": 1280,
+      "height": 720,
+      "rate": "30000/1001",
+      "duration": 27.560875,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    "embedded_source": {
+      "width": 1280,
+      "height": 720,
+      "rate": "30000/1001",
+      "duration": 27.560875,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/rat_sciadv.abo7019_movie_s2.mp4",
+    "original": {
+      "width": 960,
+      "height": 540,
+      "rate": "30000/1001",
+      "duration": 84.250833,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    "embedded_source": {
+      "width": 960,
+      "height": 540,
+      "rate": "30000/1001",
+      "duration": 84.250833,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/rat_sciadv.abo7019_movie_s3.mp4",
+    "original": {
+      "width": 406,
+      "height": 540,
+      "rate": "30/1",
+      "duration": 189.3,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    "embedded_source": {
+      "width": 406,
+      "height": 540,
+      "rate": "30/1",
+      "duration": 189.3,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/playable_PMC3610097_srep01566-s1.mp4",
+    "original": {
+      "width": 352,
+      "height": 288,
+      "rate": "30000/1001",
+      "duration": 22.355667,
+      "audio": [
+        {
+          "codec": "pcm_s16le",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    "embedded_source": {
+      "width": 352,
+      "height": 288,
+      "rate": "30000/1001",
+      "duration": 22.355667,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/playable_PMC3610097_srep01566-s2.mp4",
+    "original": {
+      "width": 352,
+      "height": 288,
+      "rate": "30000/1001",
+      "duration": 19.3193,
+      "audio": [
+        {
+          "codec": "pcm_s16le",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    "embedded_source": {
+      "width": 352,
+      "height": 288,
+      "rate": "30000/1001",
+      "duration": 19.3193,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC6969502_pnas.1910318116.sm01.mp4",
+    "original": {
+      "width": 352,
+      "height": 288,
+      "rate": "15/1",
+      "duration": 6.56,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "32000",
+          "channels": 2
+        }
+      ]
+    },
+    "embedded_source": {
+      "width": 352,
+      "height": 288,
+      "rate": "15/1",
+      "duration": 6.56,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "32000",
+          "channels": 2
+        }
+      ]
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC6969502_pnas.1910318116.sm02.mp4",
+    "original": {
+      "width": 352,
+      "height": 288,
+      "rate": "15/1",
+      "duration": 7.52,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "32000",
+          "channels": 2
+        }
+      ]
+    },
+    "embedded_source": {
+      "width": 352,
+      "height": 288,
+      "rate": "15/1",
+      "duration": 7.52,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "32000",
+          "channels": 2
+        }
+      ]
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC6969502_pnas.1910318116.sm03.mp4",
+    "original": {
+      "width": 352,
+      "height": 288,
+      "rate": "15/1",
+      "duration": 7.008,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "32000",
+          "channels": 2
+        }
+      ]
+    },
+    "embedded_source": {
+      "width": 352,
+      "height": 288,
+      "rate": "15/1",
+      "duration": 7.008,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "32000",
+          "channels": 2
+        }
+      ]
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC6969502_pnas.1910318116.sm04.mp4",
+    "original": {
+      "width": 352,
+      "height": 288,
+      "rate": "15/1",
+      "duration": 4.48,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "32000",
+          "channels": 2
+        }
+      ]
+    },
+    "embedded_source": {
+      "width": 352,
+      "height": 288,
+      "rate": "15/1",
+      "duration": 4.48,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "32000",
+          "channels": 2
+        }
+      ]
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC6969502_pnas.1910318116.sm05.mp4",
+    "original": {
+      "width": 352,
+      "height": 288,
+      "rate": "15/1",
+      "duration": 45.056,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "32000",
+          "channels": 2
+        }
+      ]
+    },
+    "embedded_source": {
+      "width": 352,
+      "height": 288,
+      "rate": "15/1",
+      "duration": 45.056,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "32000",
+          "channels": 2
+        }
+      ]
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC11483129_elife-83838-fig3-video1.mp4",
+    "original": {
+      "width": 720,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 10.033333,
+      "audio": []
+    },
+    "embedded_source": {
+      "width": 720,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 10.033333,
+      "audio": []
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC11483129_elife-83838-fig3-video2.mp4",
+    "original": {
+      "width": 720,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 11.533333,
+      "audio": []
+    },
+    "embedded_source": {
+      "width": 720,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 11.533333,
+      "audio": []
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC11483129_elife-83838-fig3-video3.mp4",
+    "original": {
+      "width": 720,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 10.033333,
+      "audio": []
+    },
+    "embedded_source": {
+      "width": 720,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 10.033333,
+      "audio": []
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC8219385_elife-66777-fig1-video1.mp4",
+    "original": {
+      "width": 854,
+      "height": 480,
+      "rate": "30/1",
+      "duration": 26.112,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    "embedded_source": {
+      "width": 854,
+      "height": 480,
+      "rate": "30/1",
+      "duration": 26.112,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC8219385_elife-66777-fig2-video1.mp4",
+    "original": {
+      "width": 640,
+      "height": 480,
+      "rate": "30/1",
+      "duration": 42.304,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    "embedded_source": {
+      "width": 640,
+      "height": 480,
+      "rate": "30/1",
+      "duration": 42.304,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC5245967_elife-17197-media1.mp4",
+    "original": {
+      "width": 1280,
+      "height": 720,
+      "rate": "24/1",
+      "duration": 61.0,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    "embedded_source": {
+      "width": 1280,
+      "height": 720,
+      "rate": "24/1",
+      "duration": 61.0,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC5245967_elife-17197-media3.mp4",
+    "original": {
+      "width": 640,
+      "height": 480,
+      "rate": "30/1",
+      "duration": 11.099002,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    "embedded_source": {
+      "width": 640,
+      "height": 480,
+      "rate": "30/1",
+      "duration": 11.099002,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC10752583_elife-86464-fig2-video1.mp4",
+    "original": {
+      "width": 1280,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 194.1,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    "embedded_source": {
+      "width": 1280,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 194.1,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC10752583_elife-86464-fig2-video2.mp4",
+    "original": {
+      "width": 1280,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 215.583991,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    "embedded_source": {
+      "width": 1280,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 215.583991,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC4413254_elife-05651-media1.mp4",
+    "original": {
+      "width": 462,
+      "height": 260,
+      "rate": "24/1",
+      "duration": 6.916667,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    "embedded_source": {
+      "width": 462,
+      "height": 260,
+      "rate": "24/1",
+      "duration": 6.916667,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC4413254_elife-05651-media2.mp4",
+    "original": {
+      "width": 720,
+      "height": 480,
+      "rate": "30000/1001",
+      "duration": 12.078733,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    "embedded_source": {
+      "width": 720,
+      "height": 480,
+      "rate": "30000/1001",
+      "duration": 12.078733,
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    "pass_": true
+  },
+  {
+    "file": "media/PMC6707786_elife-48932-fig11-video7.mp4",
+    "original": {
+      "width": 810,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 12.0,
+      "audio": []
+    },
+    "embedded_source": {
+      "width": 810,
+      "height": 720,
+      "rate": "30/1",
+      "duration": 12.0,
+      "audio": []
+    },
+    "pass_": true
+  }
+]

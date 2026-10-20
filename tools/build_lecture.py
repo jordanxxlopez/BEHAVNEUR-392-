@@ -368,7 +368,7 @@ class Deck:
         _, tf = textbox(s, x, 5.9, w, 0.85)
         write_paras(tf, [self.course["instructor"], self.course["instructor_title"]], 12, "000000", space_after=2)
         s.notes_slide.notes_text_frame.text = (
-            f"{title}\nChapter {self.meta['n']}. {self.course['course']}. {self.meta['date']}."
+            f"{title}\nChapter {self.meta.get('book_chapter_number',self.meta['n'])}. {self.course['course']}. {self.meta['date']}."
             + f"\n\nFigure: {img['caption']}\nFigure source: {img['source_url']}"
             + "\n\nReferences:\n" + "\n".join(self.spec.get("title_refs", []))
         )
