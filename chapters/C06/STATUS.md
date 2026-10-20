@@ -6,8 +6,8 @@ The verified source chapter is **Vision**, Carlson and Birkett (2022), Global Ed
 
 ## Downloads
 
-- [Editable PowerPoint with 40 embedded recordings](https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C06/From_Light_to_Sight_Chapter_6.pptx), approximately 407.6 MB.
-- [Static PDF with recording posters](https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C06/From_Light_to_Sight_Chapter_6_Static.pdf), approximately 12.4 MB.
+- [Editable PowerPoint with 40 embedded recordings](https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/09da057fd13e59af09101e3522edeabda18a609e/chapters/C06/From_Light_to_Sight_Chapter_6.pptx), approximately 407.6 MB.
+- [Static PDF with recording posters](https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/09da057fd13e59af09101e3522edeabda18a609e/chapters/C06/From_Light_to_Sight_Chapter_6_Static.pdf), approximately 12.4 MB.
 - [Presenton static PDF companion](https://api.presenton.ai/s/cA4RETUNGqW_FjazpyOd74-nGWE3cn6c).
 - [Presenton browser preview](https://presenton.ai/presentation-preview?t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiaHRtbC10by1hbnktcHJldmlldyIsImh0bWxfdG9fYW55X2NyZWF0aW9uIjoxOTUzNywiZXhwIjoxNzkyNTY4OTE4fQ.svP7noHTd2H-65APbvI81A5bCOcJk82l8nOvzdVn0sI), expires 24 hours after creation.
 

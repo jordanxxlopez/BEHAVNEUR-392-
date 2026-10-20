@@ -1,0 +1,32 @@
+{
+  "content_commit": "09da057fd13e59af09101e3522edeabda18a609e",
+  "verified_utc": "2026-10-20T07:56:26.934413+00:00",
+  "downloads": [
+    {
+      "kind": "pptx",
+      "url": "https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/09da057fd13e59af09101e3522edeabda18a609e/chapters/C06/From_Light_to_Sight_Chapter_6.pptx",
+      "status": 206,
+      "first_256_bytes_match": true,
+      "content_range": "bytes 0-255/407602768",
+      "expected_bytes": 407602768,
+      "sha256": "88dbad74de3e23b00f89d7cea2bfb2a26d1797c1349e17b7887cd04d2cbd938d"
+    },
+    {
+      "kind": "static_pdf",
+      "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/09da057fd13e59af09101e3522edeabda18a609e/chapters/C06/From_Light_to_Sight_Chapter_6_Static.pdf",
+      "status": 206,
+      "first_256_bytes_match": true,
+      "content_range": "bytes 0-255/12352601",
+      "expected_bytes": 12352601,
+      "sha256": "6b10f8db16b303600bbc225019d5dd387d81865f0e60a2dff9f0491bfc6cce0a"
+    }
+  ],
+  "presenton_pdf": {
+    "url": "https://api.presenton.ai/s/cA4RETUNGqW_FjazpyOd74-nGWE3cn6c",
+    "message": null,
+    "id": 19537
+  },
+  "presenton_preview": {
+    "url": "https://presenton.ai/presentation-preview?t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiaHRtbC10by1hbnktcHJldmlldyIsImh0bWxfdG9fYW55X2NyZWF0aW9uIjoxOTUzNywiZXhwIjoxNzkyNTY4OTE4fQ.svP7noHTd2H-65APbvI81A5bCOcJk82l8nOvzdVn0sI"
+  }
+}
