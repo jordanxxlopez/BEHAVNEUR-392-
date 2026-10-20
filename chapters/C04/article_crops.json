@@ -1,0 +1,509 @@
+{
+  "PMC10746144_fig1": {
+    "original_publisher_figure": "figures/PMC10746144_fig1.jpg",
+    "panels": "A\u2013B",
+    "normalized_box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "2871b3d8493deae5a2c8b0fc5e41f5cb94b47ea1f587a38e49f3381e88d8018a"
+  },
+  "PMC9098220_fig1": {
+    "original_publisher_figure": "figures/PMC9098220_fig1.jpg",
+    "panels": "b, HeLa",
+    "normalized_box": [
+      0.426,
+      0.06,
+      1,
+      0.57
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "119b10a1ed269cf32215b2027f7fe9d0c00127a4e2b09cd092e1db752b980315"
+  },
+  "PMC9098220_fig2": {
+    "original_publisher_figure": "figures/PMC9098220_fig2.jpg",
+    "panels": "a",
+    "normalized_box": [
+      0,
+      0,
+      0.572,
+      0.466
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "cc3b1dcf298a555daa012ac5455c8217008b615a005c765f453d1d9a848ebf4f"
+  },
+  "PMC8208814_fig1": {
+    "original_publisher_figure": "figures/PMC8208814_fig1.jpg",
+    "panels": "B",
+    "normalized_box": [
+      0,
+      0.102,
+      0.55,
+      0.22
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "81b2720c2434e8d2914b73e0b30e63cc84c780688053ab010e5f215c50f5a999"
+  },
+  "PMC9708073_fig2": {
+    "original_publisher_figure": "figures/PMC9708073_fig2.jpg",
+    "panels": "A\u2013B",
+    "normalized_box": [
+      0,
+      0,
+      1,
+      0.201
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "0261d7c13dc0ed4f7b70da6147e6e8edc3df2fba313a1a3c21344334f1343c65"
+  },
+  "PMC9708073_fig4": {
+    "original_publisher_figure": "figures/PMC9708073_fig4.jpg",
+    "panels": "A",
+    "normalized_box": [
+      0,
+      0,
+      0.519,
+      0.495
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "920fed1474d2e5d645312be7227619acf6e7dec5945608ff92618976885e5e46"
+  },
+  "PMC10746144_fig7": {
+    "original_publisher_figure": "figures/PMC10746144_fig7.jpg",
+    "panels": "B, LHb and SON",
+    "normalized_box": [
+      0,
+      0.145,
+      0.51,
+      0.58
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "e6b177ed6bf93542be37c8a4b00e066043a0acddc4423f15d987635b3f5f975b"
+  },
+  "PMC9098220_fig4": {
+    "original_publisher_figure": "figures/PMC9098220_fig4.jpg",
+    "panels": "a\u2013f",
+    "normalized_box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "edfcaa6d156bdaf4030fed169cedd2b199b89ed848dcec1f3519611e977b1812"
+  },
+  "PMC9708073_fig1": {
+    "original_publisher_figure": "figures/PMC9708073_fig1.jpg",
+    "panels": "C",
+    "normalized_box": [
+      0,
+      0.26,
+      0.49,
+      0.535
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "c6e5112538970ab5734c3101599a8738c7f583a943fd8e4225eba78cc4039e2a"
+  },
+  "PMC11326776_fig1": {
+    "original_publisher_figure": "figures/PMC11326776_fig1.jpg",
+    "panels": "D",
+    "normalized_box": [
+      0,
+      0.625,
+      0.7,
+      0.965
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "ceafdd36cede8d3a1f0d667a129bffe73381f35c011ce49c0a1e86b4e61926db"
+  },
+  "PMC11326776_fig2": {
+    "original_publisher_figure": "figures/PMC11326776_fig2.jpg",
+    "panels": "A\u2013B",
+    "normalized_box": [
+      0,
+      0,
+      1,
+      0.53
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "f68f47b037cf4ecaf4f8582e76d0c0c874b59a8870a54043dd1dc989c8424ee5"
+  },
+  "PMC11326776_fig3": {
+    "original_publisher_figure": "figures/PMC11326776_fig3.jpg",
+    "panels": "C\u2013D",
+    "normalized_box": [
+      0,
+      0.235,
+      1,
+      0.615
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "ced5609e0084832f6099b665fc2df1905a2d60a3114d747edff3811e0ed1696d"
+  },
+  "PMC11326776_fig5": {
+    "original_publisher_figure": "figures/PMC11326776_fig5.jpg",
+    "panels": "A, image sequence",
+    "normalized_box": [
+      0.55,
+      0,
+      1,
+      0.51
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "3abd241e66a0b80cddac70d2f89502c3486b0bc8da7aedb87c736263ed8c1d82"
+  },
+  "PMC12999171_fig6": {
+    "original_publisher_figure": "figures/PMC12999171_fig6.jpg",
+    "panels": "a\u2013c",
+    "normalized_box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "afaa9b46a680d6e28c11f7d9728e8c4f986d65c7d554b1a68739297e3779afcf"
+  },
+  "PMC10746144_fig4": {
+    "original_publisher_figure": "figures/PMC10746144_fig4.jpg",
+    "panels": "A\u2013B",
+    "normalized_box": [
+      0,
+      0,
+      1,
+      0.388
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "6fe594cdf7eee4ced978ac9b87380b61a8098b2a17307b4c810a02bce15adaaa"
+  },
+  "PMC6548506_fig3": {
+    "original_publisher_figure": "figures/PMC6548506_fig3.jpg",
+    "panels": "d",
+    "normalized_box": [
+      0,
+      0.31,
+      1,
+      0.55
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "95295a74fd93197f36f7b51b93853adeb926e2d74e0ee587343d5c464d8e37cc"
+  },
+  "PMC10238096_fig1": {
+    "original_publisher_figure": "figures/PMC10238096_fig1.jpg",
+    "panels": "A\u2013C",
+    "normalized_box": [
+      0,
+      0,
+      1,
+      0.143
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "45f0a95ae88e343b1fd25ca377bed8c5414cfc8729e8090b33cdae00f3a55a69"
+  },
+  "PMC10238096_fig3": {
+    "original_publisher_figure": "figures/PMC10238096_fig3.jpg",
+    "panels": "A\u2013B",
+    "normalized_box": [
+      0,
+      0,
+      0.515,
+      0.582
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "89833b38902818c093e5437fd6538c0e48e2dd9b50867aba97be543f5c41238f"
+  },
+  "PMC9098220_fig3": {
+    "original_publisher_figure": "figures/PMC9098220_fig3.jpg",
+    "panels": "a, c",
+    "normalized_box": [
+      0,
+      0,
+      0.5,
+      0.71
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "5d2d10f00108d6cf90e732ed748063340bff50687ce2dfacaacafb00c5f04804"
+  },
+  "PMC9098220_fig6": {
+    "original_publisher_figure": "figures/PMC9098220_fig6.jpg",
+    "panels": "b",
+    "normalized_box": [
+      0,
+      0.195,
+      1,
+      0.613
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "1445bfb641768405b36d5c68b36f990fc9f555f41f955d5f69e8236f924ec02e"
+  },
+  "PMC7347390_fig1": {
+    "original_publisher_figure": "figures/PMC7347390_fig1.jpg",
+    "panels": "A\u2013B",
+    "normalized_box": [
+      0,
+      0,
+      0.277,
+      0.55
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "eb1f5c849cd41030ec8fb0b666044b709c21ede7951f50aefe922e052af30648"
+  },
+  "PMC7347390_fig4": {
+    "original_publisher_figure": "figures/PMC7347390_fig4.jpg",
+    "panels": "A\u2013C",
+    "normalized_box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "4e5a5368a6aec8d5844e26e1d441d71169e92d1534db876915b245880d4738eb"
+  },
+  "PMC5653237_fig5": {
+    "original_publisher_figure": "figures/PMC5653237_fig5.jpg",
+    "panels": "A",
+    "normalized_box": [
+      0,
+      0,
+      0.46,
+      0.5
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "89b03d9a45db64ec2bf105c344c84788aa2741d592ba848a7c69c95e331719a2"
+  },
+  "PMC10238096_fig4": {
+    "original_publisher_figure": "figures/PMC10238096_fig4.jpg",
+    "panels": "C",
+    "normalized_box": [
+      0.425,
+      0,
+      1,
+      0.246
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "17481541b189d7b3c093177597e531949f201b492344d24a81a27bcc947d3ec2"
+  },
+  "PMC5308893_fig2": {
+    "original_publisher_figure": "figures/PMC5308893_fig2.jpg",
+    "panels": "A\u2013C",
+    "normalized_box": [
+      0,
+      0,
+      0.565,
+      0.66
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "d8f2cfd4c9ae0672086cd345c8fdff912008c68cbbc069d91df8d9efa893376a"
+  },
+  "PMC10581688_fig7": {
+    "original_publisher_figure": "figures/PMC10581688_fig7.jpg",
+    "panels": "K\u2013L",
+    "normalized_box": [
+      0,
+      0.55,
+      1,
+      1
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "4ac9cfe15385d1c209e2cca02cd38294790cc7909f7b7f5a802387355a8bb796"
+  },
+  "PMC10581688_fig5": {
+    "original_publisher_figure": "figures/PMC10581688_fig5.jpg",
+    "panels": "B",
+    "normalized_box": [
+      0.337,
+      0,
+      0.7,
+      0.48
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "7cce6067d60836b73bb6d98e91298befcf5aa72649228039e0940063d11edf40"
+  },
+  "PMC7173968_fig3": {
+    "original_publisher_figure": "figures/PMC7173968_fig3.jpg",
+    "panels": "C",
+    "normalized_box": [
+      0,
+      0.41,
+      1,
+      0.755
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "c33ff9221c8ba0e4e0d940f030c52185c4aaa77605a021438834e110091686b6"
+  },
+  "PMC7173968_fig6": {
+    "original_publisher_figure": "figures/PMC7173968_fig6.jpg",
+    "panels": "A",
+    "normalized_box": [
+      0,
+      0,
+      1,
+      0.421
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "d60478113d4883fe3014e7d32af0d82321c736e5a7b5f8be002f916e64a3232b"
+  },
+  "PMC9708073_fig6": {
+    "original_publisher_figure": "figures/PMC9708073_fig6.jpg",
+    "panels": "F\u2013G",
+    "normalized_box": [
+      0,
+      0.704,
+      1,
+      1
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "480f318e3512f58280a474f6824bb905a25baccec97a56e6590e2bdb6b694de3"
+  },
+  "PMC4179426_fig1": {
+    "original_publisher_figure": "figures/PMC4179426_fig1.jpg",
+    "panels": "C",
+    "normalized_box": [
+      0.377,
+      0.174,
+      0.72,
+      0.374
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "16bc8ff273366365882b3f32d32ba2ca2c169806fb2274a33179ede50350aaf2"
+  },
+  "PMC4179426_fig3": {
+    "original_publisher_figure": "figures/PMC4179426_fig3.jpg",
+    "panels": "A\u2013B",
+    "normalized_box": [
+      0,
+      0,
+      0.373,
+      0.498
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "d76f31fade8fc798abee804d2bf46dc7ea8616bed0874cacc69c99a2560d0981"
+  },
+  "PMC4179426_fig4": {
+    "original_publisher_figure": "figures/PMC4179426_fig4.jpg",
+    "panels": "B\u2013C",
+    "normalized_box": [
+      0.355,
+      0,
+      1,
+      0.64
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "1868604737ad2479eb4a061b70c4d4478bd53421ac6ad8cab2dd789c5e7f525e"
+  },
+  "PMC4179426_fig2": {
+    "original_publisher_figure": "figures/PMC4179426_fig2.jpg",
+    "panels": "A\u2013B",
+    "normalized_box": [
+      0,
+      0,
+      1,
+      0.285
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "d35dc2bc4747f8547ee23ce81e5422210f37907462f192883d061cd27c9aedc2"
+  },
+  "PMC4987138_fig8": {
+    "original_publisher_figure": "figures/PMC4987138_fig8.jpg",
+    "panels": "i\u2013j",
+    "normalized_box": [
+      0,
+      0.475,
+      0.724,
+      0.71
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "f994df734b33bd901fd52270e9d6687f55961477520639e57fc78563d52915ea"
+  },
+  "PMC4987138_fig6": {
+    "original_publisher_figure": "figures/PMC4987138_fig6.jpg",
+    "panels": "g\u2013k",
+    "normalized_box": [
+      0,
+      0.4,
+      1,
+      1
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "0de10f97162247ae4eaf7bf674341b1bec5b0608fba05330a4432211cd4c79d7"
+  },
+  "PMC4179426_fig6": {
+    "original_publisher_figure": "figures/PMC4179426_fig6.jpg",
+    "panels": "A",
+    "normalized_box": [
+      0,
+      0,
+      0.61,
+      0.41
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "21a0d51657e2b00230d8a2a4d29f2851adc9c4bd512eb76e273632f8c2c48014"
+  },
+  "PMC9708073_fig3": {
+    "original_publisher_figure": "figures/PMC9708073_fig3.jpg",
+    "panels": "A\u2013B",
+    "normalized_box": [
+      0,
+      0,
+      1,
+      0.278
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "2342c24633cf08d66b29ebf1ca4816c2fb8ff45dc4db2c4dab383388d95aaf00"
+  },
+  "PMC4179426_fig7": {
+    "original_publisher_figure": "figures/PMC4179426_fig7.jpg",
+    "panels": "A",
+    "normalized_box": [
+      0,
+      0,
+      0.785,
+      0.546
+    ],
+    "wrapper_page": 1,
+    "note": "Unmodified publisher raster in a temporary PDF wrapper, cropped with tools/crop_figure.py. Original source colors, labels, axes, and scales preserved.",
+    "original_sha256": "015e9885923592eecd9c378016d56502df98d0e2f22022859a3719462c2ae09f"
+  }
+}

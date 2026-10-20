@@ -1,0 +1,200 @@
+{
+  "assets": [
+    {
+      "file": "figures/PMC4179426_fig1.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/03159/elife-03159-fig1-v2.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC7173968_fig6.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/54275/elife-54275-fig6-v1.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC9098220_fig4.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/75468/elife-75468-fig4-v2.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC4987138_fig6.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/15932/elife-15932-fig6-v2.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC9708073_fig3.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/81298/elife-81298-fig3-v2.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC4179426_fig3.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/03159/elife-03159-fig3-v2.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC11326776_fig1.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/80622/elife-80622-fig1-v1.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC9098220_fig2.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/75468/elife-75468-fig2-v2.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC9708073_fig1.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/81298/elife-81298-fig1-v2.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC7347390_fig4.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/57093/elife-57093-fig4-v2.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC9098220_fig3.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/75468/elife-75468-fig3-v2.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC10746144_fig4.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/92252/elife-92252-fig4-v2.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC7173968_fig3.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/54275/elife-54275-fig3-v1.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC6548506_fig3.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/44928/elife-44928-fig3-v2.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC9708073_fig4.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/81298/elife-81298-fig4-v2.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC4179426_fig2.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/03159/elife-03159-fig2-v2.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC9098220_fig6.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/75468/elife-75468-fig6-v2.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC5653237_fig5.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/29808/elife-29808-fig5-v2.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC10746144_fig7.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/92252/elife-92252-fig7-v2.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC10238096_fig4.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/81826/elife-81826-fig4-v2.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC10581688_fig5.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/88279/elife-88279-fig5-v1.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC10581688_fig7.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/88279/elife-88279-fig7-v1.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC8208814_fig1.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/67478/elife-67478-fig1-v2.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC7347390_fig1.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/57093/elife-57093-fig1-v2.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC10238096_fig3.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/81826/elife-81826-fig3-v2.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC10238096_fig1.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/81826/elife-81826-fig1-v2.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC11326776_fig2.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/80622/elife-80622-fig2-v1.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC9708073_fig6.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/81298/elife-81298-fig6-v2.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC11326776_fig3.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/80622/elife-80622-fig3-v1.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC10746144_fig1.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/92252/elife-92252-fig1-v2.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC9708073_fig2.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/81298/elife-81298-fig2-v2.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC9098220_fig1.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/75468/elife-75468-fig1-v2.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC4179426_fig6.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/03159/elife-03159-fig6-v2.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC4179426_fig4.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/03159/elife-03159-fig4-v2.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC11326776_fig5.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/80622/elife-80622-fig5-v1.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC5308893_fig2.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/20975/elife-20975-fig2-v2.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC4179426_fig7.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/03159/elife-03159-fig7-v2.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC12999171_fig6.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/108319/elife-108319-fig6-v1.jpg",
+      "source_hash_matches": true
+    },
+    {
+      "file": "figures/PMC4987138_fig8.jpg",
+      "source_url": "https://cdn.elifesciences.org/articles/15932/elife-15932-fig8-v2.jpg",
+      "source_hash_matches": true
+    }
+  ],
+  "all_original_hashes_match": true
+}

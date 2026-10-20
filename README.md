@@ -29,3 +29,7 @@ The latest Chapter 1 history-expanded revision is in [chapters/C01/history_revis
 ## Chapter 3
 
 [Mapping the Nervous System: From Brain Structures to Behavior](chapters/C03/STATUS.md) contains 75 slides and 40 embedded recordings, distributed ten per quarter and five in the final ten content slides. Media-purpose labels are omitted from all slide text, captions, and teaching notes. Download the editable [PPTX](https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C03/Mapping_the_Nervous_System_Chapter_3.pptx) or its [static PDF](chapters/C03/Mapping_the_Nervous_System_Chapter_3_Static.pdf). The source index, crop records, and 219-paragraph rendered audit accompany the lecture.
+
+## Chapter 4
+
+[Chemical Control of Behavior: Drugs and Neural Signaling](chapters/C04/STATUS.md) covers Psychopharmacology and Neurotransmitters, printed pp. 91–118. The 75-slide lecture includes teaching notes, credited original figures, and 40 embedded recordings, with ten in each content quarter and five in the final ten content slides. Download the editable [PPTX](https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C04/Chemical_Control_of_Behavior_Chapter_4.pptx) or [static PDF](chapters/C04/Chemical_Control_of_Behavior_Chapter_4_Static.pdf). All 219 teaching paragraphs pass the rendered 5–7-line audit. Recording classifications remain in internal provenance records.

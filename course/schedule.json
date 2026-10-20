@@ -38,9 +38,14 @@
     },
     {
       "n": 4,
-      "date": "Date TBD",
-      "title": "Chapter 4: TITLE PENDING TEXTBOOK VERIFICATION",
-      "verified": false
+      "date": "Fall 2026",
+      "title": "Chemical Control of Behavior: Drugs and Neural Signaling",
+      "verified": true,
+      "book_chapter_title": "Psychopharmacology and Neurotransmitters",
+      "display_title_authorized": true,
+      "display_title_authorization": "Instructor requested a descriptive new name for Chapter 4.",
+      "textbook_printed_pages": "91–118",
+      "book_scope_verified_from": "Uploaded Part2of6, PDF pages 11–38; Chapter 5 begins printed p. 119, PDF page 39."
     },
     {
       "n": 5,

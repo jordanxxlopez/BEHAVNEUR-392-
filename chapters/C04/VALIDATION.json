@@ -1,0 +1,29 @@
+{
+  "slides": 75,
+  "content_slides": 73,
+  "foundation_slides": 29,
+  "research_slides": 44,
+  "article_figure_slides": 44,
+  "embedded_recordings": 40,
+  "recordings_per_content_quarter": [
+    10,
+    10,
+    10,
+    10
+  ],
+  "recordings_in_final_ten_content_slides": 5,
+  "paragraphs_passing_rendered_line_audit": 219,
+  "generic_failures": 0,
+  "course_failures": 0,
+  "source_figures_hash_verified": 39,
+  "full_recording_decodes": 40,
+  "all_slides_visually_reviewed": true,
+  "desktop_powerpoint_playback_tested": false,
+  "fonts": [
+    "Arial"
+  ],
+  "pptx_bytes": 378611203,
+  "static_pdf_bytes": 9788886,
+  "pptx_sha256": "45cc26008c62034056943b87372589fd935dac6fd708dc90bde16c95a420dd07",
+  "static_pdf_sha256": "760329997388a19f865c404c3c4717df718b05a25e1b81ec52e23ea55683fe6e"
+}
