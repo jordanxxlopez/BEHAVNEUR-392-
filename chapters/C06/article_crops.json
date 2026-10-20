@@ -1,0 +1,930 @@
+{
+  "3": {
+    "content_id": "3",
+    "original_publisher_figure": "figures/PMC7383236_fig1.jpg",
+    "original_sha256": "0f424a5f250f6122c770c0991ba8c78b59fd76f2f6e7633a044eb45bd314f8b9",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7383236/supplementaryFiles",
+    "box": [
+      0,
+      0.193,
+      1,
+      0.465
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_03.png",
+    "original_figure_legend": "Figure 1UV Light Greatly Facilitates Visually Guided Prey Capture in Larval Zebrafish(A) Schematic representation of visual prey capture by larval zebrafish.(B) Setup for filming paramecia. A filter wheel equipped with UV and yellow bandpass filters was positioned in front of the charge-coupled device (CCD) camera to image paramecia in a naturalistic tank in the sun.(C) Peak-normalized spectra for the UV and yellow channels (thick lines; STAR Methods) superimposed on the zebrafish’s four opsin absorption spectra (shadings). The spectral overlap between the UV and yellow channels with each opsin is indicated (thin lines). Abs., absorption; Tr., transmittance.(D) Example frames from the yellow and UV channels taken consecutively from the same position.(E) Zoom in from (D), with line profiles extracted as indicated. Arrowheads highlight paramecia visible in the UV channel. See also Video S1.(F) Schematic of behavioral setup. Individual larval zebrafish (7–8 dpf) in the presence of free-swimming paramecia were head-mounted and filmed from above, with infrared illumination from below.(G) Top illumination was provided by intensity-matched UV (374 ± 15 nm) or yellow (507 ± 10 nm) LEDs, which mainly activated UV/blue and red/green opsins, respectively, as indicated.(H) Top: zebrafish consistently responded more readily to passing paramecia with full prey-capture bouts (eye convergence + tail flicks, each event indicated with a marker) during UV-illumination periods. See also Video S2. Individual trials (left) and summary statistics (right). This difference was abolished when UV cones were ablated (bottom). Mann-Whitney U test, UV versus yellow light in wild-type (WT) fish: p < 0.01; WT versus UV killing under UV light: p < 0.001; UV versus yellow light in UV killing fish: p > 0.05; n = 12 each for WT and UV cone ablation."
+  },
+  "6": {
+    "content_id": "5",
+    "original_publisher_figure": "figures/PMC11521370_fig1.jpg",
+    "original_sha256": "9d1761284e731c374e0717407f3cdf23a5ef7332f92ea8e1d797ada1138919de",
+    "source_url": "https://cdn.elifesciences.org/articles/98648/elife-98648-fig1-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.475
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_06.png",
+    "original_figure_legend": "Figure 1.Cone-resolved adaptive optics micro-psychophysics.(a) Schematic of cell-resolved visual acuity testing in the human foveola with an adaptive optics scanning laser ophthalmoscope (AOSLO). Stimuli were dark Snellen-E optotypes presented at variable sizes and four orientations in the center of the 788 nm AOSLO imaging raster. Participants responded by indicating stimulus orientation during natural viewing, i.e., unrestricted eye motion. (b) Exemplary single trial retinal motion trace and strip-wise image stabilization of a single AOSLO frame (shown here during a microsaccade for better visibility). Trials containing microsaccades or blinks during the 500 ms stimulus presentation (gray shaded area) were excluded. The x-axis grid represents individual video frames (33 ms). (c) Foveolar retinal cone mosaic with a exemplary single trial retinal motion across the stimulus. Time is represented by color from stimulus onset to offset (purple to yellow). The cone density centroid (CDC) is shown as a red circle with white fill. (d) Typical psychophysical data of five consecutive runs in one eye. Each run followed a QUEST procedure with 20 trials. (e) Psychometric function fit to the data (about 100 trials). Acuity thresholds were estimated at 62.5% correct responses. (f) Exemplary retinal images (upper rows) and corresponding cone activation patterns (lower rows) of one experimental run (20 trials from top left to bottom right). Cone activation patterns are shown for a representative single frame. See Videos 1 and 2 for a real-time video representation."
+  },
+  "8": {
+    "content_id": "7",
+    "original_publisher_figure": "figures/PMC7383236_fig2.jpg",
+    "original_sha256": "32c285dba1bf8129f61697b383ce0f11bb93ab7304bdca41ff51d3b9421d450d",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7383236/supplementaryFiles",
+    "box": [
+      0,
+      0.47,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_08.png",
+    "original_figure_legend": "Figure 2The Detector Hardware for UV Vision in Larval Zebrafish(A–D) UV cone density projected into sinusoidal map of visual space when eyes are in resting position for initial prey detection (A) and once converged for prey localization following detection (C). A 100-μm paramecium is too small for reliable detection at ∼3 mm distance and can therefore only be seen by a single UV cone at a time (B). Even at ∼1 mm strike distance, it covers at most a handful of UV cones per eye (D). 3D schematics (A and C) illustrate approximate visual space surveyed by the two SZs. Scale bars, UV cones/°. See also Figures S1A–S1D.(E) Sagittal section across the eye with outer segments (OSs) stained by BODIPY (magenta) and UV cones expressing GFP (green, Tg(opn1sw1:GFP)) in an 8 dpf larva.(F) Higher magnification sections from (E). Note that BODIPY stains the OSs of all photoreceptors, as well as the spot-like pocket of mitochondria immediately below the OS (Figures S1E–S1G). Note also that region-specific OS enlargements are restricted to UV cones.(G) Mean and 95% confidence intervals of UV cone OS lengths across the eye. V, ventral; SZ, strike zone; D, dorsal; N, nasal. Open-source 3D fish model created by M.Y. Zimmermann."
+  },
+  "10": {
+    "content_id": "9",
+    "original_publisher_figure": "figures/PMC7383236_fig3.jpg",
+    "original_sha256": "b764b96a0a371fb176aff44def734c7cb5fa87b5c3cd0e9fc6cb1d8663023b2b",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7383236/supplementaryFiles",
+    "box": [
+      0,
+      0,
+      1,
+      0.23
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_10.png",
+    "original_figure_legend": "Figure 3Imaging Cone Calcium in the Live Eye(A) Confocal images of synaptically targeted GCaMP6f (green, Tg(opn1sw1:SyGCaMP6f)) in UV cones (magenta, Tg(opn1sw1:nfsBmCherry)).(B) Mean and single trial dorsal and SZ single cone 2-photon calcium responses to varying duration light- (6 × 105 photon/s/μm2) and dark-steps (0 photon/s/μm2) from a constant UV background (2.4 × 104 photon/s/μm2).(C) Mean calcium responses to the same stimulus as in (B) from ventral, nasal, dorsal, and SZ cones (V, N, D, and SZ; n = 9, 21, 23, and 29, respectively). Shadings represent ±1 SD. Left panel shows an enlargement of the response to the 20-ms light step.(D) Mean and 95% confidence intervals of peak amplitudes from (C).(E) Enlargement from (D). All responses except nasal and ventral 20-ms dark-flash conditions were significantly different from zero (Mann-Whitney U test). Within-condition pairwise comparisons across for SZ versus the other three zones are indicated with asterisks (∗p < 0.05, ∗∗ p < 0.01, and ∗∗∗ p < 0.001, respectively; p value adjustment, Tukey method for comparing a family of four estimates).(F) Light and dark responses from (C) and (D) plotted against each other for equivalent stimulus durations, with 95% confidence intervals indicated.(G and H) Mean calcium responses to increasing-amplitude 5-ms light flashes from darkness, as indicated (G), and quantification (mean and 95% confidence intervals) with Hill functions fitted (H).(I) Quantification of calcium responses as in (G) and (H) following horizontal cell (HC) blockage using CNQX. For better comparison, curves from (H) are added as faint dashed lines. n = 51, 29, 46, and 17 for SZ, D, N, and V, respectively, for control and n = 51, 32, 46, and 19 after HC block."
+  },
+  "11": {
+    "content_id": "10",
+    "original_publisher_figure": "figures/PMC12721711_fig3.jpg",
+    "original_sha256": "5b951507227e2105eb0ef2a288345f8b8920e1a55b77c34a6688956693a7462e",
+    "source_url": "https://cdn.elifesciences.org/articles/98817/elife-98817-fig3-v1.jpg",
+    "box": [
+      0.655,
+      0,
+      1,
+      0.418
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_11.png",
+    "original_figure_legend": "Figure 3.Identification of bipolar cell subtypes presynaptic to ON-T retinal ganglion cells (RGCs).(A) Maximum-projection z-stacks of two dye-filled ON-T RGCs (green) in whole-mount retina from Gjd2-EGFP (red) transgenic mice. (B) Traced skeletons of dendritic arbors of the two ON-T RGCs from EM volume. (C) An EM micrograph showing a ribbon synapse (arrowhead) on a BC axonal terminal onto the dendrite of a ON-T RGC. (D) An example skeleton for each presynaptic BC type (types 5i, 5t, 5o, X, 6, and 7) of ON-T RGCs. Top: whole-mount view, bottom: side view. (E) Bar plot showing the proportion of input synapses to ON-T RGCs from each BC type. Mean ± SEM (n = 3 RGCs, 2 from this study and 1 from Ding et al., 2016).Figure 3—figure supplement 1.Characterization of Gjd2-EGFP+ bipolar cells.(A) Vertical section of the Gjd2-EGFP mouse line showing EGFP positive bipolar cells axons (green) stratifying in the ON sublamina of the inner plexiform layer (IPL), co-labeled with cholinergic amacrine cell (magenta, ChAT antibody). Transmitted light image of the retina in blue. (B) Vertical section of the Gjd2-EGFP mouse line showing EGFP positive bipolar cells (green) colocalized with the T5 marker CaBP5 (magenta). (C) En face image of a whole-mount retina from the Gjd2-EGFP mouse line showing EGFP positive bipolar cell bodies (green) co-labeled with the T5 bipolar cell marker CaBP5 (magenta). (D) Same field as in (C) with cell bodies of EGFP positive bipolar cells outlined (green) by application of a digital edge outlining filter in ImageJ. (E) Position of cell body centroids for EGFP positive bipolar cells in a larger field of view (20X objective) outlined by green circles. (F) Density recovery profile analysis showing the density profile as a function of distance from the reference neuron for EGFP positive bipolar cells (green histograms) and for an equal amount of neurons randomly positioned in the same space (gray histograms) showing the presence of a characteristic exclusion distance for EGFP positive bipolar cells, hallmark of a retinal mosaic.Figure 3—figure supplement 2.ON-T and ON-S retinal ganglion cell (RGC) dendrites ramify in distinct inner plexiform layer (IPL) sublaminae.(A) Side projections from 2P z-stack images of dye-filled RGCs (ON-T: top, cyan; ON-S: bottom, magenta) and EGFP signal (yellow) in retinas from Gjd2-EGFP mice. RGCs are the same cells as shown in en face view in Figure 1A. (B) Quantification of fluorescence signals from dye-filled RGCs in Gjd2-EGFP mouse retina as in (A). Colored lines and shaded areas show mean ± SEM fluorescence intensity with respect to distance from peak EGFP (yellow) fluorescence intensity (n = 6 ON-T, cyan and n = 4 ON-S, magenta, RGCs).Figure 3—figure supplement 3.Gjd2-EGFP+ type 5 bipolar cells provide ~40% of total synapses onto ON-T retinal ganglion cells (RGCs).(A) An example ON-T RGC biolistically labeled by Cerulean Fluorescent Protein (blue) and PSD95-mCherry (green) in retina from a Gjd2-EGFP (red) transgenic mouse. Top: en face view, bottom: side views. (B) Top: Dot map of PSD95-mCherry apposed (magenta) or not apposed (green) to GFP+ BC axon terminals. Bottom: Magnified view of the raw images and the dot map for a segment of dendritic arbor in the white box. (C) Quantification of total excitatory synapse density across the dendritic arbor of ON-T RGCs. (D) Quantification of excitatory synapses in ON-T dendrites that are adjacent to GFP+ axon terminals.Figure 3—figure supplement 4.Classification of three subtypes of type 5 bipolar cells.(A) Whole-mount views of the axon terminals of types 5i, 5t, and 5o bipolar cells in the serial block face scanning electron microscopy (SBFSEM) volume in Figure 3. The tiling of the space validates the categorization of the three subtypes of type 5 bipolar cells. (B) Identification of Gjd2-EGFP+ bipolar cells as type 5i bipolar cells, supported by correlated light (left) and electron (right) microscopy images. The reconstructed skeleton of the type 5i bipolar cell in (B) is delineated by dashed lines in (A)."
+  },
+  "13": {
+    "content_id": "12",
+    "original_publisher_figure": "figures/PMC12721711_fig6.jpg",
+    "original_sha256": "3b5b9dfdfdd5a0a17777f4470d1b359fa662811dabe9fb436ef3f7a45f681066",
+    "source_url": "https://cdn.elifesciences.org/articles/98817/elife-98817-fig6-v1.jpg",
+    "box": [
+      0,
+      0.19,
+      1,
+      0.69
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_13.png",
+    "original_figure_legend": "Figure 6.Distinct glutamate input kinetics at ON-S versus ON-T retinal ganglion cell (RGC) dendrites.(A) ON-S RGC dendrites expressing iGluSnFR in a Kcng4-Cre mouse were filled with sulforhodamine 101 (left) after measuring their spiking response to a 200-µm spot extracellularly (right). Yellow bands indicate stimulus duration. (B) iGluSnFR expressing ON-S and ON-T dendrites at different depths of the inner-plexiform layer (Left) were imaged using two-photon microscopy. Example iGluSnFR signals extracted from small regions of interest (ROIs 1–8) from ON-S and ON-T RGC dendrites illustrate the kinetic differences in their respective inputs. Black, mean responses; gray, individual trials. (C) Distribution of steady-state response amplitudes (mean fluorescence during last 1 s of stimulus) of the individual (gray) and average (black) ROIs from ON-S and ON-T dendrites evoked by a 200-µm static spot (n = 7 FOVs, 6 retinas for ON-S and 5 FOVs, 5 retinas for ON-T RGC dendrites, *p < 0.001; t-test between ROIs)."
+  },
+  "14": {
+    "content_id": "13",
+    "original_publisher_figure": "figures/PMC12585175_fig1.jpg",
+    "original_sha256": "fe5d9357d65f2db6db4b96099cfd6978f5706ccfa3169b2e5c0e1f613621f64e",
+    "source_url": "https://cdn.elifesciences.org/articles/102346/elife-102346-fig1-v1.jpg",
+    "box": [
+      0,
+      0.65,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_14.png",
+    "original_figure_legend": "Figure 1.EAAT5b and EAAT7 mediate UV-blue and red but not green light signal transmission.Monochromatic electroretinograms (ERG) was recorded on eaat5b-/- (A-C), eaat7-/- (D-F) and eaat5b-/-; eaat7-/- (G-I). B-wave amplitudes are plotted in box-and-whisker plots with fish-specific data overlaid as a swarmplot. Homozygous mutation in eaat5b or in eaat7 causes a decrease in the b-wave if stimulated by red light (C and F) but not if stimulated with green or UV-blue light (A, B, D, and E). Double KO animals display a reduced b-wave amplitude for UV-blue (G) and red light (I) but not for green light (H)."
+  },
+  "15": {
+    "content_id": "14",
+    "original_publisher_figure": "figures/PMC7416113_fig1.jpg",
+    "original_sha256": "a47ba5b4195dedd6b7b1626ef086dbe38aa5d960d22916c6cb1d289defbe2c2f",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7416113/supplementaryFiles",
+    "box": [
+      0,
+      0,
+      0.389,
+      0.28
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_15.png",
+    "original_figure_legend": "Figure 1Recording from RGC Dendrites and Somata In Vivo(A) Schematic of Islet2b:mGCaMP6f expression in RGCs (green) across a section of the larval zebrafish eye, with somata in the ganglion cell layer (GCL) and dendrites in the inner plexiform layer (IPL); see also Figures S1A–S1C. INL, inner nuclear layer.(B) Average spectrum of natural daylight measured in the zebrafish natural habitat from the fish’s point of view along the underwater horizon (solid line). Convolution of the zebrafish’s four cone action spectra with this average spectrum (shadings) was used to estimate the relative power each cone surveys in nature, normalized to red cones (100%). Stimulation LED powers were relatively adjusted accordingly (“natural white”).(C and D) GCaMP6f expression under two-photon surveyed across the entire eye’s sagittal plane (C) and zoom-in to the strike zone as indicated (D). Within the zoomed field of view, a curved scan path was defined (“banana scan”) to follow the curved GCL and IPL for activity recordings (E), which effectively “straightened” the natural curvature of the eye.(E and F) Example activity scan with RGC dendrites occupying the top part of the scan in the IPL and somata occupying the bottom part in the GCL as indicated (E) and correlation projection [41] of activity following white noise stimulation highlighting responding regions in the scan alongside example regions of interest (ROIs) (F; see also Video S1).(G) Mean (black) and individual repeats (gray) example responses of ROIs from (E) to full-field stimulation as indicated.(H) As (G), now showing linear kernels to red, green, blue, and UV components recovered from natural white noise stimulation (STAR Methods).Note that several ROIs display a robust UV component despite the ~20-fold attenuated stimulation power in this band relative to red (B). See also Figures S1D–S1G."
+  },
+  "18": {
+    "content_id": "16",
+    "original_publisher_figure": "figures/PMC7416113_fig2.jpg",
+    "original_sha256": "a80a86face002099b67521ac6ccff0f94c1b19a9b982150eedd3604ca0b32a06",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7416113/supplementaryFiles",
+    "box": [
+      0,
+      0.465,
+      0.29,
+      0.652
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_18.png",
+    "original_figure_legend": "Figure 2Major Functional Response Trends across the Eye(A) Kernel amplitudes of all dendritic (top) and somatic (bottom; y-flipped) ROIs, shown for the maximal amplitude kernel of each ROI irrespective of color. For a breakdown by color, see Figures S2G and S2H. The arrowhead emphasizes a relative reduction in OFF responses at the level of somata. Chi-square with Yates correction for On:Off distributions dendrites versus somata: p < 0.00001.(B) Prominence of different color and polarity responses among dendrites (top row) and somata (bottom row), plotted across visual space. In each case, all kernels that exceeded a minimum amplitude of 10 SDs were included. Scale bars in percent of dendritic/somatic ROIs that were recorded in a given section of the eye such that the percentages of On, Off, and non-responding (<10 SD) add to 100% are shown.(C–E) Schematic illustrating how dendritic ROIs from different parts of the eye and IPL depth (C) were mapped into a 2D “Eye-IPL” map (D), which can then also be analyzed over time (E). Note that this involved “cutting” the circular range of eye positions such that the ventral retina is represented at either edge along the 2-projections’ x axis.(F and G) Example snapshots of mean responses to chirp stimulation (cf. Figure 1G) mapped into an eye-IPL map as schematized above (C–E). Data can be plotted as time traces for a given region of the eye and IPL (F; r1,2 as indicated in G) or alternatively as a time-frozen snapshot of activity across the eye and IPL at different points in time (G; t1–4 as indicated in F). See also Videos S2 and S3.(H–J) As (F) and (G) but instead showing mean kernels across the four spectral wavebands, where (H) and (I) are mean and max-scaled mean kernels for Eye-IPL regions r1,2 (as in F), respectively. (J) shows each kernel’s full Eye-IPL map at two time points t5,6 as indicated in (H) and (I) (see also Figure S2I). In the color scale bar, 0 equates to the baseline of each bin’s kernel and 1/−1 to their respective maximum or minimum (cf. I). See also Video S4.(K and L) Distribution of central frequencies (STAR Methods) of dendritic (top) and somatic (bottom; inverted y axis) kernels in the four wavebands, separated into On (K) and Off (L) kernels. Wilcoxon rank-sum test, 1 tailed with correction for multiple comparisons for all pairwise comparisons between same polarity distributions of spectral centroids, is shown. Dendrites: all p < 0.001 except ROff versus GOff (p = 0.0011) and GOn versus BOn (p = 0.69). Somata: all p < 0.001 except ROn versus UOn (p = 0.00101), ROff versus GOff (p = 0.033), GOn versus BOn (p = 0.045), BOn versus UOn (p = 0.064), ROn versus BOn (p = 0.25), and ROn versus GOn (p = 0.57)."
+  },
+  "20": {
+    "content_id": "I03",
+    "original_publisher_figure": "figures/starburst_10.1177_20416695211018720-fig1.jpg",
+    "original_sha256": "f38e76c7e4ac141974a241d3d1e152b77017fac8e69c4a5a443a32002b0118e9",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8580503/supplementaryFiles",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_20.png",
+    "original_figure_legend": "Figure 1.The Scintillating Starburst stimulus. This stimulus is made up of several star polygons with faces that bisect each other (see the Method section for details). Most observers perceive fleeting rays, beams, or lines emanating from the center that appear to be brighter than the background."
+  },
+  "21": {
+    "content_id": "I04",
+    "original_publisher_figure": "figures/starburst_10.1177_20416695211018720-fig3.jpg",
+    "original_sha256": "d34b2946aa15449d85d1d05a28666b601a59b17e3c0f79f14798c9501595a36d",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8580503/supplementaryFiles",
+    "box": [
+      0.49,
+      0,
+      0.8,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_21.png",
+    "original_figure_legend": "Figure 3.FT of Starbursts and seemingly similar phenomena. A: A Scintillating Starburst stimulus with associated FT in B. C: Phantom bands of a Motokawa grid with associated FT in D. E: The Pincushion grid illusion with associated FT in F. G: The Hermann grid with associated FT in H. I: A scintillating grid with associated FT in J. K: A radial scintillating grid with associate FT in L."
+  },
+  "22": {
+    "content_id": "18",
+    "original_publisher_figure": "figures/PMC12237402_fig2.jpg",
+    "original_sha256": "88c49ee7bb14ef670cb2c116998c4db382a6d70cdc6c44f54d5d7279d28e8a91",
+    "source_url": "https://cdn.elifesciences.org/articles/98347/elife-98347-fig2-v1.jpg",
+    "box": [
+      0,
+      0,
+      0.615,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_22.png",
+    "original_figure_legend": "Figure 2.Pose information extracted from tracking data.(A) Definition of left (θL) and right (θR) eye vergence angles. The heading vector (red arrow) is the vector starting from the midpoint of the fins and passing through the midpoint of the eyes. The orientation of each eye is computed from the temporal and nasal points (long axis of the eye). The eye angle is the signed angle between the heading and long axis of the eye. Zero degrees indicates that the long axis of the eye is parallel with the heading. Nasalward rotation of the eye increases the vergence angle. Eye convergence angle is θL + θR. Bottom: schematic showing eyes in an unconverged and converged state. (B) Parameters used to estimate tail pose. Tail pose is measured starting from the middle of the swim bladder. We compute the vector between each consecutive pair of points along the tail. At each pair of points, we compute the signed angle between the corresponding vector and the midline of the fish (RHS: θ1-7, angles between black arrows and red dashed line), providing a seven-dimensional representation of the tail pose in each frame. For visualization purposes in Figure 1G, Figure 1—figure supplement 1, we plot the tail angle, which is the signed angle between the swim bladder and the final tail point relative to the heading (angle between dashed red and black lines, φ)."
+  },
+  "23": {
+    "content_id": "19",
+    "original_publisher_figure": "figures/PMC11521370_fig4.jpg",
+    "original_sha256": "235554d10214c79e4dedb335e16109f1461f7bf49e53f0ddeea44fa59c0447f9",
+    "source_url": "https://cdn.elifesciences.org/articles/98648/elife-98648-fig4-v1.jpg",
+    "box": [
+      0,
+      0,
+      0.475,
+      0.49
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_23.png",
+    "original_figure_legend": "Figure 4.Drift moves stimuli to higher cone density areas.(a) Five exemplary motion traces relative to cone density centroid (CDC), preferred retinal locus (PRL), and peak cone density (PCD) location on the Voronoi tessellated cone mosaic of one participant. (b) All single trial motion traces of one eye are shown on the corresponding cone mosaic (95 trials containing drift only). One-SD isoline areas (ISOA) are shown for all stimulus onset (blue) and offset (yellow) locations, indicating a trend of directional drift towards higher cone densities during 500 ms stimulus presentation. (c) Polar histogram of all individual motion traces (n=2739) shows the relative frequency of motion angles, θRetina, between the start (coordinate center) and end of motion in retinal coordinates. The inset indicates θ sign. (d) Same data as in c, where θCDC was computed relative to the line connecting drift start location and CDC, see inset. The pink quarter indicates the angular space used for the computation of the tuning ratio. For more details on the drift directionality of individual eyes, see Figure 1. (e) The difference between the acuity threshold and Nyquist limit showed a significant trend to be larger for stronger directionality tuning. The tuning ratio was computed as the ratio between the relative frequency of intra-participant drift motion towards the CDC (±45 deg) and the average of drift motion towards the remaining three quadrants. (f) Relative frequency of drift direction relative to CDC (top), PRL (middle), and PCD (bottom), respectively. For more details on the temporal progression of drift directionality, see Figure 2. (g) Across all participants and trials, drift length correlated with stimulus onset distance from CDC. There was no clear effect of stimulus onset distance on motion directionality (data color corresponding to θCDC). (h) The achieved sampling gain due to the performed drift motion is significantly correlated to the potential sampling gain in individuals. In both dominant and non-dominant eyes the potential sampling gain is on average exploited by 30%, respectively. Due to shifting the CDC towards the stimulus, participants had different PRLs for a sustained fixation task and the visual resolution task (see Figure 3).Figure 4—figure supplement 1.Individual drift directionality.Sorted according to their dominant eyes cone density centroid (CDC) to preferred retinal locus (PRL) distance (largest to smallest) eyes drift directionality is shown relative to the CDC. The CDC is indicated by a red circle with white fill. Participant numbers (P01 to P16) are assigned based on the dominant eye’s visual acuity threshold (best to worst). The upper left plot shows the angular labels exemplarily for all eyes. The tuning ratio was computed as the ratio between the relative frequency of intra-participant drift motion towards the CDC (±45 deg), indicated by the pink quarter, and the average of drift motion towards the remaining three quadrants.Figure 4—figure supplement 2.Time course of drift directionality.The angles θ cone density centroid (CDC), θ preferred retinal locus (PRL), and θ peak cone density (PCD) for all eyes were computed over time, relative to the stimulus onset, and are shown after 33 ms (one frame), 165 ms (five frames), 330 ms (10 frames), and 462 ms (14 frames). The respective tuning ratio (TR) is shown in the bottom part of each subplot. The tuning ratio was computed as the ratio between the relative frequency of inter-participant drift motion towards the CDC (±45 deg) and the average of drift motion towards the remaining three quadrants. For all cases, the circular data are not distributed uniformly around the circle (Rayleigh test, p<0.001, with increasing significance for longer durations). The distributions were compared against each other by the Kolmogorov-Smirnov test. Only CDC vs. PRL (33 ms) and PRL vs. PCD (33 ms) show no statistically significant difference. The distribution towards CDC compared to PCD is significantly different for 33 ms (p=0.002). For all other time points, all distributions are significantly different from each other, with increasing significance for longer durations (for 462 ms, all p<0.001).Figure 4—figure supplement 3.Different retinal locations used in a fixation or resolution task.Median preferred retinal locus (PRL) locations of all participants’ right and left eyes plotted in retinal coordinates relative to the cone density centroid (CDC). Retinal locations are plotted in teal for the fixation task and in black for the resolution task. A black line connects the retinal locations of the same participant."
+  },
+  "26": {
+    "content_id": "22",
+    "original_publisher_figure": "figures/PMC11981939_fig3.png",
+    "original_sha256": "cccbdc543301b83d01ac12555127c8e5fc2d65ec40a0df8a33a10ccaeaf15eac",
+    "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-025-08790-w/MediaObjects/41586_2025_8790_Fig3_HTML.png",
+    "box": [
+      0,
+      0,
+      1,
+      0.34
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_26.png",
+    "original_figure_legend": "Fig. 3In vivo calcium-imaging data.a, Representation of the 2P functionally imaged volume with area boundaries (white) and vascular label from structural stack (red). b, Wireframe representation of 104 planes registered in the structural 2P stack. c, Mean depth of posterior (post.) and anterior (ant.) registered fields relative to the pial surface. d, 3D scatter plot of each functional mask in its registered location in the structural 2P stack. Black, VISp; red, VISlm; blue, VISal; green, VISrl. e, Example frames from each of the five stimulus types (cinematic, Sports-1M, rendered, Monet2 and Trippy) shown to the mouse. f, Raster of deconvolved calcium activity for three neurons to repeated stimulus trials (oracle trials; ten repeats of six sequential clips, with each repeat normalized independently). Rasters for high (top), medium (middle) and low (bottom) oracle scores with the percentile shown on the right. g, Trial-averaged raster (central 500 ms of trial-average raster for each direction, out of 937 ms) of deconvolved calcium activity for 80 neurons in 40 Monet2 trials (16 randomly ordered directions) grouped by preferred direction (5 neurons per direction; alternating blue shading) and sorted according to the stimulus directions."
+  },
+  "28": {
+    "content_id": "24",
+    "original_publisher_figure": "figures/PMC11981947_fig2.png",
+    "original_sha256": "cdb653563665de0131f84515e3201e8e2da2ac59a41ed2a735757abcb0ef9d7f",
+    "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-025-08840-3/MediaObjects/41586_2025_8840_Fig2_HTML.png",
+    "box": [
+      0.205,
+      0,
+      0.35,
+      0.25
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_28.png",
+    "original_figure_legend": "Fig. 2Neurons with higher signal correlation are more likely to form synapses.a, Anatomical control selection schematic. For each presynaptic neuron (yellow), true postsynaptic partners (black) have controls drawn from unconnected neurons with non-zero axon–dendrite co-travel distance (ADP, red) or zero co-travel distance in the same cortical region (blue). b, Meshes showing presynaptic (yellow axon), postsynaptic (black dendrite) and ADP control (red dendrite) neurons. c, Presynaptic axons in EM space for all projection types (V1→V1, HVA→HVA, V1→HVA and HVA→V1), with soma centroids of connected partners (black), ADP controls (red), same-area controls (blue) and all other functionally matched neurons (grey). Orange triangles represent presynaptic soma. Dashed line is the V1–HVA boundary. Scale bars, 100 μm. Nucleus IDs: V1, 327859; HVA, 560530. d, Mean signal correlation differs between synaptic partners, ADP controls and same-region controls across projection types. Data are mean ± s.e.m.; two-sided paired t-test. Sample size in Supplementary Table 2. e, Ld increases with signal correlation (Δ co-travel distance and Δ signal correlation represent deviations from mean per presynatic neuron). V1→V1: mean Ld = 9.03 μm; HVA→HVA: mean Ld = 9.83 μm; V1→HVA: mean Ld = 4.17 μm; HVA→V1: mean Ld = 1.53 μm. Bands represent bootstrapped s.e.m. Sample sizes for GLMM statistics are shown in Supplementary Tables 3 and 4. f, Synapse density (Nsyn/Ld) increases with signal correlation across projections. V1→V1: mean Nsyn/Ld = 1.12 mm−1; HVA→HVA: mean Nsyn/Ld = 0.83 mm−1; V1→HVA: mean Nsyn/Ld = 1.55 mm−1; HVA→V1: mean Nsyn/Ld = 1.26 mm−1. Bands represent bootstrapped s.e.m. Sample sizes for GLMM statistics are shown in Supplementary Tables 5 and 6. g, Meshes with small (896 voxels) and large (41,716 voxels) synapse cleft volumes. h, Synapse size (log10 cleft volume in voxels) correlates with signal correlation (6,608 pairs, P = 3.997 × 10−21, linear regression on unbinned data). Residual signal correlation adjusted for Ld. Bars show bin-wise s.e.m. i, Multisynaptic meshes (yellow, presynaptic; black, postsynaptic). j, Signal correlations increase with synapse count (6,608 pairs, P = 0.009, linear regression on unbinned data). Residual signal correlation adjusted for Ld. Bars show bin-wise s.e.m. *P < 0.05, **P < 0.01, ***P < 0.001 for all figures; corrected for multiple comparisons by Benjamini–Hochberg procedure."
+  },
+  "30": {
+    "content_id": "I05",
+    "original_publisher_figure": "figures/behavior_fig1.gif",
+    "original_sha256": "4fac9657aceb84f574041ededbbe7a3d609b92f292620b6c5f8c9b73fdb0013e",
+    "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2F35009102/MediaObjects/41586_2000_Article_BF35009102_Fig1_HTML.gif",
+    "box": [
+      0,
+      0,
+      0.5,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_30.png",
+    "original_figure_legend": "Figure 1: The behavioural role of retinal projections routed to the auditory pathway."
+  },
+  "31": {
+    "content_id": "I06",
+    "original_publisher_figure": "figures/roe_fig8.png",
+    "original_sha256": "15fb368a0989049ab1248f69f53af5c0e7a24da4467b935759f319ee19228030",
+    "source_url": "https://www.jneurosci.org/content/jneuro/12/9/3651.full.pdf",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_31.png",
+    "original_figure_legend": "Orientation tuning of cells in rewired A1 and normal V1; original Figure8A–B, including axes, labels, and key."
+  },
+  "32": {
+    "content_id": "I07",
+    "original_publisher_figure": "figures/orientation_fig2.gif",
+    "original_sha256": "a06d6e4c9ea3ba3d7a70d9d3f718cb77415df8df021d6b51207bd0856a338382",
+    "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2F35009043/MediaObjects/41586_2000_Article_BF35009043_Fig2_HTML.gif",
+    "box": [
+      0,
+      0,
+      1,
+      0.7
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_32.png",
+    "original_figure_legend": "Figure 2: Optically imaged orientation maps and single cell responses in rewired ferret auditory cortex."
+  },
+  "33": {
+    "content_id": "I08",
+    "original_publisher_figure": "figures/behavior_fig2.gif",
+    "original_sha256": "a690e55e9a2149a0f10368e1bf23c46fac924626f5e5f1212eaa78003e8d8af1",
+    "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2F35009102/MediaObjects/41586_2000_Article_BF35009102_Fig2_HTML.gif",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_33.png",
+    "original_figure_legend": "Figure 2: Responses of rewired and normal ferrets to sound and light stimuli. "
+  },
+  "34": {
+    "content_id": "26",
+    "original_publisher_figure": "figures/PMC11521370_fig3.jpg",
+    "original_sha256": "6417f0f507fb8c03d5f2ebb23a82f5ce6b31ee35191cf95f080be68cb0a80c97",
+    "source_url": "https://cdn.elifesciences.org/articles/98648/elife-98648-fig3-v1.jpg",
+    "box": [
+      0,
+      0,
+      0.405,
+      0.51
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_34.png",
+    "original_figure_legend": "Figure 3.Fixational drift and the contribution to visual acuity.(a) Ocular drift during stimulus presentation (participant 16, left eye). Single adaptive optics scanning laser ophthalmoscopy (AOSLO) frame captured during Snellen E presentation (top left) and all single stimulus positions (colored dots) of five experimental runs shown on the corresponding cone mosaic (panels 2–6). White iso-lines delimit cone density percentile areas (90th to 50th percentile visible). Time is represented by color from stimulus onset to offset (purple to yellow). Individual drift trajectories for all eyes are shown in Figure 3—figure supplement 1. (b) Individual motion traces highlighting intra- and inter-subject drift variability. Traces are from one run in the participant with the lowest (upper rows) and highest (lower rows) average drift lengths. (c) Computation of drift length as a sum of interframe motion vectors (top) and the relative frequency of occurrences among all participants and trials (bottom). (d) Median drift length and drift length range showed a moderate correlation in dominant as well as non-dominant eyes (top). The minimum drift length was similar between participants (3.8±0.8 arcmin) whereas the maximum length varied about three times as much (12.0±2.7 arcmin). (e) Drift lengths in fellow eyes had a very strong correlation. (f) Cone density and drift length did not show a significant correlation in dominant or non-dominant eyes. (g) The median drift length had a moderate correlation with visual acuity threshold in dominant as well as non-dominant eyes. Dominant eyes are indicated by filled, non-dominant eyes by open markers.Figure 3—figure supplement 1.Drift trajectories on foveolar mosaics.Participants (P01-16) are sorted according to acuity thresholds in their dominant eye (best to worst). All single trial motion traces are shown on the corresponding cone mosaic, color-coded by elapsed time. One-SD isoline areas (ISOA) are shown for all stimulus onset (blue) and offset (yellow) locations. The medians of all onset and offset locations are shown as blue and yellow squares, respectively. The cone density centroid (CDC) is indicated by a red circle with white fill."
+  },
+  "37": {
+    "content_id": "28",
+    "original_publisher_figure": "figures/PMC12431771_fig1.jpg",
+    "original_sha256": "b7d4859d1e3364694136db01c7a0769241d37b2a61f1238370d56a3e15bd079f",
+    "source_url": "https://cdn.elifesciences.org/articles/93589/elife-93589-fig1-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.62
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_37.png",
+    "original_figure_legend": "Figure 1.Experimental design and spatial frequency (SF) coding.(a) Experimental design. The design of the experiment involved the collection of responses from inferior temporal (IT) neurons to 15 stimuli (including six faces, three non-faces, and six selective stimuli, see Materials and methods) in six SF bands (intact and R1–R5, see Materials and methods), and two versions (scrambled and unscrambled) using a passive presentation task. The presentation of blocks starts if the monkey preserves fixation for 200 ms. Each block consisted of a 33-ms stimulus presentation followed by a blank screen with a fixation point of 465 ms, and each stimulus was presented 15 times. The recorded signals were sorted, and visually responsive neurons were selected (N = 266, see Materials and methods). (b) A sample of the fixed stimulus set. This panel shows three (out of six) faces, three non-faces, and one scrambled sample stimulus. Each row corresponds to an SF range starting with intact, followed by R1–R5 (low to high SF). (c) A sample neuron. The peristimulus time histogram (PSTH) of a sample neuron (N = 151, M1) for scrambled stimuli is depicted. To generate a response vector for a given stimulus or trial, the responses of each neuron were averaged in a 50-ms time window centered around the relevant time point. The PSTH was smoothed using a Gaussian kernel with a standard deviation of 20 ms. The responses of three SF bands (R1, R3, and R5) are shown for better illustration. (d) SF coding exists in the IT cortex. The decoding performance of SF ranges using scrambled stimuli is shown over time. Single- and population-level representations were fed into a linear discriminant analysis (LDA) algorithm to predict the SF range of the scrambled stimuli. Shadows illustrate the SEM and STD for single and population levels, respectively. This figure highlights the presence of SF coding in both individual and population neural activity. (e) Low SF (LSF)-preferred nature of SF coding. The population recall of each SF band in response to scrambled stimuli, determined using the LDA method, is presented. The error bars indicate the STD. The results demonstrate a decreasing trend as SF moves toward higher frequencies, suggesting a coarse-to-fine decoding preference. Figure 1—source data 1.Source data for neuronal firing rates, SF decoding accuracy at single-unit and population levels, and recall of SF decoding per SF."
+  },
+  "38": {
+    "content_id": "29",
+    "original_publisher_figure": "figures/PMC12431771_fig2.jpg",
+    "original_sha256": "056b24d818f884c9bd32022d7352f536d4cb31e7d4679d4433610f0f22c4b076",
+    "source_url": "https://cdn.elifesciences.org/articles/93589/elife-93589-fig2-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_38.png",
+    "original_figure_legend": "Figure 2.The temporal dynamics of spatial frequency (SF) representation.(a) Course-to-fine nature of SF coding. The onset time of the recall of each SF range in scrambled stimuli is illustrated, with error bars indicating the STD. The results suggest that the onset time of decoding increases as SF increases. (b) SF preference shifts toward higher frequencies over time. The time course of the average preferred SF (see Materials and methods) across neurons is illustrated. The average preferred SF of inferior temporal (IT) neurons moves toward higher frequencies from 170 ms after stimulus onset, reaching its highest value at 220 ms. A second peak emerges at 320 ms following the stimulus onset. The SF preference shows a monotonic increase followed by a decrease in time. The shadow shows SEM. (c, d) Shift in neural response toward high SF (HSF). The average response of all neurons within the two time intervals (T1 and T2 in panel b) is shown, with error bars indicating the SEM. (c) In T1, from 70 to 170 ms after stimulus onset, a decreasing response of the neurons is observed as the SF content shifts toward higher frequencies. The relative percentage of neurons showing stronger responses to SF ranges (R1–R5) in T1 is depicted in the inner top panel. R1 is the most responsive SF for roughly 40% of the neurons. (d) In the following interval (T2, 170–270 ms), an increasing tuning is observed from R2 to R5, where R5 elicits the highest firing rates. Furthermore, in T2, there is a roughly threefold increase in the percentage of neurons exhibiting stronger responses to R5 compared to T1, indicating a shift in the neurons’ responses toward HSF (top panel). Figure 2—source data 1.Source data for temporal dynamics of SF coding, including onset of recall, preferred SF, and neuronal responses across time intervals."
+  },
+  "40": {
+    "content_id": "I11",
+    "original_publisher_figure": "figures/PMC12586158_fig1.png",
+    "original_sha256": "9f5ad1f65e29bb2e394110f601f963d664379fddfb23007484551892bba9851c",
+    "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41593-025-02055-5/MediaObjects/41593_2025_2055_Fig1_HTML.png",
+    "box": [
+      0,
+      0,
+      0.76,
+      0.29
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_40.png",
+    "original_figure_legend": "Fig. 1Mouse V1 neurons respond to ICs despite the lack of contrast in their receptive fields.a, The Kanizsa triangle illusion. b, Example visual stimuli used in this experiment. ‘IC images’ contain illusory bars (top), while ‘IRE images’ contain real bars (bottom). c, Receptive fields were mapped using 16° patches of circular drifting gratings appearing in one of the nine positions depicted (left). Position 1 corresponds to the gap region in the stimuli in b (right; for reference, the nine positions in the receptive field mapping block are shown on top of the default image from the IC block). Note that 16° is slightly larger than the typical size of receptive fields in mouse V1. d, Schematic of six Neuropixels probes insertion into V1, LM, RL, AL, PM and AM (12 sessions from 12 mice). e, Receptive field map for V1 regular-spiking (RS) units that exclusively responded to grating patches in position 1, corresponding to the illusory gap region (n = 18 exclusively center-responsive neurons; 12 sessions from 12 mice). f, PSTHs of exclusively center-responsive V1 RS units on IC and IRE trials, for preferred IRE orientation and corresponding IC trials. Top, mean ± s.e.m. across neurons. Bottom, individual neurons with substantially IC-responsive (left; 66.7%) and IRE-responsive (right; 77.8%) neurons marked in magenta on the y axis. g, Comparison of the preferred orientation between illusory bars (IC stimuli) and real bars (IRE stimuli) for IRE-responsive and exclusively center-responsive V1 RS units, showing a 78.6% match. h, Example 2p field-of-view of GCaMP6s expressing neurons in V1L2/3 excitatory neurons (29 sessions from five mice). i–k, Same as e–g, but for the 2p imaging dataset (n = 310 exclusively center-responsive V1L2/3 excitatory neurons; 29 sessions from five mice). Top, mean ± s.e.m. across exclusively center-responsive excitatory neurons in V1L2/3 (j). Bottom, individual neurons with substantially IC-responsive (left; 21.3%) and IRE-responsive (right; 43.2%) neurons marked in magenta on the y axis. There was a 54.5% match (k). PSTHs, peri-stimulus time histograms; LP, lateral posterior nucleus; LGN, lateral geniculate nucleus."
+  },
+  "41": {
+    "content_id": "31",
+    "original_publisher_figure": "figures/PMC8547958_fig4.jpg",
+    "original_sha256": "0fde89c37e396c3f634b6bcb8db75eb66a4c430f970edc19a04b05453eca0513",
+    "source_url": "https://cdn.elifesciences.org/articles/70838/elife-70838-fig4-v1.jpg",
+    "box": [
+      0,
+      0.32,
+      1,
+      0.515
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_41.png",
+    "original_figure_legend": "Figure 4.Functional foci are located within binocular regions in which motion is stabilized.(A) Schematic of the common head and eye rotational axes. (B) Relationship between head and eye rotations around the common X (left, 154,625 frames from three animals) and Y (right, 165,432 frames from three animals) rotational axes during pursuit and non-pursuit sequences. Plots show mean for left (blue) and right (green) eyes with standard deviation (gray). (C) Relationship between head and left eye rotations around the common X (left) and Y (right) rotational axes with; all eye rotations present (blue), torsional eye rotations frozen (red), vertical eye rotations frozen (black) or horizontal eye rotations frozen (orange). Plots show mean (lines) and standard deviations (colored filled regions). (D) Corneal view showing probability of overlap of left and right visual fields for one example animal (71995 frames), with overlay of isodensity contours (red) from functional foci (see Figure 2—figure supplement 1D) and contour of second highest RGC region (brown) from Figure 3B. (E) Schematic of inter-ocular alignment. (F) Corneal view of alignment reference point in left eye (left) and variability in alignment of the re-projection of that point in the right eye (right) for a 1.6 s data segment. (G) Kinetics (left) and associated distribution (right) of the variability in ocular alignment for left eye point projected to right eye (blue) and right eye point in left eye (green) for one example data segment (shown in G) from one animal. (H) Distributions of ocular alignment from all data segments (159,318 frames, n=3 mice) with the measured eye movements for left into right eye (blue) and right into left eye (green) and alignment with eye movements frozen (left into right eye, black, right into left, orange). (I) Map of average inter-ocular alignment for all data segments (159,318 frames, n=3 animals) with overlay of isodensity contours from Figure 2H. (J) Map of average inter-ocular alignment as in J with left eye movements frozen. Figure 4—source data 1.Related to Figure 4B,C. Figure 4—source data 2.Related to Figure 4D. Figure 4—source data 3.Related to Figure 4G. Figure 4—source data 4.Related to Figure 4H. Figure 4—source data 5.Related to Figure 4I. Figure 4—source data 6.Related to Figure 4J. Figure 4—figure supplement 1.VOR relationships between head and eye rotations and abrupt shifts in gaze.VOR relationships between head and eye rotations and alignment of left and right eyes. (A) Relationship between mouse head pitch and horizontal eye rotations (left eye (171,942 frames), blue; right eye (364,259 frames), green; mean ± SD). (B) Relationship between head roll and vertical eye rotations. Plot conventions as in A. Left eye (164840 frames); right eye (363,713 frames). (C) Relationship between head pitch and torsional eye rotations. Plot conventions as in A. Left eye (171,942 frames); right eye (364,259 frames). Data for A-C, from three animals. (D) Example trace from one animal of abrupt shifts (gray boxes) in gaze (lower) resulting from combined head rotation (upper) and conjugate horizontal eye rotations (middle).Figure 4—figure supplement 2.Ocular torsion during cricket pursuit.(A) Distribution of left (blue) and right (green) eye torsional rotations during detect epochs. Data from 57 epochs (4406 frames) from three animals. (B) Distribution of ocular torsion during track epochs. Conventions as in A. Data from 65 epochs (13624 frames) from three animals. (C) Average relationship (mean ± SD) between head pitch and torsional eye rotations during detect epochs for left (blue and right (green) eyes). Data from 57 epochs (4406 frames) from three animals. (D) Average head pitch and torsional eye rotations relationships during track epochs. Conventions as in C. Data from 65 epochs (13,624 frames) from three animals. (E) Mouse (detect epoch, blue; track epoch, red) and cricket (black) trajectories during one example pursuit sequence. (F) Torsional rotations of the left (blue) and right (green) eyes, and head pitch (purple) and roll (orange), during the pursuit sequence in E. Lower panels show example eye images from the indicated time points in the kinetic traces. Red arrows indicate tracked TiO2 spots. (G) Example sequences showing torsional rotation kinetic traces for left (blue) and right (green) eyes during in- (i) and excyclovergence (ii) from one pursuit sequence. Schematics show the ocular rotations in the left and right eyes. (H) Example sequence showing dextrocycloversion in one pursuit sequence. Conventions as in G. (I) Example of the effect of torsional rotations on prey image location. Corneal eye views of the cricket (black ellipse in red dashed circle) and arena (upper) and associated eye images (middle) at the time points indicated in the torsion kinetic traces (lower) for the left (blue) and right (green) eyes. Note cricket trajectories in left and right corneal eye views, which show the trajectory of the cricket in the corneal views between time points 1 and 2. Red arrows in eye images show TiO2 torsion tracking spots. (J) Performance of a model predicting torsion based on head pitch alone for left (blue) and right (green) eyes during detect and (K) track epochs. (L) Average (mean ± SD) relationship between head roll and torsional eye rotations during detect epochs for left (blue) and right (green) eyes. Data from 57 epochs (4406 frames) from three animals. (M) Average head roll and torsional eye rotation relationship during track epochs. Conventions as in L. Data from 65 epochs (13,624 frames) from three animals. (N) Performance of a model predicting torsion based on both head pitch and roll. Conventions as in J. For both J and N, data taken from 57 detect epochs (4406 frames), from three animals. (O) Performance of a model predicting torsion based on both head pitch and roll during tracking phases. For both K and O, data taken from 65 prey tracking epochs (13,624 frames), from three animals.Figure 4—figure supplement 3.VOR relationships between head and eye rotations and alignment of left and right eyes.(A) Image of mouse with detachable miniaturized eye cameras and head position tracking system. (B) Example eye images showing horizontal, vertical and torsional eye rotations. Note TiO2 spots on the corneal surface for tracking torsion highlighted in lower panels. (C) Schematic of the common head and eye rotational axes. Relationship between (D) left and right eye X-rotations, (E) Y-rotations and (F) Z-rotations in common rotational axes. (G) Relationship between head X rotations and eye Z rotations for left eye (blue) and right eye (green). Data for D-G are represented as mean ± SD, and are from 168,400 frames from three animals. (H) Corneal view showing probability of overlap of left and right visual fields for two example animals m1 (left, 36,449 frames) and m2 (right, 50,874 frames), with overlay of isodensity contours (m1 -black, m2 - blue) from functional foci (see Figure 2—figure supplement 1D) and contour of second highest RGC region (brown) from Figure 3B. (I) Profile of probability of overlap for left (dotted) and right (solid) eyes as a function of angular distance from optical axis for all three animals. Profile taken from horizontal axis through optical axis as shown in Figure 4D (dotted line in 4D, N = 3 animals, green = 36,449 frames, blue = 50,874 frames, purple = 71,995 frames, respectively). Examples of ocular alignment for the reference spot in the left eye projected into the right eye (J), reference spot in the right eye projected into the left eye (K), and alignment over time for both reference spots (L)."
+  },
+  "43": {
+    "content_id": "33",
+    "original_publisher_figure": "figures/PMC8514090_fig1.jpg",
+    "original_sha256": "3b0dba4fb99a2dee0305bb4b44f325f95fe592b6cd1f6f1c34bc18f232a67e80",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8514090/supplementaryFiles",
+    "box": [
+      0.68,
+      0,
+      1,
+      0.56
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_43.png",
+    "original_figure_legend": "Fig. 1.In vivo spectral tuning of larval zebrafish cones and HC block.(A) Schematic of larva zebrafish retina, with position of cone pedicles highlighted [adapted from (82)]. (B and C) Example scans of the four spectral cones (B) (Methods) with single pedicle response examples for each (C) to 3-s flashes of light from each of the 14 LEDs [see fig. S1 (A to C)]. The means superimposed on individual repeats are shown. (D) Example spectral responses summarized from (C). Note that in this representation, both the x and y axes are flipped relative to the raw responses. (E and F) Population responses of each cone type recorded in different parts of the eye (D, dorsal; N, nasal; AZ, acute zone; V, ventral; see schematic inset above for anatomical reference; vertical scale bars indicate n = 100 cones; see also fig. S1G) (E) and population mean ± 95% confidence intervals with log-transformed respective opsin template superimposed (F) (Methods). Heatmaps (E) are time-inverted to facilitate comparison to summary plots (F); grayscale bars are in z scores. Darker shades indicate a drop in calcium relative to baseline, indicative of a cone’s “intrinsic” light response, while lighter shades indicate a rise in calcium, indicative of sign-inverted inputs from the outer retinal network (see Fig. 2)."
+  },
+  "45": {
+    "content_id": "35",
+    "original_publisher_figure": "figures/PMC11377037_fig2.jpg",
+    "original_sha256": "11dd9a73e16bec2f97d7d09aaf718e362c6a93e08024b645081128ff6407503d",
+    "source_url": "https://cdn.elifesciences.org/articles/89996/elife-89996-fig2-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_45.png",
+    "original_figure_legend": "Figure 2.Strong neuronal representation of color in mouse primary visual cortex.(a) Top left panel shows schematic drawing illustrating the green and ultraviolet (UV) contrast space used in the other panels and Figures 3—5. Amplitudes below and above zero indicates an Off and On cell, respectively. Achromatic On and Off cells will scatter in the lower left and upper right quadrants along the diagonal (‘luminance contrast‘), while color-opponent cells will fall within the upper left and lower right quadrants along the off-diagonal (‘color contrast‘). Blue and green shading indicates stronger responses to UV and green stimuli, respectively. The three other panels show event-triggered averages (ETAs) of three example neurons (top) with the peak amplitudes (‘contrast‘) of their center (dot) and surround responses (triangle) indicated in the bottom. (b) Density plot of peak amplitudes of center (top) and surround (bottom) ETAs across all neurons (n=3331 cells, n=6 recording fields, n=3 mice). Red lines correspond to axes of principal components (PCs) obtained from a principal component analysis (PCA) on the center or surround data, with percentage of variance explained along the polarity and color axis indicated. For reproducibility across animals, see Figure 2—figure supplement 1. The percentages of variance explained by color (off-diagonal) and luminance axis (diagonal) correlate with the number of neurons located in the color (top left and bottom right) and luminance contrast quadrants (top right and bottom left), respectively. Scale bars indicate the number of neurons in the 2D histogram. (c) Decoding discriminability of stimulus luminance (top) and stimulus color (bottom) based on center (black) and surround (gray) responses of different numbers of neurons. Decoding was performed using a support vector machine (SVM). Lines indicate the mean of 10-fold cross-validation (shown as dots). For luminance contrast, decoding discriminability was significantly different between center and surround for n=50 and n=100 neurons (t-test for unpaired data, p-value was adjusted for multiple comparisons using Bonferroni correction). For color contrast, decoding discriminability was significantly different between center and surround for all numbers of neurons tested, except n=1 neuron. Dotted horizontal lines indicate decoding accuracy in % for 60%, 80%, 90%, and 99%, with a change level of 50% corresponding to 0 bits.Figure 2—figure supplement 1.Consistency across mice.(a) Density plots of peak amplitudes of center (top) and surround (bottom) event-triggered averages (ETAs), separately for mouse 1 (n=2 recording fields, n=1170 cells), mouse 2 (n=2 recording fields, n=1102 cells), and mouse 3 (n=2 recording fields, n=1039 cells). Red lines correspond to axes of principal components (PCs) obtained from a principal component analysis (PCA) on the center or surround data, with percentage of variance explained along the polarity and color axis indicated. (b) Density plots of peak amplitudes of center ETAs for neurons encoding the upper visual field (posterior primary visual cortex [V1]; top) and lower visual field (anterior V1; bottom), respectively, separately for mouse 1 (n=2 recording fields, n=1170 cells), mouse 2 (n=2 recording fields, n=1102 cells), and mouse 3 (n=2 recording fields, n=1039 cells). Red lines correspond to axes of PCs obtained from a PCA on the center or surround data, with percentage of variance explained along the polarity and color axis indicated.Figure 2—figure supplement 2.Neuronal representation of color in the mouse retina.(a) Top panel shows schematic of a flat-mounted ex vivo retina, with distribution of all recording fields (n=88 fields) from an available dataset (Szatko et al., 2020) that has recorded the responses of ganglion cell layer (GCL) cells in response to center and surround flicker of ultraviolet (UV) and green LED. The bottom panel shows one example scan field of the GCL with 64×64 pixels, recorded at 7.8 Hz. The cells indicated with numbers are shown in panel (b). D: dorsal, T: temporal. (b) Event-triggered averages (ETAs) of three example neurons, concatenated across the four stimulus conditions (center and surround for UV and green flicker). Gray: Original ETA. Black: Reconstruction using principal component analysis (PCA). Similar to primary visual cortex (V1), there are luminance-sensitive neurons (cell 1) and color selective neurons (cells 2 and 3). In contrast to V1, color-opponent neurons were rare. (c) This panel shows the ETA of neuron 1 in (b), with its peak amplitudes of center and surround indicated in the luminance and contrast sensitivity space. (d) Density plot of peak amplitudes of center (top) and surround (bottom) ETAs across all retinal ganglion cell (RGC) (n=3215 cells, n=88 recording fields, n=18 mice). Red lines correspond to axes of principal components (PCs) obtained from a PCA on the center or surround data, with percentage of variance explained along the polarity and color axis indicated."
+  },
+  "46": {
+    "content_id": "36",
+    "original_publisher_figure": "figures/PMC7416113_fig3.jpg",
+    "original_sha256": "c08a17d7f36185dcdb8459ec9589ed8351fcb0fa66ef19c2b3fcd8e5fda9e012",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7416113/supplementaryFiles",
+    "box": [
+      0,
+      0.6,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_46.png",
+    "original_figure_legend": "Figure 3Diverse Color Opponencies in RGCs(A) Each dendritic (top) and somatic (bottom; inverted y axis) ROI that passed a minimum response criterion (STAR Methods) was allocated to a single bin in a ternary classification scheme according to the relative polarities of their four spectral kernels (3 response states On, Off, and no response) raised to the power of 4 spectral channels (red, green, blue, and UV): 34 = 81 possible combinations. The central row between the bar graphs indicates each bin’s spectral profile: “On” (red, green, blue, and UV); “Off” (black in the respective row); and no response (white in the respective row). For example, the leftmost group, which comprised the highest number of dendritic ROIs, corresponds to ROIs displaying Off kernels in red, green, and blue, with UV showing no response. The bar graphs are color coded as follows: dark gray (non-opponent Off); light gray: (non-opponent On); and orange/brown (opponent). Brown bins indicate opponent bins that are only classified as opponent because they comprise a Blue-Off component (see main text). The horizontal insets summarize all ternary response groups that exceeded a minimum size (indicated by the dashed line) across the following categories: Off; On; and Opponents, here divided into types of spectral computations as indicated by the color circles; two-color symbols denote “simple” opponencies (single spectral zero crossing, e.g., red versus green) between the indicated wavebands (red, green, blue, and UV), although the “flower” symbol denotes complex opponencies (>1 spectral zero crossing, e.g., red and blue versus green).(B) Maximum-amplitude scaled average kernels of the ten most abundant spectral classes among dendrites in (A).(C and D) Dendritic groups from (A) summarized according to their position in an Eye-IPL map (cf. Figure 2). (C) summarizes major groups: Off (left, top) and On non-opponent (left, bottom); opponent (right, top); and On+Off non-opponent (right, bottom). (D) As (C), with opponent groups divided into their specific spectral computations as indicated. Note that most specific functions in (C) and (D) are restricted to specific regions of the eye and IPL. For example, green versus blue simple opponent computations occur mostly in the ON layers of the ventral retina that survey the world above the fish (D, bottom left)."
+  },
+  "47": {
+    "content_id": "37",
+    "original_publisher_figure": "figures/PMC7416113_fig5.jpg",
+    "original_sha256": "8be474cf13a56ae0443abe967ffe93aa0534bd3faadc862fe7c412ef37b27ddf",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7416113/supplementaryFiles",
+    "box": [
+      0,
+      0,
+      0.277,
+      0.25
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_47.png",
+    "original_figure_legend": "Figure 5RGC Circuits in the Strike Zone(A) A second series of RGC imaging experiments as shown in Figures 1, 2, 3, and 4 was performed, this time exclusively recording from the strike zone (SZ), which surveys visual space above the frontal horizon.(B) Overview of dominant On and Off responses among dendrites (top) and somata (bottom) for the SZ. Dendrites n = 2,370 On, n = 624 Off; somata n = 1,312 On, n = 379 Off. Chi-square with Yates correction for On:Off distributions dendrites versus somata: p < 0.22. For details, cf. Figure 2A; for a breakdown by color, see Figures S4A and S4B.(C) Relatively slowed central frequency tuning of SZ-UV kernels (lines) compared to the retina average of UV kernels (filled) among both On (top) and Off (bottom) kernels (cf. Figures 2K and 2L). Both p < 0.0001, Wilcoxon rank sum test, 1 tailed.(D) Ternary spectral classification of SZ dataset (for details, cf. Figure 3). Overall, note the striking On dominance and increased presence of UV responses in this dataset.(E) Maximum amplitude scaled average kernels of the ten most abundant spectral classes among dendrites in (D)."
+  },
+  "50": {
+    "content_id": "39",
+    "original_publisher_figure": "figures/PMC8514090_fig2.jpg",
+    "original_sha256": "6f66fdf0e4ed21cd4e7e60e551701fcd43a3ea51b1246882051ea8d0610b5b29",
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8514090/supplementaryFiles",
+    "box": [
+      0,
+      0,
+      1,
+      0.39
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_50.png",
+    "original_figure_legend": "Fig. 2.Opsin-like cone responses in the absence of HCs.(A and B) Population responses of each cone type during pharmacological blockage of HCs (A) (Methods) and population mean ± 95% confidence intervals with log-transformed respective opsin template superimposed (B) (Methods). (C) Pharmacogenetic UV cone ablation in the background of red cone GCaMP labeling before (top) and 24 hours after 2-hour treatment of metronidazole (10 mM) application (bottom) (Methods). (D and E) Red cone tunings after UV cone ablation (n = 77) (D) and after additional pharmacological HC blockage (n = 103) (E). Heatmaps (left) and means ± SD (solid lines and shadings) and analogous data in the presence of UV cones (dotted, from Figs. 1F and 2B) are shown. Note that the 361-nm LED was omitted in this experiment. (F) As (D), but here, recording from blue cones (n = 30). (G and H) Red (n = 17) (G) and UV cone tunings (n = 43) (H) at about ninefold reduced overall stimulus-light intensities (solid lines and shadings; Methods), compared to tunings at “standard” light intensities (from Fig. 1F). Gray bars on the x axis in (D) to (H) indicate significant differences based on the 99% confidence intervals of the fitted generalized additive models (GAMs) (Methods). Note that heatmaps (A and D to H) are time-inverted to facilitate comparison to summary plots (B and D to H). Grayscale bars are in z scores."
+  },
+  "51": {
+    "content_id": "41",
+    "original_publisher_figure": "figures/PMC2782927_fig3.jpg",
+    "original_sha256": "8a120146f9c643c52cf89284cfa9cbadf8233aa9b039d1fd56f95e5640540e3c",
+    "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature08401/MediaObjects/41586_2009_Article_BFnature08401_Fig3_HTML.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_51.png",
+    "original_figure_legend": "Fig. 3Gene therapy produced trichromatic colour vision. a, Time course of thresholds for the blue-green confusion colour, DW = 490 nm (circles), and a yellowish colour, DW = 554 nm (squares). A logarithmic scale was used to fit high thresholds for DW = 490 nm; significant improvement occurred after 20 weeks. Enclosed data points = untreated dichromatic monkey thresholds, DW = 490 nm (triangle) and DW = 554 nm (diamond). b–c, Comparison of pre-therapy (open circles, solid line) and post-therapy thresholds (solid dots, dashed line). Enclosed data points are DW = 490 nm thresholds when tested against a red-violet background (DW = −499 nm); pink triangles = trichromatic female control thresholds. Error bars = SEM; n varied from 7–11."
+  },
+  "52": {
+    "content_id": "42",
+    "original_publisher_figure": "figures/PMC11377037_fig3.jpg",
+    "original_sha256": "09971a1f096072e11d611edebae320b0d4d04078ff3048d353de5ce61eb07cad",
+    "source_url": "https://cdn.elifesciences.org/articles/89996/elife-89996-fig3-v1.jpg",
+    "box": [
+      0,
+      0.0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_52.png",
+    "original_figure_legend": "Figure 3.Reduced representation of color contrast in mouse primary visual cortex (V1) for lower ambient light levels.(a) Distribution of spectral contrast of center event-triggered averages (ETAs) of all neurons recorded in posterior V1, for photopic (top, n=1616 cells, n=3 recording fields, n=3 mice), high mesopic (middle, n=1485 cells, n=3 recording fields, n=3 mice), and low mesopic (bottom, n=1295 cells, n=3 recording fields, n=3 mice) ambient light levels. Black dotted lines indicate mean of distribution. Spectral contrast significantly differed across all combinations of light levels (t-test for unpaired data, p-value was adjusted for multiple comparisons using Bonferroni correction). The triangle on the right indicates ultraviolet (UV) sensitivity of the neurons, which is decreasing with lower ambient light levels. (b) Density plot of peak amplitudes of center (left) and surround (right) ETAs. Red lines correspond to axes of principal components (PCs) obtained from a principal component analysis (PCA) on the center or surround data, with percentage of variance explained along the polarity and color axis indicated. Top row shows high mesopic (n=3522 cells, n=6 recording fields, n=3 mice) and bottom row low mesopic (n=2705 cells, n=6 recording fields, n=3 mice) light levels. The percentages of variance explained by color (off-diagonal) and luminance axis (diagonal) correlate with the number of neurons located in the color (top left and bottom right) and luminance contrast quadrants (top right and bottom left), respectively. Scale bars indicate the number of neurons in the 2D histogram. (c) Discriminability (in bits) of luminance contrast (On versus Off) for the center across the three light levels tested, obtained from training support vector machine (SVM) decoders based on recorded noise responses of V1 neurons. Right plot shows the discriminability of luminance contrast for n=500 neurons for center and surround. Dots show decoding performance of 10 train/test trial splits. For n=500 neurons, decoding discriminability of the center was not significantly different across light levels (t-test for unpaired data, p-value was adjusted for multiple comparisons using Bonferroni correction). The surround discriminability was significantly lower than the center for the photopic condition. Dotted horizontal lines indicate decoding accuracy in % for 60%, 80%, 90%, and 99%, with a change level of 50% corresponding to 0 bits. (d) Like (c), but showing discriminability of color contrast (green versus UV). Decoding discriminability was significantly different between center and surround for all three light levels. In addition, discriminability for the center was significantly different between photopic and mesopic conditions, but not between the two mesopic conditions (t-test for unpaired data, p-value was adjusted for multiple comparisons using Bonferroni correction). Dotted horizontal lines indicate decoding accuracy in % for 60%, 80%, 90%, and 99%, with a change level of 50% corresponding to 0 bits."
+  },
+  "54": {
+    "content_id": "44",
+    "original_publisher_figure": "figures/PMC11666245_fig3.jpg",
+    "original_sha256": "402e6f4128cd65f74528cc516c6a1ff9db47f57fcd2134d19e465dbc7045ebf4",
+    "source_url": "https://cdn.elifesciences.org/articles/100260/elife-100260-fig3-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.49
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_54.png",
+    "original_figure_legend": "Figure 3.Face responses emerge over occipitotemporal electrodes after 4 months of age.Each panel shows mean responses at the category frequency and its harmonics across infants in an age group. (A) 3- to 4-month-olds, n=17; (B) 4- to 6-month-olds; n=14; (C) 6- to 8-month-olds, n=15; (D) 12- to 15-month-olds, n=15. Left panels in each row: spatial distribution of response to category frequency at the 0.857 Hz and its first harmonic. Harmonic frequencies are indicated on the top. Right two panels in each row: mean Fourier amplitude spectrum across two regions of interest (ROIs): seven left and seven right occipitotemporal electrodes (shown in black on the left panel). Data are first averaged across electrodes in each participant and then across participants. Error bars: standard error of the mean across participants of an age group. Asterisks: significant amplitude vs. zero (p<0.05, false discovery rate [FDR] corrected at two levels). Black bars: image frequency and harmonics; colored bars: category frequency and harmonics. White bars: noise frequencies. Responses for the other categories (limbs, corridors, characters, and cars) in Appendix 1—figures 5–8."
+  },
+  "57": {
+    "content_id": "46",
+    "original_publisher_figure": "figures/PMC11666245_fig4.jpg",
+    "original_sha256": "fd0a870a53610e2ce416f41a31575ef020dc632d5fef27073f8549622e1d0ad8",
+    "source_url": "https://cdn.elifesciences.org/articles/100260/elife-100260-fig4-v1.jpg",
+    "box": [
+      0,
+      0.215,
+      1,
+      0.4
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_57.png",
+    "original_figure_legend": "Figure 4.Temporal dynamics of category-selective responses as a function of age.Category-selective responses to (A) faces, (B) limbs, (C) corridors, (D) characters, and (E) cars over left and right occipitotemporal region of interest (ROI). Data are averaged across electrodes of an ROI and across individuals. Left four panels in each row show the responses in the time domain for the four age groups. Colored lines: mean responses in the right occipitotemporal ROI. Gray lines: mean responses in the left occipitotemporal ROI. Colored horizontal lines above x-axis: significant responses relative to zero for the right OT ROI. Gray horizontal lines above x-axis: significant responses relative to zero for the left OT ROI. Top: 3D topographies of the spatial distribution of the response to target category stimuli at a 483–500 ms time window after stimulus onset. Right panel in each row: amplitude of the peak deflection defined in a 400–700 ms time interval after stimulus onset. Each dot is a participant; dots are colored by age group. Red line: linear mixed model (LMM) estimate of peak amplitude as a function of log10(age). Shaded area: 95% CI."
+  },
+  "58": {
+    "content_id": "47",
+    "original_publisher_figure": "figures/PMC12604854_fig1.jpg",
+    "original_sha256": "2247753169a3134e193a31a625f8b76d33b0993d7cab6ce5fad4fdd64cba168b",
+    "source_url": "https://cdn.elifesciences.org/articles/97146/elife-97146-fig1-v1.jpg",
+    "box": [
+      0,
+      0.25,
+      1,
+      0.5
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_58.png",
+    "original_figure_legend": "Figure 1.Theoretical assumptions and exemplar trials.(a-c) Predicted spider distances for baseline (red dots), habituation (green dots), and dishabituation comparisons (blue dots). Habituation can manifest either in equal inter-spider distances (solid line) as in the baseline comparison or in an increase of distances (dashed line). What is referred to as baseline in this context is the dishabituation trial of the previous comparison (see Table 2). Distance samples are predicted to fall into distributions as shown in b. Contrasts between baseline, habituation, and dishabituation comparisons would result in distributions as shown in c. (d-f) An exemplar trial consisting of baseline, habituation, and dishabituation comparisons from the first session of trials is shown. The short-term dishabituation comparison shows a decrease of inter-spider distances, indicating increasing interest in a different individual than the previously perceived one (habituation comparison). (g-i; j-l) Two exemplar trials from the third session of Experiment 2 are shown, where a presentation of an individual novel and unseen across the three experimental sessions triggered a great rebound in interest (i,l, ‘Dishabituation - habituation’). (d, g, j) Note that in all upper quadrants, the same spider is used for baseline, habituation, and dishabituation comparisons, while in the lower quadrants, the baseline and habituation involve one individual, and a different (novel) spider is presented in the dishabituation comparison."
+  },
+  "60": {
+    "content_id": "49",
+    "original_publisher_figure": "figures/PMC11666245_fig5.jpg",
+    "original_sha256": "81c4657f9d8e31c7aeafa84493fa1f8b6513678d8db28e4012327866cfa6db66",
+    "source_url": "https://cdn.elifesciences.org/articles/100260/elife-100260-fig5-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.41
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_60.png",
+    "original_figure_legend": "Figure 5.Successful decoding of faces from mean spatiotemporal responses starting from 4 months of age.(A) An illustration of winner-takes-all leave-one-out-cross-validation (LOOCV) classifier from mean spatiotemporal response patterns of each category. Spatiotemporal patterns of response for each category are generated by concatenating the mean time courses from N–1 infants from three regions of interest (ROIs): left occipitotemporal (LOT), occipital (OCC), and right occipitotemporal (ROT). At each iteration, we train the classifier with the mean spatiotemporal patterns of each category from N–1 infants, and test how well it predicts the category the left-out infant is viewing from their spatiotemporal brain response. The winner-take-all (WTA) classifier determines the category based on the training vector that has highest pairwise correlation with the test vectors. (B) Mean decoding accuracies across all five categories in each age group. Asterisks: significant decoding above chance level (p<0.01, Bonferroni corrected, one-tailed). (C) Percentage of infants in each age group we could successfully decode for each category. Dashed lines: chance level."
+  },
+  "61": {
+    "content_id": "50",
+    "original_publisher_figure": "figures/PMC12604854_fig2.jpg",
+    "original_sha256": "34064bc08387472be708d52a51f07a7f2b5467aca995ce5e1a744fa99cfb25d5",
+    "source_url": "https://cdn.elifesciences.org/articles/97146/elife-97146-fig2-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.33
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_61.png",
+    "original_figure_legend": "Figure 2.The relative change in distance between pairs of individuals, upon being confronted with the same individual as in the preceding trial (habituation trial; red discs) or a different individual from the individual in the preceding trial (dishabituation trial; blue discs).Each panel refers to an experiment (panel a. for Experiment 1; panel b. for Experiment 2), consisting of three sessions of trials. The dependent data is shown as the proportion of time spent at a given distance binned into 4 equally spaced bins. The x-axis labels refer to the proportional distances from the transparent acrylic sheet, ranging from ’proximal’ to ’distal’; the y-axis refers to the proportion of time spent at a given distance, that is the relative number of samples that fall into a given bin. Discs show the mean proportion across all individuals (i.e. 20 for Experiment 1; 16 for Experiment 2). The whiskers indicate the standard errors of the mean. White diamonds in the lower right subfigure b show the long-term dishabituation trials. Light blue bars indicate the side of the transparent acrylic sheet (proximal); grey bars indicate the back wall of the container (distal).Figure 2—video 1.Exemplar dishabituation [short-term] trial from Experiment 1.Baseline, habituation, and dishabituation trials are shown following the same conventions (baseline = red, habituation = green, dishabituation = blue). Dynamic distance distributions and proportional occupancy of bins are displayed as in Video Figures and Tables.Figure 2—video 2.Exemplar dishabituation [short-term] trial from Experiment 1.Baseline, habituation, and dishabituation trials are shown following the same conventions (baseline = red, habituation = green, dishabituation = blue). Dynamic distance distributions and proportional occupancy of bins are displayed as in Video Figures and Tables.Figure 2—video 3.Exemplar dishabituation [short-term] trial from Experiment 2.Baseline, habituation, and dishabituation trials are shown following the same conventions (baseline = red, habituation = green, dishabituation = blue). Dynamic distance distributions and proportional occupancy of bins are displayed as in Video Figures and Tables.Figure 2—video 4.Exemplar dishabituation [long-term] trial from Experiment 2.Baseline, habituation, and dishabituation trials are shown following the same conventions (baseline = red, habituation = green, dishabituation = blue). Dynamic distance distributions and proportional occupancy of bins are displayed as in Video Figures and Tables."
+  },
+  "62": {
+    "content_id": "I09",
+    "original_publisher_figure": "figures/PMC9633067_fig1.jpg",
+    "original_sha256": "61c66d7d72f79fcd9263ebcfd10779880ea3ccf77bb34a70fd5c1e431954f921",
+    "source_url": "https://cdn.elifesciences.org/articles/78734/elife-78734-fig1-v2.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.425
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_62.png",
+    "original_figure_legend": "Figure 1.Recalibration behavior.(A) Pointing setup. Upper panel without, lower panel with blurring shield. Participants wore goggles with an eye cover over the non-dominant eye. A prism could be inserted into the goggles during the prism phase inducing a rightward shift. Participants performed pointing movements toward a target. A cover was used to block vision during pointing movement. Only during the prism phase participants could see their terminal pointing error, by seeing the tip of their finger appearing from under the cover. Before (pre-prism) and after (post-prism) the prism phase, participants performed the same task without the prism and in the absence of terminal feedback. To mimic the poor visual acuity of the cataract-treated participants, we blurred vision in a group of sighted control participants by placing a blurring shield in front of the target (lower panel). (B) Recalibration Performance. Mean pointing errors across bins of three trials are calculated for each participant across the three phases of the experiment (prism phase in gray), and group averages are shown for the three groups: cataract-treated (red), and sighted controls tested with (light blue) and without (blue) visual blur (n=20 in each group). The dashed line represents the prismatic shift (11.31°). Error bars show SEM across participants. The inset shows the recalibration index irecal, which summarizes the recalibration performance in the prism phase and in the first three trials of the post-prism phases (0 no recalibration, 1 complete recalibration). The analysis on irecal showed that each group differed from the other (Bonferroni corrected Wilcoxon rank-sum, all p≤0.006, following Kruskal–Wallis test, χ2(2)=27, p<0.0001, η2=0.38). Although the cataract-treated group recalibrated less than the sighted control groups tested with and without visual blur (irecal, mean ± SEM = 0.30 ± 0.06, 0.57 ± 0.03, and 0.69 ± 0.02, respectively), their recalibration performance was significantly greater than 0 (Wilcoxon signed-rank test, z=3.25, p=0.0012). (C) Relation between recalibration performance irecal and pointing precision during pre-prism phase (baseline) in cataract-treated participants (n=19, one outlier above three SD from the mean was excluded). The variance in the pointing errors at baseline negatively correlated with irecal (Pearson’s correlation coefficient, r=−0.53, p=0.019; if we include also the outlier, r=−0.46, p=0.040), showing that participants with noisier performance at baseline recalibrate less. The light-blue shaded area indicated 95% confidence intervals of the regression line. (D) Recalibration performance irecal as a function of visual acuity in cataract-treated participants (n=20). Participants with higher visual acuity recalibrate more (higher irecal, Pearson’s correlation coefficient, r=0.5, p=0.025). The data points are coloured with brighter colors indicating longer time since surgery. This shows that individuals tested soon after surgery tended to recalibrate less (smaller irecal). Note, however, that time since surgery did not significantly correlate with visual acuity at the group level (r=−0.03, p=0.8). (E) Repeated testing in a subset of 13 participants tested over time. Four of them were tested also before surgery (since their visual acuity allowed them to see the target). Although their CSF increased due to surgery, their degree of recalibration did not in the first tests performed a few days after surgery. Instead, with more time after surgery (4–16 months) their recalibration performance significantly improved (Wilcoxon signed-rank test, z=20, p=0.04, one-tailed). Individual data are reported in gray, with connecting lines linking the same participant, while mean performance for each testing time is reported in larger filled colored circles. (F) Recalibration performance as a function of time since surgery. After surgery participants tended to exponentially improve their recalibration performance irecal (time constant, b=1.5, CI=[0.51, 2.49]), reaching the level of the CSF-matched controls (i.e. tested with visual blur) at around 2 years (however, due to the large inter-subject variability, this estimate contains substantial uncertainty). Note that the exponential fit is not driven by the two participants tested more than 10 years after surgery: when excluding them from the exponential fit, the time constant b (b=1.5, CI=[0.39, 2.67]) is comparable to the one obtained in the whole sample. The dashed line and the gray shaded area indicate the mean performance and the 95% confidence intervals of the sighted CSF-matched controls, respectively. The exponential (dark green curve, with the ligth-blue shaded area indicating its 95% confidence intervals) is fitted on all measurements obtained from the participants after surgery, with red circles indicating the first post-surgical test and brown circles indicating the second performance of the subset of 13 participants re-tested in the same task (E), with connecting lines linking the same participant. (G) Correlation between recalibration and multisensory integration. Fourteen participants took part in this and in a previous study on multisensory integration (Senna et al., 2021) at around the same time after surgery. We investigated the relationship between the performance in both tasks by correlating irecal, as a measure of recalibration performance and the Multisensory Influence (MI) as a measure of integration performance between vision and touch: r=0.58, p=0.03. Figure 1—source data 1.Clinical characteristics of the cataract-treated participants.Participant ID, sex, age at test, pre-operation visual assessment, visual acuity (measured as contrast sensitivity function (CSF) cutoff frequency in cycles per degree (cpd)) before and after surgery, and time since surgery at test (years (y), months (m), days (d)). In the pre-surgical visual assessment, LP indicates only light perception, followed by hand motion perception (HM), and the ability to count fingers up to the specified distance (FC). We report the highest measure participants could perform with both eyes, unless otherwise specified (RE: right eye, LE: left eye). We did not test the visual acuity of four participants before surgery, either because they had too poor visual acuity to be able to perform the CSF test, or because the procedure was not available at the time they were surgically treated. Before surgery, most participants were classified as suffering from legal blindness or severe low vision. Legal blindness is defined as visual acuity below 20/400 (i.e. around 1.5 cpd cutoff frequency) by the World Health Organization (WHO 2010, International Classification of Diseases, 10th revision), or below 20/200 (i.e. 3 cpd cutoff frequency) by the National Institute of Health of the United States (NIH). Importantly, most participants improved after surgery (log-transformed pre- vs. post-surgical CSF, t15=3.7, p=0.002) and transitioned out of the category of legal blindness. We assessed the post-surgical CSF cutoff frequency in the same experimental session as the experimental task. Some participants were tested in the study multiple times, before and/or after surgery. We do not have information regarding the exact date of surgery of two participants, because they were included in our project only after surgery, and not operated by our team. Both of them were surgically treated more than 2 years before taking part in the present experiment. Figure 1—figure supplement 1.Contrast sensitivity functions in cataract-treated participants and in sighted controls tested with visual blur.We measured the spatial visual acuity of cataract-treated participants and CSF-matched sighted controls by asking them to judge the orientation (vertical/horizontal) of sinusoidal grating patches, differing in contrast levels and spatial frequencies (McKyton et al., 2015; Senna et al., 2021). In each participant and for each frequency, we plotted the logarithm of the sensitivity (1/contrast threshold) as a function of the log-transformed spatial frequency, obtaining the contrast sensitivity function (CSF), which was fitted with an inverse parabola to get the CSF cutoff frequency (McKyton et al., 2018; Senna et al., 2021; Watson and Ahumada, 2005). We blurred vision in sighted controls by placing a blurring filter between the participant and the visual target, so that each sighted control was matched to one cataract-treated participant for visual acuity. We included in the study only sighted controls whose CSF matched the desired one (i.e. that of an age-matched cataract-treated participant) in terms of both cutoff frequency and shape. The figure shows mean performance sensitivity as a function of the spatial frequency of the grating in the group of cataract-treated participants (red) and in that of the sighted controls tested with visual blur (light blue). Error bars represent SEM.Figure 1—figure supplement 2.Accuracy and precision in the pre-prism phase.Pointing error in the three groups during the pre-prism phase (i.e. before introducing the prism lens; red: cataract-treated individuals, light-blue: sighted controls tested with visual blur, blue: sighted controls tested without visual blur, n=20 in each group). The inset shows accuracy (left) and precision (right) in the three groups. The mean pointing error shown by cataract-treated participants in the pre-prism phase (mean ± SEM, 0.58 ± 0.42) did not significantly differ from that of the two controls groups (sighted controls: 0.35 ± 0.23; sighted controls tested with visual blur: 0.19 ± 0.26, Kruskal–Wallis test, χ2(2)=1, p=0.61, η2=0.017). The precision of participants’ pointing during the baseline was calculated as the variance of the pointing errors. Bonferroni-corrected pairwise two-sample F-tests on the variance of the pointing errors showed that cataract-treated participants were overall less precise (i.e. their errors presented a higher variance: 10.71 ± 2.87 deg2) than controls tested in normal vision conditions (1.98 ± 0.18 deg2; F(19,19)=95.98, p<0.0001) or with visual blur (3.01 ± 0.43 deg2; F(19,19)=45.00, p<0.0001). Although controls with visual blur were significantly more precise than cataract-treated participants, they showed higher variance than the controls tested without blur (F(19,19)=5.38, p=0.002). Thus, cataract-treated participants were able to perform the pointing task before wearing the prismatic goggles, but they were overall less precise than both control groups.Figure 1—figure supplement 3.Pointing responses as a function of target location in the cataract-treated participants.To assess whether cataract-treated participants were able to correctly perform the pointing task during the pre-prism phase for all target locations, for each participant we plotted each response against each target location (–25°, 0°, 25°) and we fitted a linear regression to the data. The overall linear regression was y=1x-0.57 (where the parameters are the mean slope and mean intercept in the group of cataract-treated participants). The fact that the mean regression slope was 1 (range 0.92–1.30) indicates that cataract-treated individuals could correctly perform the task for the different target positions. Red dots indicate the locations of all pointing responses as a function of targets’ locations, which have been slightly jittered for graphical clarity. The thick black line and the light-gray shaded area represent the linear regression and its associated 95% confidence intervals, respectively.Figure 1—figure supplement 4.Development of the aftereffect throughout the post-prism phase.In each group (n=20 per group), we fitted the mean error profile of the group across all trials of the post-prism phase with both a power function (Error=a*xb) and a linear fit (Error=a+b*x). Power functions provided a better fit for both control groups. Sighted participants tested either in normal visual conditions or with visual blur reduced their aftereffect during the post-prism phase (recalibration rate b=−0.11, CI=[-0.13,–0.08] and b=−0.04, CI=[–.07, –.001], respectively). Instead, the error profile of the cataract-treated group, which was noisier, was more robustly captured by a linear fit, which showed that the pointing error was constant during the post-prism phase (i.e. cataract-treated participants did not significantly reduce their aftereffect, as shown by the fact that the CI=[–0.01, 0.04] for b=0.013 included 0). Individual dots and thick lines represent group mean pointing errors and curve fits, respectively, for each group: cataract-treated (red), sighted tested with (light blue) and without (blue) visual blur. The decay of the aftereffect observed in typically sighted participants is in line with previous evidence showing that the aftereffect tends to decline even in the absence of visual feedback and motor activity (Hamilton and Bossom, 1964). Sighted controls tend to spontaneously return to the normal sensorimotor mapping after prism recalibration has taken place. Cataract-treated participants do not show the same tendency to quickly reinstate the original mapping. Instead, they show a behavior that in the sighted population is typical of much younger children than them. Indeed, the extinction rate of the aftereffect increases with age in the typically developing population, with older children showing faster decay (Gómez-Moya et al., 2016). The youngest sighted control participants we tested (11 6–7 year-old, see Figure 1—figure supplement 6 for demographics and supplemental analyses) already reduced their aftereffect during the post-prism phase (power function fit: recalibration rate b=–.1, CI=[–0.17,–0.03]), unlike the cataract-treated participants. Thus, our cataract-treated group shows a behavior which seems to be less mature than the one of their age-matched sighted peers. Error bars represent SEM.Figure 1—figure supplement 5.Correlational analyses, separated for adaptation and aftereffect, in the cataract-treated group.While in the main text we explored the possible correlation between several factors and the recalibration index irecal, which combines both Adaptation and the Initial Aftereffect (i.e. the amount of the systematic error in the first three trials of the post-prism phase), we report here the same correlational analyses separately for Adaptation and Aftereffect. We report here separate analyses for adaptation and aftereffect, because, although they are correlated (r=0.47, p=0.037), they are potentially separate phenomena that rely on different neural networks (e.g. Redding et al., 2005). In each participant (n=20), Adaptation was calculated as the error reduction in the prism phase (induced prism distortion, 11.31°, minus the average of the last three pointing errors of the prism phase, Fortis et al., 2010, as in the main text). The Aftereffect was calculated as the (negative) mean pointing error across all trials of the post-prism phase (instead of being calculated only across the first three trials, as the Initial Aftereffect, main text). Both Adaptation and Aftereffect were normalized on the prism distortion (i.e. Adaptation/11.31°, Aftereffect/11.31°). (A) Correlation of the variance of the pointing error at baseline (i.e. in the pre-prism phase, before introducing the shift) with Adaptation (left) and with Aftereffect (right). The (log-transformed) variance of the error at baseline negatively correlated with both Adaptation (Pearson r=−0.47, p=0.035) and Aftereffect (r=−0.54, p=0.014), meaning that participants with a noisier performance in the pre-prism phase recalibrated less in the following phases. (B) Correlation of the visual acuity with Adaptation (left) and with Aftereffect (right). The CSF cut off frequency correlated with Adaptation (r=0.54, p=0.014) and tended to correlate with Aftereffect (r=0.4, p=0.06), meaning that those with better visual acuity recalibrated more. (C) Correlation of the time since surgery with Adaptation (left) and with Aftereffect (right). Time since surgery correlated with both Adaptation (r=0.55, p=0.02) and Aftereffect (r=0.60, p=0.013), showing that participants who were operated from a longer time showed overall better recalibration performance. Note that we excluded the two participants tested more than 10 years after surgery from this analysis as they would drive the correlation.Figure 1—figure supplement 6.Developmental path of recalibration in typically sighted individuals.Mean pointing errors across the three phases in different age groups. We explored how the ability to recalibrate visual distortions develops with age in the typically sighted population by testing 124 German sighted individuals (mean age: 13 years and 4 months, range: 6–35 years, 115 right-handed) in the same pointing task described in the main text (Figure 1B). Participants were tested in normal visual conditions (i.e. without visual blur). For graphical reasons, results are binned into 2 years age groups. The inset shows individual irecal values (a measure of recalibration in both the prism and post-prism phases, see main text). Age positively correlated with irecal (Pearson’s correlation coefficient,r=0.30, p=0.0007): the older the participant, the more efficient the recalibration (i.e. faster adaptation rate in the prism phase, and greater aftereffect in the post-prism phase)."
+  },
+  "63": {
+    "content_id": "51",
+    "original_publisher_figure": "figures/PMC12431771_fig3.jpg",
+    "original_sha256": "0dbd5ef19ba8b06fcb5a29d38e6430c77a8cc07efc1973dce43ea1e7ad1676c5",
+    "source_url": "https://cdn.elifesciences.org/articles/93589/elife-93589-fig3-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.53
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_63.png",
+    "original_figure_legend": "Figure 3.Spatial frequency (SF) profile predicts category coding.(a, b) SF profile predicts category selectivity. (a) The responses of each neuron were standardized by subtracting the mean and dividing by the standard deviation of the baseline time. Neurons were then categorized into four groups based on the fitting of a quadratic function to their responses (see Materials and methods). Each panel presents the average neuron responses within each category for SF ranges R1–R5, with error bars indicating the SEM of the response values. The percentage of the neurons in each category is displayed at the top of each panel. The ‘flat’ category, where the response to no SF was higher than others, was excluded from this analysis. (b) Separability index (SI) of face/non-face vs. scrambled stimuli is illustrated (see Materials and methods). The error bar shows STD. The SI value and SF profile are determined within the time window of 70–170 ms after stimulus onset. The high SF (HSF)-preferred population exhibited significantly higher face SI compared to the other groups. The low SF (LSF)-preferred population displayed a significant difference in face and non-face SI. On the other hand, the IU profile indicates a significantly higher SI value for the non-face compared to the face. The U-shaped profile did not show any significant differences between the face and the non-face. These results suggest that the neuron's response to various SF bands can predict its decoding capability. (c, d) The relation between SF and category coding in sub-populations. Initially, the linear discriminant analysis (LDA) method was employed to calculate the individual neuron's performance in the single-level category and SF coding. Next, a sorting procedure based on SF (panel c) and category (panel d) coding performances was conducted to create sub-populations of neurons exhibiting similar capabilities (see Materials and methods). The scatter plot of the category and SF coding accuracy of these sub-populations demonstrated a notably high degree of positive correlation between SF and category accuracies in the inferior temporal (IT) cortex. Figure 3—source data 1.Source data for neuronal responses, SF profiles, and category selectivity, including separability indices and decoding accuracy for sub-populations of inferior temporal neurons."
+  },
+  "64": {
+    "content_id": "52",
+    "original_publisher_figure": "figures/PMC9489205_fig1.jpg",
+    "original_sha256": "edb145df02ee9a7e2491c9d548117209faf559a13484137ccc6d41575c62c57e",
+    "source_url": "https://cdn.elifesciences.org/articles/74708/elife-74708-fig1-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_64.png",
+    "original_figure_legend": "Figure 1.Mouse distance estimation (jumping) task.(A) Example side and top-down video frames (three overlaid) from a single trial. (B) A random combination of landing platform width (three sizes) and gap distance (seven distances) is chosen for each trial. (C) Trial logic."
+  },
+  "65": {
+    "content_id": "53",
+    "original_publisher_figure": "figures/PMC12237402_fig4.jpg",
+    "original_sha256": "531a8a6d73fd16f373a424fbd5ce5a3eaa3f26f13976526149032768c667568f",
+    "source_url": "https://cdn.elifesciences.org/articles/98347/elife-98347-fig4-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.3
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_65.png",
+    "original_figure_legend": "Figure 4.Location of prey in the visual field during prey capture in cichlids.(A) Trajectories of prey in the visual field for all automatically identified and tracked hunting events. Each prey is represented by a single line that changes in color from blue to yellow from the onset of eye convergence to when the eyes de-converge (end). Middle indicates the midpoint between eye convergence onset and end. Scale bar: 5 mm. (B) Kernel density estimation of the distribution of prey in the visual field across all hunting events. Rows: individual species. Columns: snapshots showing the distribution of hunted prey items at the beginning, middle, and end of hunting sequences. Scale bar: 2 mm. (C, D) Kernel density estimation of prey distance (C) and azimuthal angle from the midline (D) at the onset (top), in the middle (center), and at the end (bottom) of hunting episodes. Each column shows the distribution of all events for a single species."
+  },
+  "66": {
+    "content_id": "54",
+    "original_publisher_figure": "figures/PMC12237402_fig3.jpg",
+    "original_sha256": "c381ebbce78680d79e8f67a27235beeff09e8b01e3aad0e4a0be8909f1474bc7",
+    "source_url": "https://cdn.elifesciences.org/articles/98347/elife-98347-fig3-v1.jpg",
+    "box": [
+      0,
+      0,
+      0.75,
+      0.495
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_66.png",
+    "original_figure_legend": "Figure 3.Eye movements during prey capture and statistics of hunting sequences.(A) Histograms of eye convergence angles for each species. The convergence angle is the angle between the long axes of the eyes. Shaded bars: normalized binned counts of convergence angles from all fish. Black lines: a best fit Gaussian mixture model for each species (with one or two components). For all cichlid species, the data are better modeled as being drawn from two underlying distributions. For medaka (O. latipes [OL]), the data are better modeled with a single underlying distribution. (B) Improvement in fit for a two-component over single-component Gaussian mixture model, assessed using Bayesian inference criterion (BIC). The BIC is a measure of model fit, while punishing over-fitting. Lower values are better. Two mixtures provide a better fit over a single mixture for all species except medaka (OL). (C) Proportion of time spent by cichlids engaged in prey capture within the first 5 min of being introduced to the behavior arena. Points are single animals; black bar is the median; letters indicate significance (different letters indicate difference between groups, α=0.05). (D) Hunting rate, measured as the number of times eye convergence is initiated per minute, within the first 5 min. Points are single animals; black bar is the median; letters indicate significance. (E) Kernel density estimation of hunt durations for each species (all animals pooled). A. burtoni (pink) hunts skew shorter, L. attenuatus (brown) hunts tend to be longer. (F) Median hunt duration for each animal compared across species. Black bar is the median across animals; letters indicate significance. (G) Capture rate (number of artemia consumed) per minute over the first 5 min for three cichlid species. Black bar is the median across animals. n.s., no statistically significant difference between groups.Figure 3—figure supplement 1.Two-dimensional (2D) histograms of eye angles.Each point represents the angle of the left and right eyes in a given frame. Color corresponds to the probability a point belongs to a convergent state (red: converged; blue: not converged; yellow: equal likelihood)."
+  },
+  "67": {
+    "content_id": "55",
+    "original_publisher_figure": "figures/PMC9489205_fig2.jpg",
+    "original_sha256": "8a7f2e0dee4a3214d50fca9f0f6007b521413c659261216c568da81412420264",
+    "source_url": "https://cdn.elifesciences.org/articles/74708/elife-74708-fig2-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.265
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_67.png",
+    "original_figure_legend": "Figure 2.Mice accurately judge distance under binocular and monocular conditions.(A) Example jump trajectories from a single mouse (red line is trajectory of left ear tracked by DeepLabCut, blue dot is end point of jump) at three distances for binocular (top row) and monocular (bottom row) trials. (B) Performance (top) and accuracy (bottom) in binocular (blue, n = 8 mice) and monocular (magenta, n = 8 mice) conditions averaged across landing platform widths. Thin lines are individual animal data. (C) Performance (top) and distance jumped (bottom) for bi/monocular conditions by landing platform width (indicated by line style). (D) Change in the mean landing position (top) and standard deviation of landing position (bottom) for binocular vs. monocular conditions. Smaller points are individual animal data.Figure 2—figure supplement 1.Binocular vs. monocular task performance.(A) Rates of failure (left column), success (middle column), and abort trials (right column) for binocular (blue) and monocular (magenta) conditions."
+  },
+  "68": {
+    "content_id": "56",
+    "original_publisher_figure": "figures/PMC9489205_fig3.jpg",
+    "original_sha256": "6446b5f807f47e2b3a69121c1b991189f0b9db898f9b0e822e3866325f339e4f",
+    "source_url": "https://cdn.elifesciences.org/articles/74708/elife-74708-fig3-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.215
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_68.png",
+    "original_figure_legend": "Figure 3.Mice perform more head movements during the decision period under monocular conditions.(A) Example decision period trajectory of the left eye position overlaid with movements identified through velocity zero crossings. Color corresponds to movement cluster identity in (B ,C). Image is the last time point in the decision period. (B) Horizontal (x) and vertical (y) positions of eye across time from the trace in (A). Individual movements are plotted above as x/y traces, with dotted lines corresponding to the middle time point, and blue and red points indicating the start and end, respectively. Colors correspond to clusters in (C). (C) Top: example individual movements from 10 k-means clusters; magenta is the trajectory, blue and red are start and end points, respectively. Bottom: individual movement clusters for binocular (top row) and monocular (bottom row) conditions, with means plotted over 100 individual examples in gray. (D) Mean number of movements per trial for each cluster in binocular (blue) vs. monocular (magenta) conditions. (E) Mean amplitude of movement clusters for binocular (blue) and monocular (magenta) conditions. (F) Normalized movement frequency as a function of time before the jump for all clusters. (G) Mean trial duration (decision period only) for the two conditions. (H) Mean of the total distance traveled by the eye during the decision period for the two conditions. (I) Mean head pitch, measured as the angle between the eye and ear, across the decision period for the two conditions. (J) Relationship between the change in head pitch and change in cluster frequency between the binocular and monocular conditions. Dotted line is fit from linear regression.Figure 3—figure supplement 1.Autoregressive hidden Markov(ARHMM) modeling of decision period behavior.(A) Example traces of eye position from five movement states labeled with autoregressive hidden Markov modeling of DeepLabCut-tracked points during the decision period (progressing blue to red in time) in average temporal order. Arrow line widths are proportional to transition probabilities between states (gray < 0.035 ≤ black). (B) Transition count matrix for binocular condition, showing the frequency of transitioning from one state (y-axis) to another state (x-axis) as a fraction of all unique state transitions; these values were used to generate the arrows in panel (A). (C) Frequency of each state for binocular (black) and monocular (gray) conditions. Asterisk indicates p<0.01, paired t-test. (D) Heat maps of start time histograms for each state normalized to the total number of trials for binocular (top) and monocular (bottom) conditions. (E) Twofold decoding analysis on transition count matrices for binocular vs. monocular conditions (performed within-animal, averaged across animals). (F) Z-scored weights used to decode binocular vs. monocular condition. (G) Difference between monocular and binocular transition count matrices; red transitions are more frequent in monocular, blue in binocular. n = 8 mice for all plots."
+  },
+  "69": {
+    "content_id": "57",
+    "original_publisher_figure": "figures/PMC9489205_fig4.jpg",
+    "original_sha256": "667138e633499f2fd1bb5e0aa7b542a763bc2e2c5cde9179b5d7bef26e63c22f",
+    "source_url": "https://cdn.elifesciences.org/articles/74708/elife-74708-fig4-v1.jpg",
+    "box": [
+      0,
+      0,
+      0.48,
+      0.5
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_69.png",
+    "original_figure_legend": "Figure 4.Eye movements compensate for head movements to stabilize gaze.(A) Schematic of experimental setup for measuring head and eye movements; bilateral eye tracking with miniature head-mounted cameras (top) and ellipse fitting of DLC-tracked pupil points (bottom). (B) Side and top-view images of a mouse performing the task with the eye tracking system (three frames overlaid). (C) Performance (left) and distance jumped (right) for eye-tracking experiments. Gray lines are individual animal data. (D) Horizontal angle between the two eyes (eye theta divergence) as a function of head pitch during the decision period. ‘Early’ is from the start of the trial to 2 s before the jump, and ‘late’ is the 2 s preceding the jump. (E) Mean eye theta, eye theta vergence, and eye phi cross-correlations with head pitch angle for early (left) and late (right) portions of the decision period; n = 8 mice for all plots."
+  },
+  "71": {
+    "content_id": "59",
+    "original_publisher_figure": "figures/PMC9489205_fig5.jpg",
+    "original_sha256": "4807f82bed3a2dc2a9f5249b5b547c01c3ad4507b2ab6a8e53fa931ef1b8590c",
+    "source_url": "https://cdn.elifesciences.org/articles/74708/elife-74708-fig5-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.54
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_71.png",
+    "original_figure_legend": "Figure 5.V1 optogenetic suppression disrupts distance estimation task performance.(A) Schematic of experimental setup for optogenetic experiments; bilateral illumination of either binocular or monocular zone V1 in either binocular or monocular animals during the decision period on one-third of trials. All plots within a column correspond to the schematized condition. (B) Performance curves for laser-off (black) and laser-on (cyan) conditions in mice expressing ChR2 in PV+ inhibitory interneurons (ChR2+, top row) or PV-Cre only mice (ChR2-, bottom row). Thin lines are individual animal data. (C) Change in the mean and standard deviation of landing positions, averaged across mice. Small circles are individual animal data. (D) Change in the mean head angle for up-down (pitch) and side-to-side (yaw) head position. (E) Same as (D) but change in standard deviation of pitch and yaw.Figure 5—figure supplement 1.V1 optogenetic suppression task performance.(A) Rates of failure (left column), success (middle column), and abort trials (right column) for binocular vision with optogenetic suppression of binocular zone V1. Top row shows data from animals expressing ChR2 in PV+ interneurons, and bottom row is animals lacking ChR2. Blue lines indicate laser on trials, and black lines indicate laser-off trials. (B) Same as (A) but for monocular vision with binocular zone V1 suppression. (C) Same as (B) but for monocular vision with monocular zone V1 suppression. Note that data in (C) were collected with different platform geometry and gap distances (see ‘Materials and methods’ for details)."
+  },
+  "73": {
+    "content_id": "I13",
+    "original_publisher_figure": "figures/PMC11136492_fig1.jpg",
+    "original_sha256": "bb2d83a03a0d63602e6299e800c2a97cee78be7065ad9938cdec72eb976c8b21",
+    "source_url": "https://cdn.elifesciences.org/articles/76803/elife-76803-fig1-v2.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_73.png",
+    "original_figure_legend": "Figure 1.Double-drift illusion during smooth pursuit.(A) Leftward drift illusion. Participants made smooth pursuit eye movements, tracking the target as it moved vertically in tandem with a Gabor stimulus. Both the gabor and target moved for 12 seconds. Conjunction of local motion (grating phase drift) and global motion (displacement of the Gaussian envelope) produces an illusion in which the Gabor appears to drift several degrees to the left of its actual trajectory, even when smooth pursuit eye movements stabilize the Gabor on the retina. (B) Rightward drift illusion. Conjunction of local and global motion produces illusion of a rightward Gabor trajectory. (C) No-illusion control condition. Randomly updated grating phase does not produce illusory stimulus trajectory. All three stimulus conditions contain the same net motion energy and involved the same pursuit eye movements, yet are associated with strongly different percepts.Figure 1—figure supplement 1.Mean number of voxels in each region of interest, for each experiment.For experiments 1, 2, and 4, colored portions of bars represent mean number of voxels identified in Stim (blue) and eye (yellow) localizers, their overlap (orange), and the remaining voxels (purple). For experiment 3, colored portions of bars represent mean number of voxels used for decoding (blue, top 50% voxels ranked by R2) and those that were not used for decoding (orange)."
+  },
+  "74": {
+    "content_id": "I14",
+    "original_publisher_figure": "figures/PMC11136492_fig3.jpg",
+    "original_sha256": "a0f612be8f2eefc0d4ee8edb678605b33f3113676bb244dbdded9d4a6dffa532",
+    "source_url": "https://cdn.elifesciences.org/articles/76803/elife-76803-fig3-v2.jpg",
+    "box": [
+      0,
+      0.33,
+      1,
+      0.67
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_74.png",
+    "original_figure_legend": "Figure 3.Stimulus location information encoding during double-drift illusion.(A) Accuracy of discriminating the double-drift illusion from a control condition that was matched for net motion energy. Participants either attended the peripheral stimulus and reported the presence of the illusion (Expt 1, left), or attended the fovea and reported a luminance decrement at fixation (Expt 2, right). (B) Accuracy of discriminating rightward vs. leftward drift illusion paths in Expt 2 (attend fixation) based on fMRI responses in voxels selected to match the retinotopic location of the stimulus (left) and voxels selected based on responses to pursuit eye movements (right). (C) Decoding accuracy for independent replication and control experiments (Expt 3). Left, decoding illusory drift paths, replicating results of Expt 2. Right, decoding local-motion only control conditions, which did not produce a drift illusion. Vertical lines extend from minimum to maximum bootstrap decoding accuracy. Horizontal lines denote median bootstrap decoding accuracy. Maroon dot, p<0.01; orange dot, p<0.05; gray dot, nonsignificant (p>0.05)."
+  },
+  "75": {
+    "content_id": "61",
+    "original_publisher_figure": "figures/PMC7438109_fig4.jpg",
+    "original_sha256": "99af7e1312e0feb29bf30c05a02420aefce08f49df4394e393c910cc45f93330",
+    "source_url": "https://cdn.elifesciences.org/articles/57458/elife-57458-fig4-v2.jpg",
+    "box": [
+      0,
+      0,
+      0.39,
+      0.43
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_75.png",
+    "original_figure_legend": "Figure 4.Compensatory and non-compensatory eye movements generate a saccade-and-fixate gaze pattern during head turns.(A) Distribution of gaze velocity (N = 377459 time points) showing segregation of non-compensatory and compensatory movements with thresholds at ±180°/sec. (B) Joint distributions of head yaw and horizontal eye velocity colored by their type as defined in A. Black points represent compensatory movements and red represent non-compensatory saccadic movements. Points shown are a random sample of 2105 approach timepoints, 10% of total approach time points. (C) Example traces of horizontal eye position, head yaw, and gaze demonstrate a saccade-and-fixate pattern in gaze. (D) Histogram of fixation duration; fixations N = 9730, 105 trials. (E) Root Mean Squared (RMS) stabilization histograms for head yaw and gaze. (F) Bar graphs are medians of RMS stabilization distributions (median head = 3.87 deg; median gaze = 1.5 deg; paired t-test, p=0)."
+  },
+  "77": {
+    "content_id": "62",
+    "original_publisher_figure": "figures/PMC10023158_fig5.jpg",
+    "original_sha256": "0aaa0b90d10440699e0a31d4a33d5c06520662ac6c83dcfd060233f02cd5ee9c",
+    "source_url": "https://cdn.elifesciences.org/articles/81780/elife-81780-fig5-v1.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.28
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_77.png",
+    "original_figure_legend": "Figure 5.Thresholding differentiates the tuning properties of Superior and Inferior ON direction-selective retinal ganglion cells (oDSGCs).(A, B) Exemplar Inferior oDSGC in whole-cell current-clamp during (A) depolarizing and (B) hyperpolarizing current injection in response to a bar moving in eight directions. Numbers on concentric circles indicate spike counts. Dashed lines represent preferred directions. Coordinates are in retinal space. (C, D) Mean (± SEM) normalized tuning curves (aligned and normalized to the response of each cell in its preferred direction) for (C) Superior and (D) Inferior oDSGCs under conditions of depolarizing (green) and hyperpolarizing (purple) current injection. Dotted lines indicate the average normalized spike tuning curves of each population from cell-attached recordings (as in Figure 2I). (E) Illustration of the influence of untuned excitation on the tuning curve through additive (yellow) and thresholding (red) effects. The blue area indicates the membrane potential, and the dashed red line indicates the spike threshold. (F, I) Example whole-cell current-clamp recording in which (F) spikes and (I) subthreshold voltages (Vm) have been separated. (G) Linear tuning curve area and (H) direction selectivity index of the spike tuning curve during hyperpolarizing (abscissa) and depolarizing (ordinate) current injections. (J) Linear tuning curve area and (K) direction selectivity index of peak subthreshold membrane potential tuning curves. For (G–H, J–K), regions of green (or purple) indicate that the metric is greater during depolarizing (or hyperpolarizing) injections. Points that fall on the line indicate equivalent metrics under the two conditions. Individual cells are shown as dots (Superior in magenta, Inferior in gray). Large red and blue dots represent univariate medians (collapsed across cell type) and whiskers indicate 95% confidence intervals determined via bootstrapping. Significance values indicate whether the data tend to fall unevenly on one side of the unity line (two-sided signed-rank). Arrowheads in (J, K) represent the median of Superior (magenta) and Inferior (gray) oDSGCs along the unity line, and associated significance values indicate comparison between Superior and Inferior oDSGCs (two-sided rank-sum). (L, M) Direction selectivity index for spikes (abscissa) and simultaneously measured subthreshold voltages (ordinate) under (L) depolarizing and (M) hyperpolarizing conditions. Significance values indicate whether the data tend to fall unevenly on one side of the unity line (two-sided signed-rank). (N) Residuals from the unity line for individual cells from the plots in (H) and (K). Dashed line indicates unity (i.e., no difference across depolarizing and hyperpolarizing conditions). Pairwise comparisons are shown between spikes, Vm, and Vm with additive offset. (O) Residuals from the unity line for individual cells from the plots in (L) and (M). Dashed line indicates unity (i.e., no difference between spikes and subthreshold voltages). Comparisons are made between the depolarizing and hyperpolarizing conditions (two-sided rank-sum). For box plots, the blue line represents median, box boundaries are IQR, and whiskers represent the most extreme observation within 1.5× IQR. *p<0.05, **p<0.01, ***p<0.001.Figure 5—figure supplement 1.Spike and subthreshold voltage tuning curves with directionally untuned current injections.(A, B) Comparison of spike tuning curve metrics from cell-attached and current injection recordings. Histograms show the direction selectivity index (left) and area of the normalized tuning curve (right) for cell attached (magenta in [A] or gray in [B]), hyperpolarizing (green, top), and depolarizing (purple, bottom) conditions for (A) Superior and (B) Inferior ON direction-selective retinal ganglion cells (oDSGCs). Arrows indicate medians. (C) Illustration of the voltage offset added via current injection during the depolarizing condition. The same offset was subtracted for the hyperpolarizing condition. Diagram is not shown to scale. (D, E, H) Metrics of the subthreshold membrane potential tuning curve during hyperpolarizing (abscissa) and depolarizing (ordinate) current injections with the additive offset taken into account: (D) linear tuning curve area, (E) direction selectivity index, and (H) area of the normalized tuning curve. Additive effects cause larger and broader membrane potential tuning curves following increases in the amount of untuned excitation. (F–H) Area of the normalized tuning curve during hyperpolarizing (abscissa) and depolarizing (ordinate) current injections for (F) spikes, (G) subthreshold voltages, and (H) subthreshold voltages with the additive offset taken into account. All metrics were measured simultaneously. (I) Residuals from the unity line for individual cells from the plots in (F–H). Dashed line indicates unity (i.e., no difference across depolarizing and hyperpolarizing conditions). Pairwise comparisons are shown between spikes, Vm, and Vm with additive offset. Current injections influence spike tuning curves more than either version of the Vm tuning curve. (J, K) Area of the normalized tuning curve for spikes (abscissa) and simultaneously measured subthreshold voltages (ordinate) under (J) depolarizing and (K) hyperpolarizing conditions. (L) Residuals from the unity line for individual cells from the plots in (J, K). Dashed line indicates unity (i.e., no difference between spikes and subthreshold voltages). Comparisons are made between depolarizing and hyperpolarizing conditions (two-sided rank-sum). For all scatter plots, individual cells are shown as small dots (Superior in magenta, Inferior in gray). Colored regions indicate that the metric is greater for that condition (D–H) or for spikes or Vm (J, K). Points on the line indicate equivalent values under the two conditions. Large dots represent univariate medians collapsed across cell types and whiskers are 95% confidence intervals determined via bootstrapping. Significance values indicate whether the data tend to fall unevenly on one side of the unity line (two-sided signed-rank). For all box plots, the blue line represents median, box boundaries are IQR, and whiskers represent the most extreme observation within 1.5× IQR. *p<0.05, **p<0.01, ***p<0.001.Figure 5—figure supplement 2.Effects of current injection on intrinsic properties of ON direction-selective retinal ganglion cells (oDSGCs).To measure the effects of depolarizing and hyperpolarizing current injections on the intrinsic properties of oDSGCs, the (A) peak rate of voltage change and (B) spike threshold potential were calculated for every cell under both conditions. Peak dV/dt was on average 10.9 V/s greater under hyperpolarizing relative to depolarizing conditions. The spike threshold potential was on average 9.0 mV more negative under hyperpolarizing conditions. Both of these observations are consistent with an increase in voltage-gated sodium channel availability in the hyperpolarizing condition. This intrinsic change increases the probability of spikes during hyperpolarizing relative to the depolarizing injections, and therefore cannot explain our experimental results of greater spikes and broader tuning curves under depolarizing conditions (Figure 5). The likely reason why our empirical data show increased spiking and broader tuning curves during depolarizing injections is that the relative distance between cells’ resting membrane potentials and spike thresholds was greater in the hyperpolarizing condition. (C) The resting membrane potential was, on average, 12.6 mV more negative during hyperpolarizing injections than during depolarizing injections, whereas the spike threshold only changed by 9.0 mV (B). Thus, the difference between resting membrane potential and spike threshold was greater under hyperpolarizing conditions. (D) On average, cells’ resting membrane potentials were 5.1 mV further away from the spike threshold potential under hyperpolarizing relative to depolarizing conditions. Current injections may also influence conductances of other voltage-gated ion channels, including calcium channels, though evidence that oDSGCs express such channels is limited and these effects are difficult to quantify. For all panels, regions of green (or purple) indicate that the metric is greater for depolarizing (or hyperpolarizing) current injections. Points on the line indicate equivalent values under the two conditions. Individual cells are shown as dots (Superior in magenta, Inferior in gray). Large blue dots represent univariate medians collapsed across cell types and whiskers indicate 95% confidence intervals determined via bootstrapping. Significance values indicate whether the data tend to fall unevenly on one side of the unity line (two-sided signed-rank). *p<0.05, **p<0.01, ***p<0.001."
+  },
+  "78": {
+    "content_id": "63",
+    "original_publisher_figure": "figures/PMC7438109_fig3.jpg",
+    "original_sha256": "298f441f1d7a4b010dc3347cd622578bd47129daca0a28556eb5ff3822d6088f",
+    "source_url": "https://cdn.elifesciences.org/articles/57458/elife-57458-fig3-v2.jpg",
+    "box": [
+      0,
+      0,
+      0.18,
+      0.47
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_78.png",
+    "original_figure_legend": "Figure 3.Horizontal eye movements are mostly compensatory for yaw head rotations.(A) To remove the effect of non-conjugate changes in eye position (i.e. vergence shifts), we compute the average angular position of the two eyes. (B) Cross-correlation of change in head yaw and horizontal eye position. (C) Scatter plot of horizontal rotational head velocity and horizontal eye velocity. N = 7 animals, 105 trials, 3565 (non-approach) and 211 (approach) timepoints, representing 1% of non-approach and 1% of approach timepoints. (D) Distribution of horizontal eye position during stationary and running periods (defined as times when mouse speed is greater than 1 cm/sec; Kolmogorov-Smirnov test, p=0.032). (E) Distribution of head angle velocity (paired t-test, p=0.938). (F) Distribution of mean absolute eye position (paired t-test, p=0.156). (G) Distribution of horizontal eye velocity (paired t-test, p=0.155) and distribution of eye velocity when head yaw is not changing (change in head yaw between ±15 deg/sec; paired t-test, p=0.229; N = 7 animals, 105 trials)."
+  },
+  "80": {
+    "content_id": "65",
+    "original_publisher_figure": "figures/PMC10156169_fig2.jpg",
+    "original_sha256": "3e43f86b01d8db4ccb3e46a79e33c898bbfd19b4a43558829078511624982542",
+    "source_url": "https://cdn.elifesciences.org/articles/82410/elife-82410-fig2-v2.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      0.235
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_80.png",
+    "original_figure_legend": "Figure 2.Gaze behavior depends on terrain.(a) Example images of the five terrain types. Sections of the hiking path were assigned to one of the five terrain types. The Pavement terrain included the paved parts of the hiking path, while the Flat terrain included the parts of the trail which were composed of flat packed earth. The Medium terrain had small irregularities in the path as well as loose rocks and pebbles. The Bark terrain (though similar to the Medium terrain) was given a separate designation as it was generally flatter than the Medium terrain but large pieces of bark and occasional tree roots were strewn across the path. Finally, the Rocks terrain had significant path irregularities which required attention to locate stable footholds. (b) Histograms of vertical gaze angle (angle relative to the direction of gravity) across different terrain types. In very flat, regular terrain (e.g. pavement, flat) participant gaze accumulates at the horizon (90°). With increasing terrain complexity participants shift gaze downward (30°–60°). Data are averaged over 10 subjects for rocky terrain and 8 subjects for the other terrains. Shaded error bars are ±1 SEM. Individual subject data are shown in ‘Methods’."
+  },
+  "82": {
+    "content_id": "67",
+    "original_publisher_figure": "figures/PMC9651946_fig3.jpg",
+    "original_sha256": "c734c37c5a5d7a1476bc12419a2020f0bbacad3894b16a034f7ca71dda9e9b1f",
+    "source_url": "https://cdn.elifesciences.org/articles/80880/elife-80880-fig3-v2.jpg",
+    "box": [
+      0,
+      0,
+      0.35,
+      0.155
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_82.png",
+    "original_figure_legend": "Figure 3.Sensory feedback generated from body movements alters the magnitude, timing, and performance of head responses.(A) The body response (red) of body-free flies to single-sine visual perturbations (grey) with varying frequency. The x-axis is normalized to show four oscillations at each frequency. Note that the body response is larger relative to the visual perturbation at low frequencies, leading to a smaller sensory error signal (yellow) in the head reference frame. Thick lines: mean. Thin lines: individual fly means. (B) The distribution of compensation errors in the head reference frame corresponding to the sensory error in (A) normalized by the perturbation amplitude. Values below one indicate that body movements reduced the sensory error while values greater than one indicate that body movements increased the sensory error. (C) The head response of body-free (blue) and body-fixed (violet) flies to the same visual perturbation (grey) shown in (A). At low frequencies, the head would often run into the anatomical limits of the neck joint (dashed pink lines). Thick lines: mean response. Thin lines: individual fly means. (D) The total distribution of head angular displacements for body-free and body-fixed flies for each perturbation frequency. For each frequency, the body-free and body-fixed head distributions had a different variance (F-test, p<0.001). Body-free: n=10 flies, Body-fixed: n=9 flies.Figure 3—figure supplement 1.Sum-of-sines body and head responses.(A) Top: the body response (red) of body-free flies to a sum-of-sines visual perturbation (black). Bottom: the head response of body-free (blue) and body-fixed (violet) flies to the same visual perturbation. Thick lines: mean response. Thin lines: individual fly means. (B) The velocity magnitude of the body, and head for body-free and body-fixed paradigms calculated at each frequency present in the visual perturbation (calculated from Chirp-Z transform, see Materials and method). Shaded regions: ±1 STD. (C) The total distribution of head angular displacements from body-free and body-fixed flies. *** F-test p<0.001. Body-free: n=10 flies, Body-fixed: n=9 flies.Figure 3—figure supplement 2.Saturation-corrected head response and LSSA sensitivity analysis.(A) A saturation-correction routine applied to the mean head response of body-fixed flies at the 0.7 Hz perturbation frequency. We removed the saturated data points and fit a sine wave to the remaining data points (see Methods). (B) A comparison of three different system identification methods: (1) from a Chirp-Z Transform, (2) from least squares spectral analysis (LSSA), and (3) from LSSA applied to the saturation corrected data. We showed that the Chirp-Z Transform and LSSA methods yielded near-identical results, while saturation-correction only effected the lowest two frequencies of the body-fixed head transforms: R→B (violet) and E→H (violet), leading to a slight increase in gain. The transforms indicated above each plot correspond to the legends in Figures 4 and 5. We used the Chip-Z Transform for our analysis in Figures 4—6, but applied the LSSA saturation correction to the body-fixed head response at the lowest two frequencies. Shaded regions: ±1 STD. Body-free: n=10 flies, Body-fixed: n=9 flies.Figure 3—video 1.Comparison of a body-free fly (magnetic tether, left) and body-fixed fly (rigid tether, right) head response to a 1 Hz sine wave visual perturbation.The body-stabilized head view is shown below each raw video. Note that head movements are larger in the body-fixed fly.Figure 3—video 2.Same as Figure 3—video 1 but for a 2.1 Hz visual perturbation.Figure 3—video 3.Same as Figure 3—video 1 but for a 5.3 Hz visual perturbation.Figure 3—video 4.Same as Figure 3—video 1 but for a sum-of-sines visual perturbation."
+  },
+  "83": {
+    "content_id": "68",
+    "original_publisher_figure": "figures/PMC9651946_fig7.jpg",
+    "original_sha256": "b6eb05247e6dfcfe51ef2547816dfc86e5cd24e447a38ced546827ae836a8a46",
+    "source_url": "https://cdn.elifesciences.org/articles/80880/elife-80880-fig7-v2.jpg",
+    "box": [
+      0.455,
+      0.38,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_83.png",
+    "original_figure_legend": "Figure 7.Head saccades are actively damped by mechanosensory feedback.(A) Example body (red) and head (blue) trajectories for a body-free fly in the magnetic tether presented with a static visual stimulus. Rapid flight turns called saccades are highlighted. Note that head saccades are followed by a head movement that returns the head to the center position. Also see Figure 7—video 1. (B) Same as A) but for a body-fixed fly. Head movements are shown in purple. Note that head saccades are not followed by a return head movement. (C) Left y-axis: averaged head saccade displacement (top) and velocity (bottom) for body-free and body-fixed flies. Right y-axis: averaged body saccade displacement (top) and velocity (bottom). Note that saccades typically last less than 200ms (bold portion of head and body trajectories indicate saccades), but an extra second of data is shown to illustrate the difference between the body-free and body-fixed head movements after a saccade. Inset shows the first 200ms of head and body trajectories. Shaded regions: ±1 STD. (D) Distributions of head saccade amplitude, peak velocity, duration, and damping time constant. The damping time constant τ was computed by fitting a decaying exponential to the head response directly after a saccade. ***Wilcoxon rank sum and t-test, p < 0.001. Body-free: n=8 flies, N=566 saccades, Body-fixed: n=8 flies, N=346 saccades. (E) Proposed neural architecture for haltere-related damping of head movements for self-generated vs. externally-generated body motion. When body motion is self-generated, head and body motor commands are sent in parallel with an efferent signal, effectively closing a gate that allows mechanosensory feedback due to body motion to damp head movements. When body motion is externally generated, this gate is open and body motion has little effect on head movements (Figure 6A and (D).Figure 7—figure supplement 1.Head saccades in darkness.A Same as Figure 7D, but for a dark visual environment. Shaded regions: ±1 STD. Body-free: n=8 flies, n=55 saccades. Body-fixed: n=5 flies, N=33 saccades.Figure 7—video 1.A body-free fly (magnetic tether) presented with a static visual background performing simultaneous body and head saccades.The left video shows the raw images and the right video shows the images in the body-stabilized coordinate frame. See Cellini et al., 2021 for videos of saccades in body-fixed flies (Cellini et al., 2021)."
+  },
+  "84": {
+    "content_id": "69",
+    "original_publisher_figure": "figures/JCI151331_fig1.jpg",
+    "original_sha256": "6776456efb3f308cdbae9754c59591335ed5ae4f0602bf258baf49f0ee8602fe",
+    "source_url": "https://dm5migu4zj3pb.cloudfront.net/manuscripts/151000/151331/large/JCI151331.f1.jpg",
+    "box": [
+      0,
+      0,
+      0.54,
+      0.39
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_84.png",
+    "original_figure_legend": "Figure 1 Utah Electrode Array (UEA) implantation and electrophysiological recordings. ( A ) Scanning electron microscopy image of the UEA and numbering system used to identify specific electrodes (electrode side shown). ( B ) Location of the UEA implantation site on the right occipital cortex. Inset: Image of the UEA to be implanted during surgery. ( C ) Predicted retinotopic map organization superimposed on the 3D reconstruction of the volunteer’s cerebral cortex with the implantation site indicated (left, location of visual areas; middle, eccentricity; and right, polar angle). ( D ) Average electrode impedances across the 6-month study period. The mean impedances increased by 20% in the first week, and gradually decreased toward their initial values (blue line). ( E ) Examples of recorded waveforms on days 3, 77, and 154 with summary statistics of recorded multiunit responses. Color in the heatmap represents the number of days on which more than 50 reliable action potentials were recorded on a given electrode over the 2-minute recording period."
+  },
+  "85": {
+    "content_id": "70",
+    "original_publisher_figure": "figures/PMC12217448_fig2.png",
+    "original_sha256": "9a582af76fe700a70d3ce3af417453c11f42854d1d1b20947f05f82f923d68e7",
+    "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-025-04286-9/MediaObjects/41598_2025_4286_Fig2_HTML.png",
+    "box": [
+      0,
+      0,
+      1,
+      0.62
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_85.png",
+    "original_figure_legend": "Fig. 2Characterization of RGCs expressing ChroME2s, ChRmine-T119A, and ChRmine opsins in response to blue LED light flashes. (A) Average ChroME2s (n = 3), ChRmine (n = 4), and ChRmine-T119A (n = 4 cells) mediated photocurrents in RGCs in response to diffuse 485 nm light flash of 167 mW/cm2 (timing shown by the cyan bar). (B) Average peristimulus spike-time histograms (PSTH) generated from ChroME2s- (200.0 ± 102.5 Hz, n = 12 cells), ChRmine-T119A- (152.4 ± 144.2 Hz, n = 14 cells), and ChRmine- (152.9 ± 84.2 Hz during stimulus, n = 17 cells) expressing RGCs. Light flash was 32.2 mW/cm2 for 15 ms. (C) Average peak photocurrent as a function of flash intensity. (D) Max peak photocurrent at the highest light intensity for ChRmine- (1.69 ± 0.42 nA, n = 4 cells), ChRmine-T119A- (0.81 ± 0.47 nA, n = 7 cells), and ChroME2s-expressing RGCs (0.30 ± 0.24 nA, n = 4 cells). Error bars in bar graph are represented as SEM (E) Current–voltage relations for the peak photocurrents of ChroME2s- (n = 36 cells), ChRmine-T119A- (n = 7 cells), and ChRmine-expressing RGCs (n = 6 cells). (E) Exponential decay time constants measured from the photocurrents in ChroME2s- (9.5 ± 8.2, n = 8 cells), ChRmine-T119A- (25.6 ± 9.3 ms, n = 12 cells), and ChRmine-expressing RGCs (56.2 ± 16.5 ms, n = 9 cells). *p < 0.05, **p < 0.01, and ***p < 0.001. Shading shows the standard deviation in all panels."
+  },
+  "86": {
+    "content_id": "71",
+    "original_publisher_figure": "figures/JCI151331_fig7.jpg",
+    "original_sha256": "9bb0812f5a6ae8579efb2fc004a24c2ca9b09fedd86ca09e65ae068f59b9d36a",
+    "source_url": "https://dm5migu4zj3pb.cloudfront.net/manuscripts/151000/151331/large/JCI151331.f7.jpg",
+    "box": [
+      0,
+      0.37,
+      1,
+      0.665
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_86.png",
+    "original_figure_legend": "Figure 7 Examples of perceptions evoked by simultaneous stimulation of multiple electrodes. ( A ) The stimulation of the 2 electrodes shown in the inset electrode map induced the perception of 2 closely spaced phosphenes. ( B ) Box-and-whisker plot of subjective phosphene size for electrode pairs separated from 400 to 3600 μm. Inset: Relative location of electrodes 1 and 10 in the UEA, which are separated by 400 μm (light blue color), and electrodes 1 and 89, which are separated by 3600 μm (orange color). In the box-and-whisker plot, the boundary of the box closest to zero indicates the first quartile, and the boundary of the box farthest from zero indicates the third quartile. The horizontal line is the median. The whiskers show the maximum and minimum values, with the exception of outliers (small circles) and extremes (stars). ( C ) Simultaneous stimulation of 4 contiguous electrodes was perceived as 3 small dots. ( D ) Stimulation of 12 electrodes induced the perception of a horizontal line. ( E ) Simultaneous stimulation of the 2 groups of 4 blue electrodes evoked the percept of a line with a horizontal orientation, whereas the simultaneous stimulation of the 2 groups of 4 red electrodes evoked the percept of a line with a vertical orientation. ( F ) Stimulation of these electrodes elicited the perception of a lowercase letter i. ( G ) Stimulation of these 2 groups of electrodes unexpectedly induced the perception of an uppercase letter L. ( H ) Stimulation of these electrodes elicited the perception of an uppercase letter O."
+  },
+  "87": {
+    "content_id": "72",
+    "original_publisher_figure": "figures/JCI151331_fig9.jpg",
+    "original_sha256": "2f0faf197eeb453fe2d1be21073e9340f9f617450c32330f5f0b7a4bfd110184",
+    "source_url": "https://dm5migu4zj3pb.cloudfront.net/manuscripts/151000/151331/large/JCI151331.f9.jpg",
+    "box": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_87.png",
+    "original_figure_legend": "Figure 9 Bio-inspired artificial retina. ( A ) Schematic organization of the sight restoration concept. ( B ) The image acquisition system. The input images are captured by a video camera attached to a spectacle frame for subsequent bio-inspired processing. ( C ) Signal processing module. Input images are processed by a combination of several spatial and temporal filters that enhance specific features of captured information. The weighting module re-encodes this information into a neuromorphic stream of electrode addresses and sends it to the CereStim 96, which generates the stimulation signals applied to the intracortical microelectrodes. ( D ) Discrimination of the border between black and white bars using the bio-inspired artificial retina (frame extracted from Supplemental Video 1 ). ( E ) Evolution of the time required to perform the object location task (4 possible locations) over several days."
+  },
+  "88": {
+    "content_id": "73",
+    "original_publisher_figure": "figures/JCI151331_fig9.jpg",
+    "original_sha256": "2f0faf197eeb453fe2d1be21073e9340f9f617450c32330f5f0b7a4bfd110184",
+    "source_url": "https://dm5migu4zj3pb.cloudfront.net/manuscripts/151000/151331/large/JCI151331.f9.jpg",
+    "box": [
+      0,
+      0.45,
+      0.215,
+      0.82
+    ],
+    "crop_tool": "tools/crop_figure.py",
+    "coordinate_basis": "Normalized original publisher image wrapped into PDF at native300dpi. No redrawing or recoloring.",
+    "figure": "figures/slide_88.png",
+    "original_figure_legend": "Figure 9 Bio-inspired artificial retina. ( A ) Schematic organization of the sight restoration concept. ( B ) The image acquisition system. The input images are captured by a video camera attached to a spectacle frame for subsequent bio-inspired processing. ( C ) Signal processing module. Input images are processed by a combination of several spatial and temporal filters that enhance specific features of captured information. The weighting module re-encodes this information into a neuromorphic stream of electrode addresses and sends it to the CereStim 96, which generates the stimulation signals applied to the intracortical microelectrodes. ( D ) Discrimination of the border between black and white bars using the bio-inspired artificial retina (frame extracted from Supplemental Video 1 ). ( E ) Evolution of the time required to perform the object location task (4 possible locations) over several days."
+  }
+}

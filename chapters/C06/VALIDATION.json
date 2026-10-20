@@ -1,0 +1,42 @@
+{
+  "slides": 90,
+  "content_slides": 88,
+  "foundation_slides": 32,
+  "research_slides": 56,
+  "article_figure_slides": 58,
+  "embedded_distinct_mp4s": 40,
+  "academic_recordings": 20,
+  "visual_recordings": 20,
+  "recordings_per_content_quarter": [
+    10,
+    10,
+    10,
+    10
+  ],
+  "recordings_in_final_ten_content_slides": 6,
+  "paragraphs": 264,
+  "rendered_paragraph_audit": "264/264 pass 5\u20137 lines; report hashes identify final files",
+  "all_source_and_embedded_video_hashes_match": true,
+  "all_package_relationships_resolve": true,
+  "native_video_timing_entries": true,
+  "full_video_decode_pass": true,
+  "source_dimensions_frame_rates_and_audio_presence_preserved": true,
+  "converted_videos": 8,
+  "original_movie_bytes_retained": 32,
+  "minimum_conversion_first_60_frames_ssim": 0.995537,
+  "manual_review": "All 90 rendered slides and original/cropped figure sheets inspected for body fit, figure labels, captions, and movie placement. Teaching prose reviewed, including all third paragraphs. Source hypotheses and measurement distinctions retained.",
+  "fonts": [
+    "Arial"
+  ],
+  "desktop_powerpoint_playback_tested": false,
+  "pptx": {
+    "filename": "From_Light_to_Sight_Chapter_6.pptx",
+    "bytes": 407602768,
+    "sha256": "88dbad74de3e23b00f89d7cea2bfb2a26d1797c1349e17b7887cd04d2cbd938d"
+  },
+  "static_pdf": {
+    "filename": "From_Light_to_Sight_Chapter_6_Static.pdf",
+    "bytes": 12352601,
+    "sha256": "6b10f8db16b303600bbc225019d5dd387d81865f0e60a2dff9f0491bfc6cce0a"
+  }
+}

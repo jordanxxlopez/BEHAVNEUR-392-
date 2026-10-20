@@ -1,0 +1,114 @@
+[
+  {
+    "source": "PMC7438109",
+    "figure": "3",
+    "path": "figures/PMC7438109_fig3.jpg",
+    "source_url": "https://cdn.elifesciences.org/articles/57458/elife-57458-fig3-v2.jpg",
+    "sha256": "298f441f1d7a4b010dc3347cd622578bd47129daca0a28556eb5ff3822d6088f",
+    "hash_match": true,
+    "attempts": [
+      {
+        "url": "https://cdn.elifesciences.org/articles/57458/elife-57458-fig3-v2.jpg",
+        "sha256": "298f441f1d7a4b010dc3347cd622578bd47129daca0a28556eb5ff3822d6088f"
+      }
+    ]
+  },
+  {
+    "source": "PMC7438109",
+    "figure": "4",
+    "path": "figures/PMC7438109_fig4.jpg",
+    "source_url": "https://cdn.elifesciences.org/articles/57458/elife-57458-fig4-v2.jpg",
+    "sha256": "99af7e1312e0feb29bf30c05a02420aefce08f49df4394e393c910cc45f93330",
+    "hash_match": true,
+    "attempts": [
+      {
+        "url": "https://cdn.elifesciences.org/articles/57458/elife-57458-fig4-v2.jpg",
+        "sha256": "99af7e1312e0feb29bf30c05a02420aefce08f49df4394e393c910cc45f93330"
+      }
+    ]
+  },
+  {
+    "source": "PMC10156169",
+    "figure": "2",
+    "path": "figures/PMC10156169_fig2.jpg",
+    "source_url": "https://cdn.elifesciences.org/articles/82410/elife-82410-fig2-v2.jpg",
+    "sha256": "3e43f86b01d8db4ccb3e46a79e33c898bbfd19b4a43558829078511624982542",
+    "hash_match": true,
+    "attempts": [
+      {
+        "url": "https://cdn.elifesciences.org/articles/82410/elife-82410-fig2-v2.jpg",
+        "sha256": "3e43f86b01d8db4ccb3e46a79e33c898bbfd19b4a43558829078511624982542"
+      }
+    ]
+  },
+  {
+    "source": "PMC9651946",
+    "figure": "3",
+    "path": "figures/PMC9651946_fig3.jpg",
+    "source_url": "https://cdn.elifesciences.org/articles/80880/elife-80880-fig3-v2.jpg",
+    "sha256": "c734c37c5a5d7a1476bc12419a2020f0bbacad3894b16a034f7ca71dda9e9b1f",
+    "hash_match": true,
+    "attempts": [
+      {
+        "url": "https://cdn.elifesciences.org/articles/80880/elife-80880-fig3-v2.jpg",
+        "sha256": "c734c37c5a5d7a1476bc12419a2020f0bbacad3894b16a034f7ca71dda9e9b1f"
+      }
+    ]
+  },
+  {
+    "source": "PMC9651946",
+    "figure": "7",
+    "path": "figures/PMC9651946_fig7.jpg",
+    "source_url": "https://cdn.elifesciences.org/articles/80880/elife-80880-fig7-v2.jpg",
+    "sha256": "b6eb05247e6dfcfe51ef2547816dfc86e5cd24e447a38ced546827ae836a8a46",
+    "hash_match": true,
+    "attempts": [
+      {
+        "url": "https://cdn.elifesciences.org/articles/80880/elife-80880-fig7-v2.jpg",
+        "sha256": "b6eb05247e6dfcfe51ef2547816dfc86e5cd24e447a38ced546827ae836a8a46"
+      }
+    ]
+  },
+  {
+    "source": "PMC11136492",
+    "figure": "1",
+    "path": "figures/PMC11136492_fig1.jpg",
+    "source_url": "https://cdn.elifesciences.org/articles/76803/elife-76803-fig1-v2.jpg",
+    "sha256": "bb2d83a03a0d63602e6299e800c2a97cee78be7065ad9938cdec72eb976c8b21",
+    "hash_match": true,
+    "attempts": [
+      {
+        "url": "https://cdn.elifesciences.org/articles/76803/elife-76803-fig1-v2.jpg",
+        "sha256": "bb2d83a03a0d63602e6299e800c2a97cee78be7065ad9938cdec72eb976c8b21"
+      }
+    ]
+  },
+  {
+    "source": "PMC11136492",
+    "figure": "3",
+    "path": "figures/PMC11136492_fig3.jpg",
+    "source_url": "https://cdn.elifesciences.org/articles/76803/elife-76803-fig3-v2.jpg",
+    "sha256": "a0f612be8f2eefc0d4ee8edb678605b33f3113676bb244dbdded9d4a6dffa532",
+    "hash_match": true,
+    "attempts": [
+      {
+        "url": "https://cdn.elifesciences.org/articles/76803/elife-76803-fig3-v2.jpg",
+        "sha256": "a0f612be8f2eefc0d4ee8edb678605b33f3113676bb244dbdded9d4a6dffa532"
+      }
+    ]
+  },
+  {
+    "source": "PMC9633067",
+    "figure": "1",
+    "path": "figures/PMC9633067_fig1.jpg",
+    "source_url": "https://cdn.elifesciences.org/articles/78734/elife-78734-fig1-v2.jpg",
+    "sha256": "61c66d7d72f79fcd9263ebcfd10779880ea3ccf77bb34a70fd5c1e431954f921",
+    "hash_match": true,
+    "attempts": [
+      {
+        "url": "https://cdn.elifesciences.org/articles/78734/elife-78734-fig1-v2.jpg",
+        "sha256": "61c66d7d72f79fcd9263ebcfd10779880ea3ccf77bb34a70fd5c1e431954f921"
+      }
+    ]
+  }
+]

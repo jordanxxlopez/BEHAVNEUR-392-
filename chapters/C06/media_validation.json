@@ -1,0 +1,294 @@
+{
+  "recordings": [
+    {
+      "file": "media/PMC12237402_elife-98347-fig1-video2.mp4",
+      "slide": 2,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC7383236_mmc2.mp4",
+      "slide": 4,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC11521370_elife-98648-video1.mp4",
+      "slide": 7,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC7383236_mmc3.mp4",
+      "slide": 9,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC7383236_mmc4.mp4",
+      "slide": 11,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC7383236_mmc8.mp4",
+      "slide": 14,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC7416113_mmc2.mp4",
+      "slide": 16,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC7416113_mmc3.mp4",
+      "slide": 19,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/sj-vid-2-ipe-10.1177_20416695211018720.mp4",
+      "slide": 21,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/playable_PMC12237402_elife-98347-fig1-video1.mp4",
+      "slide": 23,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 0.995537,
+      "quality_frames": 60
+    },
+    {
+      "file": "media/PMC11521370_elife-98648-video2.mp4",
+      "slide": 24,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC4951199_elife-14472-media1.mp4",
+      "slide": 27,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC4951199_elife-14472-media3.mp4",
+      "slide": 30,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC4951199_elife-14472-media2.mp4",
+      "slide": 33,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/playable_PMC11521370_elife-98648-video3.mp4",
+      "slide": 35,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 0.998698,
+      "quality_frames": 60
+    },
+    {
+      "file": "media/playable_PMC11666245_elife-100260-video4.mp4",
+      "slide": 37,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 0.99754,
+      "quality_frames": 60
+    },
+    {
+      "file": "media/PMC12237402_elife-98347-fig1-video5.mp4",
+      "slide": 40,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC8547958_elife-70838-video4.mp4",
+      "slide": 42,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC7383236_mmc6.mp4",
+      "slide": 44,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC7416113_mmc5.mp4",
+      "slide": 45,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC7416113_mmc4.mp4",
+      "slide": 48,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC7383236_mmc7.mp4",
+      "slide": 51,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/playable_PMC11666245_elife-100260-video1.mp4",
+      "slide": 55,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 0.997357,
+      "quality_frames": 60
+    },
+    {
+      "file": "media/playable_PMC11666245_elife-100260-video2.mp4",
+      "slide": 58,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 0.997128,
+      "quality_frames": 60
+    },
+    {
+      "file": "media/playable_PMC12604854_elife-97146-fig2-video1.mp4",
+      "slide": 59,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 0.999638,
+      "quality_frames": 60
+    },
+    {
+      "file": "media/playable_PMC11666245_elife-100260-video3.mp4",
+      "slide": 61,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 0.997283,
+      "quality_frames": 60
+    },
+    {
+      "file": "media/playable_PMC12604854_elife-97146-fig2-video2.mp4",
+      "slide": 62,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 0.999698,
+      "quality_frames": 60
+    },
+    {
+      "file": "media/PMC9489205_elife-74708-video1.mp4",
+      "slide": 65,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC12237402_elife-98347-fig1-video3.mp4",
+      "slide": 66,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC12237402_elife-98347-fig1-video6.mp4",
+      "slide": 67,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC9489205_elife-74708-video3.mp4",
+      "slide": 70,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC9489205_elife-74708-video4.mp4",
+      "slide": 72,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC7438109_elife-57458-video2.mp4",
+      "slide": 76,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC7438109_elife-57458-video1.mp4",
+      "slide": 79,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC10156169_elife-82410-video1.mp4",
+      "slide": 81,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC9651946_elife-80880-fig3-video1.mp4",
+      "slide": 83,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/PMC9651946_elife-80880-fig7-video1.mp4",
+      "slide": 84,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/JCI151331.sdv1.mp4",
+      "slide": 85,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/JCI151331.sdv2.mp4",
+      "slide": 87,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    },
+    {
+      "file": "media/JCI151331.sdv3.mp4",
+      "slide": 89,
+      "full_decode_pass": true,
+      "decode_error": "",
+      "quality_ssim": 1.0
+    }
+  ],
+  "all_full_decodes_pass": true,
+  "note": "SSIM compares the first 60 decoded frames for converted recordings; original MP4 bytes retained have identity 1.0. Full decoding checks every deliverable frame. Desktop PowerPoint playback remains untested."
+}

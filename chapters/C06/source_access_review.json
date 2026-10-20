@@ -1,0 +1,353 @@
+[
+  {
+    "source": "JCI151331",
+    "doi": "10.1172/JCI151331",
+    "review": "Full publisher article HTML and original source figures and supplementary recordings reviewed.",
+    "teaching_slides": [
+      85,
+      87,
+      88,
+      89
+    ],
+    "recording_slides": [
+      85,
+      87,
+      89
+    ]
+  },
+  {
+    "source": "PMC10023158",
+    "doi": "10.7554/eLife.81780",
+    "review": "Open primary full-text XML, figures, and legends reviewed locally; selected original recordings inspected where used.",
+    "teaching_slides": [
+      78
+    ],
+    "recording_slides": []
+  },
+  {
+    "source": "PMC10156169",
+    "doi": "10.7554/eLife.82410",
+    "review": "Open primary full-text XML, figures, and legends reviewed locally; selected original recordings inspected where used.",
+    "teaching_slides": [
+      81
+    ],
+    "recording_slides": [
+      81
+    ]
+  },
+  {
+    "source": "PMC11136492",
+    "doi": "10.7554/eLife.76803",
+    "review": "Open primary full-text XML, figures, and legends reviewed locally; selected original recordings inspected where used.",
+    "teaching_slides": [
+      74,
+      75
+    ],
+    "recording_slides": []
+  },
+  {
+    "source": "PMC11377037",
+    "doi": "10.7554/eLife.89996",
+    "review": "Open primary full-text XML, figures, and legends reviewed locally; selected original recordings inspected where used.",
+    "teaching_slides": [
+      46,
+      53
+    ],
+    "recording_slides": []
+  },
+  {
+    "source": "PMC11521370",
+    "doi": "10.7554/eLife.98648",
+    "review": "Open primary full-text XML, figures, and legends reviewed locally; selected original recordings inspected where used.",
+    "teaching_slides": [
+      7,
+      24,
+      35
+    ],
+    "recording_slides": [
+      7,
+      24,
+      35
+    ]
+  },
+  {
+    "source": "PMC11666245",
+    "doi": "10.7554/eLife.100260",
+    "review": "Open primary full-text XML, figures, and legends reviewed locally; selected original recordings inspected where used.",
+    "teaching_slides": [
+      55,
+      58,
+      61
+    ],
+    "recording_slides": [
+      37,
+      55,
+      58,
+      61
+    ]
+  },
+  {
+    "source": "PMC11981939",
+    "doi": "10.1038/s41586-025-08790-w",
+    "review": "Open primary full-text XML, figures, and legends reviewed locally; selected original recordings inspected where used.",
+    "teaching_slides": [
+      27
+    ],
+    "recording_slides": []
+  },
+  {
+    "source": "PMC11981947",
+    "doi": "10.1038/s41586-025-08840-3",
+    "review": "Open primary full-text XML, figures, and legends reviewed locally; selected original recordings inspected where used.",
+    "teaching_slides": [
+      29
+    ],
+    "recording_slides": []
+  },
+  {
+    "source": "PMC12217448",
+    "doi": "10.1038/s41598-025-04286-9",
+    "review": "Open primary full-text XML, figures, and legends reviewed locally; selected original recordings inspected where used.",
+    "teaching_slides": [
+      86
+    ],
+    "recording_slides": []
+  },
+  {
+    "source": "PMC12237402",
+    "doi": "10.7554/eLife.98347",
+    "review": "Open primary full-text XML, figures, and legends reviewed locally; selected original recordings inspected where used.",
+    "teaching_slides": [
+      23,
+      66,
+      67
+    ],
+    "recording_slides": [
+      2,
+      23,
+      40,
+      66,
+      67
+    ]
+  },
+  {
+    "source": "PMC12431771",
+    "doi": "10.7554/eLife.93589",
+    "review": "Open primary full-text XML, figures, and legends reviewed locally; selected original recordings inspected where used.",
+    "teaching_slides": [
+      38,
+      39,
+      64
+    ],
+    "recording_slides": []
+  },
+  {
+    "source": "PMC12585175",
+    "doi": "10.7554/eLife.102346",
+    "review": "Open primary full-text XML, figures, and legends reviewed locally; selected original recordings inspected where used.",
+    "teaching_slides": [
+      15
+    ],
+    "recording_slides": []
+  },
+  {
+    "source": "PMC12586158",
+    "doi": "10.1038/s41593-025-02055-5",
+    "review": "Open primary full-text XML, figures, and legends reviewed locally; selected original recordings inspected where used.",
+    "teaching_slides": [
+      41
+    ],
+    "recording_slides": []
+  },
+  {
+    "source": "PMC12604854",
+    "doi": "10.7554/eLife.97146",
+    "review": "Open primary full-text XML, figures, and legends reviewed locally; selected original recordings inspected where used.",
+    "teaching_slides": [
+      59,
+      62
+    ],
+    "recording_slides": [
+      59,
+      62
+    ]
+  },
+  {
+    "source": "PMC12721711",
+    "doi": "10.7554/eLife.98817",
+    "review": "Open primary full-text XML, figures, and legends reviewed locally; selected original recordings inspected where used.",
+    "teaching_slides": [
+      12,
+      14
+    ],
+    "recording_slides": []
+  },
+  {
+    "source": "PMC2782927",
+    "doi": "10.1038/nature08401",
+    "review": "Open primary full-text XML, figures, and legends reviewed locally; selected original recordings inspected where used.",
+    "teaching_slides": [
+      52
+    ],
+    "recording_slides": []
+  },
+  {
+    "source": "PMC4951199",
+    "doi": "10.7554/eLife.14472",
+    "review": "Open primary full-text XML, figures, and legends reviewed locally; selected original recordings inspected where used.",
+    "teaching_slides": [],
+    "recording_slides": [
+      27,
+      30,
+      33
+    ]
+  },
+  {
+    "source": "PMC7383236",
+    "doi": "10.1016/j.neuron.2020.04.021",
+    "review": "Open primary full-text XML, figures, and legends reviewed locally; selected original recordings inspected where used.",
+    "teaching_slides": [
+      4,
+      9,
+      11
+    ],
+    "recording_slides": [
+      4,
+      9,
+      11,
+      14,
+      44,
+      51
+    ]
+  },
+  {
+    "source": "PMC7416113",
+    "doi": "10.1016/j.cub.2020.05.055",
+    "review": "Open primary full-text XML, figures, and legends reviewed locally; selected original recordings inspected where used.",
+    "teaching_slides": [
+      16,
+      19,
+      47,
+      48
+    ],
+    "recording_slides": [
+      16,
+      19,
+      45,
+      48
+    ]
+  },
+  {
+    "source": "PMC7438109",
+    "doi": "10.7554/eLife.57458",
+    "review": "Open primary full-text XML, figures, and legends reviewed locally; selected original recordings inspected where used.",
+    "teaching_slides": [
+      76,
+      79
+    ],
+    "recording_slides": [
+      76,
+      79
+    ]
+  },
+  {
+    "source": "PMC8514090",
+    "doi": "10.1126/sciadv.abj6815",
+    "review": "Open primary full-text XML, figures, and legends reviewed locally; selected original recordings inspected where used.",
+    "teaching_slides": [
+      44,
+      51
+    ],
+    "recording_slides": []
+  },
+  {
+    "source": "PMC8547958",
+    "doi": "10.7554/eLife.70838",
+    "review": "Open primary full-text XML, figures, and legends reviewed locally; selected original recordings inspected where used.",
+    "teaching_slides": [
+      42
+    ],
+    "recording_slides": [
+      42
+    ]
+  },
+  {
+    "source": "PMC8580503",
+    "doi": "10.1177/20416695211018720",
+    "review": "Open primary full-text XML, figures, and legends reviewed locally; selected original recordings inspected where used.",
+    "teaching_slides": [
+      21,
+      22
+    ],
+    "recording_slides": [
+      21
+    ]
+  },
+  {
+    "source": "PMC9489205",
+    "doi": "10.7554/eLife.74708",
+    "review": "Open primary full-text XML, figures, and legends reviewed locally; selected original recordings inspected where used.",
+    "teaching_slides": [
+      65,
+      68,
+      69,
+      70,
+      72
+    ],
+    "recording_slides": [
+      65,
+      70,
+      72
+    ]
+  },
+  {
+    "source": "PMC9633067",
+    "doi": "10.7554/eLife.78734",
+    "review": "Open primary full-text XML, figures, and legends reviewed locally; selected original recordings inspected where used.",
+    "teaching_slides": [
+      63
+    ],
+    "recording_slides": []
+  },
+  {
+    "source": "PMC9651946",
+    "doi": "10.7554/eLife.80880",
+    "review": "Open primary full-text XML, figures, and legends reviewed locally; selected original recordings inspected where used.",
+    "teaching_slides": [
+      83,
+      84
+    ],
+    "recording_slides": [
+      83,
+      84
+    ]
+  },
+  {
+    "source": "behavior",
+    "doi": "10.1038/35009102",
+    "review": "Public publisher abstract and original figure panels reviewed. Subscription full text was not accessed. Claims are limited to the abstract and original figure evidence; anatomy is independently documented in Roe et al. (1992), whose full paper was read.",
+    "teaching_slides": [
+      31,
+      34
+    ],
+    "recording_slides": []
+  },
+  {
+    "source": "orientation",
+    "doi": "10.1038/35009043",
+    "review": "Public publisher abstract and original figure panels reviewed. Subscription full text was not accessed. Claims are limited to the abstract and original figure evidence; anatomy is independently documented in Roe et al. (1992), whose full paper was read.",
+    "teaching_slides": [
+      33
+    ],
+    "recording_slides": []
+  },
+  {
+    "source": "roe",
+    "doi": "10.1523/JNEUROSCI.12-09-03651.1992",
+    "review": "Full original publisher PDF read directly.",
+    "teaching_slides": [
+      32
+    ],
+    "recording_slides": []
+  }
+]

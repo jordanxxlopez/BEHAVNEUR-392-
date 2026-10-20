@@ -60,9 +60,14 @@
     },
     {
       "n": 6,
-      "date": "Date TBD",
-      "title": "Chapter 6: TITLE PENDING TEXTBOOK VERIFICATION",
-      "verified": false
+      "date": "Fall 2026",
+      "title": "From Light to Sight: How the Brain Builds the Visual World",
+      "verified": true,
+      "book_chapter_title": "Vision",
+      "display_title_authorized": true,
+      "display_title_authorization": "Instructor requests a descriptive renamed Chapter 6; explicitly expanded to 85–90 slides with illusions and plasticity.",
+      "textbook_printed_pages": "153–190",
+      "book_scope_verified_from": "Uploaded Part2of6 PDF pages73–92 and Part3of6 PDF pages1–18; chapter7 begins printed191."
     },
     {
       "n": 7,

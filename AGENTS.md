@@ -55,3 +55,7 @@ For this lecture only, 85–90 total slides are authorized. Preserve the existin
 ## Instructor-authorized Chapter 5 expansion
 
 For Chapter 5, the instructor requests 80–90 total slides and expanded coverage of newer methods and neuroengineering. Use 86 total slides (84 teaching slides, title, takeaways). Retain all writing, source-image, 40-video, distribution, and validation requirements above. This exception does not change other chapters' slide-count limits.
+
+## Instructor-authorized Chapter 6 expansion
+
+For Chapter 6, the instructor authorizes 85–90 total slides. Use 90 total slides (88 teaching slides, title, takeaways). Integrate source-supported visual illusions throughout and include a short, 3–4-slide treatment of the rewired-ferret experiments after visual cortex and receptive fields, plus relevant developmental/adult plasticity. Preserve all writing, source-image, 40-video, distribution, and validation requirements above. Revisit the ferret result briefly in the later audition lecture without repeating the full section. This exception does not change other chapters.

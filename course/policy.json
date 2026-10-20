@@ -74,6 +74,14 @@
       ],
       "planned_total_slides": 86,
       "expanded_scope": "Core Chapter 5 methods interwoven with modern neuroengineering, per instructor request."
+    },
+    "6": {
+      "authorized_total_slide_range": [
+        85,
+        90
+      ],
+      "planned_total_slides": 90,
+      "expanded_scope": "Instructor requests visual illusions, general vision, and a short rewired-ferret/neural-plasticity section; 85–90 total slides. All existing media and prose requirements persist."
     }
   },
   "video_distribution_from_chapter": 3,
