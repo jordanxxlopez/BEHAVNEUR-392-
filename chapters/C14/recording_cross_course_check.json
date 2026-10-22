@@ -1,0 +1,24 @@
+{
+  "checked_against": "Previously retrieved 141 Neuroethology catalogs, commit fa278dba43f4bb18527b3237845da0189a37ec24; this is a revision using the retained local comparison snapshot, not a new live catalog refresh.",
+  "selected_recording_dois": [
+    "10.1016/j.neuroimage.2019.116411",
+    "10.1038/s41467-023-43146-w",
+    "10.1038/s41467-025-67054-3",
+    "10.1038/s41586-019-1119-1",
+    "10.1038/s41586-021-03506-2",
+    "10.1038/s41586-023-06377-x",
+    "10.1038/s41586-023-06443-4",
+    "10.1093/brain/awx051",
+    "10.1136/bmj-2024-083605",
+    "10.1162/NOL.a.205",
+    "10.1371/journal.pone.0196391",
+    "10.3389/fpsyg.2021.655168",
+    "10.7554/eLife.18554",
+    "10.7554/eLife.46015",
+    "10.7554/eLife.53086",
+    "10.7554/eLife.85983",
+    "10.7759/cureus.104995"
+  ],
+  "matches": {},
+  "exception_reason": "The instructor requests directly relevant clinical patient demonstrations and brain recordings. Landmark clinical interface demonstrations may overlap another course; their specific task and slide relevance take priority in this correction."
+}

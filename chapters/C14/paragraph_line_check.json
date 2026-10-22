@@ -1,7 +1,7 @@
 {
   "spec_sha256": "d50ff8bc027087b409a33d9ea8b74efb9e31cd2707326bb3417f6247eddd19a4",
-  "pptx_sha256": "b641d75b227cb977e4a6fe5283648cce968225a907679a8813055ac9f071fae2",
-  "pdf_sha256": "21459148cadbb51b770f5467f46bf603c6663676deede3ca9a124ef4d2433bda",
+  "pptx_sha256": "6e8fb1777f35f9a85f2a463f44c927776425020c1c09300c8c9ffc2be404cb22",
+  "pdf_sha256": "2c94c1fd270256d11c76a2bfef94f4217631ea62215bcdc8f8411bd2e64f0ccf",
   "requirement": "Every content paragraph has 5\u20137 actual rendered lines. No forced line breaks or blank-line padding.",
   "paragraphs": 234,
   "passing": 234,

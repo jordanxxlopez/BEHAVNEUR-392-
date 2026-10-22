@@ -9,20 +9,20 @@
   "academic_recordings": 20,
   "visual_recordings": 20,
   "recordings_per_content_quarter": [
-    10,
-    10,
-    10,
-    10
+    12,
+    7,
+    7,
+    14
   ],
-  "maximum_video_free_content_gap": 2,
-  "recordings_in_final_ten_content_slides": 6,
+  "maximum_video_free_content_gap": 4,
+  "recordings_in_final_ten_content_slides": 7,
   "paragraphs": 234,
   "rendered_paragraphs_passing": 234,
   "generic_failures": 0,
   "course_failures": 0,
   "full_recording_decodes_passed": 40,
-  "original_movie_bytes_retained": 40,
-  "compatibility_conversions": 0,
+  "original_movie_bytes_retained": 37,
+  "compatibility_conversions": 3,
   "source_hashes_and_native_resolution_frame_rate_audio_verified": true,
   "embedded_hashes_relationships_and_timing_verified": true,
   "all_slides_visually_reviewed": true,
@@ -33,15 +33,75 @@
   ],
   "static_pdf_multimedia_annotations": 0,
   "desktop_powerpoint_playback_tested": false,
-  "conversion_checks": [],
+  "conversion_checks": [
+    {
+      "file": "media/nol-6-1-205-s002_compatible.mp4",
+      "frames": 4351,
+      "source_frames_without_container_timestamp": 0,
+      "timestamp_check": "Every timestamped frame compared relative to first frame; decoded frame count includes frames lacking source container timestamps.",
+      "maximum_relative_frame_timestamp_difference_seconds": 0.0,
+      "native_dimensions_preserved": true,
+      "audio_presence_channels_and_sample_rate_preserved": true
+    },
+    {
+      "file": "media/nol-6-1-205-s003_compatible.mp4",
+      "frames": 2400,
+      "source_frames_without_container_timestamp": 0,
+      "timestamp_check": "Every timestamped frame compared relative to first frame; decoded frame count includes frames lacking source container timestamps.",
+      "maximum_relative_frame_timestamp_difference_seconds": 0.0,
+      "native_dimensions_preserved": true,
+      "audio_presence_channels_and_sample_rate_preserved": true
+    },
+    {
+      "file": "media/nol-6-1-205-s004_compatible.mp4",
+      "frames": 2474,
+      "source_frames_without_container_timestamp": 0,
+      "timestamp_check": "Every timestamped frame compared relative to first frame; decoded frame count includes frames lacking source container timestamps.",
+      "maximum_relative_frame_timestamp_difference_seconds": 0.0,
+      "native_dimensions_preserved": true,
+      "audio_presence_channels_and_sample_rate_preserved": true
+    }
+  ],
+  "placement_note": "Instructor correction prioritizes exact slide relevance: content-driven placement, with a single four-slide interval covering slides 42\u201345. See media_alignment_audit.json and chapter-specific course policy.",
+  "clinical_compression_quality": [
+    {
+      "file": "media/nol-6-1-205-s002_compatible.mp4",
+      "original_file": "../C14_revision/PMC12727048/nol-6-1-205-s002.mp4",
+      "full_recording_ssim": 0.995605,
+      "audio_packet_hash_equal": true,
+      "reason": "Original clinical sources use unusually large bitrates; CRF16 preserves source resolution and frame timing while reducing the embedded lecture size."
+    },
+    {
+      "file": "media/nol-6-1-205-s003_compatible.mp4",
+      "original_file": "../C14_revision/PMC12727048/nol-6-1-205-s003.mp4",
+      "full_recording_ssim": 0.994953,
+      "audio_packet_hash_equal": true,
+      "reason": "Original clinical sources use unusually large bitrates; CRF16 preserves source resolution and frame timing while reducing the embedded lecture size."
+    },
+    {
+      "file": "media/nol-6-1-205-s004_compatible.mp4",
+      "original_file": "../C14_revision/PMC12727048/nol-6-1-205-s004.mp4",
+      "full_recording_ssim": 0.994683,
+      "audio_packet_hash_equal": true,
+      "reason": "Original clinical sources use unusually large bitrates; CRF16 preserves source resolution and frame timing while reducing the embedded lecture size."
+    }
+  ],
   "pptx": {
     "filename": "From_Words_to_Meaning_Human_Communication_Chapter_14.pptx",
-    "bytes": 261992842,
-    "sha256": "b641d75b227cb977e4a6fe5283648cce968225a907679a8813055ac9f071fae2"
+    "bytes": 893714988,
+    "sha256": "6e8fb1777f35f9a85f2a463f44c927776425020c1c09300c8c9ffc2be404cb22"
   },
   "static_pdf": {
     "filename": "From_Words_to_Meaning_Human_Communication_Chapter_14_Static.pdf",
-    "bytes": 9936035,
-    "sha256": "21459148cadbb51b770f5467f46bf603c6663676deede3ca9a124ef4d2433bda"
-  }
+    "bytes": 11430410,
+    "sha256": "2c94c1fd270256d11c76a2bfef94f4217631ea62215bcdc8f8411bd2e64f0ccf"
+  },
+  "fullscreen_playback": {
+    "configured_fullscreen_recordings": 40,
+    "all_movie_hashes_verified_during_unchanged_stream_copy": true,
+    "final_zip_integrity_passed": true,
+    "schema_reference": "https://learn.microsoft.com/en-us/dotnet/api/documentformat.openxml.presentation.video.fullscreen",
+    "desktop_powerpoint_playback_tested": false
+  },
+  "final_change_verification": "After full source/PTS verification, only native movie fullScrn attributes changed. All 40 media hashes were reverified while copying unchanged bytes; final ZIP integrity and the coupled PDF paragraph audit passed."
 }

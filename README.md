@@ -112,6 +112,8 @@ A separate 80-slide lecture with 78 teaching slides, 40 embedded original record
 - [Static PDF](https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C14/From_Words_to_Meaning_Human_Communication_Chapter_14_Static.pdf)
 - [Sources and validation](chapters/C14/STATUS.md)
 
+Media revised October 22, 2026: 26 new recordings replace mismatched footage. Only one USC vocal-tract MRI remains, on articulation. Patient reading, aphasia, brain activity, signing, and communication-interface recordings now follow their matching concepts. See [the recording alignment audit](chapters/C14/MEDIA_ALIGNMENT_REVISION.md). Native videos are configured for full-screen playback; desktop playback remains untested.
+
 ## Chapter 15: Building the Brain: Development, Experience, and Neurodiversity
 
 A separate 80-slide lecture with 78 teaching slides, 40 embedded original recordings, original source figures, full teaching notes, and credits. All 234 teaching paragraphs pass the rendered five-to-seven-line audit.

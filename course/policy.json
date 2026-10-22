@@ -114,6 +114,16 @@
       ],
       "planned_total_slides": 86,
       "expanded_scope": "Instructor authorizes 80\u201390 slides for Sleep and Biological Rhythms; standard 40-video requirement and ten-per-quarter distribution persist. Prefer distinct primary articles across courses."
+    },
+    "14": {
+      "recordings_per_content_quarter": [
+        12,
+        7,
+        7,
+        14
+      ],
+      "maximum_content_gap_between_videos": 4,
+      "media_revision_reason": "2026-10-22 instructor correction: every recording, including observational footage, must directly align with the specific slide. Exactly 40 distinct recordings retained, with one purposeful happy/angry prosody comparison on slide 24. One four-slide interval at slides 42\u201345 covers abstract concepts and stuttering genetics without unrelated video. Content-driven placement supersedes the earlier uniform spacing for this revision."
     }
   },
   "video_distribution_from_chapter": 3,

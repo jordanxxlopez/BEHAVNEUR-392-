@@ -1,0 +1,703 @@
+{
+  "revision_date": "2026-10-22",
+  "trigger": "Instructor identified an unrelated USC vocal-tract MRI on slide 46, Pure alexia impairs visual access to words, and requested slide-specific alignment for all recordings, including aesthetic footage.",
+  "slides": 80,
+  "distinct_recordings": 40,
+  "new_recordings": 26,
+  "retained_recordings": 14,
+  "remaining_USC_vocal_tract_movies": 1,
+  "USC_movie_slide": 10,
+  "original_assignments_reviewed": [
+    {
+      "previous_slide": 2,
+      "previous_recording": "USC SPAN / Esling (2015), rtMRI: rainbow.",
+      "previous_source": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/rainbow.mp4",
+      "disposition": "removed",
+      "revised_slide": null,
+      "reason": "Vocal-tract articulation does not show the semantic, clinical, reading or writing operation on this slide."
+    },
+    {
+      "previous_slide": 4,
+      "previous_recording": "USC SPAN / Esling (2015), rtMRI: grandfather.",
+      "previous_source": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/grandfather.mp4",
+      "disposition": "removed",
+      "revised_slide": null,
+      "reason": "Vocal-tract articulation does not show the semantic, clinical, reading or writing operation on this slide."
+    },
+    {
+      "previous_slide": 6,
+      "previous_recording": "USC SPAN / Esling (2015), rtMRI: your good pants.",
+      "previous_source": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/your_good_pants.mp4",
+      "disposition": "removed",
+      "revised_slide": null,
+      "reason": "Vocal-tract articulation does not show the semantic, clinical, reading or writing operation on this slide."
+    },
+    {
+      "previous_slide": 8,
+      "previous_recording": "USC SPAN / Esling (2015), rtMRI: the girl was thirsty.",
+      "previous_source": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/the_girl_was_thirsty.mp4",
+      "disposition": "removed",
+      "revised_slide": null,
+      "reason": "Vocal-tract articulation does not show the semantic, clinical, reading or writing operation on this slide."
+    },
+    {
+      "previous_slide": 10,
+      "previous_recording": "USC SPAN / Esling (2015), rtMRI: bilabial plosive voiceless.",
+      "previous_source": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/bilabial_plosive_voiceless.mp4",
+      "disposition": "retained",
+      "revised_slide": 10,
+      "reason": "Watch complete lip closure and the release of the voiceless bilabial plosive. This is a directly visible articulatory mechanism, placed only on the speech-movement slide."
+    },
+    {
+      "previous_slide": 12,
+      "previous_recording": "Stavisky et al. (2019), Video 1.",
+      "previous_source": "https://cdn.elifesciences.org/articles/46015/elife-46015-video1.mp4",
+      "disposition": "retained",
+      "revised_slide": 12,
+      "reason": "Listen to each prompted syllable and compare it with the simultaneously recorded electrode activity. This is the same study as the slide’s neural-pattern figure."
+    },
+    {
+      "previous_slide": 14,
+      "previous_recording": "Woolnough et al. (2019), Video 1.",
+      "previous_source": "https://cdn.elifesciences.org/articles/53086/elife-53086-video1.mp4",
+      "disposition": "retained",
+      "revised_slide": 14,
+      "reason": "Watch the original time-resolved activity maps before and after articulation. Interpret posterior-insula recruitment with the timing and coverage described in the slide and original source legend."
+    },
+    {
+      "previous_slide": 16,
+      "previous_recording": "USC SPAN / Esling (2015), rtMRI: alveolar plosive voiceless.",
+      "previous_source": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/alveolar_plosive_voiceless.mp4",
+      "disposition": "removed",
+      "revised_slide": null,
+      "reason": "Vocal-tract articulation does not show the semantic, clinical, reading or writing operation on this slide."
+    },
+    {
+      "previous_slide": 18,
+      "previous_recording": "USC SPAN / Esling (2015), rtMRI: velar plosive voiceless.",
+      "previous_source": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/velar_plosive_voiceless.mp4",
+      "disposition": "removed",
+      "revised_slide": null,
+      "reason": "Vocal-tract articulation does not show the semantic, clinical, reading or writing operation on this slide."
+    },
+    {
+      "previous_slide": 21,
+      "previous_recording": "USC SPAN / Esling (2015), rtMRI: she had your dark suit.",
+      "previous_source": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/she_had_your_dark_suit.mp4",
+      "disposition": "removed",
+      "revised_slide": null,
+      "reason": "Vocal-tract articulation does not show the semantic, clinical, reading or writing operation on this slide."
+    },
+    {
+      "previous_slide": 22,
+      "previous_recording": "USC SPAN / Esling (2015), rtMRI: dont ask me to carry.",
+      "previous_source": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/dont_ask_me_to_carry.mp4",
+      "disposition": "removed",
+      "revised_slide": null,
+      "reason": "Vocal-tract articulation does not show the semantic, clinical, reading or writing operation on this slide."
+    },
+    {
+      "previous_slide": 24,
+      "previous_recording": "USC SPAN / Esling (2015), rtMRI: glottal plosive.",
+      "previous_source": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/glottal_plosive.mp4",
+      "disposition": "removed",
+      "revised_slide": null,
+      "reason": "Vocal-tract articulation does not show the semantic, clinical, reading or writing operation on this slide."
+    },
+    {
+      "previous_slide": 26,
+      "previous_recording": "USC SPAN / Esling (2015), rtMRI: heed.",
+      "previous_source": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/heed.mp4",
+      "disposition": "removed",
+      "revised_slide": null,
+      "reason": "Vocal-tract articulation does not show the semantic, clinical, reading or writing operation on this slide."
+    },
+    {
+      "previous_slide": 28,
+      "previous_recording": "USC SPAN / Esling (2015), rtMRI: hood.",
+      "previous_source": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/hood.mp4",
+      "disposition": "removed",
+      "revised_slide": null,
+      "reason": "Vocal-tract articulation does not show the semantic, clinical, reading or writing operation on this slide."
+    },
+    {
+      "previous_slide": 30,
+      "previous_recording": "USC SPAN / Esling (2015), rtMRI: head.",
+      "previous_source": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/head.mp4",
+      "disposition": "removed",
+      "revised_slide": null,
+      "reason": "Vocal-tract articulation does not show the semantic, clinical, reading or writing operation on this slide."
+    },
+    {
+      "previous_slide": 32,
+      "previous_recording": "USC SPAN / Esling (2015), rtMRI: had.",
+      "previous_source": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/had.mp4",
+      "disposition": "removed",
+      "revised_slide": null,
+      "reason": "Vocal-tract articulation does not show the semantic, clinical, reading or writing operation on this slide."
+    },
+    {
+      "previous_slide": 34,
+      "previous_recording": "Stavisky et al. (2019), Video 2.",
+      "previous_source": "https://cdn.elifesciences.org/articles/46015/elife-46015-video2.mp4",
+      "disposition": "removed",
+      "revised_slide": null,
+      "reason": "Replaced the recording to avoid an unrelated task, repeated neural view, or redundant interface example on this slide."
+    },
+    {
+      "previous_slide": 36,
+      "previous_recording": "Stavisky et al. (2019), Video 3.",
+      "previous_source": "https://cdn.elifesciences.org/articles/46015/elife-46015-video3.mp4",
+      "disposition": "retained",
+      "revised_slide": 15,
+      "reason": "Watch the original population trajectories evolve relative to acoustic onset. Their progression directly illustrates the slide’s distinction between neural activity before and after spoken output."
+    },
+    {
+      "previous_slide": 38,
+      "previous_recording": "Anumanchipalli et al. (2019), Video 1.",
+      "previous_source": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-019-1119-1/MediaObjects/41586_2019_1119_MOESM3_ESM.mp4",
+      "disposition": "retained",
+      "revised_slide": 72,
+      "reason": "Watch the original decoded vocal-tract movements, reconstructed spectrogram and synthesized audio, followed by the recorded sentence. This is the same movement-based synthesis study as the slide."
+    },
+    {
+      "previous_slide": 40,
+      "previous_recording": "Pandarinath et al. (2017), media1.",
+      "previous_source": "https://cdn.elifesciences.org/articles/18554/elife-18554-media1.mp4",
+      "disposition": "retained",
+      "revised_slide": 65,
+      "reason": "Watch participant T6 formulate an answer and use a brain-controlled cursor to select letters. This is the exact cortical-cursor communication study taught on the slide."
+    },
+    {
+      "previous_slide": 42,
+      "previous_recording": "USC SPAN / Esling (2015), rtMRI: hid.",
+      "previous_source": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/hid.mp4",
+      "disposition": "removed",
+      "revised_slide": null,
+      "reason": "Vocal-tract articulation does not show the semantic, clinical, reading or writing operation on this slide."
+    },
+    {
+      "previous_slide": 44,
+      "previous_recording": "USC SPAN / Esling (2015), rtMRI: hayed.",
+      "previous_source": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/hayed.mp4",
+      "disposition": "removed",
+      "revised_slide": null,
+      "reason": "Vocal-tract articulation does not show the semantic, clinical, reading or writing operation on this slide."
+    },
+    {
+      "previous_slide": 46,
+      "previous_recording": "USC SPAN / Esling (2015), rtMRI: bead.",
+      "previous_source": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/bead.mp4",
+      "disposition": "removed",
+      "revised_slide": null,
+      "reason": "Vocal-tract articulation does not show the semantic, clinical, reading or writing operation on this slide."
+    },
+    {
+      "previous_slide": 48,
+      "previous_recording": "USC SPAN / Esling (2015), rtMRI: bid.",
+      "previous_source": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/bid.mp4",
+      "disposition": "removed",
+      "revised_slide": null,
+      "reason": "Vocal-tract articulation does not show the semantic, clinical, reading or writing operation on this slide."
+    },
+    {
+      "previous_slide": 50,
+      "previous_recording": "USC SPAN / Esling (2015), rtMRI: bayed.",
+      "previous_source": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/bayed.mp4",
+      "disposition": "removed",
+      "revised_slide": null,
+      "reason": "Vocal-tract articulation does not show the semantic, clinical, reading or writing operation on this slide."
+    },
+    {
+      "previous_slide": 52,
+      "previous_recording": "USC SPAN / Esling (2015), rtMRI: bed.",
+      "previous_source": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/bed.mp4",
+      "disposition": "removed",
+      "revised_slide": null,
+      "reason": "Vocal-tract articulation does not show the semantic, clinical, reading or writing operation on this slide."
+    },
+    {
+      "previous_slide": 54,
+      "previous_recording": "USC SPAN / Esling (2015), rtMRI: bad.",
+      "previous_source": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/bad.mp4",
+      "disposition": "removed",
+      "revised_slide": null,
+      "reason": "Vocal-tract articulation does not show the semantic, clinical, reading or writing operation on this slide."
+    },
+    {
+      "previous_slide": 56,
+      "previous_recording": "USC SPAN / Esling (2015), rtMRI: bod.",
+      "previous_source": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/bod.mp4",
+      "disposition": "removed",
+      "revised_slide": null,
+      "reason": "Vocal-tract articulation does not show the semantic, clinical, reading or writing operation on this slide."
+    },
+    {
+      "previous_slide": 58,
+      "previous_recording": "USC SPAN / Esling (2015), rtMRI: bawed.",
+      "previous_source": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/bawed.mp4",
+      "disposition": "removed",
+      "revised_slide": null,
+      "reason": "Vocal-tract articulation does not show the semantic, clinical, reading or writing operation on this slide."
+    },
+    {
+      "previous_slide": 60,
+      "previous_recording": "Willett et al. (2021), Video 1.",
+      "previous_source": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-021-03506-2/MediaObjects/41586_2021_3506_MOESM4_ESM.mp4",
+      "disposition": "retained",
+      "revised_slide": 63,
+      "reason": "Watch sentence text emerge from the handwriting brain-computer interface as the participant attempts each character. This is the decoder output corresponding to the character-based approach described on the slide."
+    },
+    {
+      "previous_slide": 62,
+      "previous_recording": "Willett et al. (2021), Video 2.",
+      "previous_source": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-021-03506-2/MediaObjects/41586_2021_3506_MOESM5_ESM.mp4",
+      "disposition": "retained",
+      "revised_slide": 62,
+      "reason": "Watch the patient’s hand during attempted handwriting. The tiny residual movements distinguish attempted writing from restored useful hand function."
+    },
+    {
+      "previous_slide": 64,
+      "previous_recording": "Willett et al. (2021), Video 3.",
+      "previous_source": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-021-03506-2/MediaObjects/41586_2021_3506_MOESM6_ESM.mp4",
+      "disposition": "retained",
+      "revised_slide": 79,
+      "reason": "Watch the participant formulate a novel answer and communicate it through attempted handwriting. The final example combines preserved language, spelling, motor representation and an external output route."
+    },
+    {
+      "previous_slide": 66,
+      "previous_recording": "Pandarinath et al. (2017), media2.",
+      "previous_source": "https://cdn.elifesciences.org/articles/18554/elife-18554-media2.mp4",
+      "disposition": "removed",
+      "revised_slide": null,
+      "reason": "Replaced the recording to avoid an unrelated task, repeated neural view, or redundant interface example on this slide."
+    },
+    {
+      "previous_slide": 68,
+      "previous_recording": "Willett et al. (2023), Video 1.",
+      "previous_source": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-023-06377-x/MediaObjects/41586_2023_6377_MOESM4_ESM.mp4",
+      "disposition": "retained",
+      "revised_slide": 68,
+      "reason": "Watch a participant with ALS attempt sentences while a cortical decoder produces text and synthesized speech. Her impaired acoustic output and preserved intended sentence are separately observable."
+    },
+    {
+      "previous_slide": 70,
+      "previous_recording": "Willett et al. (2023), Video 2.",
+      "previous_source": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-023-06377-x/MediaObjects/41586_2023_6377_MOESM5_ESM.mp4",
+      "disposition": "retained",
+      "revised_slide": 75,
+      "reason": "Watch the cued silent-speaking condition. The participant silently mouths prompted words; this directly illustrates why the demonstration does not establish unrestricted inner-speech reading."
+    },
+    {
+      "previous_slide": 72,
+      "previous_recording": "Pandarinath et al. (2017), media3.",
+      "previous_source": "https://cdn.elifesciences.org/articles/18554/elife-18554-media3.mp4",
+      "disposition": "retained",
+      "revised_slide": 66,
+      "reason": "Watch cursor trajectories and letter selection with the QWERTY layout. Compare its arrangement with the OPTI-II keyboard in the preceding slide and the source figure."
+    },
+    {
+      "previous_slide": 74,
+      "previous_recording": "Willett et al. (2021), Video 4.",
+      "previous_source": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-021-03506-2/MediaObjects/41586_2021_3506_MOESM7_ESM.mp4",
+      "disposition": "retained",
+      "revised_slide": 61,
+      "reason": "Watch the same participant communicate through two different motor organizations: attempted handwriting and point-and-click cursor typing. The original side-by-side demonstration illustrates different ways to organize a written message."
+    },
+    {
+      "previous_slide": 76,
+      "previous_recording": "Pandarinath et al. (2017), media4.",
+      "previous_source": "https://cdn.elifesciences.org/articles/18554/elife-18554-media4.mp4",
+      "disposition": "removed",
+      "revised_slide": null,
+      "reason": "Replaced the recording to avoid an unrelated task, repeated neural view, or redundant interface example on this slide."
+    },
+    {
+      "previous_slide": 78,
+      "previous_recording": "Pandarinath et al. (2017), media5.",
+      "previous_source": "https://cdn.elifesciences.org/articles/18554/elife-18554-media5.mp4",
+      "disposition": "removed",
+      "revised_slide": null,
+      "reason": "Replaced the recording to avoid an unrelated task, repeated neural view, or redundant interface example on this slide."
+    },
+    {
+      "previous_slide": 79,
+      "previous_recording": "Pandarinath et al. (2017), media6.",
+      "previous_source": "https://cdn.elifesciences.org/articles/18554/elife-18554-media6.mp4",
+      "disposition": "retained",
+      "revised_slide": 77,
+      "reason": "Watch participant T7 select letters by dwelling on targets using the cortical interface. The source participant has paralysis; successful letter selection does not require normal overt hand movement."
+    }
+  ],
+  "revised_assignments": [
+    {
+      "slide": 2,
+      "title": "Language transforms meanings into patterned actions",
+      "recording": "Larsen & Stensaas: naming, repetition, reading and writing.",
+      "observable": "Watch the examiner separate spontaneous speech, object naming, sentence repetition, reading and writing. These are observable components of human communication in the opening slide.",
+      "source": "https://neurologicexam.med.utah.edu/adult/html/mentalstatus_normal.html#0_stuck6e6",
+      "doi": "",
+      "sha256": "c29e59a9e244ed492d36c9ab3e7d962aa9672309bc70a1170a7f0383bdc8311f"
+    },
+    {
+      "slide": 3,
+      "title": "Both hemispheres contribute to language",
+      "recording": "Dieguez-Campa et al. (2026): aphasia after a right-hemisphere stroke.",
+      "observable": "This published case shows the patient’s language impairment after a right-hemisphere stroke. Relate the clinical behavior to the case’s atypical lateralization, established by the lesion history; the movie is a clinical examination, not a functional activation scan.",
+      "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13066702/supplementaryFiles",
+      "doi": "10.7759/cureus.104995",
+      "sha256": "fb497a6acf9537e172fa534abf28fb04e4809b774ad57ec0e682d510c4dd91a3"
+    },
+    {
+      "slide": 6,
+      "title": "Frontal language and control regions can overlap",
+      "recording": "Larsen & Stensaas: category-word generation.",
+      "observable": "Watch the participant generate category members. Word retrieval also requires maintaining the task rule and continuing the search, matching the overlap between language and frontal control on this slide.",
+      "source": "https://neurologicexam.med.utah.edu/adult/html/mentalstatus_normal.html#0_6nkpqary",
+      "doi": "",
+      "sha256": "a74154856d4a268095453f42d58775a47b4252a55c9b7fa8ffd832a018cf9246"
+    },
+    {
+      "slide": 7,
+      "title": "Language uses interacting pathways",
+      "recording": "Nakai et al. (2017): cortical activity during auditory naming.",
+      "observable": "Watch the real patient-derived cortical activity maps evolve from hearing a description to preparing and producing a name. The high-gamma and beta panels show distinct physiological changes across the language network.",
+      "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5405238/supplementaryFiles",
+      "doi": "10.1093/brain/awx051",
+      "sha256": "da84a702b8c2f9ad87f959b4fa426016d0202d502f1edf14d45e8593da44415a"
+    },
+    {
+      "slide": 8,
+      "title": "Speech and lip reading start through different senses",
+      "recording": "Livingstone & Russo (2018): audiovisual speech.",
+      "observable": "Watch the visible lip and jaw movements while hearing the same utterance. The face supplies visual speech information that can be compared with the acoustic syllables.",
+      "source": "https://zenodo.org/api/records/1188976/files/Video_Speech_Actor_01.zip/content",
+      "doi": "10.1371/journal.pone.0196391",
+      "sha256": "e4f25a8061367784e4272a2963a653557a4f58bcbc9b5272ae329066bf84d160"
+    },
+    {
+      "slide": 10,
+      "title": "Speech requires coordinated articulatory movement",
+      "recording": "USC SPAN / Esling (2015): lips close and release for /p/.",
+      "observable": "Watch complete lip closure and the release of the voiceless bilabial plosive. This is a directly visible articulatory mechanism, placed only on the speech-movement slide.",
+      "source": "https://sail.usc.edu/span/rtmri_ipa/videos/je_2015/bilabial_plosive_voiceless.mp4",
+      "doi": "",
+      "sha256": "90764ed98688ef90add561d5d4c6e38a05cd4fc7fa6618880e88c9b8b323b1e0"
+    },
+    {
+      "slide": 12,
+      "title": "Neural patterns distinguish speech items",
+      "recording": "Stavisky et al. (2019): spoken syllables and motor-cortex spikes.",
+      "observable": "Listen to each prompted syllable and compare it with the simultaneously recorded electrode activity. This is the same study as the slide’s neural-pattern figure.",
+      "source": "https://cdn.elifesciences.org/articles/46015/elife-46015-video1.mp4",
+      "doi": "10.7554/eLife.46015",
+      "sha256": "76bcdb7c0376112bda77c73be5dbcb91dd8cc852d7a3b0482b0391d119a8ae2d"
+    },
+    {
+      "slide": 14,
+      "title": "Posterior insula responds after articulation starts",
+      "recording": "Woolnough et al. (2019): cortical activity around articulation.",
+      "observable": "Watch the original time-resolved activity maps before and after articulation. Interpret posterior-insula recruitment with the timing and coverage described in the slide and original source legend.",
+      "source": "https://cdn.elifesciences.org/articles/53086/elife-53086-video1.mp4",
+      "doi": "10.7554/eLife.53086",
+      "sha256": "3c12dcc0299bc87c51ad4f660c4c7dfbe1b10138211dee111df179c6af644137"
+    },
+    {
+      "slide": 15,
+      "title": "Speech activity changes before and after onset",
+      "recording": "Stavisky et al. (2019): neural trajectories aligned to speech onset.",
+      "observable": "Watch the original population trajectories evolve relative to acoustic onset. Their progression directly illustrates the slide’s distinction between neural activity before and after spoken output.",
+      "source": "https://cdn.elifesciences.org/articles/46015/elife-46015-video3.mp4",
+      "doi": "10.7554/eLife.46015",
+      "sha256": "15108d54918a86aad891b2b878519e1023564452a453fa0b444c9e586b6f2d9c"
+    },
+    {
+      "slide": 16,
+      "title": "Shared cortex can perform different operations",
+      "recording": "Metzger et al. (2023): attempted words versus finger movements.",
+      "observable": "Watch the same cortical interface distinguish attempted NATO code words from attempted finger flexions. This provides a second, clearly identified example of different operations being distinguishable within a shared recorded cortical system.",
+      "source": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-023-06443-4/MediaObjects/41586_2023_6443_MOESM6_ESM.mp4",
+      "doi": "10.1038/s41586-023-06443-4",
+      "sha256": "6d5f7d099929dc44f77b509fa97b2d7c8bfa6c72e6a0b90f0638a6eec8f57708"
+    },
+    {
+      "slide": 19,
+      "title": "Word meanings draw on conceptual knowledge",
+      "recording": "Larsen & Stensaas: similarities and proverb meanings.",
+      "observable": "Listen to explanations of similarities and proverbs. Correctly pronouncing a phrase and explaining its conceptual meaning require different operations, as the slide explains.",
+      "source": "https://neurologicexam.med.utah.edu/adult/html/mentalstatus_normal.html#0_uz6q9x70",
+      "doi": "",
+      "sha256": "e5a5e1383a1b0b05cc1392ed94509544461066f0ef8f35464d57e7b867d1e2d8"
+    },
+    {
+      "slide": 20,
+      "title": "Syntax organizes relationships among words",
+      "recording": "Larsen & Stensaas: following spoken and written commands.",
+      "observable": "Watch the participant translate verbal instructions into the requested actions. Tracking which action applies to which object makes sentence relationships clinically observable.",
+      "source": "https://neurologicexam.med.utah.edu/adult/html/mentalstatus_normal.html#0_k4k1x8bo",
+      "doi": "",
+      "sha256": "d8038a6bf3a6e67295908fb1802969d05f5575bd4aa385e21e81bcc51023845c"
+    },
+    {
+      "slide": 24,
+      "title": "Prosody supplies rhythm emphasis and tone",
+      "recording": "Livingstone & Russo (2018): happy delivery of the same sentence.",
+      "observable": "Compare this happy delivery with the angry recording beside it. The words and speaker are held constant while pitch, rhythm and affective delivery change.",
+      "source": "https://zenodo.org/api/records/1188976/files/Video_Speech_Actor_01.zip/content",
+      "doi": "10.1371/journal.pone.0196391",
+      "sha256": "3773482b1c7e19cf26cc6c66383b6c6e54976d88f1a6c260f0a87179930c869a"
+    },
+    {
+      "slide": 24,
+      "title": "Prosody supplies rhythm emphasis and tone",
+      "recording": "Livingstone & Russo (2018): angry delivery of the same sentence.",
+      "observable": "Compare this angry delivery with the happy recording beside it. Listen for prosodic changes rather than a change in the sentence’s lexical content.",
+      "source": "https://zenodo.org/api/records/1188976/files/Video_Speech_Actor_01.zip/content",
+      "doi": "10.1371/journal.pone.0196391",
+      "sha256": "dd5895daa41ba51959cca9b354a7cefc6ac076416e3bd90c751c6dfd8deae320"
+    },
+    {
+      "slide": 27,
+      "title": "Voice identity differs from linguistic content",
+      "recording": "Livingstone & Russo (2018): a different speaker, the same words.",
+      "observable": "Compare this female actor’s voice with the male actor in the prosody examples. The same sentence can retain its linguistic content while speaker identity changes.",
+      "source": "https://zenodo.org/api/records/1188976/files/Video_Speech_Actor_02.zip/content",
+      "doi": "10.1371/journal.pone.0196391",
+      "sha256": "b90daf6673eeab714362fda03edd23e818b1d9fd2cfe9e8f3e883911c90160e4"
+    },
+    {
+      "slide": 30,
+      "title": "Aphasia affects language components differently",
+      "recording": "Feng et al. (2025): poststroke language tests, SLT-only patients.",
+      "observable": "Watch actual poststroke speech-language testing before and after intensive speech-language therapy in the source’s SLT-only group. Naming and connected speech are observable clinical outcomes.",
+      "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12189313/supplementaryFiles",
+      "doi": "10.1136/bmj-2024-083605",
+      "sha256": "31b65d47a9d9717d4486529ab08f5f0e6e887326d8f6a9a5e8ce06a1a6e41d06"
+    },
+    {
+      "slide": 33,
+      "title": "Broca type aphasia disrupts sentence production",
+      "recording": "Larsen & Stensaas: nonfluent expressive aphasia.",
+      "observable": "Watch effortful, short speech output, sentence repetition and writing during the examination of a patient with expressive aphasia. Compare preserved understanding with impaired sentence production.",
+      "source": "https://neurologicexam.med.utah.edu/adult/html/mentalstatus_abnormal.html#0_8gr2v3tn",
+      "doi": "",
+      "sha256": "dd1a0a15ac3e3a67691b5a08c945a070198b0ef1de64b30b8649a8f53a8231b2"
+    },
+    {
+      "slide": 36,
+      "title": "Fluent speech can coexist with impaired meaning",
+      "recording": "Larsen & Stensaas: fluent receptive aphasia (audio).",
+      "observable": "Listen to fluent output with naming difficulty and words or phrases that do not communicate the intended meaning. The original source is an audio-only clinical recording with a static audio symbol; listen rather than treating the symbol as brain imaging.",
+      "source": "https://neurologicexam.med.utah.edu/adult/html/mentalstatus_abnormal.html#0_an3badbd",
+      "doi": "",
+      "sha256": "a8c35a4dd0e7819988c5a7499c3dd2b8b568642a65714653a337364eddc9d6e6"
+    },
+    {
+      "slide": 40,
+      "title": "Signed languages use linguistic networks",
+      "recording": "Bogliotti & Isel (2021): manual signs and mouthing in French Sign Language.",
+      "observable": "Watch the original five manual/mouthing conditions and their displayed condition labels. Manual signs and mouth actions provide visual linguistic information; compare lexical and incongruent combinations.",
+      "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8185165/supplementaryFiles",
+      "doi": "10.3389/fpsyg.2021.655168",
+      "sha256": "2e818a14c8e9b8cdc5c7611762cad2b866426e3643432d490f894849a95ed9e9"
+    },
+    {
+      "slide": 41,
+      "title": "Early language access shapes semantic organization",
+      "recording": "Twomey et al. (2020): British Sign Language sentence stimulus.",
+      "observable": "Watch a natural-language sentence conveyed visually in British Sign Language. It demonstrates what accessible signed linguistic input looks like. The recording is a stimulus from the cited early-exposure study, not a recording of language deprivation or a diagnosis.",
+      "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7985620/supplementaryFiles",
+      "doi": "10.1016/j.neuroimage.2019.116411",
+      "sha256": "b2da0b86e517daa896a5bca17455355d487d8b2c84af2d79c6a2db7de9612020"
+    },
+    {
+      "slide": 46,
+      "title": "Pure alexia impairs visual access to words",
+      "recording": "Marchive et al. (2025): word reading during cortical stimulation.",
+      "observable": "Watch the patient read before, during and after left occipitotemporal stimulation, including the difficulty signal. This directly demonstrates selective disruption of visual word access.",
+      "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12727048/supplementaryFiles",
+      "doi": "10.1162/NOL.a.205",
+      "sha256": "ec543b3110e0ac681028c5ddc76e4c008813788217cc4ff564ef93ab933e8b1f"
+    },
+    {
+      "slide": 48,
+      "title": "Visual language categories engage a broad network",
+      "recording": "Nordt et al. (2023): developing visual-category representations.",
+      "observable": "Watch the original category-representation spaces for left and right ventral temporal cortex change between age groups. Light-blue circles are words. This is a published interpolation of measured age-group representations, not continuous imaging of one growing brain.",
+      "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10696026/supplementaryFiles",
+      "doi": "10.1038/s41467-023-43146-w",
+      "sha256": "21409be7364f7a9d1b6e6bb191cc746c022cdc0013aaea04c740a822502426a3"
+    },
+    {
+      "slide": 52,
+      "title": "Acquired dyslexias separate reading routes",
+      "recording": "Marchive et al. (2025): letter-by-letter reading with word-reading failure.",
+      "observable": "Watch the patient identify letters while struggling to assemble the written word. This is the reading-route dissociation described on the acquired-dyslexia slide.",
+      "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12727048/supplementaryFiles",
+      "doi": "10.1162/NOL.a.205",
+      "sha256": "9b308a07d5de93ac00f3ccde7dc2ac03ae1c336f5a5e55a7f677208dbced57d1"
+    },
+    {
+      "slide": 55,
+      "title": "Dyslexia affects the acquisition of fluent reading",
+      "recording": "Mitchell et al. (2025): locating the visual word-form area.",
+      "observable": "Watch the authors identify a word-selective cortical region on an individual reconstructed brain surface. The video shows anatomical localization of the VWFA used in their dyslexia study; color marks the functional contrast, not a diagnostic scan for an individual child.",
+      "source": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41467-025-67054-3/MediaObjects/41467_2025_67054_MOESM3_ESM.mp4",
+      "doi": "10.1038/s41467-025-67054-3",
+      "sha256": "04a4d359a038de7bf2b85fd00d817f4aa28473961566d4140b2d431976c831d9"
+    },
+    {
+      "slide": 56,
+      "title": "Diffusion imaging estimates reading related fibers",
+      "recording": "Wang et al. (2023): diffusion-based language-pathway reconstruction.",
+      "observable": "Watch a three-dimensional reconstruction of the language pathways derived from diffusion imaging. These are estimated fiber bundles from the source template, illustrating what a tractography reconstruction represents; the animation does not itself display the adjacent reading-skill correlation.",
+      "source": "https://cdn.elifesciences.org/articles/85983/elife-85983-fig2-video2.mp4",
+      "doi": "10.7554/eLife.85983",
+      "sha256": "3a5d39969606283ed0cc6a7fe88055423439156954704ffb92a0934b83a46dd8"
+    },
+    {
+      "slide": 58,
+      "title": "Visual expertise stabilizes word recognition",
+      "recording": "Marchive et al. (2025): rapid letter naming during cortical stimulation.",
+      "observable": "Watch rapid letter naming deteriorate during stimulation. Efficient visual recognition depends on processing speed as well as eventual letter identification, making this a clinical counterexample to fluent visual word expertise.",
+      "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12727048/supplementaryFiles",
+      "doi": "10.1162/NOL.a.205",
+      "sha256": "18563ea652884cb75f7de2d9585bd9bb54f14e2ab835e270ab893343389b9572"
+    },
+    {
+      "slide": 61,
+      "title": "Writing requires spelling and motor organization",
+      "recording": "Willett et al. (2021): handwriting versus cursor typing.",
+      "observable": "Watch the same participant communicate through two different motor organizations: attempted handwriting and point-and-click cursor typing. The original side-by-side demonstration illustrates different ways to organize a written message.",
+      "source": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-021-03506-2/MediaObjects/41586_2021_3506_MOESM7_ESM.mp4",
+      "doi": "10.1038/s41586-021-03506-2",
+      "sha256": "41ef6bc5e0e3f9be6d446ac50b268fabb57a78cb5b5e5a5272c024d0f62fe628"
+    },
+    {
+      "slide": 62,
+      "title": "Attempted handwriting survives spinal injury",
+      "recording": "Willett et al. (2021): hand micromovements during attempted writing.",
+      "observable": "Watch the patient’s hand during attempted handwriting. The tiny residual movements distinguish attempted writing from restored useful hand function.",
+      "source": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-021-03506-2/MediaObjects/41586_2021_3506_MOESM5_ESM.mp4",
+      "doi": "10.1038/s41586-021-03506-2",
+      "sha256": "4ffad538bb86e6b1175d25f169e24c981d39872e3279c70d65198ac3752ba3db"
+    },
+    {
+      "slide": 63,
+      "title": "Character trajectories support text decoding",
+      "recording": "Willett et al. (2021): handwriting-decoded text in real time.",
+      "observable": "Watch sentence text emerge from the handwriting brain-computer interface as the participant attempts each character. This is the decoder output corresponding to the character-based approach described on the slide.",
+      "source": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-021-03506-2/MediaObjects/41586_2021_3506_MOESM4_ESM.mp4",
+      "doi": "10.1038/s41586-021-03506-2",
+      "sha256": "c4216cfb93e4773f83ec76e31c1c3a11ee9666d06cf315256498a9c9f19b18f5"
+    },
+    {
+      "slide": 65,
+      "title": "A cortical cursor enables written communication",
+      "recording": "Pandarinath et al. (2017): a patient types spontaneous answers.",
+      "observable": "Watch participant T6 formulate an answer and use a brain-controlled cursor to select letters. This is the exact cortical-cursor communication study taught on the slide.",
+      "source": "https://cdn.elifesciences.org/articles/18554/elife-18554-media1.mp4",
+      "doi": "10.7554/eLife.18554",
+      "sha256": "0f458c3e18310be4adee7036f69bbc6c9839bcf08f6dba8d6ce83b8a72aec1dc"
+    },
+    {
+      "slide": 66,
+      "title": "Interface design influences symbol selection",
+      "recording": "Pandarinath et al. (2017): selecting letters on a QWERTY interface.",
+      "observable": "Watch cursor trajectories and letter selection with the QWERTY layout. Compare its arrangement with the OPTI-II keyboard in the preceding slide and the source figure.",
+      "source": "https://cdn.elifesciences.org/articles/18554/elife-18554-media3.mp4",
+      "doi": "10.7554/eLife.18554",
+      "sha256": "487280f9aab25a6d4da474d0a869fa33e2859590849f1279093c131684147ac4"
+    },
+    {
+      "slide": 68,
+      "title": "Attempted speech remains neurally represented",
+      "recording": "Willett et al. (2023): attempted speech decoded in real time.",
+      "observable": "Watch a participant with ALS attempt sentences while a cortical decoder produces text and synthesized speech. Her impaired acoustic output and preserved intended sentence are separately observable.",
+      "source": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-023-06377-x/MediaObjects/41586_2023_6377_MOESM4_ESM.mp4",
+      "doi": "10.1038/s41586-023-06377-x",
+      "sha256": "cf5a3612a780867f72b47b823aa22f58d4783c18efa53a0f5d7f59ee28560365"
+    },
+    {
+      "slide": 69,
+      "title": "A decoder transforms neural signals into phonemes",
+      "recording": "Metzger et al. (2023): phonetic decoding of new sentences.",
+      "observable": "Watch a phoneme-based decoder convert silently attempted, previously untrained sentences into text. The original three-dot speech-detection indicator precedes the final text. This is a separately credited clinical example of the phonetic-to-sentence pipeline.",
+      "source": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-023-06443-4/MediaObjects/41586_2023_6443_MOESM4_ESM.mp4",
+      "doi": "10.1038/s41586-023-06443-4",
+      "sha256": "fe9bb78f2e02029e4587c04abf35d0614add607cba9e490ede1a8fcc76fe829f"
+    },
+    {
+      "slide": 70,
+      "title": "Paralysis and aphasia affect different stages",
+      "recording": "Metzger et al. (2023): communication after brainstem-stroke paralysis.",
+      "observable": "Watch text, synthesized voice and a facial avatar generated from the participant’s silently attempted sentences. The source patient’s speech paralysis follows brainstem stroke; the interface accesses intended language through preserved cortical signals.",
+      "source": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-023-06443-4/MediaObjects/41586_2023_6443_MOESM3_ESM.mp4",
+      "doi": "10.1038/s41586-023-06443-4",
+      "sha256": "59687e52224fa2000a713b7ab5f5c086828b0eeadaed45987325f32a6dfe6bec"
+    },
+    {
+      "slide": 71,
+      "title": "Phoneme geometry reflects articulation",
+      "recording": "Metzger et al. (2023): classifying attempted mouth movements.",
+      "observable": "Watch the interface distinguish six attempted nonspeech orofacial actions and animate the corresponding avatar movement. These are articulatory actions, illustrating motor representations underlying speech; they are not decoded emotions or unrestricted thoughts.",
+      "source": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-023-06443-4/MediaObjects/41586_2023_6443_MOESM10_ESM.mp4",
+      "doi": "10.1038/s41586-023-06443-4",
+      "sha256": "13c7aab63a7e3a596ab057a33211906093fa408215eb48b7a454573536ee0e13"
+    },
+    {
+      "slide": 72,
+      "title": "Speech synthesis can use movement estimates",
+      "recording": "Anumanchipalli et al. (2019): decoded articulation and synthesized speech.",
+      "observable": "Watch the original decoded vocal-tract movements, reconstructed spectrogram and synthesized audio, followed by the recorded sentence. This is the same movement-based synthesis study as the slide.",
+      "source": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-019-1119-1/MediaObjects/41586_2019_1119_MOESM3_ESM.mp4",
+      "doi": "10.1038/s41586-019-1119-1",
+      "sha256": "21a2784e9941730efbb545b75d2f479306084a310f8ed17f9ddf8e6cde8eb725"
+    },
+    {
+      "slide": 73,
+      "title": "Communication support exploits preserved routes",
+      "recording": "Metzger et al. (2023): personalized voice and avatar, offline.",
+      "observable": "Listen to speech reconstructed from neural recordings and converted to the participant’s personalized voice using a short pre-injury voice sample. The original video is an offline voice-conversion demonstration, clearly distinct from a live conversation.",
+      "source": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-023-06443-4/MediaObjects/41586_2023_6443_MOESM9_ESM.mp4",
+      "doi": "10.1038/s41586-023-06443-4",
+      "sha256": "d8cb2d5b228e02c14075be1c7eb5a738f66902c431211faa62bdc9f98d4d2744"
+    },
+    {
+      "slide": 75,
+      "title": "Silent miming differs from unrestricted inner speech",
+      "recording": "Willett et al. (2023): silent mouthing decoded into sentences.",
+      "observable": "Watch the cued silent-speaking condition. The participant silently mouths prompted words; this directly illustrates why the demonstration does not establish unrestricted inner-speech reading.",
+      "source": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-023-06377-x/MediaObjects/41586_2023_6377_MOESM5_ESM.mp4",
+      "doi": "10.1038/s41586-023-06377-x",
+      "sha256": "02cf149c4ad36cdad83f24920f1fba6deffc2e619befa04dbc3d9dab35a26fa0"
+    },
+    {
+      "slide": 77,
+      "title": "Cursor control persists without overt movement",
+      "recording": "Pandarinath et al. (2017): cortical cursor with dwell selection.",
+      "observable": "Watch participant T7 select letters by dwelling on targets using the cortical interface. The source participant has paralysis; successful letter selection does not require normal overt hand movement.",
+      "source": "https://cdn.elifesciences.org/articles/18554/elife-18554-media6.mp4",
+      "doi": "10.7554/eLife.18554",
+      "sha256": "e7f097a9568aafb97f7b7160e46f27c8e761f437a1021ed222406beb15eae50a"
+    },
+    {
+      "slide": 79,
+      "title": "Communication requires coordinated neural systems",
+      "recording": "Willett et al. (2021): freely answering questions through attempted writing.",
+      "observable": "Watch the participant formulate a novel answer and communicate it through attempted handwriting. The final example combines preserved language, spelling, motor representation and an external output route.",
+      "source": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-021-03506-2/MediaObjects/41586_2021_3506_MOESM6_ESM.mp4",
+      "doi": "10.1038/s41586-021-03506-2",
+      "sha256": "3b45701dcf635361f698bbd231205f2a18b115b554799cb1ee994a454f4a59a4"
+    }
+  ],
+  "review_method": "Source study/method/legend inspection; three frames spanning every recording; complete FFmpeg decode; final rendered-slide review; embedded source hash, media relationship, timing and audio checks.",
+  "recordings_per_content_quarter": [
+    12,
+    7,
+    7,
+    14
+  ],
+  "placement_decision": "Use each recording where its task, behavior or measurement is taught. Slide 24 deliberately compares happy and angry delivery of identical words by the same speaker. Slots are not uniformly spaced; slides 42–45 have no video because generic articulation is not an example of abstract concepts or stuttering genetics. Chapter-specific policy records this content-driven placement.",
+  "desktop_powerpoint_playback_tested": false
+}

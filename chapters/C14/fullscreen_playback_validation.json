@@ -1,0 +1,7 @@
+{
+  "configured_fullscreen_recordings": 40,
+  "all_movie_hashes_verified_during_unchanged_stream_copy": true,
+  "final_zip_integrity_passed": true,
+  "schema_reference": "https://learn.microsoft.com/en-us/dotnet/api/documentformat.openxml.presentation.video.fullscreen",
+  "desktop_powerpoint_playback_tested": false
+}

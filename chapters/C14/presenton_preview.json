@@ -15,5 +15,6 @@
   ],
   "native_pdf_sha256": "21459148cadbb51b770f5467f46bf603c6663676deede3ca9a124ef4d2433bda",
   "source": "Final native static PDF pages, with original credits; full source book and article PDFs not uploaded.",
-  "expires": "Presenton export and preview links expire after 24 hours."
+  "expires": "Presenton export and preview links expire after 24 hours.",
+  "status": "Superseded by the 2026-10-22 media-alignment revision; old timed links have expired."
 }

@@ -1,0 +1,23 @@
+[
+  {
+    "file": "media/nol-6-1-205-s002_compatible.mp4",
+    "original_file": "../C14_revision/PMC12727048/nol-6-1-205-s002.mp4",
+    "full_recording_ssim": 0.995605,
+    "audio_packet_hash_equal": true,
+    "reason": "Original clinical sources use unusually large bitrates; CRF16 preserves source resolution and frame timing while reducing the embedded lecture size."
+  },
+  {
+    "file": "media/nol-6-1-205-s003_compatible.mp4",
+    "original_file": "../C14_revision/PMC12727048/nol-6-1-205-s003.mp4",
+    "full_recording_ssim": 0.994953,
+    "audio_packet_hash_equal": true,
+    "reason": "Original clinical sources use unusually large bitrates; CRF16 preserves source resolution and frame timing while reducing the embedded lecture size."
+  },
+  {
+    "file": "media/nol-6-1-205-s004_compatible.mp4",
+    "original_file": "../C14_revision/PMC12727048/nol-6-1-205-s004.mp4",
+    "full_recording_ssim": 0.994683,
+    "audio_packet_hash_equal": true,
+    "reason": "Original clinical sources use unusually large bitrates; CRF16 preserves source resolution and frame timing while reducing the embedded lecture size."
+  }
+]
