@@ -1,38 +1,22 @@
 {
-  "commit": "354bcb54ee17c2a28a90020d0653140583046271",
+  "commit": "322b83d887a1d6eba044a833787bcdbc0f5943f9",
   "slides": 80,
   "desktop_powerpoint_playback_tested": false,
   "pptx": {
-    "url": "https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/354bcb54ee17c2a28a90020d0653140583046271/chapters/C14/From_Words_to_Meaning_Human_Communication_Chapter_14.pptx",
-    "bytes": 261992842,
+    "url": "https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/322b83d887a1d6eba044a833787bcdbc0f5943f9/chapters/C14/From_Words_to_Meaning_Human_Communication_Chapter_14.pptx",
+    "bytes": 893714988,
     "http_status": 206,
     "signature_verified": true,
-    "checked_at_utc": "2026-10-20T21:29:34.384496+00:00"
+    "checked_at_utc": "2026-10-22T08:09:45.072570+00:00"
   },
   "static_pdf": {
-    "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/354bcb54ee17c2a28a90020d0653140583046271/chapters/C14/From_Words_to_Meaning_Human_Communication_Chapter_14_Static.pdf",
-    "bytes": 9936035,
+    "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/322b83d887a1d6eba044a833787bcdbc0f5943f9/chapters/C14/From_Words_to_Meaning_Human_Communication_Chapter_14_Static.pdf",
+    "bytes": 11430410,
     "http_status": 206,
     "signature_verified": true,
-    "checked_at_utc": "2026-10-20T21:29:34.485293+00:00"
+    "checked_at_utc": "2026-10-22T08:09:44.944445+00:00"
   },
-  "presenton": {
-    "title": "From Words to Meaning: The Neural Systems of Human Communication",
-    "slides": 80,
-    "format": "pdf",
-    "export": {
-      "url": "https://api.presenton.ai/s/UbrzUGTlaSVY1Mt1vlzv7E3Y7YVE4NSQ",
-      "message": null,
-      "id": 19890
-    },
-    "preview": {
-      "url": "https://presenton.ai/presentation-preview?t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiaHRtbC10by1hbnktcHJldmlldyIsImh0bWxfdG9fYW55X2NyZWF0aW9uIjoxOTg5MCwiZXhwIjoxNzkyNjE4MTE4fQ.OSLDGewgcZL80o4DMrStwy6_9zFVVNn7l1cjN7yoecI"
-    },
-    "fonts": [
-      "Arial"
-    ],
-    "native_pdf_sha256": "21459148cadbb51b770f5467f46bf603c6663676deede3ca9a124ef4d2433bda",
-    "source": "Final native static PDF pages, with original credits; full source book and article PDFs not uploaded.",
-    "expires": "Presenton export and preview links expire after 24 hours."
-  }
+  "revision": "2026-10-22 recording alignment correction",
+  "media_alignment_audit": "MEDIA_ALIGNMENT_REVISION.md",
+  "fullscreen_playback_configured": true
 }
