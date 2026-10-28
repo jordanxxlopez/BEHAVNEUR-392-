@@ -33,3 +33,13 @@ Fonts: Arial in all requested Presenton PPTX, PDF and PNG exports. No web font i
 Desktop PowerPoint playback remains untested. Full source PDFs are excluded. Native media relationships, hashes, complete decodes, duration, dimensions, timing, and the required recording distribution pass. All 234 teaching paragraphs per chapter pass the actual five-to-seven-line render audit.
 
 Earlier corrected downloads remain on the chapter-16-17-downloads branch.
+
+
+## Special topic: Brain Injury in Football
+
+80 slides emphasizing the neurobiology of chronic traumatic encephalopathy (CTE), with credited photographs and discussions of Mike Webster, Junior Seau, and Ken Stabler. Forty distinct original recordings are embedded in the editable PowerPoint for offline use. Two football clips also include clickable YouTube source links.
+
+- [Download the editable CTE PowerPoint](https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/cte-football-downloads/downloads/Brain_Injury_in_Football_CTE.pptx) (approximately 1.30 GB because original recordings are retained).
+- [Download the static CTE PDF](https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/cte-football-downloads/downloads/Brain_Injury_in_Football_CTE_Static.pdf).
+
+The PDF shows posters and cannot play recordings. Native PowerPoint media relationships, original file hashes, full-file decodes, and timing were checked; desktop PowerPoint playback remains untested. Chapters 16–19 retain their previously delivered files.

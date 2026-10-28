@@ -1,0 +1,324 @@
+{
+  "recordings": [
+    {
+      "slide": 2,
+      "caption": "Football plays: Michigan\u2013Northwestern. FOX Sports (2018).",
+      "directly_taught_event": "The defining lesion contains abnormal phosphorylated tau in neurons around small vessels, especially at the depths of cortical folds. A lesion is a localized area of pathological change. Its cellular and anatomical arrangement distinguishes CTE from simply detecting some tau in an older person's brain.",
+      "original_preparation": "Michigan shuts out Northwestern in the 2nd half to complete a 20-17 comeback victory over Northwestern.\n  FOXSports #CFB #Michigan  ",
+      "doi": "",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 4,
+      "caption": "Maximum principal stress propagation throughout the mou. Rene Solano Fonseca, Patrick (2021).",
+      "directly_taught_event": "Strain describes a change in a material's shape or length relative to its starting state. Stress describes the internal force acting through an area of material. A short, rapidly applied deformation can disturb axons, membranes, and vessels even without a large visible wound or a skull fracture.",
+      "original_preparation": "Maximum principal stress propagation throughout the mouse brain after impact.",
+      "doi": "10.7554/eLife.69438",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 6,
+      "caption": "Video showing an axon being stretched using the sequent. Sushil Dubey, Nishita Bhembr (2020).",
+      "directly_taught_event": "Microtubules form long protein tracks within axons. Near the membrane, actin rings and spectrin connections provide another supporting scaffold. These components share mechanical loads, so resistance to deformation does not depend solely on the strength of the microtubules at the center.",
+      "original_preparation": "After each step the strain is held constant via a feedback loop.\u00a0",
+      "doi": "10.7554/eLife.51772",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 8,
+      "caption": "Football plays: Princeton\u2013Yale. Edison Films (1903).",
+      "directly_taught_event": "The historical Princeton\u2013Yale recording contains ordinary football plays in which bodies repeatedly meet at the line and during tackles. It documents actions and equipment from its own era. It does not provide the acceleration measurements needed to reconstruct each participant's neuronal strain.",
+      "original_preparation": "Princeton and Yale football game in New Haven, Connecticut",
+      "doi": "",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 10,
+      "caption": "Video showing an axon being released from the cantileve. Sushil Dubey, Nishita Bhembr (2020).",
+      "directly_taught_event": "In the original release experiment, the axon shortens toward its earlier length after detachment from the stretching apparatus. This rapid recovery demonstrates a reversible response under the tested conditions. It does not establish that an axon will recover equally well after every faster or larger deformation.",
+      "original_preparation": "Note that the axon recovers its initial length within seconds suggesting that no plastic deformation has occurred.",
+      "doi": "10.7554/eLife.51772",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 12,
+      "caption": "Live imaging of Drosophila neurons at 2 DIV, obtained f. Andre Voelzmann, Pilar Okenv (2016).",
+      "directly_taught_event": "The original fly-neuron recording follows tagged tau together with another microtubule-associated protein. Their overlapping distributions identify tau along the neuronal framework. This observation concerns normal cellular organization rather than demonstrating a CTE lesion or proving that any visible tau is an aggregate.",
+      "original_preparation": "Endogenous Tau (in green) is observed in a pattern reminiscent of microtubules, and colocalises with Jupiter (shown in red). The time laps were obtained every 15 s with a 3i Marianas Spinning Disk Microscope.",
+      "doi": "10.7554/eLife.14694",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 14,
+      "caption": "Representative movie related to Figure 1 showing a GFP-. Michael Krieg, Jan St\u00fchmer . (2017).",
+      "directly_taught_event": "Combined defects produced abnormal twisting and coiling of axons. The original recording follows a labeled sensory neuron in the double-mutant background. Its shape changes concern a mechanically vulnerable axon, not the formation of the perivascular neuronal tau lesion used to diagnose human CTE.",
+      "original_preparation": "Representative movie related to Figure 1 showing a GFP-labeled ALM neuron in an unc-70(e524); ptl-1(ok621) mutant background.",
+      "doi": "10.7554/eLife.20172",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 16,
+      "caption": "Example of a laser axotomy that caused rotation along t. Michael Krieg, Jan St\u00fchmer . (2017).",
+      "directly_taught_event": "In the original worm-neuron experiment, a laser cut changes the mechanical constraints on an axon and is followed by rotation. Releasing a constraint can reveal stored twisting forces. The observed motion therefore provides information about mechanics, not a direct image of a chemical conversion of tau.",
+      "original_preparation": "Cut occurs at the 10th movie frame. Related to Figure 1.",
+      "doi": "10.7554/eLife.20172",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 18,
+      "caption": "Image stack derived from an ssTEM dataset of a ptl-1(ok. Michael Krieg, Jan St\u00fchmer . (2017).",
+      "directly_taught_event": "The selected original image stack passes through a sensory axon lacking normal tau-related and spectrin function. Microtubules change their winding arrangement along the sampled region. The recording supplies anatomical evidence about the same type of structural instability studied in the live-moving preparation.",
+      "original_preparation": "Initially, microtubules twist around one another in a counterclockwise manner and subsequently they twist in the opposite direction, a phenomenon known has helical perversion. Scale\u00a0=\u00a0100 nm.",
+      "doi": "10.7554/eLife.20172",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 20,
+      "caption": "Football plays: Oregon\u2013Washington State. FOX Sports (2018).",
+      "directly_taught_event": "The Oregon\u2013Washington State footage follows pass plays, blocking, pursuit, and tackles in an identified college game. These visible events provide opportunities to distinguish body contact from measured head acceleration. The recording is separate from the donors and sensor datasets used in the CTE exposure studies.",
+      "original_preparation": "Gardner Minshew throws for 323 yards and 4 touchdowns as Washington State upsets Oregon 34-20.\n  FOXSports #CFB #WashingtonState  \n SUBSCRIBE to get the latest FOX Sports content: \nAbout FOX Sports:\nWith exclusive highlights, original programming, and behind the scenes footage, FOX Sports' YouTube channel provides the sports content that fans are hungry for. FOX Sports coverage includes: College Basketball, College Football, MLB, NASCAR, NFL, Soccer, UFC, USGA events and the FIFA World Cup. FS1 original programs include: Undisputed, The Herd, Speak for Yourself, First Things First and more.\n  Oregon vs. Washington St | FOX COLLEGE FOOTBALL HIGHLIGHTS\n  Fox Sports\n \n https://www.youtube.com/c/FoxSports ",
+      "doi": "",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 23,
+      "caption": "Supplementary Movie 1. Sang-Gyun Kang (2021).",
+      "directly_taught_event": "The selected control recording follows reporter cells exposed to brain material from ordinary mice without the tested seed-competent tau. The signal remains a comparison for the seeded preparations. A control of this kind separates the response to added brain material from the response to pathological tau conformers.",
+      "original_preparation": "Additional file 8: Supplementary Movie 1.  Description: Time-lapse imaging of GFP-0N4R reporter cells seeded with S1 brain fractions including no seed-competent tau derived from aged non-transgenic mice. Images were obtained for 12\u2009hours 30\u2009min (10\u2009min/frame for 75 frames). Scale bars, 10\u2009\u03bcm.",
+      "doi": "10.1186/s12915-021-01132-y",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 25,
+      "caption": "Supplementary Movie 2. Sang-Gyun Kang (2021).",
+      "directly_taught_event": "In the original seeded recording, previously dispersed fluorescent tau redistributes into concentrated assemblies. Some assemblies move or fuse, indicating that they are dynamic rather than fixed deposits from the outset. The control and seeded conditions distinguish the effect of the pathological preparation.",
+      "original_preparation": "Additional file 9: Supplementary Movie 2.  Description: Time-lapse imaging of GFP-0N4R reporter cells seeded with S1 brain fractions including pathogenic tau derived from aged TgTau P301L  mice with neurological signs. Images were obtained for 12\u2009hours 30\u2009min (10\u2009min/frame for 75 frames). Scale bars, 10\u2009\u03bcm.",
+      "doi": "10.1186/s12915-021-01132-y",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 27,
+      "caption": "Supplementary Movie 4. Sang-Gyun Kang (2021).",
+      "directly_taught_event": "The selected recording follows a nanotube-like membrane extension at the source's specified focal plane. Fluorescent material moves along the extension between cells. This is one observed transfer route in the reporter preparation, not proof that every CTE lesion spreads through that same anatomical pathway.",
+      "original_preparation": "Additional file 11: Supplementary Movie 4.  Description: Time-lapse imaging of 4RD-YFP reporter cells seeded with S1 brain fractions including pathogenic tau derived from aged TgTau P301L  mice with neurological signs. Tau transfer through tunneling nanotube-like membrane extension on a bottom focal plane (Z4). Images were obtained for 5\u2009hours (5\u2009min/frame for 60 frames). Scale bars, 10\u2009\u03bcm.",
+      "doi": "10.1186/s12915-021-01132-y",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 29,
+      "caption": "Supplementary Movie 10. Sang-Gyun Kang (2021).",
+      "directly_taught_event": "In the original recording, fluorescence recovers within an assembly and droplet-like structures fuse. Recovery indicates movement of labeled molecules back into the bleached region. The observation therefore distinguishes a dynamic condensed state from a completely immobile mass under those experimental conditions.",
+      "original_preparation": "Additional file 17: Supplementary Movie 10.  Description: FRAP analysis of nuclear envelope tau inclusions and fusion of droplet-like inclusions in ES1 cells. For FRAP, five reference images were taken at the beginning and nuclear envelope tau inclusions were photobleached. Images were obtained for 30\u2009min at one frame every 30\u2009sec (1/30 frame/sec). Scale bar, 10\u2009\u03bcm.",
+      "doi": "10.1186/s12915-021-01132-y",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 31,
+      "caption": "Supplementary Movie 15. Sang-Gyun Kang (2021).",
+      "directly_taught_event": "The selected original recording follows cells with nuclear-envelope and nearby tau inclusions as they undergo apoptotic death. Apoptosis is an organized process through which a cell dismantles itself. The event is measured in a cultured reporter system rather than inferred from the color of a tissue stain.",
+      "original_preparation": "Additional file 22: Supplementary Movie 15.  Description: Time-lapse imaging of 4RD-YFP reporter cells seeded with S1 brain fractions including pathogenic tau derived from aged TgTau P301L  mice with neurological signs. The cells with nuclear envelope and juxtanuclear tau inclusions underwent apoptotic cell death. Images were obtained for 15\u2009hours 10\u2009min (10\u2009min/frame for 91 frames). Scale bars, 10\u2009\u03bcm.",
+      "doi": "10.1186/s12915-021-01132-y",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 33,
+      "caption": "Supplementary Movie S1 (download AVI  ). Shanley F Longfield (2023).",
+      "directly_taught_event": "The original recording follows the acquisition used to localize recycling-vesicle signals over time. Repeated observations allow trajectories and local clusters to be estimated. The changing fluorescence concerns vesicle-associated labels, not a measurement of a football player's memory or a direct image of CTE pathology.",
+      "original_preparation": "Supplementary Movie S1 (download AVI  ) Description: SdTIM imaging. Representative movie of the image acquisition during an sdTIM \nexperiment to visualize the mobility and organization of recycling SVs. Recycling SVs are tagged \nwith anti-GFP nanobodies tagged with Atto647 bound to VAMP2-pHluorin. 16,000 images are \nacquired every 20 ms.",
+      "doi": "10.1038/s41467-023-43130-4",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 35,
+      "caption": "Supplementary Movie S2 (download AVI  ). Shanley F Longfield (2023).",
+      "directly_taught_event": "The original tracking movie follows the total pool rather than the recycling subset presented earlier. The populations displayed different mobility despite occupying a shared presynaptic cluster. A terminal is therefore not one uniform bag of vesicles moving and releasing with identical probabilities.",
+      "original_preparation": "Supplementary Movie S2 (download AVI  ) Description: SptPALM imaging. Representative movie of the image acquisition during an \nsptPALM experiment to visualize the mobility and organization of the total pool of SVs. The \ntotal pool of SVs is tagged by the presence of vGLUT1- mEos2. 16,000 images are acquired \nevery 20 ms.",
+      "doi": "10.1038/s41467-023-43130-4",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 37,
+      "caption": "Supplementary Movie S3 (download AVI  ). Shanley F Longfield (2023).",
+      "directly_taught_event": "The original recording follows tau-related and vesicle-related signals during the paired acquisition. Neuronal activity regulated tau diffusion and accumulation at presynapses in the study. Tau formed small condensates that altered the local mobility and organization of the recycling-vesicle population.",
+      "original_preparation": "Supplementary Movie S3 (download AVI  ) Description: Dual-color sdTIM/sptPALM imaging. Representative movie of the image acquisition \nduring a dual-color sdTIM/sptPALM experiment to simultaneously visualize the mobility and \norganization of recycling SVs (sdTIM) and Tau-mEos2 molecules (sptPALM). Recycling SVs are \ntagged with anti-GFP nanobodies tagged with Atto-647 bound to VAMP2-pHluorin. 16,000 \nimages are acquired every 20 ms.",
+      "doi": "10.1038/s41467-023-43130-4",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 39,
+      "caption": "Supplementary Video 1 (download AVI  ). Tharun Selvam Mahendran (2026).",
+      "directly_taught_event": "The original fluorescence recording tracks the time-dependent conversion of the engineered tau condensates into fibrillar structures. The study identified condensate interfaces as favorable sites for fibril nucleation. Nucleation is the formation of a small assembly that can support further growth.",
+      "original_preparation": "Supplementary Video 1 (download AVI  ) Description: The time-dependent conversion of SynTag-Tau condensates to fibrils as \nvisualized by Atto488-labeled SynTag-Tau. The concentration of SynTag-Tau used is \n24 \u03bcM with 10% PEG 8000. The buffer composition is 10 mM HEPES (pH 7.4), 50 mM \nNaCl, 0.1 mM EDTA, and 2 mM DTT. The concentration of Atto488-labeled SynTag-\nTau is 250 nM.",
+      "doi": "10.1038/s41467-026-69244-z",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 40,
+      "caption": "Supplementary Video 1 (download MP4  ) In vitro observa. Zhou, Jiechao (2024).",
+      "directly_taught_event": "Tau inside the droplets could rapidly become fibrillar while also being directed toward degradation through autophagy-related interactions. Capturing cargo and converting its physical state therefore occurred together in the study. A structure associated with aggregation can participate in disposal rather than serving only as a permanent deposit.",
+      "original_preparation": "Supplementary Video 1 (download MP4  ) In vitro observation of TRIAD3A droplets example 1.",
+      "doi": "10.1038/s41556-024-01461-4",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 41,
+      "caption": "TBI-induced blood flow abnormalties.. Hadeel Alyenbaawi, Richard K (2021).",
+      "directly_taught_event": "The original recording follows an injury-associated blood-flow abnormality. Movement of blood cells differs from a static picture of the vessel wall, providing a direct observation of impaired circulation. The preparation tests acute injury biology rather than reproducing the full anatomy of a human cortical CTE lesion.",
+      "original_preparation": "TBI-induced blood flow abnormalties.",
+      "doi": "10.7554/eLife.58744",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 43,
+      "caption": "TBI-induced seizures and blood flow abnormalities.. Hadeel Alyenbaawi, Richard K (2021).",
+      "directly_taught_event": "Anticonvulsant treatments reduced tau-related pathology and cell death in the tested model. Blocking dynamin-dependent membrane processes also reduced these outcomes. Dynamin helps membrane compartments separate during endocytosis, a process that can influence how extracellular material enters a cell.",
+      "original_preparation": "TBI-induced seizures and blood flow abnormalities.",
+      "doi": "10.7554/eLife.58744",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 45,
+      "caption": "Macrophage Ca2+ dynamics in homeostatic meninges of awa. Simone Carneiro-Nascimento,  (2026).",
+      "directly_taught_event": "The original recording follows spontaneous calcium events in both locations. The groups differed in features including event duration and the timing of their signals. Calcium fluorescence therefore supplied a dynamic measurement of cell state beyond simply counting how many macrophages were present.",
+      "original_preparation": "Example two-photon imaging showing Ca2+ activity in perivascular and non-perivascular meningeal macrophages. Scale bar: 50 \u03bcm.",
+      "doi": "10.7554/eLife.109888",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 47,
+      "caption": "Acute and persistent changes in meningeal macrophage Ca. Simone Carneiro-Nascimento,  (2026).",
+      "directly_taught_event": "The selected original recording follows calcium activity before and after the disturbance. Most measured macrophages showed a persistent decrease, while a smaller subset showed increased signals. The response was therefore heterogeneous rather than every nearby immune cell becoming uniformly more active.",
+      "original_preparation": "Example two-photon imaging of meningeal macrophage Ca2+ activity at baseline, during, and following CSD. The arrow indicates a macrophage showing an acute Ca2+ elevation, the arrowhead depicts a delayed and persistent Ca2+ elevation, and the asterisk, a macrophage showing a persistent decreased Ca2+ activity. Scale bar: 50 \u03bcm.",
+      "doi": "10.7554/eLife.109888",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 49,
+      "caption": "Rotation of the 3D model as shown in Figure 3Ea.. Georg Kislinger, Gunar Fabig (2024).",
+      "directly_taught_event": "The original published reconstruction rotates a selected vascular region containing particles within an endothelial swelling. The colors identify segmented structures from the microscopy data. It is an anatomical reconstruction, not real-time footage of a particle traveling through the blood-brain barrier.",
+      "original_preparation": "Rotation of the 3D model as shown in Figure 3Ea.",
+      "doi": "10.7554/eLife.90565",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 51,
+      "caption": "Rotation of the 3D model as shown in Figure 4B.. Georg Kislinger, Gunar Fabig (2024).",
+      "directly_taught_event": "The selected original reconstruction follows a vascular region across consecutive sections. Endothelium, a pericyte, a platelet, and the basement membrane occupy different positions within the reconstructed volume. The basement membrane is a supporting extracellular layer surrounding the vascular cells.",
+      "original_preparation": "Rotation of the 3D model as shown in Figure 4B.",
+      "doi": "10.7554/eLife.90565",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 53,
+      "caption": "Supplementary Movie 1 (download MP4  ). Adrian, Max (2023).",
+      "directly_taught_event": "The original recording contains raw images, detected growing tips, and their computed tracks. Lipopolysaccharide is a bacterial component used here as a controlled inflammatory stimulus, not evidence that CTE is an infection. The experiment isolates a response to inflammatory signaling in a cellular preparation.",
+      "original_preparation": "Supplementary Movie 1 (download MP4  ) MT+TIP tracking in primary microglial cells Representative MT+TIP imaging in live primary \nmicroglia shown in Fig. 4d. Top panels show control cell and bottom panel shows cell treated \nwith LPS for 24 h prior to imaging. Images were taken at 1 fps for 5 min. Left panels show raw \nimages, middle panels show spot detection of MT+TIPs and right panels show tracks generated \nin TrackMate that were analyzed in Fig. 4e. Time is shown in mm:ss and scale bars are 10\u00b5m.",
+      "doi": "10.1038/s41467-023-41891-6",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 55,
+      "caption": "Supplementary Movie 2 (download MP4  ). Adrian, Max (2023).",
+      "directly_taught_event": "The original recording compares untreated and inflammation-primed cells after nocodazole removal. Growing-tip signals reveal where regrowth begins and how it is organized. This is a different measurement from simply comparing the steady-state shape of two cells before and after inflammatory stimulation.",
+      "original_preparation": "Supplementary Movie 2 (download MP4  ) MT+TIP imaging after nocodazole washout Representative MT+TIP imaging in live primary \nmicroglia immediately after nocodazole washout. Images were taken at 1 fps for 5 min. Left \npanel shows control cells after washout of 1\u00b5M nocodazole applied for 1h. Right panel shows \ncells that were treated with LPS for 16 h before nocodazole washout assay. Time is shown in \nmm:ss and scale bars are 10\u00b5m.",
+      "doi": "10.1038/s41467-023-41891-6",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 57,
+      "caption": "Supplementary Movie 3 (download MP4  ). Adrian, Max (2023).",
+      "directly_taught_event": "The original three-dimensional image stacks preserve those four source conditions. Their changing viewpoint reveals cell shape and volume within the recorded tissue. The display is a reconstruction of stained biological structures, not a live recording of a human CTE lesion developing.",
+      "original_preparation": "Supplementary Movie 3 (download MP4  ) Threedimensional images of microglia in acute brain slices Animation of 3D image stacks shown \nin Fig. 7b. Panels show representative slices in control (top left), LPS-treated (top right), CDKi-\ntreated (bottom left) and LPS + CDKi-treated (bottom right) slices. Scale bar is 30\u00b5m and cell \nvolumes are color coded as indicated between 500 and 5000 \u00b5m3.  \n \nSupplementary Data 1 \nQuantitative Proteomic Results Table containing fold-change values and statistical analysis of \nquantitative proteomics and phospho-proteomics shown throughout this study. Comparisons \nare LPS vs Control, CDKi vs Control and LPS + CDKi vs LPS. To test two-sided null hypothesis of \nno changes in abundance, the model-based test statistics were compared to the Student t-test \ndistribution with the degrees of freedom appropriate for each protein and each dataset. The \nresulting P values were adjusted to control the FDR with the method by Benjamini\u2013 Hochberg. \nFor raw proteomic data, see Data Availability.  \n \nSupplementary Data 2 \nGene Ontology Results Extended Gene Ontology analyses for Fig. 3c, d, h, i and Supplementary \nFig. 5g and list of gene names used for highlighting GO terms in volcano plots in Fig. 3e, f, j, k \nand 6i. P values are derived from Fisher\u2019s exact test and adjusted with Benjamini-Hochberg for \nmultiple hypothesis testing.",
+      "doi": "10.1038/s41467-023-41891-6",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 59,
+      "caption": "Cx3cr1-GFP+ myeloid cell response in control mice after. Lindsay A Hohsfield, Allison (2021).",
+      "directly_taught_event": "The original control recording follows processes extending toward the focal injury. Directed process movement is distinct from the entire cell body migrating to a new location. Both can change a cell's contact with surrounding structures, but they use different patterns of cytoskeletal reorganization.",
+      "original_preparation": "Representative video of Cx3cr1-GFP+ myeloid cell response to laser ablation (1\u20135 s long) captured over a 62 min time period in control mice obtained via two-photon imaging. Each frame captures 30 s of elapsed time.",
+      "doi": "10.7554/eLife.66738",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 61,
+      "caption": "Cx3cr1-GFP+ myeloid cell response in 35\u00a0day recovery mi. Lindsay A Hohsfield, Allison (2021).",
+      "directly_taught_event": "The original recovery recording follows the repopulated cells responding to a focal laser lesion. Comparing it with the control tests a concrete surveillance function after replacement. The study found relatively few differences in several functional outcomes despite persistent molecular differences between the populations.",
+      "original_preparation": "Representative video of Cx3cr1-GFP+ myeloid cell response to laser ablation (1\u20135 s long) captured over a 62-min time period in 35\u00a0day recovery mice obtained via two-photon imaging. Each frame captures 30 s of elapsed time.",
+      "doi": "10.7554/eLife.66738",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 63,
+      "caption": "Microglia phagocytic attempts can be successful or abor. Katrin M\u00f6ller, Max Brambach  (2022).",
+      "directly_taught_event": "The affected populations expressed markers including CUX2 and LAMP5, helping identify which cells were reduced. These markers specify a cellular population rather than proving why those cells were lost. The findings establish selective vulnerability that can be examined alongside vascular and inflammatory changes.",
+      "original_preparation": "Representative microglia (green; Tg(csf1ra:GAL4-VP16; UAS:lyn-tagRFPt)) making successful (left) and aborted (right) phagocytic attempts. Apoptotic neurons are in blue (Tg(nbt:dLexPR-LexOP:secA5-BFP)). Images were acquired every 30 s using single-plane illumination microscopy (SPIM). Timescale is mm:ss.",
+      "doi": "10.7554/eLife.82094",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 65,
+      "caption": "Microglia engulf dead neurons sequentially.. Katrin M\u00f6ller, Max Brambach  (2022).",
+      "directly_taught_event": "Tissue thickness also depends on processes extending between cells and on the surrounding cellular and extracellular environment. The study's analyses suggested tau-related and partly tau-independent contributions to the degenerative measures. Separating the outcomes preserved information about those different routes to altered tissue structure.",
+      "original_preparation": "Time lapse of a representative microglia (grey; Tg(csf1ra:GAL4-VP16; UAS:lyn-tagRFPt)) capturing apoptotic neurons (not labelled) sequentially. Phagocytic events are marked with an asterisk. Images were captured every 30 s for 1,5 hr using single-plane illumination microscopy (SPIM). The original time lapse was deconvolved using Huygens deconvolution. Time scale is hh:mm:ss.",
+      "doi": "10.7554/eLife.82094",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 67,
+      "caption": "The microglia centrosome is motile and moves into phago. Katrin M\u00f6ller, Max Brambach  (2022).",
+      "directly_taught_event": "Iron-related stress programs and tissue iron accumulation accompanied the oligodendrocyte changes. Astrocytes instead showed stronger inflammatory transcription without the same overall numerical change. The data therefore resist a single description in which every support cell is either lost or uniformly activated.",
+      "original_preparation": "Representative microglia (red; Tg(csf1ra:GAL4-VP16; UAS:lyn-tagRFPt)) expressing the centrosome reporter (cyan; Tg(UAS:miRFP670-cetn4)). The microglial centrosome is marked with a circle as centrosomes from surrounding cells can also be seen in the projection. Images were captured every 20 s for 1 hr 40 min using single-plane illumination microscopy (SPIM). The original time lapse was deconvolved using Huygens deconvolution. Time scale is hh:mm:ss.",
+      "doi": "10.7554/eLife.82094",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 69,
+      "caption": "Rab5-positive endosomal cloud is highly dynamic and mov. Katrin M\u00f6ller, Max Brambach  (2022).",
+      "directly_taught_event": "Tau cargo can be examined separately from the machinery that sorts and transports membrane compartments. A vesicle-associated protein may participate in several cellular processes, so its detection does not prove a single spreading mechanism. Establishing transfer requires following movement and testing the receiving cell's response.",
+      "original_preparation": "Time lapse of a representative microglia (grey; Tg(csf1ra:GAL4-VP16; UAS:lyn-tagRFPt)) and Rab5-positive endosomes (magma; UAS:mNeonGreen-Rab5a) showing how endosomes form a cloud that moves into phagocytic branches towards forming phagosomes. Original images were deconvolved using Huygens deconvolution. Images were captured every 15 s for 1 hr. Timescale is hh:mm:ss.",
+      "doi": "10.7554/eLife.82094",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 71,
+      "caption": "Supplementary Video 1 (download MP4  ) MGs react to tis. Klimmt, Julien (2026).",
+      "directly_taught_event": "The original recording follows microglia responding to focal tissue damage within this preparation. The response provides a functional test of the incorporated immune cells. Their presence can therefore be assessed through an observed action as well as through the expression of microglial markers.",
+      "original_preparation": "Supplementary Video 1 (download MP4  ) MGs react to tissue damage in 3BTMs.",
+      "doi": "10.1038/s41593-026-02367-0",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 73,
+      "caption": "Supplementary Video 2 (download MP4  ) 3BTMs show spont. Klimmt, Julien (2026).",
+      "directly_taught_event": "RNA measurements establish transcriptional state, while independent staining measures cell density. Neither directly records the surviving network's electrical activity. Functional experiments are needed to test how altered cell composition changes communication, rather than assuming that every molecular difference has the same circuit consequence.",
+      "original_preparation": "Supplementary Video 2 (download MP4  ) 3BTMs show spontaneous and synchronized activity in calcium imaging.",
+      "doi": "10.1038/s41593-026-02367-0",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 75,
+      "caption": "Supplementary Video 3 (download MP4  ) iMGs have close . Klimmt, Julien (2026).",
+      "directly_taught_event": "A lower synaptic-marker signal can arise through several biological changes. It does not by itself identify which cell removed a synapse or whether the synapse was already failing. Establishing an engulfment mechanism requires direct evidence of the relevant cell collecting identified synaptic material.",
+      "original_preparation": "Supplementary Video 3 (download MP4  ) iMGs have close contact to and engulf synaptic material in 3BTMs.",
+      "doi": "10.1038/s41593-026-02367-0",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 77,
+      "caption": "Supplementary Video 4 (download MP4  ) iMGs actively su. Klimmt, Julien (2026).",
+      "directly_taught_event": "Functional comparisons require a preparation in which the relevant cells can be observed over time. Cell movement, contact duration, and collection of material are separate actions that can be quantified. The human tissue observations identify which populations and states should be examined in those assays.",
+      "original_preparation": "Supplementary Video 4 (download MP4  ) iMGs actively surveil their environment in 3BTMs.",
+      "doi": "10.1038/s41593-026-02367-0",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 79,
+      "caption": "Supplementary Video 5 (download MP4  ) 2D co-cultures s. Klimmt, Julien (2026).",
+      "directly_taught_event": "The original comparison recording follows this two-dimensional activity. The cells are active, so absence of synchrony does not mean that every neuron has stopped functioning. It identifies a particular network property that depends on the preparation and must be considered when interpreting a perturbation.",
+      "original_preparation": "Supplementary Video 5 (download MP4  ) 2D co-cultures show spontaneous activity in calcium imaging, but no synchronization as seen in 3BTMs.",
+      "doi": "10.1038/s41593-026-02367-0",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    }
+  ]
+}
