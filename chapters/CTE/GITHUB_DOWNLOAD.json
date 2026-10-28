@@ -1,0 +1,25 @@
+{
+  "commit": "480d971578077b9d3052582ce0f18173c0f40af5",
+  "anonymous_downloads": [
+    {
+      "file": "Brain_Injury_in_Football_CTE.pptx",
+      "url": "https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/480d971578077b9d3052582ce0f18173c0f40af5/downloads/Brain_Injury_in_Football_CTE.pptx",
+      "status": 206,
+      "magic": "504b0304",
+      "content_range": "bytes 0-3/1295263019",
+      "content_length": "4",
+      "validated_bytes": 1295263019,
+      "anonymous_download_verified": true
+    },
+    {
+      "file": "Brain_Injury_in_Football_CTE_Static.pdf",
+      "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/480d971578077b9d3052582ce0f18173c0f40af5/downloads/Brain_Injury_in_Football_CTE_Static.pdf",
+      "status": 206,
+      "magic": "25504446",
+      "content_range": "bytes 0-3/12865671",
+      "content_length": "4",
+      "validated_bytes": 12865671,
+      "anonymous_download_verified": true
+    }
+  ]
+}

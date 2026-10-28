@@ -1,4 +1,4 @@
-# Special topic: Special Topic: Neurobiology of CTE
+# Brain Injury in Football: Neurobiology of CTE
 
 80 slides: title, 78 teaching slides, and six final key takeaways. There are 31 foundation slides and 47 research slides. All 234 teaching paragraphs pass the actual 5–7-line PDF audit, and the teaching transcripts match. All native slide and note text uses Arial.
 
@@ -8,6 +8,6 @@ All complete recording files decoded without errors. Every selected movie has a 
 
 The clearly labeled static PDF keeps source posters and does not play videos. Presenton companions are also static; the course-built native PPTX is the offline-video deliverable. Arial is the only authored font. No full uploaded textbook PDF is published.
 
-The instructor-authorized special topic defines scope; CTE-specific primary literature supplies the main evidence. Original figures, full citations, and source legends are recorded in lecture.json, sources.json, figure_sources.json, book_crops.json, and media_sources.json. Cross-course source overlap is recorded separately. Cross-chapter method callbacks remain explicitly identified.
+The instructor-authorized special topic defines scope; CTE-specific primary literature supplies the main evidence. Original figures, full citations, and source legends are recorded in lecture.json, sources.json, figure_sources.json, player_images.json, and media_sources.json. Cross-course source overlap is recorded separately. Cross-chapter method callbacks remain explicitly identified.
 
 Generic and course checkers pass. See VALIDATION.json, paragraph_line_check.json, media_embedding_validation.json, media_quality_validation.json, and media_alignment_audit.json.
