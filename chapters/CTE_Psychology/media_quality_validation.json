@@ -1,0 +1,340 @@
+{
+  "recordings": 40,
+  "full_file_decode_passes": 40,
+  "all_original_dimensions_fps_duration_audio_preserved": true,
+  "unaltered_original_mp4_count": 37,
+  "compatibility_conversion_count": 3,
+  "representative_frames_inspected": "10%, 50%, 90% of every recording; original preparation and source legends reviewed",
+  "desktop_powerpoint_playback": "Untested",
+  "results": [
+    {
+      "slide": 2,
+      "source_bytes_retained": false,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true,
+      "source_frames": 7213,
+      "mp4_frames": 7213,
+      "max_relative_timestamp_error_seconds": 0.0003330000000119071
+    },
+    {
+      "slide": 4,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 6,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 8,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 10,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 12,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 14,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 16,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 18,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 20,
+      "source_bytes_retained": false,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true,
+      "source_frames": 5377,
+      "mp4_frames": 5377,
+      "max_relative_timestamp_error_seconds": 0.0003330000000119071
+    },
+    {
+      "slide": 23,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 25,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 27,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 29,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 31,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 33,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 35,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 37,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 39,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 40,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 41,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 43,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 45,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 47,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 49,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 51,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 53,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 55,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 57,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 59,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 61,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 63,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 65,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 67,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 69,
+      "source_bytes_retained": false,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true,
+      "source_frames": 16336,
+      "mp4_frames": 16336,
+      "max_relative_timestamp_error_seconds": 0.000978000000003476
+    },
+    {
+      "slide": 71,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 73,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 75,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 77,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    },
+    {
+      "slide": 79,
+      "source_bytes_retained": true,
+      "native_dimensions_preserved": true,
+      "frame_rate_preserved": true,
+      "full_duration_preserved": true,
+      "audio_presence_preserved": true
+    }
+  ]
+}

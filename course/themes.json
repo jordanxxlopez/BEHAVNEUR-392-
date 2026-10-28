@@ -20,7 +20,8 @@
     "15": "slate rose / paper",
     "18": "storm blue / paper white",
     "19": "clay red / paper white",
-    "801": "gridiron steel / paper"
+    "801": "gridiron steel / paper",
+    "802": "cognitive ink / paper"
   },
   "palettes": {
     "midnight-silver": {
@@ -775,6 +776,19 @@
       "muted": "000000",
       "tint": "F3F5F6",
       "accent": "647481",
+      "rule": "CED6DC"
+    },
+    "cognitive-ink-paper": {
+      "label": "cognitive ink / paper",
+      "title_bg": "FFFFFF",
+      "title_text": "273E50",
+      "title_muted": "000000",
+      "bg": "FFFFFF",
+      "heading": "273E50",
+      "text": "000000",
+      "muted": "000000",
+      "tint": "F3F5F6",
+      "accent": "607789",
       "rule": "CED6DC"
     }
   }

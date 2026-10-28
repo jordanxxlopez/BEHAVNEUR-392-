@@ -1,0 +1,52 @@
+{
+  "slides": 80,
+  "teaching_slides": 78,
+  "teaching_paragraphs": 234,
+  "paragraphs_passing_actual_line_audit": 234,
+  "roles": {
+    "foundation": 31,
+    "research": 47
+  },
+  "fonts": [
+    "Arial"
+  ],
+  "notes_slides": 80,
+  "pdf_pages": 80,
+  "embedded_recordings": 40,
+  "media_purposes": {
+    "academic": 20,
+    "aesthetic": 20
+  },
+  "recordings_per_quarter": [
+    10,
+    10,
+    10,
+    10
+  ],
+  "maximum_unrecorded_content_gap": 2,
+  "recordings_in_final_ten_content": 5,
+  "source_hashes_and_internal_relationships_verified": true,
+  "full_file_decodes_passed": 40,
+  "unaltered_publisher_mp4s": 37,
+  "compatibility_conversions": 3,
+  "desktop_powerpoint_playback": "Untested",
+  "layout": "Established course layout: upper figure zone 5.7 \u00d7 1.8 inches; enlarged lower video zone 5.7 \u00d7 2.65 inches; aspect ratios retained; inline playback configured.",
+  "pptx_sha256": "0104aa58cb091de2c85b9e366cd84e39f08d1eea84b2456f527d10af1ff0783a",
+  "static_pdf_sha256": "9f8854cd90a05af2b5ac072e8438df5668cd5dff5cc65e1d5c34b3230398a96d",
+  "pptx_bytes": 1144046257,
+  "static_pdf_bytes": 8630260,
+  "checks": {
+    "generic": {
+      "exit_code": 0,
+      "output": "80 slides, 78 image slides (78 article-figure, 65 in color), 0 failures, 0 warnings\n"
+    },
+    "course": {
+      "exit_code": 0,
+      "output": "0 course-specific failures.\n"
+    }
+  },
+  "content_source_image_kinds": {
+    "article": 70,
+    "web": 8
+  }
+}

@@ -43,3 +43,13 @@ Earlier corrected downloads remain on the chapter-16-17-downloads branch.
 - [Download the static CTE PDF](https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/cte-football-downloads/downloads/Brain_Injury_in_Football_CTE_Static.pdf).
 
 The PDF shows posters and cannot play recordings. Native PowerPoint media relationships, original file hashes, full-file decodes, and timing were checked; desktop PowerPoint playback remains untested. Chapters 16–19 retain their previously delivered files.
+
+
+## New standalone lecture: Football, Memory, and Mental Health
+
+80 slides focused on psychological changes, cognitive testing, brain imaging, and CTE. The lecture discusses Mike Webster, Junior Seau, Ken Stabler, Frank Gifford, Nick Buoniconti, Brett Favre, Jim McMahon, and Joe Namath using credited photos and public records. Individual histories are distinguished from tissue diagnoses and larger cohort findings.
+
+- [Download the new editable PowerPoint with 40 offline videos](https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/football-psychology-lecture/downloads/Football_Memory_Mental_Health_and_CTE.pptx) (about 1.14 GB).
+- [Download the new static PDF](https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/football-psychology-lecture/downloads/Football_Memory_Mental_Health_and_CTE_Static.pdf).
+
+Recordings use an enlarged 5.7 × 2.65 inch zone, retain source aspect ratios, and have inline playback configured. The static PDF retains posters and cannot play videos. All 234 teaching paragraphs passed the actual rendered line audit. Desktop PowerPoint playback remains untested. The first CTE neurobiology lecture and Chapters 16–19 are preserved.
