@@ -1,5 +1,35 @@
-# Offline PowerPoint downloads
+# Chapter downloads
 
-Each PowerPoint contains 80 slides and 40 embedded videos. Download and open in desktop PowerPoint; click a video during Slide Show. No internet connection is required for the embedded recordings. Desktop playback remains untested.
+The native PowerPoints contain the offline videos. The PDFs and Presenton companions are static.
 
-The revised layout matches Chapters 1–15: figures above large inline video panels. Figures fit a 5.70 by 2.30 inch zone and videos fit a 5.70 by 2.10 inch zone. All original slide text, notes, figures, recordings, and source credits are preserved. The videos occupy at least twelve times their former thumbnail area. Rendered paragraph, source-hash, media-relationship, and course checks pass.
+## Chapter 18: Stress and Anxiety Disorders
+
+**80 slides, 40 embedded recordings.** [Download the offline-video PPTX](https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/chapter-18-19-downloads/downloads/Chapter_18_Stress_and_Anxiety_Disorders.pptx) · [Static PDF preview](https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/chapter-18-19-downloads/downloads/Chapter_18_Stress_and_Anxiety_Disorders_Static_Preview.pdf)
+
+Title: When Threat Persists: Stress, Anxiety, and Recovery
+
+Design: established course layout, Arial, original figures above large video frames. References: assigned Carlson and Birkett chapter and original primary studies; see the chapter source manifests.
+
+Presenton static companions: [PPTX](https://api.presenton.ai/s/GdBwgoWZ6Au4NePpMjH2uNgeEkChVBh8) · [PDF](https://api.presenton.ai/s/ABbjIeEp8fW2c3fUXuga4GgVu8fcu-91) · [PNG](https://api.presenton.ai/s/1pDvQrui0j6BbUwdm_NC8MJqNqXdVbNB) · [Shareable preview](https://presenton.ai/presentation-preview?t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiaHRtbC10by1hbnktcHJldmlldyIsImh0bWxfdG9fYW55X2NyZWF0aW9uIjoyMzE1MSwiZXhwIjoxNzkzMjUzNDI5fQ.4GSXP3iS1wyREbO3peA41wVeCdDCNjoU-yVRdmaY9ss) (expires after 24 hours).
+
+Fonts: Arial in all requested Presenton PPTX, PDF and PNG exports. No web font import is used. No API response messages were returned.
+
+[Validation](../chapters/C18/VALIDATION.json) · [Recording index](../chapters/C18/RECORDING_INDEX.md) · [Sources](../chapters/C18/PAPERS.md)
+
+## Chapter 19: Substance Abuse
+
+**80 slides, 40 embedded recordings.** [Download the offline-video PPTX](https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/chapter-18-19-downloads/downloads/Chapter_19_Substance_Abuse.pptx) · [Static PDF preview](https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/chapter-18-19-downloads/downloads/Chapter_19_Substance_Abuse_Static_Preview.pdf)
+
+Title: From Reward to Compulsion: Drugs, Learning, and Recovery
+
+Design: established course layout, Arial, original figures above large video frames. References: assigned Carlson and Birkett chapter and original primary studies; see the chapter source manifests.
+
+Presenton static companions: [PPTX](https://api.presenton.ai/s/zaiRqO7-dwkI1L3vKteqNrJ8aif6TrOB) · [PDF](https://api.presenton.ai/s/DkMyJBI15Jb8UU1dz1SRPfiBCgo92Arc) · [PNG](https://api.presenton.ai/s/sE5AqLgBnGqO1kHWWUe4zxCCH08tetFK) · [Shareable preview](https://presenton.ai/presentation-preview?t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiaHRtbC10by1hbnktcHJldmlldyIsImh0bWxfdG9fYW55X2NyZWF0aW9uIjoyMzE1NCwiZXhwIjoxNzkzMjUzNTA5fQ.AqPnPYrwvzw-zjevXdX05RYR1grTvuAjwM49os3Wwa8) (expires after 24 hours).
+
+Fonts: Arial in all requested Presenton PPTX, PDF and PNG exports. No web font import is used. No API response messages were returned.
+
+[Validation](../chapters/C19/VALIDATION.json) · [Recording index](../chapters/C19/RECORDING_INDEX.md) · [Sources](../chapters/C19/PAPERS.md)
+
+Desktop PowerPoint playback remains untested. Full source PDFs are excluded. Native media relationships, hashes, complete decodes, duration, dimensions, timing, and the required recording distribution pass. All 234 teaching paragraphs per chapter pass the actual five-to-seven-line render audit.
+
+Earlier corrected downloads remain on the chapter-16-17-downloads branch.

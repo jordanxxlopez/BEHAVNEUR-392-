@@ -2,7 +2,7 @@
   "course": "BEHAVIORAL NEUROSCIENCE 392",
   "instructor": "Jordan Lopez, Ph.D.",
   "instructor_title": "Professor of Neurobiology & Biomedical Engineering",
-  "_note": "Instructor-approved descriptive lecture titles are preserved exactly. The first deck covers the verified Introduction chapter. Fall 2026 is the session’s teaching semester, not an invented meeting date. Future chapter titles await verification.",
+  "_note": "Instructor-approved descriptive lecture titles are preserved exactly. The first deck covers the verified Introduction chapter. Fall 2026 is the session\u2019s teaching semester, not an invented meeting date. Future chapter titles await verification.",
   "lectures": [
     {
       "n": 1,
@@ -11,8 +11,8 @@
       "verified": true,
       "book_chapter_title": "Introduction",
       "display_title_authorized": true,
-      "textbook_printed_pages": "15–34",
-      "book_scope_verified_from": "Uploaded Part1of6 PDF, PDF pages 16–35"
+      "textbook_printed_pages": "15\u201334",
+      "book_scope_verified_from": "Uploaded Part1of6 PDF, PDF pages 16\u201335"
     },
     {
       "n": 2,
@@ -22,8 +22,8 @@
       "book_chapter_title": "Structure and Functions of Cells of the Nervous System",
       "display_title_authorized": true,
       "display_title_authorization": "Instructor requested a descriptive improved title; title selected for this lecture.",
-      "textbook_printed_pages": "36–67",
-      "book_scope_verified_from": "Reattached Part1of6 PDF, PDF pages 37–68; contents PDF page 6."
+      "textbook_printed_pages": "36\u201367",
+      "book_scope_verified_from": "Reattached Part1of6 PDF, PDF pages 37\u201368; contents PDF page 6."
     },
     {
       "n": 3,
@@ -33,8 +33,8 @@
       "book_chapter_title": "Structure of the Nervous System",
       "display_title_authorized": true,
       "display_title_authorization": "Instructor requested a newly descriptive title for the next chapter.",
-      "textbook_printed_pages": "68–90",
-      "book_scope_verified_from": "Uploaded Part1of6, PDF pages 69–81 and Part2of6, PDF pages 1–10. Chapter 4 begins printed page 91, Part2 PDF page 11."
+      "textbook_printed_pages": "68\u201390",
+      "book_scope_verified_from": "Uploaded Part1of6, PDF pages 69\u201381 and Part2of6, PDF pages 1\u201310. Chapter 4 begins printed page 91, Part2 PDF page 11."
     },
     {
       "n": 4,
@@ -44,8 +44,8 @@
       "book_chapter_title": "Psychopharmacology and Neurotransmitters",
       "display_title_authorized": true,
       "display_title_authorization": "Instructor requested a descriptive new name for Chapter 4.",
-      "textbook_printed_pages": "91–118",
-      "book_scope_verified_from": "Uploaded Part2of6, PDF pages 11–38; Chapter 5 begins printed p. 119, PDF page 39."
+      "textbook_printed_pages": "91\u2013118",
+      "book_scope_verified_from": "Uploaded Part2of6, PDF pages 11\u201338; Chapter 5 begins printed p. 119, PDF page 39."
     },
     {
       "n": 5,
@@ -54,9 +54,9 @@
       "verified": true,
       "book_chapter_title": "Methods and Strategies of Research",
       "display_title_authorized": true,
-      "display_title_authorization": "Instructor requested a descriptive renamed Chapter 5 emphasizing neuroengineering and newer methods, with 80–90 total slides.",
-      "textbook_printed_pages": "119–152",
-      "book_scope_verified_from": "Uploaded Part2of6 PDF pages 39–72. Chapter 6 begins printed p.153, PDF page73."
+      "display_title_authorization": "Instructor requested a descriptive renamed Chapter 5 emphasizing neuroengineering and newer methods, with 80\u201390 total slides.",
+      "textbook_printed_pages": "119\u2013152",
+      "book_scope_verified_from": "Uploaded Part2of6 PDF pages 39\u201372. Chapter 6 begins printed p.153, PDF page73."
     },
     {
       "n": 6,
@@ -65,9 +65,9 @@
       "verified": true,
       "book_chapter_title": "Vision",
       "display_title_authorized": true,
-      "display_title_authorization": "Instructor requests a descriptive renamed Chapter 6; explicitly expanded to 85–90 slides with illusions and plasticity.",
-      "textbook_printed_pages": "153–190",
-      "book_scope_verified_from": "Uploaded Part2of6 PDF pages73–92 and Part3of6 PDF pages1–18; chapter7 begins printed191."
+      "display_title_authorization": "Instructor requests a descriptive renamed Chapter 6; explicitly expanded to 85\u201390 slides with illusions and plasticity.",
+      "textbook_printed_pages": "153\u2013190",
+      "book_scope_verified_from": "Uploaded Part2of6 PDF pages73\u201392 and Part3of6 PDF pages1\u201318; chapter7 begins printed191."
     },
     {
       "n": 7,
@@ -77,8 +77,8 @@
       "book_chapter_title": "Audition, the Body Senses, and the Chemical Senses",
       "display_title_authorized": true,
       "display_title_authorization": "Instructor requested separate audition and body/chemical senses lectures; this is the 75-slide nonauditory lecture.",
-      "textbook_printed_pages": "210–234",
-      "book_scope_verified_from": "Reattached Part3of6, PDF pp. 38–62; Chapter 7 begins printed p.191, and Chapter 8 begins p.235. Audition pp.193–209 excluded.",
+      "textbook_printed_pages": "210\u2013234",
+      "book_scope_verified_from": "Reattached Part3of6, PDF pp. 38\u201362; Chapter 7 begins printed p.191, and Chapter 8 begins p.235. Audition pp.193\u2013209 excluded.",
       "auditory_lecture_status": "Separate peripheral Audition I in chapters/C07/Audition1 and central Audition II in chapters/C07_Audition2."
     },
     {
@@ -90,8 +90,8 @@
       "book_chapter_title": "Control of Movement",
       "display_title_authorized": true,
       "display_title_authorization": "Instructor requested Chapter 8, Control of Movement, in 75 slides with a descriptive title.",
-      "textbook_printed_pages": "235–265",
-      "book_scope_verified_from": "Uploaded Part3of6 PDF pp.63–78 and Part4of6 PDF pp.1–15; Chapter 9 begins Part4of6 PDF p.16, printed p.266."
+      "textbook_printed_pages": "235\u2013265",
+      "book_scope_verified_from": "Uploaded Part3of6 PDF pp.63\u201378 and Part4of6 PDF pp.1\u201315; Chapter 9 begins Part4of6 PDF p.16, printed p.266."
     },
     {
       "n": 9,
@@ -99,10 +99,10 @@
       "title": "The Rhythmic Brain: Why We Sleep and How the Body Keeps Time",
       "verified": true,
       "book_chapter_title": "Sleep and Biological Rhythms",
-      "textbook_printed_pages": "266–300",
-      "book_scope_verified_from": "Uploaded Physiology of Behavior, Global Edition, 13th edition, Part4of6, PDF pp.16–50. Chapter 10 begins printed p.301 on PDF p.51.",
+      "textbook_printed_pages": "266\u2013300",
+      "book_scope_verified_from": "Uploaded Physiology of Behavior, Global Edition, 13th edition, Part4of6, PDF pp.16\u201350. Chapter 10 begins printed p.301 on PDF p.51.",
       "display_title_authorized": true,
-      "display_title_authorization": "Instructor requested Chapter 9 with a descriptive title, established course guidelines, and 80–90 slides.",
+      "display_title_authorization": "Instructor requested Chapter 9 with a descriptive title, established course guidelines, and 80\u201390 slides.",
       "status": "Complete: 86 slides, 40 embedded recordings, validated editable PPTX and static PDF."
     },
     {
@@ -114,8 +114,8 @@
       "book_chapter_title": "Reproductive and Parental Behavior",
       "display_title_authorized": true,
       "display_title_authorization": "Instructor requested separate Chapter 10 and Chapter 11 lectures, exactly 80 slides each, with separate editable PowerPoint files.",
-      "textbook_printed_pages": "301–336",
-      "book_scope_verified_from": "Uploaded Physiology of Behavior Part4of6, PDF pp.51–86"
+      "textbook_printed_pages": "301\u2013336",
+      "book_scope_verified_from": "Uploaded Physiology of Behavior Part4of6, PDF pp.51\u201386"
     },
     {
       "n": 11,
@@ -126,8 +126,8 @@
       "book_chapter_title": "Emotion",
       "display_title_authorized": true,
       "display_title_authorization": "Instructor requested separate Chapter 10 and Chapter 11 lectures, exactly 80 slides each, with separate editable PowerPoint files.",
-      "textbook_printed_pages": "337–374",
-      "book_scope_verified_from": "Uploaded Physiology of Behavior Part4of6, PDF pp.87–124"
+      "textbook_printed_pages": "337\u2013374",
+      "book_scope_verified_from": "Uploaded Physiology of Behavior Part4of6, PDF pp.87\u2013124"
     },
     {
       "n": 12,
@@ -138,8 +138,8 @@
       "book_chapter_title": "Ingestive Behavior",
       "display_title_authorized": true,
       "display_title_authorization": "Instructor requested Chapters 12 and 13 separately, continuing the preceding separate 80-slide lecture format.",
-      "textbook_printed_pages": "375–413",
-      "book_scope_verified_from": "Uploaded Physiology of Behavior Part4of6, PDF pp.125–163"
+      "textbook_printed_pages": "375\u2013413",
+      "book_scope_verified_from": "Uploaded Physiology of Behavior Part4of6, PDF pp.125\u2013163"
     },
     {
       "n": 13,
@@ -150,8 +150,8 @@
       "book_chapter_title": "Learning and Memory",
       "display_title_authorized": true,
       "display_title_authorization": "Instructor requested Chapters 12 and 13 separately, continuing the preceding separate 80-slide lecture format.",
-      "textbook_printed_pages": "414–455",
-      "book_scope_verified_from": "Uploaded Physiology of Behavior Part5of6, PDF pp.1–42"
+      "textbook_printed_pages": "414\u2013455",
+      "book_scope_verified_from": "Uploaded Physiology of Behavior Part5of6, PDF pp.1\u201342"
     },
     {
       "n": 14,
@@ -162,8 +162,8 @@
       "book_chapter_title": "Human Communication",
       "display_title_authorized": true,
       "display_title_authorization": "Instructor requested separate Chapters 14 and 15, exactly 80 total slides each.",
-      "textbook_printed_pages": "456–490",
-      "book_scope_verified_from": "Uploaded Physiology of Behavior Part5of6, PDF pp.43–77"
+      "textbook_printed_pages": "456\u2013490",
+      "book_scope_verified_from": "Uploaded Physiology of Behavior Part5of6, PDF pp.43\u201377"
     },
     {
       "n": 15,
@@ -174,8 +174,8 @@
       "book_chapter_title": "The Developing Nervous System",
       "display_title_authorized": true,
       "display_title_authorization": "Instructor requested separate Chapters 14 and 15, exactly 80 total slides each.",
-      "textbook_printed_pages": "491–511",
-      "book_scope_verified_from": "Uploaded Physiology of Behavior Part5of6, PDF pp.78–98"
+      "textbook_printed_pages": "491\u2013511",
+      "book_scope_verified_from": "Uploaded Physiology of Behavior Part5of6, PDF pp.78\u201398"
     },
     {
       "n": 16,
@@ -191,15 +191,27 @@
     },
     {
       "n": 18,
-      "date": "Date TBD",
-      "title": "Chapter 18: TITLE PENDING TEXTBOOK VERIFICATION",
-      "verified": false
+      "date": "Fall 2026",
+      "title": "When Threat Persists: Stress, Anxiety, and Recovery",
+      "verified": true,
+      "book_chapter": 18,
+      "book_chapter_title": "Stress and Anxiety Disorders",
+      "display_title_authorized": true,
+      "display_title_authorization": "Instructor requested the same rules as Chapters 16 and 17: separate 80-slide decks.",
+      "textbook_printed_pages": "580\u2013603",
+      "book_scope_verified_from": "Uploaded Part6of6 PDF pp.60\u201383"
     },
     {
       "n": 19,
-      "date": "Date TBD",
-      "title": "Chapter 19: TITLE PENDING TEXTBOOK VERIFICATION",
-      "verified": false
+      "date": "Fall 2026",
+      "title": "From Reward to Compulsion: Drugs, Learning, and Recovery",
+      "verified": true,
+      "book_chapter": 19,
+      "book_chapter_title": "Substance Abuse",
+      "display_title_authorized": true,
+      "display_title_authorization": "Instructor requested the same rules as Chapters 16 and 17: separate 80-slide decks.",
+      "textbook_printed_pages": "604\u2013635",
+      "book_scope_verified_from": "Uploaded Part6of6 PDF pp.84\u2013115"
     }
   ],
   "special_topics": [
@@ -213,8 +225,8 @@
       "book_chapter_title": "Audition, the Body Senses, and the Chemical Senses",
       "display_title_authorized": true,
       "display_title_authorization": "Instructor requested an 80-slide peripheral auditory lecture, with a few regeneration/translation slides, and a separate central auditory Part II later.",
-      "textbook_printed_pages": "193–197; selected peripheral material 200–202",
-      "book_scope_verified_from": "Uploaded Physiology of Behavior Part3of6, PDF pp.21–25 and selected cochlear material pp.28–30; central figures 7.7,7.9 and cortical portion of 7.8 excluded."
+      "textbook_printed_pages": "193\u2013197; selected peripheral material 200\u2013202",
+      "book_scope_verified_from": "Uploaded Physiology of Behavior Part3of6, PDF pp.21\u201325 and selected cochlear material pp.28\u201330; central figures 7.7,7.9 and cortical portion of 7.8 excluded."
     },
     {
       "n": 702,
@@ -225,10 +237,10 @@
       "book_chapter_title": "Audition, the Body Senses, and the Chemical Senses",
       "audition_part": 2,
       "planned_total_slides": 100,
-      "textbook_scope": "Central auditory pathway and cortex pp.197–200; central interpretation, localization, speech, and music pp.202–209. Peripheral mechanics and transduction excluded.",
+      "textbook_scope": "Central auditory pathway and cortex pp.197\u2013200; central interpretation, localization, speech, and music pp.202\u2013209. Peripheral mechanics and transduction excluded.",
       "display_title_authorized": true,
       "status": "Completed: 100 total slides, 98 teaching slides, and 50 embedded recordings in chapters/C07_Audition2.",
-      "book_scope_verified_from": "Uploaded Physiology of Behavior Part3of6, central auditory text and source figures on PDF pp.25–28 and 30–37; printed pp.197–200 and 202–209.",
+      "book_scope_verified_from": "Uploaded Physiology of Behavior Part3of6, central auditory text and source figures on PDF pp.25\u201328 and 30\u201337; printed pp.197\u2013200 and 202\u2013209.",
       "display_title_authorization": "Instructor requested a descriptive title and a separate 100-slide central auditory lecture with 50 embedded videos, behavioral and cognitive neuroscience, music, and Brain and Creativity Institute studies."
     }
   ]

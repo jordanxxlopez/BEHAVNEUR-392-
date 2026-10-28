@@ -1,0 +1,317 @@
+{
+  "title_cb1": {
+    "path": "figures/book_title_cb1.png",
+    "pdf_page": 84,
+    "printed_page": 604,
+    "crop_tool_box": [
+      0.10524243222112241,
+      0.2180490782202744,
+      0.6649997649372489,
+      0.5172808629477896
+    ],
+    "part": 6,
+    "isbn": "9781292430256",
+    "figure_id": "Chapter opener",
+    "intended_cropbox_fractions": [
+      0.055,
+      0.19,
+      0.686,
+      0.519
+    ],
+    "coordinate_reference": "MediaBox fractions passed to tools/crop_figure.py; inspected CropBox fractions retained separately."
+  },
+  "19_1": {
+    "path": "figures/book_19_1.png",
+    "pdf_page": 88,
+    "printed_page": 608,
+    "crop_tool_box": [
+      0.10524243222112241,
+      0.7046417980659299,
+      0.46008067799996644,
+      0.9138311916444359
+    ],
+    "part": 6,
+    "isbn": "9781292430256",
+    "figure_id": "19.1",
+    "intended_cropbox_fractions": [
+      0.055,
+      0.725,
+      0.455,
+      0.955
+    ],
+    "coordinate_reference": "MediaBox fractions passed to tools/crop_figure.py; inspected CropBox fractions retained separately."
+  },
+  "19_2": {
+    "path": "figures/book_19_2.png",
+    "pdf_page": 89,
+    "printed_page": 609,
+    "crop_tool_box": [
+      0.26935512089383773,
+      0.578218642816311,
+      0.8016124895621036,
+      0.9183787871570123
+    ],
+    "part": 6,
+    "isbn": "9781292430256",
+    "figure_id": "19.2",
+    "intended_cropbox_fractions": [
+      0.24,
+      0.586,
+      0.84,
+      0.96
+    ],
+    "coordinate_reference": "MediaBox fractions passed to tools/crop_figure.py; inspected CropBox fractions retained separately."
+  },
+  "19_7": {
+    "path": "figures/book_19_7.png",
+    "pdf_page": 94,
+    "printed_page": 614,
+    "crop_tool_box": [
+      0.49999998065008633,
+      0.24533465129573173,
+      0.8406446965977765,
+      0.43269558641387196
+    ],
+    "part": 6,
+    "isbn": "9781292430256",
+    "figure_id": "19.7",
+    "intended_cropbox_fractions": [
+      0.5,
+      0.22,
+      0.884,
+      0.426
+    ],
+    "coordinate_reference": "MediaBox fractions passed to tools/crop_figure.py; inspected CropBox fractions retained separately."
+  },
+  "19_11": {
+    "path": "figures/book_19_11.png",
+    "pdf_page": 97,
+    "printed_page": 617,
+    "crop_tool_box": [
+      0.10967791029335795,
+      0.6664419957602897,
+      0.8548382264289304,
+      0.9411167647198933
+    ],
+    "part": 6,
+    "isbn": "9781292430256",
+    "figure_id": "19.11",
+    "intended_cropbox_fractions": [
+      0.06,
+      0.683,
+      0.9,
+      0.985
+    ],
+    "coordinate_reference": "MediaBox fractions passed to tools/crop_figure.py; inspected CropBox fractions retained separately."
+  },
+  "19_12": {
+    "path": "figures/book_19_12.png",
+    "pdf_page": 99,
+    "printed_page": 619,
+    "crop_tool_box": [
+      0.2560486866771311,
+      0.6518896901200457,
+      0.7954028202609739,
+      0.9138311916444359
+    ],
+    "part": 6,
+    "isbn": "9781292430256",
+    "figure_id": "19.12",
+    "intended_cropbox_fractions": [
+      0.225,
+      0.667,
+      0.833,
+      0.955
+    ],
+    "coordinate_reference": "MediaBox fractions passed to tools/crop_figure.py; inspected CropBox fractions retained separately."
+  },
+  "19_14": {
+    "path": "figures/book_19_14.png",
+    "pdf_page": 101,
+    "printed_page": 621,
+    "crop_tool_box": [
+      0.5354838052279708,
+      0.25897743783346033,
+      0.8903220510068147,
+      0.41359568526105184
+    ],
+    "part": 6,
+    "isbn": "9781292430256",
+    "figure_id": "19.14",
+    "intended_cropbox_fractions": [
+      0.54,
+      0.235,
+      0.94,
+      0.405
+    ],
+    "coordinate_reference": "MediaBox fractions passed to tools/crop_figure.py; inspected CropBox fractions retained separately."
+  },
+  "19_18": {
+    "path": "figures/book_19_18.png",
+    "pdf_page": 104,
+    "printed_page": 624,
+    "crop_tool_box": [
+      0.5354838052279708,
+      0.39540530321074696,
+      0.8459672702844593,
+      0.6136898878144055
+    ],
+    "part": 6,
+    "isbn": "9781292430256",
+    "figure_id": "19.18",
+    "intended_cropbox_fractions": [
+      0.54,
+      0.385,
+      0.89,
+      0.625
+    ],
+    "coordinate_reference": "MediaBox fractions passed to tools/crop_figure.py; inspected CropBox fractions retained separately."
+  },
+  "19_20": {
+    "path": "figures/book_19_20.png",
+    "pdf_page": 106,
+    "printed_page": 626,
+    "crop_tool_box": [
+      0.13629077872677126,
+      0.12709716796875,
+      0.8104834457065747,
+      0.3781244402629573
+    ],
+    "part": 6,
+    "isbn": "9781292430256",
+    "figure_id": "19.20",
+    "intended_cropbox_fractions": [
+      0.09,
+      0.09,
+      0.85,
+      0.366
+    ],
+    "coordinate_reference": "MediaBox fractions passed to tools/crop_figure.py; inspected CropBox fractions retained separately."
+  },
+  "19_26": {
+    "path": "figures/book_19_26.png",
+    "pdf_page": 113,
+    "printed_page": 633,
+    "crop_tool_box": [
+      0.5310483271557352,
+      0.7410225621665396,
+      0.8903220510068147,
+      0.9183787871570123
+    ],
+    "part": 6,
+    "isbn": "9781292430256",
+    "figure_id": "19.26",
+    "intended_cropbox_fractions": [
+      0.535,
+      0.765,
+      0.94,
+      0.96
+    ],
+    "coordinate_reference": "MediaBox fractions passed to tools/crop_figure.py; inspected CropBox fractions retained separately."
+  },
+  "19_27": {
+    "path": "figures/book_19_27.png",
+    "pdf_page": 114,
+    "printed_page": 634,
+    "crop_tool_box": [
+      0.4911290245056152,
+      0.19531110065739332,
+      0.8548382264289304,
+      0.6773562249904725
+    ],
+    "part": 6,
+    "isbn": "9781292430256",
+    "figure_id": "19.27",
+    "intended_cropbox_fractions": [
+      0.49,
+      0.165,
+      0.9,
+      0.695
+    ],
+    "coordinate_reference": "MediaBox fractions passed to tools/crop_figure.py; inspected CropBox fractions retained separately."
+  },
+  "19_10": {
+    "path": "figures/book_19_10.png",
+    "pdf_page": 96,
+    "printed_page": 616,
+    "crop_tool_box": [
+      0.48669354643337964,
+      0.7455701576791159,
+      0.8459672702844593,
+      0.9211073444645579
+    ],
+    "part": 6,
+    "isbn": "9781292430256",
+    "figure_id": "19.10",
+    "intended_cropbox_fractions": [
+      0.485,
+      0.77,
+      0.89,
+      0.963
+    ],
+    "coordinate_reference": "MediaBox fractions passed to tools/crop_figure.py; inspected CropBox fractions retained separately."
+  },
+  "19_16": {
+    "path": "figures/book_19_16.png",
+    "pdf_page": 103,
+    "printed_page": 623,
+    "crop_tool_box": [
+      0.15403269101571346,
+      0.21713955911775915,
+      0.5088709367945574,
+      0.41814328077362806
+    ],
+    "part": 6,
+    "isbn": "9781292430256",
+    "figure_id": "19.16",
+    "intended_cropbox_fractions": [
+      0.11,
+      0.189,
+      0.51,
+      0.41
+    ],
+    "coordinate_reference": "MediaBox fractions passed to tools/crop_figure.py; inspected CropBox fractions retained separately."
+  },
+  "19_17": {
+    "path": "figures/book_19_17.png",
+    "pdf_page": 103,
+    "printed_page": 623,
+    "crop_tool_box": [
+      0.5354838052279708,
+      0.21713955911775915,
+      0.8903220510068147,
+      0.4527050066692073
+    ],
+    "part": 6,
+    "isbn": "9781292430256",
+    "figure_id": "19.17",
+    "intended_cropbox_fractions": [
+      0.54,
+      0.189,
+      0.94,
+      0.448
+    ],
+    "coordinate_reference": "MediaBox fractions passed to tools/crop_figure.py; inspected CropBox fractions retained separately."
+  },
+  "19_25": {
+    "path": "figures/book_19_25.png",
+    "pdf_page": 111,
+    "printed_page": 631,
+    "crop_tool_box": [
+      0.5354838052279708,
+      0.22987282655297256,
+      0.8903220510068147,
+      0.39540530321074696
+    ],
+    "part": 6,
+    "isbn": "9781292430256",
+    "figure_id": "19.25",
+    "intended_cropbox_fractions": [
+      0.54,
+      0.203,
+      0.94,
+      0.385
+    ],
+    "coordinate_reference": "MediaBox fractions passed to tools/crop_figure.py; inspected CropBox fractions retained separately."
+  }
+}

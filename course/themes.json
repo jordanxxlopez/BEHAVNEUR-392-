@@ -17,7 +17,9 @@
     "12": "stone brown / porcelain",
     "13": "blue gray / chalk",
     "14": "deep ocean steel / white paper",
-    "15": "slate rose / paper"
+    "15": "slate rose / paper",
+    "18": "storm blue / paper white",
+    "19": "clay red / paper white"
   },
   "palettes": {
     "midnight-silver": {
@@ -734,6 +736,32 @@
       "tint": "F5F0F2",
       "accent": "795765",
       "rule": "DCCFD5"
+    },
+    "storm-blue-paper": {
+      "label": "storm / blue / paper",
+      "title_bg": "FFFFFF",
+      "title_text": "354D65",
+      "title_muted": "000000",
+      "bg": "FFFFFF",
+      "heading": "354D65",
+      "text": "000000",
+      "muted": "000000",
+      "tint": "F3F5F6",
+      "accent": "627B94",
+      "rule": "CED6DC"
+    },
+    "clay-red-paper": {
+      "label": "clay / red / paper",
+      "title_bg": "FFFFFF",
+      "title_text": "69464A",
+      "title_muted": "000000",
+      "bg": "FFFFFF",
+      "heading": "69464A",
+      "text": "000000",
+      "muted": "000000",
+      "tint": "F3F5F6",
+      "accent": "916B70",
+      "rule": "CED6DC"
     }
   }
 }

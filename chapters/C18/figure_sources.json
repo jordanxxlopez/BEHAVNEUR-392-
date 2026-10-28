@@ -1,0 +1,1577 @@
+{
+  "ncomms11937:1": {
+    "path": "figures/ncomms11937_fig1.jpg",
+    "number": 1,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fncomms11937/MediaObjects/41467_2016_Article_BFncomms11937_Fig1_HTML.jpg",
+    "doi": "10.1038/ncomms11937",
+    "legend": "Distinct and temporally organized behavioural patterns emerge following stress. ( a ) Quantification of behavioural activity in 15-min epochs in homecage (HC) of na\u00efve mice and mice immediately after footshock. Eight distinct behaviours are evident in na\u00efve (N, left) and stressed (S, right) mice. Each row represents one mouse. ( b ) Grooming (na\u00efve: 124.8\u00b133.2\u2009s,  n =9 versus stressed: 294.0\u00b133.4\u2009s,  n =9;  P =0.0024;  t -test), rearing (na\u00efve: 19.7\u00b14.8\u2009s,  n =9 versus stressed: 64.7\u00b110.0\u2009s,  n =9;  P =0.0012;  t -test) and walking (na\u00efve: 76.4\u00b114.2\u2009s,  n =9 versus stressed: 171.4\u00b127.0\u2009s,  n =9;  P =0.0067;  t -test) are increased after stress. Time spent digging (na\u00efve: 122.5\u00b128.9\u2009s,  n =9 versus stressed: 7.5\u00b15.0\u2009s,  n =9;  P =0.0012;  t -test) and chewing (na\u00efve: 61.5\u00b121.1\u2009s,  n =9 versus stressed: 14.0\u00b17.4\u2009s,  n =9;  P =0.0492;  t -test) are decreased. Surveying (na\u00efve: 369.9\u00b165.1\u2009s,  n =9 versus stressed: 282.8\u00b131.6\u2009s,  n =9;  P =0.2463;  t -test), sleeping (na\u00efve: 124.3\u00b185.3\u2009s,  n =9 versus stressed: 59.5\u00b144.4\u2009s,  n =9;  P =0.5096;  t -test) and freezing (na\u00efve: 0.6\u00b10.6\u2009s,  n =9 versus stressed: 2.6\u00b11.6\u2009s,  n =9;  P =0.2541;  t -test) are unaffected. ( c \u2013 h ) Percentage of animals exhibiting stated behaviour at each timepoint and cumulative graphs illustrating the relative extent of grooming ( c , d ), rearing ( e , f ) and walking ( g , h ). Scale bars:  c \u2013 h , 20%; NS, not significant; * P <0.05; ** P <0.01; Error bars\u00b1s.e.m.",
+    "year": "2016",
+    "license": "Copyright \u00a9 2016, Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved. This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/"
+  },
+  "ncomms11937:2": {
+    "path": "figures/ncomms11937_fig2.jpg",
+    "number": 2,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fncomms11937/MediaObjects/41467_2016_Article_BFncomms11937_Fig2_HTML.jpg",
+    "doi": "10.1038/ncomms11937",
+    "legend": "Photoinhibition of PVN CRH Arch3.0  neurons disrupts behavioural patterns after stress. ( a ) Cre-dependent AAV-DIO-Arch3.0-eYFP virus injected into the PVN. ( b ) Schematic maps show the injection site (left) and the implantation site of the light ferrule (right). ( c ) Confocal image shows expression of Arch3.0-eYFP (green) and tdTomato (red) in the PVN. ( d ) Delivery of yellow light to the slice (denoted by yellow box) decreases firing in PVN CRH neurons in current clamp. Bottom, Summary histogram below of action potentials form repeated trials. ( e ) Detailed analysis shows all eight behaviours in CRH eYFP  (left) and CRH Arch3.0  (right) animals in a 15-min epoch immediately after footshock. Each row represents one animal. ( f ) Histograms show percentage of animals grooming in each group during the 15-min observation period. ( g ) Cumulative graph illustrates the relative grooming in each condition. ( h ) Summary graphs show grooming is inhibited during optical inhibition of PVN CRH neurons (CRH eYFP : 181.4\u00b128.7,  n =10 versus CRH Arch3.0 : 79.0\u00b111.2,  n =8;  P =0.0080;  t -test). ( i ) Histograms show percentage of animals rearing in each group during the 15-min observation period. ( j ) Cumulative graph illustrates the relative rearing. ( k ) Rearing time, as a fraction of all non-grooming behaviours, is increased during photoinhibition (CRH eYFP : 4.5\u00b10.8%,  n =10 versus CRH Arch3.0 : 8.6\u00b11.5%,  n =8;  P =0.0229;  t -test). ( l ) Histograms show percentage walking in each group during the 15-min observation period. ( m ) Cumulative graph illustrates the relative walking. ( n ) Fractional walking time is also increased during photoinhibition of PVN CRH neurons (CRH eYFP : 12.2\u00b12.0%,  n =10 versus CRH Arch3.0 : 22.0\u00b12.7%,  n =8;  P =0.0084;  t -test). Scale bars: ( c ), 50\u2009\u03bcm; ( d ), 2\u2009Hz and 1\u2009s; ( f , g , i , j , l , m ), 20%; NS, not significant, * P <0.05; ** P <0.01; Error bars\u00b1s.e.m.",
+    "year": "2016",
+    "license": "Copyright \u00a9 2016, Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved. This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/"
+  },
+  "ncomms11937:3": {
+    "path": "figures/ncomms11937_fig3.jpg",
+    "number": 3,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fncomms11937/MediaObjects/41467_2016_Article_BFncomms11937_Fig3_HTML.jpg",
+    "doi": "10.1038/ncomms11937",
+    "legend": "Photostimulation of PVN CRH ChR2  neurons triggers behaviours in the absence of stress. ( a ) Construct of Cre-dependent AAV-DIO-ChR2-eYFP virus. ( b ) Schematic maps show the injection of virus into the PVN of CRH-Cre/tdTomato mice (left) and the implantation site of the light ferrule (right). ( c ) Confocal image shows expression of ChR2-eYFP (green) and tdTomato (red) in the PVN. ( d ) Optical stimulation in current clamp (top) and voltage clamp (bottom) shows delivery of blue light reliably controls PVN CRH neurons. ( e ) Blood samples taken before and 15\u2009min after the onset of optical stimulation show increase in CORT levels specifically in CRH ChR2  mice (CRH eYFP : 0.528\u2009\u03bcg\u2009dl \u22121  increase,  n =6; versus CRH ChR2 : 5.327\u2009\u03bcg\u2009dl \u22121  increase,  n =5;  P =0.0316;  t -test). ( f ) Detailed analysis shows the pattern of eight different behaviours observed in CRH eYFP  (left) and CRH ChR2  (right) animals during 5\u2009min of optical stimulation in an observational chamber to which mice were previously habituated to in the absence of stress. Each row represents one animal. ( g ) Histograms show percentage of animals grooming in each group during optical stimulation. ( h ) Cumulative graph illustrates relative extent grooming. ( i ) Optical stimulation of PVN CRH neurons increased grooming time (CRH eYFP : 6.8\u00b11.9\u2009s,  n =12; versus CRH ChR2 : 112.6\u00b113.6\u2009s,  n =11;  P <0.0001;  t -test). ( j ) Histograms show percentage of animals rearing in each group during optical stimulation. ( k ) Cumulative graph illustrates relative rearing. ( l ) Rearing time as a fraction of non-grooming behaviours is decreased by photostimulation of CRH neurons (CRH eYFP : 9.9\u00b11.5%,  n =12; versus CRH ChR2 : 5.4\u00b11.4%,  n =11;  P =0.0396;  t -test). ( m ) Histograms show percentage of animals walking during the optical stimulation. ( n ) Cumulative graph illustrates relative walking. ( o ) Fractional walking time is unaltered by optical stimulation (CRH eYFP : 28.8\u00b13.4%,  n =12; versus CRH ChR2 : 28.7\u00b13.8%,  n =11;  P =0.9784;  t -test). Scale bars:  c , 50\u2009\u03bcm;  d , Top: 200\u2009pA and 500\u2009ms, Bottom: 20\u2009mV and 200\u2009ms; ( g , h , j , k , m , n ), 20%; NS, not significant, * P <0.05; **** P <0.0001; Error bars\u00b1s.e.m.",
+    "year": "2016",
+    "license": "Copyright \u00a9 2016, Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved. This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/"
+  },
+  "ncomms11937:4": {
+    "path": "figures/ncomms11937_fig4.jpg",
+    "number": 4,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fncomms11937/MediaObjects/41467_2016_Article_BFncomms11937_Fig4_HTML.jpg",
+    "doi": "10.1038/ncomms11937",
+    "legend": "PVN CRH neurons project to the lateral hypothalamus. ( a ) Schematic of experimental design. ( b ) c-Fos-positive cells in LH of CRH eYFP  and CRH ChR2  following photostimulation in PVN. ( c ) Summary data of c-Fos in LH (CRH eYFP : 100.5\u00b121.1,  n =4 versus CRH ChR2 : 318.8\u00b160.4,  n =5;  P =0.0179;  t -test). ( d )  In vivo  photostimulation in LH (20hz, 5\u2009min) increases grooming time (CRH eYFP : 5.4\u00b13.0\u2009s,  n =3; versus CRH ChR2 : 36.9\u00b17.3\u2009s,  n =7;  P =0.0264;  t -test). ( e ) Schematic map and experimental design of  in vitro  whole-cell recordings from LH neurons. ( f ) Biocytin filled recorded neurons in LH (red) surrounded by ChR2-eYFP-expressing fibres (green). ( g ) In voltage clamp (HP=\u221280\u2009mV), blue light (2\u20135\u2009ms) elicits fast inward currents (latency: 4.7\u00b10.3\u2009ms) that are abolished by TTX (baseline: 103.1\u00b12.0\u2009pA versus TTX: 4.7\u00b10.7\u2009pA,  n =8;  P <0.0001; repeated-measures one-way ANOVA) and partially restored by increasing light-pulse duration (7.5\u201310\u2009ms) during application of 4-aminopyridine (4-AP) 28 , 44  (40.1\u00b19.0\u2009pA;  P <0.0001 versus baseline;  P =0.0222 versus TTX,  n =8; repeated-measures one-way ANOVA). ( h ) Sample traces show effects of optical stimulation on LH neuron firing. ( i , j ) oPSCs are unaffected by picrotoxin but are potently inhibited by DNQX (baseline: 90.7\u00b112.6\u2009pA, picro: 115.1\u00b117.6\u2009pA, DNQX: 11.3\u00b13.5\u2009pA,  n =6; baseline versus DNQX,  P =0.0007; repeated-measures one-way ANOVA). ( k ) Current clamp recordings of LH neurons reveal two distinct electrophysiological profiles. Cells depicted by grey square show no synaptic responses to blue light pulses; blue circle indicates cells with synaptic responses. ( l ) Action potential frequency\u2013current relationship in responding/non-responding cells ( n =16;  P <0.0001; two-way ANOVA). ( m ) Differential hyperpolarization-induced \u2018sag' between groups (non-responder: 0.017\u00b10.024,  n =8; responder: 0.146\u00b10.022,  n =8;  P =0.0016;  t -test). Sag index calculation: (Vm max\u2014Vm steady state)/Vm max, in response to \u221280\u2009pA hyperpolarizing step). ( n ) Firing frequency (+60\u2009pA step) versus sag index in responding and non-responding cells. Scale bars: ( b ) and ( f ), 50\u2009\u03bcm; ( g ) and ( i ), 50\u2009pA and 10\u2009ms; ( h ) and ( k ), 50\u2009mV and 50\u2009ms; NS, not significant; * P <0.05; ** P <0.01; *** P <0.0005; **** P <0.0001; Error bars,\u00b1s.e.m.",
+    "year": "2016",
+    "license": "Copyright \u00a9 2016, Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved. This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/"
+  },
+  "ncomms11937:5": {
+    "path": "figures/ncomms11937_fig5.jpg",
+    "number": 5,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fncomms11937/MediaObjects/41467_2016_Article_BFncomms11937_Fig5_HTML.jpg",
+    "doi": "10.1038/ncomms11937",
+    "legend": "Stress-induced behavioural patterns are sensitive to context. ( a ) Schematic of experiment showing the two different environments, the novel context (Novel) and footshock chamber (FS) immediately after footshock. ( b ) Detailed analysis shows the pattern of behaviours exhibited by the animals in different contexts. Each row represents one animal. The different environments change the behavioural pattern expressed by the animal. ( c ) Percentage of animals grooming at each timepoint. ( d ) Cumulative graphs illustrate the relative grooming in different contexts including homecage (HC) immediately after stress and compared with na\u00efve mice ( Fig. 1 ). ( e ) Grooming is the dominant in HC (dotted line represents mean grooming time in HC; Novel: 85.1\u00b18.0\u2009s; FS: 49.3\u00b19.4\u2009s; Novel versus HC  P <0.0001; FS versus HC  P <0.0001;  n =9 in each group; one-way ANOVA). ( f ) Percentage of animals rearing at each timepoint. ( g ) Cumulative graphs illustrate the relative amount of rearing in different contexts including HC immediately after stress and the na\u00efve mice ( Fig. 1 ). ( h ) Mice spend more time rearing in Novel (dotted line represents mean rearing time in HC; Novel: 120.4\u00b116.0\u2009s; FS: 18.3\u00b18.5\u2009s; Novel versus HC  P =0.0097; Novel versus FS  P <0.0001;  n =9 in each group; one-way ANOVA). ( i ) Percentage of animals walking at each timepoint. ( j ) Cumulative graphs illustrate the relative walking time in different contexts including HC immediately after stress and in na\u00efve mice ( Fig. 1 ). ( k ) Mice spend the same amount of time walking in Novel and FS (dotted line represents mean walking time in HC; Novel: 436.7\u00b125.2\u2009s; FS: 405.6\u00b141.7\u2009s; Novel versus HC  P <0.0001; FS versus HC  P <0.0001;  n =9 in each group; one-way ANOVA). ( l ) Percentage of animals freezing at each timepoint. ( m ) Cumulative graphs illustrate the relative freezing in different contexts including HC immediately after stress and the na\u00efve mice ( Fig. 1 ). ( n ) Freezing behaviour was only significant in FS (dotted line represents mean freezing time in HC; Novel: 19.5\u00b13.0\u2009s; FS: 121.8\u00b132.0\u2009s; Novel versus FS  P =0.0021; FS versus HC  P =0.0004;  n =9 in each group; one-way ANOVA). Scale bars: ( c , d , f , g , i , j , l , m ), 20%; ** P <0.01; *** P <0.0005; **** P <0.0001; Error bars\u00b1s.e.m.",
+    "year": "2016",
+    "license": "Copyright \u00a9 2016, Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved. This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/"
+  },
+  "ncomms11937:6": {
+    "path": "figures/ncomms11937_fig6.jpg",
+    "number": 6,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fncomms11937/MediaObjects/41467_2016_Article_BFncomms11937_Fig6_HTML.jpg",
+    "doi": "10.1038/ncomms11937",
+    "legend": "Photostimulation-induced grooming is sensitive to the context. ( a \u2013 h ) Identical light delivery protocol (10\u2009hz for 5\u2009min) used in novel environment (Novel) and in the FS immediately after footshock stress. ( a \u2013 c ) Photostimulation of PVN CRH neurons in Novel. ( a ) Each row represents an individual animal. ( b ) Histogram showing percentage of animals grooming. ( c ) Quantification of grooming in Novel (CRH eYFP : 8.9\u00b11.2\u2009s,  n =10; versus CRH ChR2 : 85.0\u00b110.9\u2009s,  n =10;  P <0.0001;  t -test). ( d \u2013 f ) Optical stimulation of PVN CRH neurons in FS. ( d ) Each row represents an individual animal. ( e ) Histogram showing percentage of animals grooming. ( f ) Quantification of grooming in FS (CRH eYFP : 6.4\u00b12.5\u2009s,  n =10; versus CRH ChR2 : 40.1\u00b19.5\u2009s,  n =10;  P =0.0031;  t -test). ( g ) Cumulative graphs illustrate the relative effect of different contexts on optically evoked grooming including habituated (HAB) context (data shown in  Fig. 3 ). ( h ) Optically evoked grooming time is gradually attenuated as the presumptive threat level of the context increases (Novel: 74.7\u00b17.9% of HAB,  P =0.0405 versus HAB; FS: 35.8\u00b18.3% of HAB,  P =0.0013 versus HAB,  P =0.0006 versus Novel;  n =10; repeated-measures one-way ANOVA). ( i ) Schematic of experiment showing effects of habituation on ChR2-induced grooming. ( j ) Increased familiarity in the paradigm causes a decrease in baseline locomotion distance in the arena in the non-HAB (day 5: 45.79\u00b110.78% of day 1,  n =11;  P =0.0004 versus day 1; paired  t -test), but not in the HAB animals (day 5: 85.13\u00b110.62% of day 1,  n =5;  P =0.21 versus day 1, paired  t -test;  P =0.0431 versus non-HAB,  t -test). ( k ) Optically evoked grooming time is higher on the fifth day in non-HAB mice (day 5: 189.6\u00b127.8% compared with the day 1,  n =11;  P =0.0016; paired  t -test). In contrast, HAB animals show invariant response to optical activation (day 5: 88.5\u00b17.7% compared with day 1;  n =5,  P =0.323 versus day1, paired  t -test;  P =0.0316 versus Non-HAB,  t -test). Scale bars: ( b , e , g ), 20%; * P <0.05; ** P <0.01; *** P <0.0005; **** P <0.0001. Error bars\u00b1s.e.m.",
+    "year": "2016",
+    "license": "Copyright \u00a9 2016, Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved. This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/"
+  },
+  "ncomms11937:7": {
+    "path": "figures/ncomms11937_fig7.jpg",
+    "number": 7,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fncomms11937/MediaObjects/41467_2016_Article_BFncomms11937_Fig7_HTML.jpg",
+    "doi": "10.1038/ncomms11937",
+    "legend": "Photostimulation of PVN CRH ChR2  neurons overrides contextual cues. ( a \u2013 d ) Optical stimulation of PVN CRH neurons attenuates rearing in novel environment (Novel). ( a ) Each row represents an individual animal. ( b ) Histograms showing percentage of animals rearing. ( c ) Cumulative graphs demonstrate the relative extent of rearing. ( d ) Rearing time as a fraction of all behaviours after exclusion of time spent grooming (CRH eYFP : 13.6\u00b11.4%,  n =10; versus CRH ChR2 : 9.2\u00b10.9%,  n =10;  P =0.0165;  t -test). ( e \u2013 h ) Optical stimulation of PVN CRH neurons disrupts freezing in FS. ( e ) Each row represents an individual animal. ( f ) Histograms show percentage of animals freezing. ( g ) Cumulative graphs demonstrate the relative extent of freezing. ( h ) Quantification of fractional freezing time if time spent grooming is excluded from the analysis (CRH eYFP : 32.5\u00b15.7%,  n =10; versus CRH ChR2 : 15.8\u00b13.8%,  n =10;  P =0.0251;  t -test). ( i ) Assessment of locomotion in an open field test. Representative locomotor trajectory plots during optical stimulation in CRH eYFP  (black) and CRH ChR2  (blue) mice. Accompanying graph shows CRH ChR2  mice spend significantly less time spent in the centre zone during photostimulation (CRH eYFP : before: 3.9\u00b10.5%, during: 6.1\u00b10.5%. after: 6.6\u00b10.9,  n =16; versus CRH ChR2 : before: 4.3\u00b11.0%, during: 3.3\u00b10.8%, after: 5.3\u00b10.8%,  n =14; CRH eYFP  during versus CRH ChR2  during,  P =0.0291; repeated-measures two-way ANOVA). ( j ) Representative locomotor trajectory plots during optical stimulation in CRH eYFP  (black) and CRH ChR2  (blue) mice in a novel object (green shape) test. Optical stimulation reduces exploration of a novel object as measured by the latency to touch ( k , CRH eYFP : 127.7\u00b136.4\u2009s,  n =6; versus CRH ChR2 : 259.0\u00b135.2\u2009s,  n =6;  P =0.0267;  t -test) and the time spent in close proximity ( l , CRH eYFP : 21.2\u00b17.6\u2009s,  n =6; versus CRH ChR2 : 3.0\u00b12.8\u2009s,  n =6;  P =0.0494;  t -test). Scale bars: ( b , c , f , g ), 20%; * P <0.05; Error bars\u00b1s.e.m.",
+    "year": "2016",
+    "license": "Copyright \u00a9 2016, Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved. This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/"
+  },
+  "104453:1": {
+    "path": "figures/104453_fig1.jpg",
+    "number": 1,
+    "original_url": "https://iiif.elifesciences.org/lax:104453%2Felife-104453-fig1-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.104453",
+    "legend": "LC\u2192SDH-NA neurons mediate stress-induced mechanical hypersensitivity. ",
+    "year": "2026",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Kawanabe-Kobayashi, Uchiyama, Yoshihara et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "104453:2": {
+    "path": "figures/104453_fig2.jpg",
+    "number": 2,
+    "original_url": "https://iiif.elifesciences.org/lax:104453%2Felife-104453-fig2-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.104453",
+    "legend": "\u03b11ARs in Hes5+ SDH astrocytes are required for stress-induced mechanical hypersensitivity. ",
+    "year": "2026",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Kawanabe-Kobayashi, Uchiyama, Yoshihara et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "104453:3": {
+    "path": "figures/104453_fig3.jpg",
+    "number": 3,
+    "original_url": "https://iiif.elifesciences.org/lax:104453%2Felife-104453-fig3-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.104453",
+    "legend": "Activation of Hes5+ astrocytes reduces activity in Slc32a1+ INs in the SDH. ",
+    "year": "2026",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Kawanabe-Kobayashi, Uchiyama, Yoshihara et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "104453:4": {
+    "path": "figures/104453_fig4.jpg",
+    "number": 4,
+    "original_url": "https://iiif.elifesciences.org/lax:104453%2Felife-104453-fig4-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.104453",
+    "legend": "Hes5+ astrocyte-mediated inhibitory signals to SDH-Slc32a1+ INs contribute to stress-induced mechanical hypersensitivity. ",
+    "year": "2026",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Kawanabe-Kobayashi, Uchiyama, Yoshihara et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "96810:1": {
+    "path": "figures/96810_fig1.jpg",
+    "number": 1,
+    "original_url": "https://iiif.elifesciences.org/lax:96810%2Felife-96810-fig1-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.96810",
+    "legend": "Cytosolic S100A8/A9 regulates leukocyte recruitment in vivo regardless of extracellular S100A8/A9. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Napoli et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "96810:2": {
+    "path": "figures/96810_fig2.jpg",
+    "number": 2,
+    "original_url": "https://iiif.elifesciences.org/lax:96810%2Felife-96810-fig2-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.96810",
+    "legend": "Loss of cytosolic S100A8/A9 impairs neutrophil adhesion under flow conditions without affecting \u03b22 integrin activation. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Napoli et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "96810:3": {
+    "path": "figures/96810_fig3.jpg",
+    "number": 3,
+    "original_url": "https://iiif.elifesciences.org/lax:96810%2Felife-96810-fig3-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.96810",
+    "legend": "Cytosolic S100A8/A9 is crucial for neutrophil spreading, crawling, and post-arrest modifications under flow. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Napoli et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "96810:4": {
+    "path": "figures/96810_fig4.jpg",
+    "number": 4,
+    "original_url": "https://iiif.elifesciences.org/lax:96810%2Felife-96810-fig4-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.96810",
+    "legend": "Cytosolic S100A8/A9 drives neutrophil cytoskeletal rearrangement by regulating LFA-1 nanocluster formation and Ca2+ availability within the clusters. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Napoli et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "96810:5": {
+    "path": "figures/96810_fig5.jpg",
+    "number": 5,
+    "original_url": "https://iiif.elifesciences.org/lax:96810%2Felife-96810-fig5-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.96810",
+    "legend": "Cytosolic S100A8/A9 is dispensable for chemokine-induced endoplasmic reticulum (ER) store Ca2+ release and for the initial phase of store-operated Ca2+ entry (SOCE). ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Napoli et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "105422:1": {
+    "path": "figures/105422_fig1.jpg",
+    "number": 1,
+    "original_url": "https://iiif.elifesciences.org/lax:105422%2Felife-105422-fig1-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.105422",
+    "legend": "A contextual fear conditioning paradigm for head-fixed mice navigating virtual reality environments. ",
+    "year": "2025",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Krishnan, Dong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "105422:2": {
+    "path": "figures/105422_fig2.jpg",
+    "number": 2,
+    "original_url": "https://iiif.elifesciences.org/lax:105422%2Felife-105422-fig2-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.105422",
+    "legend": "Paradigm 1: Head-fixed mice show increased freezing behavior following contextual fear conditioning in the contextual fear conditioning (CFC) virtual reality (VR). ",
+    "year": "2025",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Krishnan, Dong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "105422:3": {
+    "path": "figures/105422_fig3.jpg",
+    "number": 3,
+    "original_url": "https://iiif.elifesciences.org/lax:105422%2Felife-105422-fig3-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.105422",
+    "legend": "Using a novel virtual reality (VR) as the neutral environment instead of a familiar VR in a second paradigm results in modest increases in freezing. ",
+    "year": "2025",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Krishnan, Dong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "105422:4": {
+    "path": "figures/105422_fig4.jpg",
+    "number": 4,
+    "original_url": "https://iiif.elifesciences.org/lax:105422%2Felife-105422-fig4-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.105422",
+    "legend": "In Paradigm 2, the most significant freezing and reduced speed occurred in the first lap of the contextual fear conditioning (CFC) virtual reality (VR) compared to the Control VR. ",
+    "year": "2025",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Krishnan, Dong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "105422:5": {
+    "path": "figures/105422_fig5.jpg",
+    "number": 5,
+    "original_url": "https://iiif.elifesciences.org/lax:105422%2Felife-105422-fig5-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.105422",
+    "legend": "A third paradigm that uses a novel virtual reality (VR) as the neutral environment but keeps the tail-coat on during memory recall led to increased freezing in the contextual fear conditioning (CFC) Environment. ",
+    "year": "2025",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Krishnan, Dong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "105422:6": {
+    "path": "figures/105422_fig6.jpg",
+    "number": 6,
+    "original_url": "https://iiif.elifesciences.org/lax:105422%2Felife-105422-fig6-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.105422",
+    "legend": "Mice exhibited increased freezing and overall reduced speed in the contextual fear conditioning (CFC) virtual reality (VR) in Paradigm 3. ",
+    "year": "2025",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Krishnan, Dong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "105422:7": {
+    "path": "figures/105422_fig7.jpg",
+    "number": 7,
+    "original_url": "https://iiif.elifesciences.org/lax:105422%2Felife-105422-fig7-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.105422",
+    "legend": "Fear conditioning results in place cell remapping in both Familiar and contextual fear conditioning (CFC) virtual reality (VR). ",
+    "year": "2025",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Krishnan, Dong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "105422:8": {
+    "path": "figures/105422_fig8.jpg",
+    "number": 8,
+    "original_url": "https://iiif.elifesciences.org/lax:105422%2Felife-105422-fig8-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.105422",
+    "legend": "The widths of place fields in CA1 narrow during memory recall. ",
+    "year": "2025",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Krishnan, Dong et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "82497:1": {
+    "path": "figures/82497_fig1.jpg",
+    "number": 1,
+    "original_url": "https://iiif.elifesciences.org/lax:82497%2Felife-82497-fig1-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.82497",
+    "legend": "Experimental design and nose poke suppression. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Chu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "82497:2": {
+    "path": "figures/82497_fig2.jpg",
+    "number": 2,
+    "original_url": "https://iiif.elifesciences.org/lax:82497%2Felife-82497-fig2-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.82497",
+    "legend": "Representative behaviors. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Chu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "82497:3": {
+    "path": "figures/82497_fig3.jpg",
+    "number": 3,
+    "original_url": "https://iiif.elifesciences.org/lax:82497%2Felife-82497-fig3-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.82497",
+    "legend": "Temporal ethograms. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Chu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "82497:4": {
+    "path": "figures/82497_fig4.jpg",
+    "number": 4,
+    "original_url": "https://iiif.elifesciences.org/lax:82497%2Felife-82497-fig4-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.82497",
+    "legend": "Danger-elicited behaviors. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Chu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "82497:5": {
+    "path": "figures/82497_fig5.jpg",
+    "number": 5,
+    "original_url": "https://iiif.elifesciences.org/lax:82497%2Felife-82497-fig5-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.82497",
+    "legend": "Special case of freezing. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Chu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "82497:6": {
+    "path": "figures/82497_fig6.jpg",
+    "number": 6,
+    "original_url": "https://iiif.elifesciences.org/lax:82497%2Felife-82497-fig6-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.82497",
+    "legend": "Behavior\u2013behavior correlations. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Chu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "82497:7": {
+    "path": "figures/82497_fig7.jpg",
+    "number": 7,
+    "original_url": "https://iiif.elifesciences.org/lax:82497%2Felife-82497-fig7-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.82497",
+    "legend": "Experimental design and nose poke suppression. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Chu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "82497:8": {
+    "path": "figures/82497_fig8.jpg",
+    "number": 8,
+    "original_url": "https://iiif.elifesciences.org/lax:82497%2Felife-82497-fig8-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.82497",
+    "legend": "Temporal ethograms during extinction. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Chu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "82497:9": {
+    "path": "figures/82497_fig9.jpg",
+    "number": 9,
+    "original_url": "https://iiif.elifesciences.org/lax:82497%2Felife-82497-fig9-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.82497",
+    "legend": "Danger elicits locomotion. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Chu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "82497:10": {
+    "path": "figures/82497_fig10.jpg",
+    "number": 10,
+    "original_url": "https://iiif.elifesciences.org/lax:82497%2Felife-82497-fig10-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.82497",
+    "legend": "Behavior\u2013behavior correlations during extinction. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Chu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "90414:1": {
+    "path": "figures/90414_fig1.jpg",
+    "number": 1,
+    "original_url": "https://iiif.elifesciences.org/lax:90414%2Felife-90414-fig1-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.90414",
+    "legend": "Experimental design. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Le et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "90414:2": {
+    "path": "figures/90414_fig2.jpg",
+    "number": 2,
+    "original_url": "https://iiif.elifesciences.org/lax:90414%2Felife-90414-fig2-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.90414",
+    "legend": "Stimulus-evoked freezing and activity during CD2 are affected by serial compound stimulus (SCS)-shock contingency. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Le et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "90414:3": {
+    "path": "figures/90414_fig3.jpg",
+    "number": 3,
+    "original_url": "https://iiif.elifesciences.org/lax:90414%2Felife-90414-fig3-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.90414",
+    "legend": "Associative pairings of the serial compound stimulus (SCS) and shock lead to robust escape jumping during white noise (WN). ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Le et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "90414:4": {
+    "path": "figures/90414_fig4.jpg",
+    "number": 4,
+    "original_url": "https://iiif.elifesciences.org/lax:90414%2Felife-90414-fig4-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.90414",
+    "legend": "Associative serial compound stimulus (SCS)-shock pairings elicit darting responses to white noise (WN) during CD2. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Le et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "90414:5": {
+    "path": "figures/90414_fig5.jpg",
+    "number": 5,
+    "original_url": "https://iiif.elifesciences.org/lax:90414%2Felife-90414-fig5-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.90414",
+    "legend": "Tone-evoked freezing in the paired (PA) group is reduced by extinction learning. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Le et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "90414:6": {
+    "path": "figures/90414_fig6.jpg",
+    "number": 6,
+    "original_url": "https://iiif.elifesciences.org/lax:90414%2Felife-90414-fig6-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.90414",
+    "legend": "Stimulus-induced flight is associative and is partially replaced by freezing during extinction. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Le et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "90414:7": {
+    "path": "figures/90414_fig7.jpg",
+    "number": 7,
+    "original_url": "https://iiif.elifesciences.org/lax:90414%2Felife-90414-fig7-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.90414",
+    "legend": "Stimulus-evoked escape jumping and darting during extinction. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Le et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "90414:8": {
+    "path": "figures/90414_fig8.jpg",
+    "number": 8,
+    "original_url": "https://iiif.elifesciences.org/lax:90414%2Felife-90414-fig8-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.90414",
+    "legend": "Tail rattling is a non-associative behavioral response during extinction. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Le et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "69333:1": {
+    "path": "figures/69333_fig1.jpg",
+    "number": 1,
+    "original_url": "https://iiif.elifesciences.org/lax/69333%2Felife-69333-fig1-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.69333",
+    "legend": "Trace fear memory formation deficit in Cck-/- mice. ",
+    "year": "2021",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Feng et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "69333:2": {
+    "path": "figures/69333_fig2.jpg",
+    "number": 2,
+    "original_url": "https://iiif.elifesciences.org/lax/69333%2Felife-69333-fig2-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.69333",
+    "legend": "Neural plasticity deficit in the LA of Cck-/- mice and the rescuing effect of exogenous cholecystokinin (CCK). ",
+    "year": "2021",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Feng et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "69333:3": {
+    "path": "figures/69333_fig3.jpg",
+    "number": 3,
+    "original_url": "https://iiif.elifesciences.org/lax/69333%2Felife-69333-fig3-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.69333",
+    "legend": "Dissection of inputs of the lateral nuclei of the amygdala (LA) with retrograde tracer and virus. ",
+    "year": "2021",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Feng et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "69333:4": {
+    "path": "figures/69333_fig4.jpg",
+    "number": 4,
+    "original_url": "https://iiif.elifesciences.org/lax/69333%2Felife-69333-fig4-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.69333",
+    "legend": "Formation of trace fear memory is suppressed by chemogenetic inhibition of the entorhinal cortex (EC) and cholecystokinin (CCK)-positive EC neurons. ",
+    "year": "2021",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Feng et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "69333:5": {
+    "path": "figures/69333_fig5.jpg",
+    "number": 5,
+    "original_url": "https://iiif.elifesciences.org/lax/69333%2Felife-69333-fig5-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.69333",
+    "legend": "Cholecystokinin (CCK)-expressing projections predominate in the entorhinal cortex (EC)-lateral nuclei of the amygdala (LA) pathway. ",
+    "year": "2021",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Feng et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "69333:6": {
+    "path": "figures/69333_fig6.jpg",
+    "number": 6,
+    "original_url": "https://iiif.elifesciences.org/lax/69333%2Felife-69333-fig6-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.69333",
+    "legend": "High-frequency activation of the ECCCK+ pathway induces long-term potentiation (LTP) of auditory evoked potential (AEP) in the lateral nuclei of the amygdala (LA). ",
+    "year": "2021",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Feng et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "69333:7": {
+    "path": "figures/69333_fig7.jpg",
+    "number": 7,
+    "original_url": "https://iiif.elifesciences.org/lax/69333%2Felife-69333-fig7-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.69333",
+    "legend": "In vivo knockdown of Cck expression blocks auditory evoked potential (AEP)-long-term potentiation (LTP) induction in the LA. ",
+    "year": "2021",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Feng et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "69333:8": {
+    "path": "figures/69333_fig8.jpg",
+    "number": 8,
+    "original_url": "https://iiif.elifesciences.org/lax/69333%2Felife-69333-fig8-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.69333",
+    "legend": "Real-time inhibition of the ECCCK+ pathway impairs long-trace but not long-delay fear memory formation. ",
+    "year": "2021",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Feng et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "101523:1": {
+    "path": "figures/101523_fig1.jpg",
+    "number": 1,
+    "original_url": "https://iiif.elifesciences.org/lax:101523%2Felife-101523-fig1-v3.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.101523",
+    "legend": "Distinct firing response patterns of calcitonin gene-related peptide (CGRP) neurons to different aversive stimuli. ",
+    "year": "2025",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Pyeon et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "101523:2": {
+    "path": "figures/101523_fig2.jpg",
+    "number": 2,
+    "original_url": "https://iiif.elifesciences.org/lax:101523%2Felife-101523-fig2-v3.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.101523",
+    "legend": "Stimulation of calcitonin gene-related peptide (CGRP) neurons in the absence of any external stimuli induces robust freezing behavior. ",
+    "year": "2025",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Pyeon et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "101523:3": {
+    "path": "figures/101523_fig3.jpg",
+    "number": 3,
+    "original_url": "https://iiif.elifesciences.org/lax:101523%2Felife-101523-fig3-v3.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.101523",
+    "legend": "Activation of calcitonin gene-related peptide (CGRP) neurons during unconditioned stimulus (US) presentation enhances active defensive behavior. ",
+    "year": "2025",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Pyeon et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "101523:4": {
+    "path": "figures/101523_fig4.jpg",
+    "number": 4,
+    "original_url": "https://iiif.elifesciences.org/lax:101523%2Felife-101523-fig4-v3.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.101523",
+    "legend": "Calcitonin gene-related peptide (CGRP) activation during conventional fear conditioning promotes passive, but not active, defensive behavior. ",
+    "year": "2025",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Pyeon et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "101523:5": {
+    "path": "figures/101523_fig5.jpg",
+    "number": 5,
+    "original_url": "https://iiif.elifesciences.org/lax:101523%2Felife-101523-fig5-v3.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.101523",
+    "legend": "Escalating threat intensity modulates defensive behavior. ",
+    "year": "2025",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Pyeon et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "101523:6": {
+    "path": "figures/101523_fig6.jpg",
+    "number": 6,
+    "original_url": "https://iiif.elifesciences.org/lax:101523%2Felife-101523-fig6-v3.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.101523",
+    "legend": "Calcitonin gene-related peptide (CGRP) neurons are necessary for promoting active defensive behaviors under high-speed threat conditions. ",
+    "year": "2025",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Pyeon et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "57148:1": {
+    "path": "figures/57148_fig1.jpg",
+    "number": 1,
+    "original_url": "https://iiif.elifesciences.org/lax/57148%2Felife-57148-fig1-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.57148",
+    "legend": "VMHvl encodes social threat. ",
+    "year": "2020",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Krzywkowski et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "57148:2": {
+    "path": "figures/57148_fig2.jpg",
+    "number": 2,
+    "original_url": "https://iiif.elifesciences.org/lax/57148%2Felife-57148-fig2-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.57148",
+    "legend": "Dynamic encoding of spatial context in VMHvl. ",
+    "year": "2020",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Krzywkowski et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "57148:3": {
+    "path": "figures/57148_fig3.jpg",
+    "number": 3,
+    "original_url": "https://iiif.elifesciences.org/lax/57148%2Felife-57148-fig3-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.57148",
+    "legend": "Overlapping encoding of social defense and aggression. ",
+    "year": "2020",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Krzywkowski et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "57148:4": {
+    "path": "figures/57148_fig4.jpg",
+    "number": 4,
+    "original_url": "https://iiif.elifesciences.org/lax/57148%2Felife-57148-fig4-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.57148",
+    "legend": "Social defeat remodels VMHvl activity. ",
+    "year": "2020",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Krzywkowski et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "57148:5": {
+    "path": "figures/57148_fig5.jpg",
+    "number": 5,
+    "original_url": "https://iiif.elifesciences.org/lax/57148%2Felife-57148-fig5-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.57148",
+    "legend": "Social defeat remodels VMHvl function. ",
+    "year": "2020",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Krzywkowski et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "14170:1": {
+    "path": "figures/14170_fig1.jpg",
+    "number": 1,
+    "original_url": "https://iiif.elifesciences.org/lax/14170%2Felife-14170-fig1-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.14170",
+    "legend": "PGE2 and CO2 increase sigh activity via EP3R signaling. ",
+    "year": "2016",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Forsberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "14170:2": {
+    "path": "figures/14170_fig2.jpg",
+    "number": 2,
+    "original_url": "https://iiif.elifesciences.org/lax/14170%2Felife-14170-fig2-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.14170",
+    "legend": "Brainstem slice cultures have a preserved structure and neurons with functional potential. ",
+    "year": "2016",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Forsberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "14170:3": {
+    "path": "figures/14170_fig3.jpg",
+    "number": 3,
+    "original_url": "https://iiif.elifesciences.org/lax/14170%2Felife-14170-fig3-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.14170",
+    "legend": "Neuronal electrical activity indicates preserved networks. ",
+    "year": "2016",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Forsberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "14170:4": {
+    "path": "figures/14170_fig4.jpg",
+    "number": 4,
+    "original_url": "https://iiif.elifesciences.org/lax/14170%2Felife-14170-fig4-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.14170",
+    "legend": "Neural activity in the preB\u00f6tC is arranged in a functional respiratory network with respiratory-related motor output. ",
+    "year": "2016",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Forsberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "14170:5": {
+    "path": "figures/14170_fig5.jpg",
+    "number": 5,
+    "original_url": "https://iiif.elifesciences.org/lax/14170%2Felife-14170-fig5-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.14170",
+    "legend": "Breathing brainstem in a dish: ongoing/persistent rhythmic XII motor activity. ",
+    "year": "2016",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Forsberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "14170:6": {
+    "path": "figures/14170_fig6.jpg",
+    "number": 6,
+    "original_url": "https://iiif.elifesciences.org/lax/14170%2Felife-14170-fig6-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.14170",
+    "legend": "Gap junctions are necessary to maintain part of the correlated respiratory network. ",
+    "year": "2016",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Forsberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "14170:7": {
+    "path": "figures/14170_fig7.jpg",
+    "number": 7,
+    "original_url": "https://iiif.elifesciences.org/lax/14170%2Felife-14170-fig7-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.14170",
+    "legend": "PGE2 modulates preB\u00f6tC network activity. ",
+    "year": "2016",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Forsberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "14170:8": {
+    "path": "figures/14170_fig8.jpg",
+    "number": 8,
+    "original_url": "https://iiif.elifesciences.org/lax/14170%2Felife-14170-fig8-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.14170",
+    "legend": "pFRG/RTN brainstem slice culture. ",
+    "year": "2016",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Forsberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "14170:9": {
+    "path": "figures/14170_fig9.jpg",
+    "number": 9,
+    "original_url": "https://iiif.elifesciences.org/lax/14170%2Felife-14170-fig9-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.14170",
+    "legend": "The pFRG/RTN respiration-related network generates correlated neural activity and responds to CO2. ",
+    "year": "2016",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Forsberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "14170:10": {
+    "path": "figures/14170_fig10.jpg",
+    "number": 10,
+    "original_url": "https://iiif.elifesciences.org/lax/14170%2Felife-14170-fig10-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.14170",
+    "legend": "Correlated pFRG/RTN network activity is not dependent on gap junctions, but hypercapnic responses are. ",
+    "year": "2016",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Forsberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "14170:11": {
+    "path": "figures/14170_fig11.jpg",
+    "number": 11,
+    "original_url": "https://iiif.elifesciences.org/lax/14170%2Felife-14170-fig11-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.14170",
+    "legend": "PGE2 is released during hypercapnia. ",
+    "year": "2016",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Forsberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "14170:12": {
+    "path": "figures/14170_fig12.jpg",
+    "number": 12,
+    "original_url": "https://iiif.elifesciences.org/lax/14170%2Felife-14170-fig12-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.14170",
+    "legend": "PGE2 alters respiratory network activity. ",
+    "year": "2016",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Forsberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "14170:13": {
+    "path": "figures/14170_fig13.jpg",
+    "number": 13,
+    "original_url": "https://iiif.elifesciences.org/lax/14170%2Felife-14170-fig13-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.14170",
+    "legend": "PGE2, acting through EP3R, is crucial for the hypercapnic response. ",
+    "year": "2016",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Forsberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "14170:14": {
+    "path": "figures/14170_fig14.jpg",
+    "number": 14,
+    "original_url": "https://iiif.elifesciences.org/lax/14170%2Felife-14170-fig14-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.14170",
+    "legend": "Model of how PGE2 modulates respiration and sighs in the preB\u00f6tC and pFRG/RTN. ",
+    "year": "2016",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Forsberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "86737:1": {
+    "path": "figures/86737_fig1.jpg",
+    "number": 1,
+    "original_url": "https://iiif.elifesciences.org/lax:86737%2Felife-86737-fig1-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.86737",
+    "legend": "Left part: Schematic drawing of a horizontal section of the hypothalamus in which the Foxb1-neurons of the parvafox and of the PMd are located (modified after Alvarez-Bolado et al., 2000). ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Cola et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "86737:2": {
+    "path": "figures/86737_fig2.jpg",
+    "number": 2,
+    "original_url": "https://iiif.elifesciences.org/lax:86737%2Felife-86737-fig2-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.86737",
+    "legend": "Chemogenetic activation of lateral hypothalamic Foxb1-expressing neurons alters multiple respiratory parameters. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Cola et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "86737:3": {
+    "path": "figures/86737_fig3.jpg",
+    "number": 3,
+    "original_url": "https://iiif.elifesciences.org/lax:86737%2Felife-86737-fig3-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.86737",
+    "legend": "Optogenetic activation of hypothalamic Foxb1+ terminals in the rostral dlPAG induces freezing-like behavior. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Cola et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "86737:4": {
+    "path": "figures/86737_fig4.jpg",
+    "number": 4,
+    "original_url": "https://iiif.elifesciences.org/lax:86737%2Felife-86737-fig4-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.86737",
+    "legend": "Single-cell RNA sequencing reveals differential expression profiles of Foxb1 and Cck in the PMd. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Cola et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "86737:5": {
+    "path": "figures/86737_fig5.jpg",
+    "number": 5,
+    "original_url": "https://iiif.elifesciences.org/lax:86737%2Felife-86737-fig5-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.86737",
+    "legend": "Results from hot place experiments performed on Foxb1-Cre animals does not reveal statistically significant differences in (a) latency until endpoint behavior (i.e. hindpaw lick(-attempt) or jumping) nor in (b) number of shakes before endpoint behavior in any of the three tested groups. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Cola et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "86737:6": {
+    "path": "figures/86737_fig6.jpg",
+    "number": 6,
+    "original_url": "https://iiif.elifesciences.org/lax:86737%2Felife-86737-fig6-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.86737",
+    "legend": "Optogenetic activation of Foxb1+ terminals in the rostral dlPAG alters heart rate. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Cola et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "86737:7": {
+    "path": "figures/86737_fig7.jpg",
+    "number": 7,
+    "original_url": "https://iiif.elifesciences.org/lax:86737%2Felife-86737-fig7-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.86737",
+    "legend": "Localization of the glass fibers during optogenetic activation of axon terminals in the PAG leading to immobility (a), and bradycardia (b), respectively. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Cola et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "29808:1": {
+    "path": "figures/29808_fig1.jpg",
+    "number": 1,
+    "original_url": "https://iiif.elifesciences.org/lax/29808%2Felife-29808-fig1-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.29808",
+    "legend": "PSAM-mediated chemogenetic activation of LC neurons in vivo. ",
+    "year": "2017",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hirschberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "29808:2": {
+    "path": "figures/29808_fig2.jpg",
+    "number": 2,
+    "original_url": "https://iiif.elifesciences.org/lax/29808%2Felife-29808-fig2-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.29808",
+    "legend": "Activation of descending LC:SC but not ascending LC:PFC is anti-nociceptive. ",
+    "year": "2017",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hirschberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "29808:3": {
+    "path": "figures/29808_fig3.jpg",
+    "number": 3,
+    "original_url": "https://iiif.elifesciences.org/lax/29808%2Felife-29808-fig3-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.29808",
+    "legend": "Acivation of LC:SC selectively supresses nociceptive excitation of wide dynamic range neurons of the dorsal horn via an alpha2-adrenoceptor in naive rats. ",
+    "year": "2017",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hirschberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "29808:4": {
+    "path": "figures/29808_fig4.jpg",
+    "number": 4,
+    "original_url": "https://iiif.elifesciences.org/lax/29808%2Felife-29808-fig4-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.29808",
+    "legend": "Chemogenetic activation of LC:PFC neurons is aversive and anxiogenic unlike LC:SC. ",
+    "year": "2017",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hirschberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "29808:5": {
+    "path": "figures/29808_fig5.jpg",
+    "number": 5,
+    "original_url": "https://iiif.elifesciences.org/lax/29808%2Felife-29808-fig5-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.29808",
+    "legend": "Chemogenetic activation of LC:SC is analgesic via a spinal a2-mechanism (behaviour). ",
+    "year": "2017",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hirschberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "29808:6": {
+    "path": "figures/29808_fig6.jpg",
+    "number": 6,
+    "original_url": "https://iiif.elifesciences.org/lax/29808%2Felife-29808-fig6-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.29808",
+    "legend": "Chemogenetic activation of LC:SC is analgesic via a spinal \u03b12-mechanism (cell recording). ",
+    "year": "2017",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hirschberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "29808:7": {
+    "path": "figures/29808_fig7.jpg",
+    "number": 7,
+    "original_url": "https://iiif.elifesciences.org/lax/29808%2Felife-29808-fig7-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.29808",
+    "legend": "Chemogenetic activation of LC:SC is rewarding in neuropathic pain model whilst activation of LC:PFC neurons exacerbates spontaneous pain behaviour. ",
+    "year": "2017",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hirschberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "29808:8": {
+    "path": "figures/29808_fig8.jpg",
+    "number": 8,
+    "original_url": "https://iiif.elifesciences.org/lax/29808%2Felife-29808-fig8-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.29808",
+    "legend": "Chemogenetic activation of LC:SC as an intervention for established neuropathic pain. ",
+    "year": "2017",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Hirschberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "91221:1": {
+    "path": "figures/91221_fig1.jpg",
+    "number": 1,
+    "original_url": "https://iiif.elifesciences.org/lax:91221%2Felife-91221-fig1-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.91221",
+    "legend": "IL PV neurons signal active avoidance. ",
+    "year": "2025",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Ho et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "91221:2": {
+    "path": "figures/91221_fig2.jpg",
+    "number": 2,
+    "original_url": "https://iiif.elifesciences.org/lax:91221%2Felife-91221-fig2-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.91221",
+    "legend": "IL PV neural activity reflects the avoidance movement, not the predictive tone. ",
+    "year": "2025",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Ho et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "91221:3": {
+    "path": "figures/91221_fig3.jpg",
+    "number": 3,
+    "original_url": "https://iiif.elifesciences.org/lax:91221%2Felife-91221-fig3-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.91221",
+    "legend": "IL PV neural activity does not reflect movement to obtain rewards. ",
+    "year": "2025",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Ho et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "91221:4": {
+    "path": "figures/91221_fig4.jpg",
+    "number": 4,
+    "original_url": "https://iiif.elifesciences.org/lax:91221%2Felife-91221-fig4-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.91221",
+    "legend": "IL PV neural activity becomes correlated to movement after shock. ",
+    "year": "2025",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Ho et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "91221:5": {
+    "path": "figures/91221_fig5.jpg",
+    "number": 5,
+    "original_url": "https://iiif.elifesciences.org/lax:91221%2Felife-91221-fig5-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.91221",
+    "legend": "Inhibiting IL PV neural activity delays avoidance. ",
+    "year": "2025",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Ho et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "s41467-024-48331-z:1": {
+    "path": "figures/s41467-024-48331-z_fig1.jpg",
+    "number": 1,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-024-48331-z/MediaObjects/41467_2024_48331_Fig1_HTML.png",
+    "doi": "10.1038/s41467-024-48331-z",
+    "legend": "Central striatum is hyperactive in  Sapap3 -KO mice during grooming. a  Experimental design for imaging central striatal (CS) neurons (left) and representative histological image of GCaMP6m expression and lens placement in CS (right). Brain atlas overlay used with permission of Elsevier Science and Technology Journals from Paxinos and Franklin\u2019s the Mouse Brain in Stereotaxic Coordinates, Franklin Keith B.J., Paxinos, George, volume 5, copyright year 2019; permission conveyed through Copyright Clearance Center, Inc.  b  Schematic of behavioral apparatus.  c \n Sapap3 -KO mice ( n \u2009=\u200911, 6 male / 5 female) spend significantly more time grooming (left; two-tailed unpaired  t -test,  t (18)\u2009=\u20093.51,  p \u2009=\u20090.003) and engage in significantly more grooming bouts (right; two-tailed unpaired,  t -test  t (18)\u2009=\u20092.56,  p \u2009=\u20090.02) than  Sapap3 -WT mice ( n \u2009=\u20098, 5 male/3 female).  d  Contour map of putative CS neurons overlayed on peak-to-noise ratio image (left). Individual traces of selected neurons in field of view (FOV) overlayed on top of grooming (blue) behavior (right).  e  Probability of grooming in a representative  Sapap3 -WT (left,  n \u2009=\u20098, 5 male / 3 female) and  Sapap3 -KO mouse (right,  n \u2009=\u200911, 6 male/5 female). Top traces represent real grooming behavior; bottom represents grooming predicted via RUSBoost decoder. SPN population F1 score 2 x (precision x recall) / (precision + recall)\u00a0is greater for grooming than for shuffled grooming behavior [two-way repeated measures ANOVA; main effect of behavior type;  F (1,17)\u2009=\u200981.41,  p \u2009<\u20090.0001]. Main effect of genotype [ F (1,17)\u2009=\u20093.57,  p \u2009=\u20090.001]. Interaction between genotype and behavior type [ F (1,17)\u2009=\u20090.78,  p \u2009=\u20090.04]. Grooming F1 score was improved in  Sapap3 -KOs (teal) relative to -WTs (white) [Sidak\u2019s multiple comparisons test,  t (34)\u2009=\u20093.69,  p \u2009=\u20090.002].  f  Trial averaged activity aligned to grooming start across all cells in  Sapap3 -WT (top;  n \u2009=\u20091176 neurons) and  Sapap3 -KO mice (bottom;  n \u2009=\u20091403 neurons). Black dotted line indicates groom start. CS neurons display elevated activity at grooming start in  Sapap3 -KOs compared to  Sapap3 -WTs (two-tailed unpaired  t -test, all significant  t (2577)\u2009\u2265\u20093.61,  p \u2009\u2264\u20090.00038; thick black line in figure). Shading indicates \u00b1SEM.  g  Mean Z-score fluorescence during pre-grooming (open circles) and grooming (closed circles) periods for  Sapap3 -KO (teal,  n \u2009=\u200911, 6 male/5 female) and -WT (black,  n \u2009=\u20098, 5 male / 3 female) mice. Significant main effects of time [Two-way repeated measures ANOVA;  F (1,17)\u2009=\u200916.43,  p \u2009=\u20090.0008] and genotype [ F (1,17)\u2009=\u20098.97,  p \u2009=\u20090.008] and an interaction between time and genotype [ F (1,17)\u2009=\u20097.16,  p \u2009=\u20090.016] were detected. No difference between pre-grooming and grooming mean fluorescence was detected for WT mice ( p \u2009=\u20090.61), while a significant increase in grooming fluorescence relative to pre-grooming was observed for KOs [ t (17)\u2009=\u20095.19,  p \u2009=\u20090.0001].  h  Calcium event rates are elevated during compulsive grooming in  Sapap3 -KOs ( n \u2009=\u200911, 6 male/5 female) relative to -WT ( n \u2009=\u20098, 5 male/3 female) mice (two-tailed unpaired  t -test,  t (17)\u2009=\u20092.31,  p \u2009=\u20090.033). No difference in calcium event rates for all other times during the session (two-tailed unpaired t-test,  t (17)\u2009=\u20091.07,\u00a0 p \u2009=\u20090.30).  i  Representative traces of cells classified as grooming-onset activated (red), grooming-onset inhibited (blue), and unaffected at grooming onset (grey) in a  Sapap3 -WT (left) and  Sapap3 -KO mouse (right).  j  Representative contour maps of individual CS neurons colored according to ( i ).  k \n Sapap3 -KO mice ( n \u2009=\u200911, 6 male/5 female) have a significantly greater percentage of CS neurons activated at grooming onset compared to  Sapap3 -WT mice ( n \u2009=\u20098, 5 male/3 female, two-tailed unpaired  t -test,  t (17)\u2009=\u20094.56,  p \u2009=\u20090.0003). No difference in percentage of grooming-onset inhibited cells between genotypes ( p \u2009=\u20090.08). *** p \u2009\u2264\u20090.001, ** p \u2009\u2264\u20090.01, * p \u2009\u2264\u20090.05. Data are presented as mean values +/\u2212 SEM. Source data are provided as a Source Data file.",
+    "year": "2024",
+    "license": "\u00a9 The Author(s) 2024 https://creativecommons.org/licenses/by/4.0/ Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "s41467-024-48331-z:2": {
+    "path": "figures/s41467-024-48331-z_fig2.jpg",
+    "number": 2,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-024-48331-z/MediaObjects/41467_2024_48331_Fig2_HTML.png",
+    "doi": "10.1038/s41467-024-48331-z",
+    "legend": "D1-SPNs are not hyperactive at grooming onset in  Sapap3 -KO mice. a  Experimental design for selective imaging of D1-SPNs. Brain atlas overlay used with permission of Elsevier Science and Technology Journals from Paxinos and Franklin\u2019s the Mouse Brain in Stereotaxic Coordinates, Franklin Keith B.J., Paxinos, George, volume 5, copyright year 2019; permission conveyed through Copyright Clearance Center, Inc.  b  Schematic of behavioral apparatus.  c \n Sapap3 -KO ( n \u2009=\u20096: 4 male / 2 female) mice spend significantly more time grooming (left; two-tailed Mann-Whitney test,  U \u2009=\u20098,  p \u2009=\u20090.04) and engage in significantly more grooming bouts (right, two-tailed Mann-Whitney test,  U \u2009=\u20095,  p \u2009=\u20090.01) than  Sapap3 -WT ( n \u2009=\u20098: 3 male/5 female) mice.  d  Trial averaged activity aligned to grooming start across all cells in  Sapap3 -WT (top;  n \u2009=\u20091064) and  Sapap3 -KO mice (bottom;  n \u2009=\u2009691). Black dotted line indicates groom start. No significant difference between  Sapap3 -WTs and  Sapap3 -KOs in overall grooming onset D1-SPN activity (two-tailed unpaired t-test, all  t (1753)\u2009\u2264\u20092.81,  p \u2009\u2265\u20090.00038). Shading indicates \u00b1SEM.  e  D1-SPN calcium event rates are not significantly different during grooming (left) and non-grooming (right) periods in  Sapap3 -KOs ( n \u2009=\u20096: 4 male / 2 female) compared to -WT ( n \u2009=\u20098: 3 male / 5 female) mice (two-tailed Mann-Whitney test,  p \u2009=\u20090.41).  f  Contour map of D1-SPNs colored according to their activity (red=activated, blue=inhibited, grey=unaffected) at onset of grooming (left). Average percentage of activated and inhibited D1-SPNs in -WT ( n \u2009=\u20098: 3 male/5 female) and  Sapap3 -KO ( n \u2009=\u20096: 4 male/2 female) mice (two-tailed Mann-Whitney test,  p \u2009=\u20090.30 and  p \u2009=\u20090.56, respectively).  g  Probability of grooming in a representative  Sapap3 -WT (left) and  Sapap3 -KO mouse (right). Top traces represent real grooming behavior; bottom represents grooming predicted via RUSBoost decoder based on D1-SPN population activity.  h  D1-SPN population decoding F1 score is greater for grooming than for shuffled grooming (Two-way repeated measures ANOVA, main effect of behavior type;  F (1,12)\u2009=\u2009566.9,  p \u2009<\u20090.0001). No main effect of genotype ( F (1,12)\u2009=\u20093.17,  p \u2009=\u20090.10) or interaction between genotype and behavior type was observed ( F (1,12)\u2009=\u20092.25,  p \u2009=\u20090.16).  i  Functional clustering of trial averaged grooming-onset activity in D1-SPNs in -WT (top,  n \u2009=\u20098: 3 male / 5 female) and  Sapap3 -KO mice (middle,  n \u2009=\u20096: 4 male /2 female) represented as a heatmap. Functional clustering identified 8 distinct functional clusters (bottom). Mean grooming-onset activity of each cluster in -WT (black) and  Sapap3 -KOs (orange). Black dotted line indicates grooming.  j  Compared to -WTs,  Sapap3 -KOs have a greater proportion of Cluster 3 (Chi-square test of proportions,  X 2 (1)\u2009=\u20094.77,  p \u2009=\u20090.03) and Cluster 8 ( X 2 (1)\u2009=\u20098.76,  p \u2009=\u20090.003) D1-SPNs; a significantly lower proportion of Cluster 2 ( X 2 (1)\u2009=\u20093.62,  p \u2009=\u20090.05) and Cluster 6 ( X 2 (1)\u2009=\u200916.53,  p \u2009=\u20090.0001) D1-SPNs; and no changes in Clusters 1, 4, 5, and 7. *** p \u2009\u2264\u20090.001, ** p \u2009\u2264\u20090.01,\u00a0* p \u2009\u2264\u20090.05. Data are presented as mean values +/\u2212 SEM. Source data are provided as a Source Data file.",
+    "year": "2024",
+    "license": "\u00a9 The Author(s) 2024 https://creativecommons.org/licenses/by/4.0/ Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "s41467-024-48331-z:3": {
+    "path": "figures/s41467-024-48331-z_fig3.jpg",
+    "number": 3,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-024-48331-z/MediaObjects/41467_2024_48331_Fig3_HTML.png",
+    "doi": "10.1038/s41467-024-48331-z",
+    "legend": "D2-SPNs are hyperactive at grooming onset in  Sapap3 -KO mice. a  Experimental design for selective imaging of D2-SPNs. Brain atlas overlay used with permission of Elsevier Science and Technology Journals from Paxinos and Franklin\u2019s the Mouse Brain in Stereotaxic Coordinates, Franklin Keith B.J., Paxinos, George, volume 5, copyright year 2019; permission conveyed through Copyright Clearance Center, Inc.  b  Schematic of behavioral apparatus.  c \n Sapap3 -KO ( n \u2009=\u20098: 6 male/ 2 female) mice spend more time grooming (left; two-tailed Mann-Whitney test,  U \u2009=\u20098,  p \u2009=\u20090.02) and engage in significantly more grooming bouts (right; two-tailed Mann-Whitney test,  U \u2009=\u20099,  p \u2009=\u20090.03) than  Sapap3 -WT ( n \u2009=\u20097: 5 male/ 2 female) mice.  d  Trial averaged activity aligned to grooming start across all cells in  Sapap3 -WT (top;  n \u2009=\u2009489) and  Sapap3 -KO mice (bottom;  n \u2009=\u2009458). Black dotted line indicates groom start. Median grooming bout duration for WTs (4.4\u2009s) and KOs (6.1\u2009s) two-tailed Mann-Whitney test ( U \u2009=\u200911,  p \u2009=\u20090.06). Groom-start aligned D2-SPN activity is significantly elevated in  Sapap3 -KOs compared to -WTs (all significant  t (945)\u2009\u2265\u2009\u00b1\u20093.58,  p \u2009\u2264\u20090.00038; thick black lines in figure). Shading indicates \u00b1SEM.  e  D2-SPN calcium event rates are elevated during grooming (left; two-tailed Mann-Whitney test,  U \u2009=\u20097,  p \u2009=\u20090.01) and unchanged during non-grooming (right;  p \u2009=\u20090.33) periods in  Sapap3 -KOs ( n \u2009=\u20098: 6 male/ 2 female) compared to -WT ( n \u2009=\u20097: 5 male/ 2 female) mice ( f ) Contour map of D2-SPNs colored according to their activity (red=activated, blue=inhibited, grey=unaffected) at the onset of grooming (left).  Sapap3 -KOs ( n \u2009=\u20098: 6 male/ 2 female) have a greater proportion of groom-onset activated D2-SPNs than -WT ( n \u2009=\u20097: 5 male/ 2 female) mice (Mann-Whitney test,  U \u2009=\u200913,  p \u2009=\u20090.05), with no changes in the proportion of inhibited neurons ( p \u2009=\u20090.49).  g  Probability of grooming in a representative  Sapap3 -WT (left) and  Sapap3 -KO mouse (right). Top traces represent real grooming behavior; bottom represents grooming predicted via an RUSBoost classifier based on D2-SPN population activity.  h  D2-SPN population decoding F1 score is greater for grooming than for shuffled grooming [Two-way repeated measures ANOVA, main effect of behavior type;  F (1,13)\u2009=\u2009826.0,  p \u2009<\u20090.0001]. A main effect of genotype [ F (1,13)\u2009=\u20096.04,  p \u2009=\u20090.03] and significant interaction between genotype and behavior type was observed\u00a0[( F (1,13)\u2009=\u20094.98,  p \u2009=\u20090.04]. Classifier accuracy was higher during excessive grooming in  Sapap3 -KOs ( n \u2009=\u20098: 6 male/ 2 female) compared to -WT ( n \u2009=\u20097: 5 male/ 2 female) mice [Sidak\u2019s multiple comparisons test,  t (26)\u2009=\u20093.24,  p \u2009=\u20090.007], with no difference when the classifier was trained on shuffled data ( p \u2009=\u20090.54).  i  Functional clustering of trial averaged grooming-onset activity in D2-SPNs in -WT (top) and  Sapap3 -KO mice (middle) represented as a heatmap. Functional clustering identified 8 distinct functional clusters (bottom). Black dotted line indicates groom start. Mean grooming-onset activity of each cluster in -WT (black) and  Sapap3 -KO mice (purple).  j  Compared to -WTs,  Sapap3 -KO have a greater proportion of Cluster 1 (Chi-square test of proportions,  X 2 (1)\u2009=\u20096.75,  p \u2009=\u20090.01), Cluster 3 ( X 2 (1)\u2009=\u20095.076,  p \u2009=\u20090.024) and Cluster 4 ( X 2 (1)\u2009=\u20097.65,  p \u2009=\u20090.006) D2-SPNs; a significantly lower proportion of Cluster 7 ( X 2 (1)\u2009=\u20095.52,\u00a0 p \u2009=\u20090.02) and Cluster 8 ( X 2 (1)\u2009=\u200927.09,  p \u2009<\u20090.0001) D2-SPNs; and no changes in Clusters 2, 5, and 6. *** p \u2009\u2264\u20090.001, ** p \u2009\u2264\u20090.01,\u00a0* p \u2009\u2264\u20090.05. Data are presented as mean values +/\u2212 SEM. Source data are provided as a Source Data file.",
+    "year": "2024",
+    "license": "\u00a9 The Author(s) 2024 https://creativecommons.org/licenses/by/4.0/ Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "s41467-024-48331-z:4": {
+    "path": "figures/s41467-024-48331-z_fig4.jpg",
+    "number": 4,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-024-48331-z/MediaObjects/41467_2024_48331_Fig4_HTML.png",
+    "doi": "10.1038/s41467-024-48331-z",
+    "legend": "Inhibition of striatopallidal iSPNs reduces compulsive grooming behavior. a  Schematic of strategy for assessing iSPN expression of dopamine D1 and D2 receptors. Retrograde AAV2-CRE-eGFP was injected into globus pallidus external segment (GPe) and in situ hybridization performed 10 weeks later in CS for eGFP,  Drd1a  and  Drd2 . Brain atlas overlay used with permission of Elsevier Science and Technology Journals from Paxinos and Franklin\u2019s the Mouse Brain in Stereotaxic Coordinates, Franklin Keith B.J., Paxinos, George, volume 5, copyright year 2019; permission conveyed through Copyright Clearance Center, Inc.  b  In situ hybridization image for retrograde eGFP (grey),  Drd1a  (green), and  Drd2  (red). Arrows indicate eGFP+ neurons overlapping with  Drd1a  (green),  Drd2  (red), or both  Drd1a  and  Drd2  (yellow). Scale bar = 100\u2009um.  c  Average percentage of eGFP+ neurons expressing  Drd1a  (25%),  Drd2  (65%), or both (10%) in CS ( n \u2009=\u20094 CS slices from 4  Sapap3 -WT mice).  d  Schematic for inhibition of iSPNs. Retrograde AAV2-CRE-eGFP was injected bilaterally into GPe and AAV5-CAG-DIO-ArchT-tdTomato or AAV5-DIO-tdTomato was injected bilaterally into CS of WT and KO mice. Brain atlas overlay used with permission of Elsevier Science and Technology Journals from Paxinos and Franklin\u2019s the Mouse Brain in Stereotaxic Coordinates, Franklin Keith B.J., Paxinos, George, volume 5, copyright year 2019; permission conveyed through Copyright Clearance Center, Inc.  e  200\u2009um optic fibers were placed bilaterally into CS; scale bar = 2\u2009mm.  f  Mice received 20 trials of 30\u2009s of 532\u2009nm laser stimulation followed by 60\u2009s of no laser, while behavior was recorded from a bottom view camera.  g  Raster plots of grooming bouts (black tic marks) during laser trials in representative  Sapap3 -KO tdTomato (top) and ArchT (bottom) mice. Green shading indicates duration of laser illumination (30\u2009s).  h  No effect of laser illumination on number of grooming bouts in  Sapap3 -KOs expressing tdTomato control virus ( n \u2009=\u20097, 2 male/5 female; Two-sided Wilcoxon matched-pairs signed rank test,  p \u2009=\u20090.23). In  Sapap3 -KO mice expressing ArchT in iSPNs, laser illumination significantly reduced number of grooming bouts ( n \u2009=\u20096, 2 male/4 female; Two-sided Wilcoxon matched-pairs signed rank test,  p \u2009=\u20090.031). * p \u2009\u2264\u20090.05. Green shading indicates laser illumination. Data are presented as mean values +/\u2212 SEM. Source data are provided as a Source Data file.",
+    "year": "2024",
+    "license": "\u00a9 The Author(s) 2024 https://creativecommons.org/licenses/by/4.0/ Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "s41467-024-48331-z:5": {
+    "path": "figures/s41467-024-48331-z_fig5.jpg",
+    "number": 5,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-024-48331-z/MediaObjects/41467_2024_48331_Fig5_HTML.png",
+    "doi": "10.1038/s41467-024-48331-z",
+    "legend": "Fluoxetine reduces compulsive grooming behavior and iSPN hyperactivity. a  Schematic of strategy for assessing effect of fluoxetine on iSPN activity during compulsive grooming. Retrograde AAV2-CRE was injected unilaterally into GPe and AAV9-DIO-GCaMP6m into ipsilateral CS followed by GRIN lens placement. Brain atlas overlay used with permission of Elsevier Science and Technology Journals from Paxinos and Franklin\u2019s the Mouse Brain in Stereotaxic Coordinates, Franklin Keith B.J., Paxinos, George, volume 5, copyright year 2019; permission conveyed through Copyright Clearance Center, Inc.  b  (top) GCaMP6m expression in iSPNs and GRIN lens track in CS. (bottom) Immunohistochemical stain for Cre-recombinase (red) in GPe. Scale bar = 1\u2009mm.  c  Timeline for experiments evaluating effect of fluoxetine on compulsive grooming behavior and iSPN activity.  d  (left) Fluoxetine significantly reduced number of grooming bouts in  Sapap3 -KOs [ n \u2009=\u20096: 6 female mice; Friedman test ( F r(3,6)\u2009=\u20097.0,  p \u2009=\u20090.03); Dunn\u2019s multiple comparisons test, Baseline vs. Week 4 FLX ( Z \u2009=\u20092.6,  p \u2009=\u20090.03); Baseline vs. Washout (Z\u2009=\u20090.86,  p \u2009=\u20090.99); Week 4 FLX vs. Washout (Z\u2009=\u20091.7,  p \u2009=\u20090.25)]. (right) No effect of treatment on time spent grooming [Friedman test ( F r(3,6)\u2009=\u20096.3,  p \u2009=\u20090.052)].  e  (left) Fluoxetine treatment significantly reduced calcium event rates during grooming in KOs [ n \u2009=\u20096, Friedman test ( F r(3,6)\u2009=\u20099.0,\u00a0 p \u2009=\u20090.008); Dunn\u2019s multiple comparisons test, Baseline vs. Week 4 FLX ( X \u2009=\u20092.6,  p \u2009=\u20090.02)]. (right) No effect of fluoxetine on iSPN event rate during non-grooming time [Friedman test ( F r(3,6)\u2009=\u20094.3,  p \u2009=\u20090.14)].  f  (top) True grooming behavior during Baseline, Week 4 Fluoxetine, and Washout sessions in representative animal. (bottom) RUSBoost-predicted grooming based on iSPN population activity across days.  g  F1 score for RUSBoost classification of grooming behavior during Baseline, Week 4 Fluoxetine, and Washout sessions [ n \u2009=\u20096, Friedman test ( F r(3,7)\u2009=\u20097.0,  p \u2009=\u20090.03); Dunn\u2019s multiple comparisons test, Baseline vs. Week 4 Fluoxetine, ( X \u2009=\u20092.6,  p \u2009=\u20090.03); Week 4 Fluoxetine vs. Washout (X\u2009=\u20092.6,  p \u2009=\u20090.03); Baseline vs. Washout (X\u2009=\u20090.00,  p \u2009=\u20090.99)].  h  Contour map of striatopallidal iSPNs from representative KO colored according to baseline activity at grooming onset (red= activated, blue= inhibited, grey= unaffected).  i  Fluoxetine reduces percentage of grooming-onset activated striatopallidal iSPNs [ n \u2009=\u20096, Friedman test ( F r(3,6)\u2009=\u20099.33, p \u2009=\u20090.006); Dunn\u2019s multiple comparisons test, Baseline vs. Week 4 FLX ( Z \u2009=\u20092.9,  p \u2009=\u20090.01); Week 4 FLX vs. Washout ( Z \u2009=\u20092.31,  p \u2009=\u20090.06); Baseline vs. Washout ( Z \u2009=\u20090.6,  p \u2009=\u20090.99)].  j  No effect of treatment on percentage of grooming-onset inhibited striatopallidal iSPNs [ n \u2009=\u20096, Friedman test ( F r(3,6)\u2009=\u20090.09,\u00a0 p \u2009=\u20090.99)].  k  Positive correlation between the percent change in grooming bouts and percent change in activated neurons following fluoxetine treatment in KO mice (Spearman  R \u2009=\u20090.83,  p \u2009=\u20090.03). ** p \u2009\u2264\u20090.01,* p \u2009\u2264\u20090.05. cc=corpus callosum, LV=lateral ventricle, ac=anterior commissure, ic=internal capsule, CPu=caudate/putamen. Data are presented as mean values +/\u2212 SEM. Source data are provided as a Source Data file.",
+    "year": "2024",
+    "license": "\u00a9 The Author(s) 2024 https://creativecommons.org/licenses/by/4.0/ Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "s41467-023-44322-8:1": {
+    "path": "figures/s41467-023-44322-8_fig1.jpg",
+    "number": 1,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-023-44322-8/MediaObjects/41467_2023_44322_Fig1_HTML.png",
+    "doi": "10.1038/s41467-023-44322-8",
+    "legend": "Specific activation of D1-MSNs in the dorsal striatum together with stress exposure induces repetitive behavior. a  Schematic of the experiment. Animals were randomly assigned to either a saline or CNO (10\u2009mg/kg) group and underwent behavioral tests without PRST exposure first. The same tests were repeated 1 week later after overnight exposure to PRST. (EYFP Saline ,  n \u2009=\u200911; EYFP CNO ,  n \u2009=\u200910; hM3Dq Saline ,  n \u2009=\u200912; hM3Dq CNO ,  n \u2009=\u200911).  b  Time spent in open arms in the EPM. Kruskal\u2013Wallis test with post hoc Dunn\u2019s multiple comparisons test (EYFP) ( H \u2009=\u200918.59,  P \u2009=\u20090.0003) and two-way ANOVA with post hoc Tukey\u2019s test (hM3Dq) (Interaction drug \u00d7 PRST :  F 1, 42 \u2009=\u20092.141,  P \u2009=\u20090.1509, PRST effect:  F 1, 42 \u2009=\u200930.71,  P \u2009=\u20091.807e \u221206 ) were used for data analyses.  c  Total distance traveled in the EPM. A two-way ANOVA with post hoc Tukey\u2019s test showed a significant interaction between drug (CNO) effect and stress (PRST) ( F 1, 42 \u2009=\u200913.88,  P \u2009=\u20090.0006) in the hM3Dq-injected group.  d  Cumulative probability plot of the locomotor speed (Kolmogorov\u2013Smirnov test; Saline_PRST  vs  CNO_PRST,  P \u2009=\u20091.033e \u221210 ; CNO_naive  vs  CNO_PRST,  P \u2009=\u20093.374e \u221205 ).  e  Repetitive traveling pattern in PRST-exposed mice with D1-MSN activation. Left, representative movement tracks on EPM (closed arms are indicated by darker outlines). Right, quantification (Kruskal\u2013Wallis test with post hoc Dunn\u2019s multiple comparisons test:  H \u2009=\u200927.56,  P \u2009=\u20094.499e \u221206 ).  f  Animals subjected to EPM and exposed to PRST once were examined in the forced swim test (FST) 5\u20137 days after EPM test. Each of four groups of animals (EYFP Saline , EYFP CNO , hM3Dq Saline , hM3Dq CNO ) were divided into two groups, Naive and PRST (EYFP Saline_naive ,  n \u2009=\u20098; EYFP CNO_naive ,  n \u2009=\u20095; EYFP Saline_PRST ,  n \u2009=\u20093; EYFP CNO_PRST ,  n \u2009=\u20093; hM3Dq Saline_naive ,  n \u2009=\u20095; hM3Dq CNO_naive ,  n \u2009=\u20097; hM3Dq Saline_PRST ,  n \u2009=\u20096; hM3Dq CNO_PRST ,  n \u2009=\u20096). Kruskal\u2013Wallis test with post hoc Dunn\u2019s multiple comparisons test:  H \u2009=\u200917.76,  P \u2009=\u20090.0005.",
+    "year": "2024",
+    "license": "\u00a9 The Author(s) 2024 Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "s41467-023-44322-8:2": {
+    "path": "figures/s41467-023-44322-8_fig2.jpg",
+    "number": 2,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-023-44322-8/MediaObjects/41467_2023_44322_Fig2_HTML.png",
+    "doi": "10.1038/s41467-023-44322-8",
+    "legend": "Negative-valence neurons in the BLA send axons predominantly to D1-MSNs in the DMS. a  Schematic and representative results of retrograde (top) and anterograde (bottom) tracing of amygdalostriatal projections. The tracing experiment was repeated 5 times with similar results.  b ,  d ,  e  PRST-responsive BLA neurons send projections to the DMS. There was a significant increase in the number of c-Fos positive neurons across multiple BLA positions in PRST-exposed animals compared to control (two-sided Mann\u2013Whitney test: \u22121.0,  U \u2009=\u20090,  P \u2009=\u20090.0286; \u22121.5,  U \u2009=\u20090,  P \u2009=\u20090.0159; \u22122.0,  U \u2009=\u20090,  P \u2009=\u20090.0159; \u22122.3,  U \u2009=\u20090,  P \u2009=\u20090.0571). However, the anterior BLA (aBLA, AP \u20131.5) displayed a significantly higher number of c-Fos signals than other positions and colocalization with Retrobeads R (two-sided Mann\u2013Whitney test: \u22121.0,  U \u2009=\u20091,  P \u2009=\u20090.0571; \u22121.5,  U \u2009=\u20090,  P \u2009=\u20090.0159; \u22122.0,  U \u2009=\u20090,  P \u2009=\u20090.0159; \u22122.3,  U \u2009=\u20091.5,  P \u2009=\u20090.1429) (Control,  n \u2009=\u20095; PRST,  n \u2009=\u20094).  c ,  f ,  g  Reward exposure resulted in a trend of increase in c-Fos expression in the posterior amygdala (pBLA, AP \u20132.3). (two-sided Mann\u2013Whitney test: \u22121.0,  U \u2009=\u20094.5,  P \u2009=\u20090.119; \u22121.5,  U \u2009=\u20094,  P \u2009=\u20090.2857; \u22122.0,  U \u2009=\u20094,  P \u2009=\u20090.1905; \u22122.3,  U \u2009=\u20090,  P \u2009=\u20090.0159). However, few c-Fos-positive cells colocalized with Retrobead R. (two-sided Mann\u2013Whitney test: \u22121.0,  U \u2009=\u20097.5,  P \u2009=\u20090.4444; \u22121.5,  U \u2009=\u20096,  P \u2009=\u20091; \u22122.0,  U \u2009=\u20096,  P \u2009=\u20090.4444; \u22122.3,  U \u2009=\u20097.5,  P \u2009=\u20090.4444). (Control,  n \u2009=\u20095; Reward,  n \u2009=\u20095).  h  Target specificity of amygdalostriatal projections. AAV-tdTomato was injected into the BLA of D1-EGFP mice (left) or D2-EGFP mice (right). Representative images and quantification are shown (D1-MSNs,  n \u2009=\u2009657 cells from five mice; D2-MSNs,  n \u2009=\u2009276 cells from four mice). Two-sided unpaired  t -test:  t \u2009=\u200927.67,  df \u2009=\u20097,  P \u2009=\u20092.069e \u221208 .  i  Patch-like patterns of the BLA-DMS inputs are colocalized with mu-opioid receptor (MOR)-positive striosomes in the DMS. Axon terminals from BLA (green), MOR signals (red), and Hoechst signals (blue) in a putative striosome structure are shown.  j  Schematic of viral injection for electrophysiological recordings using optical stimulation.  k  Left, representative traces of optical stimulation-evoked excitatory postsynaptic currents (oEPSCs) in D1-MSN neurons (tdTomato+) and D2-MSNs (tdTomato-). Blue rectangles indicate times of light stimulation (470\u2009nm, 1\u2009ms). Different colors (light to dark green or light gray to black) indicate oEPSC responses to different stimulation light intensities (10%, 15%, 20%, and 30% of maximal light power (15\u2009mW)). Right, stimulus-response curves of oEPSCs recorded in D1-MSNs ( n \u2009=\u20095 cells from 5 mice) and D2-MSNs ( n \u2009=\u20096 cells from 6 mice). Two-way ANOVA with post hoc Tukey-Kramer test:  F 1,42 \u2009=\u200927.2232,  P \u2009=\u20094.567e \u221206 .",
+    "year": "2024",
+    "license": "\u00a9 The Author(s) 2024 Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "s41467-023-44322-8:3": {
+    "path": "figures/s41467-023-44322-8_fig3.jpg",
+    "number": 3,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-023-44322-8/MediaObjects/41467_2023_44322_Fig3_HTML.png",
+    "doi": "10.1038/s41467-023-44322-8",
+    "legend": "Optogenetic activation of the BLA-DMS circuit induces anxiety-like behavior followed by compulsive grooming. a  Experimental scheme (ChR2 BLA-DMS ,  n \u2009=\u20097; ChR2 BLA-NAc ,  n \u2009=\u20098) used in ( b \u2013 d ,  f ,  g ).  b \u2013 d  Behavioral responses in EPM induced by optical stimulation\u00a0of BLA-DMS. Open arm duration ( b , one-way repeated measures ANOVA with Greenhouse-Geisser correction and post hoc Tukey\u2019s test,  F 2.361, 14.17 \u2009=\u200914.86,  P \u2009=\u20090.0002), immobility ( c , two-sided Friedman test and post hoc Dunn\u2019s multiple comparisons test,  H \u2009=\u200923.09,  P \u2009=\u20090.0001), and grooming duration ( d , two-sided Friedman test and post hoc Dunn\u2019s multiple comparisons test ( H \u2009=\u200923.88,  P \u2009=\u20098.440e \u221205 ) showed significant effects of optical stimulation. There was a significant difference between Off1 and Off3 in grooming (paired  t -test,  t \u2009=\u20099.690,  df \u2009=\u20096,  P \u2009=\u20096.929e \u221205 ).  e  Scheme (left), representative images (middle), quantification (right,  n \u2009=\u20094 mice) of retrograde tracing of BLA-DMS and BLA-NAc projections.  f  Anxiety measured in EPM with BLA-DMS  vs  BLA-NAc activation (two-way repeated measures ANOVA with post hoc Sidak\u2019s multiple comparisons test, interaction light \u00d7 region , F 1,13 \u2009=\u20094.159,  P \u2009=\u20090.0623; Light effect ,  F 1,13 \u2009=\u200916.36,  P \u2009=\u20090.0014).  g  Grooming behavior induced by BLA-DMS  vs  BLA-NAc activation (two-sided Friedman test with post hoc Dunn\u2019s multiple comparisons test, BLA-DMS,  H \u2009=\u200911.14,  P \u2009=\u20090.0012; BLA-NAc,  H \u2009=\u20091.355,  P \u2009=\u20090.5444).  h  Schematic of injections in ( i \u2013 m ).  i  Representative images of anterograde transsynaptic tagging in the DMS. A subset of D1-MSNs expressing EYFP after Flpo-mediated recombination is shown in yellow. This experiment was repeated 3 times with similar results.  j  Inactivation of the target D1-MSNs prevented induction of excessive grooming by BLA-DMS activation (Saline,  n \u2009=\u20096; CNO,  n \u2009=\u20096) (Two-way repeated measures ANOVA with post hoc Sidak\u2019s multiple comparisons test, interaction light \u00d7 drug ,  F 4, 40 \u2009=\u200910.38,  P \u2009=\u20097.324e \u22126 ).  k  The total distance traveled in EPM (Saline,  n \u2009=\u20096; CNO,  n \u2009=\u20096) (two-sided unpaired t test,  t \u2009=\u20091.582,  df \u2009=\u200910,  P \u2009=\u20090.1447).  l  Open arm duration in EPM (Saline,  n \u2009=\u20096; CNO,  n \u2009=\u20096) (two-sided paired  t -test, saline,  t \u2009=\u20097.324,  df \u2009=\u20095,  P \u2009=\u20090.0007; CNO,  t \u2009=\u20090.8654,  df \u2009=\u20095,  P \u2009=\u20090.4264).  m  Active climbing in FST (Saline,  n \u2009=\u20095; CNO,  n \u2009=\u20095) (two-way repeated measures ANOVA with post hoc Sidak\u2019s multiple comparisons test, Drug effect,  F 1, 8 \u2009=\u200918.01,  P \u2009=\u20090.0028).",
+    "year": "2024",
+    "license": "\u00a9 The Author(s) 2024 Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "s41467-023-44322-8:4": {
+    "path": "figures/s41467-023-44322-8_fig4.jpg",
+    "number": 4,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-023-44322-8/MediaObjects/41467_2023_44322_Fig4_HTML.png",
+    "doi": "10.1038/s41467-023-44322-8",
+    "legend": "Chronic chemogenetic activation of the BLA-DMS circuit produces various compulsive-like phenotypes. a  Experimental scheme for chronic BLA-DMS activation and diagrams of behavioral tests. Daily CNO (1\u2009mg/kg) injections (i.p.) were administered for 12 consecutive days after 3 days of habituation period (Saline,  n \u2009=\u20096; CNO,  n \u2009=\u20096).  b  Number of repetitive checking (visits) to water or sucrose wells (Two-way repeated measures ANOVA, interaction day \u00d7 drug ,  F 13, 130 \u2009=\u20096.628,  P \u2009=\u20091.360e \u221209 ).  c  Sucrose or water consumptions at baseline (BL) and Day 12 (D12).  d  Number of nose pokes (Two-way repeated measures ANOVA, interaction day \u00d7 drug ,  F 13, 130 \u2009=\u20096.740,  P \u2009=\u20099.249e \u221210 ).  e  Number of rearing (two-sided paired  t -test, Saline,  t \u2009=\u20091.732,  df \u2009=\u20095,  P \u2009=\u20090.1438; CNO,  t \u2009=\u20098.244,  df \u2009=\u20095,  P \u2009=\u20090.0004).  f  Grooming duration (two-way repeated measures ANOVA, interaction day \u00d7 drug ,  F 13, 130 \u2009=\u20092.272,  P \u2009=\u20090.0099).  g  Number of checking occurrences on a reversal test (Two-way repeated measures ANOVA with post hoc Sidak\u2019s multiple comparisons test, interaction drink \u00d7 drug , F 1,10 \u2009=\u200910.10,  P \u2009=\u20090.0099).  h  Left, representative images showing the collected food pellets (arrows) and beads (arrow heads). Right, quantification (Food pellets, two-sided Mann\u2013Whitney test,  U \u2009=\u20091.5,  P \u2009=\u20090.0065; beads, unpaired  t -test,  t \u2009=\u20097.746,  df \u2009=\u200910,  P \u2009=\u20091.5603e \u221205 ).  i  Open arm duration in EPM (Saline,  n \u2009=\u20095; CNO,  n \u2009=\u20096) (two-sided unpaired  t -test,  t \u2009=\u20092.921,  df \u2009=\u20099,  P \u2009=\u20090.017).",
+    "year": "2024",
+    "license": "\u00a9 The Author(s) 2024 Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "s41467-023-44322-8:5": {
+    "path": "figures/s41467-023-44322-8_fig5.jpg",
+    "number": 5,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-023-44322-8/MediaObjects/41467_2023_44322_Fig5_HTML.png",
+    "doi": "10.1038/s41467-023-44322-8",
+    "legend": "Clomipramine (CMI) can relieve the compulsive-like symptoms induced by chronic activation of the BLA-DMS circuit. a  Experimental scheme. After the activation period, animals were provided with CMI-containing water for 14 days. CMI concentration was adjusted to an average 20\u2009mg/kg CMI intake per day (Water,  n \u2009=\u20095; CMI,  n \u2009=\u20096).  b \u2013 d  Behavioral responses of mice model for compulsivity to CMI administration (two-way repeated measures ANOVA with post hoc Sidak\u2019s multiple comparisons test, interaction day \u00d7 drug  (checking),  F 3, 27 \u2009=\u20098.784,  P \u2009=\u20090.0003) ( b ), interaction day \u00d7 drug  (number of nose pokes),  F 3, 27 \u2009=\u200912.83,  P \u2009=\u20092.131e \u221205  ( c ), interaction day \u00d7 drug  (grooming duration),  F 3, 27 \u2009=\u20094.769,  P \u2009=\u20090.0086 ( d )). Box-and-whisker plots display the median (line), 25th and 75th percentiles (box edges), minimum and maximum (whiskers).  e  Effects of CMI on hoarding behavior (Two-sided Wilcoxon matched-pairs signed rank test, food pellets, Median\u2009=\u2009\u22128.05,  P \u2009=\u20090.0313; beads, Median\u2009=\u2009\u22123.5,  P \u2009=\u20090.0313). Box-and-whisker plots display the median (line), 25th and 75th percentiles (box edges), minimum and maximum (whiskers).",
+    "year": "2024",
+    "license": "\u00a9 The Author(s) 2024 Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "s41467-023-44322-8:6": {
+    "path": "figures/s41467-023-44322-8_fig6.jpg",
+    "number": 6,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-023-44322-8/MediaObjects/41467_2023_44322_Fig6_HTML.png",
+    "doi": "10.1038/s41467-023-44322-8",
+    "legend": "Chronic chemogenetic activation of the BLA-DMS circuit increases ERK phosphorylation levels and synaptic plasticity in the DMS. a  Scheme of virus injection for optical stimulation-evoked excitatory postsynaptic current (oEPSC) measurement.  b  Representative oEPSC traces measured in D1-MSNs (tdTomato+). Blue rectangles indicate times of light stimulation (470\u2009nm, 1\u2009ms) and arrows indicate sampling time of AMPA receptor- and NMDA receptor-mediated currents.  c  AMPA/NMDA ratio in control ( n \u2009=\u20099 cells from 3 mice) and CNO-treated mice ( n \u2009=\u20095 cells from 4 mice) (two-sided Student\u2019s  t -test,  t \u2009=\u20092.6989,  df \u2009=\u200912,  P \u2009=\u20090.0193).  d \u2212 h  Immunohistochemistry using pERK antibody performed on D13\u2212D16 (Saline,  n \u2009=\u20093 mice; CNO,  n \u2009=\u20094 mice; CNO\u2009+\u2009SL327,  n \u2009=\u20093 mice). Representative images are shown in ( d ) where enlarged images showing the colocalization of pERK with BLA axons (hM3Dq-mCherry) are displayed in insets. Scale bars indicate 50\u2009\u00b5m. Quantified data of pERK puncta and BLA axons are shown in ( e ) and ( g ), respectively (two-sided Friedman test with post hoc Dunn\u2019s multiple comparisons test, pERK: Saline  vs  CNO,  P \u2009=\u20091.0e \u221215 ; CNO  vs  CNO\u2009+\u2009SL327,  P \u2009=\u20091.0e \u221215 ; Saline  vs  CNO\u2009+\u2009SL327,  P \u2009=\u20090.4911; Axon: Saline  vs  CNO:  P \u2009=\u20091.0e \u221215 ; CNO  vs  CNO\u2009+\u2009SL327,  P \u2009=\u20091.0e \u221215 ; Saline  vs  CNO\u2009+\u2009SL327,  P \u2009=\u20097.286e \u221208 ). The pERK puncta and BLA axons data shown in ( e ) and ( g ) are represented in a cumulative probability plot in ( f ) and ( h ), respectively (two-sided Kolmogorov\u2212Smirnov test, pERK: Saline  vs  CNO,  P \u2009=\u20090.0259; CNO  vs  CNO\u2009+\u2009SL327,  P \u2009=\u20090.002; Saline  vs  CNO\u2009+\u2009SL327,  P \u2009=\u20090.8186; Axons: Saline  vs  CNO,  P \u2009=\u20091.621e \u221212 ; CNO  vs  CNO\u2009+\u2009SL327,  P \u2009=\u20091.0e \u221215 ; Saline  vs  CNO\u2009+\u2009SL327,  P \u2009=\u20090.0028).  i \u2212 m  Immunohistochemistry using a pERK antibody performed after CMI administration (D31-D32) (Axon terminals analysis: Saline/Water,  n \u2009=\u20094 mice; CNO/Water,  n \u2009=\u20094 mice; CNO/CMI,  n \u2009=\u20094 mice, pERK analysis: Saline/Water,  n \u2009=\u20094 mice; CNO/Water,  n \u2009=\u20094 mice; CNO/CMI,  n \u2009=\u20093 mice). Representative images are shown in ( i ) in which enlarged images showing the colocalization of pERK signals with BLA axons (hM3Dq-mCherry) are displayed in insets. Scale bars indicate 50\u2009\u00b5m. Quantified data of pERK puncta and BLA axons are shown in ( j ) and ( l ), respectively (two-sided Friedman test with post hoc Dunn\u2019s multiple comparisons test, pERK: Saline/Water  vs  CNO/Water,  P \u2009=\u20091.0e \u221215 ; CNO/Water  vs  CNO/CMI,  P \u2009=\u20091.0e \u221215 ;\u00a0Saline/Water  vs  CNO/CMI,  P \u2009=\u20090.4550; Axon: Saline/Water  vs  CNO/Water,  P \u2009=\u20091.0e \u221215 ; CNO/Water  vs  CNO/CMI,  P \u2009=\u20091.0e \u221215 ; Saline/Water  vs  CNO/CMI,  P \u2009=\u20090.0290). The pERK puncta and BLA axons data shown in ( j ) and ( l ) are represented in a cumulative probability plot in ( k ) and ( m ), respectively (two-sided Kolmogorov\u2212Smirnov test, pERK: Saline/Water  vs  CNO/Water,  P \u2009=\u20098.184e \u221209 ; CNO/Water  vs  CNO/CMI,  P \u2009=\u20099.225e \u221208 ; Saline/Water  vs  CNO/CMI,  P \u2009=\u20090.0222; Axon: Saline/Water  vs  CNO/Water,  P \u2009=\u20093.72e \u221209 ; CNO/Water  vs  CNO/CMI,  P \u2009=\u20091.564e \u221208 ; Saline/Water  vs  CNO/CMI,  P \u2009=\u20090.0062).",
+    "year": "2024",
+    "license": "\u00a9 The Author(s) 2024 Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "s41467-023-44322-8:7": {
+    "path": "figures/s41467-023-44322-8_fig7.jpg",
+    "number": 7,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-023-44322-8/MediaObjects/41467_2023_44322_Fig7_HTML.png",
+    "doi": "10.1038/s41467-023-44322-8",
+    "legend": "Blocking the MAPK/ERK pathway during the activation period prevents compulsive-like behaviors in mice with chronic BLA-DMS activation. a  Experimental scheme. SL327 along with CNO was administered for 12 consecutive days after the habituation period. SL327 or saline was administered 15\u2009min before CNO injections. (CNO (+Saline),  n \u2009=\u200911; CNO\u2009+\u2009SL327,  n \u2009=\u20095).  b \u2013 d  Behavioral outcomes of co-administration of SL327 with CNO during the activation period (two-way repeated measures ANOVA with post hoc Sidak\u2019s multiple comparisons test, interaction day \u00d7 drug  (checking),  F 4, 56 \u2009=\u20096.411,  P \u2009=\u20090.0003 ( b ), interaction day \u00d7 drug  (nose pokes),  F 4, 56 \u2009=\u20095.427,  P \u2009=\u20090.0009 ( c ), interaction day \u00d7 drug  (grooming duration)  F 4, 56 \u2009=\u20094.283,  P \u2009=\u20090.0043 ( d )). Box-and-whisker plots display the median (line), 25th and 75th percentiles (box edges), minimum and maximum (whiskers).  e  Effect of SL327 on reversal test (two-sided paired  t -test, CNO,  t \u2009=\u20091.455,  df \u2009=\u200910,  P \u2009=\u20090.1762; SL327\u2009+\u2009CNO,  t \u2009=\u20096.898,  df \u2009=\u20094,  P \u2009=\u20090.0023).  f  The effect of SL327 on hoarding behavior (two-sided Mann\u2212Whitney test, Food pellet,  U \u2009=\u20090,  P \u2009=\u20090.0005; Beads,  U \u2009=\u20091,  P \u2009=\u20090.0009).",
+    "year": "2024",
+    "license": "\u00a9 The Author(s) 2024 Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "87346:1": {
+    "path": "figures/87346_fig1.jpg",
+    "number": 1,
+    "original_url": "https://iiif.elifesciences.org/lax:87346%2Felife-87346-fig1-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.87346",
+    "legend": "Motor Sequencing App. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Banca et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "87346:2": {
+    "path": "figures/87346_fig2.jpg",
+    "number": 2,
+    "original_url": "https://iiif.elifesciences.org/lax:87346%2Felife-87346-fig2-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.87346",
+    "legend": "Training engagement. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Banca et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "87346:3": {
+    "path": "figures/87346_fig3.jpg",
+    "number": 3,
+    "original_url": "https://iiif.elifesciences.org/lax:87346%2Felife-87346-fig3-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.87346",
+    "legend": "Learning. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Banca et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "87346:4": {
+    "path": "figures/87346_fig4.jpg",
+    "number": 4,
+    "original_url": "https://iiif.elifesciences.org/lax:87346%2Felife-87346-fig4-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.87346",
+    "legend": "Automaticity. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Banca et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "87346:5": {
+    "path": "figures/87346_fig5.jpg",
+    "number": 5,
+    "original_url": "https://iiif.elifesciences.org/lax:87346%2Felife-87346-fig5-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.87346",
+    "legend": "Sensitivity of movement time to changes in reward in the continuous reward schedule. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Banca et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "87346:6": {
+    "path": "figures/87346_fig6.jpg",
+    "number": 6,
+    "original_url": "https://iiif.elifesciences.org/lax:87346%2Felife-87346-fig6-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.87346",
+    "legend": "Sensitivity of normalized inter-keystroke interval (IKI) consistency (normC) to reward changes in the continuous schedule. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Banca et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "87346:7": {
+    "path": "figures/87346_fig7.jpg",
+    "number": 7,
+    "original_url": "https://iiif.elifesciences.org/lax:87346%2Felife-87346-fig7-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.87346",
+    "legend": "Preference for familiar versus novel action sequences. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Banca et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "87346:8": {
+    "path": "figures/87346_fig8.jpg",
+    "number": 8,
+    "original_url": "https://iiif.elifesciences.org/lax:87346%2Felife-87346-fig8-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.87346",
+    "legend": "Re-evaluation procedure: two-choice appetitive learning task. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Banca et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "87346:9": {
+    "path": "figures/87346_fig9.jpg",
+    "number": 9,
+    "original_url": "https://iiif.elifesciences.org/lax:87346%2Felife-87346-fig9-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.87346",
+    "legend": "Mobile-app effect on symptomatology. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Banca et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "87346:10": {
+    "path": "figures/87346_fig10.jpg",
+    "number": 10,
+    "original_url": "https://iiif.elifesciences.org/lax:87346%2Felife-87346-fig10-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.87346",
+    "legend": "Participants\u2019 demographics, clinical characteristics and results from the self-reported questionnaires. ",
+    "year": "2024",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Banca et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "63207:1": {
+    "path": "figures/63207_fig1.jpg",
+    "number": 1,
+    "original_url": "https://iiif.elifesciences.org/lax/63207%2Felife-63207-fig1-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.63207",
+    "legend": "Annotation of mouse grooming behavior. ",
+    "year": "2021",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Geuther et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "63207:2": {
+    "path": "figures/63207_fig2.jpg",
+    "number": 2,
+    "original_url": "https://iiif.elifesciences.org/lax/63207%2Felife-63207-fig2-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.63207",
+    "legend": "Neural network based action detection. ",
+    "year": "2021",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Geuther et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "63207:3": {
+    "path": "figures/63207_fig3.jpg",
+    "number": 3,
+    "original_url": "https://iiif.elifesciences.org/lax/63207%2Felife-63207-fig3-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.63207",
+    "legend": "Validation of neural network model. ",
+    "year": "2021",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Geuther et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "63207:4": {
+    "path": "figures/63207_fig4.jpg",
+    "number": 4,
+    "original_url": "https://iiif.elifesciences.org/lax/63207%2Felife-63207-fig4-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.63207",
+    "legend": "Grooming and open field behavioral metrics. ",
+    "year": "2021",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Geuther et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "63207:5": {
+    "path": "figures/63207_fig5.jpg",
+    "number": 5,
+    "original_url": "https://iiif.elifesciences.org/lax/63207%2Felife-63207-fig5-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.63207",
+    "legend": "Sex and environmental covariate analysis of grooming behavior (total time grooming) in the open field for C57BL/6J and C57BL/6NJ strains. ",
+    "year": "2021",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Geuther et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "63207:6": {
+    "path": "figures/63207_fig6.jpg",
+    "number": 6,
+    "original_url": "https://iiif.elifesciences.org/lax/63207%2Felife-63207-fig6-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.63207",
+    "legend": "Strain survey of grooming phenotypes with representative ethograms (2457 animals and 2252 hr of data, each dot represents 55 min of a single animal). ",
+    "year": "2021",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Geuther et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "63207:7": {
+    "path": "figures/63207_fig7.jpg",
+    "number": 7,
+    "original_url": "https://iiif.elifesciences.org/lax/63207%2Felife-63207-fig7-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.63207",
+    "legend": "Relatedness of grooming phenotypes. ",
+    "year": "2021",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Geuther et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "63207:8": {
+    "path": "figures/63207_fig8.jpg",
+    "number": 8,
+    "original_url": "https://iiif.elifesciences.org/lax/63207%2Felife-63207-fig8-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.63207",
+    "legend": "Three classes of grooming patterns in the open field revealed by clustering. ",
+    "year": "2021",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Geuther et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "63207:9": {
+    "path": "figures/63207_fig9.jpg",
+    "number": 9,
+    "original_url": "https://iiif.elifesciences.org/lax/63207%2Felife-63207-fig9-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.63207",
+    "legend": "GWAS analysis of grooming and open field behaviors. ",
+    "year": "2021",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Geuther et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "63207:10": {
+    "path": "figures/63207_fig10.jpg",
+    "number": 10,
+    "original_url": "https://iiif.elifesciences.org/lax/63207%2Felife-63207-fig10-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.63207",
+    "legend": "Human-Mouse trait relations through weighted bipartite network of PheWAS results. ",
+    "year": "2021",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Geuther et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  }
+}

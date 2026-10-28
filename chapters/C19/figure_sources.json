@@ -1,0 +1,1580 @@
+{
+  "25423:1": {
+    "path": "figures/25423_fig1.jpg",
+    "number": 1,
+    "original_url": "https://iiif.elifesciences.org/lax/25423%2Felife-25423-fig1-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.25423",
+    "legend": "Inputs of the mOT. ",
+    "year": "2017",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Zhang et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "25423:2": {
+    "path": "figures/25423_fig2.jpg",
+    "number": 2,
+    "original_url": "https://iiif.elifesciences.org/lax/25423%2Felife-25423-fig2-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.25423",
+    "legend": "Reward increased Ca2+ signals of VTA-mOT DAergic projection. ",
+    "year": "2017",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Zhang et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "25423:3": {
+    "path": "figures/25423_fig3.jpg",
+    "number": 3,
+    "original_url": "https://iiif.elifesciences.org/lax/25423%2Felife-25423-fig3-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.25423",
+    "legend": "Activation of the VTA-mOT DAergic projection produced acute place preference. ",
+    "year": "2017",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Zhang et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "25423:4": {
+    "path": "figures/25423_fig4.jpg",
+    "number": 4,
+    "original_url": "https://iiif.elifesciences.org/lax/25423%2Felife-25423-fig4-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.25423",
+    "legend": "Activation of the VTA-mOT DAergic projection produced positive reinforcement. ",
+    "year": "2017",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Zhang et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "25423:5": {
+    "path": "figures/25423_fig5.jpg",
+    "number": 5,
+    "original_url": "https://iiif.elifesciences.org/lax/25423%2Felife-25423-fig5-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.25423",
+    "legend": "Activation of the VTA (DAergic)-mOT pathway elicited or altered odor-preference. ",
+    "year": "2017",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Zhang et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "25423:6": {
+    "path": "figures/25423_fig6.jpg",
+    "number": 6,
+    "original_url": "https://iiif.elifesciences.org/lax/25423%2Felife-25423-fig6-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.25423",
+    "legend": "VTA DAergic neurons segregatedly innervate the NAc and the mOT. ",
+    "year": "2017",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Zhang et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "25423:7": {
+    "path": "figures/25423_fig7.jpg",
+    "number": 7,
+    "original_url": "https://iiif.elifesciences.org/lax/25423%2Felife-25423-fig7-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.25423",
+    "legend": "Inactivation of the mOT-projecting VTA DAergic neurons decreased the odor-cue based reward learning and learnt odor-preference. ",
+    "year": "2017",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Zhang et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "25423:8": {
+    "path": "figures/25423_fig8.jpg",
+    "number": 8,
+    "original_url": "https://iiif.elifesciences.org/lax/25423%2Felife-25423-fig8-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.25423",
+    "legend": "Optogenetic inactivation of VTA-mOT DAergic projections during odor-food associative learning abolished the establishment of S+\u00a0odor preference. ",
+    "year": "2017",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Zhang et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "86183:1": {
+    "path": "figures/86183_fig1.jpg",
+    "number": 1,
+    "original_url": "https://iiif.elifesciences.org/lax:86183%2Felife-86183-fig1-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.86183",
+    "legend": "OHRBETS (Open-Source Head-fixed Rodent Behavioral Experimental Training System) operant conditioning. ",
+    "year": "2023",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Gordon-Fennell et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "86183:2": {
+    "path": "figures/86183_fig2.jpg",
+    "number": 2,
+    "original_url": "https://iiif.elifesciences.org/lax:86183%2Felife-86183-fig2-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.86183",
+    "legend": "Mice rapidly learn head-fixed operant conditioning for sucrose and display operant behaviors established in freely moving experiments. ",
+    "year": "2023",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Gordon-Fennell et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "86183:3": {
+    "path": "figures/86183_fig3.jpg",
+    "number": 3,
+    "original_url": "https://iiif.elifesciences.org/lax:86183%2Felife-86183-fig3-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.86183",
+    "legend": "Head-fixed operant conditioning to obtain stimulation of lateral hypothalamic area GABAergic (LHAGABA) neurons or avoid stimulation of LHA glutamatergic (LHAGlut) neurons. ",
+    "year": "2023",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Gordon-Fennell et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "86183:4": {
+    "path": "figures/86183_fig4.jpg",
+    "number": 4,
+    "original_url": "https://iiif.elifesciences.org/lax:86183%2Felife-86183-fig4-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.86183",
+    "legend": "Head-fixed wheel time preference (WTP) and aversion associated with stimulation of lateral hypothalamic area (LHA) subpopulations mirrors freely moving behavior. ",
+    "year": "2023",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Gordon-Fennell et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "86183:5": {
+    "path": "figures/86183_fig5.jpg",
+    "number": 5,
+    "original_url": "https://iiif.elifesciences.org/lax:86183%2Felife-86183-fig5-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.86183",
+    "legend": "Head-fixed consumption of gradients of rewarding and aversive solutions during brief access. ",
+    "year": "2023",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Gordon-Fennell et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "86183:6": {
+    "path": "figures/86183_fig6.jpg",
+    "number": 6,
+    "original_url": "https://iiif.elifesciences.org/lax:86183%2Felife-86183-fig6-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.86183",
+    "legend": "Homeostatic demand shifts within session consumption of gradients of sucrose and NaCl. ",
+    "year": "2023",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Gordon-Fennell et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "86183:7": {
+    "path": "figures/86183_fig7.jpg",
+    "number": 7,
+    "original_url": "https://iiif.elifesciences.org/lax:86183%2Felife-86183-fig7-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.86183",
+    "legend": "Light/dark cycle shifts within-session consumption of gradients of sucrose. ",
+    "year": "2023",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Gordon-Fennell et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "86183:8": {
+    "path": "figures/86183_fig8.jpg",
+    "number": 8,
+    "original_url": "https://iiif.elifesciences.org/lax:86183%2Felife-86183-fig8-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.86183",
+    "legend": "Differential dopamine dynamics during multi-spout consumption behavior. ",
+    "year": "2023",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Gordon-Fennell et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "85064:1": {
+    "path": "figures/85064_fig1.jpg",
+    "number": 1,
+    "original_url": "https://iiif.elifesciences.org/lax:85064%2Felife-85064-fig1-v4.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.85064",
+    "legend": "Lateral NAc (LNAc) dopaminergic encoding of visual threats. ",
+    "year": "2023",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Gonzalez, Fisher et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "85064:2": {
+    "path": "figures/85064_fig2.jpg",
+    "number": 2,
+    "original_url": "https://iiif.elifesciences.org/lax:85064%2Felife-85064-fig2-v4.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.85064",
+    "legend": "Dopaminergic responses to rapid dark-to-light transitions. ",
+    "year": "2023",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Gonzalez, Fisher et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "85064:3": {
+    "path": "figures/85064_fig3.jpg",
+    "number": 3,
+    "original_url": "https://iiif.elifesciences.org/lax:85064%2Felife-85064-fig3-v4.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.85064",
+    "legend": "Dopaminergic responses to repeated light stimuli. ",
+    "year": "2023",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Gonzalez, Fisher et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "85064:4": {
+    "path": "figures/85064_fig4.jpg",
+    "number": 4,
+    "original_url": "https://iiif.elifesciences.org/lax:85064%2Felife-85064-fig4-v4.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.85064",
+    "legend": "Dopaminergic responses to individual wavelengths across the visual spectrum. ",
+    "year": "2023",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Gonzalez, Fisher et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "49319:1": {
+    "path": "figures/49319_fig1.jpg",
+    "number": 1,
+    "original_url": "https://iiif.elifesciences.org/lax/49319%2Felife-49319-fig1-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.49319",
+    "legend": "The chemistry of fluorescent naltrexamine-acylimidazole (NAI). ",
+    "year": "2019",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    }
+  },
+  "49319:2": {
+    "path": "figures/49319_fig2.jpg",
+    "number": 2,
+    "original_url": "https://iiif.elifesciences.org/lax/49319%2Felife-49319-fig2-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.49319",
+    "legend": "Naltrexamine-acylimidazole modified with fluorescencent dyes (NAI-A594 or NAI-A488) labels FMORs in HEK293 cells. ",
+    "year": "2019",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    }
+  },
+  "49319:3": {
+    "path": "figures/49319_fig3.jpg",
+    "number": 3,
+    "original_url": "https://iiif.elifesciences.org/lax/49319%2Felife-49319-fig3-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.49319",
+    "legend": "NAI-A594 labeled endogenous MORs on LC neurons. ",
+    "year": "2019",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    }
+  },
+  "49319:4": {
+    "path": "figures/49319_fig4.jpg",
+    "number": 4,
+    "original_url": "https://iiif.elifesciences.org/lax/49319%2Felife-49319-fig4-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.49319",
+    "legend": "NAI-A594 labeled MOR selectively in patches of the striatum in brain slices from wild type animals. ",
+    "year": "2019",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    }
+  },
+  "49319:5": {
+    "path": "figures/49319_fig5.jpg",
+    "number": 5,
+    "original_url": "https://iiif.elifesciences.org/lax/49319%2Felife-49319-fig5-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.49319",
+    "legend": "Localization of NAI-A594 induced labeling in the thalamus and habenula. ",
+    "year": "2019",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    }
+  },
+  "49319:6": {
+    "path": "figures/49319_fig6.jpg",
+    "number": 6,
+    "original_url": "https://iiif.elifesciences.org/lax/49319%2Felife-49319-fig6-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.49319",
+    "legend": "The labeling of NAI-A594 in the midbrain of brain slices from TH-GFP mouse. ",
+    "year": "2019",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    }
+  },
+  "49319:7": {
+    "path": "figures/49319_fig7.jpg",
+    "number": 7,
+    "original_url": "https://iiif.elifesciences.org/lax/49319%2Felife-49319-fig7-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.49319",
+    "legend": "Labeled MORs are functional. ",
+    "year": "2019",
+    "license": {
+      "license": "CC0-1.0",
+      "statement": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 public domain dedication</a>."
+    }
+  },
+  "81298:1": {
+    "path": "figures/81298_fig1.jpg",
+    "number": 1,
+    "original_url": "https://iiif.elifesciences.org/lax:81298%2Felife-81298-fig1-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.81298",
+    "legend": "Loss of MOR mediated presynaptic inhibition under chronic activation conditions is paralleled by a reduction in surface receptor number in axons. ",
+    "year": "2022",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Julli\u00e9 et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "81298:2": {
+    "path": "figures/81298_fig2.jpg",
+    "number": 2,
+    "original_url": "https://iiif.elifesciences.org/lax:81298%2Felife-81298-fig2-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.81298",
+    "legend": "Phosphorylation of MOR is required for endocytosis of receptors, loss of surface receptors upon chronic activation, and the development of presynaptic tolerance. ",
+    "year": "2022",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Julli\u00e9 et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "81298:3": {
+    "path": "figures/81298_fig3.jpg",
+    "number": 3,
+    "original_url": "https://iiif.elifesciences.org/lax:81298%2Felife-81298-fig3-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.81298",
+    "legend": "Partial and biased MOR agonists fail to elicit tolerance to the same degree as full agonists peptides. ",
+    "year": "2022",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Julli\u00e9 et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "81298:4": {
+    "path": "figures/81298_fig4.jpg",
+    "number": 4,
+    "original_url": "https://iiif.elifesciences.org/lax:81298%2Felife-81298-fig4-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.81298",
+    "legend": "Tolerance is an homologous process conserved between opioid receptors. ",
+    "year": "2022",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Julli\u00e9 et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "81298:5": {
+    "path": "figures/81298_fig5.jpg",
+    "number": 5,
+    "original_url": "https://iiif.elifesciences.org/lax:81298%2Felife-81298-fig5-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.81298",
+    "legend": "DOR is less efficiently recycled to the plasma membrane compared to MOR. ",
+    "year": "2022",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Julli\u00e9 et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "81298:6": {
+    "path": "figures/81298_fig6.jpg",
+    "number": 6,
+    "original_url": "https://iiif.elifesciences.org/lax:81298%2Felife-81298-fig6-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.81298",
+    "legend": "DOR C-terminal tail phosphorylation is not necessary for presynaptic endocytosis, surface receptor depletion or tolerance. ",
+    "year": "2022",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Julli\u00e9 et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "81298:7": {
+    "path": "figures/81298_fig7.jpg",
+    "number": 7,
+    "original_url": "https://iiif.elifesciences.org/lax:81298%2Felife-81298-fig7-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.81298",
+    "legend": "Proposed model of opioid receptor signaling and trafficking in axons. ",
+    "year": "2022",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Julli\u00e9 et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "Frontiers1347491:1": {
+    "path": "figures/Frontiers1347491_fig1.png",
+    "number": 1,
+    "original_url": "https://www.frontiersin.org/files/Articles/1347491/xml-images/fncel-18-1347491-g0001.webp",
+    "doi": "10.3389/fncel.2024.1347491",
+    "legend": "hPMCA2w/b over-expression suppresses astrocyte Ca 2+  signaling in the dorsal striatum.  (A)  Individual and merged overlay confocal \u201cz-stacks\u201d (maximum intensity projections) of DAPI, astrocyte GCaMP6f, AAV-tdTomato, and AAV-hPMCA2w/b.  Top row : 2x magnification images. Scale bar = 1 mm.  Middle/bottom rows : 40x magnification images. Scale bar = 50 \u03bcm.  (B)  Total number of astrocytes displaying spontaneous Ca 2+  events quantified as regions of interest (active ROIs) after transduction of the hPMCA2w/b or the control, tdTomato, virus. Note that the number of active ROIs likely underestimates the number of GCaMP6f-expressing astrocytes in both hPMCA2w/b and tdTomato groups since cells with static fluorescence could be detected in many of the imaged fields of view.  (C)  Total number of Ca 2+  events observed across all cells in each group.  (D\u2013F)  Amplitudes, durations, and frequencies of spontaneous Ca 2+  events per ROI are displayed as \u2018violin' plots. Plot width is proportional to frequency distributions of corresponding values. Dotted lines indicate the median and quartiles.  (B\u2013F) \n N  = 2 tdTomato animals, 2 hPMCA2w/b animals, 5\u20139 slices in each group,  n  = 24\u2013208 active cells in each group.  **** p  < 0.0001.",
+    "year": "2024",
+    "license": "Copyright \u00a9 2024 Tavakoli, Malone, Anderson, Neeley, Asadipooya, Bardo and Ortinski. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.",
+    "original_path": "figures/Frontiers1347491_fig1.jpg",
+    "display_conversion": "Lossless PNG format conversion at native pixel dimensions; no crop, recoloring, or resampling."
+  },
+  "Frontiers1347491:2": {
+    "path": "figures/Frontiers1347491_fig2.png",
+    "number": 2,
+    "original_url": "https://www.frontiersin.org/files/Articles/1347491/xml-images/fncel-18-1347491-g0002.webp",
+    "doi": "10.3389/fncel.2024.1347491",
+    "legend": "Expression of neuronal GCaMP6f. Individual and merged overlay confocal \u201cz-stacks\u201d (maximum intensity projections), illustrating segregation of neuronal GCaMP6f and astrocyte labels.  Top row : 2x magnification images. Scale bar = 1 mm.  Middle row : 40x magnification images with arrows indicating location of astrocyte-targeted tdTomato in different fluorescent channels. Note clear segregation of tdTomato and neuronal GCaMP6f labels. Scale bar = 50 \u03bcm.  Bottom row : 40x magnification images with arrows indicating location of GCaMP6f-positive neuron somas. Again, note segregation with the astrocyte tdTomato, but overlap with the NeuN, labels. Scale bar = 50 \u03bcm.",
+    "year": "2024",
+    "license": "Copyright \u00a9 2024 Tavakoli, Malone, Anderson, Neeley, Asadipooya, Bardo and Ortinski. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.",
+    "original_path": "figures/Frontiers1347491_fig2.jpg",
+    "display_conversion": "Lossless PNG format conversion at native pixel dimensions; no crop, recoloring, or resampling."
+  },
+  "Frontiers1347491:3": {
+    "path": "figures/Frontiers1347491_fig3.png",
+    "number": 3,
+    "original_url": "https://www.frontiersin.org/files/Articles/1347491/xml-images/fncel-18-1347491-g0003.webp",
+    "doi": "10.3389/fncel.2024.1347491",
+    "legend": "Suppression of astrocyte Ca 2+  increases cocaine seeking during cue-induced reinstatement.  (A)  Experimental timeline of surgeries, behavioral procedures, and wide-field Ca 2+  imaging in the slice.  (B)  Active presses across all days of self-administration and extinction training.  (C)  Histogram of active lever presses during the last day of FR1 training.  (D)  Histogram of active lever presses during the last day of FR3 training.  (E)  Histogram of total active lever presses during the last day of extinction training. Significance symbols indicate main effect of cocaine (two-way ANOVA).  (F)  Histogram of total active lever presses during cue-induced reinstatement.  N  = 6\u20137 animals in each group. Triangles\u2014males, circles\u2014females. ** p  < 0.001; *** p  < 0.001; **** p  < 0.0001. All graphs indicate mean \u00b1 SEM.",
+    "year": "2024",
+    "license": "Copyright \u00a9 2024 Tavakoli, Malone, Anderson, Neeley, Asadipooya, Bardo and Ortinski. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.",
+    "original_path": "figures/Frontiers1347491_fig3.jpg",
+    "display_conversion": "Lossless PNG format conversion at native pixel dimensions; no crop, recoloring, or resampling."
+  },
+  "Frontiers1347491:4": {
+    "path": "figures/Frontiers1347491_fig4.png",
+    "number": 4,
+    "original_url": "https://www.frontiersin.org/files/Articles/1347491/xml-images/fncel-18-1347491-g0004.webp",
+    "doi": "10.3389/fncel.2024.1347491",
+    "legend": "Suppression of astrocyte Ca 2+  elevates amplitude of neuronal Ca 2+  transients in the dorsal striatum following cocaine self-administration.  (A)  Schematic of virus injections.  (B) \n Left : False-color heatmaps of neuronal Ca 2+  fluorescence within the same field of view at time points indicated at bottom right of each panel. Areas of low activity are depicted in cooler colors and areas of high activity are depicted in warmer colors representing the arbitrary units (A.U.) of fluorescence marked in the scale bar to the right. The arbitrary units (A.U.) on the scale bar represent fractions of maximum fluorescence intensity across the entire field.  Right : Representative \u0394F/F 0  traces, illustrating Ca 2+  activity across the imaging session in select neurons indicated by arrows in  (A) .  (C\u2013E)  Violin plots of amplitudes, durations, and frequencies of spontaneous Ca 2+  events. Thin black lines indicate medians and quartiles. Thick black lines are centered at the means.  N  = 4\u20136 animals in each group. 18\u201336 Slices in each group.  n  = 308\u2013414 cells in each group. * p  < 0.05; *** p  < 0.0001; **** p  < 0.0001.",
+    "year": "2024",
+    "license": "Copyright \u00a9 2024 Tavakoli, Malone, Anderson, Neeley, Asadipooya, Bardo and Ortinski. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.",
+    "original_path": "figures/Frontiers1347491_fig4.jpg",
+    "display_conversion": "Lossless PNG format conversion at native pixel dimensions; no crop, recoloring, or resampling."
+  },
+  "Frontiers1347491:5": {
+    "path": "figures/Frontiers1347491_fig5.png",
+    "number": 5,
+    "original_url": "https://www.frontiersin.org/files/Articles/1347491/xml-images/fncel-18-1347491-g0005.webp",
+    "doi": "10.3389/fncel.2024.1347491",
+    "legend": "Acute application of cocaine broadly suppresses neuronal Ca 2+  signaling.  (A)  Schematic of virus injections.  (B) \n Left : A single video frame of raw neuronal Ca 2+  fluorescence in the aCSF condition. Scale bar = 50 \u03bcM.  Right : Representative \u0394F/F 0  traces, illustrating Ca 2+  activity across the imaging session in select neurons indicated by arrows.  (C) \n Left : Same field of view as in  (B) , but after bath application of 10\u03bcM cocaine HCl. Scale bar = 50 \u03bcM.  Right : Representative \u0394F/F 0  traces, illustrating Ca 2+  activity in select neurons indicated by arrows.  (D\u2013F)  Violin plots of neuronal Ca 2+  event amplitudes, durations, and frequencies in saline self-administration (saline SA) and cocaine self-administration (cocaine SA) groups. Thin black lines indicate medians and quartiles. Thick black lines are centered at the means.  N  = 4\u20136 animals in each group. 9\u201321 FOVs in each group.  n  = 61\u2013100 cells in each group. * p  < 0.05; ** p  < 0.01; **** p  < 0.0001.",
+    "year": "2024",
+    "license": "Copyright \u00a9 2024 Tavakoli, Malone, Anderson, Neeley, Asadipooya, Bardo and Ortinski. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.",
+    "original_path": "figures/Frontiers1347491_fig5.jpg",
+    "display_conversion": "Lossless PNG format conversion at native pixel dimensions; no crop, recoloring, or resampling."
+  },
+  "Frontiers1347491:6": {
+    "path": "figures/Frontiers1347491_fig6.png",
+    "number": 6,
+    "original_url": "https://www.frontiersin.org/files/Articles/1347491/xml-images/fncel-18-1347491-g0006.webp",
+    "doi": "10.3389/fncel.2024.1347491",
+    "legend": "Inhibition of the CaSR has comparable effects on neuronal Ca 2+  regardless of cocaine experience or hPMCA2w/b expression.  (A) \n Left : A single video frame of raw neuronal Ca 2+  fluorescence recorded in aCSF conditions. Scale bar = 50 \u03bcM.  Right : Representative \u0394F/F 0  traces, illustrating Ca 2+  activity across the imaging session in select neurons indicated by arrows.  (B) \n Left : Same field of view as in  (A) , but after bath application of 100nM NPS-2143. Scale bar = 50 \u03bcM.  Right : Representative \u0394F/F 0  traces, illustrating Ca 2+  activity across the imaging session in select neurons indicated by arrows in B).  (C\u2013E)  Violin plots of Ca 2+  event amplitudes, durations, and frequencies in saline self-administration (saline SA) and cocaine self-administration (cocaine SA) groups. N= 3-5 animals in each group. 8\u201312 Slices in each group.  n  = 48\u201367 cells in each group. Thin black lines indicate medians and quartiles. Thick black lines are centered at the means. * p  < 0.05; ** p  < 0.01; **** p  < 0.0001.",
+    "year": "2024",
+    "license": "Copyright \u00a9 2024 Tavakoli, Malone, Anderson, Neeley, Asadipooya, Bardo and Ortinski. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.",
+    "original_path": "figures/Frontiers1347491_fig6.jpg",
+    "display_conversion": "Lossless PNG format conversion at native pixel dimensions; no crop, recoloring, or resampling."
+  },
+  "s41467-025-65875-w:1": {
+    "path": "figures/s41467-025-65875-w_fig1.jpg",
+    "number": 1,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-025-65875-w/MediaObjects/41467_2025_65875_Fig1_HTML.png",
+    "doi": "10.1038/s41467-025-65875-w",
+    "legend": "Intranasal cocaine self-administration in head-restrained mice. A  Schematic of experimental apparatus. Mice are head-restrained, and responding on the cocaine-paired lever resulted in the immediate delivery of a\u00a00.5 \u00b5L droplet of cocaine solution (dissolved in saline) directly in front of the subject\u2019s nostril through a microfluidic delivery system consisting of a blunt needle mounted on a 3-axis miniature micromanipulator.  B  Top :  response records from the last session of each session type (no reinforcer, fixed ratio 2, fixed ratio 5). Each row represents response records for an individual animal, with consistent order cross session type. Bottom: mean operant responding per session prior to cocaine availability (responses had no programmed consequence) and when responding is reinforced by 4.0\u2009mg/kg droplets of cocaine under fixed ratio 2 or 5 schedules. Responding increased when reinforced by 4.0\u2009mg/kg cocaine (two-tailed repeated measures one-way ANOVA, dose, F (1.347, 12.12) \u2009=\u20095.19,  p \u2009=\u20090.033).  n\u2009 =\u20095 tested within subject across conditions.  C  Example event records of reinforced responses across increasing doses of cocaine (0.1-6.0\u2009mg/kg/delivery) under a fixed ratio 2 schedule in 1-hour sessions.  D  Averaged cumulative records of lever responding during low (0.1), middle (3.0), and high (6.0) dose sessions. Responding (second order polynomial, R 2 \u2009=\u20090.99) ( E ) and cocaine intake (second order polynomial, R 2 \u2009=\u20090.96) ( F ) across the dose-response curve. Error represents 95% confidence interval of the best-fit values.  G  Heatmap of responding across extended-access cocaine self-administration sessions, binned by time (1-minute). Each row is an individual animal, with consistent sorting across sessions.  H  Averaged rate of cocaine reinforcers delivered per minute, binned by time (30-minute), across extended-access sessions.  n\u2009 =\u20098 tested within subject across conditions. Error bars are \u00b1 SEM.  I  Cocaine intake increased linearly across extended-access sessions when responding is reinforced by 4.0\u2009mg/kg droplets of cocaine under fixed ratio 2 schedule, normalized to 1\u2009hour session intake (dotted line) (extra sum of squares F test, F (1,22) \u2009=\u20096.05,  p \u2009=\u20090.02 compared to 0).  n\u2009 =\u20098 tested within subject across conditions. Data represent mean\u2009\u00b1\u2009SEM, with the exception of panels E and F which show 95% confidence interval of the best-fit values. Created in BioRender. Erickson, K. (2025)  https://BioRender.com/wvwzyuv .",
+    "year": "2025",
+    "license": "\u00a9 The Author(s) 2025 2025 https://creativecommons.org/licenses/by/4.0/ Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "s41467-025-65875-w:2": {
+    "path": "figures/s41467-025-65875-w_fig2.jpg",
+    "number": 2,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-025-65875-w/MediaObjects/41467_2025_65875_Fig2_HTML.png",
+    "doi": "10.1038/s41467-025-65875-w",
+    "legend": "Intranasal cocaine self-administration robustly elevates blood cocaine concentrations as a function of intake. A  Schematic of experimental workflow. Mice underwent an intranasal cocaine self-administration session where cocaine (4\u2009mg/kg) was available under a fixed ratio 1 schedule. To impose structured variance in the amount and timing of intake, the session was terminated when animals met a delivery cap of either 20 ( n\u2009 =\u20095) or 40 ( n\u2009 =\u20096) deliveries, or after 1\u2009hour. Immediately following the session plasma was isolated for later analysis via liquid chromatography-tandem mass spectrometry (LC-MS/MS).  B  Plasma cocaine concentrations (ng/mL) in mice that self-administered cocaine compared to controls. Cocaine-administering mice showed markedly elevated plasma cocaine levels compared to controls (two-tailed Mann-Whitney U test, U\u2009=\u20090,  p\u2009 =\u20090.0002;  n\u2009 =\u20095 control,  n\u2009 =\u200911 cocaine).  C  There was a strong positive correlation between the rate of cocaine intake (mg/kg/min) and log-transformed plasma cocaine concentrations (Pearson\u2019s correlation,  r \u2009=\u20090.92,  p\u2009 <\u20090.0001), indicating that higher rates of self-administration were associated with greater systemic exposure. Data represent mean\u2009\u00b1\u2009SEM. Created in BioRender. Siciliano, C. (2025)  https://BioRender.com/n2j821o .",
+    "year": "2025",
+    "license": "\u00a9 The Author(s) 2025 2025 https://creativecommons.org/licenses/by/4.0/ Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "s41467-025-65875-w:3": {
+    "path": "figures/s41467-025-65875-w_fig3.jpg",
+    "number": 3,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-025-65875-w/MediaObjects/41467_2025_65875_Fig3_HTML.png",
+    "doi": "10.1038/s41467-025-65875-w",
+    "legend": "Intranasal cocaine maintains both low and high rates of responding depending on reinforcement schedule. A  Raster plots showing lever presses over time in a representative animal from the saline (top) and cocaine (bottom) groups during fixed ratio self-administration sessions. Each vertical tick mark represents a lever press. Color indicates fixed ratio schedule: fixed ratio 1 (blue), 2 (turquoise), 5 (red), and 20 (green).  B  Operant responding across increasing fixed ratio requirements reinforced by intranasal infusion of saline (0.5\u2009\u00b5L of 0.9% NaCl per delivery) or cocaine (4\u2009mg/kg cocaine dissolved in 0.5\u2009\u00b5L of 0.9% NaCl per delivery). As expected, high doses of cocaine delivered under a low ratio schedule engendered response rates comparable to saline. However, increasing the ratio requirement resulted in large increases in responding for cocaine while responding for saline decreased. Mice self-administering cocaine displayed higher response rates at fixed ratio 5 and fixed ratio 20 compared to saline controls (two-way ANOVA, drug condition (F (1,47) \u2009=\u200917.52,  p\u2009 =\u20090.0001); schedule F (3,47) \u2009=\u20090.6405,  p\u2009 =\u20090.59; drug condition x schedule, F (3, 47) \u2009=\u20093.381,  p\u2009 =\u20090.03). Sidak\u2019s posttest: * p\u2009 <\u20090.05; ** p\u2009 <\u20090.01 versus saline. Data represent mean\u2009\u00b1\u2009SEM;  n\u2009 =\u20096 saline,  n\u2009 =\u20098 cocaine.",
+    "year": "2025",
+    "license": "\u00a9 The Author(s) 2025 2025 https://creativecommons.org/licenses/by/4.0/ Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "s41467-025-65875-w:4": {
+    "path": "figures/s41467-025-65875-w_fig4.jpg",
+    "number": 4,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-025-65875-w/MediaObjects/41467_2025_65875_Fig4_HTML.png",
+    "doi": "10.1038/s41467-025-65875-w",
+    "legend": "Intranasal cocaine drives\u00a0high effort responding under a progressive ratio schedule. Cumulative records of responding from individual mice during a 3-hour progressive ratio session reinforced by delivery of ( A ) saline or ( B ) cocaine (4\u2009mg/kg/delivery). Each line represents an individual animal; vertical ticks indicate a completed ratio / delivery of cocaine or saline.  C  Breakpoint was greater in cocaine-administering mice compared to saline (unpaired t-test, t (11) \u2009=\u20092.273,  p \u2009=\u20090.04).  D  Total number of lever presses was greater in the cocaine group (unpaired t-test, t (11) \u2009=\u20092.631,  p\u2009 =\u20090.02). Data represent mean\u2009\u00b1\u2009SEM;  n\u2009 =\u20096 saline,  n\u2009 =\u20097 cocaine.",
+    "year": "2025",
+    "license": "\u00a9 The Author(s) 2025 2025 https://creativecommons.org/licenses/by/4.0/ Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "s41467-025-65875-w:5": {
+    "path": "figures/s41467-025-65875-w_fig5.jpg",
+    "number": 5,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-025-65875-w/MediaObjects/41467_2025_65875_Fig5_HTML.png",
+    "doi": "10.1038/s41467-025-65875-w",
+    "legend": "Responding for\u00a0intranasal cocaine\u00a0conforms to behavioral economic principles. A  Individual (thin lines) and averaged (thick line) cumulative records of active lever responding with overlay of the behavioral economics task. The unit price, responses required to obtain 1\u2009mg of cocaine, increased across discrete 40-minute time bins by decreasing the amount of cocaine per delivery (180 \u2013 2\u2009\u00b5g/delivery).  B  Schematic of behavioral economics analysis parameters. Cocaine consumption per time bin (purple circles) and responses (green circles) were recorded. Values for consumption per bin were curve fit (solid black line) to extract measures of intrinsic value (Q 0 ) and motivation (P max ) for intranasal cocaine.  C  Demand curves fit to cocaine consumption (mg) per time bin of individual animals. Mean values of Q 0  ( D ), P max  ( E ), and elasticity (\u03b1) ( F ) extracted from demand curves. Data represent mean\u2009\u00b1\u2009SEM;  n\u2009 =\u20096.",
+    "year": "2025",
+    "license": "\u00a9 The Author(s) 2025 2025 https://creativecommons.org/licenses/by/4.0/ Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "s41386-026-02350-0:1": {
+    "path": "figures/s41386-026-02350-0_fig1.jpg",
+    "number": 1,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41386-026-02350-0/MediaObjects/41386_2026_2350_Fig1_HTML.png",
+    "doi": "10.1038/s41386-026-02350-0",
+    "legend": "Experimental timeline and cocaine infusions during Short (ShA) and Long Access (LgA). A  Experimental timeline with 66\u2009h (pink) and 90\u2009h (blue) indicating instances of abstinence.  B  Cocaine infusions during the entire session.  C  Cocaine infusions during the first 15\u2009min of the session. Plots represent means and SEM. * p \u2009<\u20090.05, ** p \u2009<\u20090.01, *** p \u2009<\u20090.001 vs. Short Access 01; ## p \u2009<\u20090.01, ## p \u2009<\u20090.001 vs. Long Access 01.",
+    "year": "2026",
+    "license": "\u00a9 The Author(s) 2026 2026 https://creativecommons.org/licenses/by/4.0/ Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "s41386-026-02350-0:2": {
+    "path": "figures/s41386-026-02350-0_fig2.jpg",
+    "number": 2,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41386-026-02350-0/MediaObjects/41386_2026_2350_Fig2_HTML.png",
+    "doi": "10.1038/s41386-026-02350-0",
+    "legend": "Psychomotor sensitization and tolerance show no effect on cocaine self-administration. A  Raw locomotion (m) across Noncontingent sessions.  ###p \u2009<\u20090.001 vs Baseline ;  *** p \u2009<\u20090.001 vs Saline.  B  Locomotion (m) percent difference from Baseline. # p \u2009<\u20090.05,  ###p \u2009<\u20090.001 vs Baseline ;  * p \u2009<\u20090.05, *** p \u2009<\u20090.001 vs Saline.  C  Locomotion (m) percentage difference from Baseline (Drug 01) grouped by behavioral expression. Drug 01\u2009<\u2009Drug 03, Sensitization ( n \u2009=\u200914); Drug 01 > Drug 03, Tolerance ( n \u2009=\u200922).  #p \u2009<\u20090.05,  ###p \u2009<\u20090.001 vs Baseline ;  Within behavioral expression groups: $ p \u2009<\u20090.05, $$ p \u2009<\u20090.01 vs Drug 02; Between behavioral expression groups: * p \u2009<\u20090.05 vs Tolerance Drug 02, *** p \u2009<\u20090.001 vs Tolerance Drug 03. Cocaine infusions over the entire session ( D ) and within the first 15\u2009min ( E ) grouped by behavioral expression. Plots represent means and SEM.",
+    "year": "2026",
+    "license": "\u00a9 The Author(s) 2026 2026 https://creativecommons.org/licenses/by/4.0/ Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "s41386-026-02350-0:3": {
+    "path": "figures/s41386-026-02350-0_fig3.jpg",
+    "number": 3,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41386-026-02350-0/MediaObjects/41386_2026_2350_Fig3_HTML.png",
+    "doi": "10.1038/s41386-026-02350-0",
+    "legend": "Pre-lever activity increases with Long Access, hours of abstinence, and is predictive of cocaine infusions within the first 15\u2009min of self-administration. A  Locomotion pre-lever across experiment. * p \u2009<\u20090.05, ** p \u2009<\u20090.01 vs Short Access 01.  B  Comparison of abstinence levels within and between session types. Within session type: ** p \u2009<\u20090.01, *** p \u2009<\u20090.001 vs 18\u2009h; between session type and abstinence: ### p \u2009<\u20090.001 vs 18\u2009h Long Access, ### p \u2009<\u20090.001 vs 66\u2009h Short Access; between session type: $$ p \u2009<\u20090.01 vs Short Access.  C  Mean locomotion pre-lever during Short Access correlates with mean cocaine infusions during first 15\u2009min of Short Access.  D  Locomotion pre-lever during Progressive Ratio 01 does not correlate with break point.  E  Mean locomotion pre-lever during Long Access correlates with mean cocaine infusions during first 15\u2009min of Long Access.  F  Locomotion pre-lever during Progressive Ratio 02 does not correlate with break point.  G  Locomotion pre-lever during Shock does not correlate with cocaine infusions during first 15\u2009min of Shock.  H  Active lever entrances per meter pre-lever across experiment. * p \u2009<\u20090.05, ** p \u2009<\u20090.01, *** p \u2009<\u20090.001 vs ShA01.  I  Comparison of abstinence levels within and between session types. Within session type: *** p \u2009<\u20090.001 vs 18\u2009h; between session type and abstinence: ### p \u2009<\u20090.001 vs 18, 66, and 90\u2009h Short Access; between session type: $$$ p \u2009<\u20090.001 vs Short Access.  J  Mean active lever entrances per meter pre-lever during Short Access correlates with mean cocaine infusions during first 15\u2009min of Short Access.  K  Active lever entrances per meter pre-lever during Progressive Ratio 01 correlates with break point.  L  Mean active lever entrances per meter pre-lever during Long Access correlates with mean cocaine infusions during first 15\u2009min of Long Access.  M  Active lever entrances per meter pre-lever during Progressive Ratio 02 does not correlate with break point.  N  Active lever entrances per meter pre-lever during Shock correlates with cocaine infusions during first 15\u2009min of Shock. Plots A, B, H, and I represent mean and SEM. Correlation plots E and L are by Pearson, while remaining correlations are by Spearman Rank.",
+    "year": "2026",
+    "license": "\u00a9 The Author(s) 2026 2026 https://creativecommons.org/licenses/by/4.0/ Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "s41386-026-02350-0:4": {
+    "path": "figures/s41386-026-02350-0_fig4.jpg",
+    "number": 4,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41386-026-02350-0/MediaObjects/41386_2026_2350_Fig4_HTML.png",
+    "doi": "10.1038/s41386-026-02350-0",
+    "legend": "Pre-lever activity during Short Access 07-09 predicts cocaine intake in Short and Long Access and seeking behavior during Noncontingent sessions. A  Active (green) and inactive (red) lever entrances per meter as percentage difference from Baseline (Noncontingent 01).  #p \u2009<\u20090.05,  ##p \u2009<\u20090.01 vs Baseline ;  * p \u2009<\u20090.05 vs inactive lever.  B  Nose ( x, y)  pixel coordinate heatmaps of all rats within each Noncontingent session in relation to active (green) and inactive (red) Levers. Each plot represents ~109 sessions overlain revealing high and low activity zones. Numbers within lever bounding boxes are the mean sum of active and inactive lever entrances for all rats within each Noncontingent session (Noncontingent 01 active:  M \u2009=\u200922.2,  SD \u2009=\u200913.9; inactive:  M \u2009=\u200923.4,  SD \u2009=\u200912.3; Noncontingent 02 active:  M \u2009=\u200921.8,  SD \u2009=\u200916.1; inactive:  M \u2009=\u200918.4,  SD \u2009=\u200916.5; Noncontingent 03 active:  M \u2009=\u200943.5,  SD \u2009=\u200942.1; inactive:  M \u2009=\u200924.7,  SD \u2009=\u200922.1). * p \u2009<\u20090.05 vs inactive lever.  C  Active lever entrances per meter percent difference from Baseline (Noncontingent 01) grouped by pre-lever activity z-score during Short Access 07-09.  ###p \u2009<\u20090.001 vs Baseline ;  Within pre-lever activity group: $ p \u2009<\u20090.05, $$$ p \u2009<\u20090.001 vs Noncontingent 02; Between pre-lever activity groups: *** p \u2009<\u20090.001 vs Noncontingent 02 low group. Cocaine infusions over the entire session ( D ) and within the first 15\u2009min ( E ) grouped by Short Access 07-09 pre-lever activity z-score. * p \u2009<\u20090.05, ** p \u2009<\u20090.01, *** p \u2009<\u20090.001, ### p \u2009<\u20090.001 vs low. Cocaine infusions over the entire session correlated using Spearman Rank with Short Access 07-09 pre-lever activity z-score in Short Access ( F ), Long Access 01-05 ( G ), Long Access 06-10 ( H ), but not during Long Access 11-14 ( I ). Cocaine infusions within the first 15\u2009min correlated using Spearman Rank with Short Access 07-09 pre-lever activity z-score in Short Access ( J ), Long Access 01-05 ( K ), Long Access 06-10 ( L. ), but not during Long Access 11-14 ( M ). Plots represent means and SEM.",
+    "year": "2026",
+    "license": "\u00a9 The Author(s) 2026 2026 https://creativecommons.org/licenses/by/4.0/ Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "s41380-025-03137-3:1": {
+    "path": "figures/s41380-025-03137-3_fig1.jpg",
+    "number": 1,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41380-025-03137-3/MediaObjects/41380_2025_3137_Fig1_HTML.png",
+    "doi": "10.1038/s41380-025-03137-3",
+    "legend": "IL-13R\u03b11 is one of the most prevalent immune receptors in the VTA TH +  neurons. A \u2013 D  Representative in situ hybridization images for tyrosine hydroxylase (TH) ( A ), ( B ) and IL-13R\u03b11 ( C ), ( D ) in coronal sections of a na\u00efve C57BL/6J male mouse. SNc, substantia nigra pars compacta; VTA, ventral tegmental area. Scale bar: 1\u2009mm ( A ), ( C ), 300 \u03bcm ( B ), ( D ). Image credit: Allen Institute,  http://mouse.brain - map.org/.  E  Representative confocal microscopy images showing co-localization of TH (green) and IL-13R\u03b11 (red) in the VTA and SNc. Nuclei were stained with Hoechst (blue). Scale bar: 150\u2009\u00b5m.  F \u2013 I  A representative magnified view of VTA in ( E ), showing the immunostaining of TH ( F ), IL-13R\u03b11 ( G ), Hoechst ( H ), and their co-localizations ( I ) in the VTA neurons. Scale bar: 60\u2009\u00b5m.  J  Summary of mRNA levels of immune receptors in the midbrain dopaminergic neurons. Data were obtained by cell type specific nuclei RNA sequencing of mice midbrain tissues. Data are presented as mean\u2009\u00b1\u2009SEM.",
+    "year": "2025",
+    "license": "\u00a9 The Author(s) 2025 Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "s41380-025-03137-3:2": {
+    "path": "figures/s41380-025-03137-3_fig2.jpg",
+    "number": 2,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41380-025-03137-3/MediaObjects/41380_2025_3137_Fig2_HTML.png",
+    "doi": "10.1038/s41380-025-03137-3",
+    "legend": "IL-13 negatively regulates the activity of VTA TH +  neurons. A \u2013 D  Representative Immuno-EM images showing that IL-13 localized at the presynaptic vesicles adjacent to the active zone. Square brackets indicate synapses, and arrowheads indicate vesicle staining. ( A ), IL-13-positive presynaptic staining; ( B ), IL-13-positive axonal staining; ( C ), IL-13 negative presynaptic staining; ( D ), Control staining without primary anti-IL-13 antibody.  E  Sample trace showing the effect of IL-13 (10\u2009ng/mL) on the spontaneous activity of a TH +  VTA neuron.  F  Time course of mean firing frequency of a VTA TH +  neuron at baseline, during and after IL-13 application.  G  Bar chart showing the change in firing frequency of VTA TH +  neurons at 15\u2009min post-IL-13 application and 20\u2009min post-washout (n\u2009=\u200918 cells). The firing frequency of each cell was normalized to its baseline level and presented as a percentage. F(2, 33)\u2009=\u200926.17, p\u2009<\u20090.0001, One-way repeated measures ANOVA, for main treatment effect; ****, p\u2009<\u20090.0001; ns, not significant; post-hoc Tukey\u2019s multiple comparisons test among means. Note that, the grey bar shows the effect of IL-13 on the VTA TH +  neurons in IL-13R\u03b11 Knockout mice (n\u2009=\u20098 cells, from 4 mice). The suppression effect of IL-13 was abolished by deletion of IL-13R\u03b11.  #### , p\u2009<\u20090.0001, compared to the effect of IL-13 in the C57BL/6J mice; unpaired t test.  H  Representative post-recording double immunohistochemistry performed used to demonstrate the identity of the recorded neurons stained for the injected biocytin (AlexaFluor 594; which is showed in yellow in H) and for tyrosine hydroxylase (AlexaFluor 488; which is showed in red in H). Data are presented as Mean\u2009\u00b1\u2009SEM.",
+    "year": "2025",
+    "license": "\u00a9 The Author(s) 2025 Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "s41380-025-03137-3:3": {
+    "path": "figures/s41380-025-03137-3_fig3.jpg",
+    "number": 3,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41380-025-03137-3/MediaObjects/41380_2025_3137_Fig3_HTML.png",
+    "doi": "10.1038/s41380-025-03137-3",
+    "legend": "IL-13 suppresses the stimulatory effect of nicotine and local infusion of IL-13 into VTA decreases nicotine intravenous self-administration in rodents. A  Representative traces showing the firing rate changes in VTA dopamine neurons in response to nicotine (10\u2009\u03bcM), and then nicotine (10\u2009\u03bcM)\u2009+\u2009IL-13 (10\u2009ng/mL).  B  Summary of firing frequencies (n\u2009=\u200910 cells, from 5 mice). F(2,18)\u2009=\u20098.40, p\u2009<\u20090.01, One-way repeated measures ANOVA, for main treatment effect; *, p\u2009<\u20090.05; ns, not significant; post-hoc Tukey\u2019s multiple comparisons test among means.  C  Schematic of the operant self-administration setup.  D  Infusion of exogenous recombinant IL-13 into VTA dose-dependently decreased nicotine IVSA (FR5TO20) in rats.  E  Histogram showing latency to earn the first nicotine infusion under different treatments.  F  Intra-VTA infusion of IL-13 did not alter food-reinforced responding under FR5TO20 schedule.  G  Histogram latency to earn the first food pellet under different treatments. ( D ), F (1, 7)\u2009=\u20098.6, p\u2009<\u20090.05; ( E ), F (1., 5)\u2009=\u20090.969, p\u2009=\u20090.37; ( F ), F (1., 5)\u2009=\u20090.058, p\u2009=\u20090.82; ( G ), F (1, 5)\u2009=\u20090.033, p\u2009=\u20090.8; One-way repeated measures ANOVA, for main treatment effect; *,p\u2009<\u20090.05; ns, not significant; post-hoc Tukey\u2019s multiple comparisons.  H  Direct comparison of the effects of IL-13 on responding for nicotine or food rewards, expressed as percent change from baseline intake. F(2,20)\u2009=\u20094.64, p\u2009<\u20090.05, for reinforcer effect; F (1, 10)\u2009=\u20095.21, p\u2009<\u20090.05, for dose effect; F (2, 20)\u2009=\u20095.53, p\u2009=\u20090.01, for dose x reinforcer interaction effect; Two-way repeated measures ANOVA; **p\u2009<\u20090.01, nicotine rewards compared with food rewards after treatment with the same dose of IL-13 (45\u2009ng); post-hoc Bonferroni test. Data are presented as mean\u2009\u00b1\u2009SEM.",
+    "year": "2025",
+    "license": "\u00a9 The Author(s) 2025 Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "s41380-025-03137-3:4": {
+    "path": "figures/s41380-025-03137-3_fig4.jpg",
+    "number": 4,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41380-025-03137-3/MediaObjects/41380_2025_3137_Fig4_HTML.png",
+    "doi": "10.1038/s41380-025-03137-3",
+    "legend": "IL-13 inhibits HCN channels in the VTA dopamine neurons. A, \n B  Representative traces ( A ) and summary data  (B)  of voltage-gated potassium channel\u2013mediated currents in VTA DA neurons before and after treatment with IL-13 (10\u2009ng/mL) (n\u2009=\u20097 cells, from 4 mice).  C  Representative trace (top) and summary data (bottom) of  I h  currents before and after treatment with IL-13 (n\u2009=\u200911 cells, from 6 mice). ****, p\u2009<\u20090.0001; Two-way repeated measures ANOVA, main treatment effect.  D  Representative traces of tail currents of HCN channels before and after treatment with IL-13. The tail currents were evoked by a series of voltage steps as indicated on the left. Arrows indicate the tail currents.  E  Tail current density plotted versus the preceding test potential. Tail current density was calculated by tail current amplitudes divided by the membrane capacitance of each neuron. F(1, 6)\u2009=\u20095.757, p\u2009=\u20090.05, Two-way repeated measure ANOVA, for main treatment effect.  F \n I h  activation curves fitted with Boltzmann functions.  G  IL-13 induced a significant hyperpolarizing shift of the half activation potential (V 1/2 ) of HCN channels. *, p\u2009=\u20090.013; paired t test; n\u2009=\u20097 cells, from 4 mice. Data are presented as mean\u2009\u00b1\u2009SEM.",
+    "year": "2025",
+    "license": "\u00a9 The Author(s) 2025 Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "s41380-025-03137-3:5": {
+    "path": "figures/s41380-025-03137-3_fig5.jpg",
+    "number": 5,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41380-025-03137-3/MediaObjects/41380_2025_3137_Fig5_HTML.png",
+    "doi": "10.1038/s41380-025-03137-3",
+    "legend": "IL-13 activates the PI3K/AKT signaling pathway in the VTA. A  Western blots showing PI3K, p-PI3K, AKT, p-AKT, STAT3, p-STAT3, ERK1/2, p-ERK1/2, HCN1, and HCN2 expression in VTA extracts from brain slices perfused for 20\u2009min with aCSF alone (Control) or with aCSF containing IL-13 (10\u2009ng/mL).  B  Quantification of protein expression. n\u2009=\u20096 or 12 mice per group; *p\u2009<\u20090.05, **p\u2009<\u20090.01; ns, not significant; unpaired t test. Data are presented as mean\u2009\u00b1\u2009SEM.",
+    "year": "2025",
+    "license": "\u00a9 The Author(s) 2025 Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "s41380-025-03137-3:6": {
+    "path": "figures/s41380-025-03137-3_fig6.jpg",
+    "number": 6,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41380-025-03137-3/MediaObjects/41380_2025_3137_Fig6_HTML.png",
+    "doi": "10.1038/s41380-025-03137-3",
+    "legend": "The inhibitory effect of IL-13 on VTA dopamine neuron activity requires PI3K/AKT signaling and HCN channel function. A \u2013 D  Representative traces and summary data showing the effects on VTA DA firing rate of IL-13 (10\u2009ng/mL) alone ( A ), HCN channel blocker ZD7288 (10\u2009\u03bcM)\u2009+\u2009IL-13 ( B ), PI3K inhibitor PI-103 (1\u2009\u03bcM)\u2009+\u2009IL-13 ( C ), and AKT inhibitor III (1\u2009\u03bcM)\u2009+\u2009IL-13 ( D ). The pretreatment time was 20\u201330\u2009min right before each recording. ( A ), **, p\u2009<\u20090.01, n\u2009=\u200913 cells, from 6 mice; ( B ), ns, n\u2009=\u20099 cells, from 4 mice; ( C ), ns, n\u2009=\u20098 cells, from 4 mice; ( D ), ns, n\u2009=\u20099 cells, from 4 mice; ns, not significant, paired t test.  E  Direct comparison of the suppression effects of IL-13 with and without inhibitors. p\u2009<\u20090.0001, one-way ANOVA, for main treatment effect; *p\u2009<\u20090.05, **p\u2009<\u20090.01, ***p\u2009<\u20090.001, post-hoc Tukey\u2019s multiple comparisons test among means. Data are presented as mean\u2009\u00b1\u2009SEM.",
+    "year": "2025",
+    "license": "\u00a9 The Author(s) 2025 Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "74648:1": {
+    "path": "figures/74648_fig1.jpg",
+    "number": 1,
+    "original_url": "https://iiif.elifesciences.org/lax:74648%2Felife-74648-fig1-v4.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.74648",
+    "legend": "Apo and ligand-bound structures of iNicSnFR3adt (dt indicates that His6 and Myc tags have been removed to aid crystallization). ",
+    "year": "2022",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Nichols, Blumenfeld, Fan et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "74648:2": {
+    "path": "figures/74648_fig2.jpg",
+    "number": 2,
+    "original_url": "https://iiif.elifesciences.org/lax:74648%2Felife-74648-fig2-v4.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.74648",
+    "legend": "Nicotinic agonist intensity-based drug-sensing fluorescent reporter (iDrugSnFR) development. ",
+    "year": "2022",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Nichols, Blumenfeld, Fan et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "74648:3": {
+    "path": "figures/74648_fig3.jpg",
+    "number": 3,
+    "original_url": "https://iiif.elifesciences.org/lax:74648%2Felife-74648-fig3-v4.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.74648",
+    "legend": "Dose\u2013response relations of intensity-based drug-sensing fluorescent reporter (iDrugSnFR) protein versus a nicotinic agonist panel. ",
+    "year": "2022",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Nichols, Blumenfeld, Fan et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "74648:4": {
+    "path": "figures/74648_fig4.jpg",
+    "number": 4,
+    "original_url": "https://iiif.elifesciences.org/lax:74648%2Felife-74648-fig4-v4.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.74648",
+    "legend": "Isothermal titration calorimetry traces, fits, and thermodynamic data. ",
+    "year": "2022",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Nichols, Blumenfeld, Fan et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "74648:5": {
+    "path": "figures/74648_fig5.jpg",
+    "number": 5,
+    "original_url": "https://iiif.elifesciences.org/lax:74648%2Felife-74648-fig5-v4.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.74648",
+    "legend": "Stopped-flow fluorescence kinetic data for (A) iDianiSnFR, (B) iCytSnFR, (C) iCyt_F_SnFR, and (D) iCyt_BrEt_SnFR over 1 s and 100 s. ",
+    "year": "2022",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Nichols, Blumenfeld, Fan et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "74648:6": {
+    "path": "figures/74648_fig6.jpg",
+    "number": 6,
+    "original_url": "https://iiif.elifesciences.org/lax:74648%2Felife-74648-fig6-v4.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.74648",
+    "legend": "Decay of the iCytSnFR_PM responses after removal of ACh, cytisine, or varenicline. ",
+    "year": "2022",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Nichols, Blumenfeld, Fan et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "74648:7": {
+    "path": "figures/74648_fig7.jpg",
+    "number": 7,
+    "original_url": "https://iiif.elifesciences.org/lax:74648%2Felife-74648-fig7-v4.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.74648",
+    "legend": "Nicotinic agonist intensity-based drug-sensing fluorescent reporter (iDrugSnFR) dose\u2013response relations in HeLa cells. ",
+    "year": "2022",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Nichols, Blumenfeld, Fan et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "74648:8": {
+    "path": "figures/74648_fig8.jpg",
+    "number": 8,
+    "original_url": "https://iiif.elifesciences.org/lax:74648%2Felife-74648-fig8-v4.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.74648",
+    "legend": "Nicotinic agonist intensity-based drug-sensing fluorescent reporter (iDrugSnFR) dose\u2013response experiments in mouse primary hippocampal neurons transduced with AAV9-hSyn iDrugSnFR. ",
+    "year": "2022",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Nichols, Blumenfeld, Fan et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "PLOS3003423:1": {
+    "path": "figures/PLOS3003423_fig1.jpg",
+    "number": 1,
+    "original_url": "https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.3003423.g001",
+    "doi": "10.1371/journal.pbio.3003423",
+    "legend": "Nicotine increased the coupling of DMP and reversals. (A)  An assay diagram of response to nicotine exposure and withdrawal in  Caenorhabditis elegans . Young adult hermaphrodites were used.  (B)  Representative 3-min locomotion trajectories of two animals on withdrawal plates without (\u2212 nic) and with (+ nic) nicotine exposure.  (C)  Coupling time diagrams for reversal and defecation motor program (DMP). Upper, representative speed traces labeled with the moment of DMP setup. Gray bar: DMP not couple with reversal; Orange bar: DMP couples with reversal. Bottom, raster plots of 10 consecutive DMP cycles that coupled with or without reversal in 10 animals.  (D)  Quantification of the DMP-reversal coupling proportion. Nicotine, but not glutamate, significantly enables the coupling of DMP to reversal. Two-way ANOVA was performed (interaction:  F (1, 37)  = 225.9,  P \u2009<\u20090.0001).  (E)  100 segmented DMP-associated movements, each shown for 30\u2009s. The 0-s time point represents the initiation of the DMP and serves as the alignment reference. The speed of 10\u2009s before and 20\u2009s after DMP initiation were used. The figure below shows the average speed of the 100 segments.  (F)  The dose dependence of nicotine (3\u2009h) for the coupling of DMP and reversal.  (G)  The time dependence of nicotine (1\u2009mM) for the coupling of DMP and reversal.  (H)  The failure time dependence of nicotine.  n \u2009\u2265\u200910 animals. ns, no significance, ***  p \u2009<\u20090.001 by Two-way ANOVA analysis. Error bars, SEM. The data underlying this figure can be found in  S1 Data .",
+    "year": "2025",
+    "license": "\u00a9 2025 Liu et al 2025 Liu et al https://creativecommons.org/licenses/by/4.0/ This is an open access article distributed under the terms of the  Creative Commons Attribution License , which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited."
+  },
+  "PLOS3003423:2": {
+    "path": "figures/PLOS3003423_fig2.jpg",
+    "number": 2,
+    "original_url": "https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.3003423.g002",
+    "doi": "10.1371/journal.pbio.3003423",
+    "legend": "Nicotine enhanced DMP-reversal coupling requires ACR-16 in AVA. (A)  Suppression of nicotine enhanced DMP-reversal coupling by nAChR antagonist DH\u03b2E (20 \u00b5M). Two-way ANOVA was performed (interaction:  F (1, 39)  = 275.6,  P \u2009<\u20090.0001).  (B)  The GluR antagonists DNQX (500 \u00b5M) and MK-801 (50 \u00b5M) do not affect nicotine-enhanced DMP reverse coupling. Two-way ANOVA was performed (interaction:  F (1, 36)  = 1.619,  P \u2009=\u20090.2114).  (C)  Dendrogram of  Caenorhabditis elegans  nAChRs. A fraction of nAChRs from  Drosophila , mouse, and humans were included, such as mouse \u03b17.  (D)  Genetic screening identified a specific nAChR gene,  acr-16 , disrupts nicotine-enhanced DMP-reversal coupling. Two-way ANOVA was performed (interaction:  F (21, 437)  = 12.95,  P \u2009<\u20090.0001).  (E)  Expression pattern of  acr-16 .  Up , endogenous  acr-16  promoter driven GFP was observed in AVA command interneuron and body wall muscles. Scale bar, 20 \u00b5m.  Bottom , the co-localization of P acr-16 ::GFP and P twk-40s ::RFP in AVA neuron. Scale bar, 10 \u03bcm. Worm orientation, A anterior, D dorsal.  (F)  Quantification of the rescue of DMP-reversal coupling by expression of ACR-16 in different tissues. AVA, AVE,  etc . command interneurons, but not motor neurons or muscles, are the critical functional cells for ACR-16. Expression of mouse \u03b17 nAChR restored the DMP-reversal coupling proportion in  acr-16(ok789)  mutants. Two-way ANOVA was performed (interaction:  F (6, 129)  = 34.81,  P \u2009<\u20090.0001).  (G)  Overexpression of ACR-16 in wild-type N2 increases the DMP-reversal coupling proportion even without nicotine exposure. Two-way ANOVA was performed (interaction:  F (1, 70)  = 22.05,  P \u2009<\u20090.0001).  n \u2009\u2265\u200910 animals. ns, no significance, ***  p \u2009<\u20090.001 by Two-way ANOVA analysis. #  p \u2009<\u20090.05 by Student  t  test. Error bars, SEM. The data underlying this figure can be found in  S1 Data .",
+    "year": "2025",
+    "license": "\u00a9 2025 Liu et al 2025 Liu et al https://creativecommons.org/licenses/by/4.0/ This is an open access article distributed under the terms of the  Creative Commons Attribution License , which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited."
+  },
+  "PLOS3003423:3": {
+    "path": "figures/PLOS3003423_fig3.jpg",
+    "number": 3,
+    "original_url": "https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.3003423.g003",
+    "doi": "10.1371/journal.pbio.3003423",
+    "legend": "Nicotine enhances calcium activity in AVA. (A) \n Left , A representative calcium (Ca 2+ ) transient of AVA neurons over five consecutive DMP cycles from a freely behaving animal without nicotine treatment. Only one DMP triggers Ca 2+  activity in AVA.  Right , Nicotine significantly enhances spontaneous Ca 2+  transient activity in AVA, with all five DMP cycles initiating Ca 2+  activity in AVA. Green boxes and arrows indicate tight coupling between DMP and AVA Ca 2+  transients, while gray boxes and arrows represent the absence of coupling. Dashed boxes highlight 30\u2009s segments of AVA Ca 2+  activity, with 10\u2009s before and 20\u2009s after DMP initiation. Arrows indicate the initiation moments of DMP.  (B)  The AVA Ca 2+  activity from five consecutive DMP cycles, recorded from 20 individual worms, is shown for both nicotine-free (\u2212 nic) and nicotine-exposed (+ nic) conditions across different genotypes ( n \u2009=\u200920 animals per genotype). The Ca 2+  transients are aligned based on the DMP initiation moments (indicated by arrows and dashed lines). Numbers 1 through 5 correspond to the five consecutive DMP cycles. The average AVA Ca 2+  response for each DMP is displayed below.  (C)  Quantitative analysis of the coupling percentage of AVA Ca 2+  transient responses to DMP. Nicotine enhanced coupling proportion of DMP-AVA Ca 2+  transients is dependent on ACR-16. Two-way ANOVA was performed (interaction:  F (2, 114)  = 83.67,  P \u2009<\u20090.0001).  (D)  Quantification of the peak amplitude of AVA Ca 2+  transients that coupled with DMP. Nicotine increased the amplitude of AVA Ca 2+  transients, which is dependent on ACR-16. Two-way ANOVA was performed (interaction:  F (2, 277)  = 26.60,  P \u2009<\u20090.0001).  n \u2009=\u200920 animals in each genotype. ns, no significance, ***  p \u2009<\u20090.001 by Two-way ANOVA analysis. Error bars, SEM. The data underlying this figure can be found in  S1 Data .",
+    "year": "2025",
+    "license": "\u00a9 2025 Liu et al 2025 Liu et al https://creativecommons.org/licenses/by/4.0/ This is an open access article distributed under the terms of the  Creative Commons Attribution License , which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited."
+  },
+  "PLOS3003423:4": {
+    "path": "figures/PLOS3003423_fig4.jpg",
+    "number": 4,
+    "original_url": "https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.3003423.g004",
+    "doi": "10.1371/journal.pbio.3003423",
+    "legend": "Upregulation of ACR-16 is responsible for the nicotine-enhanced DMP-reversal coupling. (A)  Nicotine up-regulates ACR-16 expression in AVA. Using fluorescently-tagged ACR-16 based on split GFP reconstitution, we inserted three copies of the spGFP11 (split GFP11) sequence into the  acr-16 ::aid::Scarlet locus via CRISPR/Cas9 (ACR-16-AID-Scarlet-spGFP11) and expressed the complementary spGFP1-10 (split GFP1-10) moiety in the AVA to generate AVA specific ACR-16::GFP transgenic line. Scale bar, 10 \u00b5m.  (B, C)  After nicotine exposure, the fluorescence intensity in both AVA soma and neurite are significantly increased.  (D) \n Up , A schematic diagram of in situ whole-cell recording of  Caenorhabditis elegans  AVA under voltage clamping configuration (V  Clamp ).  Bottom , Representative currents evoked by acetylcholine (1\u2009mM) (I  ACh ) in different genotypes without (\u2212 nic) or with (+ nic) nicotine exposure. The purple arrows indicate the dosing time. AVA was hold at \u221260 mV.  (E)  Quantification of peak currents across different genotypes. Two-way ANOVA was performed (interaction:  F (2, 42)  = 4.105,  P \u2009=\u20090.0235).  n \u2009\u2265\u20096 animals. ns, no significance, *  p \u2009<\u20090.05, **  p \u2009<\u20090.01, ***  p \u2009<\u20090.001 by Two-way ANOVA analysis. Error bars, SEM. The data underlying this figure can be found in  S1 Data .",
+    "year": "2025",
+    "license": "\u00a9 2025 Liu et al 2025 Liu et al https://creativecommons.org/licenses/by/4.0/ This is an open access article distributed under the terms of the  Creative Commons Attribution License , which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited."
+  },
+  "PLOS3003423:5": {
+    "path": "figures/PLOS3003423_fig5.jpg",
+    "number": 5,
+    "original_url": "https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.3003423.g005",
+    "doi": "10.1371/journal.pbio.3003423",
+    "legend": "Exteroceptive TRNs are essential for nicotine enhanced DMP-reversal coupling. (A)  Suppression of nicotine enhanced DMP-reversal coupling in  mec-2 ,  mec-4 ,  mec-6  mutation worms. Neuronal specific expression of MEC-6 restored nicotine enhanced DMP-reversal coupling in  mec-6  mutants. The coupling proportion was unaffected by mutations in genes essential for harsh touch, proprioception, and nociceptive functions. Two-way ANOVA was performed (interaction:  F (12, 217)  = 19.72,  P \u2009<\u20090.0001).  (B) \n Up , Blue light irradiation of TRNs expressing GtACR2 completely blocked nicotine-enhanced DMP-reversal coupling. The numbers 1 through 3 refer to three consecutive DMP cycles. Gray bar: DMP not couple with reversal; Orange bar: DMP couples with reversal.  Bottom , Quantification of the proportion in transgenic TRN::GtACR2 animals without and with blue light after nicotine exposure.  (C) \n Up , A schematic diagram of ablation of TRNs by miniSOG.  Bottom , TRNs injury abolished nicotine enhanced DMP-reversal coupling. Two-way ANOVA was performed (interaction:  F (1, 25)  = 87.52,  P \u2009<\u20090.0001).  n \u2009\u2265\u20095 animals. ns, no significance, ***  p \u2009<\u20090.001 by Two-way ANOVA analysis. Error bars, SEM. The data underlying this figure can be found in  S1 Data .",
+    "year": "2025",
+    "license": "\u00a9 2025 Liu et al 2025 Liu et al https://creativecommons.org/licenses/by/4.0/ This is an open access article distributed under the terms of the  Creative Commons Attribution License , which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited."
+  },
+  "PLOS3003423:6": {
+    "path": "figures/PLOS3003423_fig6.jpg",
+    "number": 6,
+    "original_url": "https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.3003423.g006",
+    "doi": "10.1371/journal.pbio.3003423",
+    "legend": "Nicotine facilitates the signal strength from TRNs to AVA. (A) \n Upper , a brief diagram shows standard gentle touch evoked reversal for exteroceptive sensitivity examination.  Bottom , raster plots showing individual speed responses of different genotypic animals to gentle touch on the anterior body, with and without nicotine exposure (\u2212 nic/\u2009+\u2009nic) ( n \u2009=\u200920 animals per group). Arrows denote gentle touch.  (B, C)  Quantification of the gentle touch evoked reversal speed (B) and duration (C). Two-way ANOVA was performed (interaction:  F (2, 114)  = 3.557,  P \u2009=\u20090.0317 for (B);  F (2, 114)  = 2.581,  P \u2009=\u20090.0801 for (C)).  (D) \n Left,  schematic diagram of in situ whole cell recording of dissected AVA neuron by optogenetically stimulating TRNs under current clamp configuration (I  Clamp ).  Right , light-evoked excitatory post-synaptic potentials (EPSPs) under different pharmacological conditions in wild-type animals.  (E)  Quantification of the peak amplitude of the EPSPs. Nicotine significantly increased the signal strength in TRN-AVA circuit. ns, no significance, *  p \u2009<\u20090.05, ***  p \u2009<\u20090.001 by One-way ANOVA analysis ( F (3, 20)  = 23.87,  P \u2009<\u20090.0001). Error bars, SEM.  (F)  TRNs evoked EPSPs in  acr-16  mutants and rescue lines.  (G)  Quantification of the peak amplitude of the EPSPs in different genotypes. Nicotine increased EPSPs were reduced in  acr-16  mutant animals and could be restored by expression ACR-16 back to AVA. Two-way ANOVA was performed (interaction:  F (2, 30)  = 3.067,  P \u2009=\u20090.0614).  n \u2009\u2265\u20096 animals. ns, no significance, *  p \u2009<\u20090.05, **  p \u2009<\u20090.01, ***  p \u2009<\u20090.001 by Two-way ANOVA analysis. #  p \u2009<\u20090.05 by Student  t  test. Error bars, SEM. The data underlying this figure can be found in  S1 Data .",
+    "year": "2025",
+    "license": "\u00a9 2025 Liu et al 2025 Liu et al https://creativecommons.org/licenses/by/4.0/ This is an open access article distributed under the terms of the  Creative Commons Attribution License , which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited."
+  },
+  "PLOS3003423:7": {
+    "path": "figures/PLOS3003423_fig7.jpg",
+    "number": 7,
+    "original_url": "https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.3003423.g007",
+    "doi": "10.1371/journal.pbio.3003423",
+    "legend": "Working model. Nicotine significantly induces abnormal DMP-reversal coupling response in  Caenorhabditis elegans . An unexpected mechanosensory neural pathway involving TRN-AVA circuit mediates this response. Key mechanisms include the nicotine-induced upregulation of ACR-16 nAChRs in AVA and nicotine-strengthened signal transmission within TRN-AVA circuit. TRNs may sense internal body contractions associated with the DMP, abnormally activating sensitized command interneurons to drive reversals. This finding underscores an unexpected functional integration induced by nicotine exposure.",
+    "year": "2025",
+    "license": "\u00a9 2025 Liu et al 2025 Liu et al https://creativecommons.org/licenses/by/4.0/ This is an open access article distributed under the terms of the  Creative Commons Attribution License , which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited."
+  },
+  "24733:1": {
+    "path": "figures/24733_fig1.jpg",
+    "number": 1,
+    "original_url": "https://iiif.elifesciences.org/lax/24733%2Felife-24733-fig1-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.24733",
+    "legend": "Loss-of-function mutation in erg-28 suppresses phenotypic defects of slo-1 gain-of-function mutant. ",
+    "year": "2017",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Oh et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "24733:2": {
+    "path": "figures/24733_fig2.jpg",
+    "number": 2,
+    "original_url": "https://iiif.elifesciences.org/lax/24733%2Felife-24733-fig2-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.24733",
+    "legend": "ERG-28 is required for SLO-1 function in synaptic transmission. ",
+    "year": "2017",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Oh et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "24733:3": {
+    "path": "figures/24733_fig3.jpg",
+    "number": 3,
+    "original_url": "https://iiif.elifesciences.org/lax/24733%2Felife-24733-fig3-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.24733",
+    "legend": "ERG-28 is an endoplasmic reticulum resident protein expressed in muscles and neurons. ",
+    "year": "2017",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Oh et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "24733:4": {
+    "path": "figures/24733_fig4.jpg",
+    "number": 4,
+    "original_url": "https://iiif.elifesciences.org/lax/24733%2Felife-24733-fig4-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.24733",
+    "legend": "ERG-28 is required for the normal expression level of SLO-1 at synaptic terminals and muscle excitation sites. ",
+    "year": "2017",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Oh et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "24733:5": {
+    "path": "figures/24733_fig5.jpg",
+    "number": 5,
+    "original_url": "https://iiif.elifesciences.org/lax/24733%2Felife-24733-fig5-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.24733",
+    "legend": "SLO-1 is degraded by proteasome in the absence of ERG-28. ",
+    "year": "2017",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Oh et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "24733:6": {
+    "path": "figures/24733_fig6.jpg",
+    "number": 6,
+    "original_url": "https://iiif.elifesciences.org/lax/24733%2Felife-24733-fig6-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.24733",
+    "legend": "erg-28 mutation confers the resistance to the intoxicating effect of ethanol and ddi-1 mutation reverses the ethanol-resistant behavior. ",
+    "year": "2017",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Oh et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "58855:1": {
+    "path": "figures/58855_fig1.jpg",
+    "number": 1,
+    "original_url": "https://iiif.elifesciences.org/lax/58855%2Felife-58855-fig1-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.58855",
+    "legend": "Outcome of chronic ethanol treatment in mice. ",
+    "year": "2020",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Malacco et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "58855:2": {
+    "path": "figures/58855_fig2.jpg",
+    "number": 2,
+    "original_url": "https://iiif.elifesciences.org/lax/58855%2Felife-58855-fig2-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.58855",
+    "legend": "Chronic ethanol consumption leads to susceptibility associated with increased fungal load after A. fumigatus infection. ",
+    "year": "2020",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Malacco et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "58855:3": {
+    "path": "figures/58855_fig3.jpg",
+    "number": 3,
+    "original_url": "https://iiif.elifesciences.org/lax/58855%2Felife-58855-fig3-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.58855",
+    "legend": "Ethanol consumption altered cytokine release in airways in mice after A. fumigatus infection. ",
+    "year": "2020",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Malacco et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "58855:4": {
+    "path": "figures/58855_fig4.jpg",
+    "number": 4,
+    "original_url": "https://iiif.elifesciences.org/lax/58855%2Felife-58855-fig4-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.58855",
+    "legend": "Chronic ethanol consumption affects cellular influx after A. fumigatus infection. ",
+    "year": "2020",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Malacco et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "58855:5": {
+    "path": "figures/58855_fig5.jpg",
+    "number": 5,
+    "original_url": "https://iiif.elifesciences.org/lax/58855%2Felife-58855-fig5-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.58855",
+    "legend": "Lung histopathology is affected by ethanol treatment in mice. ",
+    "year": "2020",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Malacco et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "58855:6": {
+    "path": "figures/58855_fig6.jpg",
+    "number": 6,
+    "original_url": "https://iiif.elifesciences.org/lax/58855%2Felife-58855-fig6-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.58855",
+    "legend": "Chronic ethanol consumption reduced leukocyte rolling and adhesion in vivo and neutrophils chemotaxis ex vivo. ",
+    "year": "2020",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Malacco et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "58855:7": {
+    "path": "figures/58855_fig7.jpg",
+    "number": 7,
+    "original_url": "https://iiif.elifesciences.org/lax/58855%2Felife-58855-fig7-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.58855",
+    "legend": "Chronic ethanol consumption impaired neutrophils activation and downregulated CXCR2 in a sepsis-like manner after A. fumigatus infection. ",
+    "year": "2020",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Malacco et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "58855:8": {
+    "path": "figures/58855_fig8.jpg",
+    "number": 8,
+    "original_url": "https://iiif.elifesciences.org/lax/58855%2Felife-58855-fig8-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.58855",
+    "legend": "Ethanol consumption decreased neutrophils phagocytosis, killing and ROS production after A. fumigatus stimuli. ",
+    "year": "2020",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Malacco et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "58855:9": {
+    "path": "figures/58855_fig9.jpg",
+    "number": 9,
+    "original_url": "https://iiif.elifesciences.org/lax/58855%2Felife-58855-fig9-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.58855",
+    "legend": "Mechanism related to chronic ethanol dysfunction in neutrophils after A. fumigatus infection. ",
+    "year": "2020",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Malacco et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "s41467-024-54737-6:1": {
+    "path": "figures/s41467-024-54737-6_fig1.jpg",
+    "number": 1,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-024-54737-6/MediaObjects/41467_2024_54737_Fig1_HTML.png",
+    "doi": "10.1038/s41467-024-54737-6",
+    "legend": "Binge alcohol drinking and avoidance behavior fluctuate with E2 status across the estrous cycle. a  Representative images of vaginal epithelial cells across the estrous cycle.  b  Ovarian aromatase (AROM) protein expression in female mice categorized as proestrus compared to metestrus status females (N\u2019s\u2009=\u2009metestrus 7, proestrus 7).  c  Plasma E2 concentrations in proestrus and metestrus status females (N\u2019s\u2009=\u2009metestrus 4, proestrus 4; each N represents a pooled sample from five mice).  d  Whole-brain E2 concentrations in proestrus and metestrus status females (N\u2019s\u2009=\u2009metestrus 10, proestrus 9).  e  Drinking in the Dark (DID) binge drinking paradigm (Biorender license: VB27JLIIQ2).  f  Average 2-h consumption of EtOH across cycles of DID (N\u2019s\u2009=\u200927\u2009F, 7\u2009M; Biorender license: RP27GVXCTW).  g  First EtOH access (N\u2019s\u2009=\u2009high E2 8, low E2 9, M 11).  h  Average 2-h consumption of sucrose across cycles of DID (N\u2019s\u2009=\u200915\u2009F, 15\u2009M; Biorender license: DD27GVXH5F).  i  First sucrose access consumption (N\u2019s\u2009=\u2009high E2 6, low E2 7, M 7).  j  % Time spent in the center of the open field (OF; N\u2019s\u2009=\u2009high E2 6, low E2 13, M 10).  k  Distance traveled in the OF (N\u2019s\u2009=\u2009high E2 6, low E2 13, M 10).  l  % Time on the light side of the light:dark box (LDB; N\u2019s\u2009=\u2009high E2 7, low E2 12, M 10).  m  % Time in open arms of the elevated plus maze (EPM; N\u2019s\u2009=\u2009high E2 7, low E2 11, M 10).  n  Distance traveled in the EPM (N\u2019s\u2009=\u2009high E2 7, low E2 11, M 10). * P \u2009<\u20090.05, ** P \u2009<\u20090.01, *** P \u2009<\u20090.001, **** P \u2009<\u20090.0001,  & P \u2009<\u20090.10 for unpaired t-tests, mixed effects analysis main effects, one way ANOVA main effects of group, and post hoc t-tests paired t-tests with H-S corrections between high and low E2 days in  f  and post hoc unpaired t-tests with H-S corrections for other panels, as indicated. Data are presented as mean values +/\u2212SEM. Detailed statistics provided in Supplemental Table\u00a0 1 . Source data are provided as a Source Data file.",
+    "year": "2024",
+    "license": "\u00a9 The Author(s) 2024 2024 https://creativecommons.org/licenses/by/4.0/ Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "s41467-024-54737-6:2": {
+    "path": "figures/s41467-024-54737-6_fig2.jpg",
+    "number": 2,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-024-54737-6/MediaObjects/41467_2024_54737_Fig2_HTML.png",
+    "doi": "10.1038/s41467-024-54737-6",
+    "legend": "BNST CRF  neurons are sensitive to ovarian estrogen status. Spontaneous synaptic transmission in BNST CRF  neurons as measured in slice electrophysiology recordings from intact CRF-CrexAi9 reporter females in low vs. high ovarian E2 states, with schematic in  a  (Biorender license: QD27GVXM7M).  b  Representative traces of spontaneous excitatory postsynaptic currents (sEPSCs).  c  The frequency of sEPSCs in BNST CRF  neurons from high and low ovarian E2 status females (N\u2019s = 6 low E2, 13 cells; 7 high E2, 13 cells;  d  and  e  are the same cells).  d  sEPSC amplitude in high and low ovarian E2 status female BNST CRF  neurons.  e ) Excitatory synaptic drive onto BNST CRF  neurons (frequency x amplitude) high and low ovarian E2 status females.  f  Representative traces of spontaneous inhibitory postsynaptic currents (sIPSCs). sIPSC frequency in BNST CRF  neurons high and low ovarian E2 status females ( g ), amplitude ( h ), and synaptic drive ( i ; N\u2019s = 6 low E2, 12 cells; 7 high E2, 11 cells). * P \u2009<\u20090.05, ** P \u2009<\u20090.01 for unpaired t-tests between low E2 and. high E2 groups. Data are presented as mean values +/\u2212SEM. Detailed statistics provided in Supplemental Table\u00a0 1 . Source data are provided as a Source Data file.",
+    "year": "2024",
+    "license": "\u00a9 The Author(s) 2024 2024 https://creativecommons.org/licenses/by/4.0/ Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "s41467-024-54737-6:3": {
+    "path": "figures/s41467-024-54737-6_fig3.jpg",
+    "number": 3,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-024-54737-6/MediaObjects/41467_2024_54737_Fig3_HTML.png",
+    "doi": "10.1038/s41467-024-54737-6",
+    "legend": "Ovarian E2 state modulates the activity of BNST CRF  neurons during motivated alcohol drinking. Fiber photometry recordings of GCamP6s in BNST CRF  neurons, with schematic of unilateral viral injection and optical fiber cannula placement ( a ; Biorender license: QP27GVY1EL) and representative image of GCaMP expression/fiber placement ( b ; ac: anterior commissure).  c  Modified EtOH DID timeline with water access given before (W1) and after (W2) the 2-h EtOH access period, and drinking bouts time course on high and low E2 days.  d  Total drinking bouts across the session (EtOH + W2; N\u2019s=5 for all sub figures, 13 low E2, 12 high E2). Total time spent displaying motivated EtOH drinking (time in bout;  e ; 14 low E2, 14 high E2) and average EtOH bout duration ( f ; 12 low E2, 14 high E2).  g  Representative traces of GCaMP signal from one mouse on a low E2 and high E2 day. GCaMP signal during high and low E2 days 10\u2009seconds following bout onset for EtOH ( h ) and water ( i ; 13 low E2, 15 high E2 for both).  j  Correlation between GCaMP signal and time spent motivated drinking during the first 30\u2009min of EtOH (25 days).  k  The number of drinking bouts (13 low E2, 13 high E2) and average GCaMP signal (14 low E2, 14 high E2) during the first 30\u2009min of EtOH (EtOH 1) compared to W1.  l  Bout number (11 low E2, 9 high E2) and GCaMP signal (11 low E2, 9 high E2) in the first 30\u2009min of W2 compared to the last 30\u2009min of EtOH (EtOH 2) on high and low E2 days.  m  Representative heat map of the frequency of GCaMP transient events across amplitude bins for a single mouse across W1 and EtOH 1 on low vs. high E2 days.  n  Frequency distribution of event amplitudes normalized to the amplitude distribution for W1 within each day during W1 and EtOH 1 epochs.  o  Representative heat map of the frequency of GCaMP events across amplitude bins across EtOH 2 and W2 for the same mouse as in  l .  p  Frequency distribution of event amplitudes normalized to the amplitude distribution for W1 during EtOH 2 and W2.  q  Area under the curve (AUC) of GCaMP event distributions shown in  n  and  p  (W1 and EtOH 1: 15 low E2, 15 high E2; EtOH 2 and W2: 11 low E2, 10 high E2).  r  The peak of the event amplitude distributions shown in  n  and  p  (same N\u2019s depicted in  q ). * P \u2009<\u20090.05, ** P \u2009<\u20090.01, *** P \u2009<\u20090.001, **** P \u2009<\u20090.0001,  & P \u2009<\u20090.10 for unpaired t-tests, 2xANOVA main effects and interactions and their post hoc paired t-tests with H-S corrections, and Pearson\u2019s correlation. Data are presented as mean values +/\u2212SEM. Detailed statistics are provided in Supplemental Table\u00a0 1 . Source data are provided as a Source Data file.",
+    "year": "2024",
+    "license": "\u00a9 The Author(s) 2024 2024 https://creativecommons.org/licenses/by/4.0/ Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "s41467-024-54737-6:4": {
+    "path": "figures/s41467-024-54737-6_fig4.jpg",
+    "number": 4,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-024-54737-6/MediaObjects/41467_2024_54737_Fig4_HTML.png",
+    "doi": "10.1038/s41467-024-54737-6",
+    "legend": "Rapid E2 signaling in the BNST recapitulates the pro-drinking but not anxiolytic effects of ovarian E2 and modulates BNST CRF  neurons. a  Systemic E2 synthesis inhibition in high ovarian E2 mice using the aromatase inhibitor letrozole (LET, 10\u2009mg/kg; Biorender license: UM27GVZ81B).  b  Effects of LET administration on EtOH consumption (N\u2019s\u2009=\u200913 saline VEH, 19 LET; Biorender license: VB27JLIIQ2).  c  Effects of LET administration on elevated plus maze (EPM) % time spent in the open arms (left) or distance traveled (right; N\u2019s\u2009=\u200915 VEH, 14 LET).  d  Intra-BNST infusion of LET (1\u2009\u03bcg in 200\u2009nl/side) in high E2 status females.  e  Effects of intra-BNST LET on EtOH consumption (N\u2019s\u2009=\u20097 VEH, 6 LET).  f  Intra-BNST infusion of E2 (20\u2009pg in 200\u2009nl/side) or membrane-impermeable E2 (mE2, 55\u2009pg in 200\u2009nl/side) in low E2 status females (Biorender license: BF27GVZGF6).  g  Effects of intra-BNST E2 on EtOH consumption (N\u2019s\u2009=\u20098 VEH, 7 E2).  h  Effects of intra-BNST mE2 on EtOH consumption (N\u2019s\u2009=\u200912 VEH, 11 mE2).  i  Effects of intra-BNST E2 on EPM % time spent in the open arms (left) or distance traveled (right; N\u2019s\u2009=\u20097 VEH, 8 E2).  j  Effects of bath application of E2/mE2 on excitatory synaptic transmission in BNST CRF  neurons during slice electrophysiology recordings in low ovarian E2 status female CRF-CrexAi9 reporters (Biorender license: JF27GVZUJE).  k  Spontaneous excitatory postsynaptic currents (sEPSCs) maximum delta from % baseline during E2/mE2 wash on (E2 nM: 0.01: N\u2009=\u20092, 2 cells; 1: N\u2009=\u20094, 4 cells; 10: N\u2009=\u20095, 7 cells; 100: N\u2009=\u20094, 4 cells; 1000: N\u2009=\u20093, 5 cells; 100\u2009nM mE2: N\u2009=\u20093, 6 cells; l and m are the same cells).  l  Time course of BNST CRF  neurons that displayed increase/decrease/no change in sEPSC frequency and amplitude ( m ) % change from baseline during E2 application and proportion of responding categories (pie charts). * P \u2009<\u20090.05, ** P \u2009<\u20090.01, *** P \u2009<\u20090.001 for unpaired t-tests between VEH vs. LET treatment and VEH vs E2/mE2 treatment; Fisher\u2019s exact test frequency vs amplitude; post hoc t-tests with H-S corrections as indicated. Data are presented as mean values +/\u2212SEM. Detailed statistics are provided in Supplementary Table\u00a0 1 . Source data are provided as a Source Data file.",
+    "year": "2024",
+    "license": "\u00a9 The Author(s) 2024 2024 https://creativecommons.org/licenses/by/4.0/ Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "s41467-024-54737-6:5": {
+    "path": "figures/s41467-024-54737-6_fig5.jpg",
+    "number": 5,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-024-54737-6/MediaObjects/41467_2024_54737_Fig5_HTML.png",
+    "doi": "10.1038/s41467-024-54737-6",
+    "legend": "ER\u03b1 is robustly expressed in the BNST and mediates rapid E2 modulation of binge drinking but not avoidance behavior. a \u2013 c  Analysis of single nucleus RNA sequencing (snRNA-seq) of female mouse BNST nuclei (total cells: 38,806; GEO:  GSE126836 ) 78 .  a  BNST cells expressing estrogen receptor \u03b1 (ER\u03b1;  Esr1 ) and estrogen receptor \u03b2 (ER\u03b2;  Esr2 ) and both.  b \n Crh -expressing BNST cells (BNST CRF ) expressing ER\u03b1, ER\u03b2, and both.  c \n Slc17a6 -expressing BNST cells (BNST VGLUT2 ) expressing ER\u03b1, ER\u03b2, and both.  d ,  e  RNAscope fluorescence in situ hybridization (FISH) probing for ER\u03b1 ( Esr1 ), ER\u03b2 ( Esr2 ), CRF ( Crh ), and VGLUT2 ( Slc17a6 ) in the BNST in females, with red boxes indicating the location of confocal z-stack images taken; representative images pseudocolored for visibility.  d  ER\u03b1 and ER\u03b2 expression in CRF+ and CRF- cells (N\u2019s\u2009=\u20094). Dashed arrow: cell expressing CRF/ER\u03b1/ER\u03b2; solid arrow: cell expressing CRF/ER\u03b1.  e  ER\u03b1 and ER\u03b2 expression in VGLUT2+ cells (N\u2019s\u2009=\u20094). Dashed arrow: cell expressing VGLUT2/ER\u03b1/ER\u03b2; solid arrow: cell expressing VGLUT2/ER\u03b1.  f  Bath application of the ER\u03b1 antagonist methyl-piperidino-pyrazole (MPP) on BNST CRF  neurons during slice electrophysiology recordings in high ovarian E2 female CRF-CrexAi9 reporters (Biorender license: NF27GVWGQV).  g ,  h  Effects of bath application of MPP (3\u2009\u03bcM) on spontaneous excitatory postsynaptic current (sEPSC) frequency and amplitude (N\u2019s\u2009=\u20094, 7 cells).  i  Depiction of strategy to site-deliver MPP (10\u2009\u03bcM/200\u2009nl/side), the ER\u03b2 antagonist 4-[2-phenyl-5,7-bis(trifluoromethyl)pyrazolo[1,5-a]pyrimidin-3-yl]phenol (PHTPP; 10\u2009\u03bcM/200\u2009nl/side), or saline (VEH) to the BNST in high E2 females (Biorender license: ZS27GW07FP).  j  Effects of intra-BNST MPP (N\u2019s=8, 8 VEH, 8 MPP) or PHTPP (N\u2019s\u2009=\u20097, 7 VEH, 7 PHTPP) on binge EtOH consumption (Biorender license: VB27JLIIQ2).  k  Effects of intra-BNST MPP on avoidance behavior in the light:dark box (LDB; N\u2019s\u2009=\u20098 VEH, 7 MPP).  l  Effects of intra-BNST PHTPP on avoidance behavior in the open field (OF; N\u2019s\u2009=\u20095 VEH, 6 PHTPP). * P \u2009<\u20090.05, ** P \u2009<\u20090.01, *** P \u2009<\u20090.001 for 2xANOVA main effects and interactions between receptors; paired t-tests between VEH vs. ER antagonist treatment prior to DID; unpaired t-tests between VEH vs. ER antagonist treatment prior to avoidance assays; post hoc t-tests with H-S corrections as indicated. ##<0.01; one sample t-test. Data are presented as mean values +/\u2212SEM. Detailed statistics are provided in Supplementary Table\u00a0 1 . Source data are provided as a Source Data file.",
+    "year": "2024",
+    "license": "\u00a9 The Author(s) 2024 2024 https://creativecommons.org/licenses/by/4.0/ Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ ."
+  },
+  "61821:1": {
+    "path": "figures/61821_fig1.jpg",
+    "number": 1,
+    "original_url": "https://iiif.elifesciences.org/lax/61821%2Felife-61821-fig1-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.61821",
+    "legend": "Correcting for differences in locomotor activity accounts for apparent deficits in eyeblink conditioning. ",
+    "year": "2020",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Albergaria et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "61821:2": {
+    "path": "figures/61821_fig2.jpg",
+    "number": 2,
+    "original_url": "https://iiif.elifesciences.org/lax/61821%2Felife-61821-fig2-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.61821",
+    "legend": "Equalizing locomotor activity with a motorized treadmill rescues CB1-related learning deficits. ",
+    "year": "2020",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Albergaria et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "61821:3": {
+    "path": "figures/61821_fig3.jpg",
+    "number": 3,
+    "original_url": "https://iiif.elifesciences.org/lax/61821%2Felife-61821-fig3-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.61821",
+    "legend": "Eyeblink conditioning is intact in granule-cell-specific CB1 knockout mice. ",
+    "year": "2020",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Albergaria et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "61821:4": {
+    "path": "figures/61821_fig4.jpg",
+    "number": 4,
+    "original_url": "https://iiif.elifesciences.org/lax/61821%2Felife-61821-fig4-v1.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.61821",
+    "legend": "Locomotor learning in global and granule-cell-specific CB1 knockout mice. ",
+    "year": "2020",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Albergaria et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "ncomms5589:1": {
+    "path": "figures/ncomms5589_fig1.jpg",
+    "number": 1,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fncomms5589/MediaObjects/41467_2014_Article_BFncomms5589_Fig1_HTML.jpg",
+    "doi": "10.1038/ncomms5589",
+    "legend": "Agonists induce specific endocytic dwell times of the CB1R. ( a ) HEK293 cells expressing SEP-CB1Rs before and after 5\u03bcM WIN 55,212-2 imaged using TIRF.\nKymographs from the cell surface show individual endocytic events (yellow\nrectangle). ( b ) Normalized fluorescence intensity from the event in\n a . s.d. from multiple normalized traces for 5\u03bcM\nWIN 55,212-2 is\ndepicted in grey. ( c ) Representative kymograph showing individual\nSEP-CB1Rs endocytic\nevents in the presence of 10\u03bcM 2-AG. ( d ) Normalized fluorescence intensity from\nan endocytic event elicited by 2-AG with s.d. from multiple events in grey. ( e )\nBox and whiskers plot (median values with min/max range) showing dwell times\nof a single endocytic event elicited by 5\u03bcM WIN 55,212-2 and 10\u03bcM\n2-AG ( n =336\nevents per 12 cells and 244 events per 9 cells). ( f ) Endocytosis\nelicited by 5\u03bcM WIN\n55,212-2 and 10-\u03bcM 2-AG was analysed by the decrease\nin total surface fluorescence intensity in HEK293 cells by time lapse TIRF\nmicroscopy ( n =5 cells per treatment). ( g ) Dwell times were\nanalysed for the indicated concentrations of agonist. No statistically\nsignificant difference was observed between concentrations\n( n =6\u201312 cells per condition). (The mean time\u00b1s.d.\nfor 0.1 and 10\u2009\u03bcM of WIN 55,212-2 was 106\u00b163\nand 117\u00b188\u2009s, respectively. The mean times for 0.1 and\n0.5\u2009\u03bcM of 2-AG was 177\u00b187 and\n159\u00b180\u2009s). ( h ) Kymograph from a hippocampal\nneuron expressing SEP-CB1Rs in the presence of 5\u2009\u03bcM\nWIN 55,212-2.\n( i ) Kymograph from a hippocampal neuron incubated with\n10\u2009\u03bcM 2-AG. ( j ) Representative traces of normalized\nfluorescence from individual endocytic events. ( k ) Box and whiskers\nplot (median values with min/max range) and cumulative probability graphs\nfrom SEP-CB1Rs dwell\ntimes elicited by the indicated agonists in hippocampal neuronal cultures\n( n =84 events per 7 cells and 109 events per 10 cells).",
+    "year": "2014",
+    "license": "Copyright \u00a9 2014, Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights\nReserved. This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article\u2019s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/"
+  },
+  "ncomms5589:2": {
+    "path": "figures/ncomms5589_fig2.jpg",
+    "number": 2,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fncomms5589/MediaObjects/41467_2014_Article_BFncomms5589_Fig2_HTML.jpg",
+    "doi": "10.1038/ncomms5589",
+    "legend": "Agonists control the maturation process of CB1R clathrin-coated pits. ( a ) HEK293 cells co-expressing SEP-CB1Rs and DsRed-clathrin (top) or mCherry-caveolin-1 (bottom) incubated with\n5\u03bcM WIN\n55,212-2 and imaged under TIRF microscopy. Single frames\nshow overlay after 5\u2009min of incubation. ( b ) Kymographs\nshowing individual SEP-CB1R endocytic event with clathrin (top, yellow traces)\nand caveolin-1 (bottom).\n( c ) Representative normalized fluorescence intensity scan from\nthe overlay of SEP-CB1Rs\nand DsRed-clathrin. ( d ) HEK293 cells expressing SEP-CB1Rs and either DsRed-clathrin\n(top) or mCherry-caveolin-1 (bottom) were incubated with 10\u03bcM\n2-AG. Single frames\nafter 5\u2009min show the overlay. ( e ) Kymographs showing\nindividual SEP-CB1R\nendocytic events with clathrin (top, yellow traces) and\nmCherry-caveolin-1\n(bottom). ( f ) Representative fluorescence intensity trace from an\nindividual SEP-CB1R\nendocytic event showing no colocalization with mCherry-caveolin-1. ( g )\nColocalization was analysed in multiple cells 5\u2009min after\ntreatments between CB1Rs\nand clathrin or CB1Rs and\ncaveolin-1\n( n =5\u20137 cells, error bars represent s.e.m. from multiple\nanalyses). ( h ) Colocalization analysis after a 5-min treatment with\n10\u03bcM 2-AG\nbetween SEP-CB1Rs and\nDsRed-clathrin or mCherry-caveolin-1 ( n =6\u20139 cells, error\nrepresents s.e.m. from multiple analyses). ( i ) Clathrin-coated pit\ndwell times were analysed in HEK cells expressing only Ds-Red-clathrin under\nbasal conditions or in the presence of the indicated ligands. ( j ) The\nmean intensity from the initial 20\u2009s from events elicited with\n5\u03bcM WIN\n55,212-2, black shows the mean and grey s.d. ( n =50\nevents). ( k ) The mean intensity from endocytic events elicited with\n10\u03bcM 2-AG\n( n =70 events). ( l ) Box and whiskers analysis comparing\nnormalized intensities from  j , k  at 20\u2009s (left) and\n40\u2009s (right) after event onset ( P =0.46 and  P =0.29,\nrespectively, plot indicates the median values and min/max range).",
+    "year": "2014",
+    "license": "Copyright \u00a9 2014, Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights\nReserved. This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article\u2019s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/"
+  },
+  "ncomms5589:3": {
+    "path": "figures/ncomms5589_fig3.jpg",
+    "number": 3,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fncomms5589/MediaObjects/41467_2014_Article_BFncomms5589_Fig3_HTML.jpg",
+    "doi": "10.1038/ncomms5589",
+    "legend": "\u03b2-arrestin-1 is\nrecruited and retained into CB1R CCPs with ligand-specific kinetics. ( a ) HEK293 cells co-expressing SEP-CB1R and mRFP-\u03b2-arrestin-1 were incubated with 5\u03bcM\nWIN 55,212-2 and\nanalysed under dual-colour TIRF microscopy. Representative kymograph showing\nindividual SEP-CB1R\nevents colocalizing with mRFP-\u03b2-arrestin-1. ( b ) Individual normalized\nfluorescence intensity from SEP-CB1Rs and \u03b2-arrestin-1 during the endocytic event from\n a  (yellow rectangle). ( c ) Representative kymograph from\nHEK293 cells expressing SEP-CB1R and mRFP-\u03b2-arrestin-1 in the presence of 10\u03bcM\n2-AG. Individual\nSEP-CB1R endocytic\nevents colocalize with \u03b2-arrestin-1. ( d ) Normalized\nfluorescence intensity from SEP-CB1Rs and mRFP-\u03b2-arrestin-1 from  c  (yellow rectangle).\n( e ) Box and whiskers plot showing \u03b2-arrestin 1 dwell times\ninto CCPs elicited by 5\u03bcM WIN\n55,212-2 and 10\u03bcM 2-AG,  n =342 events per 19\ncells and 378 events per 21 cells (plot indicates the median values with\nmin/max range). ( f ) Cumulative probability from \u03b2-arrestin 1 dwell times\nfor 5\u03bcM WIN\n55,212-2 and 10\u03bcM 2-AG. ( g ) Correlation\nbetween \u03b2-arrestin\n1 dwell times and SEP-CB1R dwell times from the same endocytic event when\nelicited by 5\u03bcM WIN\n55,212-2 ( P <0.0001;  n =305 endocytic\nevents). ( h ) Correlation between \u03b2-arrestin 1 dwell times and SEP-CB1R dwell times from the same\nendocytic event when elicited by 5\u03bcM 2-AG ( P <0.0001;\n n =197 endocytic events).",
+    "year": "2014",
+    "license": "Copyright \u00a9 2014, Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights\nReserved. This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article\u2019s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/"
+  },
+  "ncomms5589:4": {
+    "path": "figures/ncomms5589_fig4.jpg",
+    "number": 4,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fncomms5589/MediaObjects/41467_2014_Article_BFncomms5589_Fig4_HTML.jpg",
+    "doi": "10.1038/ncomms5589",
+    "legend": "\u03b2-arrestin-2 is\nrecruited and retained into CB1R CCPs with ligand-specific kinetics. ( a ) HEK293 cells co-expressing SEP-CB1R and mRFP-\u03b2-arrestin-2 were incubated with 5\u03bcM\nWIN 55,212-2 and\nanalysed under dual-colour TIRF microscopy. Representative kymograph depicts\nan individual endocytic event and the colocalization between\nSEP-CB1R and\nmRFP-\u03b2-arrestin-2. ( b ) Individual normalized\nfluorescence intensity from SEP-CB1R and \u03b2-arrestin-2. ( c ) Box and whiskers plot\n(the median values and min/max range) showing \u03b2-arrestin-2 dwell times\n( n =304 events per 21 cells and 321 events per 15 cells).\n( d ) Cumulative probability for \u03b2-arrestin 2 dwell times\nin the presence of 5\u03bcM WIN\n55,212-2 and 10\u03bcM 2-AG.",
+    "year": "2014",
+    "license": "Copyright \u00a9 2014, Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights\nReserved. This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article\u2019s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/"
+  },
+  "ncomms5589:5": {
+    "path": "figures/ncomms5589_fig5.jpg",
+    "number": 5,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fncomms5589/MediaObjects/41467_2014_Article_BFncomms5589_Fig5_HTML.jpg",
+    "doi": "10.1038/ncomms5589",
+    "legend": "CB1R/\u03b2-arrestin-1 mediates the\nactivation of ERK1/2 by\n2-AG. ( a ) HEK293 cells expressing SEP-CB1Rs were exposed to 10\u03bcM CP55940,  ORG27569 , WIN 55212-2 and 2-AG for 5, 10 and\n15\u2009min. Cell lysates were analysed using western blots with\nphospho-ERK1/2\n(p-ERK1/2) or total\nERK1/2. ( b )\nQuantified time course in  a  showing ERK1/2 phosphorylation levels\ninduced by 10\u2009\u03bcM of each compound. ( c ) HEK293\ncells expressing SEP-CB1Rs were exposed to 10\u03bcM CP55940,  ORG27569 , WIN 55212-2 and 2-AG for 5, 10 and\n15\u2009min with PTX pre-treatment, respectively. ( d )\nQuantified time course in  c  showing ERK1/2 phosphorylation levels from\ncells pretreated with PTX. ( e , g , i , k ) HEK293\ncells co-expressing SEP-CB1R and either control ( e ), \u03b2-arrestin-1 ( g ),\n\u03b2-arrestin-2 ( i ) siRNAs or\n\u03b2-arrestin-2 siRNA with PTX pretreatment\n( k ) were exposed to 10\u2009\u03bcM of CP55940,  ORG27569 , WIN 55212-2 and 2-AG, respectively, as indicated.\n( f , h , j , l ). Graphs in\n f , h , j , l  provide the quantified ERK1/2 phosphorylation levels\ninduced by 10\u2009\u03bcM of each compound as shown in\n e , g , i , k . Data represent the\nmean\u00b1s.e.m. of at least three independent experiments.",
+    "year": "2014",
+    "license": "Copyright \u00a9 2014, Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights\nReserved. This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article\u2019s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/"
+  },
+  "ncomms5589:6": {
+    "path": "figures/ncomms5589_fig6.jpg",
+    "number": 6,
+    "original_url": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fncomms5589/MediaObjects/41467_2014_Article_BFncomms5589_Fig6_HTML.jpg",
+    "doi": "10.1038/ncomms5589",
+    "legend": "CB1R dwell times control\n\u03b2-arrestin signalling. ( a ) HEK293 cells expressing SEP-CB1R were preincubated with 30\u03bcM dyngo-4a and\nimaged under TIRF before and after bath application of 10\u03bcM\nWIN55212-2.\nRepresentative kymograph shows prolonged SEP-CB1R dwell times in the presence of\ndyngo-4a. ( b ) HEK293 cells expressing SEP-CB1R were pre-incubated with\n30\u03bcM dyngo-4a before exposure to agonists and compared with no\ndyngo-4a treatment. ( c ) Graph provides the quantified ERK1/2 phosphorylation induced by\n10\u2009\u03bcM of each compound shown in  b . Data are\nexpressed as a percentage of the level of phosphorylation at\n5\u2009min for each compound without dyngo-4a pre-treatment.\n( d ) HEK293 cells expressing SEP-CB1Rs with and without dyngo-4a pretreatment were\nexposed to 10\u03bcM 2-AG as indicated with PTX pre-treatment. ( e )\nHEK293 cells co-expressing SEP-CB1R and \u03b2-arrestin-1 siRNAs with and without dyngo-4a\npretreatment were exposed to 10\u03bcM 2-AG as indicated. ( f )\nQuantified time course in  d , e  showing ERK1/2 phosphorylation levels\ninduced by 10\u03bcM 2-AG for 5, 15, 30, 45 and 60\u2009min for cells\neither pre-treated with PTX or co-transfected with \u03b2-arrestin-1 siRNA.\n( g ) HEK293 cells expressing SEP-CB1R were treated with PTX (or no\nPTX as a control), and then incubated with 30\u03bcM dyngo-4a before\nsubsequent exposure to WIN\n55,212-2. ( h ) Graph provides the quantified\nERK1/2\nphosphorylation induced by 10\u03bcM WIN 55,212-2 in the absence of PTX\ntreatment shown in  g . ( i ) HEK293 cells expressing\nSEP-CB1R with or\nwithout dominant-negative dynamin\n2 K44A were exposed to agonists. ( j ) Graph\nprovides the quantified ERK1/2 phosphorylation induced by\n10\u2009\u03bcM of each compound shown in  i . All data are\nexpressed as a percentage of the level of phosphorylation at\n5\u2009min for 2-AG\nwithout dyngo-4a pre-treatment and represent the mean\u00b1s.e.m. of at\nleast three independent experiments.",
+    "year": "2014",
+    "license": "Copyright \u00a9 2014, Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights\nReserved. This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article\u2019s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/"
+  },
+  "67478:1": {
+    "path": "figures/67478_fig1.jpg",
+    "number": 1,
+    "original_url": "https://iiif.elifesciences.org/lax/67478%2Felife-67478-fig1-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.67478",
+    "legend": "Nb39 and miniGsi are differentially recruited to plasma membrane and intracellular DOR. ",
+    "year": "2021",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Crilly et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "67478:2": {
+    "path": "figures/67478_fig2.jpg",
+    "number": 2,
+    "original_url": "https://iiif.elifesciences.org/lax/67478%2Felife-67478-fig2-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.67478",
+    "legend": "Differential sensor recruitment to Golgi DOR is independent of plasma membrane DOR activation. ",
+    "year": "2021",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Crilly et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "67478:3": {
+    "path": "figures/67478_fig3.jpg",
+    "number": 3,
+    "original_url": "https://iiif.elifesciences.org/lax/67478%2Felife-67478-fig3-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.67478",
+    "legend": "Arrestins are differentially recruited to plasma membrane and intracellular DOR. ",
+    "year": "2021",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Crilly et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "67478:4": {
+    "path": "figures/67478_fig4.jpg",
+    "number": 4,
+    "original_url": "https://iiif.elifesciences.org/lax/67478%2Felife-67478-fig4-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.67478",
+    "legend": "Golgi DOR inhibits cAMP. ",
+    "year": "2021",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Crilly et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "80747:1": {
+    "path": "figures/80747_fig1.jpg",
+    "number": 1,
+    "original_url": "https://iiif.elifesciences.org/lax:80747%2Felife-80747-fig1-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.80747",
+    "legend": "ESI-05 dose-dependently decreased cocaine self-administration under fixed ratio-1 (FR1) and progressive ratio (PR) reinforcement schedules in mice. ",
+    "year": "2022",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Liu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "80747:2": {
+    "path": "figures/80747_fig2.jpg",
+    "number": 2,
+    "original_url": "https://iiif.elifesciences.org/lax:80747%2Felife-80747-fig2-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.80747",
+    "legend": "Dopamine neuron-specific knockout of Epac2 impaired cocaine self-administration acquisition and reinforcing efficacy. ",
+    "year": "2022",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Liu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "80747:3": {
+    "path": "figures/80747_fig3.jpg",
+    "number": 3,
+    "original_url": "https://iiif.elifesciences.org/lax:80747%2Felife-80747-fig3-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.80747",
+    "legend": "Epac2 conditional knockout (Epac2-cKO) did not affect sucrose self-administration under fixed ratio-1 (FR1) and progressive ratio (PR) reinforcement schedules in mice. ",
+    "year": "2022",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Liu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "80747:4": {
+    "path": "figures/80747_fig4.jpg",
+    "number": 4,
+    "original_url": "https://iiif.elifesciences.org/lax:80747%2Felife-80747-fig4-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.80747",
+    "legend": "Epac2 knockout decreased evoked dopamine release in the striatum in vitro. ",
+    "year": "2022",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Liu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "80747:5": {
+    "path": "figures/80747_fig5.jpg",
+    "number": 5,
+    "original_url": "https://iiif.elifesciences.org/lax:80747%2Felife-80747-fig5-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.80747",
+    "legend": "Epac2 activation increased dopamine release in the nucleus accumbens (NAc) in vitro. ",
+    "year": "2022",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Liu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "80747:6": {
+    "path": "figures/80747_fig6.jpg",
+    "number": 6,
+    "original_url": "https://iiif.elifesciences.org/lax:80747%2Felife-80747-fig6-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.80747",
+    "legend": "Chemogenetic enhancement of dopamine release increased cocaine self-administration in Epac2 conditional knockout (Epac2-cKO) mice. ",
+    "year": "2022",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Liu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "80747:7": {
+    "path": "figures/80747_fig7.jpg",
+    "number": 7,
+    "original_url": "https://iiif.elifesciences.org/lax:80747%2Felife-80747-fig7-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.80747",
+    "legend": "Chemogenetic inhibition of dopamine release decreased cocaine self-administration in wild-type (WT) mice. ",
+    "year": "2022",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Liu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "80747:8": {
+    "path": "figures/80747_fig8.jpg",
+    "number": 8,
+    "original_url": "https://iiif.elifesciences.org/lax:80747%2Felife-80747-fig8-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.80747",
+    "legend": "A hypothetical model that explains the relationship between Epac2 disruption, decreased dopamine release, and impairment of cocaine self-administration. ",
+    "year": "2022",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Liu et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "03159:1": {
+    "path": "figures/03159_fig1.jpg",
+    "number": 1,
+    "original_url": "https://iiif.elifesciences.org/lax/03159%2Felife-03159-fig1-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.03159",
+    "legend": "CB1R activation induces retraction of actin-rich growth cones. ",
+    "year": "2014",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Roland et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "03159:2": {
+    "path": "figures/03159_fig2.jpg",
+    "number": 2,
+    "original_url": "https://iiif.elifesciences.org/lax/03159%2Felife-03159-fig2-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.03159",
+    "legend": "CB1R-induced retraction is mediated by non-muscle myosin II dependent actomyosin contraction. ",
+    "year": "2014",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Roland et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "03159:3": {
+    "path": "figures/03159_fig3.jpg",
+    "number": 3,
+    "original_url": "https://iiif.elifesciences.org/lax/03159%2Felife-03159-fig3-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.03159",
+    "legend": "CB1Rs activate non-muscle myosin II through heterotrimeric G12/G13 proteins, Rho GTPase, and ROCK. ",
+    "year": "2014",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Roland et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "03159:4": {
+    "path": "figures/03159_fig4.jpg",
+    "number": 4,
+    "original_url": "https://iiif.elifesciences.org/lax/03159%2Felife-03159-fig4-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.03159",
+    "legend": "Activation of exogenous or endogenous CB1Rs modifies growth cone dynamics ex vivo. ",
+    "year": "2014",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Roland et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "03159:5": {
+    "path": "figures/03159_fig5.jpg",
+    "number": 5,
+    "original_url": "https://iiif.elifesciences.org/lax/03159%2Felife-03159-fig5-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.03159",
+    "legend": "Actomyosin contractility is required for the correct targeting of CB1R expressing corticofugal axons. ",
+    "year": "2014",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Roland et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "03159:6": {
+    "path": "figures/03159_fig6.jpg",
+    "number": 6,
+    "original_url": "https://iiif.elifesciences.org/lax/03159%2Felife-03159-fig6-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.03159",
+    "legend": "CB1R-induced actomyosin contraction results in neurite retraction and transiently increased cell stiffness in Neuro2A cells. ",
+    "year": "2014",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Roland et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "03159:7": {
+    "path": "figures/03159_fig7.jpg",
+    "number": 7,
+    "original_url": "https://iiif.elifesciences.org/lax/03159%2Felife-03159-fig7-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.03159",
+    "legend": "Acute and chronic effects of CB1R-mediated actomyosin contraction on somatodendritic morphology. ",
+    "year": "2014",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Roland et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "14170:1": {
+    "path": "figures/14170_fig1.jpg",
+    "number": 1,
+    "original_url": "https://iiif.elifesciences.org/lax/14170%2Felife-14170-fig1-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.14170",
+    "legend": "PGE2 and CO2 increase sigh activity via EP3R signaling. ",
+    "year": "2016",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Forsberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "14170:2": {
+    "path": "figures/14170_fig2.jpg",
+    "number": 2,
+    "original_url": "https://iiif.elifesciences.org/lax/14170%2Felife-14170-fig2-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.14170",
+    "legend": "Brainstem slice cultures have a preserved structure and neurons with functional potential. ",
+    "year": "2016",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Forsberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "14170:3": {
+    "path": "figures/14170_fig3.jpg",
+    "number": 3,
+    "original_url": "https://iiif.elifesciences.org/lax/14170%2Felife-14170-fig3-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.14170",
+    "legend": "Neuronal electrical activity indicates preserved networks. ",
+    "year": "2016",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Forsberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "14170:4": {
+    "path": "figures/14170_fig4.jpg",
+    "number": 4,
+    "original_url": "https://iiif.elifesciences.org/lax/14170%2Felife-14170-fig4-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.14170",
+    "legend": "Neural activity in the preB\u00f6tC is arranged in a functional respiratory network with respiratory-related motor output. ",
+    "year": "2016",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Forsberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "14170:5": {
+    "path": "figures/14170_fig5.jpg",
+    "number": 5,
+    "original_url": "https://iiif.elifesciences.org/lax/14170%2Felife-14170-fig5-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.14170",
+    "legend": "Breathing brainstem in a dish: ongoing/persistent rhythmic XII motor activity. ",
+    "year": "2016",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Forsberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "14170:6": {
+    "path": "figures/14170_fig6.jpg",
+    "number": 6,
+    "original_url": "https://iiif.elifesciences.org/lax/14170%2Felife-14170-fig6-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.14170",
+    "legend": "Gap junctions are necessary to maintain part of the correlated respiratory network. ",
+    "year": "2016",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Forsberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "14170:7": {
+    "path": "figures/14170_fig7.jpg",
+    "number": 7,
+    "original_url": "https://iiif.elifesciences.org/lax/14170%2Felife-14170-fig7-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.14170",
+    "legend": "PGE2 modulates preB\u00f6tC network activity. ",
+    "year": "2016",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Forsberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "14170:8": {
+    "path": "figures/14170_fig8.jpg",
+    "number": 8,
+    "original_url": "https://iiif.elifesciences.org/lax/14170%2Felife-14170-fig8-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.14170",
+    "legend": "pFRG/RTN brainstem slice culture. ",
+    "year": "2016",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Forsberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "14170:9": {
+    "path": "figures/14170_fig9.jpg",
+    "number": 9,
+    "original_url": "https://iiif.elifesciences.org/lax/14170%2Felife-14170-fig9-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.14170",
+    "legend": "The pFRG/RTN respiration-related network generates correlated neural activity and responds to CO2. ",
+    "year": "2016",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Forsberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "14170:10": {
+    "path": "figures/14170_fig10.jpg",
+    "number": 10,
+    "original_url": "https://iiif.elifesciences.org/lax/14170%2Felife-14170-fig10-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.14170",
+    "legend": "Correlated pFRG/RTN network activity is not dependent on gap junctions, but hypercapnic responses are. ",
+    "year": "2016",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Forsberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "14170:11": {
+    "path": "figures/14170_fig11.jpg",
+    "number": 11,
+    "original_url": "https://iiif.elifesciences.org/lax/14170%2Felife-14170-fig11-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.14170",
+    "legend": "PGE2 is released during hypercapnia. ",
+    "year": "2016",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Forsberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "14170:12": {
+    "path": "figures/14170_fig12.jpg",
+    "number": 12,
+    "original_url": "https://iiif.elifesciences.org/lax/14170%2Felife-14170-fig12-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.14170",
+    "legend": "PGE2 alters respiratory network activity. ",
+    "year": "2016",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Forsberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "14170:13": {
+    "path": "figures/14170_fig13.jpg",
+    "number": 13,
+    "original_url": "https://iiif.elifesciences.org/lax/14170%2Felife-14170-fig13-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.14170",
+    "legend": "PGE2, acting through EP3R, is crucial for the hypercapnic response. ",
+    "year": "2016",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Forsberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  },
+  "14170:14": {
+    "path": "figures/14170_fig14.jpg",
+    "number": 14,
+    "original_url": "https://iiif.elifesciences.org/lax/14170%2Felife-14170-fig14-v2.tif/full/full/0/default.jpg",
+    "doi": "10.7554/eLife.14170",
+    "legend": "Model of how PGE2 modulates respiration and sighs in the preB\u00f6tC and pFRG/RTN. ",
+    "year": "2016",
+    "license": {
+      "license": "CC-BY-4.0",
+      "holder": "Forsberg et al.",
+      "statement": "This article is distributed under the terms of the <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution License</a>, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    }
+  }
+}

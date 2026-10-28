@@ -121,3 +121,8 @@ A separate 80-slide lecture with 78 teaching slides, 40 embedded original record
 - [Download PowerPoint](https://media.githubusercontent.com/media/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C15/Building_the_Brain_Developing_Nervous_System_Chapter_15.pptx)
 - [Static PDF](https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/main/chapters/C15/Building_the_Brain_Developing_Nervous_System_Chapter_15_Static.pdf)
 - [Sources and validation](chapters/C15/STATUS.md)
+
+
+## Chapters 18 and 19: completed downloads
+
+[Download the two 80-slide native PowerPoints with 40 embedded offline recordings each](downloads/README.md). The same index includes static PDF previews, Presenton static companions, and validation/source records.

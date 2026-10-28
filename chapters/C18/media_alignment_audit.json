@@ -1,0 +1,324 @@
+{
+  "recordings": [
+    {
+      "slide": 2,
+      "caption": "Control mouse after acute stress. F\u00fczesi et al. (2016).",
+      "directly_taught_event": "Follow transitions between grooming, exploration, and other actions after acute stress in the control mouse.",
+      "original_preparation": "Supplementary Movie 1 (download MOV )Behavior of CRHeYFP control mice after stress (MOV 2381 kb)",
+      "doi": "10.1038/ncomms11937",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 4,
+      "caption": "CRH-neuron silencing after stress. F\u00fczesi et al. (2016).",
+      "directly_taught_event": "Compare the post-stress action sequence while CRH neurons are optically inhibited with the source control condition.",
+      "original_preparation": "Supplementary Movie 2 (download MOV )Photoinhibition of PVN CRH neurons disrupts behavioral repertoire after stress (MOV 2308 kb)",
+      "doi": "10.1038/ncomms11937",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 6,
+      "caption": "Grooming during CRH-neuron stimulation. F\u00fczesi et al. (2016).",
+      "directly_taught_event": "Watch for grooming during light-driven excitation of hypothalamic CRH neurons in the absence of preceding stress.",
+      "original_preparation": "Supplementary Movie 3 (download MOV )Photostimulation of PVN CRH Neurons initiate grooming (MOV 1288 kb)",
+      "doi": "10.1038/ncomms11937",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 8,
+      "caption": "Post-stress behavior in a novel setting. F\u00fczesi et al. (2016).",
+      "directly_taught_event": "Follow exploration and self-directed actions after stress in the novel environment.",
+      "original_preparation": "Supplementary Movie 4 (download MOV )Behavior in novel environment after stress exposure (MOV 2312 kb)",
+      "doi": "10.1038/ncomms11937",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 10,
+      "caption": "Post-stress behavior in an unsafe setting. F\u00fczesi et al. (2016).",
+      "directly_taught_event": "Track how movement and grooming are organized in the unsafe post-stress setting.",
+      "original_preparation": "Supplementary Movie 5 (download MOV )Behavior in unsafe environment after stress exposure (MOV 2306 kb)",
+      "doi": "10.1038/ncomms11937",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 12,
+      "caption": "Restraint and locus-coeruleus photometry. Kawanabe-Kobayashi et al. (2026).",
+      "directly_taught_event": "Align restraint with the locus-coeruleus population fluorescence trace; this is photometry, not a circulating hormone assay.",
+      "original_preparation": "",
+      "doi": "10.7554/eLife.104453",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 14,
+      "caption": "Neutrophil crawling under flow. Napoli et al. (2024).",
+      "directly_taught_event": "Compare spreading and crawling of ordinary and S100A9-deficient neutrophils under fluid flow.",
+      "original_preparation": "WT and S100a9-/- neutrophils were seeded into E-selectin, ICAM-1 and CXCL1 coated flow chambers, allowed to settle down for 3min and then physiological shear stress (2dyne cm\u22122) was applied and crawling parameters were analyzed (representative time-lapse movies, frame interval 5sec, scale bar=10\u03bcm, time=min).",
+      "doi": "10.7554/eLife.96810",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 16,
+      "caption": "LFA-1 adhesion clusters during spreading. Napoli et al. (2024).",
+      "directly_taught_event": "Follow the changing LFA-1 cluster locations as neutrophils attach and spread.",
+      "original_preparation": "Lyz2xGCaMP5 and Lyz2xGCaMP5xS100a9-/- neutrophils were seeded into E-selectin, ICAM-1 and CXCL1 coated flow chambers, allowed to settle down for 3min and then physiological shear stress (2dyne cm\u22122) was applied and number of LFA-1 nanoclusters was quantified at min 0-1, min 5-6 and min 9-10 of analysis (representative segmented and thresholded confocal microscopy movies of LFA-1 signals, scale bar=10\u03bcm).",
+      "doi": "10.7554/eLife.96810",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 18,
+      "caption": "Calcium at neutrophil adhesion regions. Napoli et al. (2024).",
+      "directly_taught_event": "Compare calcium fluorescence within identified adhesion-cluster regions; the analysis masks mark measurement regions.",
+      "original_preparation": "Lyz2xGCaMP5 and Lyz2xGCaMP5xS100a9-/- neutrophils were seeded into E-selectin, ICAM-1 and CXCL1 coated flow chambers, allowed to settle down for 3min and then physiological shear stress (2dyne cm\u22122) was applied and Ca2+ MFI was analyzed in the LFA-1 nanocluster areas at min 0-1, min 5-6 and min 9-10 of analysis [representative movies of Ca2+ oscillations in the LFA-1 segmented areas (\u201cLFA-1 mask\u201d), scale bar=10\u03bcm].",
+      "doi": "10.7554/eLife.96810",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 20,
+      "caption": "Actin-defined neutrophil shape under flow. Napoli et al. (2024).",
+      "directly_taught_event": "Follow the actin-defined cell outlines as ordinary and deficient neutrophils attempt to polarize under flow.",
+      "original_preparation": "Lyz2xGCaMP5 and Lyz2xGCaMP5xS100a9-/- neutrophils were seeded into E-selectin, ICAM-1 and CXCL1 coated flow chambers, allowed to settle down for 3min and then physiological shear stress (2dyne cm\u22122) was applied and F-actin MFI was analyzed in the overall cell area at min 0-1, min 5-6 and min 9-10 of analysis [representative movies of F-actin intensity in the Lyz2 segmented areas (\u201ccell mask\u201d), scale bar=10\u03bcm].",
+      "doi": "10.7554/eLife.96810",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 23,
+      "caption": "Neutral virtual-context recall. Krishnan et al. (2025).",
+      "directly_taught_event": "Track continued movement during recall in the neutral virtual environment, without a new aversive event.",
+      "original_preparation": "Video was recorded immediately after the mouse transitioned to the virtual reality (VR) environment, and they were collected at a sampling rate of 30 frames/s.",
+      "doi": "10.7554/eLife.105422",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 25,
+      "caption": "Freezing in a conditioned virtual context. Krishnan et al. (2025).",
+      "directly_taught_event": "Track reduced movement and freezing during recall of the conditioned virtual environment.",
+      "original_preparation": "Video was recorded immediately after the mouse transitioned to the VR environment, and they were collected at a sampling rate of 30 frames/s.",
+      "doi": "10.7554/eLife.105422",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 27,
+      "caption": "Retreat in the conditioned virtual context. Krishnan et al. (2025).",
+      "directly_taught_event": "Watch the backward movement that distinguishes active retreat from simply freezing in the virtual context.",
+      "original_preparation": "This mouse displays more avoidance-like behaviors, such as slowing down and making backward movements. Video was recorded immediately after the mouse transitioned to the VR environment, and they were collected at a sampling rate of 30 frames/s.",
+      "doi": "10.7554/eLife.105422",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 29,
+      "caption": "Danger-cue ethogram: female rat. Chu et al. (2024).",
+      "directly_taught_event": "Follow the observer labels as the female rat changes actions during the danger cue.",
+      "original_preparation": "Video shows the 75 sequential frames for a danger trial. Frames 1\u201325 are background and 26\u201375 are danger cue presentation. Observer judgment is shown in the top right for each frame. The specific trial is 23_16_12 (female rat 23, session 16, trial 12).",
+      "doi": "10.7554/eLife.82497",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 31,
+      "caption": "Danger-cue ethogram: male rat. Chu et al. (2024).",
+      "directly_taught_event": "Follow the male rat's action transitions during the danger cue; the two individual examples do not establish a sex difference.",
+      "original_preparation": "Video shows the 75 sequential frames for a danger trial. Frames 1\u201325 are background and 26\u201375 are danger cue presentation. Observer judgment is shown in the top right for each frame. The specific trial is 24_16_16 (male rat 24, session 16, trial 16).",
+      "doi": "10.7554/eLife.82497",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 33,
+      "caption": "Paired and unpaired sound-sequence conditioning. Le et al. (2024).",
+      "directly_taught_event": "Compare paired and unpaired mice as tone and white noise occur in the original conditioning order.",
+      "original_preparation": "The video features audio of the SCS, which consists of 10 pips of tone followed by 10 pips of white noise (WN).",
+      "doi": "10.7554/eLife.90414",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 35,
+      "caption": "Reverse-order sound-sequence conditioning. Le et al. (2024).",
+      "directly_taught_event": "Follow the reversed sound order and compare the paired and unpaired conditioning arrangements.",
+      "original_preparation": "The video features audio of the reverse SCS, which consists of 10 pips of white noise (WN) followed by 10 pips of tone.",
+      "doi": "10.7554/eLife.90414",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 37,
+      "caption": "Early and late extinction comparisons. Le et al. (2024).",
+      "directly_taught_event": "Compare early and late extinction trials, distinguishing tone-related freezing from active responses to white noise.",
+      "original_preparation": "The video features audio of the SCS, which consists of 10 pips of tone followed by 10 pips of white noise (WN).",
+      "doi": "10.7554/eLife.90414",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 39,
+      "caption": "Reverse-order extinction comparisons. Le et al. (2024).",
+      "directly_taught_event": "Compare early and late extinction after reverse-order conditioning, retaining the original group labels.",
+      "original_preparation": "The video features audio of the reverse SCS, which consists of 10 pips of white noise (WN) followed by 10 pips of tone.",
+      "doi": "10.7554/eLife.90414",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 40,
+      "caption": "CCK-4 rescue condition in a Cck-knockout mouse. Feng et al. (2021).",
+      "directly_taught_event": "Watch freezing during the sound test in the Cck-knockout mouse given CCK-4 in the short-trace rescue condition.",
+      "original_preparation": "CCK-4-treated mice showed significant freezing response to the CS after training.",
+      "doi": "10.7554/eLife.69333",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 41,
+      "caption": "Defensive recall after CGRP manipulation. Pyeon et al. (2025).",
+      "directly_taught_event": "Compare learned flight during cue recall across CGRP-manipulation groups; the chasing robot is absent in this selected recall view.",
+      "original_preparation": "To test the fear memory in the retention test, we used a rectangular box instead of the donut maze used during conditioning. The box was placed on top of the donut maze, preventing the animals from seeing the robot\u2019s location. The CS was delivered from the robot\u2019s speaker, with the flashing light indicating the onset of the CS. The video shows the animals' behavior during the first trial of the retention test, where the ChR2 mouse showed more fleeing behavior compared to the other two mice.",
+      "doi": "10.7554/eLife.101523",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 43,
+      "caption": "Social assessment: nearby stimulus animal. Krzywkowski et al. (2020).",
+      "directly_taught_event": "Align social investigation of the nearby stimulus animal with the identified cell's activity trace.",
+      "original_preparation": "",
+      "doi": "10.7554/eLife.57148",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 45,
+      "caption": "Social assessment: more distant stimulus animal. Krzywkowski et al. (2020).",
+      "directly_taught_event": "Align the more distant social-stimulus condition with the second assessment-related cell's activity.",
+      "original_preparation": "",
+      "doi": "10.7554/eLife.57148",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 47,
+      "caption": "Post-defeat hypothalamic stimulation. Krzywkowski et al. (2020).",
+      "directly_taught_event": "Compare movement before and during hypothalamic stimulation after defeat experience.",
+      "original_preparation": "",
+      "doi": "10.7554/eLife.57148",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 49,
+      "caption": "Carbon-dioxide response in brainstem culture. Forsberg et al. (2016).",
+      "directly_taught_event": "Watch calcium activity increase in the chemosensitive brainstem region after carbon dioxide is raised.",
+      "original_preparation": "Low network activity is increased by exposure to hypercapnia after 15 s. fps: frames per second.",
+      "doi": "10.7554/eLife.14170",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 51,
+      "caption": "PGE2 effects in two respiratory networks. Forsberg et al. (2016).",
+      "directly_taught_event": "Compare the parafacial region and pre-B\u00f6tzinger complex after PGE2; their activity changes in different directions.",
+      "original_preparation": "After 15 s, PGE2 (10 nM) is added. This increases the activity of the pFRG/RTN network while the preB\u00f6tC activity is inhibited. fps: frames per second. For high-resolution versions of the videos, please follow this link to the Karolinska Institutet Cloud Storage system (Box): https://ki.box.com/s/abzuei0yzl4dzbn99995382va6btsq4l.",
+      "doi": "10.7554/eLife.14170",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 53,
+      "caption": "Foxb1-terminal stimulation with residual head movement. Cola et al. (2024).",
+      "directly_taught_event": "Watch limb immobility during Foxb1-terminal stimulation while some head movement remains.",
+      "original_preparation": "The video shows the time window from 1 min before the onset of light stimulation, 5 min of light stimulation, and 1 min following light stimulation offset. The time window of light stimulation is marked by the \u2018Light on\u2019 indicator on the top right. The video is played at 5 x of the recording speed.",
+      "doi": "10.7554/eLife.86737",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 55,
+      "caption": "Foxb1-terminal stimulation with greater immobility. Cola et al. (2024).",
+      "directly_taught_event": "Compare baseline movement with the more complete immobility during terminal stimulation in this second representative mouse.",
+      "original_preparation": "The video shows the time window from 1 min before the onset of light stimulation, 5 min of light stimulation, and 1 min following light stimulation offset. The time window of light stimulation is marked by the \u2018Light on\u2019 indicator on the top right. The video is played at 5 x of the recording speed.",
+      "doi": "10.7554/eLife.86737",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 57,
+      "caption": "Spinally projecting LC activation in neuropathic pain. Hirschberg et al. (2017).",
+      "directly_taught_event": "Compare the source's pain-behavior condition before and after activation of the spinally projecting locus-coeruleus population.",
+      "original_preparation": "",
+      "doi": "10.7554/eLife.29808",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 59,
+      "caption": "Infralimbic PV suppression delays avoidance. Ho et al. (2025).",
+      "directly_taught_event": "Compare avoidance onset with and without infralimbic PV suppression; longer freezing delays movement to safety.",
+      "original_preparation": "",
+      "doi": "10.7554/eLife.91221",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 61,
+      "caption": "Ordinary grooming: black mouse. Geuther et al. (2021).",
+      "directly_taught_event": "Follow ordinary grooming bouts in the black mouse; normal body care alone does not identify compulsive pathology.",
+      "original_preparation": "The ensemble networks are shown on the upper left (small squares) and consensus is shown in large square. See Figure 3C - green (negative for grooming) to purple (positive for grooming).",
+      "doi": "10.7554/eLife.63207",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 63,
+      "caption": "Central-striatal baseline calcium imaging. Piantadosi et al. (2024).",
+      "directly_taught_event": "Compare raw central-striatal calcium imaging with the extracted cell regions; this is baseline imaging, not drug treatment.",
+      "original_preparation": "Supplementary Movie 1 (download MP4 )",
+      "doi": "10.1038/s41467-024-48331-z",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 65,
+      "caption": "D1-cell baseline calcium imaging. Piantadosi et al. (2024).",
+      "directly_taught_event": "Follow baseline D1-cell calcium signals; the absence of a group hyperactivity effect comes from the paper's aligned analyses.",
+      "original_preparation": "Supplementary Movie 2 (download MP4 )",
+      "doi": "10.1038/s41467-024-48331-z",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 67,
+      "caption": "A2a-targeted baseline calcium imaging. Piantadosi et al. (2024).",
+      "directly_taught_event": "Follow baseline A2a-targeted calcium imaging and the corresponding extracted cellular signals.",
+      "original_preparation": "Supplementary Movie 3 (download MP4 )",
+      "doi": "10.1038/s41467-024-48331-z",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 69,
+      "caption": "Projection-defined baseline calcium imaging. Piantadosi et al. (2024).",
+      "directly_taught_event": "Follow baseline imaging of projection-defined striatopallidal cells in an ordinary mouse; this is not a fluoxetine response movie.",
+      "original_preparation": "Supplementary Movie 4 (download MP4 )",
+      "doi": "10.1038/s41467-024-48331-z",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 71,
+      "caption": "BLA-DMS stimulation in the elevated plus maze. Lee et al. (2024).",
+      "directly_taught_event": "Track movement among exposed and enclosed elevated-plus-maze arms during BLA-DMS stimulation.",
+      "original_preparation": "Supplementary Movie 1 (download MP4 )",
+      "doi": "10.1038/s41467-023-44322-8",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 73,
+      "caption": "Holeboard behavior during circuit activation. Lee et al. (2024).",
+      "directly_taught_event": "Compare labeled checking, nose poking, and grooming in the saline and circuit-activation holeboard conditions.",
+      "original_preparation": "Supplementary Movie 2 (download MP4 )",
+      "doi": "10.1038/s41467-023-44322-8",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 75,
+      "caption": "Hoarding-task behavior during circuit activation. Lee et al. (2024).",
+      "directly_taught_event": "Compare the source-labeled actions in the saline and activation hoarding-task conditions, preserving its marked playback speeds.",
+      "original_preparation": "Supplementary Movie 3 (download MP4 )",
+      "doi": "10.1038/s41467-023-44322-8",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 77,
+      "caption": "Motor Sequencing App demonstration. Banca et al. (2024).",
+      "directly_taught_event": "Follow finger taps becoming an ordered action sequence in the app demonstration; no identifiable patient's clinical symptoms are displayed.",
+      "original_preparation": "",
+      "doi": "10.7554/eLife.87346",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    },
+    {
+      "slide": 79,
+      "caption": "Grooming classification: albino mouse. Geuther et al. (2021).",
+      "directly_taught_event": "Follow grooming classification in the albino mouse; coat color tests visual robustness rather than defining an OCD phenotype.",
+      "original_preparation": "The ensemble networks are shown on the upper left (small squares) and consensus is shown in large square. See Figure 3C - green (negative for grooming) to purple (positive for grooming).",
+      "doi": "10.7554/eLife.63207",
+      "review": "Representative frames inspected; directly matching behavior, task, structure or physiological event explained on the slide."
+    }
+  ]
+}

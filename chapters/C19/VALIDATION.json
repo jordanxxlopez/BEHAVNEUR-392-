@@ -1,0 +1,48 @@
+{
+  "slides": 80,
+  "teaching_slides": 78,
+  "teaching_paragraphs": 234,
+  "paragraphs_passing_actual_line_audit": 234,
+  "roles": {
+    "foundation": 31,
+    "research": 47
+  },
+  "fonts": [
+    "Arial"
+  ],
+  "notes_slides": 80,
+  "pdf_pages": 80,
+  "embedded_recordings": 40,
+  "media_purposes": {
+    "academic": 20,
+    "aesthetic": 20
+  },
+  "recordings_per_quarter": [
+    10,
+    10,
+    10,
+    10
+  ],
+  "maximum_unrecorded_content_gap": 2,
+  "recordings_in_final_ten_content": 5,
+  "source_hashes_and_internal_relationships_verified": true,
+  "full_file_decodes_passed": 40,
+  "unaltered_publisher_mp4s": 35,
+  "compatibility_conversions": 5,
+  "desktop_powerpoint_playback": "Untested",
+  "layout": "Established course layout: upper figure zone 5.7 \u00d7 2.3 inches; lower video zone 5.7 \u00d7 2.1 inches; aspect ratios retained; full-screen playback configured.",
+  "pptx_sha256": "d891f7be2653a8d1a6b09875b967d9a09dcce7ece741547c3b3f7d178ca2e551",
+  "static_pdf_sha256": "ff0fa9510ad4e3b48a8615f3cc36edc3d01e20ee1432d39b0be906ac73de15cd",
+  "pptx_bytes": 335158960,
+  "static_pdf_bytes": 13352426,
+  "checks": {
+    "generic": {
+      "exit_code": 0,
+      "output": "80 slides, 78 image slides (78 article-figure, 66 in color), 0 failures, 0 warnings\n/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/PIL/Image.py:3578: DecompressionBombWarning: Image size (91464012 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.\n  warnings.warn(\n"
+    },
+    "course": {
+      "exit_code": 0,
+      "output": "0 course-specific failures.\n"
+    }
+  }
+}
