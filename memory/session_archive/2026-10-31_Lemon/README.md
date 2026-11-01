@@ -20,3 +20,15 @@ This archive is intended as a comprehensive course-session record, including act
 - [Lemon folder](https://github.com/jordanxxlopez/BEHAVNEUR-392-/tree/main/memory/session_archive/2026-10-31_Lemon)
 - [Cherry folder](https://github.com/jordanxxlopez/BEHAVNEUR-392-/tree/main/memory/session_archive/2026-10-31_Cherry)
 - [Final editable video-embedded PowerPoints](../../../Latest_Lecture_PowerPoints/README.md): reference to original course masters; **not edited here**.
+
+## Original ChatGPT shared conversation URL
+
+The user provided this exact source link:
+
+**[Open the “Rewrite for Readability” shared ChatGPT conversation](https://chatgpt.com/share/6ae6b8db-41a0-83e8-9896-b64dcabbee1b)**
+
+This is a **live external reference, not a saved verbatim transcript**. On 2026-10-31, the available retrieval service returned **cache miss** for both the shared webpage and its publicly addressed data endpoint, and the container could not resolve chatgpt.com. Thus the share snapshot's contents have **not yet been imported from the link**. The historical `conversation/REWRITE_FOR_READABILITY_HISTORY.md` remains a reconstruction rather than a verbatim export.
+
+**For full fidelity:** export the ChatGPT data and provide the relevant conversation JSON and attachments, or copy the whole conversation as Markdown and upload it here. This shared link may only contain the messages included when the snapshot was created; subsequent messages may require updating the shared link. Preserve the actual export files under `conversation/original_export/` before calling Lemon a full transcript archive.
+
+**Privacy:** the repository is currently public. Review the export for unrelated chats, personal information and credentials before uploading; do not publish an account-wide export ZIP indiscriminately.
