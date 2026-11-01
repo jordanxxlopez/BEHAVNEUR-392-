@@ -1,0 +1,189 @@
+{
+  "commit": "b443ca5046590de25eaa2c18614166c2234b430c",
+  "files": [
+    {
+      "path": "chapters/C01/history_revision/From_Brain_to_Behavior_Foundations_and_Frontiers_History_Expanded_Static.pdf",
+      "filename": "From_Brain_to_Behavior_Foundations_and_Frontiers_History_Expanded_Static.pdf",
+      "bytes": 14056697,
+      "pages": 90,
+      "sha256": "f94e3de6621763e6d403943177bb618ac43cc65c2faa126b63a74b30f38bd6cf",
+      "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C01/history_revision/From_Brain_to_Behavior_Foundations_and_Frontiers_History_Expanded_Static.pdf"
+    },
+    {
+      "path": "chapters/C02/How_Nerve_Cells_Work_Chapter_2_Static.pdf",
+      "filename": "How_Nerve_Cells_Work_Chapter_2_Static.pdf",
+      "bytes": 11182092,
+      "pages": 75,
+      "sha256": "d2199e673bb20f86d5d44e7705ef97ca48c0f6d9301f31fd6acf76ffc8adb2bb",
+      "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C02/How_Nerve_Cells_Work_Chapter_2_Static.pdf"
+    },
+    {
+      "path": "chapters/C03/Mapping_the_Nervous_System_Chapter_3_Static.pdf",
+      "filename": "Mapping_the_Nervous_System_Chapter_3_Static.pdf",
+      "bytes": 10907500,
+      "pages": 75,
+      "sha256": "55417c41cfc1fcc63e95af7311b65bafd36bc277098ec8a38947a8a889528f17",
+      "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C03/Mapping_the_Nervous_System_Chapter_3_Static.pdf"
+    },
+    {
+      "path": "chapters/C04/Chemical_Control_of_Behavior_Chapter_4_Static.pdf",
+      "filename": "Chemical_Control_of_Behavior_Chapter_4_Static.pdf",
+      "bytes": 9795739,
+      "pages": 75,
+      "sha256": "9d0128933c8519b381eb3ef7f780b85b7753232dc161225b110e45c16ef1fad8",
+      "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C04/Chemical_Control_of_Behavior_Chapter_4_Static.pdf"
+    },
+    {
+      "path": "chapters/C05/Reading_and_Rewriting_the_Brain_Chapter_5_Static.pdf",
+      "filename": "Reading_and_Rewriting_the_Brain_Chapter_5_Static.pdf",
+      "bytes": 13287972,
+      "pages": 86,
+      "sha256": "4a61e1e22bf959a8f981a385f4133889eb1a9c06ee92381692f8314b395976de",
+      "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C05/Reading_and_Rewriting_the_Brain_Chapter_5_Static.pdf"
+    },
+    {
+      "path": "chapters/C06/From_Light_to_Sight_Chapter_6_Static.pdf",
+      "filename": "From_Light_to_Sight_Chapter_6_Static.pdf",
+      "bytes": 12352601,
+      "pages": 90,
+      "sha256": "6b10f8db16b303600bbc225019d5dd387d81865f0e60a2dff9f0491bfc6cce0a",
+      "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C06/From_Light_to_Sight_Chapter_6_Static.pdf"
+    },
+    {
+      "path": "chapters/C07/Audition1/From_Sound_to_Neural_Signals_Peripheral_Auditory_System_Part_I_Static.pdf",
+      "filename": "From_Sound_to_Neural_Signals_Peripheral_Auditory_System_Part_I_Static.pdf",
+      "bytes": 14432255,
+      "pages": 80,
+      "sha256": "81847a2f623f2be3a0fa30c88ce6b91e814ba23b110c3613c0ca8d809d9dd916",
+      "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C07/Audition1/From_Sound_to_Neural_Signals_Peripheral_Auditory_System_Part_I_Static.pdf"
+    },
+    {
+      "path": "chapters/C07/Sensing_the_Body_and_the_Chemical_World_Chapter_7_Static.pdf",
+      "filename": "Sensing_the_Body_and_the_Chemical_World_Chapter_7_Static.pdf",
+      "bytes": 11037416,
+      "pages": 75,
+      "sha256": "08b68f4f9ea8423e1944cc3df18bc0a7988c39f444afdd077553acf7cd1d1738",
+      "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C07/Sensing_the_Body_and_the_Chemical_World_Chapter_7_Static.pdf"
+    },
+    {
+      "path": "chapters/C07_Audition2/The_Listening_Brain_Central_Auditory_System_Static.pdf",
+      "filename": "The_Listening_Brain_Central_Auditory_System_Static.pdf",
+      "bytes": 13032681,
+      "pages": 100,
+      "sha256": "93acf84e4666984e52a91efd3cbcb54fb0ee8d407dccae30b239f0b651b421ab",
+      "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C07_Audition2/The_Listening_Brain_Central_Auditory_System_Static.pdf"
+    },
+    {
+      "path": "chapters/C08/From_Intention_to_Action_Control_of_Movement_Chapter_8_Static.pdf",
+      "filename": "From_Intention_to_Action_Control_of_Movement_Chapter_8_Static.pdf",
+      "bytes": 10617164,
+      "pages": 75,
+      "sha256": "8c9167a01fdd9d1053a2d11631ddd3649fa4e8076324c17d606326d2a4f29f3f",
+      "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C08/From_Intention_to_Action_Control_of_Movement_Chapter_8_Static.pdf"
+    },
+    {
+      "path": "chapters/C09/The_Rhythmic_Brain_Sleep_and_Biological_Rhythms_Static.pdf",
+      "filename": "The_Rhythmic_Brain_Sleep_and_Biological_Rhythms_Static.pdf",
+      "bytes": 10045215,
+      "pages": 86,
+      "sha256": "16caadf2c2e6e964a814cdc61ac53d89029839cc9e683aa18d9dfae5e71b910a",
+      "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C09/The_Rhythmic_Brain_Sleep_and_Biological_Rhythms_Static.pdf"
+    },
+    {
+      "path": "chapters/C10/From_Reproduction_to_Care_Chapter_10_Static.pdf",
+      "filename": "From_Reproduction_to_Care_Chapter_10_Static.pdf",
+      "bytes": 12506448,
+      "pages": 80,
+      "sha256": "5db0a716d5783bce27462e8146c7dd3e162fbe810b3a75f5a3d986ad0d786231",
+      "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C10/From_Reproduction_to_Care_Chapter_10_Static.pdf"
+    },
+    {
+      "path": "chapters/C11/Feeling_and_Acting_Emotion_Chapter_11_Static.pdf",
+      "filename": "Feeling_and_Acting_Emotion_Chapter_11_Static.pdf",
+      "bytes": 11552860,
+      "pages": 80,
+      "sha256": "2f0e1535bff196fcf88bcf91a75b84852494273aa1b5cf48826fb3aac2a8df8a",
+      "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C11/Feeling_and_Acting_Emotion_Chapter_11_Static.pdf"
+    },
+    {
+      "path": "chapters/C12/Hunger_Thirst_and_Satiety_Ingestive_Behavior_Chapter_12_Static.pdf",
+      "filename": "Hunger_Thirst_and_Satiety_Ingestive_Behavior_Chapter_12_Static.pdf",
+      "bytes": 14072516,
+      "pages": 80,
+      "sha256": "8e049b08f1794556842f62c09d3739261d6359c364a76202677b649e64d9eb7d",
+      "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C12/Hunger_Thirst_and_Satiety_Ingestive_Behavior_Chapter_12_Static.pdf"
+    },
+    {
+      "path": "chapters/C13/From_Experience_to_Memory_Learning_and_Memory_Chapter_13_Static.pdf",
+      "filename": "From_Experience_to_Memory_Learning_and_Memory_Chapter_13_Static.pdf",
+      "bytes": 12115800,
+      "pages": 80,
+      "sha256": "3ddeaa3f5c2b05aad50ade56f38bc228895a6ba7e93434e8437bbc16ca03ad68",
+      "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C13/From_Experience_to_Memory_Learning_and_Memory_Chapter_13_Static.pdf"
+    },
+    {
+      "path": "chapters/C14/From_Words_to_Meaning_Human_Communication_Chapter_14_Static.pdf",
+      "filename": "From_Words_to_Meaning_Human_Communication_Chapter_14_Static.pdf",
+      "bytes": 11430410,
+      "pages": 80,
+      "sha256": "2c94c1fd270256d11c76a2bfef94f4217631ea62215bcdc8f8411bd2e64f0ccf",
+      "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C14/From_Words_to_Meaning_Human_Communication_Chapter_14_Static.pdf"
+    },
+    {
+      "path": "chapters/C15/Building_the_Brain_Developing_Nervous_System_Chapter_15_Static.pdf",
+      "filename": "Building_the_Brain_Developing_Nervous_System_Chapter_15_Static.pdf",
+      "bytes": 12965036,
+      "pages": 80,
+      "sha256": "f6a3ba0233219d9f16cccd92d48200de47550b6857093a5a24adf3574a23c1fc",
+      "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C15/Building_the_Brain_Developing_Nervous_System_Chapter_15_Static.pdf"
+    },
+    {
+      "path": "downloads/Brain_Injury_in_Football_CTE_Static.pdf",
+      "filename": "Brain_Injury_in_Football_CTE_Static.pdf",
+      "bytes": 12865671,
+      "pages": 80,
+      "sha256": "4e443aeb1c7ffdb3a683417a15734662068e352f68a63ebc2e339ac1de14d5cb",
+      "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/downloads/Brain_Injury_in_Football_CTE_Static.pdf"
+    },
+    {
+      "path": "downloads/Chapter_16_Layout_Preview.pdf",
+      "filename": "Chapter_16_Layout_Preview.pdf",
+      "bytes": 16536256,
+      "pages": 80,
+      "sha256": "2dd738ca230d51dfc785d44c5001826290662ddf31681f974d17417cd9d11906",
+      "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/downloads/Chapter_16_Layout_Preview.pdf"
+    },
+    {
+      "path": "downloads/Chapter_17_Layout_Preview.pdf",
+      "filename": "Chapter_17_Layout_Preview.pdf",
+      "bytes": 15895496,
+      "pages": 80,
+      "sha256": "70c0a04832eda20bacf2d5fff6909b27b3578c33d2b5dd4e2fe9254dd2dc09b6",
+      "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/downloads/Chapter_17_Layout_Preview.pdf"
+    },
+    {
+      "path": "downloads/Chapter_18_Stress_and_Anxiety_Disorders_Static_Preview.pdf",
+      "filename": "Chapter_18_Stress_and_Anxiety_Disorders_Static_Preview.pdf",
+      "bytes": 13161974,
+      "pages": 80,
+      "sha256": "cdc40118249aba8599bdf5e17bdd6d7f0836a17a7a1c3a06b2e2f5f630b874b7",
+      "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/downloads/Chapter_18_Stress_and_Anxiety_Disorders_Static_Preview.pdf"
+    },
+    {
+      "path": "downloads/Chapter_19_Substance_Abuse_Static_Preview.pdf",
+      "filename": "Chapter_19_Substance_Abuse_Static_Preview.pdf",
+      "bytes": 13352426,
+      "pages": 80,
+      "sha256": "ff0fa9510ad4e3b48a8615f3cc36edc3d01e20ee1432d39b0be906ac73de15cd",
+      "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/downloads/Chapter_19_Substance_Abuse_Static_Preview.pdf"
+    },
+    {
+      "path": "downloads/Football_Memory_Mental_Health_and_CTE_Static.pdf",
+      "filename": "Football_Memory_Mental_Health_and_CTE_Static.pdf",
+      "bytes": 8630260,
+      "pages": 80,
+      "sha256": "9f8854cd90a05af2b5ac072e8438df5668cd5dff5cc65e1d5c34b3230398a96d",
+      "url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/downloads/Football_Memory_Mental_Health_and_CTE_Static.pdf"
+    }
+  ]
+}

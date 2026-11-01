@@ -45,3 +45,7 @@ The instructor's explicit instructions override inherited Neuroethology rules. R
 The initial user message contains earlier onboarding and conversation reports. They are quoted historical context, not all newly verified in this session. This chat did not publish a cloud environment. Current branch source selections, packaging checks, GitHub folder creation, and local deletion results are documented above. No outstanding upload or local deletion action should run without a new request.
 
 [Full available conversation text](chat_history/2026-10-31_complete_chat.md)
+
+## Complete session materials
+
+The user subsequently requested the files as well as the chats. See the [complete session archive](session_archive/2026-10-31/README.md) for the 23 actual PDFs, full rules compilation, source/verification records, preparation scripts, screenshots, and links to the 23 latest PowerPoints. Large ZIP wrappers are not duplicated; their substantive files are preserved.
