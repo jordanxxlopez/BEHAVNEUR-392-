@@ -1,42 +1,44 @@
 # BEHAVNEUR 392 — Prompt 5, final teaching-text revision and visual examples
 
 **Reference folder:** `memory/session_archive/2026-10-31_Lemon/Prompt5_Approved_Examples/`  
-**Date:** October 31, 2026  
-**Source:** User-uploaded final Prompt 5 and approved original-font Chapter 2 preview ZIP.
+**Updated:** October 31, 2026
 
-## Open these first
-- [Exact uploaded Prompt 5 — Markdown](BEHAVNEUR392_Prompt_5_Final_Teaching_Text_Revision.md).
-- [Prompt 5 — TXT](BEHAVNEUR392_Prompt_5_Final_Teaching_Text_Revision.txt); this is the same prompt in a plain-text file, not a different prompt.
-- [Four real-slide Version A/B teaching examples — text reference](FOUR_SLIDE_A_B_TEACHING_TEXT.md).
-- [Validation and local preview-binary identifiers](EXAMPLE_PDF_AND_PNG_MANIFEST.md).
+## Approved example: open this first
 
-## The four approved-format comparisons
-These examples are derived from **four different Chapter 2 instructional slides**, not generic dummy slides:
+**[BEHAVNEUR392_Prompt5_Examples_A_vs_B.pdf](BEHAVNEUR392_Prompt5_Examples_A_vs_B.pdf)** is the approved Prompt 5 example. It has 5 pages, one slide from each of 5 different lectures, with Version A (bullets and sub-bullets) on the left and Version B (three paragraphs) on the right of each page.
 
-| Chapter 2 slide | Subject | Examples |
-| --- | --- | --- |
-| 06 | Actin waves and neurite growth | A + B, the original **user-approved** pair copied unchanged |
-| 13 | Microglial phagocytosis | A + B |
-| 42 | Threshold of an action potential | A + B |
-| 52 | Presynaptic calcium and vesicle fusion | A + B |
+| Page | Lecture | Slide | Figure / recording on the slide |
+| ---: | --- | --- | --- |
+| 1 | Chapter 4 · Chemical Control of Behavior | 23 · Opioids reduce release through a presynaptic receptor | Jullié et al. (2022), Fig. 1C |
+| 2 | Chapter 9 · Sleep and Biological Rhythms | 77 · Evening caffeine can delay the human melatonin rhythm | Burke et al. (2015), Fig. 1 |
+| 3 | Chapter 13 · Learning and Memory | 14 · Dopamine axons respond to changes in expected reward | Tsutsui-Kimura et al. (2020), Fig. 2; Feng et al. (2021), Video 3 |
+| 4 | Chapter 16 · Neurological Disorders | 38 · Parkinsonian movement follows loss of nigrostriatal input | Kumar et al. (2017), Fig. 5 |
+| 5 | Brain Injury in Football: CTE | 8 · Repeated contact can occur without concussion | Mez et al. (2019), Fig. 2; Princeton–Yale football (1903) |
 
-### Files produced in the ChatGPT conversation
-- `BEHAVNEUR392_Prompt5_4_Slides_A_B_8_Page_Examples.pdf`: eight full-size source slides.
-- `BEHAVNEUR392_Prompt5_4_Slides_SIDE_BY_SIDE_4_Pages.pdf`: four A/B side-by-side comparisons.
-- `BEHAVNEUR392_Prompt5_4_Slides_Examples_Package.zip`: two PDFs, eight per-version PNGs, four comparison PNGs, exact user-approved Chapter 2 screenshot, validation and original Prompt 5.
+SHA-256: `aea458445d3b1b0a1f601a8f1798df22bca6930f6eac910fd30844a899de5494`
 
-**Current GitHub binary limitation:** The GitHub connector can write the *text* and reuse pre-existing Git objects, but it could not transfer the newly generated PDF/PNG/ZIP raw binary from the chat sandbox into this GitHub folder. The named PDFs and screenshots are **currently available as downloads in the originating ChatGPT conversation**, not as GitHub-hosted blobs. The manifest gives their exact hashes and names so they can be added later without mixing up versions. Do NOT call this an archive of binary preview bytes until the binaries are actually uploaded.
+### What the example shows
+- **Writing:**
+  - Plain, direct teaching that can be read aloud, with terms defined in ordinary words.
+  - No caveats or limitation sentences, no figure-reading ("in the plotted trace…"), no vague wording ("cellular machinery", "plausible pathway"), and no analogies or dramatic language.
+  - Selective bold on key terms and causal phrases.
+- **Sources:** every added fact comes from that slide's own figure, figure legend, speaker-note references or cited papers.
+- **Version A:** three main bullets with sub-bullets. The number of sub-bullets follows each slide's science, not a fixed 3×3 pattern.
+- **Version B:** exactly three paragraphs. **Version B may carry slightly more than A**, because paragraphs use the full line width. It fills the text column to about the bottom of the original body-text area, as marked by the instructor's blue "2" review annotations.
+- **Typography:** Arial at 14 pt for main text and 13.5 pt for sub-bullets, at the tighter line spacing used in the approved examples. Each slide's title, figures, captions, video poster, citation and slide number are unchanged.
 
-### Design rules
-- Retain each original slide's font family, title, figures, captions, credits, photo/video posters, media placement and background.
-- Permit a modest reduction only in original body-text size, with **additional real teaching rather than more white space**.
-- Use the one original left-column teaching area. **Version A:** three substantial main teaching bullets with nested explanatory sub-bullets. **Version B:** exactly three connected scientific teaching paragraphs.
-- Selectively bold key neuroscience terminology and mechanism relationships.
-- Figures/credits remain unchanged in their original positions; the newest three pairs passed right-side pixel preservation checks.
-- The source PowerPoint uses **Arial**; the PDF uses its original Liberation Sans export equivalent. On Chapter 2 sample slides, main body text is ~14pt and sub-bullets ~13.5pt; other decks retain their own fonts/sizes.
-- This folder is a **visual/text reference for Prompt 5**, not the 46 full revised PowerPoints; native PPTX editing must begin with final approved video-embedded masters.
+### Limits of this example
+- **It's a static review PDF, not a PowerPoint.** It was made by replacing only the left teaching column of each slide's static PDF page, and its videos don't play.
+- **Real Prompt 5 edits must start from the final video-embedded PowerPoints** in [Latest_Lecture_PowerPoints](../../../../Latest_Lecture_PowerPoints/README.md).
+- **Native line spacing:** the native decks currently use 108% line spacing plus 9 pt after each paragraph. Matching this example's density in PowerPoint needs slightly tighter body-text line spacing, which Prompt 5 permits as a spacing change.
+
+## Prompt 5
+- [Prompt 5 — Markdown](BEHAVNEUR392_Prompt_5_Final_Teaching_Text_Revision.md) and [TXT](BEHAVNEUR392_Prompt_5_Final_Teaching_Text_Revision.txt): the same prompt in two formats.
+
+## Superseded
+The earlier four-slide **Chapter 2** examples (slides 6, 13, 42, 52), approved before this five-lecture example, are kept for history in [Superseded_Chapter2_Examples](Superseded_Chapter2_Examples/). Use the PDF above instead.
 
 ## Original sources
-- [Chapter 2 actual static PDF in Lemon](https://github.com/jordanxxlopez/BEHAVNEUR-392-/blob/main/memory/session_archive/2026-10-31_Lemon/uploaded/BEHAVNEUR392_All_23_Lectures_PDFs/How_Nerve_Cells_Work_Chapter_2_Static.pdf)
 - [Latest approved native PPTXs](https://github.com/jordanxxlopez/BEHAVNEUR-392-/tree/main/Latest_Lecture_PowerPoints)
-- [Lemon conversation chronology](../conversation/REWRITE_FOR_READABILITY_HISTORY.md).
+- [Static lecture PDFs used as page backgrounds](../../2026-10-31_Cherry/PDFs/)
+- [Lemon conversation](../browser_capture/conversation/EDGE_CONVERSATION.md)
