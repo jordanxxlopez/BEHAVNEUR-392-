@@ -1,0 +1,681 @@
+Claude
+
+Save as PDF
+
+LING406 2026 - Lecture 12 Speech Perception II.pdf
+LING406 2026 - Lecture 12 Speech Perce
+ption II
+.pdf
+PDF
+You are my teaching-note writer. Turn the lecture content I paste into long, detailed teaching notes written in a teaching-script style but formatted as structured notes.
+
+Since these slides have many slides everything must be in the order of the lecture and covered in detail!! IT WILL BE LONG, AND DETAILED BUT CANNOT BE SHORT
+
+THIS WILL REQUIRE 2 OUTPUTS
+SO OUTPUT 1 OF NOTES
+CONTINUE
+AND LAST OUTPUT 2 OF NOTES
+
+Start with exactly these 4 lines (match spelling, punctuation, and spacing exactly as provided):
+
+Course: <TITLE EXACTLY AS PROVIDED>
+Title of Lecture: <TITLE EXACTLY AS PROVIDED>
+Date: <DATE EXACTLY AS PROVIDED>
+Professor: <PROFESSOR EXACTLY AS PROVIDED>
+
+NON-NEGOTIABLE RULES
+
+Keep the exact same order as the source content. Do not rearrange topics.
+
+Do not say: “slide,” “slides,” “the lecture,” “in this lecture,” “the professor said,” “he said,” “she said,” “this slide shows,” or any slideshow narration.
+
+Skip ONLY true opening logistics such as: professor introductions, course announcements, reminders about assignments, and generic welcome statements. Cover EVERY concept, model, term, diagram description, study, pathway, and research finding that appears in the text — even if it seems tangential to the main topic. If the professor included it in the slides, it goes in the notes. Do not use your own judgment to decide something is unimportant and omit it. When in doubt, include it.
+
+However, the notes must be written so they flow naturally when spoken aloud, as if explaining the material to a class. The explanations should read like a smooth teaching script rather than fragmented bullet points.
+
+Do not include any meta commentary such as:
+
+“this slide shows”
+“in this lecture”
+“the professor said”
+“the slide explains”
+
+or any references to slides, lectures, or the act of presenting.
+
+Instead, write the notes as direct explanations of the material so they can be read out loud naturally while teaching.
+
+The result should be detailed, structured teaching notes that include everything from the source content but read like a clear, natural explanation of the material.
+
+Do not add brand-new topics. You may add clarifying explanations only for terms that already appear in the source content.
+
+Keep all scientist names, experiment names, dates, and values accurate to the source content.
+
+Never use arrow chains (→) or sequential symbol notation to depict multi-step processes. Instead, write each step as its own full sentence explaining what happens, what causes it, and what it produces or leads to. Every step in any sequence must be readable and understandable as spoken language without visual shorthand.
+
+NO METACOMMENTARY.
+
+Do not narrate what you are doing.
+
+Do not reference slides, structure, or how the notes are organized.
+
+Do not explain your reasoning process.
+
+STYLE I WANT (IMPORTANT)
+
+Write like real teaching notes that could be read aloud to classmates as a conceptual walkthrough.
+
+Bullets must read like a teaching script, meaning each main bullet should usually contain 2–5 full explanatory sentences.
+
+Sub-bullets should expand mechanisms, experiments, or logic using 1–3 full sentences each.
+
+Do NOT write shallow “term = definition” bullets. When a term appears, explain what it is, how it works, and why it matters.
+
+Each section must feel cohesive, with ideas building logically step-by-step.
+
+Mechanism rule: if the content describes a process, explain it as a clear cause → effect chain using nested sub-bullets.
+
+Experiment rule: if the content includes an experiment or test, explain the setup, observation, interpretation, and conclusion using nested sub-bullets.
+
+Define technical terms the first time they appear using clear language, then connect them back to circuit or behavioral function.
+
+Level: Advanced high school understanding. Use clear, direct language with minimal jargon.
+
+Use “we” naturally when explaining ideas, but do not overuse it.
+
+No fluff, no poetic language, no repetitive transitions, no “takeaway framing,” and no rhetorical prompts.
+
+Bold all headers and all truly important terms, mechanisms, named studies, equations, key relationships, and core concepts. Bold anything that is genuinely high-yield or conceptually central.
+
+NATURAL READABILITY AND EASY-TO-READ-ALOUD LANGUAGE (CRITICAL)
+
+The teaching notes must be academically rigorous and detailed while remaining natural, clear, and easy to read aloud. Write like a knowledgeable professor explaining complex material clearly to students, rather than a dense textbook or research paper. The writing should sound like natural spoken language without sacrificing scientific accuracy, conceptual depth, or important details.
+
+Use shorter, well-structured sentences that flow naturally when spoken aloud. Avoid unnecessarily long sentences that combine too many technical concepts, comparisons, or qualifications. When a sentence becomes difficult to follow, divide it into two or more complete, connected sentences.
+
+Avoid tongue-twister-like phrasing and overly complicated academic language. Do not use dense sentence structures, awkward word combinations, excessive jargon, or strings of abstract technical terms when simpler wording communicates the same scientific meaning.
+
+Preserve essential scientific terminology while simplifying the surrounding language. Keep the technical terms, named concepts, mechanisms, and experimental details that students need to learn. However, explain them using clear, accessible wording rather than surrounding them with unnecessarily complicated academic expressions.
+
+Avoid repetitive technical wording when natural alternatives improve readability. Do not repeatedly use the same scientific term within a sentence or across consecutive sentences when a simpler expression would be equally accurate. However, retain technical terminology whenever replacing it would change the scientific meaning.
+
+Use natural sentence structures and straightforward explanations. Prefer direct statements that clearly identify what happens, what causes it, and how different concepts relate. Avoid forcing multiple findings or relationships into one complicated sentence.
+
+Maintain smooth connections between sentences. Each sentence should naturally build on the previous one through the actual scientific relationship being explained. Do not use artificial transitions, presentation narration, rhetorical questions, or unnecessary introductory phrases to create flow.
+
+Balance sentence length naturally. Do not make every sentence extremely short, since this can make the writing sound choppy or robotic. Use a natural mixture of short and moderately long sentences while keeping each explanation easy to follow.
+
+Prioritize clarity without reducing detail. If an explanation is difficult to read, improve the sentence structure rather than removing information. Break complicated ideas into multiple connected sentences while preserving all relevant mechanisms, experimental conditions, findings, numerical results, and interpretations.
+
+Make each bullet understandable on the first reading. Students should be able to read the explanation aloud smoothly and understand the concept without having to mentally reorganize or translate the wording into simpler language.
+
+Keep the teaching-transcript style. The notes must still read like detailed explanations that a professor could naturally deliver to students. Do not turn them into simplified reference sheets, fragmented definitions, abbreviated summaries, or disconnected facts.
+
+ANTI-SPEECH-ERROR AND TONGUE-SLIP PREVENTION (CRITICAL)
+
+The teaching notes must be written to minimize unnecessary speech errors, tongue slips, stumbling, hesitation, and accidental word substitutions when read aloud. I should be able to teach directly from the notes without repeatedly stopping, correcting myself, or mentally rearranging the wording.
+
+This requirement is especially important because the notes are intended to be spoken aloud, not merely read silently.
+
+Avoid tongue-twister-like combinations of words. Do not place several words with similar sounds, repeated consonants, or difficult sound sequences next to each other when a more natural sentence would communicate the same information.
+
+Avoid unnecessary phonological repetition. When several consecutive words contain similar sounds or syllable patterns, consider whether the sentence can be rewritten to make it easier to pronounce.
+
+Reduce opportunities for tongue slips. Avoid awkward combinations of technical terms, repeated words, and complicated sentence structures that make it easy to accidentally exchange, omit, repeat, or substitute words while speaking.
+
+Avoid excessive alliteration and repeated consonant clusters. Do not create sentences that require rapid transitions between several similar or difficult sound combinations unless those words are scientifically necessary.
+
+Avoid unnecessarily long sequences of technical terminology. If several important scientific terms must appear together, distribute them across connected sentences so each term can be pronounced clearly.
+
+Use familiar grammatical structures. Prefer sentences with straightforward word order and clear relationships between subjects, verbs, and objects. Avoid complicated constructions that make the speaker lose track of what they are saying.
+
+Avoid sentences that require mentally correcting the wording while speaking. Every sentence should sound natural enough that I can read it aloud correctly on the first attempt.
+
+Reduce repeated sentence openings and awkward word combinations. Avoid patterns that make it easy to accidentally repeat a phrase or confuse one part of the sentence with another.
+
+Use natural speaking rhythm. Sentences should contain comfortable places to pause without interrupting the meaning. Do not pack too many names, numbers, technical terms, or qualifications into one continuous sentence.
+
+Keep related information together without overcrowding sentences. When a sentence contains several important findings, separate them into shorter, connected sentences rather than forcing everything into one complicated statement.
+
+Do not sacrifice scientific accuracy to avoid difficult pronunciation. Essential terminology, researcher names, experimental conditions, phonetic symbols, and technical distinctions must remain accurate.
+
+Preserve terminology related to psycholinguistics and speech production. If the material specifically concerns speech errors, tongue slips, phonological similarity, articulation, or other speech-related phenomena, retain the necessary terminology and examples. The anti-speech-error requirement applies to unnecessary difficulty in the surrounding writing, not to scientific content that must be learned.
+
+Avoid making the writing artificially simple or robotic. The goal is natural spoken fluency, not a series of disconnected short sentences. Maintain complete explanations and smooth connections between ideas.
+
+IMPORTANT DISTINCTION BETWEEN NECESSARY TERMINOLOGY AND UNNECESSARY SPEECH DIFFICULTY
+
+Avoid unnecessarily complicated wording:
+
+"Phonological similarity significantly increases susceptibility to speech production errors during sequential articulation."
+
+Prefer natural wording:
+
+"Speech errors are more likely when words contain similar sounds. These similarities can make it easier to mix up sounds while speaking."
+
+The preferred version communicates the relationship through natural sentences that are easier to pronounce and less likely to cause stumbling.
+
+However, if the source specifically discusses phonological similarity, speech production, or articulation, preserve those terms when they are necessary to explain the concept accurately.
+
+FINAL ANTI-SPEECH-ERROR REQUIREMENT
+
+Before finalizing each bullet, silently evaluate whether the sentence could cause an unnecessary tongue slip or speech error when spoken aloud.
+
+Pay particular attention to repeated sounds, awkward consonant combinations, difficult word sequences, excessive technical terminology, complicated grammar, and sentences that require several corrections or pauses to pronounce naturally.
+
+If a sentence is unnecessarily difficult to say, rewrite it using simpler word order, more natural phrasing, and shorter connected sentences.
+
+The goal is for every bullet to sound like something a knowledgeable professor could say naturally and confidently without stumbling over the wording. Preserve the scientific material while making the surrounding language as comfortable to speak as possible.
+
+EXAMPLE OF THE DESIRED WRITING STYLE
+
+Avoid overly complicated wording:
+
+"Discrimination sensitivity exhibits increased performance in proximity to categorical identification boundaries relative to within-category acoustic intervals."
+
+Prefer natural, scientifically accurate wording:
+
+"Discrimination is strongest near phoneme boundaries. Listeners are better at telling sounds apart when they fall into different categories than when they belong to the same category."
+
+The preferred version communicates the same scientific relationship using clearer sentences that are easier to understand and read aloud.
+
+FINAL READABILITY REQUIREMENT
+
+Before finalizing each bullet, silently check whether the explanation sounds natural when spoken aloud. If a sentence contains too many technical terms, complicated clauses, repetitive expressions, or awkward phrasing, rewrite it using clearer language and more natural sentence structures.
+
+Do not shorten the notes, remove important information, or reduce conceptual depth to improve readability. Instead, distribute complex explanations across multiple connected sentences.
+
+The goal is to preserve the full depth and detail of the original teaching notes while making every sentence clear, natural, scientifically accurate, and comfortable to read aloud.
+
+FORMAT (CRITICAL)
+
+Use simple topic headings for each topic shift, exactly like: Section 1: <short topic name>
+
+Under each heading, everything must be in bullet format (no paragraph blocks).
+
+Use sub-bullets whenever needed to prevent wall-of-text while preserving deep explanation.
+
+Use numbered lists only when the source itself presents a true stepwise sequence.
+
+Do not produce one-line bullets for major concepts; expand until the concept is genuinely taught.
+
+REQUIRED CONTENT PER TOPIC (NATURAL, NOT RIGID LABELS)
+
+For each topic, naturally include:
+
+what it is
+
+how it works
+
+key evidence or experiment when present
+
+important numbers or relationships
+
+why it matters for neural computation or behavior
+
+Do not artificially label these components; integrate them naturally into the explanation.
+
+LATEX + SCIENCE FORMATTING
+
+Use inline LaTeX for subscripts, superscripts, ions, charges, variables, and symbols.
+
+For any true equation or quantitative relationship, place it centered on its own line:
+
+.........
+
+Do not invent equations or values not present in the source content.
+
+Do not present the same expression in conflicting formats.
+
+Render the LaTeX. Don’t show the $$.
+
+Display equations in rendered math mode.
+
+Use display math formatting.
+
+Do not show raw LaTeX code.
+
+Center the equations properly.
+
+Use LaTeX display blocks, not literal $$ text.
+
+LENGTH + CONTINUE RULE
+
+Make the notes long and detailed, with enough explanation that they can be studied independently.
+
+If you reach a length limit OR there is more source content left to cover, stop only at a natural section boundary and output ONLY:
+
+[CONTINUE]
+
+OUTPUT RULE
+
+Output only the teaching notes (header + section headings + bullets and sub-bullets). No extra commentary.
+
+NO NON-INSTRUCTIONAL FRAMING: Every sentence must directly teach information contained in the source or provide a necessary clarification of a source concept. Remove roadmap language, transition commentary, figure-reading narration, takeaway framing, evaluative filler, and explanations of why a topic is being introduced. Do not write sentences such as “before getting to,” “the next step is,” “this helps us understand,” “reading the figure shows,” “the key point is,” “this sets up,” “from here,” “this becomes important later,” or similar phrases. Instead, state the actual concept, finding, relationship, mechanism, or evidence directly.
+
+NO STRUCTURAL OR PRESENTATION COMMENTARY: Do not include structural metacommentary, forward-looking commentary, presentation narration, figure narration, roadmap statements, transition framing, takeaway framing, or sentences whose main purpose is to guide the reader through the presentation. Do not announce what will be discussed next, explain why a topic is being introduced, tell the reader how to read a figure, or add sentences merely to connect one topic to another. A summary sentence is allowed only when it teaches or clarifies an important concept from the source. If removing a sentence would not remove any actual concept, mechanism, finding, definition, experimental detail, relationship, or evidence, remove it. For example, do not write “These factors give us a set of well-established effects that any model of word recognition must be able to explain,” because it does not teach any additional information. Move directly to the scientific or conceptual content.
+
+NATURAL TEACHING TRANSCRIPT STYLE
+
+Keep the notes written like a natural teaching transcript that I could read aloud while pretending to teach a class. The wording should flow naturally from sentence to sentence and sound like a real professor clearly explaining the material to students, while still using bullet and sub-bullet structure. Do not turn the notes into a reference sheet, fragments, choppy definitions, or robotic fact lists.
+
+Use complete, natural sentences and explain concepts in a way that sounds normal when spoken aloud. NO AI-sounding filler, forced transitions, fake enthusiasm, poetic language, motivational language, or unnecessary phrases about “understanding,” “appreciating,” or “seeing why something matters.” Do not narrate the teaching process with phrases such as “now let’s look at,” “next we have,” “as you can see,” “remember that,” or “this is important to understand.” Move naturally between ideas by explaining the actual scientific relationship between them.
+
+The notes should sound like I am directly teaching the material to students, not like I am reading a slideshow, summarizing a textbook, or giving a presentation about the material. Keep the language clear, human, conversational enough to read aloud, and scientifically accurate without becoming overly casual.
+
+NO ILLUSTRATIVE FRAMING
+
+Do not describe an example, image, or graph as "illustrating," "demonstrating," or "showing" a concept. Do not write sentences structured as "This illustrates that...," "This demonstrates...," or "This shows that..." — these describe the example instead of teaching its content. State the concept, relationship, or fact directly, using the specific numbers, labels, or forms from the example as the evidence, without narrating that the example is functioning as an illustration. Do not open a sentence with "A [graph/image/example] is shown/given that..." — start with the content itself instead of announcing that an illustration exists. Do not close a section with a sentence that restates what the preceding material "demonstrates" or "shows" in general terms; if a closing sentence adds no new fact, cut it.
+
+NO ATTENTION-DIRECTING LANGUAGE
+
+Do not use phrases that narrate a shift in focus or attention, such as "attention now turns to," "we now turn to," "our focus shifts to," "we now consider," "let's turn to," "moving on to," or similar. When a new topic begins, start directly with the actual content, definition, or fact — the bolded section heading already signals the topic change.
+
+NO NARRATION OF THE WRITING PROCESS ITSELF
+
+Never write a sentence whose subject is the notes, the explanation, the topic, or the reader's attention/focus rather than the actual scientific or linguistic content. Any sentence structured as "X turns to Y," "X shifts to Y," "X is illustrated by Y," "X is demonstrated by Y," or "we now consider Y" should be rewritten so that the real content is the subject, stated as a direct fact.
+
+Decorative images: If an image is only illustrative or decorative and adds no instructional information beyond what the text already states, do not mention or describe it at all. This applies to any image whose only role is to accompany a topic, regardless of its subject, style, or content, and Claude should not write sentences that describe how such an image looks. Teach only the concept the text states. Mention an image only when it carries instructional content that is not in the text, such as stimuli, task materials, graphs, data displays, diagrams, models, brain images, or labeled structures. In that case, teach the content directly without describing the image as an image.
+
+SELECTIVE FIGURE, GRAPH, AND DIAGRAM EXPLANATIONS (CRITICAL)
+
+Analyze figures, graphs, diagrams, images, and other visual material to identify the scientific information they contain, but do not automatically explain every visual in extensive detail. The purpose of the teaching notes is to teach the underlying concepts, mechanisms, experimental findings, and important relationships, not to provide a complete visual description of every figure.
+
+Only explain a figure in detail when its specific information is necessary to understand the concept, experiment, mechanism, or research finding being taught. If a figure simply reinforces something that has already been explained clearly, do not repeat the same information or create an additional explanation just because the figure is present.
+
+Prioritize scientific meaning over visual description. Focus on what the figure teaches about the concept rather than describing every visible feature, label, curve, color, or measurement.
+
+Use figures selectively. If a figure contains important experimental results, meaningful comparisons, mechanisms, or relationships that are not explained elsewhere, incorporate those findings into the notes. If it merely provides another visual example of an already established concept, additional explanation is unnecessary.
+
+Do not explain every individual data point or visual element. For graphs containing multiple curves, conditions, categories, or measurements, explain the overall pattern and the comparisons that matter. Include individual values only when they are necessary for understanding the finding or when the source specifically emphasizes them.
+
+Avoid excessive numerical descriptions. Do not list every frequency, coordinate, percentage, time point, or measurement simply because it appears in a figure. Preserve values that are scientifically meaningful, necessary for interpreting the results, or central to the concept being taught.
+
+Do not turn figures into lengthy visual walkthroughs. Avoid describing the location, appearance, arrangement, or progression of every element unless those details are essential to understanding the scientific content.
+
+Integrate important visual information into the relevant teaching bullets. Do not automatically create separate paragraphs or sections for every figure. Explain the findings naturally within the discussion of the corresponding concept.
+
+Avoid repeating information. If the text already explains a scientific relationship and the figure presents the same relationship, explain it once using whichever information makes the concept clearest.
+
+Adjust the level of detail to the figure's instructional importance. A complex experimental graph containing the main findings of a study may require several explanatory sentences. A simple diagram reinforcing a definition may require only one sentence or no additional explanation.
+
+Do not force explanations of decorative or redundant visuals. If an image contributes no new scientific information and is unnecessary for understanding the material, omit it entirely.
+
+Preserve essential evidence. Do not omit important experimental findings, meaningful trends, critical comparisons, or numerical results simply to avoid discussing figures. The goal is selective explanation, not the removal of scientific evidence.
+
+IMPORTANT DISTINCTION BETWEEN TEACHING AND DESCRIBING
+
+Avoid unnecessarily detailed visual descriptions such as:
+
+"The first curve has a peak near 400 Hz, while the second peak appears around 2300 Hz. The next curve has a slightly higher first peak, and the third curve moves downward across the frequency scale."
+
+Instead, explain the scientific relationship directly:
+
+"Vowel sounds differ in their formant frequencies, which depend on the shape of the vocal tract. The first formant is closely related to tongue height, while the second formant is related to how far forward or backward the tongue is positioned."
+
+The preferred explanation teaches the underlying relationship without requiring an unnecessary description of every individual curve.
+
+FINAL FIGURE EXPLANATION RULE
+
+Before including information from a figure, determine whether that information contributes something necessary to understanding the scientific concept, mechanism, experiment, or finding.
+
+If the figure contains essential information, explain that information clearly and in sufficient detail.
+
+If the figure is redundant, decorative, or provides unnecessary visual detail, do not explain it.
+
+If only part of a figure is important, explain only that part.
+
+The notes must remain long, detailed, and comprehensive, but their depth should come from teaching scientific concepts and experimental findings rather than exhaustively describing every figure, graph, or image.
+
+SELECTIVE USE OF NUMBERS, MEASUREMENTS, AND QUANTITATIVE DETAILS (CRITICAL)
+
+Do not automatically include every number, measurement, frequency, percentage, coordinate, duration, stimulus number, or numerical value that appears in the source material.
+
+The purpose of the teaching notes is to understand the scientific concepts, mechanisms, experiments, and findings. Numerical information should support that understanding rather than make the explanations unnecessarily complicated or difficult to remember.
+
+Only include exact numerical values when they are genuinely important for understanding the concept, interpreting the experiment, explaining the findings, or preserving a scientifically meaningful distinction.
+
+Prioritize scientific relationships over exact measurements. When the main finding concerns an increase, decrease, difference, similarity, or relationship between variables, explain that relationship clearly rather than listing every numerical value.
+
+Do not list numbers simply because they appear in the source. A figure may contain dozens of frequencies, percentages, time points, or measurements. Include only the values that contribute meaningfully to understanding the material.
+
+Preserve important experimental numbers. Keep numerical values when they define an experimental condition, establish a meaningful comparison, support an important conclusion, or are necessary to understand the study.
+
+Preserve essential statistical findings. If a statistical result is central to the interpretation of an experiment, include the relevant value. Do not automatically include every statistical detail when the important conclusion can be explained accurately without it.
+
+Avoid unnecessary precision. Do not include decimal places or highly specific measurements when the exact precision contributes nothing to the scientific explanation.
+
+Use qualitative descriptions when appropriate. Terms such as higher, lower, faster, slower, more accurate, less accurate, or approximately equal may communicate the important relationship more clearly than a long sequence of numbers.
+
+Do not overload sentences with numerical information. When several important numbers must be included, distribute them across natural sentences so they remain easy to understand and read aloud.
+
+Avoid repeating numerical information. If a value has already been explained and does not need to be repeated, refer to the established relationship instead.
+
+Keep numbers that are necessary for exam preparation. Preserve values that the source clearly emphasizes, that distinguish experimental conditions, or that students may reasonably need to know to interpret the findings.
+
+Do not replace meaningful quantitative differences with vague descriptions. If the size of a difference matters scientifically, explain it using the relevant numbers rather than simply saying that one condition was different from another.
+
+Maintain numerical accuracy. Whenever a number is included, preserve its meaning and accuracy. Do not invent, alter, or round values in ways that change the scientific interpretation.
+
+IMPORTANT DISTINCTION BETWEEN NECESSARY AND UNNECESSARY NUMBERS
+
+Avoid excessive numerical descriptions such as:
+
+"The first formant was approximately 400 Hz, the second formant was approximately 2300 Hz, and the third formant was approximately 2750 Hz. In another vowel, the first formant increased to approximately 800 Hz while the second formant decreased to approximately 1650 Hz."
+
+When the exact measurements are not necessary, prefer:
+
+"Vowels differ in their formant frequencies because the tongue and vocal tract change shape during speech. The first formant generally increases as the tongue lowers, while the second formant decreases as the tongue moves farther back."
+
+The preferred version explains the scientifically important relationships without requiring students to memorize or pronounce several unnecessary measurements.
+
+However, if an experiment specifically investigates a numerical threshold, a measured difference, a statistical result, or a particular quantitative relationship, preserve the relevant numbers.
+
+FINAL NUMERICAL DETAIL REQUIREMENT
+
+Before including a numerical value, silently determine whether knowing that exact number is necessary to understand the concept, experimental design, scientific relationship, or research finding.
+
+If the exact number is important, include it and explain what it means.
+
+If the number is merely descriptive, incidental, or unnecessary for understanding the material, omit it.
+
+If a general comparison communicates the same scientific information accurately, use that comparison instead.
+
+The notes must remain scientifically rigorous and detailed, but they should not become lists of measurements or numerical descriptions that distract from learning the actual material.
+
+EXPLAIN DEPTH WITHOUT ADDING OUTSIDE INFORMATION
+
+Teach each point in the source by explaining what it says in more depth, but only where the source gives something worth unpacking. If a term, number, label, example, or step needs explaining to be understood, explain it where it appears. If the meaning is already clear, do not force an explanation, and do not follow a fixed order or template for every point. Going into depth means explaining the source's own content more fully. It does not mean bringing in outside facts, studies, examples, or interpretations that the source does not contain.
+
+NO REFERENCE-SHEET STYLE
+
+Do not compress source points into one-line restatements, stacked fragments, or lists of short facts. Write each point as connected, complete sentences that a professor could say aloud, and state the reasoning between ideas when the source provides it. If a bullet could be copied onto a cheat sheet unchanged, expand it with the source's own details, but only as far as the source supports.
+
+LONG AND DETAILED NOTES IN THE ORDER OF THE SLIDES! do not summarize or generalize instead teach NO METACOMMENTRY DO IT HERE NOT A DOWLOAD i will write continue! and there needs to be 2 outputs! IN TEACHING TRANSCRIPT STYLE! NOT A REFERENCE SHEET STYLE MUST BE IN THE ORDER OF THE SLIDES DO NOT DO DEEP DIVE SECTION OR SUMMARY SECTIONS IF NOT NEEDED BUT STOP ONCE YOU REACH THE END OF THE LAST SLIDE AND HAVE TAUGHT ALL THE MATERIAL
+
+Make sure to analyze all instructional images, figures, graphs, and diagrams to identify their relevant scientific content, but only explain what is necessary to understand the concepts, mechanisms, experiments, and findings. Do not describe every visual or include unnecessary measurements, labels, or details. If a figure is redundant or adds nothing essential to the explanation, omit it. Maintain complete coverage of the scientific material without excessive figure narration or metacommentary!
+
+FINAL PRIORITY: The teaching notes must preserve the full scientific and conceptual depth of the source while remaining natural, clear, and comfortable to speak aloud. Avoid unnecessary numerical details, complicated sentence structures, tongue-twister-like wording, and phrasing that increases the likelihood of speech errors. Keep essential scientific terminology and important quantitative findings accurate. The goal is to produce detailed teaching notes that I can read aloud confidently, smoothly, and naturally without repeatedly stumbling over the language
+
+Course: LING/PSYC 406 Psycholinguistics
+Title of Lecture: Speech Perception II: Words
+Date: 10/1/2026
+Professor: Jason Zevin
+
+Ran 3 commands
+I couldn’t find the Lecture 12 PDF in this session. The upload folder is empty, so the file didn’t come through. I haven’t written any notes, because I’d have to guess at the slide content and your rules require every slide to be covered in order.
+
+Could you re-attach “LING406 2026 - Lecture 12 Speech Perception II.pdf”? If it’s too large, you can split it into two PDFs. As soon as it arrives, I’ll write Output 1, ending with [CONTINUE], and then Output 2 when you reply “continue”.
+
+LING406 2026 - Lecture 12 Speech Perception II.pdf
+LING406 2026 - Lecture 12 Speech Perce
+ption II
+.pdf
+PDF
+Read a file
+Course: LING/PSYC 406 Psycholinguistics
+Title of Lecture: Speech Perception II: Words
+Date: 10/1/2026
+Professor: Jason Zevin
+
+Section 1: A Very Old and Very General Model of Speech Perception
+
+Categorical perception is where this topic starts. Somewhere between the sound entering the ear and the brain deciding which phonemes it heard, a lot of acoustic detail is thrown away. The signal that comes through the cochlea is analog, which means it changes smoothly and continuously. By the time we reach phoneme activation, also called segmental analysis, that smooth signal has become a small set of discrete categories, such as /b/ or /p/.
+Klatt (1979) offers a very old and very general model of how this happens. It treats speech perception as a series of stages. Each stage takes in one kind of information, transforms it, and passes a new kind of information to the next stage.
+The speech waveform first enters the peripheral auditory system, which is the ear and the earliest parts of hearing. This system performs a spectral analysis, breaking the sound into its different frequencies.
+The spectral analysis is passed to acoustic property detectors. These detectors respond to specific acoustic properties, and their outputs are tracked as they change over time.
+The detector outputs then go to phonetic feature detectors. These detectors estimate how likely it is that particular phonetic features are present at each moment, such as whether a sound is voiced. The result is a set of feature probabilities over time.
+Those feature probabilities are passed to segmental analysis. This stage combines the features into individual speech segments and produces a segmental feature matrix, which is essentially a list of the phonemes that were heard.
+Finally, the segmental feature matrix is used in lexical search, where the system looks for words in memory that match the phoneme string. The output is a set of lexical hypotheses, which are the system’s best guesses about which word was spoken.
+In this view, losing information is helpful. Removing fine acoustic detail lets the system make contact with higher levels of representation, such as words. A word’s entry in memory is stored as a sequence of phonemes, not as a precise acoustic recording. So reducing the signal to phoneme categories makes it easier to match with stored words.
+One assumption follows from this. In order to identify words, we first need to identify their constituent phonemes. Under this assumption, word recognition can only begin after phoneme identification has finished.
+This simple view runs into two problems:
+Cascaded processing
+Feedback
+Each of these challenges the idea that information moves one way, one finished stage at a time, from sound to phonemes to words.
+Section 2: A Familiar Voicing Continuum
+
+A voicing continuum is a series of speech sounds that change step by step along one acoustic dimension. Here the endpoints are the words “peach” and “beach.” The dimension that changes is voice onset time (VOT).
+Voice onset time is the delay between releasing a consonant, such as opening the lips for /p/ or /b/, and the start of vocal fold vibration. A long VOT is heard as the voiceless /p/ in “peach.” As VOT gets shorter, the sound moves toward the voiced /b/ in “beach.”
+The continuum has nine steps. Step 1 is at the “peach” end, and step 9 is at the “beach” end. Each step shortens VOT by the same small amount.
+In the identification task, listeners hear one step at a time and label it. The labels change suddenly rather than gradually.
+Steps 1 through 5 are given the same label every time, at a proportion of 1.
+Steps 7 through 9 are given the other label every time, at a proportion of 0.
+Step 6 is the ambiguous one. It gets the first label only about a third of the time. This step sits near the category boundary, where listeners switch from one category to the other.
+The physical change between steps is the same everywhere on the continuum. However, the labels stay flat across most steps and then flip quickly in one narrow region.
+In the discrimination task, listeners hear pairs of stimuli two steps apart and decide whether they are different.
+Pairs within the same category, such as steps 1 and 3 or steps 7 and 9, are almost never told apart. Their discrimination score is 0.
+Pairs that straddle the boundary, steps 4 and 6 and steps 5 and 7, are told apart perfectly.
+The pair of steps 6 and 8 falls in between, at about a third.
+So discrimination is strongest exactly where identification changes. This match between the two tasks is the signature of categorical perception. Listeners can easily hear a difference when two sounds fall into different categories, but they struggle when the sounds belong to the same category.
+Section 3: How Categorical Perception Happens in a Threshold Model
+
+A threshold model explains categorical perception in one possible way. In this kind of model, activity is passed forward from one level to the next only when an activity threshold is crossed. A threshold is a fixed cutoff value. Below the cutoff, nothing is sent onward. Above it, a signal is sent.
+At the feature level, voicing information can rise and fall over time. In the model’s example, feature activation moves up and down between two dashed lines. The upper line is the threshold for +voiced, and the lower line is the threshold for –voiced.
+For most of the time, the voicing activation wavers in the middle. It comes close to the +voiced line but does not cross it.
+Only near the end does the activation finally rise above the +voiced threshold.
+At the phoneme level, activation stays completely flat at zero while the feature level wavers. The phoneme level receives nothing during this time.
+When the voicing feature crosses the +voiced threshold, phoneme activation suddenly jumps up to /b/.
+If the feature had crossed the lower threshold instead, the phoneme level would have jumped to /p/.
+The phoneme level never “sees” the near misses at the feature level. Partial evidence is invisible to it.
+In a threshold model, categorical perception arises at phoneme identification. The all-or-none jump in identification happens at the point where the phoneme level decides /b/ or /p/. Any uncertainty below that point is removed before the information moves upward.
+Section 4: How Categorical Perception Happens in a Cascaded Model
+
+A cascaded model works differently. In this kind of model, activity is passed forward continuously over time from one level to the next. No cutoff has to be crossed first.
+With the same pattern of feature activation, the phoneme level now behaves very differently.
+As the voicing feature rises and falls, phoneme activation rises and falls along with it.
+When the feature leans toward +voiced, /b/ becomes partly active. When it leans toward –voiced, /p/ becomes partly active.
+So the phoneme level carries a graded, moment-by-moment version of the evidence, including partial and uncertain states.
+In a cascaded model, categorical perception might happen later on. The sharp category decision might be made at a higher stage instead of at the phoneme level.
+It is even possible that categorical perception is an artifact of the task structure. Identification tasks force listeners to give one of two labels. That forced choice could create the sudden switch in the data, even if the underlying activation is graded.
+Section 5: A Metaphor for Thresholded Activity: Making Furniture
+
+Thresholded processing can be compared to the steps in making furniture. Each step is handled by a different place that takes one kind of input and produces one kind of output.
+The lumber mill takes trees as input and produces lumber as output.
+The furniture factory takes lumber as input and produces unassembled furniture as output.
+The IKEA customer takes unassembled furniture as input and produces finished furniture as output.
+In this chain, each “layer” of the system can only take a specific input that has been transformed completely by the previous layer.
+The furniture factory cannot work with a half-cut tree. It has to wait for the shipment of lumber before it can start manufacturing.
+In the same way, the IKEA customer cannot begin assembly until the factory has finished making the parts and shipped them.
+Mapped onto speech, the word level would have to wait until the phoneme level had fully finished deciding which phonemes were heard.
+Many computer programs function this way. One routine finishes its job completely, and only then is its output handed to the next routine.
+Section 6: A Metaphor for Cascaded Processing: A Food Web
+
+Cascaded processing can be compared to a food web, such as one in a desert. In a food web, the “levels” are the different groups of living things. Desert plants are eaten by insects, small lizards, and kangaroo rats. Those animals are eaten by larger animals, such as large lizards, scorpions, and snakes. At the top are predators such as hawks and desert foxes.
+In a food web, the levels continuously interact with one another. A change at one level spreads to other levels right away, without waiting for anything to be “finished.”
+Suppose a drought reduces the number of plants. That reduction immediately affects the health of the kangaroo rats that feed on the plants.
+Weaker or fewer kangaroo rats then affect the snakes that eat them, and the effects continue upward.
+No level waits for a completed product from the level below. Each one responds to gradual changes as they happen.
+The food web also contains clear feedback loops. Effects do not only travel upward from plants to predators. They can also travel back down.
+For example, adding more hawks would change the populations of the snakes, lizards, and rats that hawks eat. A change at the top of the web pushes back down onto the lower levels.
+This idea of influence flowing downward becomes important later, when word knowledge appears to affect phoneme perception.
+Section 7: Thresholded or Cascaded? The McMurray et al. Visual World Study
+
+The main question is whether phoneme identification for word recognition is more like thresholded processing, like the lumber mill, or cascaded processing, like the food web.
+McMurray, Tanenhaus, Aslin, and Spivey (2003) tested this question. Their paper is titled “Probabilistic constraint satisfaction at the lexical/phonetic interface: Evidence for gradient effects of within-category VOT on lexical access,” published in the Journal of Psycholinguistic Research.
+They tested how people identify sounds along a /b/–/p/ continuum.
+They used a “visual world” display combined with eye-tracking. In a visual world task, people see a set of pictures on a screen while they hear speech. An eye tracker records where their eyes look, moment by moment.
+Each display contained four pictures.
+One was the target, such as a pear.
+One was a competitor that differed from the target only in voicing, such as a bear. “Bear” and “pear” form a minimal pair, which means they differ by only one sound.
+Two were filler items unrelated to the sounds, such as a lamp and a ship.
+Participants heard a word from the continuum and used the mouse to select the picture most consistent with what they heard, either the bear or the pear. This is the same kind of picture-choice identification task as the at-home experiment.
+The mouse clicks gave a typical, step-like identification function. At short VOTs, near 0 ms, listeners almost never chose the /p/ picture. At long VOTs, near 40 ms, they almost always did.
+The switch happened sharply around the category boundary, which was at about 17.5 ms of VOT, give or take 0.83 ms.
+So the final clicks looked just as categorical as the classic identification data from the beach–peach continuum.
+Section 8: Eye Movements Reveal That Ambiguity Is Gradient
+
+The mouse clicks were categorical, but the eye movements told a different story. Eye movements revealed that ambiguity is gradient. A gradient effect changes smoothly and gradually rather than all at once. Specifically, people made more looks to the competitor when the sound was close to the category boundary.
+The researchers measured how often people looked at the competitor picture over time after the word began. They did this separately for trials where the final click went to the bear and trials where it went to the pear.
+On trials where people clicked the bear, the VOTs ranged from 0 to 15 ms. Looks to the pear rose and peaked roughly 400 ms after the word began, then faded away.
+The 15 ms stimulus, which is the one closest to the boundary on the bear side, produced the most looks to the pear. It also kept those looks going for longer.
+On trials where people clicked the pear, the VOTs ranged from 20 to 40 ms. Here the 20 ms stimulus, closest to the boundary on the pear side, drew the most looks to the bear.
+This result is important. Even when the listener’s final answer was the same, the eye movements were sensitive to small differences in VOT within a category.
+A 0 ms token and a 15 ms token were both clicked as “bear.” Yet the 15 ms token pulled the eyes toward “pear” much more.
+According to the authors, the effect of VOT is mainly on the duration of activation. Stimuli near the boundary kept the competitor active for longer before it faded.
+The effect becomes even clearer when the looks to the competitor are averaged over two time windows. The early window runs from 300 to 1100 ms after the word starts, and the late window runs from 1100 to 1900 ms.
+On the bear side, looks to the pear competitor increase steadily as VOT approaches the boundary. This happens in both windows. In the late window, these looks roughly double, from about 0.02 at 0 ms to about 0.04 at 15 ms.
+On the pear side, looks to the bear competitor are highest just past the boundary and decrease steadily as VOT moves farther away, toward 40 ms.
+Overall, competitor looks are higher in the early window than in the late window. This fits with competition being strongest early on and then resolving as the word is recognized.
+So the pattern forms a peak at the category boundary. The closer a sound is to the boundary, the more strongly the other member of the minimal pair is considered.
+Section 9: Cascaded Flow from Features to Phonemes
+
+This finding is consistent with the idea that activation flows in a cascaded way from features to phonemes. The model that captures this flow has three layers of processing units.
+The feature layer receives a pseudo-spectral input representation. This is a simplified version of the sound’s frequency information. Units in this layer stand for acoustic-phonetic features, such as voicing (VOI) and burst (BUR), along with several other dimensions of the sound.
+The phoneme layer contains units for individual phonemes, such as /b/, /r/, /t/, and others.
+The word layer contains units for whole words, such as “abrupt.”
+Units are copied across many points in time. This lets the model represent sounds and words that start at different moments as the input unfolds.
+Within each layer, units that compete with each other inhibit one another, so a strongly active unit pushes down its rivals.
+Activity moves upward from features to phonemes and from phonemes to words. It also moves downward from words back to phonemes.
+In this model, even stimuli that are identified as /b/ 100% of the time can vary in how strongly and unambiguously the “voiced” feature is activated.
+A token with a 0 ms VOT activates “voiced” very strongly.
+A token with a 15 ms VOT is still heard as /b/, but it activates “voiced” more weakly. It also gives some activation to “voiceless.”
+Consider a stimulus that is obviously +bilabial, meaning it is made with both lips, and obviously +stop, meaning airflow is fully blocked and then released. Both /b/ and /p/ share these two features. They differ only in voicing.
+So when the voicing feature is weak or uncertain, the other features fit both phonemes equally well.
+This creates some momentary ambiguity between /b/ and /p/. Both phoneme units become partly active for a while.
+The partial activation of /p/ passes up to words that begin with /p/, such as “pear.”
+That ambiguity is reflected in eye movements while the participant decides where to click. The extra looks to the competitor picture are a visible trace of this brief competition.
+Section 10: Partial Activation Can Reach All the Way to the Lexical Level
+
+Partial activation does not stop at the phoneme level. Evidence shows that it can reach all the way to the lexical level, where word meanings are stored.
+Andruski et al. (1994) demonstrated that we can even get semantic priming with nonwords.
+Semantic priming occurs when hearing one word makes it easier to respond to a related word. For example, hearing “doctor” speeds up a response to “nurse.”
+The task was lexical decision. Participants heard a prime and then saw or heard a target. They had to decide as quickly as possible whether the target was a real word. Faster reaction times mean the prime helped.
+The primes were words that start with voiceless stops, such as /p/, /t/, or /k/. The researchers shortened the VOT of the first consonant by one third or by two thirds. Shortening VOT pushes the sound toward its voiced partner, such as /b/, /d/, or /g/.
+In this way, “peace” moves toward “beace,” and “king” moves toward “ging.” Neither “beace” nor “ging” is a real word.
+Even so, “beace” primes “war,” and “ging” primes “queen.” The altered nonword-like token still activates the meaning of the original word.
+The study compared two types of items.
+In word-to-word items, the voiced counterpart of the prime is also a real word, such as “pet” becoming “bet.” In these items, “bill” is the voiced counterpart of “pill,” and it primes “drug.”
+In word-to-nonword items, the voiced counterpart is not a word, such as “king” becoming “ging.”
+The reaction time results support this idea.
+In every altered condition, responses to related targets were faster than responses after an unrelated prime. Unrelated primes produced the slowest reaction times, close to a full second.
+For word-to-nonword items, priming stayed strong even when VOT was cut by two thirds.
+For word-to-word items, priming was weaker at the two-thirds level. Here the altered prime sounded more like a different real word, which competed with the intended word.
+So lexical representations can be activated even by incomplete phonetic information. A word’s meaning can become active before the system has fully settled on which phoneme it heard.
+Section 11: Evidence for Cascaded Processing in Speech Perception
+
+The eye-movement results from McMurray et al. are one piece of evidence for cascaded processing in speech perception.
+A thresholded model would have a hard time explaining why the number of looks to the other member of the minimal pair increases gradually as VOT approaches the category boundary.
+In a threshold model, the link between the feature level and the phoneme level is blocked until the voicing feature crosses its threshold.
+The phoneme level would therefore receive nothing about how close the feature came to the other category. A 15 ms token and a 0 ms token would both simply produce /b/.
+If the phoneme level gets no graded information, then the word level cannot get any either. The word “pear” should not become more active for a 15 ms token than for a 0 ms token.
+Yet eye movements show exactly that graded difference. Looks to “pear” grow smoothly as VOT nears the boundary.
+A cascaded model explains this result naturally. Graded feature activation flows continuously into the phoneme level and then into the word level. The competitor word is partly activated in proportion to how ambiguous the voicing is, and the eyes follow that partial activation.
+[CONTINUE]
+
+continue
+
+Section 12: Feedback from the Lexical Layer to the Phoneme Layer
+
+The same model that explains cascaded processing also includes a second property. It allows feedback from the lexical layer, which is the word layer, down to the phoneme layer.
+In the model’s structure, arrows run upward from the feature layer to the phoneme layer and from the phoneme layer to the word layer. One arrow also runs downward from the word layer to the phoneme layer.
+That downward connection means a word that is becoming active can send activation back to the phonemes it contains. Those phonemes become even more active.
+This is the second problem for the simple view from Klatt’s model. In that view, information flows only upward. Word knowledge could never change how a phoneme is perceived.
+Feedback is a form of top-down processing. Higher-level knowledge, such as knowing which words exist, influences lower-level processing, such as deciding which sound was heard. Bottom-up processing is the opposite. It is driven purely by the incoming acoustic signal.
+Several experiments motivate building this kind of feedback into a model of speech perception.
+Section 13: The Ganong Effect: The Basic Design
+
+The Ganong effect is named after Ganong (1980), who studied how phoneme identification is affected by word knowledge. The title “Gisses and kifts for Valentine’s day” is a play on “kisses and gifts” with the first sounds’ voicing swapped. “Kiss” is a word but “giss” is not, while “gift” is a word but “kift” is not.
+Ganong created word/nonword pairs. In each pair, the two items differ only in the voicing of the first consonant. One example is “corpse” and “gorpse.” “Corpse” is a real word, but “gorpse” is not.
+For each pair, he built a continuum that spanned the relevant phoneme boundary in 5 ms steps of VOT. One end sounded clearly voiced, like /g/, and the other end sounded clearly voiceless, like /k/.
+Listeners heard each step and reported whether the first sound was voiced or voiceless.
+Two types of continua were compared.
+In a word–nonword continuum, the voiced end is a real word, as with “gift” and “kift.”
+In a nonword–word continuum, the voiceless end is the real word, as with “giss” and “kiss,” or “gorpse” and “corpse.”
+A neutral condition gives a baseline for comparison.
+If word knowledge matters, listeners should give more voiced responses when the voiced end is a word. They should give fewer voiced responses when the voiceless end is a word.
+The results are measured with two values. The first is the proportion of voiced responses at each step. The second is the lexical effect, which is the difference in voiced responses between the two continuum types at each step. A larger lexical effect means word knowledge pushed responses further.
+Section 14: Prediction 1: A Late Correction Process
+
+One possible account is a late “correction” process. In this account, categorical perception works as usual, and phonemes are identified from the sound alone. After that, a separate process adds a bias to report having heard a word.
+This account makes a specific prediction about where the lexical effect should appear.
+The bias is applied after perception is finished, so it does not depend on how ambiguous the sound was. It acts as a constant push toward the word answer.
+So the lexical effect should be the same size at every step of the continuum. In the prediction, it stays flat at about 0.25 across all steps.
+The bias would even appear at the clear endpoints. For the word–nonword continuum, listeners would still report a voiced sound about a quarter of the time at the long VOT end, where the sound is clearly voiceless. For the nonword–word continuum, voiced responses would drop to about 0.75 at the short VOT end, where the sound is clearly voiced.
+In other words, the word bias would sometimes override even an unambiguous sound.
+Section 15: Prediction 2: Word Knowledge Shifts the Category Boundary
+
+A second account says that word knowledge works to shift the categorical boundary itself. In this view, lexical information changes where the dividing line between voiced and voiceless falls.
+This account predicts a different pattern.
+At the clear endpoints, the sound strongly signals one phoneme. Word knowledge has nothing to add, so the lexical effect should be close to zero.
+Near the category boundary, the sound is ambiguous. Here word knowledge can tip the decision, so the lexical effect should be strongest for items closest to the boundary. In the prediction, it peaks at about 0.38 just on either side of the boundary.
+The identification curves for the two continuum types would sit on either side of the neutral curve. The word–nonword curve shifts toward more voiced responses, and the nonword–word curve shifts toward fewer. The curves come together again at both ends.
+The reasoning is that items closest to the boundary are the ones for which lexical information can help resolve ambiguity about the initial phoneme. When the sound itself is uncertain, the listener’s knowledge of which item is a real word fills in the gap.
+Section 16: The Ganong Results
+
+The results are strikingly consistent with the second model, the boundary-shift account.
+The lexical effect was small at the endpoints and largest near the category boundary, peaking at about 0.32.
+The word–nonword curve gave more voiced responses than the nonword–word curve mainly in the middle of the continuum. The two curves came close together at the short VOT end and the long VOT end.
+So listeners did not simply add a fixed word bias to every judgment. Word knowledge mattered most where the sound was most ambiguous.
+Ganong raised a number of possibilities for how this could happen. He focused on different kinds of guessing strategies. For example, when a listener is unsure of a sound, they might guess the option that makes a real word.
+Later models would emphasize the potential role of feedback in these boundary shifts. In a feedback account, the effect is not a conscious guess. Instead, an active word sends activation down to its phonemes, which changes how the ambiguous sound is perceived.
+Section 17: A Simulation of the Ganong Effect in the TRACE Model
+
+The TRACE model is the three-layer model of features, phonemes, and words introduced earlier. It can simulate the Ganong effect. In the simulation, the input begins with a segment that is ambiguous between /b/ and /p/. That segment is followed by /l/, then the vowel in “plug,” then /g/. With /p/, the sequence makes the word “plug.” With /b/, it does not make a word.
+The model’s activations can be followed at several points as the input unfolds over time.
+Early on, the ambiguous first segment activates /b/ and /p/ equally at the phoneme level. Both are weakly active, and almost no words are active yet.
+As /l/ arrives, /b/ and /p/ grow stronger together, along with /l/ and some activation for /r/. At the word level, many words that begin with similar sounds become weakly active at once.
+By the third point, “plug” is clearly rising at the word level. However, other words, such as “blood” and “blush,” are also active, since they share the early sounds.
+When the final /g/ arrives, activity accumulates strongly for “plug.” The /g/ is highly inconsistent with “blood” and “blush,” so those competitors fall behind. “Plug” becomes the most active word by a wide margin.
+At the same time, the phoneme level changes too. /p/ now becomes more active than /b/, even though the acoustic input for that first sound never changed.
+This model explains word effects on phoneme category boundaries in terms of top-down processing.
+Activity from the lexical level produces feedback to the phoneme level.
+That feedback gives greater activation to the phoneme that is consistent with a word. In this case, “plug” sends activation back to /p/, which pulls /p/ ahead of /b/.
+So when the input is ambiguous, the word the listener knows helps decide which phoneme they hear. This is the Ganong effect, produced by feedback rather than by a separate guessing strategy.
+Section 18: Connection to the Interactive Activation Model
+
+The TRACE model closely resembles an earlier model of reading. TRACE is a version of the Interactive Activation model for written word recognition, developed by McClelland and Rumelhart (1981).
+The Interactive Activation model has three levels for reading.
+The lowest level detects visual features, such as straight lines and curves at different angles.
+The middle level contains letter units, which are activated by matching features.
+The top level contains word units, such as WEAR, WORK, WORD, and WEAK.
+Activation flows up from features to letters and from letters to words. It also flows down from words back to letters. Units within the same level compete by inhibiting each other.
+Partly hidden words show how this works. Suppose someone sees “WOR” followed by a fourth letter that is partly covered. The visible features of that last letter fit both R and K.
+The letters W, O, and R strongly activate words such as WORK and WORD.
+WORK is a real word that fits the visible features. It sends feedback down to the letter K, which helps K win over R.
+So, just as in TRACE, word knowledge resolves ambiguity at a lower level.
+Many of the principles are the same in both models. These include graded activation, competition within levels, and feedback from words to smaller units.
+However, a key issue in speech perception is the way the stimuli unfold over time. A written word is all on the page at once. A spoken word arrives one sound after another. TRACE handles this by copying its units across many time points, so it can track words that start at different moments as the input comes in.
+Section 19: Categorical Perception and the Lexical-Phonetic Interface
+
+The lexical-phonetic interface is the point where sound-level information and word-level information meet. The findings so far change how categorical perception fits into word recognition.
+Perception appears to be shaped by category boundaries. Given the same physical difference, it is more difficult to tell apart stimuli from the same category than stimuli from different categories.
+Nothing in the findings on cascaded processing or feedback undermines that basic result. Categorical perception is still real.
+However, two new conclusions now sit alongside it.
+Ambiguity about phoneme identity does have an impact on word recognition. The McMurray eye-tracking study and the Andruski priming study both found that small differences within a category reach the word level. These differences changed looks to competitors and changed priming.
+Word-level information seems to have an impact on phoneme categorization. The Ganong effect found that knowing which item is a real word shifts where listeners place the phoneme boundary.
+Therefore, it cannot be the case that the word recognition system simply waits for the phoneme recognition system to finish its job, the way a furniture factory waits for lumber from the lumber mill.
+Information flows upward continuously, as in cascaded processing. It also flows back down, through feedback.
+Spoken word recognition seems to be more interactive than the simple stage-by-stage view.
+Section 20: Spoken Word Recognition Is Also Very Fast
+
+Spoken word recognition is also very fast. Allopenna et al. (1994, JML) used a visual world eye-tracking task to measure this speed.
+In their task, participants saw a grid with pictures of objects and geometric shapes. They heard instructions to pick up and move one of the objects. The pictures were chosen to compete in specific ways.
+The referent was the object actually named, such as a “beaker.”
+A cohort competitor shared the beginning of the word, such as “beetle.” Words that start with the same sounds form a cohort, since they are all consistent with the input at first.
+A rhyme competitor shared the ending of the word, such as “speaker.”
+An unrelated item shared no sounds with the referent, such as “carriage.”
+The probability of fixating each item over time after the word began followed a clear pattern.
+Looks to the referent began rising at around 200 ms. They climbed steeply and reached nearly 1 by about 800 ms.
+Looks to the cohort competitor, “beetle,” rose at the same time as the referent at first. During the early part of the word, “beaker” and “beetle” sound the same. Cohort looks peaked at about 0.2 and then fell once the input ruled “beetle” out.
+Looks to the rhyme competitor, “speaker,” rose a little later and stayed smaller, peaking at about 0.1. A rhyme does not match the beginning of the word, but it still overlaps enough to gain some activation.
+Looks to the unrelated item stayed near zero the whole time.
+These results show the speed of recognition. On average, the spoken word ended at about 375 ms. Yet looks to the referent were already climbing, and the referent was already pulling ahead of the competitors, before the word was finished. Listeners begin narrowing down the word while it is still being spoken.
+Section 21: TRACE Predictions Match Eye Movements
+
+The TRACE model’s predicted activations can be compared directly with the eye-movement data from Allopenna et al. Model activation is converted into a predicted fixation probability for each picture.
+For the referent, the predicted curve and the actual fixation curve rise together and reach nearly 1 at about the same time.
+For the cohort competitor, TRACE predicts an early rise and a peak at about 0.2, followed by a decline. This closely matches the real looks to “beetle.”
+For the rhyme competitor, TRACE predicts a smaller and later rise, peaking around 0.1. This also closely matches the real looks to “speaker.”
+The simulation has fine granularity. It tracks changes in activation moment by moment, not just the final answer.
+Eye movements give us an idea of the changes in “activity” for different competitors over time. The eyes tend to move toward whichever word is currently most active.
+So eye-tracking reveals cognitive processing before a final response is issued. It captures the competition among candidate words while it is happening.
+A simple choice, such as a mouse click, only reveals the end point.
+This point connects back to the graded effects of category goodness in the categorical perception task. In the McMurray study, mouse clicks were categorical, but eye movements revealed that some tokens were better members of their category than others. In the same way, the Allopenna data and TRACE simulations reveal graded, changing activation for competing words over time, which a final response alone would hide.
+
+
+
+
+Claude is AI and can make mistakes. Please double-check responses.
+Claude finished the response
+
+

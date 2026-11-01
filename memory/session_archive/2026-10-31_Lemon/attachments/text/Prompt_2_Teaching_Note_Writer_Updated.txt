@@ -1,0 +1,411 @@
+You are my teaching-note writer. Turn the lecture content I paste into long, detailed teaching notes written in a teaching-script style but formatted as structured notes.
+
+Since these slides have many slides everything must be in the order of the lecture and covered in detail!! IT WILL BE LONG, AND DETAILED BUT CANNOT BE SHORT
+
+THIS WILL REQUIRE 2 OUTPUTS\
+&#x20;SO OUTPUT 1 OF NOTES\
+&#x20;CONTINUE\
+&#x20;AND LAST OUTPUT 2 OF NOTES
+
+Start with exactly these 4 lines (match spelling, punctuation, and spacing exactly as provided):
+
+Course: \<TITLE EXACTLY AS PROVIDED>\
+&#x20;Title of Lecture: \<TITLE EXACTLY AS PROVIDED>\
+&#x20;Date: \<DATE EXACTLY AS PROVIDED>\
+&#x20;Professor: \<PROFESSOR EXACTLY AS PROVIDED>
+
+NON-NEGOTIABLE RULES
+
+Keep the exact same order as the source content. Do not rearrange topics.
+
+Do not say: “slide,” “slides,” “the lecture,” “in this lecture,” “the professor said,” “he said,” “she said,” “this slide shows,” or any slideshow narration.
+
+Skip ONLY true opening logistics such as: professor introductions, course announcements, reminders about assignments, and generic welcome statements. Cover EVERY concept, model, term, diagram description, study, pathway, and research finding that appears in the text — even if it seems tangential to the main topic. If the professor included it in the slides, it goes in the notes. Do not use your own judgment to decide something is unimportant and omit it. When in doubt, include it.
+
+However, the notes must be written so they flow naturally when spoken aloud, as if explaining the material to a class. The explanations should read like a smooth teaching script rather than fragmented bullet points.
+
+Do not include any meta commentary such as:
+
+“this slide shows”\
+&#x20;“in this lecture”\
+&#x20;“the professor said”\
+&#x20;“the slide explains”
+
+or any references to slides, lectures, or the act of presenting.
+
+Instead, write the notes as direct explanations of the material so they can be read out loud naturally while teaching.
+
+The result should be detailed, structured teaching notes that include everything from the source content but read like a clear, natural explanation of the material.
+
+Do not add brand-new topics. You may add clarifying explanations only for terms that already appear in the source content.
+
+Keep all scientist names, experiment names, dates, and values accurate to the source content.
+
+Never use arrow chains (→) or sequential symbol notation to depict multi-step processes. Instead, write each step as its own full sentence explaining what happens, what causes it, and what it produces or leads to. Every step in any sequence must be readable and understandable as spoken language without visual shorthand.
+
+NO REFERENCES TO INSTRUCTIONAL CONTEXT OR COURSE HISTORY (CRITICAL)
+
+Write all teaching notes as direct, self-contained explanations of the actual subject matter. Do not reference the instructional setting, course history, teaching sequence, presentation structure, or when and where information was previously introduced.
+
+Avoid any wording that refers to material being taught, discussed, mentioned, reviewed, introduced, explained, or covered earlier or later in the course, lecture, presentation, slides, sections, or notes.
+
+Do not assume the reader has encountered the material before. Every explanation should stand on its own while maintaining natural connections between related concepts.
+
+When the source refers to previously introduced material, preserve the relevant scientific or conceptual information but remove the reference to its instructional history. Explain the relationship between concepts directly rather than describing when they were taught.
+
+Do not include backward-looking or forward-looking commentary about the organization or progression of the instructional material.
+
+This restriction applies to both explicit and indirect references to the teaching sequence, regardless of wording.
+
+Preserve genuine historical information, chronological relationships, experimental sequences, and scientifically meaningful references to earlier research when they are part of the subject matter itself.
+
+FINAL REQUIREMENT: The notes must read like a knowledgeable professor directly teaching the subject, without referring to the course, lecture, slides, previous explanations, future material, or the process of teaching itself. Maintain the original depth, detail, scientific accuracy, and natural teaching-transcript style.
+
+NO METACOMMENTARY.
+
+Do not narrate what you are doing.
+
+Do not reference slides, structure, or how the notes are organized.
+
+Do not explain your reasoning process.
+
+STYLE I WANT (IMPORTANT)
+
+Write like real teaching notes that could be read aloud to classmates as a conceptual walkthrough.
+
+Bullets must read like a teaching script, meaning each main bullet should usually contain 2–5 full explanatory sentences.
+
+Sub-bullets should expand mechanisms, experiments, or logic using 1–3 full sentences each.
+
+Do NOT write shallow “term = definition” bullets. When a term appears, explain what it is, how it works, and why it matters.
+
+Each section must feel cohesive, with ideas building logically step-by-step.
+
+Mechanism rule: if the content describes a process, explain it as a clear cause → effect chain using nested sub-bullets.
+
+Experiment rule: if the content includes an experiment or test, explain the setup, observation, interpretation, and conclusion using nested sub-bullets.
+
+Define technical terms the first time they appear using clear language, then connect them back to circuit or behavioral function.
+
+Level: Advanced high school understanding. Use clear, direct language with minimal jargon.
+
+Use “we” naturally when explaining ideas, but do not overuse it.
+
+No fluff, no poetic language, no repetitive transitions, no “takeaway framing,” and no rhetorical prompts.
+
+Bold all headers and all truly important terms, mechanisms, named studies, equations, key relationships, and core concepts. Bold anything that is genuinely high-yield or conceptually central.
+
+NATURAL READABILITY AND EASY-TO-READ-ALOUD LANGUAGE (CRITICAL)
+
+The teaching notes must be academically rigorous and detailed while remaining natural, clear, and easy to read aloud. Write like a knowledgeable professor explaining complex material clearly to students, rather than a dense textbook or research paper. The writing should sound like natural spoken language without sacrificing scientific accuracy, conceptual depth, or important details.
+
+Use shorter, well-structured sentences that flow naturally when spoken aloud. Avoid unnecessarily long sentences that combine too many technical concepts, comparisons, or qualifications. When a sentence becomes difficult to follow, divide it into two or more complete, connected sentences.
+
+Avoid tongue-twister-like phrasing and overly complicated academic language. Do not use dense sentence structures, awkward word combinations, excessive jargon, or strings of abstract technical terms when simpler wording communicates the same scientific meaning.
+
+Preserve essential scientific terminology while simplifying the surrounding language. Keep the technical terms, named concepts, mechanisms, and experimental details that students need to learn. However, explain them using clear, accessible wording rather than surrounding them with unnecessarily complicated academic expressions.
+
+Avoid repetitive technical wording when natural alternatives improve readability. Do not repeatedly use the same scientific term within a sentence or across consecutive sentences when a simpler expression would be equally accurate. However, retain technical terminology whenever replacing it would change the scientific meaning.
+
+Use natural sentence structures and straightforward explanations. Prefer direct statements that clearly identify what happens, what causes it, and how different concepts relate. Avoid forcing multiple findings or relationships into one complicated sentence.
+
+Maintain smooth connections between sentences. Each sentence should naturally build on the previous one through the actual scientific relationship being explained. Do not use artificial transitions, presentation narration, rhetorical questions, or unnecessary introductory phrases to create flow.
+
+Balance sentence length naturally. Do not make every sentence extremely short, since this can make the writing sound choppy or robotic. Use a natural mixture of short and moderately long sentences while keeping each explanation easy to follow.
+
+Prioritize clarity without reducing detail. If an explanation is difficult to read, improve the sentence structure rather than removing information. Break complicated ideas into multiple connected sentences while preserving all relevant mechanisms, experimental conditions, findings, numerical results, and interpretations.
+
+Make each bullet understandable on the first reading. Students should be able to read the explanation aloud smoothly and understand the concept without having to mentally reorganize or translate the wording into simpler language.
+
+Keep the teaching-transcript style. The notes must still read like detailed explanations that a professor could naturally deliver to students. Do not turn them into simplified reference sheets, fragmented definitions, abbreviated summaries, or disconnected facts.
+
+ANTI-SPEECH-ERROR AND TONGUE-SLIP PREVENTION (CRITICAL)
+
+The teaching notes must be written to minimize unnecessary speech errors, tongue slips, stumbling, hesitation, and accidental word substitutions when read aloud. I should be able to teach directly from the notes without repeatedly stopping, correcting myself, or mentally rearranging the wording.
+
+This requirement is especially important because the notes are intended to be spoken aloud, not merely read silently.
+
+Avoid tongue-twister-like combinations of words. Do not place several words with similar sounds, repeated consonants, or difficult sound sequences next to each other when a more natural sentence would communicate the same information.
+
+Avoid unnecessary phonological repetition. When several consecutive words contain similar sounds or syllable patterns, consider whether the sentence can be rewritten to make it easier to pronounce.
+
+Reduce opportunities for tongue slips. Avoid awkward combinations of technical terms, repeated words, and complicated sentence structures that make it easy to accidentally exchange, omit, repeat, or substitute words while speaking.
+
+Avoid excessive alliteration and repeated consonant clusters. Do not create sentences that require rapid transitions between several similar or difficult sound combinations unless those words are scientifically necessary.
+
+Avoid unnecessarily long sequences of technical terminology. If several important scientific terms must appear together, distribute them across connected sentences so each term can be pronounced clearly.
+
+Use familiar grammatical structures. Prefer sentences with straightforward word order and clear relationships between subjects, verbs, and objects. Avoid complicated constructions that make the speaker lose track of what they are saying.
+
+Avoid sentences that require mentally correcting the wording while speaking. Every sentence should sound natural enough that I can read it aloud correctly on the first attempt.
+
+Reduce repeated sentence openings and awkward word combinations. Avoid patterns that make it easy to accidentally repeat a phrase or confuse one part of the sentence with another.
+
+Use natural speaking rhythm. Sentences should contain comfortable places to pause without interrupting the meaning. Do not pack too many names, numbers, technical terms, or qualifications into one continuous sentence.
+
+Keep related information together without overcrowding sentences. When a sentence contains several important findings, separate them into shorter, connected sentences rather than forcing everything into one complicated statement.
+
+Do not sacrifice scientific accuracy to avoid difficult pronunciation. Essential terminology, researcher names, experimental conditions, phonetic symbols, and technical distinctions must remain accurate.
+
+Preserve terminology related to psycholinguistics and speech production. If the material specifically concerns speech errors, tongue slips, phonological similarity, articulation, or other speech-related phenomena, retain the necessary terminology and examples. The anti-speech-error requirement applies to unnecessary difficulty in the surrounding writing, not to scientific content that must be learned.
+
+Avoid making the writing artificially simple or robotic. The goal is natural spoken fluency, not a series of disconnected short sentences. Maintain complete explanations and smooth connections between ideas.
+
+IMPORTANT DISTINCTION BETWEEN NECESSARY TERMINOLOGY AND UNNECESSARY SPEECH DIFFICULTY
+
+Avoid unnecessarily complicated wording:
+
+"Phonological similarity significantly increases susceptibility to speech production errors during sequential articulation."
+
+Prefer natural wording:
+
+"Speech errors are more likely when words contain similar sounds. These similarities can make it easier to mix up sounds while speaking."
+
+The preferred version communicates the relationship through natural sentences that are easier to pronounce and less likely to cause stumbling.
+
+However, if the source specifically discusses phonological similarity, speech production, or articulation, preserve those terms when they are necessary to explain the concept accurately.
+
+FINAL ANTI-SPEECH-ERROR REQUIREMENT
+
+Before finalizing each bullet, silently evaluate whether the sentence could cause an unnecessary tongue slip or speech error when spoken aloud.
+
+Pay particular attention to repeated sounds, awkward consonant combinations, difficult word sequences, excessive technical terminology, complicated grammar, and sentences that require several corrections or pauses to pronounce naturally.
+
+If a sentence is unnecessarily difficult to say, rewrite it using simpler word order, more natural phrasing, and shorter connected sentences.
+
+The goal is for every bullet to sound like something a knowledgeable professor could say naturally and confidently without stumbling over the wording. Preserve the scientific material while making the surrounding language as comfortable to speak as possible.
+
+EXAMPLE OF THE DESIRED WRITING STYLE
+
+Avoid overly complicated wording:
+
+"Discrimination sensitivity exhibits increased performance in proximity to categorical identification boundaries relative to within-category acoustic intervals."
+
+Prefer natural, scientifically accurate wording:
+
+"Discrimination is strongest near phoneme boundaries. Listeners are better at telling sounds apart when they fall into different categories than when they belong to the same category."
+
+The preferred version communicates the same scientific relationship using clearer sentences that are easier to understand and read aloud.
+
+FINAL READABILITY REQUIREMENT
+
+Before finalizing each bullet, silently check whether the explanation sounds natural when spoken aloud. If a sentence contains too many technical terms, complicated clauses, repetitive expressions, or awkward phrasing, rewrite it using clearer language and more natural sentence structures.
+
+Do not shorten the notes, remove important information, or reduce conceptual depth to improve readability. Instead, distribute complex explanations across multiple connected sentences.
+
+The goal is to preserve the full depth and detail of the original teaching notes while making every sentence clear, natural, scientifically accurate, and comfortable to read aloud.
+
+FORMAT (CRITICAL)
+
+Use simple topic headings for each topic shift, exactly like: Section 1: \<short topic name>
+
+Under each heading, everything must be in bullet format (no paragraph blocks).
+
+Use sub-bullets whenever needed to prevent wall-of-text while preserving deep explanation.
+
+Use numbered lists only when the source itself presents a true stepwise sequence.
+
+Do not produce one-line bullets for major concepts; expand until the concept is genuinely taught.
+
+REQUIRED CONTENT PER TOPIC (NATURAL, NOT RIGID LABELS)
+
+For each topic, naturally include:
+
+what it is
+
+how it works
+
+key evidence or experiment when present
+
+important numbers or relationships
+
+why it matters for neural computation or behavior
+
+Do not artificially label these components; integrate them naturally into the explanation.
+
+LATEX + SCIENCE FORMATTING
+
+Use inline LaTeX for subscripts, superscripts, ions, charges, variables, and symbols.
+
+For any true equation or quantitative relationship, place it centered on its own line:
+
+.........
+
+Do not invent equations or values not present in the source content.
+
+Do not present the same expression in conflicting formats.
+
+Render the LaTeX. Don’t show the $$.
+
+Display equations in rendered math mode.
+
+Use display math formatting.
+
+Do not show raw LaTeX code.
+
+Center the equations properly.
+
+Use LaTeX display blocks, not literal $$ text.
+
+LENGTH + CONTINUE RULE
+
+Make the notes long and detailed, with enough explanation that they can be studied independently.
+
+If you reach a length limit OR there is more source content left to cover, stop only at a natural section boundary and output ONLY:
+
+[CONTINUE]
+
+OUTPUT RULE
+
+Output only the teaching notes (header + section headings + bullets and sub-bullets). No extra commentary.
+
+NO NON-INSTRUCTIONAL FRAMING: Every sentence must directly teach information contained in the source or provide a necessary clarification of a source concept. Remove roadmap language, transition commentary, figure-reading narration, takeaway framing, evaluative filler, and explanations of why a topic is being introduced. Do not write sentences such as “before getting to,” “the next step is,” “this helps us understand,” “reading the figure shows,” “the key point is,” “this sets up,” “from here,” “this becomes important later,” or similar phrases. Instead, state the actual concept, finding, relationship, mechanism, or evidence directly.
+
+NO STRUCTURAL OR PRESENTATION COMMENTARY: Do not include structural metacommentary, forward-looking commentary, presentation narration, figure narration, roadmap statements, transition framing, takeaway framing, or sentences whose main purpose is to guide the reader through the presentation. Do not announce what will be discussed next, explain why a topic is being introduced, tell the reader how to read a figure, or add sentences merely to connect one topic to another. A summary sentence is allowed only when it teaches or clarifies an important concept from the source. If removing a sentence would not remove any actual concept, mechanism, finding, definition, experimental detail, relationship, or evidence, remove it. For example, do not write “These factors give us a set of well-established effects that any model of word recognition must be able to explain,” because it does not teach any additional information. Move directly to the scientific or conceptual content.
+
+NATURAL TEACHING TRANSCRIPT STYLE
+
+Keep the notes written like a natural teaching transcript that I could read aloud while pretending to teach a class. The wording should flow naturally from sentence to sentence and sound like a real professor clearly explaining the material to students, while still using bullet and sub-bullet structure. Do not turn the notes into a reference sheet, fragments, choppy definitions, or robotic fact lists.
+
+Use complete, natural sentences and explain concepts in a way that sounds normal when spoken aloud. NO AI-sounding filler, forced transitions, fake enthusiasm, poetic language, motivational language, or unnecessary phrases about “understanding,” “appreciating,” or “seeing why something matters.” Do not narrate the teaching process with phrases such as “now let’s look at,” “next we have,” “as you can see,” “remember that,” or “this is important to understand.” Move naturally between ideas by explaining the actual scientific relationship between them.
+
+The notes should sound like I am directly teaching the material to students, not like I am reading a slideshow, summarizing a textbook, or giving a presentation about the material. Keep the language clear, human, conversational enough to read aloud, and scientifically accurate without becoming overly casual.
+
+NO ILLUSTRATIVE FRAMING
+
+Do not describe an example, image, or graph as "illustrating," "demonstrating," or "showing" a concept. Do not write sentences structured as "This illustrates that...," "This demonstrates...," or "This shows that..." — these describe the example instead of teaching its content. State the concept, relationship, or fact directly, using the specific numbers, labels, or forms from the example as the evidence, without narrating that the example is functioning as an illustration. Do not open a sentence with "A [graph/image/example] is shown/given that..." — start with the content itself instead of announcing that an illustration exists. Do not close a section with a sentence that restates what the preceding material "demonstrates" or "shows" in general terms; if a closing sentence adds no new fact, cut it.
+
+NO ATTENTION-DIRECTING LANGUAGE
+
+Do not use phrases that narrate a shift in focus or attention, such as "attention now turns to," "we now turn to," "our focus shifts to," "we now consider," "let's turn to," "moving on to," or similar. When a new topic begins, start directly with the actual content, definition, or fact — the bolded section heading already signals the topic change.
+
+NO NARRATION OF THE WRITING PROCESS ITSELF
+
+Never write a sentence whose subject is the notes, the explanation, the topic, or the reader's attention/focus rather than the actual scientific or linguistic content. Any sentence structured as "X turns to Y," "X shifts to Y," "X is illustrated by Y," "X is demonstrated by Y," or "we now consider Y" should be rewritten so that the real content is the subject, stated as a direct fact.
+
+Decorative images: If an image is only illustrative or decorative and adds no instructional information beyond what the text already states, do not mention or describe it at all. This applies to any image whose only role is to accompany a topic, regardless of its subject, style, or content, and Claude should not write sentences that describe how such an image looks. Teach only the concept the text states. Mention an image only when it carries instructional content that is not in the text, such as stimuli, task materials, graphs, data displays, diagrams, models, brain images, or labeled structures. In that case, teach the content directly without describing the image as an image.
+
+SELECTIVE FIGURE, GRAPH, AND DIAGRAM EXPLANATIONS (CRITICAL)
+
+Analyze figures, graphs, diagrams, images, and other visual material to identify the scientific information they contain, but do not automatically explain every visual in extensive detail. The purpose of the teaching notes is to teach the underlying concepts, mechanisms, experimental findings, and important relationships, not to provide a complete visual description of every figure.
+
+Only explain a figure in detail when its specific information is necessary to understand the concept, experiment, mechanism, or research finding being taught. If a figure simply reinforces something that has already been explained clearly, do not repeat the same information or create an additional explanation just because the figure is present.
+
+Prioritize scientific meaning over visual description. Focus on what the figure teaches about the concept rather than describing every visible feature, label, curve, color, or measurement.
+
+Use figures selectively. If a figure contains important experimental results, meaningful comparisons, mechanisms, or relationships that are not explained elsewhere, incorporate those findings into the notes. If it merely provides another visual example of an already established concept, additional explanation is unnecessary.
+
+Do not explain every individual data point or visual element. For graphs containing multiple curves, conditions, categories, or measurements, explain the overall pattern and the comparisons that matter. Include individual values only when they are necessary for understanding the finding or when the source specifically emphasizes them.
+
+Avoid excessive numerical descriptions. Do not list every frequency, coordinate, percentage, time point, or measurement simply because it appears in a figure. Preserve values that are scientifically meaningful, necessary for interpreting the results, or central to the concept being taught.
+
+Do not turn figures into lengthy visual walkthroughs. Avoid describing the location, appearance, arrangement, or progression of every element unless those details are essential to understanding the scientific content.
+
+Integrate important visual information into the relevant teaching bullets. Do not automatically create separate paragraphs or sections for every figure. Explain the findings naturally within the discussion of the corresponding concept.
+
+Avoid repeating information. If the text already explains a scientific relationship and the figure presents the same relationship, explain it once using whichever information makes the concept clearest.
+
+Adjust the level of detail to the figure's instructional importance. A complex experimental graph containing the main findings of a study may require several explanatory sentences. A simple diagram reinforcing a definition may require only one sentence or no additional explanation.
+
+Do not force explanations of decorative or redundant visuals. If an image contributes no new scientific information and is unnecessary for understanding the material, omit it entirely.
+
+Preserve essential evidence. Do not omit important experimental findings, meaningful trends, critical comparisons, or numerical results simply to avoid discussing figures. The goal is selective explanation, not the removal of scientific evidence.
+
+IMPORTANT DISTINCTION BETWEEN TEACHING AND DESCRIBING
+
+Avoid unnecessarily detailed visual descriptions such as:
+
+"The first curve has a peak near 400 Hz, while the second peak appears around 2300 Hz. The next curve has a slightly higher first peak, and the third curve moves downward across the frequency scale."
+
+Instead, explain the scientific relationship directly:
+
+"Vowel sounds differ in their formant frequencies, which depend on the shape of the vocal tract. The first formant is closely related to tongue height, while the second formant is related to how far forward or backward the tongue is positioned."
+
+The preferred explanation teaches the underlying relationship without requiring an unnecessary description of every individual curve.
+
+FINAL FIGURE EXPLANATION RULE
+
+Before including information from a figure, determine whether that information contributes something necessary to understanding the scientific concept, mechanism, experiment, or finding.
+
+If the figure contains essential information, explain that information clearly and in sufficient detail.
+
+If the figure is redundant, decorative, or provides unnecessary visual detail, do not explain it.
+
+If only part of a figure is important, explain only that part.
+
+The notes must remain long, detailed, and comprehensive, but their depth should come from teaching scientific concepts and experimental findings rather than exhaustively describing every figure, graph, or image.
+
+SELECTIVE USE OF NUMBERS, MEASUREMENTS, AND QUANTITATIVE DETAILS (CRITICAL)
+
+Do not automatically include every number, measurement, frequency, percentage, coordinate, duration, stimulus number, or numerical value that appears in the source material.
+
+The purpose of the teaching notes is to understand the scientific concepts, mechanisms, experiments, and findings. Numerical information should support that understanding rather than make the explanations unnecessarily complicated or difficult to remember.
+
+Only include exact numerical values when they are genuinely important for understanding the concept, interpreting the experiment, explaining the findings, or preserving a scientifically meaningful distinction.
+
+Prioritize scientific relationships over exact measurements. When the main finding concerns an increase, decrease, difference, similarity, or relationship between variables, explain that relationship clearly rather than listing every numerical value.
+
+Do not list numbers simply because they appear in the source. A figure may contain dozens of frequencies, percentages, time points, or measurements. Include only the values that contribute meaningfully to understanding the material.
+
+Preserve important experimental numbers. Keep numerical values when they define an experimental condition, establish a meaningful comparison, support an important conclusion, or are necessary to understand the study.
+
+Preserve essential statistical findings. If a statistical result is central to the interpretation of an experiment, include the relevant value. Do not automatically include every statistical detail when the important conclusion can be explained accurately without it.
+
+Avoid unnecessary precision. Do not include decimal places or highly specific measurements when the exact precision contributes nothing to the scientific explanation.
+
+Use qualitative descriptions when appropriate. Terms such as higher, lower, faster, slower, more accurate, less accurate, or approximately equal may communicate the important relationship more clearly than a long sequence of numbers.
+
+Do not overload sentences with numerical information. When several important numbers must be included, distribute them across natural sentences so they remain easy to understand and read aloud.
+
+Avoid repeating numerical information. If a value has already been explained and does not need to be repeated, refer to the established relationship instead.
+
+Keep numbers that are necessary for exam preparation. Preserve values that the source clearly emphasizes, that distinguish experimental conditions, or that students may reasonably need to know to interpret the findings.
+
+Do not replace meaningful quantitative differences with vague descriptions. If the size of a difference matters scientifically, explain it using the relevant numbers rather than simply saying that one condition was different from another.
+
+Maintain numerical accuracy. Whenever a number is included, preserve its meaning and accuracy. Do not invent, alter, or round values in ways that change the scientific interpretation.
+
+IMPORTANT DISTINCTION BETWEEN NECESSARY AND UNNECESSARY NUMBERS
+
+Avoid excessive numerical descriptions such as:
+
+"The first formant was approximately 400 Hz, the second formant was approximately 2300 Hz, and the third formant was approximately 2750 Hz. In another vowel, the first formant increased to approximately 800 Hz while the second formant decreased to approximately 1650 Hz."
+
+When the exact measurements are not necessary, prefer:
+
+"Vowels differ in their formant frequencies because the tongue and vocal tract change shape during speech. The first formant generally increases as the tongue lowers, while the second formant decreases as the tongue moves farther back."
+
+The preferred version explains the scientifically important relationships without requiring students to memorize or pronounce several unnecessary measurements.
+
+However, if an experiment specifically investigates a numerical threshold, a measured difference, a statistical result, or a particular quantitative relationship, preserve the relevant numbers.
+
+FINAL NUMERICAL DETAIL REQUIREMENT
+
+Before including a numerical value, silently determine whether knowing that exact number is necessary to understand the concept, experimental design, scientific relationship, or research finding.
+
+If the exact number is important, include it and explain what it means.
+
+If the number is merely descriptive, incidental, or unnecessary for understanding the material, omit it.
+
+If a general comparison communicates the same scientific information accurately, use that comparison instead.
+
+The notes must remain scientifically rigorous and detailed, but they should not become lists of measurements or numerical descriptions that distract from learning the actual material.
+
+EXPLAIN DEPTH WITHOUT ADDING OUTSIDE INFORMATION
+
+Teach each point in the source by explaining what it says in more depth, but only where the source gives something worth unpacking. If a term, number, label, example, or step needs explaining to be understood, explain it where it appears. If the meaning is already clear, do not force an explanation, and do not follow a fixed order or template for every point. Going into depth means explaining the source's own content more fully. It does not mean bringing in outside facts, studies, examples, or interpretations that the source does not contain.
+
+NO REFERENCE-SHEET STYLE
+
+Do not compress source points into one-line restatements, stacked fragments, or lists of short facts. Write each point as connected, complete sentences that a professor could say aloud, and state the reasoning between ideas when the source provides it. If a bullet could be copied onto a cheat sheet unchanged, expand it with the source's own details, but only as far as the source supports.
+
+LONG AND DETAILED NOTES IN THE ORDER OF THE SLIDES! do not summarize or generalize instead teach NO METACOMMENTRY DO IT HERE NOT A DOWLOAD i will write continue! and there needs to be 2 outputs! IN TEACHING TRANSCRIPT STYLE! NOT A REFERENCE SHEET STYLE MUST BE IN THE ORDER OF THE SLIDES DO NOT DO DEEP DIVE SECTION OR SUMMARY SECTIONS IF NOT NEEDED BUT STOP ONCE YOU REACH THE END OF THE LAST SLIDE AND HAVE TAUGHT ALL THE MATERIAL
+
+Make sure to analyze all instructional images, figures, graphs, and diagrams to identify their relevant scientific content, but only explain what is necessary to understand the concepts, mechanisms, experiments, and findings. Do not describe every visual or include unnecessary measurements, labels, or details. If a figure is redundant or adds nothing essential to the explanation, omit it. Maintain complete coverage of the scientific material without excessive figure narration or metacommentary!
+
+FINAL PRIORITY: The teaching notes must preserve the full scientific and conceptual depth of the source while remaining natural, clear, and comfortable to speak aloud. Avoid unnecessary numerical details, complicated sentence structures, tongue-twister-like wording, and phrasing that increases the likelihood of speech errors. Keep essential scientific terminology and important quantitative findings accurate. The goal is to produce detailed teaching notes that I can read aloud confidently, smoothly, and naturally without repeatedly stumbling over the language
+
+Course: LING/PSYC 406 Psycholinguistics\
+&#x20;Title of Lecture: Speech Perception II: Words\
+&#x20;Date: 10/1/2026\
+&#x20;Professor: Jason Zevin

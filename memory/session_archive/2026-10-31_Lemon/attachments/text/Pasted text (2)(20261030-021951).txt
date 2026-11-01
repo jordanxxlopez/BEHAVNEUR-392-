@@ -1,0 +1,570 @@
+LING406 2026 - Lecture 16 Critical Periods
+for L1 1
+.pdf
+PDF
+
+You are my teaching-note writer. Turn the lecture content I paste into long, detailed teaching notes written in a teaching-script style but formatted as structured notes.
+
+Since these slides have many slides everything must be in the order of the lecture and covered in detail!! IT WILL BE LONG, AND DETAILED BUT CANNOT BE SHORT
+
+THIS WILL REQUIRE 2 OUTPUTS
+SO OUTPUT 1 OF NOTES
+CONTINUE
+AND LAST OUTPUT 2 OF NOTES
+
+Start with exactly these 4 lines (match spelling, punctuation, and spacing exactly as provided):
+
+Course: <TITLE EXACTLY AS PROVIDED>
+Title of Lecture: <TITLE EXACTLY AS PROVIDED>
+Date: <DATE EXACTLY AS PROVIDED>
+Professor: <PROFESSOR EXACTLY AS PROVIDED>
+
+NON-NEGOTIABLE RULES
+
+Keep the exact same order as the source content. Do not rearrange topics.
+
+Do not say: “slide,” “slides,” “the lecture,” “in this lecture,” “the professor said,” “he said,” “she said,” “this slide shows,” or any slideshow narration.
+
+Skip ONLY true opening logistics such as: professor introductions, course announcements, reminders about assignments, and generic welcome statements. Cover EVERY concept, model, term, diagram description, study, pathway, and research finding that appears in the text — even if it seems tangential to the main topic. If the professor included it in the slides, it goes in the notes. Do not use your own judgment to decide something is unimportant and omit it. When in doubt, include it.
+
+However, the notes must be written so they flow naturally when spoken aloud, as if explaining the material to a class. The explanations should read like a smooth teaching script rather than fragmented bullet points.
+
+Do not include any meta commentary such as:
+
+“this slide shows”
+“in this lecture”
+“the professor said”
+“the slide explains”
+
+or any references to slides, lectures, or the act of presenting.
+
+Instead, write the notes as direct explanations of the material so they can be read out loud naturally while teaching.
+
+The result should be detailed, structured teaching notes that include everything from the source content but read like a clear, natural explanation of the material.
+
+Do not add brand-new topics. You may add clarifying explanations only for terms that already appear in the source content.
+
+Keep all scientist names, experiment names, dates, and values accurate to the source content.
+
+Never use arrow chains (→) or sequential symbol notation to depict multi-step processes. Instead, write each step as its own full sentence explaining what happens, what causes it, and what it produces or leads to. Every step in any sequence must be readable and understandable as spoken language without visual shorthand.
+
+NO METACOMMENTARY.
+
+Do not narrate what you are doing.
+
+Do not reference slides, structure, or how the notes are organized.
+
+Do not explain your reasoning process.
+
+STYLE I WANT (IMPORTANT)
+
+Write like real teaching notes that could be read aloud to classmates as a conceptual walkthrough.
+
+Bullets must read like a teaching script, meaning each main bullet should usually contain 2–5 full explanatory sentences.
+
+Sub-bullets should expand mechanisms, experiments, or logic using 1–3 full sentences each.
+
+Do NOT write shallow “term = definition” bullets. When a term appears, explain what it is, how it works, and why it matters.
+
+Each section must feel cohesive, with ideas building logically step-by-step.
+
+Mechanism rule: if the content describes a process, explain it as a clear cause → effect chain using nested sub-bullets.
+
+Experiment rule: if the content includes an experiment or test, explain the setup, observation, interpretation, and conclusion using nested sub-bullets.
+
+Define technical terms the first time they appear using clear language, then connect them back to circuit or behavioral function.
+
+Level: Advanced high school understanding. Use clear, direct language with minimal jargon.
+
+Use “we” naturally when explaining ideas, but do not overuse it.
+
+No fluff, no poetic language, no repetitive transitions, no “takeaway framing,” and no rhetorical prompts.
+
+Bold all headers and all truly important terms, mechanisms, named studies, equations, key relationships, and core concepts. Bold anything that is genuinely high-yield or conceptually central.
+
+NATURAL READABILITY AND EASY-TO-READ-ALOUD LANGUAGE (CRITICAL)
+
+The teaching notes must be academically rigorous and detailed while remaining natural, clear, and easy to read aloud. Write like a knowledgeable professor explaining complex material clearly to students, rather than a dense textbook or research paper. The writing should sound like natural spoken language without sacrificing scientific accuracy, conceptual depth, or important details.
+
+Use shorter, well-structured sentences that flow naturally when spoken aloud. Avoid unnecessarily long sentences that combine too many technical concepts, comparisons, or qualifications. When a sentence becomes difficult to follow, divide it into two or more complete, connected sentences.
+
+Avoid tongue-twister-like phrasing and overly complicated academic language. Do not use dense sentence structures, awkward word combinations, excessive jargon, or strings of abstract technical terms when simpler wording communicates the same scientific meaning.
+
+Preserve essential scientific terminology while simplifying the surrounding language. Keep the technical terms, named concepts, mechanisms, and experimental details that students need to learn. However, explain them using clear, accessible wording rather than surrounding them with unnecessarily complicated academic expressions.
+
+Avoid repetitive technical wording when natural alternatives improve readability. Do not repeatedly use the same scientific term within a sentence or across consecutive sentences when a simpler expression would be equally accurate. However, retain technical terminology whenever replacing it would change the scientific meaning.
+
+Use natural sentence structures and straightforward explanations. Prefer direct statements that clearly identify what happens, what causes it, and how different concepts relate. Avoid forcing multiple findings or relationships into one complicated sentence.
+
+Maintain smooth connections between sentences. Each sentence should naturally build on the previous one through the actual scientific relationship being explained. Do not use artificial transitions, presentation narration, rhetorical questions, or unnecessary introductory phrases to create flow.
+
+Balance sentence length naturally. Do not make every sentence extremely short, since this can make the writing sound choppy or robotic. Use a natural mixture of short and moderately long sentences while keeping each explanation easy to follow.
+
+Prioritize clarity without reducing detail. If an explanation is difficult to read, improve the sentence structure rather than removing information. Break complicated ideas into multiple connected sentences while preserving all relevant mechanisms, experimental conditions, findings, numerical results, and interpretations.
+
+Make each bullet understandable on the first reading. Students should be able to read the explanation aloud smoothly and understand the concept without having to mentally reorganize or translate the wording into simpler language.
+
+Keep the teaching-transcript style. The notes must still read like detailed explanations that a professor could naturally deliver to students. Do not turn them into simplified reference sheets, fragmented definitions, abbreviated summaries, or disconnected facts.
+
+ANTI-SPEECH-ERROR AND TONGUE-SLIP PREVENTION (CRITICAL)
+
+The teaching notes must be written to minimize unnecessary speech errors, tongue slips, stumbling, hesitation, and accidental word substitutions when read aloud. I should be able to teach directly from the notes without repeatedly stopping, correcting myself, or mentally rearranging the wording.
+
+This requirement is especially important because the notes are intended to be spoken aloud, not merely read silently.
+
+Avoid tongue-twister-like combinations of words. Do not place several words with similar sounds, repeated consonants, or difficult sound sequences next to each other when a more natural sentence would communicate the same information.
+
+Avoid unnecessary phonological repetition. When several consecutive words contain similar sounds or syllable patterns, consider whether the sentence can be rewritten to make it easier to pronounce.
+
+Reduce opportunities for tongue slips. Avoid awkward combinations of technical terms, repeated words, and complicated sentence structures that make it easy to accidentally exchange, omit, repeat, or substitute words while speaking.
+
+Avoid excessive alliteration and repeated consonant clusters. Do not create sentences that require rapid transitions between several similar or difficult sound combinations unless those words are scientifically necessary.
+
+Avoid unnecessarily long sequences of technical terminology. If several important scientific terms must appear together, distribute them across connected sentences so each term can be pronounced clearly.
+
+Use familiar grammatical structures. Prefer sentences with straightforward word order and clear relationships between subjects, verbs, and objects. Avoid complicated constructions that make the speaker lose track of what they are saying.
+
+Avoid sentences that require mentally correcting the wording while speaking. Every sentence should sound natural enough that I can read it aloud correctly on the first attempt.
+
+Reduce repeated sentence openings and awkward word combinations. Avoid patterns that make it easy to accidentally repeat a phrase or confuse one part of the sentence with another.
+
+Use natural speaking rhythm. Sentences should contain comfortable places to pause without interrupting the meaning. Do not pack too many names, numbers, technical terms, or qualifications into one continuous sentence.
+
+Keep related information together without overcrowding sentences. When a sentence contains several important findings, separate them into shorter, connected sentences rather than forcing everything into one complicated statement.
+
+Do not sacrifice scientific accuracy to avoid difficult pronunciation. Essential terminology, researcher names, experimental conditions, phonetic symbols, and technical distinctions must remain accurate.
+
+Preserve terminology related to psycholinguistics and speech production. If the material specifically concerns speech errors, tongue slips, phonological similarity, articulation, or other speech-related phenomena, retain the necessary terminology and examples. The anti-speech-error requirement applies to unnecessary difficulty in the surrounding writing, not to scientific content that must be learned.
+
+Avoid making the writing artificially simple or robotic. The goal is natural spoken fluency, not a series of disconnected short sentences. Maintain complete explanations and smooth connections between ideas.
+
+IMPORTANT DISTINCTION BETWEEN NECESSARY TERMINOLOGY AND UNNECESSARY SPEECH DIFFICULTY
+
+Avoid unnecessarily complicated wording:
+
+"Phonological similarity significantly increases susceptibility to speech production errors during sequential articulation."
+
+Prefer natural wording:
+
+"Speech errors are more likely when words contain similar sounds. These similarities can make it easier to mix up sounds while speaking."
+
+The preferred version communicates the relationship through natural sentences that are easier to pronounce and less likely to cause stumbling.
+
+However, if the source specifically discusses phonological similarity, speech production, or articulation, preserve those terms when they are necessary to explain the concept accurately.
+
+FINAL ANTI-SPEECH-ERROR REQUIREMENT
+
+Before finalizing each bullet, silently evaluate whether the sentence could cause an unnecessary tongue slip or speech error when spoken aloud.
+
+Pay particular attention to repeated sounds, awkward consonant combinations, difficult word sequences, excessive technical terminology, complicated grammar, and sentences that require several corrections or pauses to pronounce naturally.
+
+If a sentence is unnecessarily difficult to say, rewrite it using simpler word order, more natural phrasing, and shorter connected sentences.
+
+The goal is for every bullet to sound like something a knowledgeable professor could say naturally and confidently without stumbling over the wording. Preserve the scientific material while making the surrounding language as comfortable to speak as possible.
+
+EXAMPLE OF THE DESIRED WRITING STYLE
+
+Avoid overly complicated wording:
+
+"Discrimination sensitivity exhibits increased performance in proximity to categorical identification boundaries relative to within-category acoustic intervals."
+
+Prefer natural, scientifically accurate wording:
+
+"Discrimination is strongest near phoneme boundaries. Listeners are better at telling sounds apart when they fall into different categories than when they belong to the same category."
+
+The preferred version communicates the same scientific relationship using clearer sentences that are easier to understand and read aloud.
+
+FINAL READABILITY REQUIREMENT
+
+Before finalizing each bullet, silently check whether the explanation sounds natural when spoken aloud. If a sentence contains too many technical terms, complicated clauses, repetitive expressions, or awkward phrasing, rewrite it using clearer language and more natural sentence structures.
+
+Do not shorten the notes, remove important information, or reduce conceptual depth to improve readability. Instead, distribute complex explanations across multiple connected sentences.
+
+The goal is to preserve the full depth and detail of the original teaching notes while making every sentence clear, natural, scientifically accurate, and comfortable to read aloud.
+
+FORMAT (CRITICAL)
+
+Use simple topic headings for each topic shift, exactly like: Section 1: <short topic name>
+
+Under each heading, everything must be in bullet format (no paragraph blocks).
+
+Use sub-bullets whenever needed to prevent wall-of-text while preserving deep explanation.
+
+Use numbered lists only when the source itself presents a true stepwise sequence.
+
+Do not produce one-line bullets for major concepts; expand until the concept is genuinely taught.
+
+REQUIRED CONTENT PER TOPIC (NATURAL, NOT RIGID LABELS)
+
+For each topic, naturally include:
+
+what it is
+
+how it works
+
+key evidence or experiment when present
+
+important numbers or relationships
+
+why it matters for neural computation or behavior
+
+Do not artificially label these components; integrate them naturally into the explanation.
+
+LATEX + SCIENCE FORMATTING
+
+Use inline LaTeX for subscripts, superscripts, ions, charges, variables, and symbols.
+
+For any true equation or quantitative relationship, place it centered on its own line:
+
+.........
+
+Do not invent equations or values not present in the source content.
+
+Do not present the same expression in conflicting formats.
+
+Render the LaTeX. Don’t show the $$.
+
+Display equations in rendered math mode.
+
+Use display math formatting.
+
+Do not show raw LaTeX code.
+
+Center the equations properly.
+
+Use LaTeX display blocks, not literal $$ text.
+
+LENGTH + CONTINUE RULE
+
+Make the notes long and detailed, with enough explanation that they can be studied independently.
+
+If you reach a length limit OR there is more source content left to cover, stop only at a natural section boundary and output ONLY:
+
+[CONTINUE]
+
+OUTPUT RULE
+
+Output only the teaching notes (header + section headings + bullets and sub-bullets). No extra commentary.
+
+NO NON-INSTRUCTIONAL FRAMING: Every sentence must directly teach information contained in the source or provide a necessary clarification of a source concept. Remove roadmap language, transition commentary, figure-reading narration, takeaway framing, evaluative filler, and explanations of why a topic is being introduced. Do not write sentences such as “before getting to,” “the next step is,” “this helps us understand,” “reading the figure shows,” “the key point is,” “this sets up,” “from here,” “this becomes important later,” or similar phrases. Instead, state the actual concept, finding, relationship, mechanism, or evidence directly.
+
+NO STRUCTURAL OR PRESENTATION COMMENTARY: Do not include structural metacommentary, forward-looking commentary, presentation narration, figure narration, roadmap statements, transition framing, takeaway framing, or sentences whose main purpose is to guide the reader through the presentation. Do not announce what will be discussed next, explain why a topic is being introduced, tell the reader how to read a figure, or add sentences merely to connect one topic to another. A summary sentence is allowed only when it teaches or clarifies an important concept from the source. If removing a sentence would not remove any actual concept, mechanism, finding, definition, experimental detail, relationship, or evidence, remove it. For example, do not write “These factors give us a set of well-established effects that any model of word recognition must be able to explain,” because it does not teach any additional information. Move directly to the scientific or conceptual content.
+
+NATURAL TEACHING TRANSCRIPT STYLE
+
+Keep the notes written like a natural teaching transcript that I could read aloud while pretending to teach a class. The wording should flow naturally from sentence to sentence and sound like a real professor clearly explaining the material to students, while still using bullet and sub-bullet structure. Do not turn the notes into a reference sheet, fragments, choppy definitions, or robotic fact lists.
+
+Use complete, natural sentences and explain concepts in a way that sounds normal when spoken aloud. NO AI-sounding filler, forced transitions, fake enthusiasm, poetic language, motivational language, or unnecessary phrases about “understanding,” “appreciating,” or “seeing why something matters.” Do not narrate the teaching process with phrases such as “now let’s look at,” “next we have,” “as you can see,” “remember that,” or “this is important to understand.” Move naturally between ideas by explaining the actual scientific relationship between them.
+
+The notes should sound like I am directly teaching the material to students, not like I am reading a slideshow, summarizing a textbook, or giving a presentation about the material. Keep the language clear, human, conversational enough to read aloud, and scientifically accurate without becoming overly casual.
+
+NO ILLUSTRATIVE FRAMING
+
+Do not describe an example, image, or graph as "illustrating," "demonstrating," or "showing" a concept. Do not write sentences structured as "This illustrates that...," "This demonstrates...," or "This shows that..." — these describe the example instead of teaching its content. State the concept, relationship, or fact directly, using the specific numbers, labels, or forms from the example as the evidence, without narrating that the example is functioning as an illustration. Do not open a sentence with "A [graph/image/example] is shown/given that..." — start with the content itself instead of announcing that an illustration exists. Do not close a section with a sentence that restates what the preceding material "demonstrates" or "shows" in general terms; if a closing sentence adds no new fact, cut it.
+
+NO ATTENTION-DIRECTING LANGUAGE
+
+Do not use phrases that narrate a shift in focus or attention, such as "attention now turns to," "we now turn to," "our focus shifts to," "we now consider," "let's turn to," "moving on to," or similar. When a new topic begins, start directly with the actual content, definition, or fact — the bolded section heading already signals the topic change.
+
+NO NARRATION OF THE WRITING PROCESS ITSELF
+
+Never write a sentence whose subject is the notes, the explanation, the topic, or the reader's attention/focus rather than the actual scientific or linguistic content. Any sentence structured as "X turns to Y," "X shifts to Y," "X is illustrated by Y," "X is demonstrated by Y," or "we now consider Y" should be rewritten so that the real content is the subject, stated as a direct fact.
+
+Decorative images: If an image is only illustrative or decorative and adds no instructional information beyond what the text already states, do not mention or describe it at all. This applies to any image whose only role is to accompany a topic, regardless of its subject, style, or content, and Claude should not write sentences that describe how such an image looks. Teach only the concept the text states. Mention an image only when it carries instructional content that is not in the text, such as stimuli, task materials, graphs, data displays, diagrams, models, brain images, or labeled structures. In that case, teach the content directly without describing the image as an image.
+
+SELECTIVE FIGURE, GRAPH, AND DIAGRAM EXPLANATIONS (CRITICAL)
+
+Analyze figures, graphs, diagrams, images, and other visual material to identify the scientific information they contain, but do not automatically explain every visual in extensive detail. The purpose of the teaching notes is to teach the underlying concepts, mechanisms, experimental findings, and important relationships, not to provide a complete visual description of every figure.
+
+Only explain a figure in detail when its specific information is necessary to understand the concept, experiment, mechanism, or research finding being taught. If a figure simply reinforces something that has already been explained clearly, do not repeat the same information or create an additional explanation just because the figure is present.
+
+Prioritize scientific meaning over visual description. Focus on what the figure teaches about the concept rather than describing every visible feature, label, curve, color, or measurement.
+
+Use figures selectively. If a figure contains important experimental results, meaningful comparisons, mechanisms, or relationships that are not explained elsewhere, incorporate those findings into the notes. If it merely provides another visual example of an already established concept, additional explanation is unnecessary.
+
+Do not explain every individual data point or visual element. For graphs containing multiple curves, conditions, categories, or measurements, explain the overall pattern and the comparisons that matter. Include individual values only when they are necessary for understanding the finding or when the source specifically emphasizes them.
+
+Avoid excessive numerical descriptions. Do not list every frequency, coordinate, percentage, time point, or measurement simply because it appears in a figure. Preserve values that are scientifically meaningful, necessary for interpreting the results, or central to the concept being taught.
+
+Do not turn figures into lengthy visual walkthroughs. Avoid describing the location, appearance, arrangement, or progression of every element unless those details are essential to understanding the scientific content.
+
+Integrate important visual information into the relevant teaching bullets. Do not automatically create separate paragraphs or sections for every figure. Explain the findings naturally within the discussion of the corresponding concept.
+
+Avoid repeating information. If the text already explains a scientific relationship and the figure presents the same relationship, explain it once using whichever information makes the concept clearest.
+
+Adjust the level of detail to the figure's instructional importance. A complex experimental graph containing the main findings of a study may require several explanatory sentences. A simple diagram reinforcing a definition may require only one sentence or no additional explanation.
+
+Do not force explanations of decorative or redundant visuals. If an image contributes no new scientific information and is unnecessary for understanding the material, omit it entirely.
+
+Preserve essential evidence. Do not omit important experimental findings, meaningful trends, critical comparisons, or numerical results simply to avoid discussing figures. The goal is selective explanation, not the removal of scientific evidence.
+
+IMPORTANT DISTINCTION BETWEEN TEACHING AND DESCRIBING
+
+Avoid unnecessarily detailed visual descriptions such as:
+
+"The first curve has a peak near 400 Hz, while the second peak appears around 2300 Hz. The next curve has a slightly higher first peak, and the third curve moves downward across the frequency scale."
+
+Instead, explain the scientific relationship directly:
+
+"Vowel sounds differ in their formant frequencies, which depend on the shape of the vocal tract. The first formant is closely related to tongue height, while the second formant is related to how far forward or backward the tongue is positioned."
+
+The preferred explanation teaches the underlying relationship without requiring an unnecessary description of every individual curve.
+
+FINAL FIGURE EXPLANATION RULE
+
+Before including information from a figure, determine whether that information contributes something necessary to understanding the scientific concept, mechanism, experiment, or finding.
+
+If the figure contains essential information, explain that information clearly and in sufficient detail.
+
+If the figure is redundant, decorative, or provides unnecessary visual detail, do not explain it.
+
+If only part of a figure is important, explain only that part.
+
+The notes must remain long, detailed, and comprehensive, but their depth should come from teaching scientific concepts and experimental findings rather than exhaustively describing every figure, graph, or image.
+
+SELECTIVE USE OF NUMBERS, MEASUREMENTS, AND QUANTITATIVE DETAILS (CRITICAL)
+
+Do not automatically include every number, measurement, frequency, percentage, coordinate, duration, stimulus number, or numerical value that appears in the source material.
+
+The purpose of the teaching notes is to understand the scientific concepts, mechanisms, experiments, and findings. Numerical information should support that understanding rather than make the explanations unnecessarily complicated or difficult to remember.
+
+Only include exact numerical values when they are genuinely important for understanding the concept, interpreting the experiment, explaining the findings, or preserving a scientifically meaningful distinction.
+
+Prioritize scientific relationships over exact measurements. When the main finding concerns an increase, decrease, difference, similarity, or relationship between variables, explain that relationship clearly rather than listing every numerical value.
+
+Do not list numbers simply because they appear in the source. A figure may contain dozens of frequencies, percentages, time points, or measurements. Include only the values that contribute meaningfully to understanding the material.
+
+Preserve important experimental numbers. Keep numerical values when they define an experimental condition, establish a meaningful comparison, support an important conclusion, or are necessary to understand the study.
+
+Preserve essential statistical findings. If a statistical result is central to the interpretation of an experiment, include the relevant value. Do not automatically include every statistical detail when the important conclusion can be explained accurately without it.
+
+Avoid unnecessary precision. Do not include decimal places or highly specific measurements when the exact precision contributes nothing to the scientific explanation.
+
+Use qualitative descriptions when appropriate. Terms such as higher, lower, faster, slower, more accurate, less accurate, or approximately equal may communicate the important relationship more clearly than a long sequence of numbers.
+
+Do not overload sentences with numerical information. When several important numbers must be included, distribute them across natural sentences so they remain easy to understand and read aloud.
+
+Avoid repeating numerical information. If a value has already been explained and does not need to be repeated, refer to the established relationship instead.
+
+Keep numbers that are necessary for exam preparation. Preserve values that the source clearly emphasizes, that distinguish experimental conditions, or that students may reasonably need to know to interpret the findings.
+
+Do not replace meaningful quantitative differences with vague descriptions. If the size of a difference matters scientifically, explain it using the relevant numbers rather than simply saying that one condition was different from another.
+
+Maintain numerical accuracy. Whenever a number is included, preserve its meaning and accuracy. Do not invent, alter, or round values in ways that change the scientific interpretation.
+
+IMPORTANT DISTINCTION BETWEEN NECESSARY AND UNNECESSARY NUMBERS
+
+Avoid excessive numerical descriptions such as:
+
+"The first formant was approximately 400 Hz, the second formant was approximately 2300 Hz, and the third formant was approximately 2750 Hz. In another vowel, the first formant increased to approximately 800 Hz while the second formant decreased to approximately 1650 Hz."
+
+When the exact measurements are not necessary, prefer:
+
+"Vowels differ in their formant frequencies because the tongue and vocal tract change shape during speech. The first formant generally increases as the tongue lowers, while the second formant decreases as the tongue moves farther back."
+
+The preferred version explains the scientifically important relationships without requiring students to memorize or pronounce several unnecessary measurements.
+
+However, if an experiment specifically investigates a numerical threshold, a measured difference, a statistical result, or a particular quantitative relationship, preserve the relevant numbers.
+
+FINAL NUMERICAL DETAIL REQUIREMENT
+
+Before including a numerical value, silently determine whether knowing that exact number is necessary to understand the concept, experimental design, scientific relationship, or research finding.
+
+If the exact number is important, include it and explain what it means.
+
+If the number is merely descriptive, incidental, or unnecessary for understanding the material, omit it.
+
+If a general comparison communicates the same scientific information accurately, use that comparison instead.
+
+The notes must remain scientifically rigorous and detailed, but they should not become lists of measurements or numerical descriptions that distract from learning the actual material.
+
+EXPLAIN DEPTH WITHOUT ADDING OUTSIDE INFORMATION
+
+Teach each point in the source by explaining what it says in more depth, but only where the source gives something worth unpacking. If a term, number, label, example, or step needs explaining to be understood, explain it where it appears. If the meaning is already clear, do not force an explanation, and do not follow a fixed order or template for every point. Going into depth means explaining the source's own content more fully. It does not mean bringing in outside facts, studies, examples, or interpretations that the source does not contain.
+
+NO REFERENCE-SHEET STYLE
+
+Do not compress source points into one-line restatements, stacked fragments, or lists of short facts. Write each point as connected, complete sentences that a professor could say aloud, and state the reasoning between ideas when the source provides it. If a bullet could be copied onto a cheat sheet unchanged, expand it with the source's own details, but only as far as the source supports.
+
+LONG AND DETAILED NOTES IN THE ORDER OF THE SLIDES! do not summarize or generalize instead teach NO METACOMMENTRY DO IT HERE NOT A DOWLOAD i will write continue! and there needs to be 2 outputs! IN TEACHING TRANSCRIPT STYLE! NOT A REFERENCE SHEET STYLE MUST BE IN THE ORDER OF THE SLIDES DO NOT DO DEEP DIVE SECTION OR SUMMARY SECTIONS IF NOT NEEDED BUT STOP ONCE YOU REACH THE END OF THE LAST SLIDE AND HAVE TAUGHT ALL THE MATERIAL
+
+Make sure to analyze all instructional images, figures, graphs, and diagrams to identify their relevant scientific content, but only explain what is necessary to understand the concepts, mechanisms, experiments, and findings. Do not describe every visual or include unnecessary measurements, labels, or details. If a figure is redundant or adds nothing essential to the explanation, omit it. Maintain complete coverage of the scientific material without excessive figure narration or metacommentary!
+
+FINAL PRIORITY: The teaching notes must preserve the full scientific and conceptual depth of the source while remaining natural, clear, and comfortable to speak aloud. Avoid unnecessary numerical details, complicated sentence structures, tongue-twister-like wording, and phrasing that increases the likelihood of speech errors. Keep essential scientific terminology and important quantitative findings accurate. The goal is to produce detailed teaching notes that I can read aloud confidently, smoothly, and naturally without repeatedly stumbling over the language
+
+Course: LING/PSYC 406 Psycholinguistics
+Title of Lecture: Critical Periods for a First Language (L1)
+Date: 10/22/2026
+Professor: Jason Zevin
+
+Reading the figures in your deck now, then I’ll write Output 1 of the notes.
+
+Course: LING/PSYC 406 Psycholinguistics
+Title of Lecture: Critical Periods for a First Language (L1)
+Date: 10/22/2026
+Professor: Jason Zevin
+
+Section 1: Critical Periods Versus Sensitive Periods
+
+A critical period is a stretch of development with a programmed start and a programmed end. Change in response to the environment, which is what we mean by learning, is strictly limited to this window. Before the window opens and after it closes, the system has no sensitivity to the environment at all.
+The onset and the offset are discrete, meaning they behave like a switch being turned on and then turned off.
+If the right input is missing during the window, the missing learning cannot be made up later.
+A sensitive period, also called an optimal period, is a looser idea. Learning remains possible across the whole life span, but it works best during particular windows of time.
+These windows can open and close gradually instead of abruptly.
+The edges of a sensitive period can themselves be changed by experience, so the timing is not fully fixed by a built-in schedule.
+The classic example of a critical period comes from vision. Even in that case, the term sensitive period turns out to fit better. Evidence for critical periods in language learning is then considered with this distinction in mind.
+
+Section 2: Amblyopia as a Case of Early Deprivation
+
+Amblyopia is poor vision in one eye even though the peripheral parts of the visual system work normally. The eye itself, including the structures that take in light, is functioning. The problem lies in how the brain has learned to use the input from that eye.
+Three conditions can lead to amblyopia: strabismus, cataract, and anisometropia.
+In strabismus, the two eyes are misaligned, so they do not point at the same thing.
+In a cataract, the lens of the eye becomes cloudy, which blocks and blurs the light entering the eye.
+In anisometropia, the two eyes have different focusing power, so one eye produces a sharper image than the other.
+Each of these conditions deprives the brain of normal visual input from one eye for a period of time. The important observation is that vision can stay poor long after the condition itself has been fixed. Repairing the eye does not repair the vision, because the damage was done to how the brain organized itself while the input was abnormal.
+
+Section 3: Competition Between Inputs in the Visual Cortex
+
+Amblyopia occurs because of competitive dynamics between cortical inputs. The two eyes send signals to the visual cortex, and those signals compete for cortical territory. Each eye normally holds onto its own share of the cortical representation.
+When vision in one eye is abnormal, the other eye can take over the cortical space that belonged to the weaker eye. This takeover is called colonization of the cortical representation by the other eye. The stronger eye wins territory simply because it is sending better signals during the period when the cortex is sorting out which input gets which space.
+Once normal function returns to the weaker eye, it is still at a competitive disadvantage. Much of its cortical territory is already occupied. Normal experience, such as simply using that eye, is no longer enough to restore normal cortical responses.
+A set of images of monocular deprivation in mice illustrates how quickly the cortex starts to change when one eye is deprived of normal input.
+After two to three days, the small spines on neurons, which are sites where connections form, show increased motility, meaning they move around more than normal.
+After three to four days, spines are lost and some axons begin to degenerate, a process called Wallerian degeneration.
+After more than one week, axons sprout new branches and new spines are born from scratch, which is called de novo spine birth. The wiring of the cortex has been rebuilt around the unbalanced input.
+
+Section 4: Treatment Based on Competition
+
+Because amblyopia is a problem of competition, one of the most effective treatments works on competition. The treatment involves intermittently patching the “good” eye. Covering the stronger eye forces the brain to rely on the weaker eye for part of each day.
+Patching restores the competitive balance between the two eyes. Once the balance is restored, the brain’s own plasticity can reorganize the cortex and bring back normal function in the weaker eye. The treatment does not repair the eye. It changes the conditions under which the cortex decides how to divide its territory.
+This treatment works best early in development. By late childhood, around ten years of age, it may no longer be effective. This age pattern is what marks amblyopia as a case with a limited developmental window.
+
+Section 5: Adult Plasticity After the Critical Period
+
+Experiments with adults have started to show that plasticity is not abolished entirely, even well into adulthood. Some of the patients in these studies are in their fifties. The idea of a window that slams shut does not match this result.
+The study by Levi and Polat (1996, PNAS) used long-term, intensive training on specific psychophysical tasks with the affected eye. Psychophysical tasks are carefully controlled perceptual tests, such as judging small differences in what is seen.
+Performance improved gradually across thousands of practice trials. The data are plotted in units of kilotrials of training, where one kilotrial is one thousand trials.
+The gains were not limited to the trained task. General visual function improved as well.
+A further study by Li, Ngo, Nguyen, Lam, and Levi (2008, ARVO) found that playing video games enhanced visual acuity and visual attention in adults with amblyopia. Visual acuity is the sharpness of vision. A common action video game, played with the affected eye, was the kind of experience that produced the gains.
+
+Section 6: Interim Summary on Amblyopia
+
+Amblyopia is a classic example of a sensitive period. Three features of it carry the lesson for language.
+A disturbance in the periphery during early experience can lead to life-long disruption of visual function.
+The long-term loss of function is the sequela, meaning the lasting consequence, of a temporary deficit that happened during experience-dependent organization of the brain. The deficit in the input was brief, but the way the brain organized itself around it was lasting.
+Treatment is most effective during a limited developmental window, although it is not necessarily useless outside that window.
+New evidence also indicates that the right kind of experience can reverse deficits late into adulthood. Early deprivation therefore produces a strong disadvantage, but the door is not completely closed.
+
+Section 7: Relating Critical Periods to Language
+
+Two lines of work connect these ideas to language.
+The first is Lenneberg’s early attempts to bring together developmental neurology and the notion of a language acquisition device. This is the idea that humans have a built-in mechanism for acquiring language.
+The second is the study of early deprivation. The data come from neglected children and from Deaf children who received limited exposure to sign language.
+
+Section 8: Lenneberg’s Biological Foundations of Language (1967)
+
+In Biological Foundations of Language (1967), Lenneberg tried to combine what linguistics had established at the time with what was known about brain development. Both fields were producing patterns that looked like they might fit together.
+Studies of language development were beginning to reveal a fairly robust, stage-like pattern. Children across different samples reached the same language milestones in the same order and at similar ages.
+The curves for children in Austrian, British, and American samples describe the percentage of children reaching each milestone over the first few years of life. The milestones include producing words, producing two-word phrases, and spontaneously constructing sentences with five or more words.
+A table of milestones from early infancy through the second year ties specific behaviors to specific ages. Examples include repeated syllables in babbling at about eight months, and a repertoire of several words by about eighteen months.
+Language appeared to have maturational milestones. This regularity looked consistent with the unfolding of a biological program, in the same way that walking and other motor skills unfold on a schedule.
+
+Section 9: Data on Typical Brain Development
+
+The evidence on typical brain development in 1967 was sparse. It was almost entirely based on post-mortem analyses of tissue, meaning the examination of brains after death.
+One figure plots neuron size in the cerebral cortex against age. The size of cell bodies in several cortical layers grows rapidly in the first two years of life and then levels off.
+No measurements were available between the ages of two and eighteen. Brains of children who died in this age range had not been measured.
+The region of the graph marked as language acquisition falls in this gap, which shows how thin the data were.
+Even with these limits, Lenneberg noticed that abrupt changes in neuron size and packing density before age two might be permissive for the beginning of language acquisition. Permissive means that these changes make language learning possible without causing it directly.
+The critical period for language therefore appears to open after this initial period of rapid brain development.
+
+Section 10: Recovery from Stroke and Hemispherectomy
+
+More extensive data came from studies of recovery from stroke. A consistent observation was that aphasia, the loss or impairment of language, is surprisingly rare in children with brain lesions. Adults with comparable damage often show severe and lasting language problems.
+In extreme cases, doctors performed a hemispherectomy, which is the surgical removal of an entire hemisphere of the brain. The procedure was typically done to relieve seizures in people with epilepsy.
+A table based on Basser (1962) compares outcomes by age at surgery.
+Before the teenage years, removing the left hemisphere left speech unaffected or improved in most cases. In that group, 49 patients had speech not affected or improved, and 3 had permanent aphasia.
+Removing the right hemisphere before the teenage years also left speech largely intact. Here, 38 patients were unaffected or improved, and 5 had permanent aphasia.
+A single case of surgery during puberty showed slow improvement, with some residue remaining at the end of life, which was 27 months after the operation.
+In adults, removing the left hemisphere produced no cases of unaffected or improved speech. Six adults had permanent aphasia, and one of them had aphasia before the operation. Removing the right hemisphere in adults left speech unaffected in all 25 cases.
+Children who lose the left hemisphere nonetheless seem to develop typical language abilities. Adults do not recover language after this procedure. The right hemisphere in a child can take over what the left hemisphere would ordinarily do. The adult right hemisphere cannot.
+This pattern, along with other evidence, led Lenneberg to hypothesize that a major factor in closing the critical period was the development of adult-like cerebral dominance. Cerebral dominance means that one hemisphere, usually the left, becomes the main hemisphere for language. Once the dominance is established, the other hemisphere can no longer substitute.
+
+Section 11: Complications in the Stroke Evidence
+
+Systematic studies of children with perinatal strokes make the picture more complicated. Perinatal here covers the period from prenatal life to 28 days after birth. Outcomes for these children are clearly much better than outcomes for adults with similar injuries. Two qualifications apply.
+First, there are early language deficits in both right and left hemisphere patients. Language does not simply move to the healthy side without cost. Some deficits are worse for children with right hemisphere damage, which is not what a strict left-hemisphere dominance account would predict.
+Second, language outcomes are generally in the low-normal range. This pattern suggests a persistent delay instead of a full catching up. The children do far better than adults, but their language does not reach the level that would be expected without the injury.
+
+[CONTINUE]
+
+continue
+
+Section 12: Early Deprivation and the Case of Genie
+
+Genie is the most well-known case of a child who was deprived of language input during childhood. Her case was described by Curtiss and colleagues (1974). She was born in April 1957 and was discovered when she was 13 years and 7 months old.
+When she was found, Genie was severely malnourished. She was painfully thin and looked about six or seven years old. She could not stand up straight or chew food, and she was not toilet trained. She did not speak, did not cry, and did not produce any vocal sounds.
+From the age of 20 months, Genie had been confined to a small room under conditions of extreme restraint.
+Most of the time she was strapped into an infant’s potty chair. At night she was confined in a sleeping bag inside a crib covered with wire mesh.
+She received minimal care from her mother, who was herself rapidly losing her sight. She was fed only infant food.
+Her father was physically punishing her whenever she made any sounds.
+Very little is known about exactly how much language Genie heard during her isolation. What is known points to almost none.
+Her father could not tolerate noise, and there was no television or radio in the home.
+Her father and older brother did not speak to her. At times they barked at her like dogs instead.
+For the most part she was alone for hours at a time, day after day, year after year.
+Genie’s case matters for the critical period question because her language input was cut off long before puberty. She was then exposed to language for the first time after the age at which Lenneberg proposed the window closes.
+
+Section 13: What Genie Learned
+
+Genie’s language was observed for four years after she was found. During that time she learned quite a bit, which rules out the strongest version of a critical period. A strict critical period would predict no language learning at all after the window closed.
+She came to comprehend hundreds of words. Vocabulary was one of her strongest areas.
+She came to comprehend some aspects of morphology. Morphology is the part of grammar that deals with the pieces that make up words, such as endings that mark plurals or past tense. Genie was particularly good with plurals, meaning she understood that adding an ending can change one object into many.
+She also came to comprehend some prepositions, which are words like on, in, under, and behind that express where things are relative to each other.
+In one test, Genie was given buttons and plastic boxes of different colors and sizes. She was asked to move them according to instructions, such as “Put the red box behind the blue box.”
+She was mostly correct with prepositions like on and in. On in, for example, she was correct 37 times and incorrect only 4 times.
+Her performance was less consistent on some others, but she was correct more often than not on every preposition tested.
+
+Section 14: What Genie Did Not Learn
+
+Genie’s production lagged severely behind her comprehension. She understood far more than she could say.
+Some lag between comprehension and production is typical of normal development. Young children also understand words before they can produce them.
+Her history adds another factor. She had been punished for making sounds as a child, which may have affected her willingness or ability to speak.
+Her grammatical abilities developed much more slowly than her vocabulary. She could keep adding words, but building and understanding the structure of sentences was far harder for her.
+A test of conjunctions captures this grammatical difficulty. Five familiar objects were placed in a row in front of her. She was asked to point to one or more of them in response to sentences.
+Some sentences used and, such as “Show me the fork and pencil.” Genie was correct on almost all of these, with 100 correct and 3 incorrect.
+Other sentences used or, such as “Show me the crayon or the knife.” She was correct on only 7 of these and incorrect on 51.
+Early on, she treated or sentences the same way as and sentences, pointing to both objects. Later, she began to respond differently to and and or, but she still did not understand the meaning of either/or.
+The word or changes the logical meaning of a sentence instead of simply adding one more item. This kind of grammatical meaning was much harder for her than learning the names of objects.
+
+Section 15: Open Questions About Genie
+
+Genie’s case leaves many questions unanswered, which makes it hard to draw firm conclusions.
+One question is whether Genie had a learning disability that was present from birth. If she did, her difficulties with grammar might not be caused by the timing of her language exposure at all.
+Another question is how her social development was affected by the lasting impact of neglect and abuse. Language is learned in social interaction, so damage to her social development could also limit her language.
+After four years, funding to study Genie was withdrawn. As a result, we cannot know what she might have learned if she had been observed for longer.
+Even with these limits, the disparity between her vocabulary development and her grammatical development is widely interpreted as evidence about sensitive periods. The interpretation is that grammar learning in a first language is specifically impaired when exposure begins after a sensitive period. Words can still be learned late, but grammar seems to depend more on early exposure.
+
+Section 16: Deaf Children with Delayed Sign Language Input
+
+Many deaf children do not receive sign language input early in life. Unlike Genie, these children have an otherwise typical upbringing. They are cared for, fed, and raised in ordinary social settings. What they lack is access to a language they can perceive, since they cannot hear the spoken language around them.
+This situation provides a cleaner test of the sensitive period idea. The children are deprived of language input, but not of care, nutrition, or social contact.
+The study by Mayberry, Lock, and Kazmi (2002, Nature) compared deaf individuals with different early language experiences.
+Children aged 9 to 15 who were learning American Sign Language (ASL) as their first language had difficulty learning it.
+A comparison group consisted of children who became deaf after first learning a spoken language. These children did much better at learning ASL, even though they were starting ASL at a similar age.
+These differences persist into adulthood.
+The first part of the study measured ASL performance in deaf adults using a task that required recalling complex ASL sentences.
+Deaf adults who had experienced no language in early life performed poorly, at under 40 percent.
+Deaf adults who had experienced a spoken language in early life performed much better, at close to 80 percent.
+Both groups learned ASL at a later age. The difference is whether they had any first language early in childhood.
+The second part of the study measured English performance using a task where participants judged whether complex written English sentences were grammatically correct. Chance performance on this task is 50 percent.
+Deaf adults with no early language performed only slightly above chance, at around 52 percent.
+Deaf adults who had learned ASL in infancy performed at around 80 percent.
+Hearing adults who had learned a spoken language other than English in infancy also performed at around 80 percent.
+The pattern across both parts of the study points to the importance of having any first language early in life. It does not matter much whether that first language is signed or spoken. Early exposure to a language supports later learning of another language, including a language in a different form. Lacking early language exposure harms learning of the first language and also harms learning of later languages.
+
+Section 17: Critical Period or Sensitive Period for a First Language?
+
+Recovery from stroke looks very different in childhood than in adulthood. Recovery from hemispherectomy looks even more different. Children who lose an entire hemisphere can still develop language, while adults who lose the left hemisphere do not recover it.
+Deprivation of input does not appear to extend the critical period. In some systems, one might expect that a window stays open longer if the needed input never arrives. Genie and the deaf children who received sign language late suggest that this does not happen for language. The window seems to close on schedule whether or not language input was present.
+All of these data come from highly unusual cases with many other factors involved. Brain injury, epilepsy, neglect, and abuse all bring additional problems that are hard to separate from the timing of language exposure. These complications make it difficult to reach firm conclusions.
+There is also a lack of animal models for human language. In vision research, scientists can deprive animals of input or manipulate genes to test critical periods directly. Gene knockout experiments, where a gene is deliberately switched off to see its effect, cannot be done in people. Research on language critical periods must therefore rely on natural cases that are rare and complicated.

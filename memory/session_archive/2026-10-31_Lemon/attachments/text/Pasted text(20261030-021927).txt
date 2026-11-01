@@ -1,0 +1,1000 @@
+Skip to content
+Study Studio.
+‹
+LING406 · Psycholinguistics
+
+Course
+
+LING406
+Course modules
+Course overview
+Module 2 · Midterm 2
+Your workspace
+What to know by the end
+Must know · core review
+Experiments to know
+Combined notes
+Current practice test
+Lecture quizzes
+Missed & uncertain · 0
+Sources & coverage
+Individual collections
+01Speech perception · Categories
+02Speech perception · Words
+03Sentence processing
+04Aphasias
+05Development · Speech perception
+06Development · Words & constructions
+07Critical periods · L1
+08Second-language learning
+09Sensitive periods · L2
+10Midterm II Review · Fall 2025
+Module 1 · Midterm 1 archive
+
+Read it. Teach it. Try it.
+Notes and progress stay in this browser.
+
+PSYC301 Study Studio
+BME423 Study Studio
+
+LING406 / MIDTERM 2
+Progress saved in this browser
+
+Study
+60:00
+
+60 min
+Start
+Reset
+Break
+Transcript
+Version 6 · natural teaching
+Close sidebar
+Resume current practice set
+ALL CURRENT LECTURES
+Combined teaching notes
+Expand visual + transcript · all lectures
+Print notes
+Search all lectures
+Search titles, explanations, or researchers…
+01 · Speech perception · Categories
+Speech perception · from sound to categories
+Speech perception · from sound to categories · original lecture slide, page 1
+Original source page 1 · click to enlarge
+speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+Review pages 1
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+A stable message in a variable signal
+Speech perception allows a listener to recognize words in a changing sound signal. Somehow, the sound of “I can see you” becomes a message with recognizable words, even though the recording contains no separate acoustic pieces corresponding to the written letters. The movements used to produce neighboring sounds overlap, so their acoustic effects overlap as well.
+
+A speaker’s voice also changes the physical form of an utterance. Different speakers can produce the same vowel with different frequencies, and some frequencies can overlap across vowels. Matching a recording to one fixed sound pattern would therefore leave many ordinary productions unrecognized.
+
+Recognizing speech requires finding a linguistic identity within this physical variation. The words can remain the same when the voice changes, because the message depends on how the sounds function in the language rather than on an exact repetition of every acoustic detail.
+
+A stable message in a variable signal · original lecture slide, page 2
+Original source page 2 · click to enlarge
+speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+From an analog signal to a symbolic representation Must know · core review
+Somehow we have to turn a highly variable, analog signal into something more abstract, so the language system can operate on it. An analog signal changes continuously. Frequency, loudness, and timing can each vary by small amounts, but every small change does not create a different speech sound.
+
+A symbolic representation identifies a language unit rather than preserving every physical detail of the recording. A phoneme is a sound category that helps distinguish words. Different acoustic productions can count as the same phoneme, allowing different recordings to supply the same linguistic unit.
+
+Categorical perception is one proposed way of making this translation. Listeners become less sensitive to some differences within a category and more sensitive to similar differences that cross its boundary. A change in the sound is especially noticeable when it changes the identity assigned to it. This organization can preserve useful distinctions while allowing variation within one identity.
+
+From an analog signal to a symbolic representation · original lecture slide, page 3
+Original source page 3 · click to enlarge
+speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Formants reflect the shape of the vocal tract Must know · core review
+The vocal tract is the passage through which sound travels during speech. Its shape changes as the tongue, lips, and mouth move. Those changes affect which frequencies receive the strongest amplification, so the sound reaching the listener depends partly on the shape of this passage.
+
+Formants are the resonant frequencies emphasized by the vocal tract. Vowels such as those in heed, hid, head, and had differ in their combinations of formants. The remaining examples, including hod, hawed, hood, and who’d, involve other combinations. A vowel is characterized by the relationship among resonances rather than by one frequency that stays identical across speakers.
+
+A formant transition is a change in one of these resonances over time. The transition occurs because the vocal tract is moving into or out of a sound. A steady portion supplies information about a vowel, while the movement toward that portion also carries information about how the sound is produced.
+
+Formants reflect the shape of the vocal tract · original lecture slide, page 4
+Original source page 4 · click to enlarge
+speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Reading vowel spectrograms
+The /u/ example · first and second formants
+Tracking formants in Praat
+Separating the source from the filter
+Changing the filter while keeping the source
+A filter specifies which frequencies in a source receive more or less emphasis. The original /u/ filter has low first and second formants. Applying that pattern to the source preserves the combination of resonances associated with the original vowel.
+
+A second filter raises 
+F
+1
+F 
+1
+​
+  while keeping the higher formants approximately unchanged. A third filter raises 
+F
+2
+F 
+2
+​
+  substantially instead. These manipulations change different parts of the resonance pattern, rather than moving every frequency together.
+
+The sound source remains the same across the three filters. Any resulting difference in vowel quality therefore occurs without requiring a different voice or a new natural recording. The comparison isolates how a change in the lowest resonance differs from a change in the second resonance.
+
+The first filter uses the first four formants from the original recording. Raising one of the lower formants changes the pattern without replacing the remaining resonances. This distinction matters because a vowel can change when only part of its spectral organization changes.
+
+Changing the filter while keeping the source · original lecture slide, page 9
+Original source page 9 · click to enlarge
+speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Recombining source and filter
+Vowel space contains distributions Must know · core review
+Vowel space describes relationships among vowels through their formant frequencies. 
+F
+1
+F 
+1
+​
+  and 
+F
+2
+F 
+2
+​
+  are useful because different vowel qualities involve different combinations of these resonances. A vowel occupies a range of values rather than one exact point that every speaker must reproduce.
+
+Anatomy, speaking rate, and surrounding sounds affect these values. Different vocal tracts have different resonances, and the movements required for neighboring sounds affect the vowel as it is produced. The measured frequencies of different vowels can therefore overlap.
+
+Formants still provide a useful description, especially for one talker speaking carefully. Changing the steady-state formants, meaning the resonances during a relatively stable part of the vowel, can produce recognizable vowel approximations. Natural speech also contains changes over time, so these stable values describe an important part of the signal without accounting for all its variation.
+
+Vowel space contains distributions · original lecture slide, page 11
+Original source page 11 · click to enlarge
+speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+The pattern playback synthesizer
+Stop consonants and formant transitions
+The stop consonants /b/, /d/, and /g/ differ partly in their formant transitions. These transitions are movements in resonance as the vocal tract opens into the following vowel. The audible part of a stop is produced during movement, so consonant information is carried by how the frequencies change rather than only by a stable portion of sound.
+
+Liberman and colleagues (1957) created synthetic syllables with a similar lower formant and different starting frequencies for the upper formant. The upper transition could rise, remain relatively flat, or fall before reaching a similar vowel region. The following vowel could remain alike while its onset changed.
+
+The pattern playback synthesizer allowed these properties to be controlled. Listeners heard speech-like sounds whose transitions differed in a specified way. Their responses could then be related to the transition itself, rather than to an uncontrolled collection of differences between natural utterances.
+
+Stop consonants and formant transitions · original lecture slide, page 13
+Original source page 13 · click to enlarge
+speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Constructing an evenly spaced speech continuum Must know · core review
+The noncategorical prediction for labeling Must know · core review
+The noncategorical prediction for discrimination Must know · core review
+Liberman · labeling boundaries and discrimination peaks Must know · core review
+Carrying out the categorical-perception demonstration
+Carrying out the categorical-perception demonstration · original lecture slide, page 18
+Original source page 18 · click to enlarge
+speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Comparing class identification and discrimination curves
+Individual boundaries and the class task
+Why class data can look noisy
+Why reduced sensitivity can help recognition Must know · core review
+Linking categorical perception to word knowledge
+Measuring infant speech discrimination
+The conditioned head turn procedure measures whether an infant detects a change in sound. The infant learns an association between the change and a visual reward. Turning toward the sound provides an observable response without requiring the infant to name what was heard.
+
+High-amplitude sucking measures a different behavior. Sucking can decline as a repeated sound becomes familiar. If a new sound causes sucking to increase again, the change has affected the infant’s behavior and provides evidence that the sounds were distinguished.
+
+Both methods make perception testable before spoken responses are available. The experimenter controls the sound difference and measures a learned turn or renewed sucking. These responses establish sensitivity to the change, rather than requiring an infant to perform an adult labeling task.
+
+Measuring infant speech discrimination · original lecture slide, page 24
+Original source page 24 · click to enlarge
+speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Eimas · categorical discrimination before words Must know · core review
+Perceptual narrowing across infancy Must know · core review
+Perceptual narrowing occurs when experience tunes perception to the surrounding language while sensitivity to some other distinctions decreases. English-learning infants initially distinguish the tested Hindi and Salish contrasts relatively well. Their performance becomes poorer as the first year progresses.
+
+Many infants meet the discrimination criterion at 6–8 months. Fewer do so at 8–10 months, and performance is much lower at 10–12 months. Infants learning Hindi or Salish retain stronger discrimination for the contrast used in their language.
+
+Werker and Tees relate this developmental change to experience with a particular sound system. The infant becomes adapted to distinctions that occur in that system. The same development can leave distinctions from other languages harder to detect, rather than preserving equally strong sensitivity to every speech contrast.
+
+Perceptual narrowing across infancy · original lecture slide, page 26
+Original source page 26 · click to enlarge
+speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+The initially broad perception account
+Separating early appearance from language specificity
+Cutting and Rosner · categories for nonspeech Must know · core review
+Cutting and Rosner (1974) tested categorical perception with nonspeech sounds that differed in rise time. Rise time is how quickly a sound becomes stronger after it begins. A rapid onset sounds plucked, while a slower onset sounds bowed.
+
+The materials included sawtooth and sine waves, with speech syllables included for comparison. Listeners could assign pluck or bow labels even though the manipulated sounds were not different phonemes. The relevant property was the rate of increase in amplitude.
+
+For sawtooth waves, increasing rise time changed the preferred label from pluck to bow. Discrimination was strongest near that labeling change rather than remaining constant for equally spaced sounds. The relationship between a category boundary and improved discrimination can therefore occur with a nonlinguistic auditory distinction.
+
+Pluck and bow are perceptual labels for different onset qualities, not names of phonemes. The physical continuum remains gradual across the change in preferred label. Improved discrimination near that change links the result to categorical organization without requiring the listener to interpret the sounds as speech.
+
+Cutting and Rosner · categories for nonspeech · original lecture slide, page 29
+Original source page 29 · click to enlarge
+speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Jusczyk · infant categories for nonspeech
+Jusczyk and colleagues (1977) tested infants’ responses to nonspeech sounds. After a sound was repeated, the experiment compared no change, a change within a category, and a change between categories. Sucking behavior provided the measure of whether the change was detected.
+
+Sucking declined as the repeated sound became familiar in all conditions. It stayed relatively low after no change and after a within-category change. A between-category change caused sucking to increase again, followed by another decline as that sound became familiar.
+
+The boundary-crossing change affected behavior more strongly than a change within the category. Infants can therefore display category-related discrimination for sounds that are not speech. An ability’s early appearance does not establish that it operates only on phonemes or only within language.
+
+Jusczyk · infant categories for nonspeech · original lecture slide, page 30
+Original source page 30 · click to enlarge
+speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Chinchillas categorize speech continua Must know · core review
+Chinchillas learned to respond to speech sounds through operant conditioning, in which consequences change the likelihood of a behavior. A stimulus with 0-millisecond or 80-millisecond lag signaled that a response would produce food. This rewarded signal is called the SD, or discriminative stimulus.
+
+Tests with intermediate voice onset times measured how the response extended across a /ga/–/ka/ continuum. Chinchillas and human comparison listeners changed their responses sharply within part of that continuum. The animals could categorize the acoustic distinction without possessing human language.
+
+Ohlemiller and colleagues (1999) and Kuhl and Miller (1975) are associated with these comparisons. Making the initial burst and aspiration noise stronger could shift the boundary toward shorter VOTs or change how sharply responses switched. The categorization depended on acoustic properties in both the animal and human responses.
+
+Chinchillas categorize speech continua · original lecture slide, page 31
+Original source page 31 · click to enlarge
+speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Some infant contrasts must become salient Must know · core review
+Some speech distinctions are less salient, meaning harder to notice, than others early in development. At 4–5 months, English-learning infants respond more clearly to [ma]–[na] than to the nonnative [na]–[ŋa] contrast. Increased looking after a change provides evidence that the infant detected it.
+
+These contrasts involve different places of articulation. The nasal in [ma] is made with the lips, the nasal in [na] near the ridge behind the teeth, and the nasal in [ŋa] farther back in the mouth. The comparison concerns whether changing that place changes the infant’s response.
+
+Filipino-learning infants respond weakly to their native [na]–[ŋa] contrast at 6–8 months, but more clearly at 10–12 months. Experience can therefore strengthen a distinction that begins difficult to hear. Speech development includes increased sensitivity to some contrasts as well as declining sensitivity to others.
+
+Some infant contrasts must become salient · original lecture slide, page 32
+Original source page 32 · click to enlarge
+speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+02 · Speech perception · Words
+Spoken words and the lexical–phonetic interface
+Spoken words and the lexical–phonetic interface · original lecture slide, page 1
+Original source page 1 · click to enlarge
+speech_perception_II (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+A staged speech-perception model
+The beach–peach voicing continuum
+Thresholded transmission Must know · core review
+A threshold model requires activity to reach a particular amount before it can affect the next level. Evidence below that threshold can fluctuate without producing a response at the higher level. The higher stage waits until the lower stage has enough support to deliver its selected output.
+
+Feature evidence varies between +voiced and −voiced. Early fluctuations remain below the relevant thresholds, so the phoneme level receives no completed decision. When +voiced activity crosses its threshold, support for /b/ appears abruptly at that level.
+
+Under this account, word recognition receives the selected phoneme rather than the entire history of uncertainty. Two acoustically different inputs that both produce /b/ can therefore become identical for the word stage. The transformation preserves the category but discards differences that existed before the threshold was crossed.
+
+Thresholded transmission · original lecture slide, page 4
+Original source page 4 · click to enlarge
+speech_perception_II (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Cascaded transmission Must know · core review
+The lumber-mill analogy
+Waiting for a completed representation
+The food-web analogy
+Testing thresholds against cascades
+McMurray · the visual-world method Must know · core review
+McMurray, Tanenhaus, Aslin, and Spivey (2003) tested spoken-word recognition using a visual-world eye-tracking task. Participants listened to sounds varying between /b/ and /p/ while viewing pictures. The sound manipulation changed the evidence for the initial consonant without replacing the whole word on every trial.
+
+The pictures included bear and pear, which differ in that initial sound, along with unrelated objects such as a lamp and a ship. Participants chose the picture matching what they heard. Their eye movements were measured while recognition was still developing.
+
+A participant could eventually select bear after briefly looking at pear. Those competitor looks provided evidence that the alternative had received some support. The method therefore measured competition preceding the final click, including activity for a word that was ultimately rejected.
+
+McMurray · the visual-world method · original lecture slide, page 10
+Original source page 10 · click to enlarge
+speech_perception_II (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+A categorical final choice
+Competitor looks reveal graded ambiguity Must know · core review
+Aligning looks with the category boundary Must know · core review
+How a cascade produces the eye-movement result
+Andruski · partial input can activate meaning Must know · core review
+Andruski and colleagues (1994) tested whether an imperfect sound match can activate a word’s meaning. Semantic priming occurs when one item makes a meaning-related target easier to process. A priming benefit after an altered spoken form indicates that some information has reached the corresponding word and its meaning.
+
+The nonword beace facilitated responding to war through partial activation of peace. Similarly, ging facilitated queen through king. The input did not have to be accepted as a correctly pronounced word for its partly matching lexical candidate to affect a related meaning.
+
+Related word primes, including bill before drug, were compared with unrelated primes. Altering an initial sound could weaken the benefit rather than eliminating all access. The amount of sound overlap influenced the strength of lexical and semantic activation, instead of acting only as an all-or-none gate.
+
+Beace resembles peace closely enough to provide partial support, even though its beginning is altered. War is related to the meaning of peace rather than to the altered input as a valid dictionary word. The priming relationship therefore reaches beyond phonetic similarity to the activated word’s semantic associations.
+
+Andruski · partial input can activate meaning · original lecture slide, page 15
+Original source page 15 · click to enlarge
+speech_perception_II (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Why the threshold-only account struggles
+Adding lexical feedback Must know · core review
+Ganong · real words bias phoneme labels Must know · core review
+Ganong (1980) tested whether word knowledge changes phoneme identification. Participants heard a continuum whose endpoints formed a real word and a nonword. In corpse–gorpse, one interpretation of the initial consonant produces a familiar word, while the other does not.
+
+The onset changed in 5-millisecond steps, varying the acoustic evidence near the consonant boundary. The remaining sounds supplied information about whether each possible beginning would complete a word. The manipulation therefore combined uncertain phonetic evidence with a difference in lexical status.
+
+If lexical knowledge affects identification, an ambiguous consonant should be more likely to receive the interpretation forming the real word. The question concerns the uncertain part of the input. Recognizing an unmistakable word endpoint would not establish the same influence on phoneme categorization.
+
+Ganong · real words bias phoneme labels · original lecture slide, page 18
+Original source page 18 · click to enlarge
+speech_perception_II (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+The late-correction prediction Must know · core review
+The boundary-shift prediction Must know · core review
+Ganong's observed labeling curves Must know · core review
+TRACE · activation changes as speech unfolds
+Why the final /g/ favors plug Must know · core review
+TRACE and interactive activation
+Categories coexist with interaction Must know · core review
+From words to sentence ambiguity
+The cohort effect in spoken-word recognition Must know · core review
+In Allopenna and colleagues’ (1994) task, listeners hear a word while viewing possible referents. For beaker, beetle shares the beginning and is called a cohort competitor. Speaker shares the ending and is a rhyme competitor, while carriage is unrelated.
+
+The initial sounds support both beaker and beetle, so looks toward both increase early. Once the sounds distinguishing the words arrive, target looking continues to rise while beetle looking declines. The competitor loses support because the later input no longer matches.
+
+Speaker overlaps at a later point, so its competition has a different time course. Eye movements record when each candidate attracts attention before the final choice. Correctly selecting beaker does not mean that beaker was the only word considered throughout recognition.
+
+Cohort and rhyme overlap are not interchangeable. Beetle is supported while only the beginning has been heard, whereas speaker has a mismatching beginning and gains overlap later. The time at which evidence becomes available determines when each candidate can plausibly compete.
+
+The cohort effect in spoken-word recognition · original lecture slide, page 27
+Original source page 27 · click to enlarge
+speech_perception_II (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Why the time course matters
+03 · Sentence processing
+Understanding sentences while they unfold
+Understanding sentences while they unfold · original lecture slide, page 1
+Original source page 1 · click to enlarge
+sentence_processing.pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+The horse raced past the barn fell Must know · core review
+“The horse raced past the barn fell” is grammatical, but the beginning encourages an interpretation that does not fit the ending. A reader can initially take raced as the horse’s main action. That makes the words before fell seem to describe a complete event, leaving the final verb difficult to incorporate.
+
+The intended meaning is “The horse that was raced past the barn fell.” The phrase raced past the barn identifies the horse. Fell then states what happened to it. Omitting “that was” leaves this modifying relationship less explicit.
+
+Sentence comprehension depends on assigning relationships among words, not only recognizing their individual meanings. Here, one action belongs inside the description of the horse and the other is the main event. Difficulty arises when the early interpretation assigns those roles incorrectly.
+
+The horse is the one that fell, not a second participant introduced by the last word. Raced belongs within the description of that horse. Keeping those relationships distinct supplies a complete interpretation without deleting either verb or treating the original sentence as an ungrammatical word list.
+
+The horse raced past the barn fell · original lecture slide, page 2
+Original source page 2 · click to enlarge
+sentence_processing.pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+What a garden path is Must know · core review
+A parser under memory and time constraints
+Minimal attachment Must know · core review
+Late closure and dynamite Must know · core review
+Why jewels create a processing cost Must know · core review
+An autonomous structural parser Must know · core review
+Reduced relatives are not always difficult
+A reduced relative clause modifies a noun while omitting words such as “that was.” In “Recent research reported by Ferreira and Clifton,” reported describes research that someone reported. Research is not itself performing the reporting as the main action of the sentence.
+
+“Referential information provided by the discourse,” “results obtained with global reading times,” and “examples cited here” have the same kind of modifier. Provided, obtained, and cited relate to their preceding nouns. These forms can be understood readily despite the complexity associated with reduced relatives.
+
+MacDonald, Perlmutter, and Seidenberg (1994) argue that meaning and learned usage patterns contribute early to parsing. The formal structure alone does not determine difficulty. Particular words and their familiar relationships can support a reduced-relative interpretation without producing a strong garden path.
+
+Reduced relatives are not always difficult · original lecture slide, page 9
+Original source page 9 · click to enlarge
+sentence_processing.pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Why the example table matters
+Research reported and the arrested burglar Must know · core review
+Spivey · an apple, a towel, and a box Must know · core review
+Spivey and colleagues (1995) asked people to follow spoken instructions while viewing objects. The one-apple display contained a pencil, a box, an empty towel, and an apple on a towel. Participants heard “Put the apple on the towel in the box.”
+
+The phrase on the towel can initially sound like a destination, prompting a plan to put the apple on the empty towel. In the intended interpretation, it identifies where the apple already is. In the box supplies the actual destination.
+
+Participants often looked toward the empty towel before turning toward the box. With “Put the apple that’s on the towel in the box,” the modifier is explicit and this temporary error is reduced. Eye movements reveal a competing interpretation considered before the final action is completed.
+
+The two towels play different roles. One already supports the apple, while the empty towel is the competing destination. Confusing the current-location modifier with the destination changes the planned action, even though the listener recognizes all the object names correctly.
+
+Spivey · an apple, a towel, and a box · original lecture slide, page 12
+Original source page 12 · click to enlarge
+sentence_processing.pdf
+ Mark read
+Expand visual + transcript
+Review pages 18
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Two-referent context and initial attachment
+Adding a second apple Must know · core review
+What the context comparison shows Must know · core review
+Mouse trajectories and competing actions
+Brain responses to structural expectations
+The · starting the incremental sentence
+Pizza · establishing the noun phrase
+Was · opening a new structural expectation
+In · introducing a prepositional phrase
+The · expecting a noun after the preposition
+Eaten · a word-category violation
+The early left anterior negativity Must know · core review
+The early left anterior negativity, or ELAN, is an event-related potential associated with word-class violations. An event-related potential is a measured brain response aligned to an event such as a word’s onset. This response occurs roughly 100–200 milliseconds after the critical word, with a left/anterior distribution.
+
+In “The pizza was in the eaten,” a participle appears where the intended phrase expects a noun. In “The scientist criticized Max’s of proof the theorem,” the preposition of appears where it does not fit the developing noun phrase. Both involve a mismatch in grammatical category.
+
+The early response motivated an account involving rapid syntactic analysis. The critical distinction is between a word of an unexpected grammatical type and a correctly positioned word with an implausible meaning. The measurement concerns a response very soon after the relevant form becomes available.
+
+The early left anterior negativity · original lecture slide, page 24
+Original source page 24 · click to enlarge
+sentence_processing.pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Early visual predictions and form typicality Must know · core review
+Perches and needs can change category
+Noun-like and verb-like forms
+Comparing form-based and syntactic expectations
+When a category violation produces the early effect Must know · core review
+The early ELAN response depends partly on how much a word’s form reveals about its category. It occurs for nouns with informative morphological marking, meaning meaningful word parts, and for forms strongly associated with nouns. A neutral form such as infant does not produce the same early pattern.
+
+The comparisons include beautiful princess versus beautifully princess, tasteless soda versus tastelessly soda, and cute infant versus cutely infant. Princess provides informative morphology, soda has a statistically noun-like form, and infant supplies weaker form-based category evidence.
+
+The abstract category mismatch is therefore not sufficient to determine this earliest visual response. An expected grammatical category can generate predictions about word form. The response depends partly on whether the word that arrives contains physical evidence conflicting with that prediction.
+
+When a category violation produces the early effect · original lecture slide, page 29
+Original source page 29 · click to enlarge
+sentence_processing.pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Four sentences, four connected lessons Must know · core review
+“Colorless green ideas sleep furiously” has an acceptable grammatical organization but an implausible combined meaning. Syntax and semantics are partly independent because words can fit a structure without forming a sensible event. Grammatical organization is not simply the same property as plausibility.
+
+“The horse raced past the barn fell” becomes difficult when an early structural preference cannot accommodate the final verb. Such preferences can reduce memory demands while leaving some sentences vulnerable to revision. In the apple instruction, however, the available objects affect early interpretation of the ambiguous phrase.
+
+Word forms also carry learned category information. “The bird perches were comfortable” uses a noun-like form as a noun, while other continuations require a different use. Early category-related brain responses depend partly on such form-based expectations. Parsing therefore involves grammatical relationships together with meaning, context, and learned regularities in the available input.
+
+Four sentences, four connected lessons · original lecture slide, page 30
+Original source page 30 · click to enlarge
+sentence_processing.pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+From parsing to aphasia
+From parsing to aphasia · original lecture slide, page 31
+Original source page 31 · click to enlarge
+sentence_processing.pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+04 · Aphasias
+Aphasia · language after brain injury
+Aphasia · language after brain injury · original lecture slide, page 1
+Original source page 1 · click to enlarge
+aphasias (2).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Centers, connections, and disconnections
+The Geschwind–Wernicke framework
+Fluency, agrammatism, and comprehension
+Telegraphic speech versus fluent word salad Must know · core review
+Wernicke’s aphasia can involve fluent “word salad” or “Jabberwocky.” A patient describing a visual problem said “My wires don’t hire right.” The expression has a sentence-like arrangement, but the selected words fail to communicate the intended problem with vision.
+
+Other responses continue with grammatical-sounding phrases that do not form a clear message. “I felt worse because I can no longer keep in mind from the mind of the minds…” retains fluency without a coherent explanation. Invented forms such as “demaploze” and “tubaboys” are neologisms. Calling a fork “a need for a schedule” similarly fails to identify the object despite producing familiar words.
+
+Broca’s aphasia can instead produce telegraphic speech. A hospital account retains words about Dad, the hospital, doctors, appointments, and teeth, but pauses and missing grammatical connections make the event hard to express. The surviving content words convey parts of the experience even though sentence production is restricted.
+
+Telegraphic speech versus fluent word salad · original lecture slide, page 5
+Original source page 5 · click to enlarge
+aphasias (2).pdf
+ Mark read
+Expand visual + transcript
+Review pages 21
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Broca's original cases and apraxia of speech Must know · core review
+Why grammar and the lexicon were separated
+Functional and positional levels in production
+Testing grammar during comprehension
+From articulation to a syntactic hypothesis
+Competence and performance Must know · core review
+Broca’s aphasia is usually accompanied by some motor dysfunction. Speaking can become effortful, encouraging the use of informative content words with less grammatical material. Such speech may reflect an attempt to communicate under difficult conditions rather than directly expressing the full extent of retained grammar.
+
+Competence refers to linguistic knowledge, while performance concerns using that knowledge in a task. Chomsky’s distinction allows poor performance to coexist with knowledge that cannot be expressed effectively. Hughlings Jackson likewise emphasized what a patient manages despite impairment.
+
+Caramazza and Zurif (1976) investigated comprehension to test whether the difficulty extended beyond articulation. Their task required interpreting grammatical relationships without producing a full sentence. Difficulty under those conditions would concern more than the physical effort of speaking.
+
+Competence and performance · original lecture slide, page 11
+Original source page 11 · click to enlarge
+aphasias (2).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Why man bites dog is informative Must know · core review
+Caramazza and Zurif's sentence contrasts Must know · core review
+The sentence–picture matching results Must know · core review
+Defining the operation more precisely
+Dick · four ways to describe the same action Must know · core review
+In Dick and colleagues’ task, listeners identify which animal performs the action. The event is a dog biting a cat, but the sentence structure changes. Knowing the animal names is insufficient because the answer depends on assigning their roles.
+
+“The dog is biting the cat” is active, and “It’s the dog that is biting the cat” is a subject cleft. Both place the actor first. A strategy of treating the first animal as the actor gives the correct answer in these conditions.
+
+“It’s the cat that the dog is biting” is an object cleft, and “The cat is bitten by the dog” is passive. Both begin with the animal receiving the action. Correctly selecting the dog now requires the grammatical relationship rather than a first-noun shortcut.
+
+Dick · four ways to describe the same action · original lecture slide, page 16
+Original source page 16 · click to enlarge
+aphasias (2).pdf
+ Mark read
+Expand visual + transcript
+Review pages 27
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Patient performance across sentence forms Must know · core review
+Healthy listeners under processing stress Must know · core review
+Saygin · actions without words Must know · core review
+Saygin and colleagues (2004) asked participants to match actions with objects. A nonverbal version conveyed an action such as licking without spoken language and required choosing a fitting object, such as an ice cream. A linguistic version supplied language-based information for the same general decision.
+
+Aphasic participants were less accurate than controls in both versions. The difficulty was therefore not confined to understanding grammatical sentences. The nonverbal task still required identifying the relevant action meaning and connecting it to an appropriate object.
+
+Semantically related distractors caused more difficulty than unrelated choices. An object related in meaning competed more strongly with the correct match. Selecting the intended meaning could therefore be disrupted even when no linguistic sentence had to be interpreted.
+
+The nonverbal comparison removes a linguistic expression without removing meaning from the task. The patient still has to identify what the action calls for and select the corresponding object. Similar difficulty in that condition therefore concerns a demand shared with language rather than grammar alone.
+
+Saygin · actions without words · original lecture slide, page 19
+Original source page 19 · click to enlarge
+aphasias (2).pdf
+ Mark read
+Expand visual + transcript
+Review pages 30
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Relating action matching to lesion location Must know · core review
+Environmental sounds and Wernicke-type deficits Must know · core review
+Saygin and colleagues compared matching environmental sounds to pictures with matching spoken descriptions. A cow’s moo supplies nonverbal auditory information, while “cow mooing” supplies words. Both versions require selecting the appropriate picture from alternatives.
+
+Wernicke’s patients were particularly impaired, with accuracy around 90% in both versions. Their verbal and nonverbal performance did not differ significantly. Controls, right-hemisphere-damage patients, and the other aphasia groups performed more accurately in these comparisons.
+
+The impairment therefore extended beyond recognizing spoken word forms. Connecting an environmental sound with the event or object it represents was also difficult. Meaning-related alternatives could compete with the target regardless of whether the auditory information consisted of language or an ordinary sound.
+
+Environmental sounds and Wernicke-type deficits · original lecture slide, page 21
+Original source page 21 · click to enlarge
+aphasias (2).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Auditory meaning and posterior damage Must know · core review
+Impaired verbal and nonverbal sound–picture matching was associated with damage involving Wernicke’s area. Lesion overlap occurred in posterior language-related regions for patients impaired on either task. The input differed, but both tasks required connecting auditory information with meaning.
+
+A spoken description conveys that information through words. An environmental sound, such as an animal call, conveys it without a linguistic expression. Difficulty in both conditions cannot be described only as a failure to identify word forms.
+
+The common demand is recovering what meaningful auditory input represents and selecting the matching object or event. Relating that performance to lesion location extends the anatomical account beyond a simple language-versus-nonlanguage division. The result concerns an association between damaged regions and measured comprehension difficulty.
+
+Auditory meaning and posterior damage · original lecture slide, page 22
+Original source page 22 · click to enlarge
+aphasias (2).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+What the competing aphasia accounts explain
+Connecting aphasia to development
+Voxel-based lesion–symptom mapping Must know · core review
+Voxel-based lesion–symptom mapping relates the location of brain damage to behavioral impairment across patients. A voxel is a small three-dimensional unit of an MRI image. Comparing damaged and spared locations against symptom measures identifies regions associated with reduced performance.
+
+Fluency deficits have stronger associations with anterior, or front, regions. Comprehension deficits have stronger associations with posterior, or back, regions. These measures concern broad speaking and understanding abilities rather than direct tests of one grammatical operation.
+
+The distributions support a rough double dissociation between production-related and comprehension-related difficulties. Different patterns of damage have different behavioral associations. Mapping across patients provides a quantitative relationship between tissue location and symptoms rather than relying only on a single case description.
+
+Voxel-based lesion–symptom mapping · original lecture slide, page 25
+Original source page 25 · click to enlarge
+aphasias (2).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+05 · Development · Speech perception
+How speech perception develops
+How speech perception develops · original lecture slide, page 1
+Original source page 1 · click to enlarge
+development_1_speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Nativist explanations of language acquisition Must know · core review
+The nature-and-nurture question concerns how built-in capacities and experience contribute to language acquisition. Nativist positions developed from Chomsky’s critique of Skinner. Skinner relied on general learning mechanisms such as reward and punishment, while Chomsky argued that these mechanisms could not explain the grammar children acquire.
+
+For Chomsky, language’s important property is generativity. People understand and produce new sentences they have never heard. Acquiring a language therefore means identifying the abstract grammar that produces its sentences, rather than memorizing a collection of earlier utterances.
+
+Grammatical and ungrammatical sentences are not similar in any straightforward way. A small change can make a sentence unacceptable, while two acceptable sentences can look very different. Grouping expressions by surface resemblance cannot simply separate everything permitted by the grammar from everything excluded.
+
+Operant conditioning changes behavior through rewards and punishments. Children are not consistently rewarded for grammatical sentences and punished for ungrammatical ones, so those required contingencies do not reliably occur. Nativist accounts instead propose Universal Grammar and language-specific acquisition processes. Innate constraints limit the grammars considered, while a specially equipped “data-handling” or “hypothesis-formulating” ability helps identify the surrounding language.
+
+An abstract grammar captures relationships that extend beyond the particular sentences a child has heard. Generativity creates the learning problem because memorized utterances cannot supply every novel sentence. The proposed innate constraints concern the kinds of grammar considered, while experience still determines which language the child acquires.
+
+Nativist explanations of language acquisition · original lecture slide, page 2
+Original source page 2 · click to enlarge
+development_1_speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Why categorical perception seemed specialized Must know · core review
+Infant methods · head turns and sucking Must know · core review
+Eimas · comparing equal changes in VOT Must know · core review
+Why an early infant result mattered
+Werker · perceptual narrowing Must know · core review
+The citizens-of-the-world narrative Must know · core review
+What a fuller developmental account must explain
+Cutting and Rosner's nonspeech continuum Must know · core review
+Jusczyk · infant nonspeech categories Must know · core review
+Chinchilla speech categorization Must know · core review
+Narayan · not every contrast starts equally clear Must know · core review
+Narayan and colleagues (2010) compared infants’ responses to nasal place contrasts. /ma/–/na/ changes from a nasal made with the lips to one made near the ridge behind the teeth. /na/–/ŋa/ changes from that location to one farther back in the mouth.
+
+At 4–5 months, English-hearing infants looked longer after a /ma/–/na/ change. Their same-versus-change responses differed much less for /na/–/ŋa/. The first contrast was more salient, meaning easier to notice.
+
+Broad early speech sensitivity therefore does not imply equal sensitivity to every contrast. An infant can detect one place change more readily than another. The initial system has uneven sensitivities, leaving some distinctions especially dependent on subsequent learning.
+
+Narayan · not every contrast starts equally clear · original lecture slide, page 13
+Original source page 13 · click to enlarge
+development_1_speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Experience can create a stronger distinction Must know · core review
+Emergentist learning and associations
+Learning a vowel distribution Must know · core review
+A vowel space describes vowels through combinations of 
+F
+1
+F 
+1
+​
+  and 
+F
+2
+F 
+2
+​
+ , the first two vocal-tract resonances. Natural tokens vary, so a vowel forms a distribution rather than occupying one exact location. Different vowel distributions can overlap even though listeners usually identify them successfully.
+
+In the account associated with Kuhl and others, experience teaches regularities within these distributions. Common combinations receive repeated support. Learning concerns the pattern across many productions rather than memorizing a single ideal recording.
+
+A prototypical /a/ can develop around a central or especially frequent part of its distribution. The mean is an average position, while the mode is the most frequent value or region. The prototype can therefore reflect what the listener has experienced instead of one universal acoustic value fixed in advance.
+
+Learning a vowel distribution · original lecture slide, page 16
+Original source page 16 · click to enlarge
+development_1_speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Maye · one peak versus two peaks Must know · core review
+Learning through social interaction Must know · core review
+Social interaction affects language learning from exposure. Nine-month-old American infants received twelve 25-minute sessions before a head-turn test of a Mandarin contrast. Live Mandarin interaction improved performance compared with English exposure. Television and audio-only Mandarin did not produce the same benefit.
+
+The interactive setting changed the effect of hearing another language. Exposure through a recording was not equivalent to exchanging behavior with a live speaker. The result connects learning to how the acoustic input is encountered, not only to whether it is available.
+
+Maternal responses also differed in whether they were contingent, timed to an infant’s vocalization, or noncontingent, delivered at unrelated times. Contingent feedback more strongly increased syllable-like vocalizations. Proposed explanations include an early attraction to social interaction and the ability to use another person’s cues. The timing of a response can affect the learner’s own vocal behavior.
+
+Contingent and noncontingent responses differ in their relationship to the infant’s behavior. A contingent response follows the vocalization at the relevant time, making the exchange responsive. The contrast tests that relationship rather than merely whether an adult is present or whether the infant hears speech at all.
+
+Learning through social interaction · original lecture slide, page 18
+Original source page 18 · click to enlarge
+development_1_speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Statistical learning is constrained Must know · core review
+06 · Development · Words & constructions
+Finding words, meanings, and constructions
+Finding words, meanings, and constructions · original lecture slide, page 1
+Original source page 1 · click to enlarge
+development_2_words_morphemes_constructions_20221.pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Why speech does not supply printed spaces Must know · core review
+Word segmentation is the process of finding words in continuous speech. Spoken language does not contain a reliable equivalent of written spaces. Listeners recover recurring forms from a “sea of sounds” even when the acoustic signal does not clearly mark each beginning and ending.
+
+Silence is not a dependable word boundary. A brief closure of the vocal tract can create silence inside a word during consonant production. Treating every silent interval as a boundary would therefore divide some words incorrectly.
+
+Segmentation requires using evidence about how sounds group together. Identifying a recurring sound unit is also different from knowing its meaning. A learner can begin detecting a word-shaped sequence before establishing what object, action, or property it names.
+
+Why speech does not supply printed spaces · original lecture slide, page 2
+Original source page 2 · click to enlarge
+development_2_words_morphemes_constructions_20221.pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Stress and phonotactic cues to boundaries Must know · core review
+Some words are heard in isolation, including “Hello,” “No,” “Please,” “Go,” and “Stop.” Their boundaries are relatively accessible because the whole utterance contains one word. Many words occur mainly within longer utterances, so isolated examples cannot explain all segmentation.
+
+Phonotactics concerns which sound combinations are common or permitted in a language. Unusual combinations in wordboundary or speechcode can support a boundary, although movement cautions against treating every apparent join as two whole words. These cues concern learned sound patterns rather than visible spaces.
+
+Stress supplies another cue because many English words begin with a strong syllable. Jusczyk and colleagues (1999) familiarized 7.5-month-olds with kingdom or device. Infants preferred passages containing the initially stressed kingdom but not the same way for device, stressed on its second syllable. Detecting a familiar form in running speech depended on how stress aligned with its boundary.
+
+Stress is not a universal solution to segmentation. Different languages organize stress differently, and not every English word begins with a strong syllable. The kingdom–device contrast identifies how a useful regularity can favor one word pattern while leaving another harder to recognize in connected speech.
+
+Stress and phonotactic cues to boundaries · original lecture slide, page 3
+Original source page 3 · click to enlarge
+development_2_words_morphemes_constructions_20221.pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Pretty baby and transitional probability Must know · core review
+In pretty baby, pre strongly predicts the following ty, while ty can be followed by the beginning of many different words. The within-word sequence is therefore more reliable than the sequence crossing into baby. Differences in predictability can supply evidence about where words belong.
+
+Transitional probability is the probability of a next syllable given the syllable just heard. The frequency of the pair is divided by the frequency of its first member. A pair occurring often is not necessarily highly predictable if its first syllable also has many other continuations.
+
+f
+f means frequency of occurrence. The relationship is
+f
+(
+p
+r
+e
+t
+t
+y
+)
+f
+(
+p
+r
+e
+)
+≫
+f
+(
+t
+y
+b
+a
+)
+f
+(
+t
+y
+)
+f(pre)
+f(pretty)
+​
+ ≫ 
+f(ty)
+f(tyba)
+​
+ 
+Within pretty, pre predicts ty much more reliably than ty predicts ba across the word boundary. The stronger internal relationship supports treating pretty as one unit within the continuous sequence.
+
+Pretty baby and transitional probability · original lecture slide, page 4
+Original source page 4 · click to enlarge
+development_2_words_morphemes_constructions_20221.pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Why probabilities are cues, not printed boundaries
+Saffran · isolating statistical information Must know · core review
+The unsegmented artificial stream
+Making the hidden groupings visible
+Words versus frequency-matched part-words Must know · core review
+Interpreting the novelty preference Must know · core review
+Segmentation does not supply meaning
+The inductive problem of word meaning Must know · core review
+Joint attention and reference Must know · core review
+Joint attention occurs when two people share a focus on an object or event. An adult and child coordinate what the interaction concerns. This provides information about reference beyond whatever happens to attract the child’s attention independently.
+
+Gaze following develops around nine months. Following the adult’s eyes can reveal which object the adult is attending to. When a label is spoken, that focus provides evidence about the object it may name.
+
+Shared attention narrows the possible referents of the word. The child can relate the expression to the adult’s focus rather than associating it equally with everything nearby. The useful information concerns a relationship among the speaker, the learner, and the object.
+
+Joint attention and reference · original lecture slide, page 13
+Original source page 13 · click to enlarge
+development_2_words_morphemes_constructions_20221.pdf
+ Mark read
+Expand visual + transcript
+Review pages 38
+My notes
+Saved in this browser

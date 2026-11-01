@@ -1,0 +1,1000 @@
+Skip to content
+Study Studio.
+‹
+LING406 · Psycholinguistics
+
+Course
+
+LING406
+Course modules
+Course overview
+Module 2 · Midterm 2
+Your workspace
+What to know by the end
+Must know · core review
+Experiments to know
+Combined notes
+Current practice test
+Lecture quizzes
+Missed & uncertain · 0
+Sources & coverage
+Individual collections
+01Speech perception · Categories
+02Speech perception · Words
+03Sentence processing
+04Aphasias
+05Development · Speech perception
+06Development · Words & constructions
+07Critical periods · L1
+08Second-language learning
+09Sensitive periods · L2
+10Midterm II Review · Fall 2025
+Module 1 · Midterm 1 archive
+
+Read it. Teach it. Try it.
+Notes and progress stay in this browser.
+
+PSYC301 Study Studio
+BME423 Study Studio
+
+LING406 / MIDTERM 2
+Progress saved in this browser
+
+Study
+60:00
+
+60 min
+Start
+Reset
+Break
+Transcript
+Version 7 · teaching notes
+Close sidebar
+Resume current practice set
+ALL CURRENT LECTURES
+Combined teaching notes
+Expand visual + transcript · all lectures
+Print notes
+Search all lectures
+Search titles, explanations, or researchers…
+01 · Speech perception · Categories
+Speech perception · from sound to categories
+Speech perception · from sound to categories · original lecture slide, page 1
+Original source page 1 · click to enlarge
+speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+Review pages 1
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+A stable message in a variable signal
+Speech perception is the process of recovering a linguistic message from the sound of speech. Somehow we take an acoustic signal that looks like a mess and retrieve a message as clear as “I can see you.” The difficulty is that the physical signal does not come neatly divided into the letters or words we recognize.
+
+A spectrogram of “I can see you” has time along the bottom and frequency up the side, with darker regions marking stronger energy. The dark bands run into one another, and there are no clean gaps that line up with separate letters or even separate words.
+
+The vocal tract image from the USC SPAN real-time MRI traces the tongue, lips and other articulators while someone speaks. These articulators move continuously, and the movement for one sound overlaps with the movement for the next. Because the movements overlap, their acoustic effects overlap as well.
+
+We also extract the same message from very different physical stimuli. Different people have different voices and different vocal tract sizes, and the same word can come out with quite different acoustic properties from each of them. A listener still recognizes the word as the same word.
+
+The vowel plot graphs the frequency of the second formant against the frequency of the first formant for ten vowels produced by 76 speakers. Each vowel occupies a large oval region rather than a single point.
+
+Many of those ovals overlap. A particular pair of frequency values can therefore belong to one vowel for one speaker and to a different vowel for another speaker.
+
+Matching a recording against one fixed sound pattern for each word would fail for many ordinary productions. Recognizing speech requires finding a stable linguistic identity inside a great deal of physical variation. The message stays the same because it depends on how the sounds function in the language, not on an exact repetition of every acoustic detail.
+
+A stable message in a variable signal · original lecture slide, page 2
+Original source page 2 · click to enlarge
+speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+From an analog signal to a symbolic representation Must know · core review
+One working premise is that we have to turn a highly variable, analog signal into something more abstract, so that the language system can operate on it. An analog signal changes continuously. Frequency, loudness and timing can each change by tiny amounts, and the spectrogram of “I can see you” contains this kind of continuous, overlapping variation.
+
+A continuous signal has no built-in boundaries telling the listener where one speech sound ends and the next begins.
+
+Every small change in the signal also does not create a different speech sound. Two productions can differ physically and still count as the same sound in the language.
+
+The abstract form is a symbolic representation. A symbol identifies a language unit, such as a particular consonant or vowel, rather than preserving every physical detail of the recording. The relevant unit here is the phoneme, which is a sound category that distinguishes words in a language.
+
+The /b/ in “bat” and the /p/ in “pat” are different phonemes because swapping them changes the word.
+
+Many slightly different acoustic versions of /b/ all count as the same phoneme. The language system can then work with the category rather than with the endless variety of physical versions.
+
+Categorical perception is thought to reflect this kind of “translation” from physical to symbolic. In categorical perception, listeners become less sensitive to differences inside a category and more sensitive to similar-sized differences that cross a category boundary.
+
+A change in the sound is especially noticeable when it changes the identity a listener assigns to the sound.
+
+A change of the same physical size can go almost unnoticed when both sounds still count as the same phoneme.
+
+This organization keeps the distinctions that matter for words while allowing variation within one identity. Categorical perception is one account of this translation, and there are alternative ideas about how it happens.
+
+From an analog signal to a symbolic representation · original lecture slide, page 3
+Original source page 3 · click to enlarge
+speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Formants reflect the shape of the vocal tract Must know · core review
+The vocal tract is the passage that sound travels through during speech, running from the larynx through the throat and mouth to the lips. Its shape changes as the tongue, jaw and lips move. The shape of the vocal tract is related in systematic ways to which resonant frequencies get amplified, following Ladefoged (1996).
+
+A resonant frequency is a frequency that a space naturally strengthens. A tube of a particular shape boosts some frequencies and weakens others.
+
+Changing the shape of the vocal tract changes which frequencies receive the strongest amplification. The sound reaching a listener therefore depends partly on the shape of this passage.
+
+Formants are the resonant frequencies that the vocal tract emphasizes. Each vowel has its own combination of formants, and the drawings pair a vocal tract shape with a graph of amplified frequencies for each vowel.
+
+For heed, hid, head and had, the tongue position changes from high and front toward lower in the mouth. The peaks in the frequency graphs shift as the tongue moves. In heed, the second peak sits far above the first, and the two peaks move closer together across hid, head and had.
+
+For hod, hawed, hood and who’d, the tongue is farther back and the lips become more rounded. The amplified frequencies cluster at the low end of the graph, so the first and second peaks sit close together.
+
+A vowel is characterized by the relationship among its resonances, not by one frequency that stays identical across every speaker.
+
+A formant transition is a change in a formant’s frequency over time. Transitions happen because the vocal tract moves into or out of a sound. The steady part of a vowel carries information about the vowel itself, while the moving part carries information about how the neighboring sound is produced.
+
+When the mouth moves from a consonant into a vowel, the resonances glide from one set of values to another. That glide is the formant transition.
+
+Formants reflect the shape of the vocal tract · original lecture slide, page 4
+Original source page 4 · click to enlarge
+speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Reading vowel spectrograms
+The /u/ example · first and second formants
+Tracking formants in Praat
+Separating the source from the filter
+Changing the filter while keeping the source
+Three different filters can be applied to the same source. A filter specifies which frequencies get more emphasis and which get less, so each filter is a resonance pattern. The three spectrograms each run from 0 to 2.5 seconds in time and from 0 to 5,000 Hz in frequency.
+
+The first filter is just the first four formants from the original /u/ recording. Applying it to the source should restore the original vowel quality.
+
+The second filter raises the first formant a little. The other formants stay roughly where they were.
+
+The third filter raises the second formant a lot. 
+F
+1
+F 
+1
+​
+  and the higher formants stay roughly where they were.
+
+Each manipulation changes one part of the resonance pattern rather than shifting every frequency together.
+
+In the original filter, 
+F
+1
+F 
+1
+​
+  and 
+F
+2
+F 
+2
+​
+  are both low, which matches /u/.
+
+Raising 
+F
+1
+F 
+1
+​
+  moves only the lowest band upward. Raising 
+F
+2
+F 
+2
+​
+  moves only the second band upward, and by a much larger amount.
+
+The sound source stays the same across all three filters. Any difference in vowel quality therefore comes from the filter alone.
+
+No new speaker and no new recording are needed.
+
+Comparing the outputs isolates what a change in the lowest resonance does compared with a change in the second resonance.
+
+Changing the filter while keeping the source · original lecture slide, page 9
+Original source page 9 · click to enlarge
+speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Recombining source and filter
+Vowel space contains distributions Must know · core review
+Formant values are only partly determined by which vowel a speaker intends. They are also shaped by anatomical features that differ between speakers of the same language, by different rates of speech, and by context, such as the phones produced before and after a vowel.
+
+Anatomy matters because vocal tracts differ in length and shape. A longer vocal tract produces lower resonances overall.
+
+Speaking rate matters because fast speech gives the articulators less time to reach their target positions.
+
+Context matters because the tongue and lips are already moving toward the next sound or away from the previous one while the vowel is being produced. A phone is a specific spoken realization of a speech sound.
+
+The 
+F
+2
+F 
+2
+​
+ -by-
+F
+1
+F 
+1
+​
+  plot for ten vowels from 76 speakers displays this variability. Each vowel forms a cloud of points enclosed by an oval, and the ovals overlap.
+
+The same 
+F
+1
+F 
+1
+​
+  and 
+F
+2
+F 
+2
+​
+  values can belong to different vowels for different speakers.
+
+No single pair of frequencies defines a vowel for everyone.
+
+Formant values can nonetheless provide a pretty good description of vowel space, especially for a specific talker speaking carefully. Vowel space is the arrangement of a language’s vowels according to their formant frequencies.
+
+Within one careful talker, the vowels separate much more cleanly than they do across many talkers.
+
+All else being equal, we can produce reasonable approximations of vowels by manipulating steady-state formants. A steady-state formant is the resonance during the relatively stable middle part of a vowel, as opposed to the transitions at its edges.
+
+Vowel space contains distributions · original lecture slide, page 11
+Original source page 11 · click to enlarge
+speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+The pattern playback synthesizer
+Stop consonants and formant transitions
+Stop consonants are distinguished by formant transitions. The stop consonants /b/, /d/ and /g/ are made by briefly closing the vocal tract and then releasing it. This makes sense when we think about how they are produced, because the audible part of a /b/, /d/ or /g/ happens while the jaw is opening.
+
+During the opening movement, the vocal tract shape is changing rapidly.
+
+The changing shape makes the formants glide from the consonant’s position toward the vowel’s position. The consonant’s identity is carried by how the formant frequencies move, not by a steady stretch of sound.
+
+Liberman and colleagues (1957) used the pattern playback synthesizer to create speech-like sounds that replicated these formant transitions. Each painted pattern has two formants plotted against time in milliseconds, with frequency in cycles per second from 0 up to about 2,400.
+
+The lower formant looks nearly the same in every stimulus. It rises briefly and then stays steady near 600 cycles per second or below.
+
+The upper formant starts at a different frequency in each stimulus before settling at the same steady level near 1,800 cycles per second.
+
+In the early stimuli, the upper formant starts low and rises into the vowel. In the middle stimuli, it is nearly flat. In the later stimuli, it starts high and falls into the vowel.
+
+The fourteen numbered patterns keep the following vowel alike and change only the onset of the upper transition.
+
+A rising transition is heard as /b/, a roughly flat one as /d/ and a falling one as /g/.
+
+Because only the transition differs, listeners’ responses can be tied directly to that transition rather than to an uncontrolled set of differences between natural syllables.
+
+Stop consonants and formant transitions · original lecture slide, page 13
+Original source page 13 · click to enlarge
+speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Constructing an evenly spaced speech continuum Must know · core review
+The noncategorical prediction for labeling Must know · core review
+The noncategorical prediction for discrimination Must know · core review
+Liberman · labeling boundaries and discrimination peaks Must know · core review
+Carrying out the categorical-perception demonstration
+Carrying out the categorical-perception demonstration · original lecture slide, page 18
+Original source page 18 · click to enlarge
+speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Comparing class identification and discrimination curves
+Individual boundaries and the class task
+Why class data can look noisy
+Why reduced sensitivity can help recognition Must know · core review
+Linking categorical perception to word knowledge
+Measuring infant speech discrimination
+Categorical perception in infants can be tested even though infants cannot name sounds. Researchers measure a behavior that changes when an infant notices something new.
+
+The conditioned head turn procedure, from Janet Werker’s infant studies lab, trains an infant to turn toward a sound when the sound changes. A correct head turn is rewarded with an interesting visual display, such as a moving toy.
+
+Once the infant learns this association, a head turn after a change provides evidence that the infant detected that change.
+
+The results of interest here come from high-amplitude sucking. In this method, the infant sucks on a pacifier connected to a recording device, and strong sucks trigger the presentation of a sound.
+
+When the same sound repeats, the infant gets used to it, a process called habituation, and the sucking rate drops.
+
+If a new sound causes sucking to increase again, the infant has noticed the change.
+
+Both methods make perception testable before an infant can speak.
+
+The experimenter controls exactly which sound difference is presented.
+
+The infant’s learned head turn or renewed sucking then reveals sensitivity to that difference without requiring an adult-style labeling task.
+
+Measuring infant speech discrimination · original lecture slide, page 24
+Original source page 24 · click to enlarge
+speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Eimas · categorical discrimination before words Must know · core review
+Perceptual narrowing across infancy Must know · core review
+Perceptual narrowing is the process in which experience tunes perception to the sounds of the surrounding language, while sensitivity to some distinctions from other languages declines. Werker and Tees tested how age and experience affect infants’ ability to discriminate two non-English contrasts.
+
+The Hindi contrast is a Hindi distinction between two “ta”-like sounds that English does not use.
+
+The Salish contrast is a distinction between “ki” and “qi” in Nthlakampx, a Salish language, which English also does not use.
+
+The bar graph gives the percentage of infants reaching the discrimination criterion at each age.
+
+At 6–8 months, English-learning infants did well, with about 95% meeting criterion for Hindi and about 80% for Salish.
+
+At 8–10 months, performance dropped, to about 67% for Hindi and about 52% for Salish.
+
+At 10–12 months, performance was much lower, near 20% for Hindi and near 10% for Salish.
+
+Hindi- and Salish-learning infants met criterion close to 100% for the contrast in their own language.
+
+These results are described as perceptual reorganization during the first year of life.
+
+Young infants can detect these nonnative contrasts.
+
+With experience of English, English-learning infants become much less likely to discriminate them by around their first birthday.
+
+Infants who hear the contrast in their own language keep strong discrimination, so the decline depends on language experience rather than age alone.
+
+Perceptual narrowing across infancy · original lecture slide, page 26
+Original source page 26 · click to enlarge
+speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+The initially broad perception account
+Separating early appearance from language specificity
+Cutting and Rosner · categories for nonspeech Must know · core review
+Cutting and Rosner (1974) tested categorical perception with non-speech sounds. The acoustic dimension was rise time, which is how quickly a sound reaches its full loudness after it begins.
+
+A sound with a rapid rise time sounds plucked, like a plucked string.
+
+A sound with a slow rise time sounds bowed, like a bowed string.
+
+The stimuli included sawtooth waves, sine waves and speech syllables, displayed as oscillograms with 10-millisecond and 70-millisecond rise times. An oscillogram tracks the shape of the sound wave over time.
+
+With a 10-millisecond rise, the waveform reaches full size almost immediately.
+
+With a 70-millisecond rise, the waveform grows gradually.
+
+Pluck and bow are perceptual labels for two kinds of onset. They are not phonemes.
+
+The results for sawtooth waves plot identification and discrimination against rise time from 0 to 80 milliseconds.
+
+Pluck responses start near 100% for short rise times and fall steeply around 30 to 50 milliseconds. Bow responses rise in the same region to near 100% at long rise times.
+
+Discrimination of pairs differing by 10 milliseconds stays around 55 to 60% for most pairs. It peaks near 75% for the pairs around 30 to 50 milliseconds, right where the labels switch.
+
+The relationship between a label boundary and improved discrimination therefore appears for a non-linguistic sound distinction.
+
+The physical continuum is gradual, but the preferred label changes over a narrow region and discrimination improves there.
+
+Listeners did not need to interpret the sounds as speech for this categorical pattern to appear.
+
+Cutting and Rosner · categories for nonspeech · original lecture slide, page 29
+Original source page 29 · click to enlarge
+speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Jusczyk · infant categories for nonspeech
+Jusczyk and colleagues (1977) tested whether infants show categorical perception of non-speech sounds. They used the high-amplitude sucking method to measure whether a change in sound was detected.
+
+Infants heard one sound repeatedly until their sucking declined.
+
+The sound was then shifted, and the change was compared across three conditions.
+
+The three conditions were no change, a change within categories and a change between categories. Each graph plots the mean number of sucking responses per minute, with time measured from the moment of the shift and a baseline rate marked “B.”
+
+In every condition, sucking started near 20 per minute and declined to about 12 before the shift as the sound became familiar.
+
+After no change, sucking stayed low, near 12.
+
+After a within-category change, sucking also stayed low.
+
+After a between-category change, sucking jumped back up to about 18 and then declined again as the new sound became familiar.
+
+Infants therefore responded more strongly to a non-speech change that crossed a category boundary than to a change within a category.
+
+This mirrors the pattern Eimas and colleagues found for speech.
+
+An ability appearing early in development does not prove that the ability works only on phonemes or only within language.
+
+Jusczyk · infant categories for nonspeech · original lecture slide, page 30
+Original source page 30 · click to enlarge
+speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Chinchillas categorize speech continua Must know · core review
+Categorical perception of speech sounds has also been found in chinchillas, following Ohlemiller and colleagues (1999) and the earlier work of Kuhl and Miller (1975). The animals were trained with operant conditioning, a form of learning in which consequences change how often a behavior occurs.
+
+The chinchillas learned that either the 0-millisecond lag stimulus or the 80-millisecond lag stimulus was an SD for food. SD stands for discriminative stimulus, which is a signal that a response will be rewarded.
+
+The lag refers to voice onset time. A 0-millisecond lag is heard by humans as /ga/, and an 80-millisecond lag as /ka/.
+
+After training, the chinchillas were tested with intermediate VOTs along the /ga/–/ka/ continuum.
+
+The graphs plot the proportion of stimuli labeled /ga/ against VOT from 0 to 120 milliseconds for two chinchillas and two human listeners. Separate curves compare a 0–80 millisecond continuum, a 0–120 millisecond continuum and stimuli with an enhanced burst.
+
+In every panel, /ga/ labeling stays near 1 for short VOTs and then drops steeply to near 0, mostly between about 30 and 70 milliseconds.
+
+The chinchilla curves have the same steep, categorical shape as the human curves, with the switch occurring over a fairly narrow range of VOTs.
+
+The comparison also varied the burst and aspiration noise of the stimuli. The burst is the brief noise at the release of a stop consonant, and aspiration is the breathy noise that follows a voiceless release.
+
+Increasing the intensity of the burst and aspiration noise shifted the category boundary to a shorter VOT, made the curve steeper, or both.
+
+This happened for one of the chinchillas and for one of the human listeners, so the two species were affected by these acoustic properties in a similar way.
+
+Animals without human language can therefore sort a speech continuum into categories, which argues against the view that categorical perception is special to human language.
+
+Chinchillas categorize speech continua · original lecture slide, page 31
+Original source page 31 · click to enlarge
+speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Some infant contrasts must become salient Must know · core review
+Some speech contrasts are less salient than others for infants. A salient contrast is one that is easy to notice. Infants do not start out equally sensitive to every distinction.
+
+The contrasts tested here differ in place of articulation, which is where in the mouth a sound is made.
+
+In [ma], the nasal is made with the lips. In [na], it is made with the tongue near the ridge behind the teeth. In [ŋa], the sound at the end of “sing,” it is made with the back of the tongue against the soft palate.
+
+The setup compared looking time on same trials, where the syllable did not change, with change trials, where it switched to the other syllable. Longer looking on change trials is evidence that the infant noticed the change. Error bars mark the standard error of each mean.
+
+At 4–5 months, English-hearing infants looked about 3.3 seconds on same trials and about 5.4 seconds on change trials for the native [ma]–[na] contrast.
+
+For the nonnative [na]–[ŋa] contrast, the same infants looked about 4.5 seconds on same trials and about 4.2 seconds on change trials. There was no increase for the change, and English does not use [ŋ] at the start of syllables.
+
+Filipino-learning infants hear [na]–[ŋa] as a contrast in their own language.
+
+At 6–8 months, their looking time was about 3.8 seconds on both same and change trials, so the change produced no detectable response.
+
+By 10–12 months, looking rose from about 3.3 seconds on same trials to about 4.8 seconds on change trials.
+
+Some contrasts therefore start out difficult for infants to hear, even when they are native. Experience with the language strengthens sensitivity to such contrasts over the first year. Development includes gains in sensitivity, not only the loss of sensitivity to nonnative contrasts.
+
+Some infant contrasts must become salient · original lecture slide, page 32
+Original source page 32 · click to enlarge
+speech_perception (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+02 · Speech perception · Words
+Spoken words and the lexical–phonetic interface
+Spoken words and the lexical–phonetic interface · original lecture slide, page 1
+Original source page 1 · click to enlarge
+speech_perception_II (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+A staged speech-perception model
+The beach–peach voicing continuum
+The beach–peach continuum is a familiar voicing continuum. The words differ in their first consonant, /b/ in beach and /p/ in peach, and the two consonants differ mainly in voice onset time, or VOT. VOT is the delay between the release of the lips and the start of vocal fold vibration.
+
+The spectrograms run from “peach” to “beach” along an arrow labeled shorter voice onset time.
+
+As VOT gets shorter, the gap between the release and the voicing bars at the bottom of the spectrogram shrinks. A long gap sounds like peach, and a short gap sounds like beach.
+
+In the identification results, a listener labels stimuli 1 through 5 consistently as one word.
+
+At stimulus 6, responses become mixed, with the proportion near 0.33, and this point is circled.
+
+From stimulus 7 onward, the listener consistently gives the other word.
+
+The category boundary is the narrow region where the preferred label switches.
+
+In the discrimination results, accuracy is near 0 for pairs inside one category.
+
+Accuracy jumps to 1 for pairs 4–6 and 5–7, which straddle the identification boundary.
+
+Pair 6–8 is intermediate, near 0.33, and accuracy falls back to 0 for pair 7–9.
+
+Equal physical changes are much easier to detect across the boundary than within a category.
+
+The beach–peach voicing continuum · original lecture slide, page 3
+Original source page 3 · click to enlarge
+speech_perception_II (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Thresholded transmission Must know · core review
+How does categorical perception happen? One answer is a threshold model. In a threshold model, activity is only passed forward from one level to the next when an activity threshold is crossed.
+
+A threshold is a set level of activity that must be reached before anything is sent onward.
+
+Activity below the threshold can change without having any effect on the next level.
+
+In this kind of model, categorical perception arises at phoneme identification.
+
+The feature activation graph plots voicing evidence over time. It swings up and down between a +voiced threshold line and a −voiced threshold line.
+
+The phoneme activation graph stays flat at zero for /b/ and /p/ while the feature activity is still swinging below threshold.
+
+Only when +voiced activity finally crosses its threshold does /b/ activation jump up abruptly at the end.
+
+The circled point in the beach–peach identification graph is the ambiguous stimulus with mixed responses.
+
+Under a threshold model, that stimulus either crosses a threshold or does not.
+
+The word level receives a finished /b/ or a finished /p/, not the history of uncertainty that came before.
+
+Two acoustically different inputs that both end up as /b/ become identical by the time they reach word recognition. The category is preserved, but the differences that existed before the threshold are discarded.
+
+Thresholded transmission · original lecture slide, page 4
+Original source page 4 · click to enlarge
+speech_perception_II (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Cascaded transmission Must know · core review
+The lumber-mill analogy
+Waiting for a completed representation
+The food-web analogy
+Testing thresholds against cascades
+McMurray · the visual-world method Must know · core review
+McMurray, Tanenhaus, Aslin and Spivey (2003) tested this question in a study titled probabilistic constraint satisfaction at the lexical/phonetic interface, published in the Journal of Psycholinguistic Research. They looked for gradient effects of within-category VOT on lexical access. Lexical access is the retrieval of a word from memory during recognition.
+
+Gradient means that an effect changes by degrees rather than switching all at once.
+
+Within-category VOT refers to differences in voice onset time between sounds that are all heard as the same phoneme.
+
+The study used identification of a /b/–/p/ continuum in a “visual world” display for eye-tracking. In the visual world method, listeners hear speech while looking at a display of pictures, and a camera records where their eyes move.
+
+Each display contained a target, such as pear, a competitor, such as bear, and two filler items, a lamp and a ship.
+
+The target and competitor differ only in their first consonant. The fillers are unrelated.
+
+Eye movements happen quickly and continuously while a word is being recognized.
+
+A listener can eventually choose bear after briefly looking at the pear.
+
+Those looks to the competitor reveal that the competing word received some support before the final choice. The method measures competition before the final click, including activity for a word that is eventually rejected.
+
+McMurray · the visual-world method · original lecture slide, page 10
+Original source page 10 · click to enlarge
+speech_perception_II (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+A categorical final choice
+Competitor looks reveal graded ambiguity Must know · core review
+Aligning looks with the category boundary Must know · core review
+How a cascade produces the eye-movement result
+Andruski · partial input can activate meaning Must know · core review
+There is evidence that partial activation can reach all the way to the lexical level, which is the level of stored words and their meanings. Andruski and colleagues (1994) found that semantic priming can occur even with nonwords. Semantic priming is the speed-up in responding to a word after hearing a word related in meaning.
+
+“Beace” primes “war.” Beace is peace with a voiced first consonant, and peace is related in meaning to war.
+
+“Ging” primes “queen.” Ging is king with a voiced first consonant, and king is related in meaning to queen.
+
+In the word-to-word items, altering the voicing of the first consonant of one real word produces another real word, as in “pet” becoming “bet.” One such item is “bill” priming “drug,” because bill is an altered form of pill.
+
+The setup used a lexical decision task, in which participants decide as quickly as possible whether a target is a real word. Primes were either unaltered, altered by reducing VOT by one third, altered by two thirds, or unrelated to the target.
+
+Black bars give mean reaction times for word-to-word items. Shaded bars give mean reaction times for word-to-nonword items.
+
+Faster reaction times than in the unrelated condition indicate priming.
+
+The results come from mean reaction times in milliseconds.
+
+Unrelated primes produce the slowest responses, near 950 to 970 milliseconds.
+
+Unaltered primes produce much faster responses, around 810 to 860 milliseconds.
+
+With one third of the VOT removed, responses stay fast, around 825 to 855 milliseconds.
+
+With two thirds removed, word-to-nonword items still stay fast, near 820 milliseconds, while word-to-word items slow to about 890 milliseconds.
+
+The interpretation is that lexical representations can be activated even by incomplete or imperfect input.
+
+Beace never becomes a real word, but it matches peace closely enough to partly activate it.
+
+That partial activation spreads to meaning and speeds recognition of war.
+
+Imperfect phonetic evidence therefore reaches the lexical and semantic levels, which fits cascaded processing.
+
+Andruski · partial input can activate meaning · original lecture slide, page 15
+Original source page 15 · click to enlarge
+speech_perception_II (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Why the threshold-only account struggles
+Adding lexical feedback Must know · core review
+Ganong · real words bias phoneme labels Must know · core review
+The Ganong effect is named after Ganong (1980), who looked at how phoneme identification is affected by word knowledge. The heading “Gisses and kifts for Valentine’s day” plays on the effect by swapping the voicing of the first consonants in “kisses and gifts.”
+
+The question is whether knowing which sound sequences form real words changes how an ambiguous sound is heard.
+
+Ganong created word/nonword pairs such as “corpse/gorpse.” One end of the continuum is a real word and the other end is a nonword.
+
+In corpse, the /k/ interpretation produces a familiar word.
+
+In gorpse, the /g/ interpretation produces something that is not a word.
+
+He built continua spanning the relevant phoneme boundary in 5-millisecond steps of VOT.
+
+The design combines uncertain phonetic evidence with a difference in lexical status.
+
+The rest of the word, “-orpse,” is the same at every step and tells the listener which beginning would complete a real word.
+
+If lexical knowledge affects identification, an ambiguous first consonant should more often be heard as the sound that makes a real word.
+
+The important test is in the ambiguous middle of the continuum. Recognizing an unmistakable word at the endpoints would not show any influence on phoneme categorization.
+
+Ganong · real words bias phoneme labels · original lecture slide, page 18
+Original source page 18 · click to enlarge
+speech_perception_II (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+The late-correction prediction Must know · core review
+The boundary-shift prediction Must know · core review
+Ganong's observed labeling curves Must know · core review
+TRACE · activation changes as speech unfolds
+Why the final /g/ favors plug Must know · core review
+TRACE and interactive activation
+Categories coexist with interaction Must know · core review
+From words to sentence ambiguity
+The cohort effect in spoken-word recognition Must know · core review
+Spoken word recognition is also very fast. Allopenna and colleagues (1994) used a visual world eye-tracking task to track how quickly candidate words become active.
+
+Participants saw a grid of pictures and geometric shapes and followed spoken instructions to move objects.
+
+The display included a beaker, the referent or target, a beetle, a speaker and a carriage.
+
+The pictures were chosen for their sound overlap with the target word beaker.
+
+Beetle is a cohort competitor because it shares the beginning of the word.
+
+Speaker is a rhyme competitor because it shares the ending of the word.
+
+Carriage is unrelated and shares no sounds with beaker.
+
+The graph plots the probability of fixating each item type over the first 1,000 milliseconds after the target word begins. The average target offset, the moment the spoken word ends, falls a little before 400 milliseconds.
+
+Looks to both beaker and beetle rise together early, starting around 200 milliseconds, because both fit the beginning.
+
+Looks to beetle peak near 0.2 around 500 milliseconds and then fall once the distinguishing sounds arrive.
+
+Looks to beaker keep climbing, passing 0.8 by about 800 milliseconds and approaching 1 by 1,000 milliseconds.
+
+Looks to speaker rise later and stay smaller, peaking near 0.1. Looks to carriage stay near zero.
+
+Fixations on the target start rising before the word has even finished.
+
+Recognition begins while the word is still unfolding.
+
+Correctly selecting beaker does not mean that beaker was the only word considered. Competitors that match the input at a given moment become active and then drop out when they stop matching.
+
+The cohort effect in spoken-word recognition · original lecture slide, page 27
+Original source page 27 · click to enlarge
+speech_perception_II (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Why the time course matters
+The eye-tracking data can be compared with a TRACE simulation of the same task. Two graphs plot the fixation probability or the predicted fixation probability from TRACE over 1,000 milliseconds after target onset.
+
+The left graph compares referent and cohort curves from TRACE and from real fixations.
+
+The right graph compares referent and rhyme curves from TRACE and from real fixations.
+
+The TRACE predictions closely match the eye-movement data.
+
+The referent curves from TRACE and from fixations both rise steadily from about 300 milliseconds and approach 1 by 1,000 milliseconds.
+
+The cohort curves rise early and peak near 0.17 to 0.2 around 500 milliseconds, then fall, in both the model and the data.
+
+The rhyme curves rise later and stay small, peaking near 0.1, in both the model and the data.
+
+The granularity of the simulation is fine-grained, meaning it predicts activity moment by moment.
+
+Eye movements give an idea of the changes in “activity” for different competitors over time.
+
+This makes it possible to see cognitive processing before a final response is given.
+
+This parallels the graded effects of category goodness in categorical perception.
+
+Sounds that are better or worse examples of a category produce different amounts of competitor activity, even when the final label is the same.
+
+A final answer alone cannot separate words that were never active from words that became active and then lost. The developing pattern of looks reveals how recognition reaches its result.
+
+Why the time course matters · original lecture slide, page 28
+Original source page 28 · click to enlarge
+speech_perception_II (1).pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+03 · Sentence processing
+Understanding sentences while they unfold
+Understanding sentences while they unfold · original lecture slide, page 1
+Original source page 1 · click to enlarge
+sentence_processing.pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+The horse raced past the barn fell Must know · core review
+“The horse raced past the barn fell” is a grammatical English sentence, even though it usually feels broken on first reading. The difficulty comes from how the beginning of the sentence leads the reader to build the wrong structure.
+
+Most readers first take raced as the main verb, so “the horse raced past the barn” seems to describe a complete event in which the horse did the racing.
+
+When fell arrives, there is no place left for it in that structure, and the sentence seems to fall apart.
+
+The sentence describes two events. Someone raced the horse past the barn, and the horse then fell.
+
+The intended meaning is “The horse that was raced past the barn fell.”
+
+In that reading, “raced past the barn” describes which horse is being talked about, and fell is the main verb that says what happened to it.
+
+The horse is the one that fell. It is not a second participant introduced by the last word.
+
+The sentence can be disambiguated by putting back the missing words, as in “the horse that was raced past the barn fell.”
+
+Adding “that was” makes the modifying relationship explicit, so raced can no longer be taken as the main verb.
+
+Sentence comprehension depends on assigning relationships among words, not only on recognizing their meanings. Here, one action belongs inside the description of the horse and the other is the main event.
+
+This sentence could fairly be called the sentence that launched a thousand experiments. It has been used again and again to study how readers build sentence structure as words arrive.
+
+The horse raced past the barn fell · original lecture slide, page 2
+Original source page 2 · click to enlarge
+sentence_processing.pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+What a garden path is Must know · core review
+A parser under memory and time constraints
+Minimal attachment Must know · core review
+Late closure and dynamite Must know · core review
+Why jewels create a processing cost Must know · core review
+An autonomous structural parser Must know · core review
+Reduced relatives are not always difficult
+There are problems with a purely syntactic explanation. One is that syntactically “difficult” sentences are not always difficult to parse.
+
+A table of examples gives sentences containing reduced relative clauses, with the verb that introduces each reduced relative written in capital letters.
+
+A reduced relative clause is a relative clause with the words “that was” or “that were” left out, as in “the horse raced past the barn fell.”
+
+The examples come from published research articles.
+
+“Thus, a noun phrase FOLLOWED by a MORPHOLOGICALLY AMBIGUOUS VERB … will be temporarily ambiguous,” from Trueswell, Tanenhaus and Garnsey (1994).
+
+“Referential information PROVIDED by the discourse is of no help,” from Britt, Perfetti, Garrod and Rayner (1992).
+
+“Recent research REPORTED by FERREIRA AND CLIFTON (1986) has demonstrated that syntactic processing is quite independent and that the initial syntactic analysis ASSIGNED to a sentence is little influenced by the semantic information ALREADY ANALYZED,” from Frazier and Rayner (1987).
+
+“The pattern of results OBTAINED with global reading times is reflected by differences LOCATED on the critical disambiguating phrase,” from Altmann and Steedman (1988).
+
+In every case, the capitalized verb begins a reduced relative with exactly the structure of the horse sentence. But these are not impossibly difficult sentences. Readers understand them without any feeling of being led down a garden path.
+
+In “recent research reported by Ferreira and Clifton,” reported describes research that someone reported. Research is not the one doing the reporting.
+
+The alternative argument, from MacDonald, Perlmutter and Seidenberg (1994), is that semantic factors and statistical regularities interact with parsing from very early on.
+
+Semantic factors concern meaning.
+
+Statistical regularities are patterns of how often words appear in particular structures.
+
+Under this view, the structure alone does not decide difficulty. Particular words and their familiar uses can support a reduced relative reading from the start.
+
+Reduced relatives are not always difficult · original lecture slide, page 9
+Original source page 9 · click to enlarge
+sentence_processing.pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Why the example table matters
+Research reported and the arrested burglar Must know · core review
+Spivey · an apple, a towel, and a box Must know · core review
+“World knowledge” can be very local. It can come from the immediate visual situation, not just from general knowledge. Spivey and colleagues (1995) tested this in a visual world task.
+
+Participants saw real objects, namely a pencil, a box, an empty towel, and an apple sitting on a towel.
+
+They heard the instruction “Put the apple on the towel in the box” and carried it out while their eye movements were recorded.
+
+With minimal attachment, “the towel” would temporarily seem like the end of the clause “put the apple on the towel.”
+
+On that reading, “on the towel” names the destination, the place the apple should go.
+
+In the intended reading, “on the towel” describes which apple to move, the one already on a towel, and “in the box” is the destination.
+
+People do seem to look at the empty towel while planning their movements, as though they are considering it as a target, before planning a movement to the box.
+
+The diagram of a typical sequence of eye movements, in the one-referent context with one apple, marks each look with a letter. A is a look to the apple, B is a look to the empty towel, the incorrect destination, and C is a look to the box.
+
+For the ambiguous instruction, the timeline puts A near 1,000 milliseconds, B shortly after, and C near 2,000 milliseconds.
+
+For the unambiguous instruction, “Put the apple that’s on the towel in the box,” the looks go from the apple, marked A′, straight to the box, marked B′, with no look to the empty towel.
+
+The listener recognizes every word correctly. The error comes from treating the location phrase as the destination, which briefly changes the planned action.
+
+Spivey · an apple, a towel, and a box · original lecture slide, page 12
+Original source page 12 · click to enlarge
+sentence_processing.pdf
+ Mark read
+Expand visual + transcript
+Review pages 18
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Two-referent context and initial attachment
+Adding a second apple Must know · core review
+What the context comparison shows Must know · core review
+Mouse trajectories and competing actions
+Brain responses to structural expectations
+The · starting the incremental sentence
+Pizza · establishing the noun phrase
+Was · opening a new structural expectation
+In · introducing a prepositional phrase
+The · expecting a noun after the preposition
+Eaten · a word-category violation
+The early left anterior negativity Must know · core review
+The early left anterior negativity, or ELAN, is an ERP response elicited by word class violations. An ERP, or event-related potential, is the pattern of electrical brain activity recorded from the scalp and averaged across many trials, time-locked to an event such as the onset of a word.
+
+A word class is a grammatical category, such as noun, verb or preposition.
+
+Some classic ELAN stimuli are word-category violations.
+
+“The pizza was in the eaten,” where a participle appears where a noun is expected.
+
+“The scientist criticized Max’s of proof the theorem,” where the preposition of appears where a noun is expected after “Max’s.”
+
+The ELAN has three main features.
+
+It is early, appearing about 100–200 milliseconds after the critical word.
+
+It is left and anterior, meaning it is strongest over the left front of the scalp. This location has raised the question of whether it is language-specific.
+
+It occurs specifically for word category violations, such as a noun when a verb is expected, or a preposition in place of a noun.
+
+The grand average ERPs from the syntactic-category violation condition overlay waveforms for correct and incorrect sentences at many electrode sites.
+
+At the left frontal sites, such as F7, 
+F
+3
+F 
+3
+​
+ , AL and SL, circled in red, the incorrect sentences produce an early negative deflection, shaded black, soon after the critical word.
+
+Gray shading marks a left frontal negativity, and dotted shading marks a positivity over the back of the head.
+
+The ELAN appears so quickly that it was taken as evidence for a very fast syntactic analysis that checks word categories before meaning is processed.
+
+The early left anterior negativity · original lecture slide, page 24
+Original source page 24 · click to enlarge
+sentence_processing.pdf
+ Mark read
+Expand visual + transcript
+My notes
+Saved in this browser
+One reminder, an example, or a question…
+
+Original slide text
+Early visual predictions and form typicality Must know · core review
+Perches and needs can change category
+Noun-like and verb-like forms
+Comparing form-based and syntactic expectations
+When a category violation produces the early effect Must know · core review
+The ELAN effect for nouns where a verb is expected is limited to cases where there is either syntactic information, meaning morphemes that indicate noun-ness, or statistical form-based information, meaning “nouniness,” that is physically available in the word. No effect was observed for neutral nouns like “infant” that lack strong cues.
+
+A morpheme is the smallest meaningful part of a word, such as the suffix that marks a noun.
+
+“Nouniness” is how much a word’s form resembles typical nouns, even without a noun suffix.

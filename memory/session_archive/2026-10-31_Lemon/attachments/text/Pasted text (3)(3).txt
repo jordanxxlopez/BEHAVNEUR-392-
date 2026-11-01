@@ -1,0 +1,596 @@
+Claude
+
+Save as PDF
+
+LING406 2026 - Lecture 14 Language Development Part I.pdf
+LING406 2026 - Lecture 14 Language Developmen
+t Part I
+.pdf
+PDF
+You are my teaching-note writer. Turn the lecture content I paste into long, detailed teaching notes written in a teaching-script style but formatted as structured notes.
+
+Since these slides have many slides everything must be in the order of the lecture and covered in detail!! IT WILL BE LONG, AND DETAILED BUT CANNOT BE SHORT
+
+THIS WILL REQUIRE 2 OUTPUTS
+SO OUTPUT 1 OF NOTES
+CONTINUE
+AND LAST OUTPUT 2 OF NOTES
+
+Start with exactly these 4 lines (match spelling, punctuation, and spacing exactly as provided):
+
+Course: <TITLE EXACTLY AS PROVIDED>
+Title of Lecture: <TITLE EXACTLY AS PROVIDED>
+Date: <DATE EXACTLY AS PROVIDED>
+Professor: <PROFESSOR EXACTLY AS PROVIDED>
+
+NON-NEGOTIABLE RULES
+
+Keep the exact same order as the source content. Do not rearrange topics.
+
+Do not say: “slide,” “slides,” “the lecture,” “in this lecture,” “the professor said,” “he said,” “she said,” “this slide shows,” or any slideshow narration.
+
+Skip ONLY true opening logistics such as: professor introductions, course announcements, reminders about assignments, and generic welcome statements. Cover EVERY concept, model, term, diagram description, study, pathway, and research finding that appears in the text — even if it seems tangential to the main topic. If the professor included it in the slides, it goes in the notes. Do not use your own judgment to decide something is unimportant and omit it. When in doubt, include it.
+
+However, the notes must be written so they flow naturally when spoken aloud, as if explaining the material to a class. The explanations should read like a smooth teaching script rather than fragmented bullet points.
+
+Do not include any meta commentary such as:
+
+“this slide shows”
+“in this lecture”
+“the professor said”
+“the slide explains”
+
+or any references to slides, lectures, or the act of presenting.
+
+Instead, write the notes as direct explanations of the material so they can be read out loud naturally while teaching.
+
+The result should be detailed, structured teaching notes that include everything from the source content but read like a clear, natural explanation of the material.
+
+Do not add brand-new topics. You may add clarifying explanations only for terms that already appear in the source content.
+
+Keep all scientist names, experiment names, dates, and values accurate to the source content.
+
+Never use arrow chains (→) or sequential symbol notation to depict multi-step processes. Instead, write each step as its own full sentence explaining what happens, what causes it, and what it produces or leads to. Every step in any sequence must be readable and understandable as spoken language without visual shorthand.
+
+NO METACOMMENTARY.
+
+Do not narrate what you are doing.
+
+Do not reference slides, structure, or how the notes are organized.
+
+Do not explain your reasoning process.
+
+STYLE I WANT (IMPORTANT)
+
+Write like real teaching notes that could be read aloud to classmates as a conceptual walkthrough.
+
+Bullets must read like a teaching script, meaning each main bullet should usually contain 2–5 full explanatory sentences.
+
+Sub-bullets should expand mechanisms, experiments, or logic using 1–3 full sentences each.
+
+Do NOT write shallow “term = definition” bullets. When a term appears, explain what it is, how it works, and why it matters.
+
+Each section must feel cohesive, with ideas building logically step-by-step.
+
+Mechanism rule: if the content describes a process, explain it as a clear cause → effect chain using nested sub-bullets.
+
+Experiment rule: if the content includes an experiment or test, explain the setup, observation, interpretation, and conclusion using nested sub-bullets.
+
+Define technical terms the first time they appear using clear language, then connect them back to circuit or behavioral function.
+
+Level: Advanced high school understanding. Use clear, direct language with minimal jargon.
+
+Use “we” naturally when explaining ideas, but do not overuse it.
+
+No fluff, no poetic language, no repetitive transitions, no “takeaway framing,” and no rhetorical prompts.
+
+Bold all headers and all truly important terms, mechanisms, named studies, equations, key relationships, and core concepts. Bold anything that is genuinely high-yield or conceptually central.
+
+NATURAL READABILITY AND EASY-TO-READ-ALOUD LANGUAGE (CRITICAL)
+
+The teaching notes must be academically rigorous and detailed while remaining natural, clear, and easy to read aloud. Write like a knowledgeable professor explaining complex material clearly to students, rather than a dense textbook or research paper. The writing should sound like natural spoken language without sacrificing scientific accuracy, conceptual depth, or important details.
+
+Use shorter, well-structured sentences that flow naturally when spoken aloud. Avoid unnecessarily long sentences that combine too many technical concepts, comparisons, or qualifications. When a sentence becomes difficult to follow, divide it into two or more complete, connected sentences.
+
+Avoid tongue-twister-like phrasing and overly complicated academic language. Do not use dense sentence structures, awkward word combinations, excessive jargon, or strings of abstract technical terms when simpler wording communicates the same scientific meaning.
+
+Preserve essential scientific terminology while simplifying the surrounding language. Keep the technical terms, named concepts, mechanisms, and experimental details that students need to learn. However, explain them using clear, accessible wording rather than surrounding them with unnecessarily complicated academic expressions.
+
+Avoid repetitive technical wording when natural alternatives improve readability. Do not repeatedly use the same scientific term within a sentence or across consecutive sentences when a simpler expression would be equally accurate. However, retain technical terminology whenever replacing it would change the scientific meaning.
+
+Use natural sentence structures and straightforward explanations. Prefer direct statements that clearly identify what happens, what causes it, and how different concepts relate. Avoid forcing multiple findings or relationships into one complicated sentence.
+
+Maintain smooth connections between sentences. Each sentence should naturally build on the previous one through the actual scientific relationship being explained. Do not use artificial transitions, presentation narration, rhetorical questions, or unnecessary introductory phrases to create flow.
+
+Balance sentence length naturally. Do not make every sentence extremely short, since this can make the writing sound choppy or robotic. Use a natural mixture of short and moderately long sentences while keeping each explanation easy to follow.
+
+Prioritize clarity without reducing detail. If an explanation is difficult to read, improve the sentence structure rather than removing information. Break complicated ideas into multiple connected sentences while preserving all relevant mechanisms, experimental conditions, findings, numerical results, and interpretations.
+
+Make each bullet understandable on the first reading. Students should be able to read the explanation aloud smoothly and understand the concept without having to mentally reorganize or translate the wording into simpler language.
+
+Keep the teaching-transcript style. The notes must still read like detailed explanations that a professor could naturally deliver to students. Do not turn them into simplified reference sheets, fragmented definitions, abbreviated summaries, or disconnected facts.
+
+ANTI-SPEECH-ERROR AND TONGUE-SLIP PREVENTION (CRITICAL)
+
+The teaching notes must be written to minimize unnecessary speech errors, tongue slips, stumbling, hesitation, and accidental word substitutions when read aloud. I should be able to teach directly from the notes without repeatedly stopping, correcting myself, or mentally rearranging the wording.
+
+This requirement is especially important because the notes are intended to be spoken aloud, not merely read silently.
+
+Avoid tongue-twister-like combinations of words. Do not place several words with similar sounds, repeated consonants, or difficult sound sequences next to each other when a more natural sentence would communicate the same information.
+
+Avoid unnecessary phonological repetition. When several consecutive words contain similar sounds or syllable patterns, consider whether the sentence can be rewritten to make it easier to pronounce.
+
+Reduce opportunities for tongue slips. Avoid awkward combinations of technical terms, repeated words, and complicated sentence structures that make it easy to accidentally exchange, omit, repeat, or substitute words while speaking.
+
+Avoid excessive alliteration and repeated consonant clusters. Do not create sentences that require rapid transitions between several similar or difficult sound combinations unless those words are scientifically necessary.
+
+Avoid unnecessarily long sequences of technical terminology. If several important scientific terms must appear together, distribute them across connected sentences so each term can be pronounced clearly.
+
+Use familiar grammatical structures. Prefer sentences with straightforward word order and clear relationships between subjects, verbs, and objects. Avoid complicated constructions that make the speaker lose track of what they are saying.
+
+Avoid sentences that require mentally correcting the wording while speaking. Every sentence should sound natural enough that I can read it aloud correctly on the first attempt.
+
+Reduce repeated sentence openings and awkward word combinations. Avoid patterns that make it easy to accidentally repeat a phrase or confuse one part of the sentence with another.
+
+Use natural speaking rhythm. Sentences should contain comfortable places to pause without interrupting the meaning. Do not pack too many names, numbers, technical terms, or qualifications into one continuous sentence.
+
+Keep related information together without overcrowding sentences. When a sentence contains several important findings, separate them into shorter, connected sentences rather than forcing everything into one complicated statement.
+
+Do not sacrifice scientific accuracy to avoid difficult pronunciation. Essential terminology, researcher names, experimental conditions, phonetic symbols, and technical distinctions must remain accurate.
+
+Preserve terminology related to psycholinguistics and speech production. If the material specifically concerns speech errors, tongue slips, phonological similarity, articulation, or other speech-related phenomena, retain the necessary terminology and examples. The anti-speech-error requirement applies to unnecessary difficulty in the surrounding writing, not to scientific content that must be learned.
+
+Avoid making the writing artificially simple or robotic. The goal is natural spoken fluency, not a series of disconnected short sentences. Maintain complete explanations and smooth connections between ideas.
+
+IMPORTANT DISTINCTION BETWEEN NECESSARY TERMINOLOGY AND UNNECESSARY SPEECH DIFFICULTY
+
+Avoid unnecessarily complicated wording:
+
+"Phonological similarity significantly increases susceptibility to speech production errors during sequential articulation."
+
+Prefer natural wording:
+
+"Speech errors are more likely when words contain similar sounds. These similarities can make it easier to mix up sounds while speaking."
+
+The preferred version communicates the relationship through natural sentences that are easier to pronounce and less likely to cause stumbling.
+
+However, if the source specifically discusses phonological similarity, speech production, or articulation, preserve those terms when they are necessary to explain the concept accurately.
+
+FINAL ANTI-SPEECH-ERROR REQUIREMENT
+
+Before finalizing each bullet, silently evaluate whether the sentence could cause an unnecessary tongue slip or speech error when spoken aloud.
+
+Pay particular attention to repeated sounds, awkward consonant combinations, difficult word sequences, excessive technical terminology, complicated grammar, and sentences that require several corrections or pauses to pronounce naturally.
+
+If a sentence is unnecessarily difficult to say, rewrite it using simpler word order, more natural phrasing, and shorter connected sentences.
+
+The goal is for every bullet to sound like something a knowledgeable professor could say naturally and confidently without stumbling over the wording. Preserve the scientific material while making the surrounding language as comfortable to speak as possible.
+
+EXAMPLE OF THE DESIRED WRITING STYLE
+
+Avoid overly complicated wording:
+
+"Discrimination sensitivity exhibits increased performance in proximity to categorical identification boundaries relative to within-category acoustic intervals."
+
+Prefer natural, scientifically accurate wording:
+
+"Discrimination is strongest near phoneme boundaries. Listeners are better at telling sounds apart when they fall into different categories than when they belong to the same category."
+
+The preferred version communicates the same scientific relationship using clearer sentences that are easier to understand and read aloud.
+
+FINAL READABILITY REQUIREMENT
+
+Before finalizing each bullet, silently check whether the explanation sounds natural when spoken aloud. If a sentence contains too many technical terms, complicated clauses, repetitive expressions, or awkward phrasing, rewrite it using clearer language and more natural sentence structures.
+
+Do not shorten the notes, remove important information, or reduce conceptual depth to improve readability. Instead, distribute complex explanations across multiple connected sentences.
+
+The goal is to preserve the full depth and detail of the original teaching notes while making every sentence clear, natural, scientifically accurate, and comfortable to read aloud.
+
+FORMAT (CRITICAL)
+
+Use simple topic headings for each topic shift, exactly like: Section 1: <short topic name>
+
+Under each heading, everything must be in bullet format (no paragraph blocks).
+
+Use sub-bullets whenever needed to prevent wall-of-text while preserving deep explanation.
+
+Use numbered lists only when the source itself presents a true stepwise sequence.
+
+Do not produce one-line bullets for major concepts; expand until the concept is genuinely taught.
+
+REQUIRED CONTENT PER TOPIC (NATURAL, NOT RIGID LABELS)
+
+For each topic, naturally include:
+
+what it is
+
+how it works
+
+key evidence or experiment when present
+
+important numbers or relationships
+
+why it matters for neural computation or behavior
+
+Do not artificially label these components; integrate them naturally into the explanation.
+
+LATEX + SCIENCE FORMATTING
+
+Use inline LaTeX for subscripts, superscripts, ions, charges, variables, and symbols.
+
+For any true equation or quantitative relationship, place it centered on its own line:
+
+.........
+
+Do not invent equations or values not present in the source content.
+
+Do not present the same expression in conflicting formats.
+
+Render the LaTeX. Don’t show the $$.
+
+Display equations in rendered math mode.
+
+Use display math formatting.
+
+Do not show raw LaTeX code.
+
+Center the equations properly.
+
+Use LaTeX display blocks, not literal $$ text.
+
+LENGTH + CONTINUE RULE
+
+Make the notes long and detailed, with enough explanation that they can be studied independently.
+
+If you reach a length limit OR there is more source content left to cover, stop only at a natural section boundary and output ONLY:
+
+[CONTINUE]
+
+OUTPUT RULE
+
+Output only the teaching notes (header + section headings + bullets and sub-bullets). No extra commentary.
+
+NO NON-INSTRUCTIONAL FRAMING: Every sentence must directly teach information contained in the source or provide a necessary clarification of a source concept. Remove roadmap language, transition commentary, figure-reading narration, takeaway framing, evaluative filler, and explanations of why a topic is being introduced. Do not write sentences such as “before getting to,” “the next step is,” “this helps us understand,” “reading the figure shows,” “the key point is,” “this sets up,” “from here,” “this becomes important later,” or similar phrases. Instead, state the actual concept, finding, relationship, mechanism, or evidence directly.
+
+NO STRUCTURAL OR PRESENTATION COMMENTARY: Do not include structural metacommentary, forward-looking commentary, presentation narration, figure narration, roadmap statements, transition framing, takeaway framing, or sentences whose main purpose is to guide the reader through the presentation. Do not announce what will be discussed next, explain why a topic is being introduced, tell the reader how to read a figure, or add sentences merely to connect one topic to another. A summary sentence is allowed only when it teaches or clarifies an important concept from the source. If removing a sentence would not remove any actual concept, mechanism, finding, definition, experimental detail, relationship, or evidence, remove it. For example, do not write “These factors give us a set of well-established effects that any model of word recognition must be able to explain,” because it does not teach any additional information. Move directly to the scientific or conceptual content.
+
+NATURAL TEACHING TRANSCRIPT STYLE
+
+Keep the notes written like a natural teaching transcript that I could read aloud while pretending to teach a class. The wording should flow naturally from sentence to sentence and sound like a real professor clearly explaining the material to students, while still using bullet and sub-bullet structure. Do not turn the notes into a reference sheet, fragments, choppy definitions, or robotic fact lists.
+
+Use complete, natural sentences and explain concepts in a way that sounds normal when spoken aloud. NO AI-sounding filler, forced transitions, fake enthusiasm, poetic language, motivational language, or unnecessary phrases about “understanding,” “appreciating,” or “seeing why something matters.” Do not narrate the teaching process with phrases such as “now let’s look at,” “next we have,” “as you can see,” “remember that,” or “this is important to understand.” Move naturally between ideas by explaining the actual scientific relationship between them.
+
+The notes should sound like I am directly teaching the material to students, not like I am reading a slideshow, summarizing a textbook, or giving a presentation about the material. Keep the language clear, human, conversational enough to read aloud, and scientifically accurate without becoming overly casual.
+
+NO ILLUSTRATIVE FRAMING
+
+Do not describe an example, image, or graph as "illustrating," "demonstrating," or "showing" a concept. Do not write sentences structured as "This illustrates that...," "This demonstrates...," or "This shows that..." — these describe the example instead of teaching its content. State the concept, relationship, or fact directly, using the specific numbers, labels, or forms from the example as the evidence, without narrating that the example is functioning as an illustration. Do not open a sentence with "A [graph/image/example] is shown/given that..." — start with the content itself instead of announcing that an illustration exists. Do not close a section with a sentence that restates what the preceding material "demonstrates" or "shows" in general terms; if a closing sentence adds no new fact, cut it.
+
+NO ATTENTION-DIRECTING LANGUAGE
+
+Do not use phrases that narrate a shift in focus or attention, such as "attention now turns to," "we now turn to," "our focus shifts to," "we now consider," "let's turn to," "moving on to," or similar. When a new topic begins, start directly with the actual content, definition, or fact — the bolded section heading already signals the topic change.
+
+NO NARRATION OF THE WRITING PROCESS ITSELF
+
+Never write a sentence whose subject is the notes, the explanation, the topic, or the reader's attention/focus rather than the actual scientific or linguistic content. Any sentence structured as "X turns to Y," "X shifts to Y," "X is illustrated by Y," "X is demonstrated by Y," or "we now consider Y" should be rewritten so that the real content is the subject, stated as a direct fact.
+
+Decorative images: If an image is only illustrative or decorative and adds no instructional information beyond what the text already states, do not mention or describe it at all. This applies to any image whose only role is to accompany a topic, regardless of its subject, style, or content, and Claude should not write sentences that describe how such an image looks. Teach only the concept the text states. Mention an image only when it carries instructional content that is not in the text, such as stimuli, task materials, graphs, data displays, diagrams, models, brain images, or labeled structures. In that case, teach the content directly without describing the image as an image.
+
+SELECTIVE FIGURE, GRAPH, AND DIAGRAM EXPLANATIONS (CRITICAL)
+
+Analyze figures, graphs, diagrams, images, and other visual material to identify the scientific information they contain, but do not automatically explain every visual in extensive detail. The purpose of the teaching notes is to teach the underlying concepts, mechanisms, experimental findings, and important relationships, not to provide a complete visual description of every figure.
+
+Only explain a figure in detail when its specific information is necessary to understand the concept, experiment, mechanism, or research finding being taught. If a figure simply reinforces something that has already been explained clearly, do not repeat the same information or create an additional explanation just because the figure is present.
+
+Prioritize scientific meaning over visual description. Focus on what the figure teaches about the concept rather than describing every visible feature, label, curve, color, or measurement.
+
+Use figures selectively. If a figure contains important experimental results, meaningful comparisons, mechanisms, or relationships that are not explained elsewhere, incorporate those findings into the notes. If it merely provides another visual example of an already established concept, additional explanation is unnecessary.
+
+Do not explain every individual data point or visual element. For graphs containing multiple curves, conditions, categories, or measurements, explain the overall pattern and the comparisons that matter. Include individual values only when they are necessary for understanding the finding or when the source specifically emphasizes them.
+
+Avoid excessive numerical descriptions. Do not list every frequency, coordinate, percentage, time point, or measurement simply because it appears in a figure. Preserve values that are scientifically meaningful, necessary for interpreting the results, or central to the concept being taught.
+
+Do not turn figures into lengthy visual walkthroughs. Avoid describing the location, appearance, arrangement, or progression of every element unless those details are essential to understanding the scientific content.
+
+Integrate important visual information into the relevant teaching bullets. Do not automatically create separate paragraphs or sections for every figure. Explain the findings naturally within the discussion of the corresponding concept.
+
+Avoid repeating information. If the text already explains a scientific relationship and the figure presents the same relationship, explain it once using whichever information makes the concept clearest.
+
+Adjust the level of detail to the figure's instructional importance. A complex experimental graph containing the main findings of a study may require several explanatory sentences. A simple diagram reinforcing a definition may require only one sentence or no additional explanation.
+
+Do not force explanations of decorative or redundant visuals. If an image contributes no new scientific information and is unnecessary for understanding the material, omit it entirely.
+
+Preserve essential evidence. Do not omit important experimental findings, meaningful trends, critical comparisons, or numerical results simply to avoid discussing figures. The goal is selective explanation, not the removal of scientific evidence.
+
+IMPORTANT DISTINCTION BETWEEN TEACHING AND DESCRIBING
+
+Avoid unnecessarily detailed visual descriptions such as:
+
+"The first curve has a peak near 400 Hz, while the second peak appears around 2300 Hz. The next curve has a slightly higher first peak, and the third curve moves downward across the frequency scale."
+
+Instead, explain the scientific relationship directly:
+
+"Vowel sounds differ in their formant frequencies, which depend on the shape of the vocal tract. The first formant is closely related to tongue height, while the second formant is related to how far forward or backward the tongue is positioned."
+
+The preferred explanation teaches the underlying relationship without requiring an unnecessary description of every individual curve.
+
+FINAL FIGURE EXPLANATION RULE
+
+Before including information from a figure, determine whether that information contributes something necessary to understanding the scientific concept, mechanism, experiment, or finding.
+
+If the figure contains essential information, explain that information clearly and in sufficient detail.
+
+If the figure is redundant, decorative, or provides unnecessary visual detail, do not explain it.
+
+If only part of a figure is important, explain only that part.
+
+The notes must remain long, detailed, and comprehensive, but their depth should come from teaching scientific concepts and experimental findings rather than exhaustively describing every figure, graph, or image.
+
+SELECTIVE USE OF NUMBERS, MEASUREMENTS, AND QUANTITATIVE DETAILS (CRITICAL)
+
+Do not automatically include every number, measurement, frequency, percentage, coordinate, duration, stimulus number, or numerical value that appears in the source material.
+
+The purpose of the teaching notes is to understand the scientific concepts, mechanisms, experiments, and findings. Numerical information should support that understanding rather than make the explanations unnecessarily complicated or difficult to remember.
+
+Only include exact numerical values when they are genuinely important for understanding the concept, interpreting the experiment, explaining the findings, or preserving a scientifically meaningful distinction.
+
+Prioritize scientific relationships over exact measurements. When the main finding concerns an increase, decrease, difference, similarity, or relationship between variables, explain that relationship clearly rather than listing every numerical value.
+
+Do not list numbers simply because they appear in the source. A figure may contain dozens of frequencies, percentages, time points, or measurements. Include only the values that contribute meaningfully to understanding the material.
+
+Preserve important experimental numbers. Keep numerical values when they define an experimental condition, establish a meaningful comparison, support an important conclusion, or are necessary to understand the study.
+
+Preserve essential statistical findings. If a statistical result is central to the interpretation of an experiment, include the relevant value. Do not automatically include every statistical detail when the important conclusion can be explained accurately without it.
+
+Avoid unnecessary precision. Do not include decimal places or highly specific measurements when the exact precision contributes nothing to the scientific explanation.
+
+Use qualitative descriptions when appropriate. Terms such as higher, lower, faster, slower, more accurate, less accurate, or approximately equal may communicate the important relationship more clearly than a long sequence of numbers.
+
+Do not overload sentences with numerical information. When several important numbers must be included, distribute them across natural sentences so they remain easy to understand and read aloud.
+
+Avoid repeating numerical information. If a value has already been explained and does not need to be repeated, refer to the established relationship instead.
+
+Keep numbers that are necessary for exam preparation. Preserve values that the source clearly emphasizes, that distinguish experimental conditions, or that students may reasonably need to know to interpret the findings.
+
+Do not replace meaningful quantitative differences with vague descriptions. If the size of a difference matters scientifically, explain it using the relevant numbers rather than simply saying that one condition was different from another.
+
+Maintain numerical accuracy. Whenever a number is included, preserve its meaning and accuracy. Do not invent, alter, or round values in ways that change the scientific interpretation.
+
+IMPORTANT DISTINCTION BETWEEN NECESSARY AND UNNECESSARY NUMBERS
+
+Avoid excessive numerical descriptions such as:
+
+"The first formant was approximately 400 Hz, the second formant was approximately 2300 Hz, and the third formant was approximately 2750 Hz. In another vowel, the first formant increased to approximately 800 Hz while the second formant decreased to approximately 1650 Hz."
+
+When the exact measurements are not necessary, prefer:
+
+"Vowels differ in their formant frequencies because the tongue and vocal tract change shape during speech. The first formant generally increases as the tongue lowers, while the second formant decreases as the tongue moves farther back."
+
+The preferred version explains the scientifically important relationships without requiring students to memorize or pronounce several unnecessary measurements.
+
+However, if an experiment specifically investigates a numerical threshold, a measured difference, a statistical result, or a particular quantitative relationship, preserve the relevant numbers.
+
+FINAL NUMERICAL DETAIL REQUIREMENT
+
+Before including a numerical value, silently determine whether knowing that exact number is necessary to understand the concept, experimental design, scientific relationship, or research finding.
+
+If the exact number is important, include it and explain what it means.
+
+If the number is merely descriptive, incidental, or unnecessary for understanding the material, omit it.
+
+If a general comparison communicates the same scientific information accurately, use that comparison instead.
+
+The notes must remain scientifically rigorous and detailed, but they should not become lists of measurements or numerical descriptions that distract from learning the actual material.
+
+EXPLAIN DEPTH WITHOUT ADDING OUTSIDE INFORMATION
+
+Teach each point in the source by explaining what it says in more depth, but only where the source gives something worth unpacking. If a term, number, label, example, or step needs explaining to be understood, explain it where it appears. If the meaning is already clear, do not force an explanation, and do not follow a fixed order or template for every point. Going into depth means explaining the source's own content more fully. It does not mean bringing in outside facts, studies, examples, or interpretations that the source does not contain.
+
+NO REFERENCE-SHEET STYLE
+
+Do not compress source points into one-line restatements, stacked fragments, or lists of short facts. Write each point as connected, complete sentences that a professor could say aloud, and state the reasoning between ideas when the source provides it. If a bullet could be copied onto a cheat sheet unchanged, expand it with the source's own details, but only as far as the source supports.
+
+LONG AND DETAILED NOTES IN THE ORDER OF THE SLIDES! do not summarize or generalize instead teach NO METACOMMENTRY DO IT HERE NOT A DOWLOAD i will write continue! and there needs to be 2 outputs! IN TEACHING TRANSCRIPT STYLE! NOT A REFERENCE SHEET STYLE MUST BE IN THE ORDER OF THE SLIDES DO NOT DO DEEP DIVE SECTION OR SUMMARY SECTIONS IF NOT NEEDED BUT STOP ONCE YOU REACH THE END OF THE LAST SLIDE AND HAVE TAUGHT ALL THE MATERIAL
+
+Make sure to analyze all instructional images, figures, graphs, and diagrams to identify their relevant scientific content, but only explain what is necessary to understand the concepts, mechanisms, experiments, and findings. Do not describe every visual or include unnecessary measurements, labels, or details. If a figure is redundant or adds nothing essential to the explanation, omit it. Maintain complete coverage of the scientific material without excessive figure narration or metacommentary!
+
+FINAL PRIORITY: The teaching notes must preserve the full scientific and conceptual depth of the source while remaining natural, clear, and comfortable to speak aloud. Avoid unnecessary numerical details, complicated sentence structures, tongue-twister-like wording, and phrasing that increases the likelihood of speech errors. Keep essential scientific terminology and important quantitative findings accurate. The goal is to produce detailed teaching notes that I can read aloud confidently, smoothly, and naturally without repeatedly stumbling over the language
+
+Course: LING/PSYC 406 Psycholinguistics
+Title of Lecture: Language Development I: Speech Perception
+Date: 10/8/2026
+Professor: Jason Zevin
+
+Read a file
+2fee69f8-LING406_2026_-_Lecture_14_Language_Development_Part_I.pdf
+
+Read a file 2fee69f8-LING406_2026_-_Lecture_14_Language_Development_Part_I.pdf
+Course: LING/PSYC 406 Psycholinguistics
+Title of Lecture: Language Development I: Speech Perception
+Date: 10/8/2026
+Professor: Jason Zevin
+
+Section 1: Nature and Nurture in Child Language
+
+Nativist positions on child language build on Chomsky’s critique of Skinner. The central claim is that the most important feature of language is its generativity. Speakers can produce and understand sentences they have never heard before, so language cannot be a stored list of sentences that were learned one at a time.
+On this view, acquiring a language means identifying the abstract grammar that produces the sentences of that language. A child is not memorizing sentences. A child is working out the system that generates them.
+Nativists argue that the general learning mechanisms studied by behaviorists were not up to this task. They give two reasons.
+Grammatical and ungrammatical sentences are not “similar” in any simple way. A learning mechanism that works by generalizing from similarity would have no easy basis for separating allowed sentences from disallowed ones.
+The context in which children acquire language does not look like operant conditioning. In operant conditioning, behavior changes because of rewards and punishments that depend on what the learner does. For language acquisition, these reward and punishment contingencies do not hold.
+Nativist approaches instead assert two things.
+The first is innate knowledge of what language is like, which is called Universal Grammar. The child begins with knowledge about the general form that human languages take.
+The second is language-specific acquisition processes. These are learning mechanisms dedicated to language rather than shared with other kinds of learning.
+The argument rests on a fact about children. All normal children acquire essentially comparable grammars of great complexity with remarkable rapidity. This suggests that human beings are somehow specially designed to do this. The design includes a data-handling, or “hypothesis-formulating,” ability of unknown character and complexity.
+Section 2: Categorical Perception
+
+Categorical perception is a pattern in which listeners treat sounds that change gradually as members of distinct categories. The classic demonstration used a series of synthetic syllables that differed in small, equal acoustic steps. The steps were changes in the formant transition, the quick movement of the formant at the start of the syllable. Along this series, listeners hear the syllables as b, then d, then g.
+In the labeling (identification) data, listeners do not hear a gradual blend from one consonant to the next. Instead, the labels switch abruptly from one category to another. Within each category, nearly every stimulus receives the same label. The change in labeling happens over only a step or two.
+The discrimination data come from tasks in which listeners judge whether two stimuli are the same or different. The two stimuli are separated by one, two, or three steps along the series.
+Accuracy is low when both stimuli come from the same category, even though they differ acoustically.
+Accuracy is high when the two stimuli fall on opposite sides of a category boundary.
+The predicted discrimination curve is the performance expected if listeners could only tell stimuli apart by their labels. The obtained curve follows these predicted peaks closely. Listeners are therefore sensitive to differences that cross a category boundary and relatively insensitive to equal-sized differences inside a category.
+Early theories treated categorical perception as language-specific and species-specific. Only humans were known to show it, and only for speech sounds.
+Categorical perception is a compelling example of how similarity between stimuli is defined in linguistic terms rather than physical terms. Two pairs of sounds can be equally far apart acoustically. One pair sounds identical because both sounds belong to one category. The other pair sounds different because the sounds belong to two categories.
+Section 3: Categorical Perception in Infants: Methods
+
+Testing infants requires methods that do not depend on spoken answers. Two methods are used in the studies covered here.
+The conditioned head turn procedure is associated with Janet Werker. The infant is trained to turn the head when a change in the sound occurs. The head turn is the response that indicates the infant has detected a difference between sounds.
+High amplitude sucking records how strongly and how often an infant sucks. The sucking rate is tracked over time, so changes in interest can be measured as changes in sucking. The pictured trace of sucking bursts comes from an unrelated paper by Rochat and Striano (2001). It is included only as an example of the recording method.
+Section 4: Eimas et al. (1971): Categorical Perception in Four-Month-Old Infants
+
+Voice onset time (VOT) is the cue that separates sounds such as /b/ from /p/, or /d/ from /t/. It is the delay between the release of the consonant and the start of voicing. In the example stimuli, a voicing delay of +10 msec shows the voiced vibration starting almost immediately after the release. A delay of +100 msec shows a long stretch before voicing begins, with noise filling that gap.
+The main experiment tested infants in three conditions at each of two age levels. The results for the 4-month-old infants are the data discussed here.
+In the first condition, called 20D, the two stimuli differed by 20 msec of VOT and came from different adult phonemic categories. Their VOT values were +20 and +40 msec.
+In the second condition, called 20S, the VOT difference was again 20 msec. Now both stimuli came from the same phonemic category. Their values were −20 and 0 msec, or +60 and +80 msec.
+The third condition, called 0, was a control condition. These infants heard no change in the sound at all.
+The measure was the mean number of sucking responses over time. The letter B marks the baseline rate of sucking before the sounds began. The vertical dashed line marks the moment of the stimulus shift. In the control group, the dashed line marks the time when a shift would have occurred.
+Before the shift, all three groups followed the same pattern.
+Sucking rose well above baseline while the infants listened to the repeated sound.
+Sucking then declined steadily as the same sound continued. This decline reflects the infants getting used to the sound.
+After the shift, the groups differed.
+In the 20D group, sucking stayed high after the shift. The infants responded as though they had noticed a new sound.
+In the 20S group and the 0 control group, sucking kept declining. The 20 msec change within a single category produced no clear recovery, and the control group had no change at all.
+The interpretation is that four-month-old infants detect a 20 msec difference only when the two sounds belong to different adult categories. The same 20 msec difference inside one category does not produce a detectable change. This is the same pattern that adult listeners show, and it appears in infants who have no experience with language production.
+Section 5: Why Categorical Perception in Infants Was Considered Important
+
+Categorical perception was considered to be the first step in turning speech into a symbolic format that later linguistic processes could use. The continuous, variable sound signal becomes a set of discrete categories. Later stages of language processing can then work with those categories.
+Four-month-olds are very young. Their gross motor milestones include manipulating objects with two hands and holding the head and chest up while lying face down. Their color vision and general visual acuity are still developing.
+At this age, infants are just starting to produce vowel-like sounds instead of creaky whines. Their own speech production is only beginning.
+An apparently language-specific ability that appears this early in development seemed like evidence for innateness. The ability is present before the infant has had much chance to learn from speaking or from the sounds of the environment.
+Section 6: Perceptual Narrowing for Speech Categories
+
+The Werker and Tees study (1984) tested how age and experience affect infants’ ability to discriminate non-English contrasts. The two contrasts were a Hindi contrast (ta versus ta, written Ta/ta) and a Salish contrast (ki versus qi, written ki/qi). Neither contrast is used in English.
+At around six months, English-learning infants show evidence of discriminating speech contrasts they have never heard before. Most of the infants aged 6 to 8 months reached the discrimination criterion for both contrasts.
+Over the course of development, the ability to perceive these contrasts declines.
+By 8 to 10 months, only about half to two-thirds of the English-learning infants reached the criterion.
+By 10 to 12 months, only a small proportion did.
+Infants who are learning Hindi or Salish reach the criterion at nearly every age. The decline therefore belongs to infants who are not exposed to those contrasts. It does not come from a general decline in hearing.
+This pattern is called perceptual narrowing. Sensitivity to contrasts that the native language does not use becomes weaker during the first year of life.
+Section 7: The Compelling Narrative
+
+The story built from these findings has several connected parts.
+Speech perception depends on categorical perception abilities that are a special property of the language system.
+These abilities are present very early in development.
+Children start off as “citizens of the world.” They can hear all contrasts, which means they have innate, language-general knowledge about speech.
+They then rapidly tune their perceptual systems to the specific language in their environment.
+On this account, the role of learning is limited. Learning selects among the many possible innately specified phonetic contrasts. It narrows the inventory down to the contrasts that are meaningful in the child’s native language.
+This account fits the nativist position from the start of the material. The categories are provided by the child’s biology. Experience decides which of the provided categories stay in use.
+Section 8: Some Problems for This View
+
+The account has problems on two fronts. Some concern categorical perception itself, and one concerns infant speech perception.
+Categorical perception is not limited to language. Categorical patterns appear for sounds that are not speech. If the pattern appears for non-speech sounds, it cannot be a special property of the language system.
+Categorical perception is not limited to humans. Other species show categorical patterns too, including for speech sounds. The early claim that only humans show categorical perception does not hold.
+Categorical perception is task-dependent. Whether a categorical pattern appears depends on the task listeners perform. It is therefore not a fixed, automatic property of how sounds are perceived.
+Infant speech perception is not actually “universal.” Infants do not start out able to hear every contrast equally well. Some contrasts are harder for infants than others, even before language experience has had any effect.
+Section 9: Categorical Perception of Non-Speech Sounds (Cutting and Rosner, 1974)
+
+Cutting and Rosner (1974) tested categorical perception with non-speech sounds. They compared three types of stimuli: sawtooth waves, speech syllables, and sine waves. Each type came in versions with a 10 msec rise time and a 70 msec rise time.
+Rise time is how quickly the sound builds up to its full loudness. A short rise time gives a sudden onset. A long rise time gives a gradual onset.
+With the sawtooth waves, listeners labeled the sounds as either pluck or bow.
+Sounds with short rise times were labeled as plucks.
+Sounds with long rise times were labeled as bows.
+The labels switched sharply in the middle of the range, much as the labels switch from one consonant to another in speech.
+The discrimination results follow the same pattern as the speech results. Listeners were most accurate when the two sounds being compared fell on opposite sides of the pluck and bow boundary. Accuracy was lower when both sounds came from the same side. The sounds are not speech, yet they are perceived categorically.
+Section 10: Categorical Perception of Non-Speech Sounds by Infants (Jusczyk et al., 1977)
+
+Jusczyk et al. (1977) tested infants with non-speech sounds using the high amplitude sucking method. The question is whether infants perceive categories in non-speech sounds the way they do for speech.
+There were three conditions.
+In the no change condition, the infants heard the same sound before and after the shift.
+In the within categories condition, the sound changed to a different sound from the same category.
+In the between categories condition, the sound changed to a sound from a different category.
+The measure was the mean number of sucking responses over time, with baseline marked as B and the stimulus shift marked by the vertical dashed line. In all three groups, sucking declined over the minutes before the shift.
+After the shift, the groups differed.
+Sucking stayed low in the no change group.
+Sucking stayed low in the within categories group.
+Sucking recovered in the between categories group. These infants responded as though they noticed a new sound.
+Infants therefore perceive categories in non-speech sounds. Recovery depends on whether the sound crossed a category boundary, and the size of the physical change is not the deciding factor. This is the same pattern seen with speech in Eimas et al. (1971). The infant result does not require a mechanism specific to language.
+Section 11: Categorical Perception of Speech Sounds by Chinchillas (Ohlemiller et al., 1999; see also Kuhl and Miller, 1975)
+
+Ohlemiller et al. (1999, Behavioral Brain Research) tested speech sounds in chinchillas. Kuhl and Miller (1975) is a related earlier study. The question is whether an animal that does not speak perceives speech sounds categorically.
+The chinchillas were trained using operant conditioning. For each animal, either the 0-lag stimulus or the 80 msec-lag stimulus served as an 
+S
+D
+S 
+D
+  for food. An 
+S
+D
+S 
+D
+ , or discriminative stimulus, is a signal that tells the animal that a response will be rewarded. The animals learned to respond to one end of the VOT continuum for food and to withhold that response for the other end.
+After training, the animals were tested with stimuli from the /ga/ to /ka/ continuum, which varies in VOT. The data are plotted as the proportion of trials labeled /ga/. The curves are steep, running from nearly all /ga/ responses at short VOTs to nearly none at long VOTs. This is the identification pattern that human listeners show.
+The animals’ category boundary falls at a VOT similar to the boundary for human listeners. The curves for two chinchillas (Animals C1 and C3) and two human listeners (Subjects S3 and S4) show the same overall shape.
+Increasing the intensity of the frication burst and the aspiration noise (the enhanced burst stimuli) shifted the category boundary to a shorter VOT and/or increased the slope of the curve. This happened for one animal and for one human listener. The same acoustic change therefore affects the boundary in both species.
+Chinchillas are not humans, and speech is not part of their natural environment. They nonetheless show categorical perception for speech sounds. The early claim that categorical perception is species-specific does not hold.
+[CONTINUE]
+
+contine
+
+Section 12: Some Contrasts Are Less Salient Than Others for Infants
+
+Narayan et al. (2010) tested a place contrast for nasals in word-initial position. The contrast is between /na/ and /ŋa/, where /ŋ/ is the sound at the end of the English word “sing.” This contrast is not readily perceived by four-month-olds, independent of language experience.
+The measure was looking time. Infants heard a series of repeated sounds, and the test compared looking time on same trials with looking time on change trials. If an infant notices the change, looking time on change trials is longer.
+English-hearing infants aged four to five months looked longer on change trials for [ma] versus [na]. This is a native contrast, and it was relatively salient.
+The same infants showed no clear difference between same and change trials for [na] versus [ŋa]. This is a non-native contrast for English, and the infants did not notice the change.
+The infants who failed to notice the change had not yet lost sensitivity through experience. The difficulty belongs to the contrast itself. This is why infant speech perception is not actually universal.
+Section 13: Exposure Increases the Salience of the Contrast (Narayan et al., 2010)
+
+The same study tested Filipino-learning infants at 6 to 8 months and at 10 to 12 months. For these infants, the [na] versus [ŋa] contrast is a native contrast, since it is used in their language environment.
+The younger group, aged 6 to 8 months, showed no clear difference in looking time between same and change trials. The older group, aged 10 to 12 months, looked longer on change trials. The older infants noticed the change.
+Between 6 and 10 months, exposure to this contrast in a Filipino language environment increases its salience. The contrast was hard for four-month-old English-hearing infants. It becomes easier for infants who hear it regularly in their environment.
+It therefore cannot be the case that all speech contrasts are available innately. Exposure to contrasts in the environment is necessary for acquisition in some cases. Learning does more than select from a ready-made set. For some contrasts, learning builds the ability to perceive the difference.
+Section 14: The Alternative to the Nativist Approach
+
+Emergentist approaches assume that associative learning mechanisms are sensitive to statistical regularities in the environment. The structure of language is not supplied in advance. It emerges from what the learner experiences, through mechanisms that detect patterns in the input.
+The classic example of associative learning is conditioning. The pictured circuit has three parts: a bell unit, a food detector unit, and a salivation unit. The connection from the bell to the salivation unit is labeled as the synapse to be strengthened.
+Food reliably activates salivation.
+When the bell sounds at the same time as the food, the connection between the bell and salivation is strengthened.
+After enough pairings, the bell alone can activate salivation.
+The emergentist idea extends this kind of learning beyond conditioning to support learning for pattern recognition. The same principle, in which connections are strengthened by regularities in what is experienced, can apply to the patterns found in speech sounds.
+Section 15: Learning the Statistics of Speech Sound Distributions
+
+The distribution of American vowels can be plotted in a vowel space that is determined by the first and second formants. Each point is one production of a vowel. The first formant is plotted along the horizontal axis, and the second formant along the vertical axis.
+Each vowel forms a cloud of points, and each cloud is surrounded by an outline. The clouds for different vowels overlap with their neighbors. This overlap is why speech categorization is difficult. A single sound can sometimes fall within the range of more than one vowel.
+When Kuhl and others talk about learning the statistics of distributions in the environment, they mean patterns like these. The learner hears many tokens of each vowel. The tokens cluster in particular regions of the vowel space.
+One possibility is that we learn the vowels of our language by extracting the statistics of these distributions.
+Under this idea, a “prototypical” /a/ is the mean (or mode) of the distribution of all the /a/ sounds we hear. The prototype is not stored as an innate template. It is the center of what has been heard.
+Section 16: Evidence for Distributional Learning (Maye et al., 2002)
+
+Maye et al. (2002, Cognition) tested whether anything like this actually happens. They had infants listen passively to two distributions of voice onset time along an eight-step continuum from [da] to [ta]. Step 1 is the endpoint [da] stimulus, and step 8 is the endpoint [ta] stimulus.
+The two distributions differed in how often each step occurred during familiarization.
+The dashed line marks a bimodal distribution. Steps near the two ends of the continuum occurred most often, with a dip in the middle. The input therefore provided evidence for two different categories.
+The solid line marks a unimodal distribution. Steps near the middle occurred most often. The input therefore provided evidence for a single category.
+At test, infants listened to stimuli 3 and 6 on the continuum. They heard them in either alternating or non-alternating trials. As the names indicate, alternating trials present the two different stimuli in alternation, and non-alternating trials repeat a single stimulus. Infants were tested at 6 months and at 8 months.
+Only infants pre-exposed to the bimodal distribution were sensitive to the difference between conditions.
+The infants in the bimodal groups showed different looking times for alternating and non-alternating trials, at both ages.
+The infants in the unimodal groups looked for about the same amount of time in both kinds of trials. For these infants, the two conditions did not differ.
+It is as if the infants in the unimodal condition had learned to treat stimuli 3 and 6 as members of the same category. The bimodal group had learned to treat them as different. The same two test sounds led to different behavior, and the only difference between the groups was the statistical pattern of the sounds they had heard earlier.
+Section 17: Social and Interactive Context for Learning
+
+There is experimental evidence that social interaction is important for learning. Two sets of experiments are described.
+In the first set, nine-month-old American infants were exposed to Mandarin Chinese in twelve 25-minute sessions. Some infants received live exposure. Others received the same exposure through television or audio only. A control group heard English.
+After exposure, infants were tested on a Mandarin phonetic contrast using the head-turn procedure.
+The infants in the live exposure group showed phonetic learning. Their percent correct was clearly above that of the English control group.
+The infants in the TV and audio-only groups showed no learning. Their performance stayed at the level of the English control group, which was close to chance.
+The same exposure to a Mandarin speaker is more effective for learning when it happens in person, and is interactive, than when it is viewed as a video.
+In the second set of experiments, eight-month-old infants received contingent or non-contingent social feedback from their mothers in response to their vocalizations.
+The contingent condition gave a social response that depended on what the infant produced. The yoked-control condition gave social responses that were not tied to the infant’s own vocalizations.
+Each visit had four phases: familiarization (30 min), baseline (10 min), social response (10 min), and extinction (10 min). In the extinction phase, the social responses stopped.
+Contingent social feedback increased the quantity and complexity of infants’ vocalizations. The proportion of syllables among the vocalizations rose sharply in the social response phase for the contingent group. It stayed above baseline in the extinction phase. The non-contingent group stayed low throughout.
+Social interactions contingent on the production of different sounds seem to function much like a reinforcing stimulus. The infant’s sounds change in response to the feedback, as behavior changes in response to reinforcement.
+Two ideas could explain why social context matters.
+One idea is that humans find social interaction with other humans innately reinforcing.
+The other idea is that we are innately good at using social cues to learn from other people.
+Section 18: Statistical Learning with Constraints
+
+Statistical learning is not unlimited. It operates under constraints, and the term covers several things.
+The first constraint concerns what stimulus properties can be contrastive. Properties such as speaker and speech rate are not treated as the basis for a contrast between speech categories. A different speaker or a different speaking rate does not create a new category.
+The second constraint comes from earlier learning. What a learner has already learned affects what can be learned next. This idea returns in the discussion of sensitive periods.
+The third constraint is the social and/or interactive context for learning. As the Mandarin and vocalization experiments indicate, the social setting in which sounds are heard affects whether learning occurs.
+
+
+
+
+Claude is AI and can make mistakes. Please double-check responses.
+
+

@@ -1,0 +1,797 @@
+Claude
+
+Save as PDF
+
+speech_perception 2.pdf
+speech_perception 2.pdf
+PDF
+You are my teaching-note writer. Turn the lecture content I provide into long, detailed teaching notes written in a natural teaching-transcript style but formatted as structured notes.
+The notes must sound like a knowledgeable professor explaining complex academic material clearly to students. They should be scientifically accurate, thorough, and conceptually detailed, while remaining easy to read aloud.
+The most important writing requirement is natural readability. I should be able to read every bullet aloud smoothly, understand it on the first reading, and explain it to someone else without having to mentally rephrase complicated sentences.
+Do not confuse academic rigor with complicated wording. The goal is to make advanced material easier to understand without making the material less advanced.
+1. REQUIRED HEADER
+Start with exactly these four lines, using the information provided:
+Course: <TITLE EXACTLY AS PROVIDED>
+Title of Lecture: <TITLE EXACTLY AS PROVIDED>
+Date: <DATE EXACTLY AS PROVIDED>
+Professor: <PROFESSOR EXACTLY AS PROVIDED>
+Do not invent missing information.
+2. COMPLETE COVERAGE AND ORIGINAL ORDER
+
+* Follow the exact order of the source material. Do not rearrange topics.
+* Cover every concept, model, technical term, mechanism, experiment, diagram, pathway, research finding, and important example.
+* Include all relevant experimental conditions, numerical results, comparisons, and conclusions.
+* Do not omit information simply because it seems less important.
+* Skip only genuine opening logistics, such as course announcements, assignment reminders, professor introductions, and generic welcome statements.
+* Do not introduce brand-new topics, studies, or interpretations that are unsupported by the source.
+* Clarify existing concepts when necessary, but remain grounded in the provided material.
+* Preserve all scientist names, experiment names, dates, equations, and numerical values accurately.
+* Do not summarize or compress the material into a reference sheet.
+* Explain the material thoroughly enough that the notes can be studied independently.
+
+Length requirement: The notes must be long and detailed. Improving readability must never become an excuse to shorten the content or remove important information.
+3. NATURAL, EASY-TO-READ TEACHING STYLE
+Write like a knowledgeable professor naturally explaining the material to a class.
+The language should be clear, direct, human, and academically appropriate.
+Sentence structure
+
+* Use relatively short, well-structured sentences that flow naturally when spoken aloud.
+* Avoid long sentences containing too many technical concepts, qualifications, or comparisons.
+* When a sentence becomes complicated, divide it into two or more complete sentences.
+* Avoid awkward phrasing, tongue-twister-like constructions, and unnecessarily dense academic language.
+* Prefer familiar, natural wording when it communicates the same scientific meaning.
+* Keep essential technical terminology, but avoid surrounding it with unnecessary jargon.
+* Avoid repeatedly using the same technical terms when a natural alternative would improve readability.
+* Use straightforward grammatical structures and natural word order.
+* Avoid excessive subordinate clauses, nested explanations, and strings of abstract nouns.
+* Do not force multiple relationships or findings into a single sentence.
+* Make the relationship between ideas clear without relying on complicated transitions.
+
+Natural spoken flow
+Every bullet should sound like something a real professor could comfortably say aloud.
+The writing should flow naturally from one sentence to the next. It should not sound like a textbook being summarized, a research paper being paraphrased, or an AI-generated list of facts.
+Use complete sentences that explain ideas clearly and progressively.
+Avoid overly formal constructions when simpler wording would be equally accurate.
+For example:
+Avoid:
+"Discrimination sensitivity exhibits increased performance in proximity to categorical identification boundaries relative to within-category acoustic intervals."
+Prefer:
+"Discrimination is strongest near phoneme boundaries. Listeners are better at telling sounds apart when they fall into different categories than when they belong to the same category."
+The preferred version retains the scientific relationship while making it easier to understand and read aloud.
+Important balance
+Do not make every sentence extremely short. The notes should still sound like natural, connected speech.
+Use a mixture of short and moderately long sentences when appropriate.
+The goal is smooth readability, not choppy or oversimplified writing.
+4. SCIENTIFIC ACCURACY AND CONCEPTUAL DEPTH
+Preserve all important scientific, technical, and conceptual details.
+For each concept, explain the relevant information naturally, including:
+
+* What the concept means.
+* How it works.
+* What causes it or influences it.
+* What happens during the process.
+* What researchers investigated, when applicable.
+* What the experimental results revealed.
+* How different findings or conditions compare.
+* What conclusions are supported by the evidence.
+* Why the concept matters for the scientific or behavioral process being studied, when supported by the source.
+
+Do not mechanically follow this sequence for every concept. Include whichever elements are relevant to the source material.
+Technical terminology
+
+* Define important technical terms when they first appear.
+* Use clear language without sacrificing scientific precision.
+* Explain unfamiliar terminology within the natural flow of the teaching notes.
+* Preserve terminology that students need to recognize for exams.
+* After defining a technical term, use it consistently where appropriate.
+* Do not replace important scientific terminology entirely with informal expressions.
+
+Explanatory depth
+Explain complex ideas in enough detail that students can follow the underlying reasoning.
+However, do not add unnecessary explanations to concepts that are already clear.
+Depth should come from explaining the source material more thoroughly, not introducing unrelated information.
+Do not confuse detailed teaching with complicated writing.
+A concept can require several sentences of explanation while each individual sentence remains clear and easy to read.
+5. STRUCTURED TEACHING-NOTE FORMAT
+Use simple, bolded topic headings.
+Format headings as:
+Section 1: <Short Topic Name>
+Section 2: <Short Topic Name>
+Continue numbering sections in the order of the source material.
+Under each heading, use bullet points and sub-bullets.
+Main bullets
+
+* Begin each main bullet with a bolded key concept, finding, mechanism, or relationship when appropriate.
+* Follow the bolded phrase with a natural explanation written in complete sentences.
+* Main bullets should generally contain 2–5 explanatory sentences.
+* Each main bullet should focus on one central idea while preserving its supporting details.
+* Avoid overly long bullets that combine several unrelated concepts.
+* Do not create one-line definition bullets for major concepts.
+* Explain the meaning, mechanism, evidence, or significance of a concept when the source supports it.
+
+Sub-bullets
+
+* Use sub-bullets when they improve clarity or prevent long blocks of text.
+* Sub-bullets should generally contain 1–3 complete explanatory sentences.
+* Use them to explain experimental conditions, mechanisms, comparisons, or important supporting details.
+* Do not overuse nested bullets when the information would read more naturally as connected sentences.
+
+Organization
+
+* Keep the original sequence of concepts.
+* Allow ideas to build naturally through their scientific relationships.
+* Do not create unnecessary headings for minor details.
+* Do not create artificial summary, deep-dive, or takeaway sections.
+* Do not repeat information merely to make a section appear longer.
+* Use numbered lists only when the source presents a genuine stepwise sequence.
+
+6. EXPLAINING EXPERIMENTS AND RESEARCH FINDINGS
+When the source includes an experiment, explain the relevant details clearly and naturally.
+Include the experimental setup, conditions, observations, results, and conclusions when provided.
+Make it clear what the researchers measured and how the results relate to the research question.
+Experimental explanations
+
+* Identify the relevant researchers or study when named.
+* Explain what participants or experimental subjects did.
+* Describe the experimental conditions and comparisons.
+* Preserve important measurements, numerical values, and patterns.
+* Explain what the results mean without overstating the conclusions.
+* Distinguish observed results from interpretations.
+* Preserve important limitations or qualifications when included in the source.
+
+Writing experimental findings naturally
+Avoid packing the setup, findings, and interpretation into one complicated sentence.
+Instead, explain them across several connected sentences.
+For example:
+Avoid:
+"The one-step, two-step, and three-step comparisons demonstrate boundary-dependent discrimination sensitivity across categorical identification transitions."
+Prefer:
+"Listeners were better at telling sounds apart near phoneme boundaries. This pattern appeared when sounds were compared one, two, or three steps apart. Discrimination was generally weaker when both sounds belonged to the same category."
+The preferred version explains the findings clearly while preserving the important experimental comparisons.
+7. EXPLAINING MECHANISMS AND PROCESSES
+When the source describes a mechanism or process, explain each important step in complete sentences.
+
+* Explain what happens first.
+* Describe what causes the next event.
+* Explain how each event influences the following one.
+* Identify the relevant structures, variables, or conditions.
+* Preserve the complete cause-and-effect relationship.
+* Use sub-bullets when the process contains several distinct stages.
+
+Do not use arrow chains or symbolic shorthand to replace explanations.
+For example, do not write:
+Stimulus → receptor activation → neural signaling → behavioral response.
+Instead, explain each stage using complete sentences that identify the relationship between events.
+The explanation should be understandable when read aloud without requiring students to interpret visual shorthand.
+8. NO METACOMMENTARY OR PRESENTATION NARRATION
+Every sentence must directly teach information contained in the source or provide a necessary clarification of that information.
+Do not describe the act of presenting, teaching, writing, or organizing the material.
+Avoid phrases such as:
+
+* "This slide shows..."
+* "In this lecture..."
+* "The professor explains..."
+* "As we can see..."
+* "Now let's look at..."
+* "Moving on to..."
+* "Our focus shifts to..."
+* "The next topic is..."
+* "This illustrates..."
+* "This demonstrates..."
+* "This helps us understand..."
+* "The key takeaway is..."
+* "It is important to remember..."
+* "This sets the stage for..."
+* "Before getting into..."
+* "This becomes important later..."
+
+Instead, state the actual scientific concept, mechanism, relationship, or finding directly.
+Do not add sentences whose only purpose is to announce a topic change, summarize the organization, or guide the reader's attention.
+A concluding sentence is appropriate only when it adds a meaningful scientific interpretation or clarification supported by the source.
+9. NO UNNECESSARY FILLER OR REPETITION
+Avoid:
+
+* Robotic academic phrasing.
+* Excessively formal vocabulary.
+* Repetitive sentence openings.
+* Forced transitions.
+* Rhetorical questions.
+* Fake enthusiasm.
+* Motivational language.
+* Poetic descriptions.
+* Generic takeaway statements.
+* Unnecessary restatements.
+* Repeated explanations of the same finding.
+* Sentences that sound impressive but communicate little information.
+
+Do not repeatedly say that something is important, interesting, significant, or useful.
+Explain the actual scientific reason when the source provides one.
+Use "we" naturally when appropriate, but do not overuse it.
+10. IMAGES, FIGURES, GRAPHS, AND DIAGRAMS
+Analyze all instructional visual material carefully.
+This includes:
+
+* Experimental graphs.
+* Data tables.
+* Labeled diagrams.
+* Scientific models.
+* Anatomical structures.
+* Experimental stimuli.
+* Brain images.
+* Pathways.
+* Behavioral results.
+* Comparisons between experimental conditions.
+
+Teach the actual information contained in these visuals.
+Do not describe the visuals as presentation objects.
+For example, avoid:
+"The graph shows a sharp increase in discrimination near the category boundary."
+Prefer:
+"Discrimination increases sharply near the category boundary. Listeners are more accurate when distinguishing sounds that fall into different phoneme categories."
+Preserve important numerical values, labels, trends, and relationships.
+Do not mention decorative images that contain no additional instructional information.
+Do not invent interpretations or values that cannot be established from the provided material.
+11. MATHEMATICAL AND SCIENTIFIC FORMATTING
+Use properly rendered LaTeX for scientific notation, including:
+
+* Subscripts.
+* Superscripts.
+* Ions and charges.
+* Variables.
+* Mathematical symbols.
+* Equations.
+* Quantitative relationships.
+
+Use inline mathematics for symbols appearing within sentences.
+Place genuine equations on their own centered lines using rendered display mathematics.
+Do not display raw LaTeX code.
+Do not invent equations, mathematical relationships, or numerical values.
+Do not present the same mathematical expression in conflicting formats.
+Explain equations naturally when the source provides enough information to do so.
+12. READ-ALOUD QUALITY CONTROL
+Before finalizing each section, silently evaluate the writing using the following standards.
+Natural readability
+Could a student read every sentence aloud comfortably without stumbling over unnecessarily complicated wording?
+Sentence clarity
+Does each sentence communicate its main idea without forcing the reader to mentally reorganize the wording?
+Scientific precision
+Are all technical terms, findings, experimental details, and relationships accurate?
+Conceptual depth
+Does the explanation genuinely teach the concept rather than merely restating or defining it?
+Natural flow
+Do the sentences connect logically without forced transitions or repetitive phrasing?
+Complete coverage
+Have all important details from the source been preserved?
+Appropriate length
+Is the explanation detailed enough to stand independently without becoming repetitive?
+If a sentence is difficult to read aloud, rewrite it using clearer language and more natural sentence structure.
+If a sentence contains too many technical ideas, divide it into multiple connected sentences.
+If a bullet becomes too dense, reorganize it into shorter sentences or appropriate sub-bullets.
+If an explanation is too brief, expand it using relevant information from the source.
+Never sacrifice scientific accuracy, conceptual depth, or source coverage simply to make the notes shorter.
+13. LENGTH AND CONTINUATION REQUIREMENTS
+The notes must be long, detailed, and comprehensive.
+Do not summarize, condense, or generalize the source material.
+For lengthy lecture presentations, divide the notes into two outputs when possible.
+Output 1: Begin with the required header and teach the material in its original order.
+Stop at a natural section boundary and end with exactly:
+[CONTINUE]
+Wait for me to write "continue."
+Output 2: Continue directly from where the first output ended.
+Do not repeat the header or previously covered material.
+Continue teaching the remaining source content in its original order.
+Do not rush through the remaining material merely to finish in two outputs. If additional continuation is necessary to preserve complete coverage, stop at a natural section boundary and use [CONTINUE] again.
+Stop once every instructional concept from the source has been covered.
+Do not add an artificial conclusion or summary.
+14. FINAL OUTPUT REQUIREMENTS
+Output only the teaching notes.
+Include:
+
+* The required four-line header at the beginning of Output 1.
+* Bolded section headings.
+* Detailed main bullets.
+* Explanatory sub-bullets when appropriate.
+* Complete, naturally flowing sentences.
+* Accurate scientific terminology.
+* All relevant source information.
+* Properly rendered mathematical expressions when necessary.
+
+Do not include:
+
+* Introductions about what you are going to do.
+* Explanations of your writing process.
+* Comments about the source material's organization.
+* Unnecessary summaries.
+* Reference-sheet-style fragments.
+* Presentation narration.
+* Generic concluding statements.
+* Downloadable files unless explicitly requested.
+
+FINAL PRIORITY:
+Write detailed, academically rigorous teaching notes that sound like a real professor naturally explaining the material to students.
+The writing must be clear enough to read aloud smoothly, detailed enough to study independently, and scientifically accurate enough for university-level coursework.
+Use shorter, natural sentences without making the explanations shallow or choppy.
+Preserve the complete instructional content and original order.
+The goal is not to make the material shorter or less advanced. The goal is to make every concept easier to understand, remember, and explain aloud while preserving its full scientific depth.
+
+
+Title: Lecture 12: Speech Perception I: Categorical Perception
+Date: 9/29/2026
+
+
+NATURAL READABILITY AND EASY-TO-READ-ALOUD LANGUAGE (CRITICAL)
+The teaching notes must be academically rigorous and detailed while remaining natural, clear, and easy to read aloud. Write like a knowledgeable professor explaining complex material clearly to students, rather than a dense textbook or research paper. The writing should sound like natural spoken language without sacrificing scientific accuracy, conceptual depth, or important details.
+
+* Use shorter, well-structured sentences that flow naturally when spoken aloud. Avoid unnecessarily long sentences that combine too many technical concepts, comparisons, or qualifications. When a sentence becomes difficult to follow, divide it into two or more complete, connected sentences.
+* Avoid tongue-twister-like phrasing and overly complicated academic language. Do not use dense sentence structures, awkward word combinations, excessive jargon, or strings of abstract technical terms when simpler wording communicates the same scientific meaning.
+* Preserve essential scientific terminology while simplifying the surrounding language. Keep the technical terms, named concepts, mechanisms, and experimental details that students need to learn. However, explain them using clear, accessible wording rather than surrounding them with unnecessarily complicated academic expressions.
+* Avoid repetitive technical wording when natural alternatives improve readability. Do not repeatedly use the same scientific term within a sentence or across consecutive sentences when a simpler expression would be equally accurate. However, retain technical terminology whenever replacing it would change the scientific meaning.
+* Use natural sentence structures and straightforward explanations. Prefer direct statements that clearly identify what happens, what causes it, and how different concepts relate. Avoid forcing multiple findings or relationships into one complicated sentence.
+* Maintain smooth connections between sentences. Each sentence should naturally build on the previous one through the actual scientific relationship being explained. Do not use artificial transitions, presentation narration, rhetorical questions, or unnecessary introductory phrases to create flow.
+* Balance sentence length naturally. Do not make every sentence extremely short, since this can make the writing sound choppy or robotic. Use a natural mixture of short and moderately long sentences while keeping each explanation easy to follow.
+* Prioritize clarity without reducing detail. If an explanation is difficult to read, improve the sentence structure rather than removing information. Break complicated ideas into multiple connected sentences while preserving all relevant mechanisms, experimental conditions, findings, numerical results, and interpretations.
+* Make each bullet understandable on the first reading. Students should be able to read the explanation aloud smoothly and understand the concept without having to mentally reorganize or translate the wording into simpler language.
+* Keep the teaching-transcript style. The notes must still read like detailed explanations that a professor could naturally deliver to students. Do not turn them into simplified reference sheets, fragmented definitions, abbreviated summaries, or disconnected facts.
+
+EXAMPLE OF THE DESIRED WRITING STYLE
+Avoid overly complicated wording:
+"Discrimination sensitivity exhibits increased performance in proximity to categorical identification boundaries relative to within-category acoustic intervals."
+Prefer natural, scientifically accurate wording:
+"Discrimination is strongest near phoneme boundaries. Listeners are better at telling sounds apart when they fall into different categories than when they belong to the same category."
+The preferred version communicates the same scientific relationship using clearer sentences that are easier to understand and read aloud.
+FINAL READABILITY REQUIREMENT
+Before finalizing each bullet, silently check whether the explanation sounds natural when spoken aloud. If a sentence contains too many technical terms, complicated clauses, repetitive expressions, or awkward phrasing, rewrite it using clearer language and more natural sentence structures.
+Do not shorten the notes, remove important information, or reduce conceptual depth to improve readability. Instead, distribute complex explanations across multiple connected sentences.
+The goal is to preserve the full depth and detail of the original teaching notes while making every sentence clear, natural, scientifically accurate, and comfortable to read aloud.
+
+Read a file, read memory
+Course: LING/PSYC 406: Psycholinguistics
+Title of Lecture: Lecture 12: Speech Perception I: Categorical Perception
+Date: 9/29/2026
+Professor: Dr. Zevin
+
+Section 1: The Problem Speech Perception Has to Solve
+
+Speech reaches us as a messy physical signal, yet we pull a clear message out of it. When someone talks, their tongue, lips, jaw, and throat are constantly moving. A real-time MRI image from the USC SPAN group captures this. It is a side view of a talker’s head, with colored lines tracing the edges of the tongue, the lips, the roof of the mouth, and the back of the throat. These shapes keep changing as the person speaks, and each change alters the sound that comes out. Somehow listeners take this constantly shifting stream and recover words and meaning from it.
+A spectrogram turns that sound stream into a picture of frequency over time. The spectrogram of the sentence “I can see you” runs from 0 to about 1.9 seconds on the horizontal axis. The vertical axis shows frequency from 0 to 7,000 cycles per second, which is the same as hertz (Hz). Darker regions mean more sound energy at that frequency and moment.
+The vowels show up as dark horizontal bands that bend up and down as the mouth changes shape. In “I” and “you,” these bands curve smoothly from one position to another.
+Around 0.4 to 0.55 seconds there is a nearly blank stretch, which is the brief silence while the mouth closes for the “c” in “can.” A thin vertical spike follows when that closure is released.
+The “s” in “see,” at roughly 1.0 to 1.2 seconds, looks completely different from the vowels. Its energy is a dark smear concentrated high up, from about 4,000 to 7,000 Hz, with no clear bands.
+There are no clean gaps between the words. The signal flows continuously, and the word boundaries we hear are not marked in the sound itself.
+We also get the same message from very different physical signals. People of different ages, sexes, and body sizes all say the same words, but their voices are physically different. A child, a grandmother, and an adult man can all say “see,” and we hear the same word every time.
+Vowel measurements from many speakers overlap heavily. A classic chart plots the second formant frequency against the first formant frequency for ten English vowels, produced by 76 speakers. Formants will be defined in detail shortly. For now, they are the main frequency bands that define a vowel. Each vowel’s measurements form a cloud of points, circled by an oval. The ovals are large, and many of them overlap. That means the same pair of measurements could come from one vowel for one speaker and a different vowel for another speaker. Listeners still identify the vowels correctly, which is part of what makes speech perception so impressive.
+Section 2: From a Physical Signal to Symbols
+
+One premise is that the brain must convert a variable, analog signal into something more abstract. An analog signal varies continuously, with no natural steps or breaks. The sound of speech is like this. It changes smoothly in frequency and loudness, and it changes from speaker to speaker and from moment to moment. The language system, however, works with discrete units, like individual sounds, words, and grammatical pieces. So the brain needs some way to translate the continuous sound into these separate, abstract units before the language system can use it.
+Categorical perception is thought to reflect this translation from the physical to the symbolic. Categorical perception means hearing a continuous range of sounds as belonging to a small number of distinct categories. Instead of hearing every tiny acoustic difference, listeners sort sounds into groups, such as /b/ or /d/. The idea is that this sorting is the step where the physical signal becomes a symbol the language system can operate on.
+This view is one premise, not the only one. Other researchers have proposed alternative ways of thinking about how listeners get from sound to meaning. Those alternatives come up in the next session.
+Section 3: Formants and the Shape of the Vocal Tract
+
+The shape of the vocal tract determines which frequencies get amplified. The vocal tract is the air passage running from the vocal folds in the throat up through the mouth and out the lips. When air vibrates in this passage, some frequencies resonate and become louder, while others become weaker. These amplified frequency peaks are called formants. The lowest peak is the first formant, written 
+F
+1
+F 
+1
+​
+ . The next one up is the second formant, written 
+F
+2
+F 
+2
+​
+ , and so on. According to Ladefoged (1996), the relationship between vocal tract shape and these resonant frequencies is lawful. That means a particular tongue and lip position reliably produces a particular set of formant peaks.
+Different vowels come from different tongue positions, and each position produces a different frequency profile. Ladefoged’s figure pairs a side-view drawing of the mouth with a graph of sound energy across frequency, from 0 to about 3,000 Hz, for eight English words. Each graph has peaks, and those peaks are the formants.
+For “heed,” the tongue is high and pushed forward in the mouth. The first peak sits very low, well under 1,000 Hz, and the next major peak sits high, above 2,000 Hz. The two lowest formants are spread far apart.
+Moving through “hid,” “head,” and “had,” the tongue gradually lowers and the jaw opens. The first peak moves upward in frequency, and the second peak moves down. By “had,” the three peaks are fairly evenly spaced across the range.
+For “hod” and “hawed,” the tongue is low and pulled back. The first two peaks sit close together, both below about 1,500 Hz.
+For “hood” and “who’d,” the tongue is high and pulled back, and the lips are rounded. The first two peaks are both low and close together, and very little energy remains at higher frequencies. “Who’d” has the lowest peaks of all.
+Two general relationships come out of these comparisons. First, 
+F
+1
+F 
+1
+​
+  is low when the tongue is high, and it rises as the tongue lowers and the mouth opens. Second, 
+F
+2
+F 
+2
+​
+  is high when the tongue is forward, and it falls as the tongue moves toward the back of the mouth. These two relationships let us describe a vowel using just two numbers.
+Section 4: Vowel Formants in Spectrograms
+
+The same vowel differences can be seen in spectrograms. Rob Hagiwara recorded ten English vowels in the frame “b_d,” producing the words bead, bid, bade, bed, bad, bod, baud, bode, “bood” (the vowel in “good”), and booed. Each spectrogram covers about 400 milliseconds and shows frequencies up to about 4,500 Hz. Yellow lines mark the first three formants in each word.
+The front vowels have a high second formant that drops as the mouth opens. The top row contains bead, bid, bade, bed, and bad.
+In “bead,” 
+F
+1
+F 
+1
+​
+  is low, at roughly 400 Hz. 
+F
+2
+F 
+2
+​
+  is very high, at roughly 2,300 Hz, and it sits close to 
+F
+3
+F 
+3
+​
+  at roughly 2,750 Hz.
+Across bid, bade, and bed, 
+F
+1
+F 
+1
+​
+  gradually rises and 
+F
+2
+F 
+2
+​
+  gradually falls.
+In “bad,” 
+F
+1
+F 
+1
+​
+  reaches about 800 Hz, the highest in the row. 
+F
+2
+F 
+2
+​
+  has dropped to about 1,650 Hz.
+The back vowels have a low second formant, and their first formant falls as the tongue rises. The bottom row contains bod, baud, bode, “bood,” and booed.
+In “bod,” 
+F
+1
+F 
+1
+​
+  is near 800 Hz and 
+F
+2
+F 
+2
+​
+  is near 1,200 Hz. The two lowest formants are close together.
+Across baud, bode, and “bood,” 
+F
+1
+F 
+1
+​
+  steadily drops.
+In “booed,” 
+F
+1
+F 
+1
+​
+  is down near 400 Hz and 
+F
+2
+F 
+2
+​
+  sits near 1,100 Hz.
+F
+3
+F 
+3
+​
+  stays in a fairly narrow range, roughly 2,500 to 2,650 Hz, across all of these back vowels. Most of the difference between them comes from 
+F
+1
+F 
+1
+​
+  and 
+F
+2
+F 
+2
+​
+ .
+The spectrograms match the vocal tract drawings. Words that Ladefoged describes with a high, front tongue have widely separated 
+F
+1
+F 
+1
+​
+  and 
+F
+2
+F 
+2
+​
+ . Words with a low or back tongue have 
+F
+1
+F 
+1
+​
+  and 
+F
+2
+F 
+2
+​
+  squeezed close together. The two kinds of evidence describe the same lawful link between mouth shape and sound.
+Section 5: Measuring a Vowel’s Formants
+
+Formants can be explored directly through source-filter synthesis. In the source-filter view of speech, the vocal folds produce a raw sound called the source. The vocal tract then acts as a filter that strengthens some frequencies and weakens others. Synthesis means building a sound artificially. By separating a recorded vowel into its source and its filter, then changing the filter, we can create new vowels and hear exactly what each formant does. All of this work was done in Praat, free software for speech analysis available at praat.org.
+A recording of the vowel /u/ has a very low first and second formant. The recording lasts 2.5 seconds in total, with about 0.9 seconds of it visible in the analysis window.
+The top panel is the waveform. It shows the air pressure changes over time, with large regular swings while the vowel is being produced.
+The bottom panel is the spectrogram, running up to 5,000 Hz.
+With the cursor placed on the lowest dark band, the reading is 296 Hz. So 
+F
+1
+F 
+1
+​
+  for this /u/ is about 300 Hz.
+F
+2
+F 
+2
+​
+  is also very low, around 900 Hz.
+These numbers fit the earlier pattern. /u/ is the vowel in “who’d” and “booed.” It is made with a high, back tongue and rounded lips. That combination produces a low 
+F
+1
+F 
+1
+​
+  and a low 
+F
+2
+F 
+2
+​
+ , which is exactly what the measurement gives.
+Section 6: Automatic Formant Tracking
+
+Praat can find formants automatically. Instead of placing a cursor by hand, the program estimates formant frequencies across the whole recording. For this /u/, Praat identified five formants. Each one appears as a line of red dots running across the spectrogram. The lowest two lines sit close together near the bottom, around 300 Hz and 900 Hz, and the cursor reading of 896.7 Hz confirms where 
+F
+2
+F 
+2
+​
+  lies. The other three lines run higher up, below the 5,000 Hz ceiling.
+Only the first three formants are usually important for phonemic processing. A phoneme is a sound category that can change the meaning of a word, such as the difference between /b/ and /p/ in “bat” and “pat.” The higher formants carry information about the speaker’s voice, but they matter much less for deciding which vowel was said.
+This example deals only with the first two formants. 
+F
+1
+F 
+1
+​
+  and 
+F
+2
+F 
+2
+​
+  alone are enough to separate most vowels from one another. So the synthesis demonstration changes only these two.
+Section 7: Extracting the Source
+
+The source can be pulled out of a recording by removing the filter. Praat used a model of the filter, built from the measured formant frequencies, to estimate what the vocal tract was doing to the sound. It then removed that filtering effect from the recording. What remains is an estimate of the raw sound produced by the vocal folds.
+The process resembles multiple regression. In multiple regression, you explain a measured outcome using several known predictors, and whatever the predictors cannot explain is left over. Here, the formant-based filter model accounts for part of the sound. The leftover part is treated as the source.
+The extracted source is a mostly unfiltered version of the voice, and it sounds like a buzz. In the spectrogram of the source, the energy is spread fairly evenly across all frequencies up to 5,000 Hz. There are no clear dark bands, because the formants have been removed. The waveform is also much smaller in amplitude, with values around 0.02 instead of nearly 0.9 in the original. Without the vocal tract’s shaping, the sound no longer has a vowel quality. It is just the steady buzz of the vocal folds vibrating.
+Section 8: Building New Filters
+
+Three different filters can be applied to the same source. Each filter is shown as a plot of formant frequency over time, from 0 to 2.5 seconds, with frequency from 0 to 5,000 Hz on the vertical axis. Each formant appears as a horizontal row of dots.
+The first filter uses the first four formants from the original recording. Its four rows sit at roughly 300 Hz, roughly 800 Hz, roughly 2,600 to 2,700 Hz, and roughly 3,700 Hz. Applying this filter should rebuild something close to the original /u/.
+The second filter raises the first formant a little. The lowest row of dots moves up, and the other three stay where they were. In Praat, this version is labeled “add 300 to f1,” so 
+F
+1
+F 
+1
+​
+  is raised by 300 Hz. That puts it near 600 Hz, very close to 
+F
+2
+F 
+2
+​
+ .
+The third filter raises the second formant a lot. Here 
+F
+1
+F 
+1
+​
+  stays near 300 Hz, but 
+F
+2
+F 
+2
+​
+  jumps upward until it sits right on top of 
+F
+3
+F 
+3
+​
+ , at around 2,800 Hz. In Praat, this version is labeled “add 2000 to f2,” so 
+F
+2
+F 
+2
+​
+  is raised by 2,000 Hz.
+Section 9: Making New Vowels
+
+Multiplying the source by a filter produces a vowel. In the source-filter model, the final sound comes from combining the buzzy source with the frequency shaping of the filter. Mathematically, this combination is a multiplication. Each frequency in the source is scaled up or down by how strongly the filter passes that frequency. The same source combined with three different filters gives three different sounds.
+Each output has a clearly different spectrogram.
+The source combined with the original filter gives a reconstructed /u/. Its spectrogram looks like the original recording, with energy concentrated at the bottom, and the cursor reads 296 Hz for 
+F
+1
+F 
+1
+​
+ .
+The source combined with the raised-
+F
+1
+F 
+1
+​
+  filter has its lowest energy band moved up. The cursor sits at 563 Hz.
+The source combined with the raised-
+F
+2
+F 
+2
+​
+  filter looks very different. A dark band now appears higher in the spectrum, while the lowest band stays near the bottom.
+Changing formant frequencies alone changes the vowel. The vocal fold buzz is identical in all three versions. Only the filter differs, yet the result is a different vowel each time. Vowel identity therefore lives in the filter, meaning the formant pattern created by the shape of the vocal tract. Comparing the new values to the vowel chart, a low 
+F
+1
+F 
+1
+​
+  combined with a very high 
+F
+2
+F 
+2
+​
+  falls in the region occupied by the high front vowels, like the one in “heed.”
+Section 10: Formants and Vowel Space
+
+Formant values depend partly on the speaker’s anatomy. People differ in the size and shape of their vocal tracts, even when they speak the same language. A longer vocal tract tends to resonate at different frequencies than a shorter one. So two speakers can say the same vowel and still produce different formant values.
+Formant values also depend on speaking rate and context. When people talk quickly, they may not reach the full tongue position for each vowel. Formants also depend on the surrounding sounds. The phones produced before and after a vowel pull its formants in different directions. A phone is a single speech sound as it is actually produced.
+The chart of ten vowels from 76 speakers reflects all of this variability. The horizontal axis shows 
+F
+1
+F 
+1
+​
+  from 0 to 1,400 Hz. The vertical axis shows 
+F
+2
+F 
+2
+​
+  from about 500 to 4,000 Hz. Each vowel is plotted with its own symbol, and an oval surrounds the region where most of its tokens fall.
+The vowel in “heed” sits at the upper left, with a low 
+F
+1
+F 
+1
+​
+  around 300 Hz and a high 
+F
+2
+F 
+2
+​
+  from roughly 2,200 to over 3,000 Hz.
+The vowel in “who’d” sits at the lower left, with a low 
+F
+1
+F 
+1
+​
+  and a low 
+F
+2
+F 
+2
+​
+  near or under 1,000 Hz.
+The vowel in “had” sits toward the right side, with a high 
+F
+1
+F 
+1
+​
+  and a fairly high 
+F
+2
+F 
+2
+​
+ .
+The vowel in “hod” sits at the lower right, with the highest 
+F
+1
+F 
+1
+​
+  values, reaching about 1,000 Hz.
+Many ovals overlap in the middle of the chart. Some tokens of one vowel have the same values as tokens of a neighboring vowel.
+Even with this variability, formants give a good description of vowel space. Vowel space is the map of where each vowel falls when plotted by its first two formants. The description works best for a single talker who is speaking carefully. In that case, each vowel occupies its own fairly distinct region.
+Vowels can be reasonably approximated by manipulating steady-state formants. Steady-state formants are formant values that stay constant over time, rather than moving. All else being equal, setting 
+F
+1
+F 
+1
+​
+  and 
+F
+2
+F 
+2
+​
+  to fixed values produces a recognizable vowel. This is exactly what the synthesis in the previous sections did.
+Section 11: The Pattern Playback Synthesizer
+
+The pattern playback synthesizer turned painted spectrograms into sound. It was an early machine for creating speech-like sounds. Researchers painted simple patterns onto a clear sheet, using white strokes to mark where they wanted energy at each frequency and moment. The machine then played that painted pattern back as sound. This let researchers build speech sounds with precise control over each formant.
+The machine worked through a chain of optical and electrical steps.
+A light source sent out a beam, which passed through a cylindrical lens that shaped the light into a line.
+The light then passed through a spinning tone wheel. The wheel broke the light into many separate frequency components.
+A second lens focused this light, and a mirror set at 45 degrees directed it onto the painted spectrogram.
+The spectrogram sat on a moving belt, so the pattern passed under the light from left to right, just as time runs left to right in a spectrogram.
+Wherever paint was present, light was reflected into a light collector and photocell. A second light collector picked up light transmitted through the sheet. The photocell converted the light into an electrical signal.
+That signal went to an amplifier and then to a loudspeaker, which produced the sound.
+The result was that the painted shapes determined which frequencies were heard and when. A stroke painted at a certain height produced energy at that frequency. A stroke that slanted upward produced a frequency that rose over time. One of the photographs is a close-up of such a painted pattern, with short white bars and slanted strokes laid out on a grid.
+Section 12: Formant Transitions in Stop Consonants
+
+Stop consonants are distinguished by formant transitions. Stop consonants are sounds like /b/, /d/, and /g/, made by completely blocking the airflow and then releasing it. A formant transition is a change in formant frequency over time, usually at the start or end of a vowel. In a spectrogram, a transition looks like the beginning of a formant band bending up or down before it levels off.
+This makes sense given how stops are produced. The audible part of /b/, /d/, or /g/ happens while the jaw is opening. As the mouth moves from the closed position into the vowel, the shape of the vocal tract changes quickly. That rapid change in shape makes the formants slide in frequency. Each stop consonant blocks the air at a different place in the mouth, so each one produces a different pattern of formant movement as the mouth opens.
+The pattern playback synthesizer was used to create speech-like sounds that copied these transitions. Liberman et al. (1957) painted a set of 14 two-formant patterns. Each pattern lasted about 300 milliseconds. The frequency axis runs from 0 to 2,400 cycles per second.
+In every pattern, the first formant starts low and rises quickly into a steady level near 300 Hz.
+The second formant settles at a steady level near 2,000 to 2,200 Hz in every pattern. The only thing that differs is where it starts.
+In stimuli 1 through 6, the second formant starts below its steady level and rises into it. Stimulus 1 has the lowest starting point and the steepest rise.
+In stimulus 7, the second formant is nearly flat.
+In stimuli 8 through 14, the second formant starts above its steady level and falls into it. The starting point gets higher with each stimulus, so the fall gets steeper.
+Section 13: Building a Speech Continuum
+
+The Liberman stimuli form a speech continuum. A continuum is a series of stimuli that change gradually in one physical property, in equal steps, from one end to the other. In this case, the first formant was kept constant across all stimuli. Only the onset frequency of the second formant changed. The F2 onset frequency is the frequency where the second formant begins its transition.
+The F2 onset frequency was varied linearly from stimulus 1 to 13. Changing something linearly means changing it by the same fixed amount at every step. So moving from stimulus 1 to stimulus 2 changes the F2 onset by the same number of hertz as moving from stimulus 8 to stimulus 9.
+Adjacent stimuli differ by the same amount across the entire continuum. This design gives the experiment a clear acoustic baseline. Physically, every neighboring pair is equally different. Any difference in how listeners perceive those pairs must therefore come from the listener, not from the sounds themselves.
+Section 14: An Ideal Observer Model Without Categories: Labeling
+
+An ideal observer model makes predictions about what perception would look like under a stated assumption. An ideal observer is a theoretical listener who uses the information in the stimulus in a specific, defined way. Here the assumption is that perception is non-categorical. That means listeners would hear the F2 onset as a smooth, continuous property, with no special sorting into groups.
+Under this model, labeling would get blurry as stimuli move away from the category prototypes. A prototype is the clearest, most typical example of a category. On this continuum, the two endpoints are /b/ and /g/, and /d/ lies in the middle. Between these points, a stimulus becomes more ambiguous the farther it sits from a prototype. A stimulus that is closer to /b/ than to /d/ would be labeled /b/ most of the time, but not always. The source gives stimulus 2 as an example of this blending, labeled /b/ 75% of the time and /d/ 25% of the time.
+The predicted labeling curves are straight lines that cross gradually. The model’s graph covers stimuli 1 through 11, with the proportion of each label on the vertical axis from 0 to 1.
+The /b/ line sits at 1 at the start, then falls in a straight line, reaching 0.5 at stimulus 4 and 0 at stimulus 6.
+The /d/ line rises in a straight line from 0, reaches 0.5 at stimulus 4, peaks at 1 at stimulus 6, then falls back through 0.5 at stimulus 8 to 0 at stimulus 10.
+The /g/ line starts rising at stimulus 6, crosses 0.5 at stimulus 8, and reaches 1 at stimulus 10 and 11.
+The key feature is that no category has a sharp edge. Each label fades out gradually as its neighbor fades in.
+Section 15: An Ideal Observer Model Without Categories: Discrimination
+
+The second prediction of the linear model is that discrimination should be independent of labeling. Discrimination is the ability to tell whether two sounds are the same or different. Under the linear model, how well a listener can tell two stimuli apart has nothing to do with what names the listener would give them.
+The labeling curves have peaks for a simple reason. There are three categories, and each label is a yes-or-no decision for every stimulus. A listener either calls a sound /d/ or does not. With three categories spread along one continuum, the middle category has to rise and then fall, which gives it a peaked shape. That shape comes from the structure of the labeling task, not from anything special about perception.
+The discrimination task does not depend on category names at all. In discrimination, listeners hear two stimuli and simply say “same” or “different.” If listeners heard differences in F2 onset equally well everywhere on the continuum, then accuracy would be the same for every pair.
+The predicted discrimination curve is flat. The model’s graph tests pairs of stimuli two steps apart: 1 vs. 3, 2 vs. 4, 3 vs. 5, and so on up to 9 vs. 11. Accuracy is predicted to sit at the same level, about 0.8, for every pair. Each pair differs by the same physical amount, so each pair should be equally easy to tell apart. Any result that departs from this flat line would suggest that perception is not simply linear.
+[CONTINUE]
+
+
+
+Memory updated. View memory
+
+
+
+Claude is AI and can make mistakes. Please double-check responses.
+Claude finished the response
+
+
