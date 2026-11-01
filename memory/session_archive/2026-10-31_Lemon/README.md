@@ -1,5 +1,9 @@
 # Lemon — Rewrite for Readability (2026-10-31)
 
+## Single HTML archive
+
+[Open/download 2026-10-31 Lemon HTML](2026-10-31_Lemon.html) — all 77 captured turns in sequence, including additional expanded prompt text recovered from Edge. Images available in the capture are embedded. Some embedded cards/attachments remain incomplete; this is a displayed-conversation archive, not a native account export.
+
 **Latest capture: [actual displayed conversation and recovered files](browser_capture/README.md).**
 
 - [Read the Markdown conversation](browser_capture/conversation/EDGE_CONVERSATION.md): all 77 displayed turn groups, captured from Edge.
