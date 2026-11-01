@@ -1,0 +1,166 @@
+{
+  "source_commit": "b443ca5046590de25eaa2c18614166c2234b430c",
+  "files": [
+    {
+      "filename": "From_Brain_to_Behavior_Foundations_and_Frontiers_History_Expanded.pptx",
+      "original_path": "chapters/C01/history_revision/From_Brain_to_Behavior_Foundations_and_Frontiers_History_Expanded.pptx",
+      "sha256": "b0c08070b8e9ece92560c2e4c1d644870ac51ecc9adc4972c7937668287c4eae",
+      "bytes": 265818511,
+      "slides": 90
+    },
+    {
+      "filename": "How_Nerve_Cells_Work_Chapter_2.pptx",
+      "original_path": "chapters/C02/How_Nerve_Cells_Work_Chapter_2.pptx",
+      "sha256": "72e9d926ed4eb1e5ae283d1fe1670ec29af4b7494010dde4975c94e7ddfb4233",
+      "bytes": 419397032,
+      "slides": 75
+    },
+    {
+      "filename": "Mapping_the_Nervous_System_Chapter_3.pptx",
+      "original_path": "chapters/C03/Mapping_the_Nervous_System_Chapter_3.pptx",
+      "sha256": "3b8ba9f77be72b04ee427d121d9459d78f05b42c23742dcb00f9cc753d5229a4",
+      "bytes": 252616076,
+      "slides": 75
+    },
+    {
+      "filename": "Chemical_Control_of_Behavior_Chapter_4.pptx",
+      "original_path": "chapters/C04/Chemical_Control_of_Behavior_Chapter_4.pptx",
+      "sha256": "e39f3dd9ed247fa575d7ef6e02332786789cc8361e152cb34a13a4b58fd1bda3",
+      "bytes": 378610623,
+      "slides": 75
+    },
+    {
+      "filename": "Reading_and_Rewriting_the_Brain_Chapter_5.pptx",
+      "original_path": "chapters/C05/Reading_and_Rewriting_the_Brain_Chapter_5.pptx",
+      "sha256": "58a7686f043125d740dd1b52d9636c107492a862f9d86f9995f3d7d49823972d",
+      "bytes": 876147833,
+      "slides": 86
+    },
+    {
+      "filename": "From_Light_to_Sight_Chapter_6.pptx",
+      "original_path": "chapters/C06/From_Light_to_Sight_Chapter_6.pptx",
+      "sha256": "88dbad74de3e23b00f89d7cea2bfb2a26d1797c1349e17b7887cd04d2cbd938d",
+      "bytes": 407602768,
+      "slides": 90
+    },
+    {
+      "filename": "From_Sound_to_Neural_Signals_Peripheral_Auditory_System_Part_I.pptx",
+      "original_path": "chapters/C07/Audition1/From_Sound_to_Neural_Signals_Peripheral_Auditory_System_Part_I.pptx",
+      "sha256": "5fc13812666d0c50c4a8a8b20b49c5bffabcbe23864e651453d18df98c7e4904",
+      "bytes": 390454086,
+      "slides": 80
+    },
+    {
+      "filename": "Sensing_the_Body_and_the_Chemical_World_Chapter_7.pptx",
+      "original_path": "chapters/C07/Sensing_the_Body_and_the_Chemical_World_Chapter_7.pptx",
+      "sha256": "97cc146d49d2d6030b2a0a6f81db972bf7f56dcfef42f9e00c348e626e32158a",
+      "bytes": 255360958,
+      "slides": 75
+    },
+    {
+      "filename": "The_Listening_Brain_Central_Auditory_System.pptx",
+      "original_path": "chapters/C07_Audition2/The_Listening_Brain_Central_Auditory_System.pptx",
+      "sha256": "99d7460e96f572fc3232f47fd5cf32f1dde615fb7fba6dcc18266d45cc94668e",
+      "bytes": 563301809,
+      "slides": 100
+    },
+    {
+      "filename": "From_Intention_to_Action_Control_of_Movement_Chapter_8.pptx",
+      "original_path": "chapters/C08/From_Intention_to_Action_Control_of_Movement_Chapter_8.pptx",
+      "sha256": "863290770a0694b5759bcf86880e3ef6f9e624365bbd83bb6fced209903b46e8",
+      "bytes": 225557871,
+      "slides": 75
+    },
+    {
+      "filename": "The_Rhythmic_Brain_Sleep_and_Biological_Rhythms.pptx",
+      "original_path": "chapters/C09/The_Rhythmic_Brain_Sleep_and_Biological_Rhythms.pptx",
+      "sha256": "471459b1ce218aeec47edd55ffd34a632ab8f8082979282c3dbe58d2276aac4e",
+      "bytes": 987254984,
+      "slides": 86
+    },
+    {
+      "filename": "From_Reproduction_to_Care_Chapter_10.pptx",
+      "original_path": "chapters/C10/From_Reproduction_to_Care_Chapter_10.pptx",
+      "sha256": "a06ac2197c9ba5702d510afde566be34a2cb01a9b4dad4399f0fbfba43d04a88",
+      "bytes": 532166118,
+      "slides": 80
+    },
+    {
+      "filename": "Feeling_and_Acting_Emotion_Chapter_11.pptx",
+      "original_path": "chapters/C11/Feeling_and_Acting_Emotion_Chapter_11.pptx",
+      "sha256": "1d75b4a0c0a4ffa9ddb1fb9a62bfc2dc21df3cb17c5879306b8b7ae7d2fa99d9",
+      "bytes": 213936424,
+      "slides": 80
+    },
+    {
+      "filename": "Hunger_Thirst_and_Satiety_Ingestive_Behavior_Chapter_12.pptx",
+      "original_path": "chapters/C12/Hunger_Thirst_and_Satiety_Ingestive_Behavior_Chapter_12.pptx",
+      "sha256": "736cab006fdd23ba6e2daa4a14a366a5c8b3ad2a189789b0ac0d65af502af352",
+      "bytes": 410059267,
+      "slides": 80
+    },
+    {
+      "filename": "From_Experience_to_Memory_Learning_and_Memory_Chapter_13.pptx",
+      "original_path": "chapters/C13/From_Experience_to_Memory_Learning_and_Memory_Chapter_13.pptx",
+      "sha256": "1479aa5049ca005acfab0ad92dbe7b0324975a955baefb4aa3bb95f86a1acb39",
+      "bytes": 204817371,
+      "slides": 80
+    },
+    {
+      "filename": "From_Words_to_Meaning_Human_Communication_Chapter_14.pptx",
+      "original_path": "chapters/C14/From_Words_to_Meaning_Human_Communication_Chapter_14.pptx",
+      "sha256": "6e8fb1777f35f9a85f2a463f44c927776425020c1c09300c8c9ffc2be404cb22",
+      "bytes": 893714988,
+      "slides": 80
+    },
+    {
+      "filename": "Building_the_Brain_Developing_Nervous_System_Chapter_15.pptx",
+      "original_path": "chapters/C15/Building_the_Brain_Developing_Nervous_System_Chapter_15.pptx",
+      "sha256": "db4777639ecd43382e11a573184b184f321a5d7bec10eca1c59ad463c4551afb",
+      "bytes": 400840812,
+      "slides": 80
+    },
+    {
+      "filename": "Brain_Injury_in_Football_CTE.pptx",
+      "original_path": "downloads/Brain_Injury_in_Football_CTE.pptx",
+      "sha256": "22f9351d8e02ed724d049a524c5138e36505c9ab3b271e5c8808b7e978044aa1",
+      "bytes": 1295263019,
+      "slides": 80
+    },
+    {
+      "filename": "Chapter_16_Neurological_Disorders.pptx",
+      "original_path": "downloads/Chapter_16_Neurological_Disorders.pptx",
+      "sha256": "bf0b6d42578644d5adcdc1f9dde971083c8a28180761a4c95c919bb36da86cbd",
+      "bytes": 495774631,
+      "slides": 80
+    },
+    {
+      "filename": "Chapter_17_Schizophrenia_and_Affective_Disorders.pptx",
+      "original_path": "downloads/Chapter_17_Schizophrenia_and_Affective_Disorders.pptx",
+      "sha256": "e79b2b6ddbacc08aaef829dc5bdb89b6caa4368e2bf834b23726f70a034331a4",
+      "bytes": 364101701,
+      "slides": 80
+    },
+    {
+      "filename": "Chapter_18_Stress_and_Anxiety_Disorders.pptx",
+      "original_path": "downloads/Chapter_18_Stress_and_Anxiety_Disorders.pptx",
+      "sha256": "3c9993a0ba17d3e356ee928e8e8e1425fe958590fb967bc779c62f674de1b38a",
+      "bytes": 581602038,
+      "slides": 80
+    },
+    {
+      "filename": "Chapter_19_Substance_Abuse.pptx",
+      "original_path": "downloads/Chapter_19_Substance_Abuse.pptx",
+      "sha256": "d891f7be2653a8d1a6b09875b967d9a09dcce7ece741547c3b3f7d178ca2e551",
+      "bytes": 335158960,
+      "slides": 80
+    },
+    {
+      "filename": "Football_Memory_Mental_Health_and_CTE.pptx",
+      "original_path": "downloads/Football_Memory_Mental_Health_and_CTE.pptx",
+      "sha256": "0104aa58cb091de2c85b9e366cd84e39f08d1eea84b2456f527d10af1ff0783a",
+      "bytes": 1144046257,
+      "slides": 80
+    }
+  ]
+}
