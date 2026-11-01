@@ -1,0 +1,628 @@
+{
+  "turns": 77,
+  "missing_turns": [],
+  "capture_method": "Visible conversation DOM saved through Edge Save Page; no hidden app state",
+  "sources": {
+    "0": {
+      "snapshot": "Rewrite_For_Readability_top.html",
+      "characters": 2951,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "1": {
+      "snapshot": "Rewrite_For_Readability_top.html",
+      "characters": 4065,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "2": {
+      "snapshot": "Rewrite_For_Readability_top.html",
+      "characters": 1093,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "3": {
+      "snapshot": "Rewrite_For_Readability_top.html",
+      "characters": 5214,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "4": {
+      "snapshot": "Rewrite_For_Readability_top.html",
+      "characters": 475,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "5": {
+      "snapshot": "Rewrite_For_Readability_top.html",
+      "characters": 485,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "6": {
+      "snapshot": "Rewrite_For_Readability_top.html",
+      "characters": 488,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "7": {
+      "snapshot": "section_22.html",
+      "characters": 6455,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "8": {
+      "snapshot": "section_22.html",
+      "characters": 566,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "9": {
+      "snapshot": "section_22.html",
+      "characters": 738,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "10": {
+      "snapshot": "section_22.html",
+      "characters": 1004,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "11": {
+      "snapshot": "section_22.html",
+      "characters": 3851,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "12": {
+      "snapshot": "section_19.html",
+      "characters": 371,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "13": {
+      "snapshot": "section_19.html",
+      "characters": 305,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "14": {
+      "snapshot": "section_18.html",
+      "characters": 76294,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "15": {
+      "snapshot": "section_14.html",
+      "characters": 1406,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "16": {
+      "snapshot": "section_14.html",
+      "characters": 4356,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "17": {
+      "snapshot": "section_13.html",
+      "characters": 43607,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "18": {
+      "snapshot": "section_13.html",
+      "characters": 4777,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "19": {
+      "snapshot": "section_13.html",
+      "characters": 2701,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "20": {
+      "snapshot": "section_13.html",
+      "characters": 2318,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "21": {
+      "snapshot": "section_13.html",
+      "characters": 805,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "22": {
+      "snapshot": "section_13.html",
+      "characters": 1003,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "23": {
+      "snapshot": "gap_capture.html",
+      "characters": 838,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "24": {
+      "snapshot": "gap_capture.html",
+      "characters": 1016,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "25": {
+      "snapshot": "gap_capture.html",
+      "characters": 811,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "26": {
+      "snapshot": "gap_capture.html",
+      "characters": 833,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "27": {
+      "snapshot": "gap_capture.html",
+      "characters": 4024,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "28": {
+      "snapshot": "gap_capture.html",
+      "characters": 1041,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "29": {
+      "snapshot": "gap_capture.html",
+      "characters": 2489,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "30": {
+      "snapshot": "section_11.html",
+      "characters": 1096,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "31": {
+      "snapshot": "section_11.html",
+      "characters": 872,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "32": {
+      "snapshot": "section_11.html",
+      "characters": 764,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "33": {
+      "snapshot": "section_11.html",
+      "characters": 2378,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "34": {
+      "snapshot": "section_10.html",
+      "characters": 2176,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "35": {
+      "snapshot": "section_10.html",
+      "characters": 647,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "36": {
+      "snapshot": "Rewrite_For_Readability_middle.html",
+      "characters": 780,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "37": {
+      "snapshot": "Rewrite_For_Readability_middle.html",
+      "characters": 847,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "38": {
+      "snapshot": "Rewrite_For_Readability_middle.html",
+      "characters": 4755,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "39": {
+      "snapshot": "Rewrite_For_Readability_middle.html",
+      "characters": 978,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "40": {
+      "snapshot": "Rewrite_For_Readability_middle.html",
+      "characters": 904,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "41": {
+      "snapshot": "section_09.html",
+      "characters": 480,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "42": {
+      "snapshot": "section_08.html",
+      "characters": 997,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "43": {
+      "snapshot": "section_08.html",
+      "characters": 751,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "44": {
+      "snapshot": "section_08.html",
+      "characters": 5924,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "45": {
+      "snapshot": "section_08.html",
+      "characters": 1358,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "46": {
+      "snapshot": "section_08.html",
+      "characters": 3132,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "47": {
+      "snapshot": "section_07.html",
+      "characters": 2985,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "48": {
+      "snapshot": "section_07.html",
+      "characters": 548,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "49": {
+      "snapshot": "section_07.html",
+      "characters": 1270,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "50": {
+      "snapshot": "section_07.html",
+      "characters": 1267,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "51": {
+      "snapshot": "section_07.html",
+      "characters": 2717,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "52": {
+      "snapshot": "section_07.html",
+      "characters": 8484,
+      "roles": [
+        "user",
+        "user",
+        "assistant"
+      ]
+    },
+    "53": {
+      "snapshot": "section_07.html",
+      "characters": 438,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "54": {
+      "snapshot": "section_06.html",
+      "characters": 1588,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "55": {
+      "snapshot": "section_06.html",
+      "characters": 1136,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "56": {
+      "snapshot": "section_05.html",
+      "characters": 709,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "57": {
+      "snapshot": "section_04.html",
+      "characters": 3443,
+      "roles": [
+        "user",
+        "user",
+        "user",
+        "assistant"
+      ]
+    },
+    "58": {
+      "snapshot": "section_04.html",
+      "characters": 12525,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "59": {
+      "snapshot": "section_04.html",
+      "characters": 2571,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "60": {
+      "snapshot": "section_04.html",
+      "characters": 701,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "61": {
+      "snapshot": "section_04.html",
+      "characters": 1531,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "62": {
+      "snapshot": "section_03.html",
+      "characters": 1362,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "63": {
+      "snapshot": "section_03.html",
+      "characters": 2629,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "64": {
+      "snapshot": "section_03.html",
+      "characters": 1081,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "65": {
+      "snapshot": "section_03.html",
+      "characters": 1470,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "66": {
+      "snapshot": "section_03.html",
+      "characters": 1487,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "67": {
+      "snapshot": "section_03.html",
+      "characters": 1239,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "68": {
+      "snapshot": "section_01.html",
+      "characters": 4156,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "69": {
+      "snapshot": "section_01.html",
+      "characters": 7334,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "70": {
+      "snapshot": "Rewrite_For_Readability_bottom.html",
+      "characters": 1843,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "71": {
+      "snapshot": "Rewrite_For_Readability_bottom.html",
+      "characters": 598,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "72": {
+      "snapshot": "Rewrite_For_Readability_bottom.html",
+      "characters": 3834,
+      "roles": [
+        "user",
+        "user",
+        "user",
+        "assistant"
+      ]
+    },
+    "73": {
+      "snapshot": "Rewrite_For_Readability_bottom.html",
+      "characters": 2986,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "74": {
+      "snapshot": "Rewrite_For_Readability_bottom.html",
+      "characters": 1230,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "75": {
+      "snapshot": "Rewrite_For_Readability_bottom.html",
+      "characters": 962,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    },
+    "76": {
+      "snapshot": "Rewrite_For_Readability_bottom.html",
+      "characters": 1231,
+      "roles": [
+        "user",
+        "assistant"
+      ]
+    }
+  }
+}

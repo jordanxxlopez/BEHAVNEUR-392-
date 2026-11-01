@@ -1,5 +1,23 @@
 # Lemon — Rewrite for Readability (2026-10-31)
 
+**Latest capture: [actual displayed conversation and recovered files](browser_capture/README.md).**
+
+- [Read the Markdown conversation](browser_capture/conversation/EDGE_CONVERSATION.md): all 77 displayed turn groups, captured from Edge.
+- [Read the HTML conversation](browser_capture/conversation/EDGE_CONVERSATION.html).
+- [Original conversation PDF](browser_capture/conversation/Rewrite%20For%20Readability.pdf).
+- [Recovered original attachments and extracted previews](browser_capture/attachments/).
+- [Recovery audit and remaining gaps](browser_capture/verification/RECOVERY_AUDIT.json).
+
+**Still incomplete:** some collapsed prompt cards and historical file variants remain unrecovered; the original remote working directory and private reasoning are unavailable. See [capture scope](browser_capture/README.md). Cherry remains separate and unchanged.
+
+---
+
+## Earlier archive record
+
+The following records the archive before the browser capture and is retained as history. Its request for a transcript export is partly superseded by the direct displayed-message capture above.
+
+# Lemon — Rewrite for Readability (2026-10-31)
+
 **This is the Lemon archive of the ChatGPT conversation titled “Rewrite for Readability.”** It is separate from Cherry and does not rename or overwrite Cherry.
 
 ## Archive contents

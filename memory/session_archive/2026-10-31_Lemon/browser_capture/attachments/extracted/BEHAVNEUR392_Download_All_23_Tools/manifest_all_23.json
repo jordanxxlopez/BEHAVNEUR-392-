@@ -1,0 +1,209 @@
+[
+  {
+    "lecture_id": "01",
+    "title": "From Brain to Behavior: Foundations and Frontiers - History Expanded",
+    "github_pdf_path": "chapters/C01/history_revision/From_Brain_to_Behavior_Foundations_and_Frontiers_History_Expanded_Static.pdf",
+    "output_pdf": "01_From_Brain_to_Behavior_Foundations_and_Frontiers_History_Expanded.pdf",
+    "github_pdf_url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C01/history_revision/From_Brain_to_Behavior_Foundations_and_Frontiers_History_Expanded_Static.pdf",
+    "github_file_page": "https://github.com/jordanxxlopez/BEHAVNEUR-392-/blob/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C01/history_revision/From_Brain_to_Behavior_Foundations_and_Frontiers_History_Expanded_Static.pdf",
+    "source_kind": "static full-slide PDF companion"
+  },
+  {
+    "lecture_id": "02",
+    "title": "How Nerve Cells Work",
+    "github_pdf_path": "chapters/C02/How_Nerve_Cells_Work_Chapter_2_Static.pdf",
+    "output_pdf": "02_How_Nerve_Cells_Work.pdf",
+    "github_pdf_url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C02/How_Nerve_Cells_Work_Chapter_2_Static.pdf",
+    "github_file_page": "https://github.com/jordanxxlopez/BEHAVNEUR-392-/blob/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C02/How_Nerve_Cells_Work_Chapter_2_Static.pdf",
+    "source_kind": "static full-slide PDF companion"
+  },
+  {
+    "lecture_id": "03",
+    "title": "Mapping the Nervous System",
+    "github_pdf_path": "chapters/C03/Mapping_the_Nervous_System_Chapter_3_Static.pdf",
+    "output_pdf": "03_Mapping_the_Nervous_System.pdf",
+    "github_pdf_url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C03/Mapping_the_Nervous_System_Chapter_3_Static.pdf",
+    "github_file_page": "https://github.com/jordanxxlopez/BEHAVNEUR-392-/blob/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C03/Mapping_the_Nervous_System_Chapter_3_Static.pdf",
+    "source_kind": "static full-slide PDF companion"
+  },
+  {
+    "lecture_id": "04",
+    "title": "Chemical Control of Behavior",
+    "github_pdf_path": "chapters/C04/Chemical_Control_of_Behavior_Chapter_4_Static.pdf",
+    "output_pdf": "04_Chemical_Control_of_Behavior.pdf",
+    "github_pdf_url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C04/Chemical_Control_of_Behavior_Chapter_4_Static.pdf",
+    "github_file_page": "https://github.com/jordanxxlopez/BEHAVNEUR-392-/blob/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C04/Chemical_Control_of_Behavior_Chapter_4_Static.pdf",
+    "source_kind": "static full-slide PDF companion"
+  },
+  {
+    "lecture_id": "05",
+    "title": "Reading and Rewriting the Brain",
+    "github_pdf_path": "chapters/C05/Reading_and_Rewriting_the_Brain_Chapter_5_Static.pdf",
+    "output_pdf": "05_Reading_and_Rewriting_the_Brain.pdf",
+    "github_pdf_url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C05/Reading_and_Rewriting_the_Brain_Chapter_5_Static.pdf",
+    "github_file_page": "https://github.com/jordanxxlopez/BEHAVNEUR-392-/blob/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C05/Reading_and_Rewriting_the_Brain_Chapter_5_Static.pdf",
+    "source_kind": "static full-slide PDF companion"
+  },
+  {
+    "lecture_id": "06",
+    "title": "From Light to Sight",
+    "github_pdf_path": "chapters/C06/From_Light_to_Sight_Chapter_6_Static.pdf",
+    "output_pdf": "06_From_Light_to_Sight.pdf",
+    "github_pdf_url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C06/From_Light_to_Sight_Chapter_6_Static.pdf",
+    "github_file_page": "https://github.com/jordanxxlopez/BEHAVNEUR-392-/blob/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C06/From_Light_to_Sight_Chapter_6_Static.pdf",
+    "source_kind": "static full-slide PDF companion"
+  },
+  {
+    "lecture_id": "07",
+    "title": "Sensing the Body and Chemical World",
+    "github_pdf_path": "chapters/C07/Sensing_the_Body_and_the_Chemical_World_Chapter_7_Static.pdf",
+    "output_pdf": "07_Sensing_the_Body_and_Chemical_World.pdf",
+    "github_pdf_url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C07/Sensing_the_Body_and_the_Chemical_World_Chapter_7_Static.pdf",
+    "github_file_page": "https://github.com/jordanxxlopez/BEHAVNEUR-392-/blob/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C07/Sensing_the_Body_and_the_Chemical_World_Chapter_7_Static.pdf",
+    "source_kind": "static full-slide PDF companion"
+  },
+  {
+    "lecture_id": "07A",
+    "title": "Peripheral Auditory System",
+    "github_pdf_path": "chapters/C07/Audition1/From_Sound_to_Neural_Signals_Peripheral_Auditory_System_Part_I_Static.pdf",
+    "output_pdf": "07A_Peripheral_Auditory_System.pdf",
+    "github_pdf_url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C07/Audition1/From_Sound_to_Neural_Signals_Peripheral_Auditory_System_Part_I_Static.pdf",
+    "github_file_page": "https://github.com/jordanxxlopez/BEHAVNEUR-392-/blob/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C07/Audition1/From_Sound_to_Neural_Signals_Peripheral_Auditory_System_Part_I_Static.pdf",
+    "source_kind": "static full-slide PDF companion"
+  },
+  {
+    "lecture_id": "07B",
+    "title": "Central Auditory System",
+    "github_pdf_path": "chapters/C07_Audition2/The_Listening_Brain_Central_Auditory_System_Static.pdf",
+    "output_pdf": "07B_Central_Auditory_System.pdf",
+    "github_pdf_url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C07_Audition2/The_Listening_Brain_Central_Auditory_System_Static.pdf",
+    "github_file_page": "https://github.com/jordanxxlopez/BEHAVNEUR-392-/blob/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C07_Audition2/The_Listening_Brain_Central_Auditory_System_Static.pdf",
+    "source_kind": "static full-slide PDF companion"
+  },
+  {
+    "lecture_id": "08",
+    "title": "Neural Control of Movement",
+    "github_pdf_path": "chapters/C08/From_Intention_to_Action_Control_of_Movement_Chapter_8_Static.pdf",
+    "output_pdf": "08_Neural_Control_of_Movement.pdf",
+    "github_pdf_url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C08/From_Intention_to_Action_Control_of_Movement_Chapter_8_Static.pdf",
+    "github_file_page": "https://github.com/jordanxxlopez/BEHAVNEUR-392-/blob/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C08/From_Intention_to_Action_Control_of_Movement_Chapter_8_Static.pdf",
+    "source_kind": "static full-slide PDF companion"
+  },
+  {
+    "lecture_id": "09",
+    "title": "Sleep and Biological Rhythms",
+    "github_pdf_path": "chapters/C09/The_Rhythmic_Brain_Sleep_and_Biological_Rhythms_Static.pdf",
+    "output_pdf": "09_Sleep_and_Biological_Rhythms.pdf",
+    "github_pdf_url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C09/The_Rhythmic_Brain_Sleep_and_Biological_Rhythms_Static.pdf",
+    "github_file_page": "https://github.com/jordanxxlopez/BEHAVNEUR-392-/blob/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C09/The_Rhythmic_Brain_Sleep_and_Biological_Rhythms_Static.pdf",
+    "source_kind": "static full-slide PDF companion"
+  },
+  {
+    "lecture_id": "10",
+    "title": "Reproduction and Parenting",
+    "github_pdf_path": "chapters/C10/From_Reproduction_to_Care_Chapter_10_Static.pdf",
+    "output_pdf": "10_Reproduction_and_Parenting.pdf",
+    "github_pdf_url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C10/From_Reproduction_to_Care_Chapter_10_Static.pdf",
+    "github_file_page": "https://github.com/jordanxxlopez/BEHAVNEUR-392-/blob/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C10/From_Reproduction_to_Care_Chapter_10_Static.pdf",
+    "source_kind": "static full-slide PDF companion"
+  },
+  {
+    "lecture_id": "11",
+    "title": "Emotion",
+    "github_pdf_path": "chapters/C11/Feeling_and_Acting_Emotion_Chapter_11_Static.pdf",
+    "output_pdf": "11_Emotion.pdf",
+    "github_pdf_url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C11/Feeling_and_Acting_Emotion_Chapter_11_Static.pdf",
+    "github_file_page": "https://github.com/jordanxxlopez/BEHAVNEUR-392-/blob/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C11/Feeling_and_Acting_Emotion_Chapter_11_Static.pdf",
+    "source_kind": "static full-slide PDF companion"
+  },
+  {
+    "lecture_id": "12",
+    "title": "Hunger, Thirst, and Satiety",
+    "github_pdf_path": "chapters/C12/Hunger_Thirst_and_Satiety_Ingestive_Behavior_Chapter_12_Static.pdf",
+    "output_pdf": "12_Hunger_Thirst_and_Satiety.pdf",
+    "github_pdf_url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C12/Hunger_Thirst_and_Satiety_Ingestive_Behavior_Chapter_12_Static.pdf",
+    "github_file_page": "https://github.com/jordanxxlopez/BEHAVNEUR-392-/blob/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C12/Hunger_Thirst_and_Satiety_Ingestive_Behavior_Chapter_12_Static.pdf",
+    "source_kind": "static full-slide PDF companion"
+  },
+  {
+    "lecture_id": "13",
+    "title": "Learning and Memory",
+    "github_pdf_path": "chapters/C13/From_Experience_to_Memory_Learning_and_Memory_Chapter_13_Static.pdf",
+    "output_pdf": "13_Learning_and_Memory.pdf",
+    "github_pdf_url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C13/From_Experience_to_Memory_Learning_and_Memory_Chapter_13_Static.pdf",
+    "github_file_page": "https://github.com/jordanxxlopez/BEHAVNEUR-392-/blob/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C13/From_Experience_to_Memory_Learning_and_Memory_Chapter_13_Static.pdf",
+    "source_kind": "static full-slide PDF companion"
+  },
+  {
+    "lecture_id": "14",
+    "title": "Human Communication",
+    "github_pdf_path": "chapters/C14/From_Words_to_Meaning_Human_Communication_Chapter_14_Static.pdf",
+    "output_pdf": "14_Human_Communication.pdf",
+    "github_pdf_url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C14/From_Words_to_Meaning_Human_Communication_Chapter_14_Static.pdf",
+    "github_file_page": "https://github.com/jordanxxlopez/BEHAVNEUR-392-/blob/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C14/From_Words_to_Meaning_Human_Communication_Chapter_14_Static.pdf",
+    "source_kind": "static full-slide PDF companion"
+  },
+  {
+    "lecture_id": "15",
+    "title": "Development and Neurodiversity",
+    "github_pdf_path": "chapters/C15/Building_the_Brain_Developing_Nervous_System_Chapter_15_Static.pdf",
+    "output_pdf": "15_Development_and_Neurodiversity.pdf",
+    "github_pdf_url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C15/Building_the_Brain_Developing_Nervous_System_Chapter_15_Static.pdf",
+    "github_file_page": "https://github.com/jordanxxlopez/BEHAVNEUR-392-/blob/b443ca5046590de25eaa2c18614166c2234b430c/chapters/C15/Building_the_Brain_Developing_Nervous_System_Chapter_15_Static.pdf",
+    "source_kind": "static full-slide PDF companion"
+  },
+  {
+    "lecture_id": "16",
+    "title": "Neurological Disorders",
+    "github_pdf_path": "downloads/Chapter_16_Layout_Preview.pdf",
+    "output_pdf": "16_Neurological_Disorders.pdf",
+    "github_pdf_url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/downloads/Chapter_16_Layout_Preview.pdf",
+    "github_file_page": "https://github.com/jordanxxlopez/BEHAVNEUR-392-/blob/b443ca5046590de25eaa2c18614166c2234b430c/downloads/Chapter_16_Layout_Preview.pdf",
+    "source_kind": "layout preview - verify page count"
+  },
+  {
+    "lecture_id": "17",
+    "title": "Schizophrenia and Affective Disorders",
+    "github_pdf_path": "downloads/Chapter_17_Layout_Preview.pdf",
+    "output_pdf": "17_Schizophrenia_and_Affective_Disorders.pdf",
+    "github_pdf_url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/downloads/Chapter_17_Layout_Preview.pdf",
+    "github_file_page": "https://github.com/jordanxxlopez/BEHAVNEUR-392-/blob/b443ca5046590de25eaa2c18614166c2234b430c/downloads/Chapter_17_Layout_Preview.pdf",
+    "source_kind": "layout preview - verify page count"
+  },
+  {
+    "lecture_id": "18",
+    "title": "Stress and Anxiety Disorders",
+    "github_pdf_path": "downloads/Chapter_18_Stress_and_Anxiety_Disorders_Static_Preview.pdf",
+    "output_pdf": "18_Stress_and_Anxiety_Disorders.pdf",
+    "github_pdf_url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/downloads/Chapter_18_Stress_and_Anxiety_Disorders_Static_Preview.pdf",
+    "github_file_page": "https://github.com/jordanxxlopez/BEHAVNEUR-392-/blob/b443ca5046590de25eaa2c18614166c2234b430c/downloads/Chapter_18_Stress_and_Anxiety_Disorders_Static_Preview.pdf",
+    "source_kind": "static full-slide PDF companion"
+  },
+  {
+    "lecture_id": "19",
+    "title": "Substance Abuse",
+    "github_pdf_path": "downloads/Chapter_19_Substance_Abuse_Static_Preview.pdf",
+    "output_pdf": "19_Substance_Abuse.pdf",
+    "github_pdf_url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/downloads/Chapter_19_Substance_Abuse_Static_Preview.pdf",
+    "github_file_page": "https://github.com/jordanxxlopez/BEHAVNEUR-392-/blob/b443ca5046590de25eaa2c18614166c2234b430c/downloads/Chapter_19_Substance_Abuse_Static_Preview.pdf",
+    "source_kind": "static full-slide PDF companion"
+  },
+  {
+    "lecture_id": "20",
+    "title": "Brain Injury in Football - Neurobiology of CTE",
+    "github_pdf_path": "downloads/Brain_Injury_in_Football_CTE_Static.pdf",
+    "output_pdf": "20_Brain_Injury_in_Football_Neurobiology_of_CTE.pdf",
+    "github_pdf_url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/downloads/Brain_Injury_in_Football_CTE_Static.pdf",
+    "github_file_page": "https://github.com/jordanxxlopez/BEHAVNEUR-392-/blob/b443ca5046590de25eaa2c18614166c2234b430c/downloads/Brain_Injury_in_Football_CTE_Static.pdf",
+    "source_kind": "static full-slide PDF companion"
+  },
+  {
+    "lecture_id": "21",
+    "title": "Football Memory Mental Health and CTE",
+    "github_pdf_path": "downloads/Football_Memory_Mental_Health_and_CTE_Static.pdf",
+    "output_pdf": "21_Football_Memory_Mental_Health_and_CTE.pdf",
+    "github_pdf_url": "https://raw.githubusercontent.com/jordanxxlopez/BEHAVNEUR-392-/b443ca5046590de25eaa2c18614166c2234b430c/downloads/Football_Memory_Mental_Health_and_CTE_Static.pdf",
+    "github_file_page": "https://github.com/jordanxxlopez/BEHAVNEUR-392-/blob/b443ca5046590de25eaa2c18614166c2234b430c/downloads/Football_Memory_Mental_Health_and_CTE_Static.pdf",
+    "source_kind": "static full-slide PDF companion"
+  }
+]
