@@ -1,0 +1,1081 @@
+{
+  "archive": "2026-10-31_Lemon",
+  "chat_name": "Rewrite for Readability",
+  "count": 179,
+  "files": [
+    {
+      "name": "Pasted text(20261027-220608).txt",
+      "file_id": "file_00000000c30081fd83fde439ab9b45c2",
+      "size_bytes": 13632,
+      "generated": null
+    },
+    {
+      "name": "Pasted text(20261027-221708).txt",
+      "file_id": "file_0000000008f081f591813311919399fb",
+      "size_bytes": 24294,
+      "generated": null
+    },
+    {
+      "name": "Pasted text(20261027-221938).txt",
+      "file_id": "file_00000000333481f8914a11d3ba3c0d70",
+      "size_bytes": 17508,
+      "generated": null
+    },
+    {
+      "name": "Pasted text(20261027-222045).txt",
+      "file_id": "file_00000000afdc82439a8ef24d15c6f497",
+      "size_bytes": 46761,
+      "generated": null
+    },
+    {
+      "name": "Pasted markdown(20261030-020052).md",
+      "file_id": "file_00000000cda481fd8f56d904a91e17cc",
+      "size_bytes": 33367,
+      "generated": null
+    },
+    {
+      "name": "Teaching_Note_Writer_Prompt_2_No_Lecture_References.md",
+      "file_id": "file_00000000e34481fdb5c6af9dfe08cc90",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "Teaching_Note_Writer_Prompt_2_Full_Updated.md",
+      "file_id": "file_000000008bb08230b20e2542e7162915",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "Teaching_Note_Writer_Prompt_2_Full_Updated.md",
+      "file_id": "file_000000003f8081fdba9400e6d9f9375d",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "Prompt_2_Teaching_Note_Writer_Updated.txt",
+      "file_id": "file_000000008c108230adc752d423647918",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "Prompt_1_Study_Studio_Updated.txt",
+      "file_id": "file_000000005d688230b0e09b37c1eea3cd",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "Prompt_2_Teaching_Note_Writer_Updated.txt",
+      "file_id": "file_0000000025c88230917b12c551fd4bfc",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "Prompt_3_Slide_by_Slide_Adapted_Updated.txt",
+      "file_id": "file_00000000b89081fd8e1c4532f326a4c9",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "Pasted text(20261030-021927).txt",
+      "file_id": "file_00000000af3081fd87271ce6c924055f",
+      "size_bytes": 85840,
+      "generated": null
+    },
+    {
+      "name": "Pasted text (2)(20261030-021951).txt",
+      "file_id": "file_00000000a09481fdbe93e1b1feb8147f",
+      "size_bytes": 55021,
+      "generated": null
+    },
+    {
+      "name": "Pasted text (3)(2).txt",
+      "file_id": "file_0000000010888243a3cbd5545a10fc39",
+      "size_bytes": 77682,
+      "generated": null
+    },
+    {
+      "name": "Pasted text (4).txt",
+      "file_id": "file_00000000cc8881f882492a7f69c79822",
+      "size_bytes": 34826,
+      "generated": null
+    },
+    {
+      "name": "Prompt_1_Study_Studio_Complete_With_Direct_Explanations.txt",
+      "file_id": "file_00000000393c82309014c2649a4d6021",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "Pasted text(20261030-030823).txt",
+      "file_id": "file_000000004ecc82308577a7e2974f8b88",
+      "size_bytes": 120019,
+      "generated": null
+    },
+    {
+      "name": "Pasted text (2)(20261030-030837).txt",
+      "file_id": "file_00000000138882308f7c458cc8b2df58",
+      "size_bytes": 68902,
+      "generated": null
+    },
+    {
+      "name": "Pasted text (3)(3).txt",
+      "file_id": "file_000000005f0c8230813fcc2104962aed",
+      "size_bytes": 58615,
+      "generated": null
+    },
+    {
+      "name": "Prompt_1_Study_Studio_Complete_Balanced_Length_Updated.txt",
+      "file_id": "file_000000000d0481fd877af526c539881d",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "Prompt_1_Study_Studio_Complete_With_Word_Count.txt",
+      "file_id": "file_00000000f95881fd9fdc0f8a7edc9ecd",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "Prompt_1_Study_Studio_Complete_Word_Count_Corrected.txt",
+      "file_id": "file_00000000945481fdb16cd5d184c38363",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "Prompt_1_Study_Studio_Complete_300_Word_Average_400_Max.txt",
+      "file_id": "file_000000000c608230a4ad174455b5c857",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "Prompt_1_Study_Studio_Complete_225_Average_350_Max.txt",
+      "file_id": "file_00000000e5a881fdb94d4d3447293e3e",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "Pasted text(20261030-065601).txt",
+      "file_id": "file_00000000fd6481fdbb297d7354a2b154",
+      "size_bytes": 67546,
+      "generated": null
+    },
+    {
+      "name": "Study_Studio_Complete_Natural_Experiments_225_Word_Target.txt",
+      "file_id": "file_0000000047bc81fda7e4e89b41307f22",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "Pasted text(20261030-070417).txt",
+      "file_id": "file_000000008b3081f594938069348c6087",
+      "size_bytes": 34812,
+      "generated": null
+    },
+    {
+      "name": "Prompt_2_Teaching_Notes_Natural_Experiment_Explanations_Full.txt",
+      "file_id": "file_0000000078b881fd9b06c703ed047c6b",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "Prompt_2_Study_Studio_Full_No_Word_Count.txt",
+      "file_id": "file_0000000078f4820ca9515b70f78ee242",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "Study_Studio_Complete_Natural_Experiments_225_Word_Target(1).txt",
+      "file_id": "file_00000000bcc4820e95a02565f9339d2b",
+      "size_bytes": 23855,
+      "generated": null
+    },
+    {
+      "name": "Study_Studio_Complete_Natural_Experiments_300_Word_Max.txt",
+      "file_id": "file_00000000c5b88230905d4665dfe34812",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "From Brain to Behavior_Foundations_Frontiers_History.pptx",
+      "file_id": "file_00000000a72c81fdad80848fd3f67bdf",
+      "size_bytes": 270747038,
+      "generated": null
+    },
+    {
+      "name": "How_Nerve_Cells_Work_Chapter_2 (1).pptx",
+      "file_id": "file_00000000c87c81f5ab3061e53a701250",
+      "size_bytes": 419397032,
+      "generated": null
+    },
+    {
+      "name": "From Brain to Behavior_Foundations_Frontiers_History.pdf",
+      "file_id": "file_000000001af482309bbfa60e3a31a540",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "C01_tmp.pdf",
+      "file_id": "file_000000007bd08230a99dc557e11882bf",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "01_From_Brain_to_Behavior_History_Expanded.pdf",
+      "file_id": "file_00000000dc5881fd8f03f1876e49f734",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "Mapping_the_Nervous_System_Chapter_3.pptx",
+      "file_id": "file_00000000c01081f6838738d45ff6d60d",
+      "size_bytes": 252616076,
+      "generated": null
+    },
+    {
+      "name": "From_Light_to_Sight_Chapter_6.pptx",
+      "file_id": "file_00000000ebc881fd830fbb9288f73667",
+      "size_bytes": 407602768,
+      "generated": null
+    },
+    {
+      "name": "Sensing_the_Body_and_the_Chemical_World_Chapter_7.pptx",
+      "file_id": "file_0000000010e481f49644bea69a282c2c",
+      "size_bytes": 255360958,
+      "generated": null
+    },
+    {
+      "name": "c01_slide3.png",
+      "file_id": "file_000000009acc81fda108dad1a1132277",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "user-Jpaa9LR6QKx46rCcIzPAYAfr/838ef5a97a0a49bcb3222c0a3c31d2b4/mnt/data/BEHAVNEUR392_work/c01_slide3.png",
+      "file_id": "file_000000004a0c8230882bc15bf7451084",
+      "size_bytes": 323738,
+      "generated": null
+    },
+    {
+      "name": "02_How_Nerve_Cells_Work.pdf",
+      "file_id": "file_0000000040b08230bef3a4fe027fe71b",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "03_Mapping_the_Nervous_System.pdf",
+      "file_id": "file_0000000024108230b2d2d769b92d369e",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "06_From_Light_to_Sight.pdf",
+      "file_id": "file_000000000af48230a6ef52830850e47a",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "Sensing_the_Body_and_the_Chemical_World_Chapter_7.pdf",
+      "file_id": "file_000000002ba081fd910d970b7c055457",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "07_Sensing_the_Body_and_Chemical_World.pdf",
+      "file_id": "file_00000000f75082308770bbb300dc7436",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_5_Available_Lecture_PDFs_PARTIAL.zip",
+      "file_id": "file_000000003ac481fd8272f58da0c87b94",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Download_All_23_Tools.zip",
+      "file_id": "file_00000000cecc81fdba2f7a42ad90b63b",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "manifest_all_23.csv",
+      "file_id": "file_0000000051c882308f2e540b9a5b82bb",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_5_Available_Lecture_PDFs_PARTIAL.zip",
+      "file_id": "file_0000000069b081fd97c0f26b53789bb2",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Download_All_23_Tools.zip",
+      "file_id": "file_000000003d6481fd96edd2592f7cc913",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_All_23_Lectures_PDFs.zip",
+      "file_id": "file_000000006ea08230a729a25e2be449b3",
+      "size_bytes": 271151472,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Download_All_23_Tools(2).zip",
+      "file_id": "file_00000000a52c8230aaf5e86e6d44f3a6",
+      "size_bytes": 6504,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_All_Creation_Rules_and_History.zip",
+      "file_id": "file_0000000096308230b21ab3bfa751860b",
+      "size_bytes": 360450,
+      "generated": null
+    },
+    {
+      "name": "Pasted text(20261101-021309).txt",
+      "file_id": "file_0000000029c082309dc9cc4e8d62f545",
+      "size_bytes": 34700,
+      "generated": null
+    },
+    {
+      "name": "layout_samples.png",
+      "file_id": "file_000000000e6481fdbcec042736d74b41",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "user-Jpaa9LR6QKx46rCcIzPAYAfr/35611bdbc4bc46c898b2a98085bae322/mnt/data/BEHAVNEUR392_review/layout_samples.png",
+      "file_id": "file_00000000e42481fdb8b3884afef27ca4",
+      "size_bytes": 745672,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Slide_Layout_Examples.pdf",
+      "file_id": "file_00000000c8488230b254b1373876880d",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "slide3_original.png",
+      "file_id": "file_000000009bd481fda2103fcfcaa905a9",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "slide6_original.png",
+      "file_id": "file_00000000a0908230b0f7fbcb3a9530ba",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "slide7_original.png",
+      "file_id": "file_0000000046cc81fda82a1af487e47804",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "user-Jpaa9LR6QKx46rCcIzPAYAfr/35611bdbc4bc46c898b2a98085bae322/mnt/data/slide6_original.png",
+      "file_id": "file_00000000b38c81fdb94a4e3f7eee0038",
+      "size_bytes": 379947,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Version_A_Subbullets.png",
+      "file_id": "file_00000000c44c82309ab70907064b3ab3",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Version_B_Three_Paragraphs.png",
+      "file_id": "file_000000001d3881fdb29a435eb4fa1900",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Versions_A_vs_B_Comparison.png",
+      "file_id": "file_00000000411081fd88b92b900e293289",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Version_A_Subbullets.png",
+      "file_id": "file_0000000066b4823099765a43990e044c",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Version_B_Three_Paragraphs.png",
+      "file_id": "file_00000000538081fda0e4f563a2201530",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Versions_A_vs_B_Comparison.png",
+      "file_id": "file_000000004a7881fd8026936d03087dcb",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "user-Jpaa9LR6QKx46rCcIzPAYAfr/35611bdbc4bc46c898b2a98085bae322/mnt/data/BEHAVNEUR392_Versions_A_vs_B_Comparison.png",
+      "file_id": "file_000000008f3c81fdbc48e80549de83bf",
+      "size_bytes": 492919,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Version_A_Subbullets.png",
+      "file_id": "file_0000000084e4823084f1158cc43284e3",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Version_B_Three_Paragraphs.png",
+      "file_id": "file_0000000019c08230ae3d5cee6d68fa80",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Versions_A_vs_B_Comparison.png",
+      "file_id": "file_00000000f6b08230a1f177935f745b78",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "user-Jpaa9LR6QKx46rCcIzPAYAfr/35611bdbc4bc46c898b2a98085bae322/mnt/data/BEHAVNEUR392_Version_B_Three_Paragraphs.png",
+      "file_id": "file_00000000bbac82309fd4abd83d4b169d",
+      "size_bytes": 333994,
+      "generated": null
+    },
+    {
+      "name": "user-Jpaa9LR6QKx46rCcIzPAYAfr/35611bdbc4bc46c898b2a98085bae322/mnt/data/BEHAVNEUR392_Version_A_Subbullets.png",
+      "file_id": "file_00000000e5d881fda7ddec0c511f7222",
+      "size_bytes": 324471,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Version_A_Subbullets.png",
+      "file_id": "file_00000000e67881fdad03c9e769d8f3ec",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Version_B_Three_Paragraphs.png",
+      "file_id": "file_000000000ce881fd9c712ac5e67fe954",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Versions_A_vs_B_Comparison.png",
+      "file_id": "file_00000000d8bc81fdbd189b4241506fd6",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "user-Jpaa9LR6QKx46rCcIzPAYAfr/35611bdbc4bc46c898b2a98085bae322/mnt/data/slide6_original.png",
+      "file_id": "file_00000000e08c8230a0e069a2a398f27b",
+      "size_bytes": 379947,
+      "generated": null
+    },
+    {
+      "name": "user-Jpaa9LR6QKx46rCcIzPAYAfr/35611bdbc4bc46c898b2a98085bae322/mnt/data/slide6_original.png",
+      "file_id": "file_00000000299081fdaf785a0ba0bbc1ec",
+      "size_bytes": 379947,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt_4_Teaching_Text_Revision.md",
+      "file_id": "file_00000000c25c81fd9814fc62f96fee48",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt4_A_B_Comparison.png",
+      "file_id": "file_00000000795081fdaeb2c2648566fb11",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt4_Version_A_Teaching_Bullets.png",
+      "file_id": "file_00000000bdd081fd827af793f691a929",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt4_Version_B_Teaching_Paragraphs.png",
+      "file_id": "file_0000000029988230b0e87c7df7973970",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "user-Jpaa9LR6QKx46rCcIzPAYAfr/35611bdbc4bc46c898b2a98085bae322/mnt/data/BEHAVNEUR392_Prompt4_A_B_Comparison.png",
+      "file_id": "file_000000000b8481fdba921189d4c8a25f",
+      "size_bytes": 516291,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt4_A_B_Comparison.png",
+      "file_id": "file_000000009e0881fd956fdcf1c74aa85c",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt4_Version_A_Teaching_Bullets.png",
+      "file_id": "file_00000000c3d0823099db0b64817f260e",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt4_Version_B_Teaching_Paragraphs.png",
+      "file_id": "file_00000000b02081fdb2799fb43a1feda8",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "user-Jpaa9LR6QKx46rCcIzPAYAfr/35611bdbc4bc46c898b2a98085bae322/mnt/data/BEHAVNEUR392_Prompt4_A_B_Comparison.png",
+      "file_id": "file_00000000d8188230983d42b46604ee2c",
+      "size_bytes": 501044,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt4_A_B_Comparison.png",
+      "file_id": "file_00000000d5488230916bae0bca3c1c29",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt4_Version_A_Teaching_Bullets.png",
+      "file_id": "file_00000000092082309ceb1ef0324da2ab",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt4_Version_B_Teaching_Paragraphs.png",
+      "file_id": "file_0000000054808230a220f20838584d0e",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt_4_Teaching_Text_Revision.txt",
+      "file_id": "file_00000000831081fd9897fd8db00255e7",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt_4_Teaching_Text_Revision.md",
+      "file_id": "file_00000000ecd481fda60030d2898a7119",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "user-Jpaa9LR6QKx46rCcIzPAYAfr/35611bdbc4bc46c898b2a98085bae322/mnt/data/slide6_original.png",
+      "file_id": "file_00000000a6488230a6134dcf6a8575b8",
+      "size_bytes": 379947,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt_4_Final_Teaching_Text_Revision.md",
+      "file_id": "file_00000000002c81fd89460e4658c39077",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt_4_Final_Teaching_Text_Revision.txt",
+      "file_id": "file_00000000ef748230be12f1705be2ce6f",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt_4_Final_Teaching_Text_Revision.txt",
+      "file_id": "file_000000003d588230bae3721c7700f435",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "user-Jpaa9LR6QKx46rCcIzPAYAfr/35611bdbc4bc46c898b2a98085bae322/mnt/data/BEHAVNEUR392_Prompt4_A_B_Comparison.png",
+      "file_id": "file_00000000657881fd9b941427b9ddfe54",
+      "size_bytes": 501044,
+      "generated": null
+    },
+    {
+      "name": "user-Jpaa9LR6QKx46rCcIzPAYAfr/35611bdbc4bc46c898b2a98085bae322/mnt/data/slide6_original.png",
+      "file_id": "file_00000000ef808230bbec8eeff968cb00",
+      "size_bytes": 379947,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_17_Line_Version_A_Preview.png",
+      "file_id": "file_0000000048e481fda2e1cb7b5dac0471",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_18_Line_Version_B_Preview.png",
+      "file_id": "file_00000000301481fda06c122187072b28",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Line_Count_Comparison_17_vs_18.png",
+      "file_id": "file_000000005a1882308993a3c8e23ddcf5",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "user-Jpaa9LR6QKx46rCcIzPAYAfr/35611bdbc4bc46c898b2a98085bae322/mnt/data/BEHAVNEUR392_Line_Count_Comparison_17_vs_18.png",
+      "file_id": "file_000000006d3c81fda86255f76a57d2e9",
+      "size_bytes": 512569,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Spacing_Previews_Direct_Download.zip",
+      "file_id": "file_00000000765c823080cc3f5c7211b389",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt_4_Final_Teaching_Text_Revision(1).md",
+      "file_id": "file_00000000dfd481fd917cfd0a4858354d",
+      "size_bytes": 23835,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt4_A_B_Comparison.png",
+      "file_id": "file_0000000047e081fd9152a08ad6535d0a",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Smaller_Font_AB_Comparison.png",
+      "file_id": "file_00000000a5e08230aee6c109e33e06e3",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Smaller_Font_Previews_Download.zip",
+      "file_id": "file_00000000123c8230bbb862adbf895063",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Smaller_Font_Version_A.png",
+      "file_id": "file_0000000095a88230b5c6ca77375ab539",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Smaller_Font_Version_B.png",
+      "file_id": "file_000000006a5481fda6d8cb426a63f2db",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "user-Jpaa9LR6QKx46rCcIzPAYAfr/35611bdbc4bc46c898b2a98085bae322/mnt/data/BEHAVNEUR392_Smaller_Font_AB_Comparison.png",
+      "file_id": "file_00000000ba788230a409857959ceffc8",
+      "size_bytes": 480816,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Expanded_Smaller_A.png",
+      "file_id": "file_00000000b7fc8230adc8e8a01719c3c5",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Expanded_Smaller_B.png",
+      "file_id": "file_00000000ef5081fd8d8d936a2d0f1103",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Expanded_Smaller_Comparison.png",
+      "file_id": "file_00000000442081fd8406c5d6dd713bf0",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Expanded_Smaller_Previews.zip",
+      "file_id": "file_000000000d04823081cc308610b9752b",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Expanded_Smaller_A.png",
+      "file_id": "file_0000000066708230bf41f1d923696f0b",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Expanded_Smaller_B.png",
+      "file_id": "file_0000000070e881fda87702af6fade480",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Expanded_Smaller_Comparison.png",
+      "file_id": "file_0000000039ac81fda45e66b3c4885969",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Expanded_Smaller_Previews.zip",
+      "file_id": "file_0000000069e082308aa54cc7d934a062",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "user-Jpaa9LR6QKx46rCcIzPAYAfr/35611bdbc4bc46c898b2a98085bae322/mnt/data/BEHAVNEUR392_Expanded_Smaller_Comparison.png",
+      "file_id": "file_00000000375481fda773d4d13cbca3b1",
+      "size_bytes": 484651,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Expanded_Smaller_Comparison.png",
+      "file_id": "file_00000000634c8230b7c5ecfc9684d69f",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Expanded_Smaller_Previews.zip",
+      "file_id": "file_00000000b068823099302c7c141db556",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "user-Jpaa9LR6QKx46rCcIzPAYAfr/35611bdbc4bc46c898b2a98085bae322/mnt/data/slide6_original.png",
+      "file_id": "file_00000000f408823092333d4aa41b81f6",
+      "size_bytes": 379947,
+      "generated": null
+    },
+    {
+      "name": "user-Jpaa9LR6QKx46rCcIzPAYAfr/35611bdbc4bc46c898b2a98085bae322/mnt/data/BEHAVNEUR392_Expanded_Smaller_A.png",
+      "file_id": "file_00000000d08881fdab4eea610184be3e",
+      "size_bytes": 316659,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Version_A_More_Bullets.png",
+      "file_id": "file_00000000ace481fd992bf409c3aa484e",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Version_A_More_Bullets_Comparison.png",
+      "file_id": "file_00000000c65482308f319c3136268ef8",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "user-Jpaa9LR6QKx46rCcIzPAYAfr/35611bdbc4bc46c898b2a98085bae322/mnt/data/BEHAVNEUR392_Version_A_More_Bullets.png",
+      "file_id": "file_00000000b51c8230b570d1f48c4d7bb8",
+      "size_bytes": 378724,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Version_A_More_Bullets_Clean.png",
+      "file_id": "file_0000000061b881fd97cb50006b3e2331",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Version_A_More_Bullets_Clean_Comparison.png",
+      "file_id": "file_000000003c4c81fda80cf9d3ba91022e",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Version_A_More_Bullets_Preview.zip",
+      "file_id": "file_000000002ba081fd8a6f634cb37ba735",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "user-Jpaa9LR6QKx46rCcIzPAYAfr/35611bdbc4bc46c898b2a98085bae322/mnt/data/BEHAVNEUR392_Version_A_More_Bullets_Clean.png",
+      "file_id": "file_0000000036588230a2edae3ccab7d103",
+      "size_bytes": 365327,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Version_A_More_Bullets_Clean2.png",
+      "file_id": "file_00000000fcc081fd932b2570e849d913",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Version_A_More_Bullets_Preview.zip",
+      "file_id": "file_00000000d52c82309afae4a972c08398",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "user-Jpaa9LR6QKx46rCcIzPAYAfr/35611bdbc4bc46c898b2a98085bae322/mnt/data/BEHAVNEUR392_Version_A_More_Bullets_Clean2.png",
+      "file_id": "file_00000000998c82309dc19358d84ab2b5",
+      "size_bytes": 355798,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Version_A_More_Bullets_Final.png",
+      "file_id": "file_00000000205c82309ecf76865a775d94",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Version_A_More_Bullets_Final_Comparison.png",
+      "file_id": "file_0000000050bc81fd84ab42d5e27f5f58",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Version_A_More_Bullets_Preview.zip",
+      "file_id": "file_0000000052e4823086c88efac09127e1",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "user-Jpaa9LR6QKx46rCcIzPAYAfr/35611bdbc4bc46c898b2a98085bae322/mnt/data/BEHAVNEUR392_Version_A_More_Bullets_Final.png",
+      "file_id": "file_0000000089c8823082a57902eb0fe96e",
+      "size_bytes": 358806,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Version_A_More_Bullets_Final.png",
+      "file_id": "file_00000000eaac81fd82241a86f5126040",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Version_A_More_Bullets_Final_Comparison.png",
+      "file_id": "file_0000000030dc823099c3bea18d3e985a",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Version_A_More_Bullets_Preview.zip",
+      "file_id": "file_0000000091c88230ad8404db995b022f",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "user-Jpaa9LR6QKx46rCcIzPAYAfr/35611bdbc4bc46c898b2a98085bae322/mnt/data/BEHAVNEUR392_Version_A_More_Bullets_Final.png",
+      "file_id": "file_000000006a0082309ffa6038446dcbb1",
+      "size_bytes": 341949,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Version_A_More_Bullets_Preview.zip",
+      "file_id": "file_00000000d26081fd9336d79b3622813f",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt4_Font_Spacing_A_B_Preview.pdf",
+      "file_id": "file_0000000014dc823096ff178f93febed4",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt4_Font_Spacing_Preview.zip",
+      "file_id": "file_00000000d6148230a6c128b4736abc9b",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt4_Version_A_28_27px.png",
+      "file_id": "file_000000006ad48230af707f74ef44c46c",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt4_Version_B_28px.png",
+      "file_id": "file_00000000f2608230801b0663d6b699c0",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt4_Font_Spacing_A_B_Preview.pdf",
+      "file_id": "file_00000000bbb481fd8c80ffafec610003",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt4_Font_Spacing_Preview.zip",
+      "file_id": "file_00000000eef0823096e256c373ac0ed5",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt4_Version_A_28_27px.png",
+      "file_id": "file_000000005e9882309cd5377cad4d212b",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt4_Version_B_28px.png",
+      "file_id": "file_00000000d76c8230b615b974c8546b66",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt4_Font_Spacing_A_B_Preview.pdf",
+      "file_id": "file_000000005ac08230b20f24763cb11773",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt4_Font_Spacing_Preview.zip",
+      "file_id": "file_0000000071a081fda8be1835ed0dae45",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt4_Version_A_28_27px.png",
+      "file_id": "file_0000000000d081fdb0dc3b6df2d8b150",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt4_Version_B_28px.png",
+      "file_id": "file_000000006bbc81fd92e1c224c0104b66",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "user-Jpaa9LR6QKx46rCcIzPAYAfr/35611bdbc4bc46c898b2a98085bae322/mnt/data/BEHAVNEUR392_Prompt4_Version_A_28_27px.png",
+      "file_id": "file_000000009bac82309c3fd29032e2440c",
+      "size_bytes": 380529,
+      "generated": null
+    },
+    {
+      "name": "user-Jpaa9LR6QKx46rCcIzPAYAfr/35611bdbc4bc46c898b2a98085bae322/mnt/data/BEHAVNEUR392_Prompt4_Version_A_28_27px.png",
+      "file_id": "file_00000000badc81fd889a7476a152f0db",
+      "size_bytes": 365099,
+      "generated": null
+    },
+    {
+      "name": "user-Jpaa9LR6QKx46rCcIzPAYAfr/35611bdbc4bc46c898b2a98085bae322/mnt/data/BEHAVNEUR392_Prompt4_Version_B_28px.png",
+      "file_id": "file_00000000152881fd837c4f3a8c4e082e",
+      "size_bytes": 350596,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt4_Font_Spacing_A_B_Preview.pdf",
+      "file_id": "file_00000000d3cc8230b17970ad1a3df931",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt4_Font_Spacing_Preview.zip",
+      "file_id": "file_000000006e9881fd8858d1380996172c",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt4_Font_Spacing_A_B_Preview(1).pdf",
+      "file_id": "file_00000000139881fdba8e6b24a3dc333f",
+      "size_bytes": 430851,
+      "generated": null
+    },
+    {
+      "name": "user-Jpaa9LR6QKx46rCcIzPAYAfr/35611bdbc4bc46c898b2a98085bae322/mnt/data/BEHAVNEUR392_Original_Arial_Smaller_A.png",
+      "file_id": "file_00000000364c8230933b860a5773c560",
+      "size_bytes": 402801,
+      "generated": null
+    },
+    {
+      "name": "user-Jpaa9LR6QKx46rCcIzPAYAfr/35611bdbc4bc46c898b2a98085bae322/mnt/data/BEHAVNEUR392_Original_Arial_Smaller_B.png",
+      "file_id": "file_00000000f1488230adbbc18fdf47ae32",
+      "size_bytes": 424795,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Original_Arial_Smaller_A.png",
+      "file_id": "file_0000000040fc8230a05db31b0e32d351",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Original_Arial_Smaller_B.png",
+      "file_id": "file_00000000655481fd9bff178aee6482ed",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Original_Arial_Smaller_Font_More_Teaching.pdf",
+      "file_id": "file_00000000a0e481fd9c391d9742dc7e1f",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Original_Font_Expanded_Teaching_Previews.zip",
+      "file_id": "file_0000000097a881fdb8e498beb39854bc",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Original_Arial_Smaller_A.png",
+      "file_id": "file_00000000f5ac8230a172e0e4676de898",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Original_Arial_Smaller_B.png",
+      "file_id": "file_00000000449c8230ad292225ba38128f",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Original_Arial_Smaller_Font_More_Teaching.pdf",
+      "file_id": "file_000000009cd08230bf54d9c4e1fd74f5",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Original_Font_Expanded_Teaching_Previews.zip",
+      "file_id": "file_00000000b7108230856ab68505b2d9ba",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "user-Jpaa9LR6QKx46rCcIzPAYAfr/35611bdbc4bc46c898b2a98085bae322/mnt/data/BEHAVNEUR392_Original_Arial_Smaller_A.png",
+      "file_id": "file_00000000ae648230a63ba09a7c8696ae",
+      "size_bytes": 418524,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Original_Font_A_B_Side_by_Side.png",
+      "file_id": "file_00000000262481fdb442b3d3497157ca",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Original_Font_Expanded_Teaching_Previews.zip",
+      "file_id": "file_00000000d56881fd950448fae419e651",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt_5_Direct_Download.zip",
+      "file_id": "file_00000000df4081fd8817d2f527bc4388",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt_5_Final_Teaching_Text_Revision.md",
+      "file_id": "file_000000007f6481fd8f215df24b9fee64",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "BEHAVNEUR392_Prompt_5_Final_Teaching_Text_Revision.txt",
+      "file_id": "file_00000000476481fdb5359d3093d62d41",
+      "size_bytes": null,
+      "generated": null
+    },
+    {
+      "name": "Screenshot 2026-10-31 at 8.44.47 PM.png",
+      "file_id": "file_0000000032ac81fd9a83f53958c201ae",
+      "size_bytes": 24264,
+      "generated": null
+    }
+  ]
+}

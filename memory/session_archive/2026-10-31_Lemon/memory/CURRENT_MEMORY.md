@@ -1,0 +1,14 @@
+# Lemon: continuation memory for “Rewrite for Readability” (October 31, 2026)
+
+1. User's final requested work is editing the **23 latest approved native video-embedded BEHAVNEUR 392 PPTXs**. Only the existing three teaching-paragraph text may be revised; preserve all video/audio bytes, figures, diagrams, images, citations, titles (except rare necessary correction), footer, slide order, theme and layout.
+2. Create **two independent versions per master**: A = substantive teaching bullets with nested teaching sub-bullets, B = three connected, natural teaching paragraphs. The eventual total would be 46 PowerPoints. **No originals were rewritten in this conversation**.
+3. Each teaching slide should have **one single editable body-text box**, containing the whole structured explanation; no floating separate bullet text boxes.
+4. Teaching should be direct, detailed, experimentally accurate, readable aloud, like the user's latest Prompts 1–3. No slideshow narration, references to previous/next slides, generic conclusions, padding, research-summary filler or unnecessary limitations.
+5. Increase **meaningful bolding** of genuinely central scientific terms, structures and causal relationships, not indiscriminate bolding.
+6. Original Chapter 2 native PPTX uses **Arial 15 pt**. User insisted original font family must be retained, rejecting early raster mockups labeled in px. Latest approved example allowed a modest font size reduction to about **14 pt for main text and 13.5 pt for nested sub-bullets**, producing ~24 Version A lines/~22 Version B lines, **with more actual neuroscience teaching** in the freed whitespace. These numbers are an example, not a universal requirement.
+7. Version A should be allowed meaningful additional sub-bullets where justified, and Version B keep three paragraphs. Preserve scientific meaning, not a rigid numerical quota.
+8. User approved the latest source-faithful Arial example and requested **Prompt 5**, identical to the approved full Prompt 4 except for the approved typography and fuller text-density revisions.
+9. Final Prompt 5 is stored verbatim in `../prompts/`. TXT and MD are **two formats of the same prompt**, not two different prompts.
+10. The user prefers downloads that trigger Edge’s download UI instead of opening a ChatGPT sidebar; ZIP files were used as practical wrappers.
+11. PDF archive provided by user contains 23 full PDFs, 1,867 pages; original lesson-rule archive contains 210 source snapshots. PDFs are static; final PPTXs preserve actual video.
+12. This session archive is called **2026-10-31_Lemon**, separate from **2026-10-31_Cherry**. User asked to save the whole chat, assets, scripts, working-directory records and even internal thinking. **Private internal reasoning cannot be exported as a raw trace**; a high-level account of decisions is included instead.
